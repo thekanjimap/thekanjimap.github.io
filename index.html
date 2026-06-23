@@ -31,7 +31,48 @@
         <div id="infoContent"></div>
     </div>
     <div id="graph-container"></div>
+    <div class="error-modal-overlay" id="errorModalOverlay">
+        <div class="error-box" id="errorBox">
+            <div class="error-inner-circle" id="errorInnerCircle">
+                <svg viewBox="0 0 24 24" width="22" height="22" stroke="#D32F2F" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" id="errorIcon">
+                    <path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"></path>
+                    <line x1="12" y1="9" x2="12" y2="13"></line>
+                    <line x1="12" y1="17" x2="12.01" y2="17"></line>
+                </svg>
+                <svg viewBox="0 0 24 24" width="20" height="20" stroke="#2E7D32" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" id="successIcon">
+                    <path d="M14 9V5a3 3 0 0 0-3-3l-4 9v11h11.28a2 2 0 0 0 2-1.7l1.38-9a2 2 0 0 0-2-2.3zM7 22H4a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2h3"></path>
+                </svg>
+                <div class="error-title-text" id="errorTitleText">Báo cáo lỗi</div>
+            </div>
+            <div class="error-content" id="errorContent">
+                <div class="error-form-group">
+                    <label>Từ khóa bị lỗi (nếu có):</label>
+                    <input type="text" id="errorKeyword" readonly style="background-color: #f0f0f0;">
+                </div>
+                <div class="error-form-group">
+                    <label>Vấn đề bạn gặp phải là gì?</label>
+                    <select id="errorSelect">
+                        <option value="" disabled selected>-- Chọn vấn đề hoặc tự nhập --</option>
+                        <option value="Sai nghĩa từ vựng">Sai nghĩa từ vựng</option>
+                        <option value="Cách đọc (Onyomi/Kunyomi) bị sai">Cách đọc bị sai</option>
+                        <option value="Thiếu từ ghép liên quan">Thiếu từ ghép liên quan</option>
+                        <option value="Đồ thị bị lỗi/không bung ra">Đồ thị bị lỗi/không bung ra</option>
+                        <option value="Trang web bị giật/lag">Trang web bị giật/lag</option>
+                    </select>
+                </div>
+                <div class="error-form-group">
+                    <label>Mô tả chi tiết (không bắt buộc):</label>
+                    <textarea id="errorDetails" placeholder="Nhập thêm chi tiết..."></textarea>
+                </div>
+                <div class="error-modal-actions">
+                    <button class="btn-cancel" onclick="closeErrorModal()">Hủy</button>
+                    <button class="btn-submit" onclick="submitError()">Gửi</button>
+                </div>
+            </div>
+        </div>
+    </div>
     <div id="wordTooltip" class="word-tooltip"></div>
+    <div id="visitCounter" class="visit-counter">Lượt truy cập: -- | --</div>
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <script src="script.js"></script>
 </body>
