@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Kanji Map</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="circle-container" id="circleBox">
+        <img src="images/doraemon.gif" id="doraemonGif">
+    </div>
+    <div class="search-container" id="searchContainer">
+        <div class="search-box" id="searchBox">
+            <div class="search-inner-circle" id="searchInnerCircle">
+                <svg viewBox="0 0 24 24" width="22" height="22" stroke="#333" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" id="magnifierIcon">
+                    <circle cx="8.5" cy="8.5" r="5"></circle>
+                    <line x1="12" y1="12" x2="19" y2="19"></line>
+                </svg>
+            </div>
+            <input type="text" class="search-input" id="searchInput" placeholder="Nhập Kanji cần tra..." maxlength="10">
+            <button class="close-btn" id="closeBtn">✕</button>
+        </div>
+        <div class="vocab-drop-container" id="vocabDropContainer">
+            <button class="vocab-btn" id="vocabBtn">Mở rộng từ vựng</button>
+            <div class="vocab-list" id="vocabList"></div>
+        </div>
+    </div>
+    <div class="app-title" id="appTitle">THE KANJI MAP</div>
+        <div class="info-box" id="infoBox">
+        <div id="infoContent"></div>
+    </div>
+    <div id="graph-container"></div>
+    <div id="wordTooltip" class="word-tooltip"></div>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
