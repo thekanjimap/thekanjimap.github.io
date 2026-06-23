@@ -29,6 +29,7 @@ document.addEventListener("DOMContentLoaded", function() {
                         setTimeout(function() {
                             document.getElementById("graph-container").classList.add("show");
                             document.getElementById("appTitle").classList.add("show");
+                            document.getElementById("visitCounter").classList.add("show");
                             renderKanjiGraph(sampleData);
                             setupSearchHandlers();
                         }, 300);
@@ -38,6 +39,9 @@ document.addEventListener("DOMContentLoaded", function() {
 
         }, 1000);
     }, gifDuration);
+    
+    pingTracker();
+    setInterval(pingTracker, 300000);
 });
 
 function setupSearchHandlers() {
@@ -54,8 +58,6 @@ function setupSearchHandlers() {
         searchBox.classList.add("searching");
         searchBox.classList.remove("loaded");
         searchInput.blur();
-
-        // Hiển thị loading spinner
         searchInnerCircle.innerHTML = '';
         const spinner = document.createElementNS("http://www.w3.org/2000/svg", "svg");
         spinner.setAttribute("viewBox", "0 0 50 50");
@@ -76,7 +78,7 @@ function setupSearchHandlers() {
         spinner.appendChild(circle);
         searchInnerCircle.appendChild(spinner);
 
-        buildKanjiTreeFromMazii(keyword).then(searchData => {
+        constructNodeTree(keyword).then(searchData => {
             if (searchData && searchData.nodes.length > 0) {
                 document.getElementById("graph-container").innerHTML = "";
                 renderKanjiGraph(searchData, keyword);
@@ -115,6 +117,7 @@ function setupSearchHandlers() {
 
         document.getElementById("vocabBtn").classList.remove("show-drop", "active");
         document.getElementById("vocabList").classList.remove("step1-width", "step2-height");
+        document.getElementById("vocabList").style.maxHeight = null;
         setTimeout(() => {
             document.getElementById("vocabDropContainer").style.display = "none";
         }, 400);
@@ -161,6 +164,7 @@ function setupSearchHandlers() {
         if (vocabList.classList.contains("step1-width")) {
             vocabBtn.classList.remove("active");
             vocabList.classList.remove("step2-height");
+            vocabList.style.maxHeight = null;
             setTimeout(() => {
                 vocabList.classList.remove("step1-width");
             }, 200);
@@ -171,25 +175,34 @@ function setupSearchHandlers() {
     });
 }
 
-window.maziiWordCache = window.maziiWordCache || {};
+window.dataSourceCache = window.dataSourceCache || {};
 window.wordDetailsCache = window.wordDetailsCache || {};
+const DATA_ENDPOINT = atob("aHR0cHM6Ly9tYXppaS5uZXQvYXBpL3NlYXJjaA==");
 
-async function getRelatedWordsMazii(query, excludeWords = [], allFetchedWordsSet = null) {
+async function fetchNodeData(query, excludeWords = [], allFetchedWordsSet = null) {
     let results = [];
+    const endpoint = DATA_ENDPOINT;
     
-    if (window.maziiWordCache[query]) {
-        results = window.maziiWordCache[query];
+    if (window.dataSourceCache[query]) {
+        results = window.dataSourceCache[query];
     } else {
         try {
-            const res = await fetch("https://mazii.net/api/search", {
+            const controller = new AbortController();
+            const timeoutId = setTimeout(() => controller.abort(), 6000);
+            
+            const res = await fetch(endpoint, {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
-                body: JSON.stringify({ dict: "javi", type: "word", query: query, limit: 40 })
+                body: JSON.stringify({ dict: "javi", type: "word", query: query, limit: 40 }),
+                signal: controller.signal
             });
+            clearTimeout(timeoutId);
+            
             const json = await res.json();
             results = json.data || json.results || [];
-            window.maziiWordCache[query] = results;
+            window.dataSourceCache[query] = results;
         } catch (e) {
+            logErrorToServer(query, "Loi API fetchNodeData (Timeout 504)");
             return [];
         }
     }
@@ -224,7 +237,7 @@ async function getRelatedWordsMazii(query, excludeWords = [], allFetchedWordsSet
     return wordsForGraph;
 }
 
-async function buildKanjiTreeFromMazii(rootKeyword) {
+async function constructNodeTree(rootKeyword) {
     const nodes = [];
     const links = [];
     const allFetchedWordsSet = new Set();
@@ -241,27 +254,35 @@ async function buildKanjiTreeFromMazii(rootKeyword) {
 
     const rootId = addNode(rootKeyword, 0);
 
-    const children = await getRelatedWordsMazii(rootKeyword, [rootKeyword], allFetchedWordsSet);
+    const children = await fetchNodeData(rootKeyword, [rootKeyword], allFetchedWordsSet);
 
     children.forEach(childWord => {
         globalGraphWords.add(childWord);
     });
 
+    const childDataList = [];
     for (const childWord of children) {
         const childId = idCounter.toString();
         nodes.push({ id: childId, kanji: childWord, level: 1 });
-        idCounter++;
-        
         links.push({ source: rootId, target: childId });
-
-        const excludeForGrandchild = Array.from(globalGraphWords);
-        const grandChildren = await getRelatedWordsMazii(childWord, excludeForGrandchild, allFetchedWordsSet);
-
-        grandChildren.forEach(grandChildWord => {
-            const grandChildId = addNode(grandChildWord, 2);
-            links.push({ source: childId, target: grandChildId });
-        });
+        idCounter++;
+        childDataList.push({ childWord, childId });
     }
+
+    const grandChildrenPromises = childDataList.map(async (data) => {
+        const excludeForGrandchild = Array.from(globalGraphWords);
+        const grandChildren = await fetchNodeData(data.childWord, excludeForGrandchild, allFetchedWordsSet);
+        return { childId: data.childId, grandChildren };
+    });
+
+    const grandChildrenResults = await Promise.all(grandChildrenPromises);
+
+    grandChildrenResults.forEach(result => {
+        result.grandChildren.forEach(grandChildWord => {
+            const grandChildId = addNode(grandChildWord, 2);
+            links.push({ source: result.childId, target: grandChildId });
+        });
+    });
 
     window.currentVocabList = Array.from(allFetchedWordsSet).filter(word => !globalGraphWords.has(word));
 
@@ -488,7 +509,9 @@ function fetchKanjiInfo(kanji) {
             return;
         }
 
-        const wordPromise = fetch("https://mazii.net/api/search", {
+        const endpoint = DATA_ENDPOINT;
+        
+        const wordPromise = fetch(endpoint, {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({ dict: "javi", type: "word", query: kanji })
@@ -497,7 +520,7 @@ function fetchKanjiInfo(kanji) {
         const kanjiChars = kanji.match(/[\u4e00-\u9faf]/g) || [];
         
         const kanjiPromises = kanjiChars.map(k => 
-            fetch("https://mazii.net/api/search", {
+            fetch(endpoint, {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify({ dict: "javi", type: "kanji", query: k })
@@ -569,7 +592,14 @@ function fetchKanjiInfo(kanji) {
 
             const finalHtml = `
                 <div style="padding: 20px; font-family: sans-serif; color: #333; position: relative;">
-                    <button onclick="document.getElementById('infoBox').className='info-box'" style="position: absolute; right: 15px; top: 15px; border: none; background: none; font-size: 18px; cursor: pointer; color: #888;">✕</button>
+                    <button onclick="document.getElementById('infoBox').className='info-box'" style="position: absolute; right: 15px; top: 15px; border: none; background: none; font-size: 18px; cursor: pointer; color: #888;" title="Đóng">✕</button>
+                    <button onclick="openErrorModal('${kanji}')" style="position: absolute; right: 45px; top: 16px; border: none; background: none; cursor: pointer;" title="Báo cáo lỗi">
+                        <svg viewBox="0 0 24 24" width="18" height="18" stroke="#888" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"></path>
+                            <line x1="12" y1="9" x2="12" y2="13"></line>
+                            <line x1="12" y1="17" x2="12.01" y2="17"></line>
+                        </svg>
+                    </button>
                     <h3 style="margin: 0 0 5px 0; font-size: 28px; color: #37474F;">${kanji}</h3>
                     <p style="margin: 0 0 15px 0; font-size: 16px; color: #D32F2F;">【 ${cachDoc} 】</p>
                     <p style="margin: 8px 0; font-size: 15px; line-height: 1.5; max-height: 80px; overflow-y: auto;"><strong>Nghĩa:</strong> ${nghiaWord}</p>
@@ -586,9 +616,17 @@ function fetchKanjiInfo(kanji) {
             infoBox.classList.add("step3-height");
         })
         .catch(error => {
+            logErrorToServer(kanji, "Loi API fetchKanjiInfo (Bang chi tiet)");
             infoContent.innerHTML = `
                 <div style="padding: 20px; font-family: sans-serif; color: #333; position: relative;">
-                    <button onclick="document.getElementById('infoBox').className='info-box'" style="position: absolute; right: 15px; top: 15px; border: none; background: none; font-size: 18px; cursor: pointer; color: #888;">✕</button>
+                    <button onclick="document.getElementById('infoBox').className='info-box'" style="position: absolute; right: 15px; top: 15px; border: none; background: none; font-size: 18px; cursor: pointer; color: #888;" title="Đóng">✕</button>
+                    <button onclick="openErrorModal('${kanji}')" style="position: absolute; right: 45px; top: 16px; border: none; background: none; cursor: pointer;" title="Báo cáo lỗi">
+                        <svg viewBox="0 0 24 24" width="18" height="18" stroke="#888" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"></path>
+                            <line x1="12" y1="9" x2="12" y2="13"></line>
+                            <line x1="12" y1="17" x2="12.01" y2="17"></line>
+                        </svg>
+                    </button>
                     <h3 style="margin: 0 0 15px 0; font-size: 28px; color: #37474F;">${kanji}</h3>
                     <p style="margin: 8px 0; font-size: 15px; color: red;">Lỗi kết nối API. Vui lòng thử lại.</p>
                 </div>
@@ -671,4 +709,232 @@ function hideTooltip() {
     if (tooltip) {
         tooltip.classList.remove("visible");
     }
+}
+const TRACKING_ENDPOINT = atob("aHR0cHM6Ly9zY3JpcHQuZ29vZ2xlLmNvbS9tYWNyb3Mvcy9BS2Z5Y2J3SF9qLUMxMEJPR3c0bzRsRXZfNFQyZlpNaUNBOHFiSXJ2aUhfbi1YaUZGdFJyaXVsRXRNS1d1di1rNDRiQXZFemcvZXhlYw==");
+
+function getSessionId() {
+    let id = sessionStorage.getItem("kanji_session_id");
+    if (!id) {
+        id = "sess_" + Math.random().toString(36).substr(2, 9);
+        sessionStorage.setItem("kanji_session_id", id);
+    }
+    return id;
+}
+
+function pingTracker() {
+    const sessionId = getSessionId();
+    fetch(TRACKING_ENDPOINT + "?action=ping&id=" + sessionId)
+        .then(res => res.json())
+        .then(data => {
+            if(data.x !== undefined && data.y !== undefined) {
+                document.getElementById("visitCounter").textContent = "Lượt truy cập: " + data.x + " | " + data.y;
+            }
+        })
+        .catch(() => {});
+}
+function logErrorToServer(keyword, errorType) {
+    const userAgent = navigator.userAgent;
+    const url = TRACKING_ENDPOINT + "?action=error&keyword=" + encodeURIComponent(keyword) + "&error_type=" + encodeURIComponent(errorType) + "&user_agent=" + encodeURIComponent(userAgent);
+    
+    fetch(url, { mode: 'no-cors' }).catch(() => {});
+}
+function openErrorModal(keyword = "") {
+    document.getElementById("errorKeyword").value = keyword || "Không có từ khóa cụ thể";
+    document.getElementById("errorSelect").value = "";
+    document.getElementById("errorDetails").value = "";
+    
+    const title = document.getElementById("errorTitleText");
+    title.textContent = "Báo cáo lỗi";
+    title.style.color = "#D32F2F";
+    title.style.opacity = "";
+
+    const overlay = document.getElementById("errorModalOverlay");
+    const box = document.getElementById("errorBox");
+    const innerCircle = document.getElementById("errorInnerCircle");
+
+    innerCircle.classList.remove("success-mode");
+    innerCircle.style.backgroundColor = "#fce4e4";
+    
+    box.className = "error-box";
+    innerCircle.className = "error-inner-circle";
+    overlay.classList.add("show");
+
+    setTimeout(() => {
+        box.classList.add("step1-circle");
+        
+        setTimeout(() => {
+            document.getElementById("errorIcon").classList.add("spin");
+            
+            setTimeout(() => {
+                box.classList.add("step2-width");
+                innerCircle.classList.add("expand");
+                
+                setTimeout(() => {
+                    box.classList.add("step3-height");
+                }, 400); 
+            }, 600); 
+        }, 300);
+    }, 50);
+}
+
+function closeErrorModal() {
+    const overlay = document.getElementById("errorModalOverlay");
+    const box = document.getElementById("errorBox");
+    const innerCircle = document.getElementById("errorInnerCircle");
+    const title = document.getElementById("errorTitleText");
+
+    box.classList.remove("step3-height");
+
+    setTimeout(() => {
+        title.style.opacity = "0"; 
+        
+        setTimeout(() => {
+            box.classList.remove("step2-width");
+            innerCircle.classList.remove("expand");
+            document.getElementById("errorIcon").classList.remove("spin"); 
+
+            setTimeout(() => {
+                box.classList.remove("step1-circle");
+
+                setTimeout(() => {
+                    overlay.classList.remove("show");
+                }, 300);
+            }, 400);
+        }, 150); 
+    }, 400);
+}
+
+function submitError() {
+    const keyword = document.getElementById("errorKeyword").value;
+    const errorType = document.getElementById("errorSelect").value;
+    const details = document.getElementById("errorDetails").value.trim();
+    
+    let finalError = "";
+    if (errorType) {
+        finalError = errorType;
+        if (details !== "") finalError += " - Chi tiết: " + details;
+    } else {
+        if (details !== "") {
+            finalError = "Chi tiết: " + details;
+        } else {
+            alert("Vui lòng chọn hoặc nhập chi tiết lỗi!");
+            return;
+        }
+    }
+    
+    logErrorToServer(keyword, finalError);
+    
+    const box = document.getElementById("errorBox");
+    const title = document.getElementById("errorTitleText");
+    const innerCircle = document.getElementById("errorInnerCircle");
+
+    box.classList.remove("step3-height"); 
+    
+    setTimeout(() => {
+        innerCircle.classList.add("success-mode");
+        innerCircle.style.backgroundColor = "#e8f5e9";
+        title.textContent = "Báo cáo thành công";
+        title.style.color = "#2E7D32"; 
+        
+        setTimeout(() => {
+            title.style.opacity = "0";
+            
+            setTimeout(() => {
+                box.classList.remove("step2-width"); 
+                innerCircle.classList.remove("expand");
+                
+                setTimeout(() => {
+                    box.classList.remove("step1-circle"); 
+                    setTimeout(() => {
+                        document.getElementById("errorModalOverlay").classList.remove("show");
+                    }, 300);
+                }, 400);
+            }, 150);
+        }, 1500); 
+    }, 400);
+}
+
+document.addEventListener("click", function(event) {
+    const infoBox = document.getElementById("infoBox");
+    const vocabBtn = document.getElementById("vocabBtn");
+    const vocabList = document.getElementById("vocabList");
+
+    let isInfoOpen = false;
+    let isVocabOpen = false;
+
+    if (infoBox && infoBox.classList.contains("step1-circle")) {
+        isInfoOpen = true;
+    }
+
+    if (vocabList && vocabList.classList.contains("step1-width")) {
+        isVocabOpen = true;
+    }
+
+    let isClickInsideInfo = false;
+    if (isInfoOpen && (infoBox.contains(event.target) || event.target.closest(".node") || event.target.closest(".vocab-item"))) {
+        isClickInsideInfo = true;
+    }
+
+    let isClickInsideVocab = false;
+    if ((vocabBtn && vocabBtn.contains(event.target)) || (vocabList && vocabList.contains(event.target))) {
+        isClickInsideVocab = true;
+    }
+
+    if (!isClickInsideInfo && !isClickInsideVocab) {
+        if (isInfoOpen && isVocabOpen) {
+            infoBox.className = "info-box";
+        } else if (isInfoOpen && !isVocabOpen) {
+            infoBox.className = "info-box";
+        } else if (!isInfoOpen && isVocabOpen) {
+            vocabBtn.classList.remove("active");
+            vocabList.classList.remove("step2-height");
+            vocabList.style.maxHeight = null; 
+            setTimeout(() => {
+                vocabList.classList.remove("step1-width");
+            }, 200);
+        }
+    }
+
+    if (vocabBtn && vocabBtn.contains(event.target)) {
+        setTimeout(() => {
+            const vocabDrop = document.getElementById("vocabDropContainer");
+            if (vocabBtn.classList.contains("active") && vocabDrop && vocabList) {
+                const dropRect = vocabDrop.getBoundingClientRect();
+                const availableHeight = window.innerHeight - (dropRect.top + 120) - 15;
+                vocabList.style.maxHeight = availableHeight + "px";
+            } else if (vocabList) {
+                vocabList.style.maxHeight = null;
+            }
+        }, 50);
+    }
+});
+
+const infoBoxEl = document.getElementById("infoBox");
+if (infoBoxEl && window.ResizeObserver) {
+    const resizeObserver = new ResizeObserver(() => {
+        const vocabDrop = document.getElementById("vocabDropContainer");
+        const vocabBtn = document.getElementById("vocabBtn");
+        const vocabList = document.getElementById("vocabList");
+        
+        if (vocabDrop) {
+            if (window.innerWidth <= 768) {
+                if (infoBoxEl.classList.contains("step1-circle")) {
+                    const newTop = infoBoxEl.offsetTop + infoBoxEl.offsetHeight + 10;
+                    vocabDrop.style.top = newTop + "px";
+                } else {
+                    vocabDrop.style.top = "85px";
+                }
+                vocabDrop.style.left = "20px";
+            } else {
+                vocabDrop.style.top = "85px";
+                vocabDrop.style.left = "0px";
+            }
+        }
+        if (vocabBtn && vocabBtn.classList.contains("active") && vocabList) {
+            const dropRect = vocabDrop.getBoundingClientRect();
+            const availableHeight = window.innerHeight - dropRect.top - 120;
+            vocabList.style.maxHeight = availableHeight + "px";
+        }
+    });
+    resizeObserver.observe(infoBoxEl);
 }
