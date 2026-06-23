@@ -292,7 +292,7 @@ body {
 .info-box {
     position: absolute;
     right: 35px;
-    top: 80px; /* Nằm ngay dưới chữ DORAEMON */
+    top: 80px;
     width: 50px;
     max-height: 50px;
     background-color: #FFFFFF;
@@ -300,7 +300,6 @@ body {
     box-shadow: 0 4px 15px rgba(0,0,0,0.05);
     opacity: 0;
     overflow: hidden;
-    /* Hiệu ứng nở mượt mà */
     transition: width 0.5s cubic-bezier(0.25, 1, 0.5, 1), 
                 max-height 0.5s cubic-bezier(0.25, 1, 0.5, 1),
                 opacity 0.3s ease, border-radius 0.5s ease;
@@ -308,21 +307,18 @@ body {
     z-index: 20;
 }
 
-/* Bước 1: Hiện hình tròn */
 .info-box.step1-circle {
     opacity: 1;
     pointer-events: auto;
 }
 
-/* Bước 2: Nở chiều rộng (do right cố định nên nó sẽ đẩy sang trái) */
 .info-box.step2-width {
     width: 320px;
 }
 
-/* Bước 3: Nở chiều dọc theo nội dung */
 .info-box.step3-height {
-    max-height: 600px; /* Đủ rộng để chứa nội dung API */
-    border-radius: 15px; /* Giảm độ bo góc cho giống thẻ bài */
+    max-height: 600px;
+    border-radius: 15px;
 }
 .kanji-tabs-container {
     margin-top: 15px;
@@ -383,7 +379,8 @@ body {
     top: 85px;
     left: 0px; 
     display: none;
-    z-index: 9;
+    z-index: 30;
+    transition: top 0.4s cubic-bezier(0.25, 1, 0.5, 1);
 }
 
 .vocab-btn {
@@ -506,4 +503,138 @@ body {
 
 .node text, .vocab-item {
     cursor: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12"><circle cx="6" cy="6" r="4" fill="%23D32F2F"/></svg>') 6 6, auto !important;
+}
+@media (max-width: 768px) {
+    .visit-counter {
+        display: none !important;
+    }
+}
+.visit-counter {
+    position: fixed;
+    bottom: 15px;
+    right: 20px;
+    font-family: sans-serif;
+    font-size: 12px;
+    color: #888;
+    z-index: 100;
+    pointer-events: none;
+    letter-spacing: 0.5px;
+    opacity: 0;
+    transition: opacity 1.5s ease;
+}
+
+.visit-counter.show {
+    opacity: 1;
+}
+.error-modal-overlay {
+    position: fixed; top: 0; left: 0; width: 100vw; height: 100vh;
+    background-color: rgba(0, 0, 0, 0.4);
+    display: flex; justify-content: center; align-items: center;
+    z-index: 9999;
+    opacity: 0; pointer-events: none;
+    transition: opacity 0.3s ease;
+    font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
+.error-modal-overlay.show {
+    opacity: 1; pointer-events: auto;
+}
+
+.error-box {
+    background: #fff;
+    width: 0px; height: 0px;
+    border-radius: 25px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+    overflow: hidden; opacity: 0; position: relative;
+    transform: translateY(0);
+    transition: width 0.4s cubic-bezier(0.25, 1, 0.5, 1),
+                height 0.4s cubic-bezier(0.25, 1, 0.5, 1),
+                border-radius 0.4s ease, opacity 0.2s ease,
+                transform 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+}
+
+.error-box.step1-circle { width: 50px; height: 50px; opacity: 1; }
+.error-box.step2-width { width: 320px; height: 50px; }
+.error-box.step3-height { height: 350px; border-radius: 15px; transform: translateY(-20px); }
+
+.error-inner-circle {
+    position: absolute; left: 7px; top: 7px;
+    width: 36px; height: 36px;
+    background-color: #fce4e4;
+    border-radius: 25px;
+    display: flex; justify-content: center; align-items: center;
+    opacity: 0; overflow: hidden;
+    transition: width 0.4s cubic-bezier(0.25, 1, 0.5, 1),
+                left 0.4s cubic-bezier(0.25, 1, 0.5, 1),
+                top 0.4s cubic-bezier(0.25, 1, 0.5, 1),
+                background-color 0.3s ease;
+}
+.error-box.step1-circle .error-inner-circle { opacity: 1; }
+.error-box.step3-height .error-inner-circle {
+    top: 15px; 
+}
+.error-inner-circle.expand { width: 290px; left: 15px; }
+
+#errorIcon, #successIcon {
+    position: absolute; top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+    transition: opacity 0.3s ease;
+}
+#successIcon { opacity: 0; }
+
+#errorIcon.spin { animation: spinErrorIcon 0.6s ease-in-out forwards; }
+@keyframes spinErrorIcon {
+    0% { transform: translate(-50%, -50%) rotate(0deg); }
+    100% { transform: translate(-50%, -50%) rotate(360deg); }
+}
+
+.error-inner-circle.expand #errorIcon { opacity: 0; }
+.error-inner-circle.expand #successIcon { opacity: 0 !important; }
+.error-inner-circle.success-mode #errorIcon { opacity: 0 !important; }
+.error-inner-circle.success-mode:not(.expand) #successIcon { opacity: 1 !important; }
+
+.error-title-text {
+    font-weight: bold; font-size: 15px; color: #D32F2F;
+    opacity: 0; white-space: nowrap; position: absolute;
+    transition: opacity 0.3s ease 0.1s, color 0.3s ease;
+}
+.error-inner-circle.expand .error-title-text { opacity: 1; }
+.error-content {
+    padding: 15px 25px 20px 25px; opacity: 0; pointer-events: none;
+    transition: opacity 0.3s ease; position: absolute;
+    top: 55px; width: 100%; box-sizing: border-box;
+}
+.error-box.step3-height .error-content { opacity: 1; pointer-events: auto; }
+
+.error-form-group { margin-bottom: 15px; }
+.error-form-group label { display: block; font-size: 13px; color: #555; margin-bottom: 5px; font-weight: bold; }
+.error-form-group input, .error-form-group select, .error-form-group textarea {
+    width: 100%; box-sizing: border-box; padding: 8px 12px; border: 1px solid #ddd; border-radius: 8px;
+    font-family: inherit; font-size: 14px; outline: none; transition: border-color 0.3s;
+}
+.error-form-group input:focus, .error-form-group select:focus, .error-form-group textarea:focus {
+    border-color: #D32F2F;
+}
+.error-form-group textarea { resize: none; height: 60px; }
+.error-modal-actions { display: flex; justify-content: flex-end; gap: 10px; margin-top: 20px; }
+.error-modal-actions button { padding: 8px 15px; border: none; border-radius: 8px; cursor: pointer; font-weight: bold; font-size: 14px; font-family: inherit; }
+.btn-cancel { background: #f0f0f0; color: #333; transition: background 0.2s; }
+.btn-cancel:hover { background: #e0e0e0; }
+.btn-submit { background: #D32F2F; color: #fff; transition: background 0.2s; }
+.btn-submit:hover { background: #b71c1c; }
+
+@media (max-width: 768px) {
+    .app-title {
+        top: 15px;
+        right: 20px;
+        font-size: 24px;
+    }
+    .search-container {
+        top: 50px;
+    }
+    .info-box {
+        top: 110px;
+    }
+    #wordTooltip, .word-tooltip {
+        display: none !important;
+    }
 }
