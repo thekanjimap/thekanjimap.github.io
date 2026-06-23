@@ -1,0 +1,509 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: #F8F7F4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.circle-container {
+    width: 10px;
+    height: 10px;
+    background-color: #FFFFFF;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    animation: expand 1s cubic-bezier(0.25, 1, 0.5, 1) forwards;
+}
+
+.circle-container.shrink {
+    animation: shrink 1s cubic-bezier(0.25, 1, 0.5, 1) forwards;
+}
+
+#doraemonGif {
+    width: 350px;
+    object-fit: contain;
+    opacity: 0;
+    animation: fadeIn 0.5s ease forwards 1s;
+}
+
+.circle-container.shrink #doraemonGif {
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+@keyframes expand {
+    0% { width: 10px; height: 10px; }
+    100% { width: 350px; height: 350px; }
+}
+
+@keyframes shrink {
+    0% { width: 350px; height: 350px; }
+    100% { width: 0px; height: 0px; }
+}
+
+@keyframes fadeIn {
+    to { opacity: 1; }
+}
+
+.search-container {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    display: none;
+    z-index: 10;
+}
+
+.search-box {
+    position: relative;
+    width: 0px;
+    height: 0px;
+    background-color: #FFFFFF;
+    border-radius: 25px;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+    opacity: 0;
+}
+
+.search-box.step1-circle {
+    animation: popCircle 0.5s cubic-bezier(0.25, 1, 0.5, 1) forwards;
+}
+
+.search-box.step3-bar {
+    animation: stretchBar 0.6s cubic-bezier(0.25, 1, 0.5, 1) forwards;
+}
+
+.search-inner-circle {
+    position: absolute;
+    left: 7px;
+    top: 7px;
+    width: 36px;
+    height: 36px;
+    background-color: #F8F7F4;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+}
+
+.search-box.step1-circle .search-inner-circle {
+    opacity: 1;
+}
+
+.search-inner-circle.step2-spin {
+    animation: spinMagnifier 0.6s ease-in-out forwards;
+}
+
+.search-inner-circle.step3-move {
+    animation: moveRight 0.6s cubic-bezier(0.25, 1, 0.5, 1) forwards;
+}
+
+.search-input {
+    position: absolute;
+    left: 20px;
+    top: 14px;
+    border: none;
+    outline: none;
+    background: transparent;
+    font-size: 16px;
+    width: 200px;
+    opacity: 0;
+    display: none;
+}
+
+.search-input.step4-show {
+    display: block;
+    animation: fadeInInput 0.3s forwards;
+}
+
+@keyframes popCircle {
+    0% { width: 0px; height: 0px; opacity: 0; }
+    100% { width: 50px; height: 50px; opacity: 1; }
+}
+
+@keyframes spinMagnifier {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(-360deg); }
+}
+
+@keyframes stretchBar {
+    0% { width: 50px; height: 50px; opacity: 1; }
+    100% { width: 280px; height: 50px; opacity: 1; }
+}
+
+@keyframes moveRight {
+    0% { left: 7px; }
+    100% { left: 237px; }
+}
+
+@keyframes fadeInInput {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
+.search-box.searching {
+    animation: collapseBar 0.6s cubic-bezier(0.25, 1, 0.5, 1) forwards;
+}
+
+.search-box.searching .search-input {
+    opacity: 0 !important;
+    visibility: hidden;
+    pointer-events: none;
+}
+
+.search-box.searching .search-inner-circle {
+    animation: none;
+}
+
+.search-box.searching:not(.loaded) .search-inner-circle {
+    animation: spinLoader 2s linear infinite;
+}
+
+.close-btn {
+    position: absolute;
+    right: -65px;
+    top: 0;
+    width: 50px;
+    height: 50px;
+    background-color: #FFFFFF;
+    border-radius: 50%;
+    border: none;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #333;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+    transition: transform 0.2s ease;
+    opacity: 0;
+    pointer-events: none;
+}
+
+.search-box.show-close .close-btn {
+    animation: growCloseBtn 0.4s cubic-bezier(0.25, 1, 0.5, 1) forwards;
+    pointer-events: auto;
+}
+
+.close-btn:hover {
+    transform: scale(1.1);
+}
+
+@keyframes collapseBar {
+    0% { width: 280px; height: 50px; opacity: 1; }
+    100% { width: 50px; height: 50px; opacity: 1; }
+}
+
+@keyframes spinLoader {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+@keyframes growCloseBtn {
+    0% { opacity: 0; transform: scale(0); }
+    100% { opacity: 1; transform: scale(1); }
+}
+
+#graph-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: 1;
+    opacity: 0;
+    transition: opacity 1.5s ease;
+}
+
+#graph-container.show {
+    opacity: 1;
+}
+
+.app-title {
+    position: absolute;
+    top: 35px;
+    right: 35px;
+    font-size: 24px;
+    font-weight: 900;
+    color: #37474F;
+    letter-spacing: 2px;
+    z-index: 10;
+    opacity: 0;
+    transition: opacity 1.5s ease;
+}
+
+.app-title.show {
+    opacity: 1;
+}
+
+.link {
+    stroke: #9da3ae;
+    stroke-width: 2px;
+    stroke-opacity: 0.6;
+    stroke-dasharray: 3, 3;
+}
+
+.node circle {
+    fill: #9da3ae;
+    stroke: #eff1f8;
+    stroke-width: 2px;
+    transition: fill 0.3s ease;
+}
+
+.node text {
+    fill: #454a53;
+    font-size: 20px;
+    cursor: pointer;
+    user-select: none;
+}
+
+.node:first-of-type text {
+    font-size: 28px;
+    font-weight: bolder;
+    fill: #37474F;
+}
+
+.node:first-of-type circle {
+    fill: #37474F;
+    r: 10;
+}
+
+.node.highlight circle {
+    fill: #D32F2F;
+}
+
+.node tspan {
+    transition: fill 0.3s ease, font-weight 0.3s ease;
+}
+
+.node tspan.highlight_character {
+    font-weight: 700;
+    fill: #D32F2F;
+}
+.info-box {
+    position: absolute;
+    right: 35px;
+    top: 80px; /* Nằm ngay dưới chữ DORAEMON */
+    width: 50px;
+    max-height: 50px;
+    background-color: #FFFFFF;
+    border-radius: 25px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+    opacity: 0;
+    overflow: hidden;
+    /* Hiệu ứng nở mượt mà */
+    transition: width 0.5s cubic-bezier(0.25, 1, 0.5, 1), 
+                max-height 0.5s cubic-bezier(0.25, 1, 0.5, 1),
+                opacity 0.3s ease, border-radius 0.5s ease;
+    pointer-events: none;
+    z-index: 20;
+}
+
+/* Bước 1: Hiện hình tròn */
+.info-box.step1-circle {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+/* Bước 2: Nở chiều rộng (do right cố định nên nó sẽ đẩy sang trái) */
+.info-box.step2-width {
+    width: 320px;
+}
+
+/* Bước 3: Nở chiều dọc theo nội dung */
+.info-box.step3-height {
+    max-height: 600px; /* Đủ rộng để chứa nội dung API */
+    border-radius: 15px; /* Giảm độ bo góc cho giống thẻ bài */
+}
+.kanji-tabs-container {
+    margin-top: 15px;
+    padding-top: 15px;
+    border-top: 1px dashed #ccc;
+}
+
+.kanji-tabs {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.kanji-tab {
+    background: #f0f0f0;
+    border: none;
+    border-radius: 5px;
+    padding: 6px 12px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.3s cubic-bezier(0.25, 1, 0.5, 1);
+    font-weight: bold;
+    color: #555;
+}
+
+.kanji-tab:hover {
+    background: #e0e0e0;
+    transform: translateY(-2px);
+}
+
+.kanji-tab.active {
+    background: #D32F2F;
+    color: white;
+    transform: scale(1.08);
+    box-shadow: 0 4px 10px rgba(211, 47, 47, 0.25);
+}
+
+@keyframes fadeSlideUp {
+    0% { opacity: 0; transform: translateY(8px); }
+    100% { opacity: 1; transform: translateY(0); }
+}
+
+.animate-content {
+    animation: fadeSlideUp 0.3s cubic-bezier(0.25, 1, 0.5, 1) forwards;
+}
+
+.kanji-detail-content {
+    background: #f8f9fa;
+    padding: 12px;
+    border-radius: 8px;
+    border: 1px solid #eee;
+}
+
+.vocab-drop-container {
+    position: absolute;
+    top: 85px;
+    left: 0px; 
+    display: none;
+    z-index: 9;
+}
+
+.vocab-btn {
+    padding: 10px 20px;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    border: none;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: bold;
+    color: #333;
+    opacity: 0;
+    transform: translateY(-20px);
+    transition: opacity 0.4s ease, transform 0.4s cubic-bezier(0.25, 1, 0.5, 1), background-color 0.3s, color 0.3s;
+    white-space: nowrap;
+    position: relative;
+    z-index: 2;
+}
+
+.vocab-btn.show-drop {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.vocab-btn.show-drop.active {
+    background-color: #37474F; 
+    color: #FFFFFF;
+    transform: translateY(0) scale(1.05); 
+}
+
+.vocab-btn:hover:not(.active) {
+    background-color: #f5f5f5;
+}
+
+.vocab-list {
+    position: absolute;
+    top: 50px;
+    left: 0;
+    width: 140px;
+    max-height: 0px;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+    overflow-y: auto;
+    opacity: 0;
+    pointer-events: none;
+    transition: width 0.3s cubic-bezier(0.25, 1, 0.5, 1), max-height 0.4s cubic-bezier(0.25, 1, 0.5, 1), opacity 0.2s ease;
+    z-index: 1;
+}
+
+.vocab-list::-webkit-scrollbar {
+    width: 6px;
+}
+
+.vocab-list::-webkit-scrollbar-thumb {
+    background-color: #ccc;
+    border-radius: 10px;
+}
+
+.vocab-list.step1-width {
+    opacity: 1;
+    pointer-events: auto;
+    width: 280px;
+}
+
+.vocab-list.step2-height {
+    max-height: 70vh;
+    border-radius: 15px;
+}
+
+.vocab-item {
+    padding: 12px 20px;
+    border-bottom: 1px solid #eee;
+    cursor: pointer;
+    font-size: 16px;
+    color: #333;
+    transition: background 0.2s;
+    opacity: 0;
+    transform: translateX(-10px);
+    animation: slideInItem 0.3s forwards;
+}
+
+.vocab-item:first-child {
+    margin-top: 10px; 
+}
+
+.vocab-item:last-child {
+    border-bottom: none;
+    margin-bottom: 10px;
+}
+
+.vocab-item:hover {
+    background-color: #f0f0f0;
+    color: #D32F2F;
+}
+
+@keyframes slideInItem {
+    to { opacity: 1; transform: translateX(0); }
+}
+.word-tooltip {
+    position: absolute;
+    background-color: #FFFFFF;
+    padding: 10px 16px;
+    border-radius: 12px;
+    font-size: 13px;
+    pointer-events: none;
+    opacity: 0;
+    z-index: 9999;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.12);
+    border: 1px solid #efefef;
+    transition: opacity 0.2s ease;
+    white-space: nowrap;
+    transform: translate(-15%, -100%);
+}
+
+.word-tooltip.visible {
+    opacity: 1;
+}
+
+.node text, .vocab-item {
+    cursor: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12"><circle cx="6" cy="6" r="4" fill="%23D32F2F"/></svg>') 6 6, auto !important;
+}
