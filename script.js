@@ -229,8 +229,8 @@ async function fetchNodeData(query, excludeWords = [], allFetchedWordsSet = null
         if (allFetchedWordsSet) {
             allFetchedWordsSet.add(cleanWord);
         }
-        
-        if (wordsForGraph.length < 5 && !wordsForGraph.includes(cleanWord) && !excludeWords.includes(cleanWord)) {
+
+        if (wordsForGraph.length < 15 && !wordsForGraph.includes(cleanWord) && !excludeWords.includes(cleanWord)) {
             wordsForGraph.push(cleanWord);
         }
     }
@@ -256,17 +256,21 @@ async function constructNodeTree(rootKeyword) {
 
     const children = await fetchNodeData(rootKeyword, [rootKeyword], allFetchedWordsSet);
 
-    children.forEach(childWord => {
-        globalGraphWords.add(childWord);
-    });
-
     const childDataList = [];
+    const maxNodes = window.innerWidth <= 768 ? 4 : 5;
+    let childCount = 0;
+
     for (const childWord of children) {
-        const childId = idCounter.toString();
-        nodes.push({ id: childId, kanji: childWord, level: 1 });
-        links.push({ source: rootId, target: childId });
-        idCounter++;
-        childDataList.push({ childWord, childId });
+        if (!globalGraphWords.has(childWord)) {
+            globalGraphWords.add(childWord);
+            const childId = idCounter.toString();
+            nodes.push({ id: childId, kanji: childWord, level: 1 });
+            links.push({ source: rootId, target: childId });
+            idCounter++;
+            childDataList.push({ childWord, childId });
+            childCount++;
+            if (childCount >= maxNodes) break;
+        }
     }
 
     const grandChildrenPromises = childDataList.map(async (data) => {
@@ -278,10 +282,17 @@ async function constructNodeTree(rootKeyword) {
     const grandChildrenResults = await Promise.all(grandChildrenPromises);
 
     grandChildrenResults.forEach(result => {
-        result.grandChildren.forEach(grandChildWord => {
-            const grandChildId = addNode(grandChildWord, 2);
-            links.push({ source: result.childId, target: grandChildId });
-        });
+        let count = 0;
+        const maxNodes = window.innerWidth <= 768 ? 4 : 5;
+        
+        for (const grandChildWord of result.grandChildren) {
+            if (!globalGraphWords.has(grandChildWord)) {
+                const grandChildId = addNode(grandChildWord, 2);
+                links.push({ source: result.childId, target: grandChildId });
+                count++;
+                if (count >= maxNodes) break;
+            }
+        }
     });
 
     window.currentVocabList = Array.from(allFetchedWordsSet).filter(word => !globalGraphWords.has(word));
@@ -349,13 +360,15 @@ function renderKanjiGraph(data, searchKeyword = null) {
     const linksData = data.links.map(d => ({ ...d }));
     const nodesData = data.nodes.map(d => ({ ...d }));
 
+    const isMobile = window.innerWidth <= 768;
+
     const simulation = d3.forceSimulation(nodesData)
-        .force("link", d3.forceLink(linksData).id(d => d.id).distance(130))
-        .force("charge", d3.forceManyBody().strength(-1100))
+        .force("link", d3.forceLink(linksData).id(d => d.id).distance(isMobile ? 80 : 130))
+        .force("charge", d3.forceManyBody().strength(isMobile ? -600 : -1100))
         .force("center", d3.forceCenter(0, 0))
-        .force("x", d3.forceX().strength(0.1))
-        .force("y", d3.forceY().strength(0.1))
-        .force("collision", d3.forceCollide().radius(50))
+        .force("x", d3.forceX().strength(isMobile ? 0.15 : 0.1))
+        .force("y", d3.forceY().strength(isMobile ? 0.05 : 0.1))
+        .force("collision", d3.forceCollide().radius(isMobile ? 35 : 50))
         .alphaDecay(0.01);
 
     const svg = d3.select("#graph-container")
@@ -365,13 +378,25 @@ function renderKanjiGraph(data, searchKeyword = null) {
         .attr("viewBox", [-innerWidth / 2, -innerHeight / 2, innerWidth, innerHeight])
         .attr("style", "width: 100%; height: 100%;");
 
-    const link = svg.append("g")
+    const g = svg.append("g");
+
+    if (isMobile) {
+        const zoom = d3.zoom()
+            .scaleExtent([0.2, 3])
+            .on("zoom", (event) => {
+                g.attr("transform", event.transform);
+            });
+        svg.call(zoom);
+        svg.call(zoom.transform, d3.zoomIdentity.translate(0, 0).scale(0.7));
+    }
+
+    const link = g.append("g")
         .selectAll("line")
         .data(linksData)
         .join("line")
         .attr("class", "link");
 
-    const node = svg.append("g")
+    const node = g.append("g")
         .attr("class", "nodes")
         .selectAll(".node")
         .data(nodesData, d => d.id)
@@ -445,8 +470,10 @@ function renderKanjiGraph(data, searchKeyword = null) {
         const maxY = innerHeight / 2 - radius;
 
         node.attr("transform", d => {
-            d.x = Math.max(minX, Math.min(maxX, d.x));
-            d.y = Math.max(minY, Math.min(maxY, d.y));
+            if (!isMobile) {
+                d.x = Math.max(minX, Math.min(maxX, d.x));
+                d.y = Math.max(minY, Math.min(maxY, d.y));
+            }
             return `translate(${d.x},${d.y})`;
         });
 
@@ -900,7 +927,8 @@ document.addEventListener("click", function(event) {
             const vocabDrop = document.getElementById("vocabDropContainer");
             if (vocabBtn.classList.contains("active") && vocabDrop && vocabList) {
                 const dropRect = vocabDrop.getBoundingClientRect();
-                const availableHeight = window.innerHeight - (dropRect.top + 120) - 15;
+                const bottomMargin = window.innerWidth <= 768 ? 10 : 135;
+                const availableHeight = window.innerHeight - dropRect.top - 50 - bottomMargin;
                 vocabList.style.maxHeight = availableHeight + "px";
             } else if (vocabList) {
                 vocabList.style.maxHeight = null;
@@ -919,20 +947,22 @@ if (infoBoxEl && window.ResizeObserver) {
         if (vocabDrop) {
             if (window.innerWidth <= 768) {
                 if (infoBoxEl.classList.contains("step1-circle")) {
-                    const newTop = infoBoxEl.offsetTop + infoBoxEl.offsetHeight + 10;
+                    const newTop = infoBoxEl.offsetTop + infoBoxEl.offsetHeight - 20;
                     vocabDrop.style.top = newTop + "px";
                 } else {
                     vocabDrop.style.top = "85px";
                 }
-                vocabDrop.style.left = "20px";
+                vocabDrop.style.left = "0px";
             } else {
                 vocabDrop.style.top = "85px";
                 vocabDrop.style.left = "0px";
             }
         }
+
         if (vocabBtn && vocabBtn.classList.contains("active") && vocabList) {
             const dropRect = vocabDrop.getBoundingClientRect();
-            const availableHeight = window.innerHeight - dropRect.top - 120;
+            const bottomMargin = window.innerWidth <= 768 ? 10 : 120;
+            const availableHeight = window.innerHeight - dropRect.top - 50 - bottomMargin;
             vocabList.style.maxHeight = availableHeight + "px";
         }
     });
