@@ -554,6 +554,7 @@ body {
 
 .error-box.step1-circle { width: 50px; height: 50px; opacity: 1; }
 .error-box.step2-width { width: 320px; height: 50px; }
+
 .error-box.step3-height { height: 400px; border-radius: 15px; transform: translateY(-20px); }
 
 .error-inner-circle {
