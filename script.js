@@ -537,32 +537,33 @@ function fetchKanjiInfo(kanji) {
         }
 
         const endpoint = DATA_ENDPOINT;
-        
+        const controller = new AbortController();
+        const timeoutId = setTimeout(() => controller.abort(), 6000);
         const wordPromise = fetch(endpoint, {
             method: "POST",
             headers: { "Content-Type": "application/json" },
-            body: JSON.stringify({ dict: "javi", type: "word", query: kanji })
+            body: JSON.stringify({ dict: "javi", type: "word", query: kanji }),
+            signal: controller.signal
         }).then(res => res.json());
 
         const kanjiChars = kanji.match(/[\u4e00-\u9faf]/g) || [];
-        
         const kanjiPromises = kanjiChars.map(k => 
             fetch(endpoint, {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
-                body: JSON.stringify({ dict: "javi", type: "kanji", query: k })
+                body: JSON.stringify({ dict: "javi", type: "kanji", query: k }),
+                signal: controller.signal
             }).then(res => res.json())
         );
 
         Promise.all([wordPromise, ...kanjiPromises])
         .then(responses => {
+            clearTimeout(timeoutId);
             const wordData = responses[0];
             const kanjiDatas = responses.slice(1);
-            
             let nghiaWord = "";
             let cachDoc = "";
             const results = wordData.data || wordData.results;
-            
             if (results && results.length > 0) {
                 const wData = results[0];
                 cachDoc = wData.phonetic || wData.reading || "Chưa có dữ liệu";
@@ -655,7 +656,7 @@ function fetchKanjiInfo(kanji) {
                         </svg>
                     </button>
                     <h3 style="margin: 0 0 15px 0; font-size: 28px; color: #37474F;">${kanji}</h3>
-                    <p style="margin: 8px 0; font-size: 15px; color: red;">Lỗi kết nối API. Vui lòng thử lại.</p>
+                    <p style="margin: 8px 0; font-size: 15px; color: red;">Lỗi kết nối hoặc không có kanji. Vui lòng thử lại.</p>
                 </div>
             `;
             infoBox.classList.add("step3-height");
@@ -740,12 +741,7 @@ function hideTooltip() {
 const TRACKING_ENDPOINT = atob("aHR0cHM6Ly9zY3JpcHQuZ29vZ2xlLmNvbS9tYWNyb3Mvcy9BS2Z5Y2J3SF9qLUMxMEJPR3c0bzRsRXZfNFQyZlpNaUNBOHFiSXJ2aUhfbi1YaUZGdFJyaXVsRXRNS1d1di1rNDRiQXZFemcvZXhlYw==");
 
 function getSessionId() {
-    let id = sessionStorage.getItem("kanji_session_id");
-    if (!id) {
-        id = "sess_" + Math.random().toString(36).substr(2, 9);
-        sessionStorage.setItem("kanji_session_id", id);
-    }
-    return id;
+    return "req_" + Math.random().toString(36).substr(2, 9) + Date.now();
 }
 
 function pingTracker() {
@@ -763,7 +759,10 @@ function logErrorToServer(keyword, errorType) {
     const userAgent = navigator.userAgent;
     const url = TRACKING_ENDPOINT + "?action=error&keyword=" + encodeURIComponent(keyword) + "&error_type=" + encodeURIComponent(errorType) + "&user_agent=" + encodeURIComponent(userAgent);
     
-    fetch(url, { mode: 'no-cors' }).catch(() => {});
+    fetch(url)
+        .then(res => res.text())
+        .then(data => console.log(data))
+        .catch(error => console.error(error));
 }
 function openErrorModal(keyword = "") {
     document.getElementById("errorKeyword").value = keyword || "Không có từ khóa cụ thể";
