@@ -1,6 +1,20 @@
 document.addEventListener("DOMContentLoaded", function() {
     const circleBox = document.getElementById("circleBox");
     const gifDuration = 4000;
+    if (window.innerWidth <= 768) {
+        const mobileNotice = document.createElement("div");
+        mobileNotice.textContent = "Hoạt động tốt nhất trên máy tính";
+        mobileNotice.style.position = "absolute";
+        mobileNotice.style.bottom = "15%";
+        mobileNotice.style.left = "50%";
+        mobileNotice.style.transform = "translateX(-50%)";
+        mobileNotice.style.color = "#888";
+        mobileNotice.style.fontSize = "13px";
+        mobileNotice.style.fontFamily = "sans-serif";
+        mobileNotice.style.textAlign = "center";
+        mobileNotice.style.width = "100%";
+        circleBox.appendChild(mobileNotice);
+    }
 
     setTimeout(function() {
         circleBox.classList.add("shrink");
