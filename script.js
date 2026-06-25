@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", function() {
         const mobileNotice = document.createElement("div");
         mobileNotice.textContent = "Hoạt động tốt nhất trên máy tính";
         mobileNotice.style.position = "absolute";
-        mobileNotice.style.bottom = "15%";
+        mobileNotice.style.bottom = "3%";
         mobileNotice.style.left = "50%";
         mobileNotice.style.transform = "translateX(-50%)";
         mobileNotice.style.color = "#888";
