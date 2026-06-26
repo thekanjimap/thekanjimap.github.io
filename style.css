@@ -245,6 +245,53 @@ body {
     opacity: 1;
 }
 
+.falling-h {
+    display: inline-block;
+    transform-origin: center center;
+    will-change: transform;
+    z-index: 100;
+    position: relative;
+}
+
+.hoahiep-container {
+    position: fixed;
+    bottom: 35px;
+    right: 20px;
+    display: flex;
+    align-items: center;
+    z-index: 99;
+    pointer-events: none;
+}
+
+.oa-hiep-text {
+    font-size: 20px;
+    font-weight: 900;
+    color: #37474F;
+    letter-spacing: 2px;
+    opacity: 0;
+    transform: translateX(10px);
+    transition: all 0.4s ease;
+    margin-left: 2px;
+}
+
+.oa-hiep-text.show {
+    opacity: 1;
+    transform: translateX(0);
+}
+
+.grab-hand {
+    position: fixed;
+    width: 280px;
+    z-index: 1000;
+    pointer-events: none;
+    opacity: 0;
+    top: 0;
+    left: 0;
+    transform: translate(100vw, 100vh);
+    -webkit-mask-image: linear-gradient(to bottom left, rgba(0,0,0,0) 2%, rgba(0,0,0,1) 25%);
+    mask-image: linear-gradient(to bottom left, rgba(0,0,0,0) 2%, rgba(0,0,0,1) 25%);
+}
+
 .link {
     stroke: #9da3ae;
     stroke-width: 2px;
@@ -637,4 +684,166 @@ body {
     #wordTooltip, .word-tooltip {
         display: none !important;
     }
+}
+.feedback-box {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    width: 50px;
+    height: 50px;
+    background-color: #FFFFFF;
+    border-radius: 25px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+    z-index: 50;
+    cursor: pointer;
+    opacity: 0;
+    pointer-events: none;
+    transition: width 0.4s cubic-bezier(0.25, 1, 0.5, 1),
+                height 0.4s cubic-bezier(0.25, 1, 0.5, 1),
+                border-radius 0.4s ease,
+                opacity 1.5s ease;
+    overflow: hidden;
+}
+
+.feedback-box.show {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.feedback-box:hover:not(.step2-width) {
+    transform: scale(1.05);
+}
+
+.feedback-box.step2-width {
+    width: 340px;
+    cursor: default;
+}
+
+.feedback-box.step3-height {
+    height: 140px;
+    border-radius: 15px;
+}
+
+.feedback-icon {
+    position: absolute;
+    top: 0; left: 0;
+    width: 50px; height: 50px;
+    display: flex; justify-content: center; align-items: center;
+    transition: opacity 0.3s ease;
+    pointer-events: none;
+}
+
+.feedback-box.step2-width .feedback-icon {
+    opacity: 0;
+}
+
+.feedback-content {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    opacity: 0; pointer-events: none;
+    transition: opacity 0.3s ease;
+    box-sizing: border-box;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+}
+
+.feedback-box.step3-height .feedback-content {
+    opacity: 1; pointer-events: auto;
+    transition-delay: 0.2s;
+}
+
+.feedback-close-btn {
+    position: absolute;
+    top: 2px;
+    right: 10px;
+    background: none; border: none;
+    font-size: 14px; color: #aaa;
+    cursor: pointer; z-index: 2;
+    padding: 5px;
+    transition: color 0.2s;
+}
+
+.feedback-close-btn:hover {
+    color: #333;
+}
+
+.feedback-input-wrapper {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    margin-top: 5px;
+}
+
+.feedback-input-wrapper textarea {
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    background-color: #F8F7F4;
+    border: 1px solid #eaeaea;
+    border-radius: 12px;
+    padding: 12px 48px 12px 14px;
+    font-family: inherit;
+    font-size: 13px;
+    line-height: 1.5;
+    color: #333;
+    resize: none;
+    outline: none;
+    transition: border-color 0.3s;
+}
+
+.feedback-input-wrapper textarea:focus {
+    border-color: #ccc;
+}
+
+.feedback-input-wrapper textarea::placeholder {
+    color: #999;
+}
+
+.feedback-submit-inline {
+    position: absolute;
+    bottom: 8px; right: 8px;
+    width: 32px; height: 32px;
+    background-color: #FFFFFF;
+    border: 1px solid #eaeaea;
+    border-radius: 50%;
+    display: flex; justify-content: center; align-items: center;
+    color: #555;
+    cursor: pointer;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.03);
+    transition: all 0.2s;
+}
+
+.feedback-submit-inline:hover {
+    background-color: #f0f0f0;
+    color: #333;
+    transform: translateY(-2px);
+}
+.feedback-box.success-mode {
+    height: 50px !important;
+    border-radius: 25px !important;
+    transition: height 0.4s cubic-bezier(0.25, 1, 0.5, 1), border-radius 0.4s ease;
+}
+
+.feedback-box.success-mode .feedback-content {
+    opacity: 0; 
+    pointer-events: none;
+    transform: translateY(-20px);
+    transition: all 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+}
+
+.feedback-success-msg {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    display: flex; justify-content: center; align-items: center;
+    font-size: 14px; color: #2E7D32; font-weight: bold;
+    opacity: 0; pointer-events: none;
+    transition: opacity 0.3s ease;
+}
+
+.feedback-box.success-mode .feedback-success-msg {
+    opacity: 1;
+    transition-delay: 0.2s;
 }
