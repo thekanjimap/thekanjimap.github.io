@@ -26,7 +26,7 @@
             <div class="vocab-list" id="vocabList"></div>
         </div>
     </div>
-    <div class="app-title" id="appTitle">THE KANJI MAP</div>
+    <div class="app-title" id="appTitle">T<span id="fallingH" class="falling-h">H</span>E KANJI MAP</div>
         <div class="info-box" id="infoBox">
         <div id="infoContent"></div>
     </div>
@@ -73,6 +73,28 @@
     </div>
     <div id="wordTooltip" class="word-tooltip"></div>
     <div id="visitCounter" class="visit-counter">Lượt truy cập: -- | --</div>
+    <div class="hoahiep-container" id="hoahiepContainer">
+        <span class="oa-hiep-text" id="oaHiepText">OÀ HIỆP</span>
+    </div>
+    <img src="images/hand-pick.png" class="grab-hand" id="grabHand">
+    <div class="feedback-box" id="feedbackBox">
+        <div class="feedback-icon" id="feedbackIcon">
+            <svg viewBox="0 0 24 24" width="22" height="22" stroke="#555" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+                <polyline points="22,6 12,13 2,6"></polyline>
+            </svg>
+        </div>
+        <div class="feedback-success-msg" id="feedbackSuccessMsg">Cảm ơn bạn đã góp ý! ❤️</div>
+        <div class="feedback-content" id="feedbackContent">
+            <button class="feedback-close-btn" id="feedbackCloseBtn">✕</button>
+            <div class="feedback-input-wrapper">
+                <textarea id="feedbackInput" placeholder="Quyết tâm đạt JLPT mà không phải lãng phí tiền bạc, hãy cho mình biết các bạn cần gì để mình làm nhé!!"></textarea>
+                <button class="feedback-submit-inline" id="feedbackSubmitBtn" title="Gửi">
+                    <svg viewBox="0 0 24 24" width="16" height="16" stroke="currentColor" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"><line x1="22" y1="2" x2="11" y2="13"></line><polygon points="22 2 15 22 11 13 2 9 22 2"></polygon></svg>
+                </button>
+            </div>
+        </div>
+    </div>
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <script src="script.js"></script>
 </body>
