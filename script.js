@@ -1,3 +1,4 @@
+// Copyright 2026 Do Hoa Hiep All Rights Reserved.
 document.addEventListener("DOMContentLoaded", function() {
     const circleBox = document.getElementById("circleBox");
     const gifDuration = 4000;
@@ -44,6 +45,7 @@ document.addEventListener("DOMContentLoaded", function() {
                             document.getElementById("graph-container").classList.add("show");
                             document.getElementById("appTitle").classList.add("show");
                             document.getElementById("visitCounter").classList.add("show");
+                            document.getElementById("feedbackBox").classList.add("show");
                             renderKanjiGraph(sampleData);
                             setupSearchHandlers();
                         }, 300);
@@ -981,3 +983,146 @@ if (infoBoxEl && window.ResizeObserver) {
     });
     resizeObserver.observe(infoBoxEl);
 }
+document.addEventListener("DOMContentLoaded", function() {
+    const feedbackBox = document.getElementById('feedbackBox');
+    const feedbackContent = document.getElementById('feedbackContent');
+    const feedbackCloseBtn = document.getElementById('feedbackCloseBtn');
+    const feedbackSubmitBtn = document.getElementById('feedbackSubmitBtn');
+    const feedbackInput = document.getElementById('feedbackInput');
+
+    feedbackBox.addEventListener('click', function(e) {
+        if (!feedbackBox.classList.contains('step2-width')) {
+            feedbackBox.classList.add('step2-width');
+            setTimeout(() => {
+                feedbackBox.classList.add('step3-height');
+                setTimeout(() => {
+                    feedbackInput.focus();
+                }, 300);
+            }, 300);
+        }
+    });
+
+    feedbackContent.addEventListener('click', function(e) {
+        e.stopPropagation();
+    });
+
+    function closeFeedback() {
+        feedbackBox.classList.remove('step3-height');
+        setTimeout(() => {
+            feedbackBox.classList.remove('step2-width');
+        }, 300);
+    }
+
+    feedbackCloseBtn.addEventListener('click', function(e) {
+        e.stopPropagation();
+        closeFeedback();
+    });
+
+    feedbackSubmitBtn.addEventListener('click', function(e) {
+        e.stopPropagation();
+        const val = feedbackInput.value.trim();
+        if(val) {
+            const url = TRACKING_ENDPOINT + "?action=feedback&message=" + encodeURIComponent(val);
+            fetch(url).catch(() => {});
+
+            feedbackBox.classList.add('success-mode');
+            
+            setTimeout(() => {
+                feedbackBox.classList.remove('success-mode');
+                closeFeedback();
+                feedbackInput.value = '';
+            }, 2000);
+        }
+    });
+});
+document.addEventListener("DOMContentLoaded", function() {
+    const appTitle = document.getElementById("appTitle");
+    const fallingH = document.getElementById("fallingH");
+    const oaHiepText = document.getElementById("oaHiepText");
+    const grabHand = document.getElementById("grabHand");
+    const hoahiepContainer = document.getElementById("hoahiepContainer");
+
+    let isAnimatingH = false;
+
+    function triggerFallEffect() {
+        if (isAnimatingH) return;
+        isAnimatingH = true;
+
+        const hRect = fallingH.getBoundingClientRect();
+        const containerRect = hoahiepContainer.getBoundingClientRect();
+        const targetX = containerRect.left - hRect.left - 18;
+        const targetY = containerRect.top - hRect.top - 2;
+
+        fallingH.style.transition = "transform 0.8s cubic-bezier(0.55, 0.085, 0.68, 0.53)";
+        fallingH.style.transform = `translate(${targetX}px, ${targetY}px) rotate(360deg)`;
+
+        setTimeout(() => {
+            oaHiepText.classList.add("show");
+
+            setTimeout(() => {
+                const currentHRect = fallingH.getBoundingClientRect();
+                const grabOffsetX = -90;
+                const grabOffsetY = -230;
+                const grabRotation = "rotate(25deg)";
+                const dropOffsetX = -120;
+                const dropOffsetY = -240;
+                const dropRotation = "rotate(0deg)";
+
+                grabHand.style.transition = "none";
+                grabHand.style.transform = `translate(${window.innerWidth + 100}px, ${currentHRect.top + grabOffsetY}px) ${grabRotation}`;
+                grabHand.style.opacity = "1";
+
+                setTimeout(() => {
+                    grabHand.style.transition = "transform 1.2s cubic-bezier(0.25, 1, 0.5, 1)";
+                    grabHand.style.transform = `translate(${currentHRect.left + grabOffsetX}px, ${currentHRect.top + grabOffsetY}px) ${grabRotation}`;
+
+                    setTimeout(() => {
+                        oaHiepText.classList.remove("show");
+                        grabHand.style.transition = "transform 1.2s cubic-bezier(0.5, 0, 0.1, 1)";
+                        fallingH.style.transition = "transform 1.2s cubic-bezier(0.5, 0, 0.1, 1)";
+                        const hideX = window.innerWidth + 150;
+                        const moveDelta = hideX - (currentHRect.left + grabOffsetX);
+                        grabHand.style.transform = `translate(${hideX}px, ${currentHRect.top + grabOffsetY}px) ${grabRotation}`;
+                        fallingH.style.transform = `translate(${targetX + moveDelta}px, ${targetY}px) rotate(0deg)`;
+
+                        setTimeout(() => {
+                            grabHand.style.transition = "none";
+                            fallingH.style.transition = "none";
+
+                            grabHand.style.transform = `translate(${hRect.left + dropOffsetX}px, -400px) ${dropRotation}`;
+                            fallingH.style.transform = `translate(0px, -400px) rotate(0deg)`;
+
+                            setTimeout(() => {
+                                grabHand.style.transition = "transform 1.5s cubic-bezier(0.25, 1, 0.5, 1)";
+                                fallingH.style.transition = "transform 1.5s cubic-bezier(0.25, 1, 0.5, 1)";
+
+                                grabHand.style.transform = `translate(${hRect.left + dropOffsetX}px, ${hRect.top + dropOffsetY}px) ${dropRotation}`;
+                                fallingH.style.transform = "translate(0px, 0px) rotate(0deg)";
+
+                                setTimeout(() => {
+                                    grabHand.style.transition = "transform 1.2s ease, opacity 0.8s ease";
+                                    grabHand.style.transform = `translate(${hRect.left + dropOffsetX}px, -400px) ${dropRotation}`;
+                                    grabHand.style.opacity = "0";
+
+                                    setTimeout(() => {
+                                        isAnimatingH = false;
+                                    }, 1000);
+
+                                }, 1600);
+
+                            }, 50);
+
+                        }, 1300);
+
+                    }, 1400);
+
+                }, 50);
+
+            }, 800);
+
+        }, 800);
+    }
+
+    appTitle.addEventListener("mouseenter", triggerFallEffect);
+    appTitle.addEventListener("touchstart", triggerFallEffect, {passive: true});
+});
