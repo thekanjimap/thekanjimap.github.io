@@ -685,6 +685,12 @@ body {
         display: none !important;
     }
 }
+.feedback-box.hide-on-mobile {
+    opacity: 0 !important;
+    pointer-events: none !important;
+    transform: scale(0.5) translateY(30px) !important;
+    transition: opacity 0.3s ease, transform 0.3s ease !important;
+}
 .feedback-box {
     position: fixed;
     bottom: 20px;
