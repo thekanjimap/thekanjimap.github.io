@@ -1126,3 +1126,22 @@ document.addEventListener("DOMContentLoaded", function() {
     appTitle.addEventListener("mouseenter", triggerFallEffect);
     appTitle.addEventListener("touchstart", triggerFallEffect, {passive: true});
 });
+document.addEventListener("DOMContentLoaded", function() {
+    const vocabList = document.getElementById("vocabList");
+    const feedbackBox = document.getElementById("feedbackBox");
+    if (vocabList && feedbackBox) {
+        const observer = new MutationObserver(function() {
+            if (window.innerWidth <= 768) {
+                // Nếu danh sách từ vựng có class mở rộng (step1-width)
+                if (vocabList.classList.contains("step1-width")) {
+                    feedbackBox.classList.add("hide-on-mobile");
+                } else {
+                    feedbackBox.classList.remove("hide-on-mobile");
+                }
+            } else {
+                feedbackBox.classList.remove("hide-on-mobile");
+            }
+        });
+        observer.observe(vocabList, { attributes: true, attributeFilter: ['class'] });
+    }
+});
