@@ -1045,6 +1045,7 @@ document.addEventListener("DOMContentLoaded", function() {
     let isAnimatingH = false;
 
     function triggerFallEffect() {
+        if (!appTitle.classList.contains("show")) return;
         if (isAnimatingH) return;
         isAnimatingH = true;
 
