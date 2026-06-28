@@ -1100,3 +1100,16 @@ body {
 .fc-finished h2 { font-size: 28px; margin-bottom: 20px; }
 .fc-finished button { padding: 12px 24px; background: #D32F2F; color: white; border: none; border-radius: 20px; font-weight: bold; font-size: 16px; cursor: pointer; transition: background 0.2s; }
 .fc-finished button:hover { background: #b71c1c; }
+.fc-kanji {
+    transition: opacity 0.15s ease, visibility 0.15s ease !important;
+}
+.flashcard-inner {
+    transform-style: preserve-3d !important;
+}
+.flashcard-front, .flashcard-back {
+    -webkit-backface-visibility: hidden !important;
+    backface-visibility: hidden !important;
+}
+.fc-kanji[style*="visibility: hidden"] {
+    display: none !important;
+}
