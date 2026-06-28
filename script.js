@@ -1306,6 +1306,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
         function closeOverlay() { 
             clearAllTimers();
+            if (window.fcAbortController) window.fcAbortController.abort();
             document.getElementById('fcOverlay').classList.remove('show'); 
         }
 
@@ -1339,11 +1340,13 @@ document.addEventListener("DOMContentLoaded", function() {
             e.stopPropagation();
             replayBtn.style.display = 'none';
             kanjiEl.style.opacity = '1';
+            kanjiEl.style.visibility = 'visible';
             let timeVal = parseInt(document.querySelector('input[name="fcTime"]:checked').value);
             
             clearTimeout(flashTimer);
             flashTimer = setTimeout(() => {
                 kanjiEl.style.opacity = '0';
+                kanjiEl.style.visibility = 'hidden';
                 replayBtn.style.display = 'inline-block';
             }, timeVal);
         };
@@ -1355,6 +1358,7 @@ document.addEventListener("DOMContentLoaded", function() {
             replayBtn.style.display = 'none';
             countdownEl.style.display = 'block';
             kanjiEl.style.opacity = '0';
+            kanjiEl.style.visibility = 'hidden';
             
             let count = 3;
             countdownEl.textContent = count;
@@ -1367,11 +1371,13 @@ document.addEventListener("DOMContentLoaded", function() {
                     clearInterval(countdownTimer);
                     countdownEl.style.display = 'none';
                     kanjiEl.style.opacity = '1';
+                    kanjiEl.style.visibility = 'visible';
                     isCountingDown = false;
                     
                     let timeVal = parseInt(document.querySelector('input[name="fcTime"]:checked').value);
                     flashTimer = setTimeout(() => {
                         kanjiEl.style.opacity = '0';
+                        kanjiEl.style.visibility = 'hidden';
                         replayBtn.style.display = 'inline-block';
                     }, timeVal);
                 }
@@ -1421,6 +1427,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
             if (isAdvanced) {
                 kanjiEl.style.opacity = '0';
+                kanjiEl.style.visibility = 'hidden';
                 replayBtn.style.display = 'none';
                 if (!hasStartedAdvanced) {
                     startBtn.style.display = 'inline-block';
@@ -1432,6 +1439,7 @@ document.addEventListener("DOMContentLoaded", function() {
                 }
             } else {
                 kanjiEl.style.opacity = '1';
+                kanjiEl.style.visibility = 'visible';
                 startBtn.style.display = 'none';
                 replayBtn.style.display = 'none';
                 countdownEl.style.display = 'none';
@@ -1455,7 +1463,8 @@ document.addEventListener("DOMContentLoaded", function() {
         function getPos(e) { return e.type.includes('mouse') ? {x: e.pageX, y: e.pageY} : {x: e.touches[0].pageX, y: e.touches[0].pageY}; }
 
         function onStart(e) {
-            if (isCountingDown) return; 
+            if (isCountingDown) return;
+            if (e.type.includes('mouse')) e.preventDefault();
             isDragging = true;
             let pos = getPos(e);
             startX = pos.x; startY = pos.y;
@@ -1558,9 +1567,16 @@ document.addEventListener("DOMContentLoaded", function() {
             if (undoStack.length === 0) undoBtn.classList.remove('active');
         };
 
-        card.onmousedown = onStart; card.ontouchstart = onStart;
-        document.onmousemove = onMove; document.ontouchmove = onMove;
-        document.onmouseup = onEnd; document.ontouchend = onEnd;
+        if (window.fcAbortController) window.fcAbortController.abort();
+        window.fcAbortController = new AbortController();
+        const signal = window.fcAbortController.signal;
+
+        card.addEventListener('mousedown', onStart, { signal });
+        card.addEventListener('touchstart', onStart, { passive: false, signal });
+        document.addEventListener('mousemove', onMove, { passive: false, signal });
+        document.addEventListener('touchmove', onMove, { passive: false, signal });
+        document.addEventListener('mouseup', onEnd, { signal });
+        document.addEventListener('touchend', onEnd, { signal });
 
         updateProgress();
         renderNextCard();
