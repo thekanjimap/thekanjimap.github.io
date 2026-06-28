@@ -1464,7 +1464,9 @@ document.addEventListener("DOMContentLoaded", function() {
 
         function onStart(e) {
             if (isCountingDown) return;
-            if (e.type.includes('mouse')) e.preventDefault();
+            if (e.cancelable) {
+                e.preventDefault();
+            }
             isDragging = true;
             let pos = getPos(e);
             startX = pos.x; startY = pos.y;
