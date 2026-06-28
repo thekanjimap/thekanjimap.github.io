@@ -1205,7 +1205,367 @@ document.addEventListener("DOMContentLoaded", function() {
     const btnMindmap = document.getElementById('btnMindmap');
     const btnPrint = document.getElementById('btnPrint');
 
-    if (btnFlashcard) btnFlashcard.addEventListener('click', showDevToast);
+    if (btnFlashcard) {
+        btnFlashcard.addEventListener('click', function() {
+            const words = [];
+            const added = new Set();
+            
+            const addW = (w) => {
+                if (!added.has(w) && window.wordDetailsCache[w]) {
+                    added.add(w);
+                    words.push({ word: w, phonetic: window.wordDetailsCache[w].phonetic, mean: window.wordDetailsCache[w].mean });
+                }
+            };
+            
+            document.querySelectorAll('.node text').forEach(n => addW(n.textContent));
+            if (window.currentVocabList) {
+                window.currentVocabList.forEach(w => addW(w));
+            }
+
+            if (words.length === 0) { alert("Chưa có từ vựng nào để học!"); return; }
+            initFlashcard(words);
+        });
+    }
+
+    function initFlashcard(words) {
+        let overlay = document.getElementById('fcOverlay');
+        if (!overlay) {
+            overlay = document.createElement('div');
+            overlay.id = 'fcOverlay';
+            overlay.className = 'flashcard-overlay';
+            overlay.innerHTML = `
+                <div class="fc-top-bar">
+                    <button class="fc-undo-btn" id="fcUndo">↩ Học lại</button>
+                    <div class="fc-progress-bar"><div class="fc-progress-fill" id="fcProgressFill"></div></div>
+                    <div class="fc-counter" id="fcCounter"></div>
+                </div>
+                <button class="fc-close" id="fcClose">✕</button>
+                <div class="flashcard-container">
+                    <div class="flashcard" id="fcCard">
+                        <div class="flashcard-inner" id="fcInner">
+                            <div class="flashcard-front">
+                                <button id="fcStartBtn" class="fc-start-btn" style="display:none;">Bắt đầu</button>
+                                <button id="fcReplayBtn" class="fc-start-btn" style="display:none; bottom: 30px;">Xem lại</button>
+                                <div id="fcCountdown" class="fc-countdown" style="display:none;"></div>
+                                <div class="fc-kanji" id="fcKanji"></div>
+                            </div>
+                            <div class="flashcard-back">
+                                <div class="fc-phonetic" id="fcPhonetic"></div>
+                                <div class="fc-mean" id="fcMean"></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="fc-finished" id="fcFinished">
+                        <h2>Đã ôn xong!</h2>
+                        <button id="fcCloseBtn">Đóng Flashcard</button>
+                    </div>
+                </div>
+                <div class="fc-bottom-controls">
+                    <div class="fc-time-selector" id="fcTimeSelector">
+                        <label><input type="radio" name="fcTime" value="300"> Ngắn</label>
+                        <label><input type="radio" name="fcTime" value="800" checked> Vừa</label>
+                        <label><input type="radio" name="fcTime" value="1500"> Dài</label>
+                    </div>
+                    <button class="fc-advanced-btn" id="fcAdvancedToggle">Nâng cao</button>
+                </div>
+                <div class="fc-hint"><- Vuốt -> để tiếp tục<br>^ Đã thuộc &nbsp;&nbsp;|&nbsp;&nbsp; v Không muốn học</div>
+            `;
+            document.body.appendChild(overlay);
+
+            document.getElementById('fcClose').onclick = closeOverlay;
+            document.getElementById('fcCloseBtn').onclick = closeOverlay;
+        }
+
+        let initialTotal = words.length;
+        let learnedCount = 0;
+        let undoStack = [];
+        let currentWord = null;
+        let roundQueue = shuffleArray([...words]);
+        let nextRoundQueue = [];
+        
+        let isAdvanced = false;
+        let hasStartedAdvanced = false;
+        let isCountingDown = false;
+        let countdownTimer, flashTimer;
+
+        const card = document.getElementById('fcCard');
+        const innerCard = document.getElementById('fcInner');
+        const finishedView = document.getElementById('fcFinished');
+        const undoBtn = document.getElementById('fcUndo');
+        const startBtn = document.getElementById('fcStartBtn');
+        const replayBtn = document.getElementById('fcReplayBtn');
+        const countdownEl = document.getElementById('fcCountdown');
+        const kanjiEl = document.getElementById('fcKanji');
+        const advancedToggle = document.getElementById('fcAdvancedToggle');
+        const timeSelector = document.getElementById('fcTimeSelector');
+
+        function clearAllTimers() {
+            clearInterval(countdownTimer);
+            clearTimeout(flashTimer);
+        }
+
+        function closeOverlay() { 
+            clearAllTimers();
+            document.getElementById('fcOverlay').classList.remove('show'); 
+        }
+
+        function shuffleArray(array) {
+            for (let i = array.length - 1; i > 0; i--) {
+                const j = Math.floor(Math.random() * (i + 1));
+                [array[i], array[j]] = [array[j], array[i]];
+            }
+            return array;
+        }
+
+        advancedToggle.onclick = () => {
+            isAdvanced = !isAdvanced;
+            advancedToggle.classList.toggle('active');
+            timeSelector.classList.toggle('show');
+            hasStartedAdvanced = false;
+            updateCardUI();
+        };
+
+        startBtn.onmousedown = (e) => e.stopPropagation();
+        startBtn.ontouchstart = (e) => e.stopPropagation();
+        startBtn.onclick = (e) => {
+            e.stopPropagation();
+            hasStartedAdvanced = true;
+            startCountdownSequence();
+        };
+
+        replayBtn.onmousedown = (e) => e.stopPropagation();
+        replayBtn.ontouchstart = (e) => e.stopPropagation();
+        replayBtn.onclick = (e) => {
+            e.stopPropagation();
+            replayBtn.style.display = 'none';
+            kanjiEl.style.opacity = '1';
+            let timeVal = parseInt(document.querySelector('input[name="fcTime"]:checked').value);
+            
+            clearTimeout(flashTimer);
+            flashTimer = setTimeout(() => {
+                kanjiEl.style.opacity = '0';
+                replayBtn.style.display = 'inline-block';
+            }, timeVal);
+        };
+
+        function startCountdownSequence() {
+            clearAllTimers();
+            isCountingDown = true;
+            startBtn.style.display = 'none';
+            replayBtn.style.display = 'none';
+            countdownEl.style.display = 'block';
+            kanjiEl.style.opacity = '0';
+            
+            let count = 3;
+            countdownEl.textContent = count;
+            
+            countdownTimer = setInterval(() => {
+                count--;
+                if (count > 0) {
+                    countdownEl.textContent = count;
+                } else {
+                    clearInterval(countdownTimer);
+                    countdownEl.style.display = 'none';
+                    kanjiEl.style.opacity = '1';
+                    isCountingDown = false;
+                    
+                    let timeVal = parseInt(document.querySelector('input[name="fcTime"]:checked').value);
+                    flashTimer = setTimeout(() => {
+                        kanjiEl.style.opacity = '0';
+                        replayBtn.style.display = 'inline-block';
+                    }, timeVal);
+                }
+            }, 500);
+        }
+
+        function renderNextCard() {
+            if (roundQueue.length === 0) {
+                if (nextRoundQueue.length > 0) {
+                    roundQueue = shuffleArray(nextRoundQueue);
+                    nextRoundQueue = [];
+                } else {
+                    card.style.display = 'none';
+                    finishedView.style.display = 'flex';
+                    document.getElementById('fcCounter').style.display = 'none';
+                    currentWord = null;
+                    return;
+                }
+            }
+
+            currentWord = roundQueue.shift();
+            card.style.display = 'block';
+            finishedView.style.display = 'none';
+            document.getElementById('fcCounter').style.display = 'block';
+            
+            updateCardUI();
+
+            card.style.transition = 'none';
+            card.style.transform = 'scale(0.8)';
+            card.style.opacity = '0';
+            setTimeout(() => {
+                card.style.transition = 'transform 0.4s cubic-bezier(0.2, 0.8, 0.2, 1), opacity 0.3s';
+                card.style.transform = '';
+                card.style.opacity = '1';
+            }, 20);
+        }
+
+        function updateCardUI() {
+            clearAllTimers();
+            innerCard.classList.remove('flipped');
+            kanjiEl.textContent = currentWord.word;
+            document.getElementById('fcPhonetic').textContent = currentWord.phonetic || '';
+            document.getElementById('fcMean').textContent = currentWord.mean || '';
+            
+            let totalRemaining = roundQueue.length + nextRoundQueue.length + 1;
+            document.getElementById('fcCounter').textContent = `Còn lại: ${totalRemaining}`;
+
+            if (isAdvanced) {
+                kanjiEl.style.opacity = '0';
+                replayBtn.style.display = 'none';
+                if (!hasStartedAdvanced) {
+                    startBtn.style.display = 'inline-block';
+                    countdownEl.style.display = 'none';
+                    isCountingDown = true; 
+                } else {
+                    startBtn.style.display = 'none';
+                    startCountdownSequence();
+                }
+            } else {
+                kanjiEl.style.opacity = '1';
+                startBtn.style.display = 'none';
+                replayBtn.style.display = 'none';
+                countdownEl.style.display = 'none';
+                isCountingDown = false;
+            }
+        }
+
+        function updateProgress() {
+            let percent = initialTotal === 0 ? 100 : (learnedCount / initialTotal) * 100;
+            document.getElementById('fcProgressFill').style.width = Math.min(percent, 100) + '%';
+        }
+
+        function triggerUndoGlow() {
+            undoBtn.classList.add('active', 'glow');
+            setTimeout(() => undoBtn.classList.remove('glow'), 1200);
+        }
+
+        let startX, startY, currentX, currentY, isDragging = false;
+        const SWIPE_THRESHOLD = 90;
+
+        function getPos(e) { return e.type.includes('mouse') ? {x: e.pageX, y: e.pageY} : {x: e.touches[0].pageX, y: e.touches[0].pageY}; }
+
+        function onStart(e) {
+            if (isCountingDown) return; 
+            isDragging = true;
+            let pos = getPos(e);
+            startX = pos.x; startY = pos.y;
+            currentX = startX; currentY = startY;
+            card.classList.add('dragging');
+        }
+
+        function onMove(e) {
+            if (!isDragging || isCountingDown) return;
+            e.preventDefault();
+            let pos = getPos(e);
+            currentX = pos.x; currentY = pos.y;
+            let deltaX = currentX - startX;
+            let deltaY = currentY - startY;
+            card.style.transform = `translate(${deltaX}px, ${deltaY}px) rotate(${deltaX * 0.05}deg)`;
+        }
+
+        function onEnd(e) {
+            if (!isDragging) return;
+            isDragging = false;
+            card.classList.remove('dragging');
+            
+            let deltaX = currentX - startX;
+            let deltaY = currentY - startY;
+
+            if (Math.abs(deltaX) < 5 && Math.abs(deltaY) < 5) {
+                card.style.transform = '';
+                if (!isCountingDown) innerCard.classList.toggle('flipped');
+                return;
+            }
+
+            if (deltaY < -SWIPE_THRESHOLD) { 
+                animateOut(0, -window.innerHeight);
+                handleSwipe('up');
+            } else if (deltaY > SWIPE_THRESHOLD) { 
+                animateOut(0, window.innerHeight);
+                handleSwipe('down');
+            } else if (Math.abs(deltaX) > SWIPE_THRESHOLD) { 
+                animateOut(deltaX > 0 ? window.innerWidth : -window.innerWidth, 0);
+                handleSwipe('side');
+            } else { 
+                card.style.transform = '';
+            }
+        }
+
+        function animateOut(x, y) {
+            card.style.transition = 'transform 0.3s ease, opacity 0.3s ease';
+            card.style.transform = `translate(${x}px, ${y}px) rotate(${x*0.05}deg)`;
+            card.style.opacity = '0';
+        }
+
+        function handleSwipe(direction) {
+            if (direction === 'up') {
+                learnedCount++;
+                undoStack.push({ word: currentWord, action: 'up' });
+                triggerUndoGlow();
+            } else if (direction === 'down') {
+                initialTotal--;
+                undoStack.push({ word: currentWord, action: 'down' });
+                triggerUndoGlow();
+            } else if (direction === 'side') {
+                nextRoundQueue.push(currentWord);
+            }
+            
+            updateProgress();
+            setTimeout(renderNextCard, 300);
+        }
+
+        undoBtn.onclick = () => {
+            if (undoStack.length === 0) return;
+            const lastAction = undoStack.pop();
+            
+            if (lastAction.action === 'up') {
+                learnedCount--;
+            } else if (lastAction.action === 'down') {
+                initialTotal++;
+            }
+            updateProgress();
+            
+            if (currentWord) {
+                roundQueue.unshift(currentWord);
+            } else {
+                finishedView.style.display = 'none';
+                card.style.display = 'block';
+                document.getElementById('fcCounter').style.display = 'block';
+            }
+            
+            currentWord = lastAction.word;
+            updateCardUI();
+
+            card.style.transition = 'none';
+            card.style.transform = lastAction.action === 'up' ? `translate(0, -300px)` : `translate(0, 300px)`;
+            card.style.opacity = '0';
+            setTimeout(() => {
+                card.style.transition = 'transform 0.4s cubic-bezier(0.2, 0.8, 0.2, 1), opacity 0.3s';
+                card.style.transform = '';
+                card.style.opacity = '1';
+            }, 20);
+
+            if (undoStack.length === 0) undoBtn.classList.remove('active');
+        };
+
+        card.onmousedown = onStart; card.ontouchstart = onStart;
+        document.onmousemove = onMove; document.ontouchmove = onMove;
+        document.onmouseup = onEnd; document.ontouchend = onEnd;
+
+        updateProgress();
+        renderNextCard();
+        document.getElementById('fcOverlay').classList.add('show');
+    }
     if (btnMindmap) btnMindmap.addEventListener('click', showDevToast);
     
     if (btnPrint) {
