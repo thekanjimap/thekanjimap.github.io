@@ -1029,3 +1029,74 @@ body {
     opacity: 1;
     transform: translateX(-50%) translateY(0);
 }
+.flashcard-overlay {
+    position: fixed; top: 0; left: 0; width: 100vw; height: 100vh;
+    background: rgba(0, 0, 0, 0.85); z-index: 10000;
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    opacity: 0; pointer-events: none; transition: opacity 0.3s ease;
+}
+.flashcard-overlay.show { opacity: 1; pointer-events: auto; }
+
+.fc-top-bar { 
+    position: absolute; top: 30px; width: 100%; 
+    display: flex; flex-direction: column; align-items: center; gap: 12px; z-index: 10001; 
+}
+.fc-undo-btn { 
+    background: #fff; border: none; padding: 8px 22px; border-radius: 20px; 
+    font-weight: bold; font-size: 13px; cursor: pointer; color: #37474F; 
+    transition: all 0.3s ease; opacity: 0; pointer-events: none; transform: translateY(-10px);
+}
+.fc-undo-btn.active { opacity: 1; pointer-events: auto; transform: translateY(0); }
+.fc-undo-btn.glow { box-shadow: 0 0 15px 4px rgba(55, 71, 79, 0.6); transform: scale(1.05); background: #f0f4f8; }
+
+.fc-progress-bar { width: 180px; height: 3px; background: rgba(255,255,255,0.2); border-radius: 2px; overflow: hidden; }
+.fc-progress-fill { height: 100%; width: 0%; background: #4CAF50; transition: width 0.4s cubic-bezier(0.25, 1, 0.5, 1); }
+.fc-counter { color: #fff; font-size: 14px; font-weight: bold; letter-spacing: 1px; }
+
+.fc-bottom-controls { position: absolute; bottom: 85px; width: 100%; display: flex; flex-direction: column; align-items: center; gap: 12px; z-index: 10001; }
+.fc-advanced-btn { background: transparent; border: 1px solid #fff; color: #fff; padding: 6px 18px; border-radius: 15px; font-size: 13px; cursor: pointer; transition: all 0.2s; }
+.fc-advanced-btn.active { background: #D32F2F; border-color: #D32F2F; font-weight: bold; }
+.fc-time-selector { display: none; gap: 15px; color: #fff; font-size: 13px; }
+.fc-time-selector.show { display: flex; }
+.fc-time-selector label { display: flex; align-items: center; gap: 4px; cursor: pointer; }
+
+.fc-hint { position: absolute; bottom: 35px; color: #fff; font-size: 13px; text-align: center; width: 100%; opacity: 0.7; pointer-events: none; line-height: 1.6; font-family: monospace; }
+
+.flashcard-container { width: 320px; height: 440px; position: relative; perspective: 1000px; margin-top: 20px; }
+
+.flashcard { 
+    width: 100%; height: 100%; position: absolute; 
+    cursor: grab; touch-action: none; 
+    transition: transform 0.4s cubic-bezier(0.2, 0.8, 0.2, 1), opacity 0.3s; 
+}
+.flashcard.dragging { transition: none; cursor: grabbing; }
+
+.flashcard-inner { 
+    width: 100%; height: 100%; position: relative; 
+    transform-style: preserve-3d; transition: transform 0.5s cubic-bezier(0.4, 0.2, 0.2, 1); 
+}
+.flashcard-inner.flipped { transform: rotateY(180deg); }
+
+.flashcard-front, .flashcard-back { 
+    position: absolute; width: 100%; height: 100%; backface-visibility: hidden; 
+    display: flex; flex-direction: column; align-items: center; justify-content: center; 
+    background: #FFFFFF; border-radius: 20px; box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2); 
+    padding: 25px; box-sizing: border-box; text-align: center; 
+}
+.flashcard-back { transform: rotateY(180deg); background: #f8f9fa; }
+
+.fc-kanji { font-size: 75px; font-weight: 900; color: #37474F; transition: opacity 0.15s ease; }
+.fc-phonetic { font-size: 26px; color: #D32F2F; font-weight: bold; margin-bottom: 15px; }
+.fc-mean { font-size: 18px; color: #454a53; line-height: 1.5; }
+
+.fc-start-btn { background: #37474F; color: #fff; border: none; padding: 10px 24px; border-radius: 20px; font-size: 16px; font-weight: bold; cursor: pointer; position: absolute; z-index: 10; box-shadow: 0 4px 10px rgba(0,0,0,0.1); transition: background 0.2s; }
+.fc-start-btn:hover { background: #263238; }
+.fc-countdown { font-size: 65px; font-weight: 900; color: #D32F2F; position: absolute; z-index: 10; }
+
+.fc-close { position: absolute; top: 25px; right: 30px; background: none; border: none; color: white; font-size: 30px; cursor: pointer; transition: transform 0.2s; z-index: 10002; }
+.fc-close:hover { transform: scale(1.2); }
+
+.fc-finished { display: none; flex-direction: column; align-items: center; justify-content: center; height: 100%; color: white; text-align: center; }
+.fc-finished h2 { font-size: 28px; margin-bottom: 20px; }
+.fc-finished button { padding: 12px 24px; background: #D32F2F; color: white; border: none; border-radius: 20px; font-weight: bold; font-size: 16px; cursor: pointer; transition: background 0.2s; }
+.fc-finished button:hover { background: #b71c1c; }
