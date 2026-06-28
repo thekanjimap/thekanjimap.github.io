@@ -685,12 +685,12 @@ body {
         display: none !important;
     }
 }
-.feedback-box.hide-on-mobile {
-    opacity: 0 !important;
-    pointer-events: none !important;
-    transform: scale(0.5) translateY(30px) !important;
-    transition: opacity 0.3s ease, transform 0.3s ease !important;
-}
+    .feedback-box.hide-on-mobile {
+        opacity: 0 !important;
+        pointer-events: none !important;
+        transform: scale(0.5) translateY(30px) !important;
+        transition: opacity 0.3s ease, transform 0.3s ease !important;
+    }
 .feedback-box {
     position: fixed;
     bottom: 20px;
@@ -852,4 +852,180 @@ body {
 .feedback-box.success-mode .feedback-success-msg {
     opacity: 1;
     transition-delay: 0.2s;
+}
+
+.tool-bar-wrapper {
+    position: fixed;
+    left: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 40;
+    display: flex;
+    align-items: center;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 1.5s ease, transform 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+}
+
+.tool-bar-wrapper.show {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.tool-bar-wrapper.hidden-by-vocab {
+    transform: translateY(-50%) translateX(-20px) scale(0.8);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.1s ease, transform 0.1s ease !important;
+}
+
+.tool-bar-tab {
+    display: none; 
+}
+
+.tool-bar-main {
+    background-color: #FFFFFF;
+    border-radius: 30px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+    display: flex;
+    flex-direction: column;
+    padding: 12px 6px;
+    gap: 12px;
+    transition: all 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+    overflow: hidden;
+}
+
+.tool-btn {
+    background: transparent;
+    border: none;
+    color: #888;
+    width: 42px; height: 42px;
+    border-radius: 50%;
+    cursor: pointer;
+    display: flex; justify-content: center; align-items: center;
+    transition: background 0.2s, color 0.2s, transform 0.2s;
+}
+
+.tool-btn:hover {
+    background-color: #f0f0f0;
+    color: #D32F2F;
+    transform: scale(1.1);
+}
+
+.tool-divider {
+    width: 20px;
+    height: 1px;
+    background-color: #f0f0f0;
+    margin: 0 auto;
+}
+
+@media (max-width: 768px) {
+    .tool-bar-wrapper {
+        left: 80px;
+        top: auto;
+        bottom: 20px;
+        transform: none;
+        flex-direction: row;
+        height: 50px;
+    }
+    .tool-bar-wrapper.hidden-by-vocab {
+        transform: translateY(30px) scale(0.5);
+        opacity: 0;
+        pointer-events: none;
+    }
+    .tool-bar-tab {
+        display: flex;
+        background-color: #FFFFFF;
+        border-radius: 50%;
+        box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+        width: 50px;
+        height: 50px;
+        justify-content: center;
+        align-items: center;
+        color: #555;
+        cursor: pointer;
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        z-index: 3;
+        transition: all 0.4s cubic-bezier(0.25, 1, 0.5, 1);
+    }
+    .tool-bar-wrapper:not(.collapsed) .tool-bar-tab {
+        background-color: transparent;
+        box-shadow: none;
+        pointer-events: none;
+    }
+    .ham-line {
+        transition: transform 0.5s cubic-bezier(0.25, 1, 0.5, 1), opacity 0.3s ease;
+        transform-origin: center;
+    }
+    .tool-bar-wrapper:not(.collapsed) #hamLine1 {
+        transform: translate(45px, 8px) scale(0.3) rotate(45deg);
+        opacity: 0;
+    }
+    .tool-bar-wrapper:not(.collapsed) #hamLine2 {
+        transform: translate(110px, 0) scale(0.3);
+        opacity: 0;
+    }
+    .tool-bar-wrapper:not(.collapsed) #hamLine3 {
+        transform: translate(175px, -8px) scale(0.3) rotate(-45deg);
+        opacity: 0;
+    }
+    .tool-bar-main {
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        flex-direction: row;
+        height: 50px;
+        width: 240px;
+        border-radius: 25px;
+        padding: 0 15px;
+        margin-left: 0;
+        align-items: center;
+        justify-content: space-around;
+        transform-origin: left center;
+        z-index: 1;
+    }
+    .tool-divider {
+        width: 1px;
+        height: 20px;
+        margin: 0;
+        transition: opacity 0.3s ease 0.2s;
+    }
+    .tool-btn {
+        transition: opacity 0.4s ease 0.2s, transform 0.2s;
+        opacity: 1;
+    }
+    .tool-bar-wrapper.collapsed .tool-bar-main {
+        transform: scaleX(0.2);
+        opacity: 0;
+        pointer-events: none;
+    }
+    .tool-bar-wrapper.collapsed .tool-btn,
+    .tool-bar-wrapper.collapsed .tool-divider {
+        opacity: 0;
+        transition: opacity 0.1s;
+    }
+}
+.dev-toast {
+    position: fixed;
+    bottom: 90px;
+    left: 50%;
+    transform: translateX(-50%) translateY(20px);
+    background-color: #37474F;
+    color: #FFFFFF;
+    padding: 10px 24px;
+    border-radius: 30px;
+    font-size: 14px;
+    white-space: nowrap;
+    opacity: 0;
+    pointer-events: none;
+    z-index: 1000;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+    transition: opacity 0.3s ease, transform 0.3s cubic-bezier(0.25, 1, 0.5, 1);
+}
+
+.dev-toast.show {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
 }
