@@ -1113,3 +1113,8 @@ body {
 .fc-kanji[style*="visibility: hidden"] {
     display: none !important;
 }
+.fc-kanji, .fc-phonetic, .fc-mean {
+    pointer-events: none !important;
+    -webkit-user-select: none !important;
+    user-select: none !important;
+}
