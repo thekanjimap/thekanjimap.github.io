@@ -1007,28 +1007,7 @@ body {
         transition: opacity 0.1s;
     }
 }
-.dev-toast {
-    position: fixed;
-    bottom: 90px;
-    left: 50%;
-    transform: translateX(-50%) translateY(20px);
-    background-color: #37474F;
-    color: #FFFFFF;
-    padding: 10px 24px;
-    border-radius: 30px;
-    font-size: 14px;
-    white-space: nowrap;
-    opacity: 0;
-    pointer-events: none;
-    z-index: 1000;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.15);
-    transition: opacity 0.3s ease, transform 0.3s cubic-bezier(0.25, 1, 0.5, 1);
-}
 
-.dev-toast.show {
-    opacity: 1;
-    transform: translateX(-50%) translateY(0);
-}
 .flashcard-overlay {
     position: fixed; top: 0; left: 0; width: 100vw; height: 100vh;
     background: rgba(0, 0, 0, 0.85); z-index: 10000;
@@ -1117,4 +1096,38 @@ body {
     pointer-events: none !important;
     -webkit-user-select: none !important;
     user-select: none !important;
+}
+#loader-wrapper {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: 99999;
+    display: none;
+    pointer-events: all;
+    overflow: hidden;
+}
+
+#loader-hole {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 200vmax;
+    height: 200vmax;
+    border-radius: 50%;
+    box-shadow: 0 0 0 150vmax #2a3318;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: transparent;
+    overflow: hidden;
+}
+
+#loader-gif {
+    width: 220px;
+    height: 220px;
+    object-fit: cover;
+    opacity: 0;
 }
