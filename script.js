@@ -1793,7 +1793,7 @@ function initSmoothPageTransitions() {
                 const parser = new DOMParser();
                 const doc = parser.parseFromString(html, 'text/html');
                 
-                setTimeout(() => {
+                                setTimeout(() => {
                     gsap.to(loaderHole, { 
                         width: '0px', 
                         height: '0px', 
@@ -1801,42 +1801,42 @@ function initSmoothPageTransitions() {
                         ease: 'power2.in', 
                         onComplete: () => {
                             gsap.set(loaderGif, { opacity: 0 });
-                            
                             document.body.removeChild(loaderWrap);
-                            history.pushState({}, '', targetUrl);
+                            let cleanUrl = targetUrl;
+                            if (cleanUrl.endsWith('/index.html')) {
+                                cleanUrl = cleanUrl.replace('/index.html', '/');
+                            }
+                            history.pushState({}, '', cleanUrl);
                             document.title = doc.title;
                             const newStyles = doc.head.querySelectorAll('link[rel="stylesheet"], style');
                             newStyles.forEach(style => {
                                 const isExisting = Array.from(document.head.querySelectorAll('link[rel="stylesheet"], style')).some(existing => {
                                     return (style.href && existing.href === style.href) || 
-                                           (style.innerHTML && existing.innerHTML === style.innerHTML);
+                                            (style.innerHTML && existing.innerHTML === style.innerHTML);
                                 });
                                 if (!isExisting) document.head.appendChild(style.cloneNode(true));
                             });
-                            
                             document.body.className = doc.body.className;
                             document.body.id = doc.body.id;
                             document.body.innerHTML = doc.body.innerHTML;
-                            
                             const newHtmlLoaderWrap = document.getElementById('loader-wrapper');
                             if(newHtmlLoaderWrap) newHtmlLoaderWrap.remove();
-                            const oldBarLoader = document.getElementById('loader'); 
+                            const oldBarLoader = document.getElementById('loader');
                             if(oldBarLoader) oldBarLoader.remove();
-                            
                             document.body.appendChild(loaderWrap);
-                            
                             resetScrollTop();
                             reinitPageAfterTransition();
-                            
-                            gsap.to(loaderHole, {
-                                width: '200vmax',
-                                height: '200vmax',
-                                duration: 1,
-                                ease: 'power3.out',
-                                onComplete: () => {
-                                    loaderWrap.style.display = 'none';
-                                }
-                            });
+                            setTimeout(() => {
+                                gsap.to(loaderHole, {
+                                    width: '200vmax',
+                                    height: '200vmax',
+                                    duration: 1,
+                                    ease: 'power3.out',
+                                    onComplete: () => {
+                                        loaderWrap.style.display = 'none';
+                                    }
+                                });
+                            }, 50);
                         }
                     });
                 }, 800); 
