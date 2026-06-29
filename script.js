@@ -1792,8 +1792,7 @@ function initSmoothPageTransitions() {
                 const html = await response.text();
                 const parser = new DOMParser();
                 const doc = parser.parseFromString(html, 'text/html');
-                
-                                setTimeout(() => {
+                setTimeout(() => {
                     gsap.to(loaderHole, { 
                         width: '0px', 
                         height: '0px', 
@@ -1845,7 +1844,7 @@ function initSmoothPageTransitions() {
             }
         });
     }, { capture: true });
-    
+
     window.addEventListener('popstate', () => {
         window.location.reload();
     });
