@@ -1,6 +1,45 @@
 // Copyright 2026 Do Hoa Hiep All Rights Reserved.
-document.addEventListener("DOMContentLoaded", function() {
+function initHeroAndGraph() {
     const circleBox = document.getElementById("circleBox");
+    if (!circleBox) return;
+
+    if (window.hasPlayedHero) {
+        circleBox.style.display = "none";
+        const searchContainer = document.getElementById("searchContainer");
+        const searchBox = document.getElementById("searchBox");
+        const searchInnerCircle = document.getElementById("searchInnerCircle");
+        const searchInput = document.getElementById("searchInput");
+        
+        if (searchContainer) searchContainer.style.display = "block";
+        if (searchBox) searchBox.classList.add("step1-circle", "step3-bar", "loaded");
+        if (searchInnerCircle) searchInnerCircle.classList.add("step2-spin", "step3-move");
+        if (searchInput) searchInput.classList.add("step4-show");
+        
+        const graphContainer = document.getElementById("graph-container");
+        const appTitle = document.getElementById("appTitle");
+        const visitCounter = document.getElementById("visitCounter");
+        const feedbackBox = document.getElementById("feedbackBox");
+        const toolBar = document.getElementById("toolBarWrapper");
+        
+        if (graphContainer) graphContainer.classList.add("show");
+        if (appTitle) appTitle.classList.add("show");
+        if (visitCounter) visitCounter.classList.add("show");
+        if (feedbackBox) feedbackBox.classList.add("show");
+        if (toolBar) toolBar.classList.add("show");
+        
+        renderKanjiGraph(sampleData);
+        setupSearchHandlers();
+        
+        if (!window.pingIntervalSet) {
+            pingTracker();
+            setInterval(pingTracker, 300000);
+            window.pingIntervalSet = true;
+        }
+        return;
+    }
+
+    window.hasPlayedHero = true;
+
     const gifDuration = 4000;
     if (window.innerWidth <= 768) {
         const mobileNotice = document.createElement("div");
@@ -66,9 +105,13 @@ document.addEventListener("DOMContentLoaded", function() {
         }, 1000);
     }, gifDuration);
     
-    pingTracker();
-    setInterval(pingTracker, 300000);
-});
+    if (!window.pingIntervalSet) {
+        pingTracker();
+        setInterval(pingTracker, 300000);
+        window.pingIntervalSet = true;
+    }
+}
+document.addEventListener("DOMContentLoaded", initHeroAndGraph);
 
 function setupSearchHandlers() {
     const searchInput = document.getElementById("searchInput");
@@ -764,15 +807,16 @@ function hideTooltip() {
         tooltip.classList.remove("visible");
     }
 }
-const TRACKING_ENDPOINT = atob("aHR0cHM6Ly9zY3JpcHQuZ29vZ2xlLmNvbS9tYWNyb3Mvcy9BS2Z5Y2J3SF9qLUMxMEJPR3c0bzRsRXZfNFQyZlpNaUNBOHFiSXJ2aUhfbi1YaUZGdFJyaXVsRXRNS1d1di1rNDRiQXZFemcvZXhlYw==");
+const TRACKING_ENDPOINT = atob("aHR0cHM6Ly9zY3JpcHQuZ29vZ2xlLmNvbS9tYWNyb3Mvcy9BS2Z5Y2J3SF9qLUMxMEJPR3c0bzRsRXZfNFQyZlpNaUNBOHFiSXJ2aUhfbi1YaUZGdFJyaXVsRXRNS1d1di1rNDRiQXZFemcvZXxlYw==");
 
-function getSessionId() {
-    return "req_" + Math.random().toString(36).substr(2, 9) + Date.now();
-}
+const PAGE_SESSION_ID = "req_" + Math.random().toString(36).substr(2, 9) + Date.now();
 
 function pingTracker() {
-    const sessionId = getSessionId();
-    fetch(TRACKING_ENDPOINT + "?action=ping&id=" + sessionId)
+    let isReturning = localStorage.getItem("kanjimap_visited") ? "true" : "false";
+    if (isReturning === "false") {
+        localStorage.setItem("kanjimap_visited", "true");
+    }
+    fetch(TRACKING_ENDPOINT + "?action=ping&id=" + PAGE_SESSION_ID + "&is_returning=" + isReturning)
         .then(res => res.json())
         .then(data => {
             if(data.x !== undefined && data.y !== undefined) {
@@ -993,9 +1037,10 @@ if (infoBoxEl && window.ResizeObserver) {
     });
     resizeObserver.observe(infoBoxEl);
 }
-document.addEventListener("DOMContentLoaded", function() {
+function initFeedbackBox() {
     const feedbackBox = document.getElementById('feedbackBox');
     const feedbackContent = document.getElementById('feedbackContent');
+    if (!feedbackBox) return;
     const feedbackCloseBtn = document.getElementById('feedbackCloseBtn');
     const feedbackSubmitBtn = document.getElementById('feedbackSubmitBtn');
     const feedbackInput = document.getElementById('feedbackInput');
@@ -1044,10 +1089,12 @@ document.addEventListener("DOMContentLoaded", function() {
             }, 2000);
         }
     });
-});
-document.addEventListener("DOMContentLoaded", function() {
+}
+document.addEventListener("DOMContentLoaded", initFeedbackBox);
+function initAppTitleEffect() {
     const appTitle = document.getElementById("appTitle");
     const fallingH = document.getElementById("fallingH");
+    if (!appTitle) return;
     const oaHiepText = document.getElementById("oaHiepText");
     const grabHand = document.getElementById("grabHand");
     const hoahiepContainer = document.getElementById("hoahiepContainer");
@@ -1136,8 +1183,9 @@ document.addEventListener("DOMContentLoaded", function() {
 
     appTitle.addEventListener("mouseenter", triggerFallEffect);
     appTitle.addEventListener("touchstart", triggerFallEffect, {passive: true});
-});
-document.addEventListener("DOMContentLoaded", function() {
+}
+document.addEventListener("DOMContentLoaded", initAppTitleEffect);
+function initToolbarObserver() {
     const vocabList = document.getElementById("vocabList");
     const feedbackBox = document.getElementById("feedbackBox");
 
@@ -1185,26 +1233,13 @@ document.addEventListener("DOMContentLoaded", function() {
         });
         observer.observe(vocabList, { attributes: true, attributeFilter: ['class'] });
     }
-});
-document.addEventListener("DOMContentLoaded", function() {
-    const toast = document.createElement('div');
-    toast.className = 'dev-toast';
-    toast.innerText = 'Tính năng đang được phát triển!';
-    document.body.appendChild(toast);
+}
+document.addEventListener("DOMContentLoaded", initToolbarObserver);
 
-    let toastTimer;
-    function showDevToast() {
-        clearTimeout(toastTimer);
-        toast.classList.add('show');
-        toastTimer = setTimeout(() => {
-            toast.classList.remove('show');
-        }, 2000);
-    }
-
+function initFlashcardTools() {
     const btnFlashcard = document.getElementById('btnFlashcard');
     const btnMindmap = document.getElementById('btnMindmap');
     const btnPrint = document.getElementById('btnPrint');
-
     if (btnFlashcard) {
         btnFlashcard.addEventListener('click', function() {
             const words = [];
@@ -1584,7 +1619,7 @@ document.addEventListener("DOMContentLoaded", function() {
         renderNextCard();
         document.getElementById('fcOverlay').classList.add('show');
     }
-    if (btnMindmap) btnMindmap.addEventListener('click', showDevToast);
+
     
     if (btnPrint) {
         btnPrint.addEventListener('click', function() {
@@ -1684,4 +1719,138 @@ document.addEventListener("DOMContentLoaded", function() {
             printWindow.document.close();
         });
     }
+}
+document.addEventListener("DOMContentLoaded", initFlashcardTools);
+const resetScrollTop = () => {
+    window.scrollTo(0, 0);
+    document.documentElement.scrollTop = 0;
+    document.body.scrollTop = 0;
+};
+
+function reinitPageAfterTransition() {
+    if (typeof initHeroAndGraph === 'function') initHeroAndGraph();
+    if (typeof initFeedbackBox === 'function') initFeedbackBox();
+    if (typeof initAppTitleEffect === 'function') initAppTitleEffect();
+    if (typeof initToolbarObserver === 'function') initToolbarObserver();
+    if (typeof initFlashcardTools === 'function') initFlashcardTools();
+}
+
+function initSmoothPageTransitions() {
+    let loaderWrapper = document.getElementById('loader-wrapper');
+    if (!loaderWrapper) {
+        loaderWrapper = document.createElement('div');
+        loaderWrapper.id = 'loader-wrapper';
+        
+        loaderWrapper.innerHTML = `
+            <div id="loader-hole">
+                <img id="loader-gif">
+            </div>
+        `;
+        document.body.appendChild(loaderWrapper);
+    }
+
+    document.addEventListener('click', async (e) => {
+        const link = e.target.closest('a[href]');
+        if (!link) return;
+        
+        const hrefAttr = (link.getAttribute('href') || '').trim();
+        if (hrefAttr.startsWith('#') || link.target === '_blank' || !link.href.includes(window.location.origin) || link.hasAttribute('download')) {
+            return;
+        }
+        
+        e.preventDefault();
+        const targetUrl = link.href;
+        const depth = window.location.pathname.split('/').length - 2;
+        const prefix = depth > 0 ? '../'.repeat(depth) : '';
+        const gifPath = prefix + 'images/doraemon2.gif';
+        document.getElementById('loader-gif').src = gifPath + '?t=' + new Date().getTime();
+
+        const loaderWrap = document.getElementById('loader-wrapper');
+        const loaderHole = document.getElementById('loader-hole');
+        const loaderGif = document.getElementById('loader-gif');
+        
+        loaderWrap.style.display = 'block';
+        gsap.set(loaderHole, { width: '200vmax', height: '200vmax' });
+        gsap.set(loaderGif, { opacity: 0 });
+        
+        const tl = gsap.timeline();
+        
+        tl.to(loaderHole, {
+            width: '220px',
+            height: '220px',
+            duration: 0.8,
+            ease: 'power3.inOut'
+        })
+        .to(loaderGif, {
+            opacity: 1,
+            duration: 0.3
+        }, "-=0.2")
+        .add(async () => {
+            try {
+                const response = await fetch(targetUrl);
+                if (!response.ok) throw new Error('Fetch failed');
+                const html = await response.text();
+                const parser = new DOMParser();
+                const doc = parser.parseFromString(html, 'text/html');
+                
+                setTimeout(() => {
+                    gsap.to(loaderHole, { 
+                        width: '0px', 
+                        height: '0px', 
+                        duration: 0.5, 
+                        ease: 'power2.in', 
+                        onComplete: () => {
+                            gsap.set(loaderGif, { opacity: 0 });
+                            
+                            document.body.removeChild(loaderWrap);
+                            history.pushState({}, '', targetUrl);
+                            document.title = doc.title;
+                            const newStyles = doc.head.querySelectorAll('link[rel="stylesheet"], style');
+                            newStyles.forEach(style => {
+                                const isExisting = Array.from(document.head.querySelectorAll('link[rel="stylesheet"], style')).some(existing => {
+                                    return (style.href && existing.href === style.href) || 
+                                           (style.innerHTML && existing.innerHTML === style.innerHTML);
+                                });
+                                if (!isExisting) document.head.appendChild(style.cloneNode(true));
+                            });
+                            
+                            document.body.className = doc.body.className;
+                            document.body.id = doc.body.id;
+                            document.body.innerHTML = doc.body.innerHTML;
+                            
+                            const newHtmlLoaderWrap = document.getElementById('loader-wrapper');
+                            if(newHtmlLoaderWrap) newHtmlLoaderWrap.remove();
+                            const oldBarLoader = document.getElementById('loader'); 
+                            if(oldBarLoader) oldBarLoader.remove();
+                            
+                            document.body.appendChild(loaderWrap);
+                            
+                            resetScrollTop();
+                            reinitPageAfterTransition();
+                            
+                            gsap.to(loaderHole, {
+                                width: '200vmax',
+                                height: '200vmax',
+                                duration: 1,
+                                ease: 'power3.out',
+                                onComplete: () => {
+                                    loaderWrap.style.display = 'none';
+                                }
+                            });
+                        }
+                    });
+                }, 800); 
+            } catch (err) {
+                window.location.href = targetUrl;
+            }
+        });
+    }, { capture: true });
+    
+    window.addEventListener('popstate', () => {
+        window.location.reload();
+    });
+}
+
+document.addEventListener("DOMContentLoaded", function() {
+    initSmoothPageTransitions();
 });
