@@ -111,7 +111,6 @@ function initHeroAndGraph() {
         window.pingIntervalSet = true;
     }
 }
-document.addEventListener("DOMContentLoaded", initHeroAndGraph);
 
 function setupSearchHandlers() {
     const searchInput = document.getElementById("searchInput");
@@ -1090,7 +1089,6 @@ function initFeedbackBox() {
         }
     });
 }
-document.addEventListener("DOMContentLoaded", initFeedbackBox);
 function initAppTitleEffect() {
     const appTitle = document.getElementById("appTitle");
     const fallingH = document.getElementById("fallingH");
@@ -1184,57 +1182,63 @@ function initAppTitleEffect() {
     appTitle.addEventListener("mouseenter", triggerFallEffect);
     appTitle.addEventListener("touchstart", triggerFallEffect, {passive: true});
 }
-document.addEventListener("DOMContentLoaded", initAppTitleEffect);
 function initToolbarObserver() {
+    const toolBarWrapper = document.getElementById("toolBarWrapper");
+    if (!toolBarWrapper) return;
+
+    const toolBarTab = document.getElementById("toolBarTab");
+    const toolBarMain = document.getElementById("toolBarMain");
+    let toolBarTimer;
+
+    function startToolBarTimer() {
+        clearTimeout(toolBarTimer);
+        if (window.innerWidth <= 768 && !toolBarWrapper.classList.contains("collapsed")) {
+            toolBarTimer = setTimeout(() => {
+                toolBarWrapper.classList.add("collapsed");
+            }, 4000); 
+        }
+    }
+    const circleBox = document.getElementById("circleBox");
+    if (circleBox && circleBox.style.display === "none") {
+        toolBarWrapper.classList.add("show");
+        toolBarWrapper.classList.remove("collapsed");
+        startToolBarTimer();
+    }
+
+    if (toolBarTab) {
+        toolBarTab.addEventListener("click", () => {
+            toolBarWrapper.classList.toggle("collapsed");
+            startToolBarTimer();
+        });
+    }
+
+    if (toolBarMain) {
+        toolBarMain.addEventListener("click", startToolBarTimer);
+        toolBarMain.addEventListener("touchstart", startToolBarTimer, {passive: true});
+    }
+
     const vocabList = document.getElementById("vocabList");
     const feedbackBox = document.getElementById("feedbackBox");
-
-    if (vocabList && feedbackBox) {
-        const toolBarWrapper = document.getElementById("toolBarWrapper");
-        const toolBarTab = document.getElementById("toolBarTab");
-        const toolBarMain = document.getElementById("toolBarMain");
-        let toolBarTimer;
-
-        function startToolBarTimer() {
-            clearTimeout(toolBarTimer);
-            if (window.innerWidth <= 768 && toolBarWrapper && !toolBarWrapper.classList.contains("collapsed")) {
-                toolBarTimer = setTimeout(() => {
-                    toolBarWrapper.classList.add("collapsed");
-                }, 5000);
-            }
-        }
-
-        if (toolBarTab) {
-            toolBarTab.addEventListener("click", () => {
-                toolBarWrapper.classList.toggle("collapsed");
-                startToolBarTimer();
-            });
-        }
-
-        if (toolBarMain) {
-            toolBarMain.addEventListener("click", startToolBarTimer);
-            toolBarMain.addEventListener("touchstart", startToolBarTimer, {passive: true});
-        }
-
+    
+    if (vocabList) {
         const observer = new MutationObserver(function() {
             if (vocabList.classList.contains("step1-width")) {
                 if (window.innerWidth <= 768) {
-                    feedbackBox.classList.add("hide-on-mobile");
+                    if (feedbackBox) feedbackBox.classList.add("hide-on-mobile");
                 } else {
-                    if (toolBarWrapper) toolBarWrapper.classList.add("hidden-by-vocab");
+                    toolBarWrapper.classList.add("hidden-by-vocab");
                 }
             } else {
                 if (window.innerWidth <= 768) {
-                    feedbackBox.classList.remove("hide-on-mobile");
+                    if (feedbackBox) feedbackBox.classList.remove("hide-on-mobile");
                 } else {
-                    if (toolBarWrapper) toolBarWrapper.classList.remove("hidden-by-vocab");
+                    toolBarWrapper.classList.remove("hidden-by-vocab");
                 }
             }
         });
         observer.observe(vocabList, { attributes: true, attributeFilter: ['class'] });
     }
 }
-document.addEventListener("DOMContentLoaded", initToolbarObserver);
 
 function initFlashcardTools() {
     const btnFlashcard = document.getElementById('btnFlashcard');
@@ -1720,7 +1724,6 @@ function initFlashcardTools() {
         });
     }
 }
-document.addEventListener("DOMContentLoaded", initFlashcardTools);
 const resetScrollTop = () => {
     window.scrollTo(0, 0);
     document.documentElement.scrollTop = 0;
@@ -1851,5 +1854,10 @@ function initSmoothPageTransitions() {
 }
 
 document.addEventListener("DOMContentLoaded", function() {
+    initHeroAndGraph();
+    initFeedbackBox();
+    initAppTitleEffect();
+    initToolbarObserver();
+    initFlashcardTools();
     initSmoothPageTransitions();
 });
