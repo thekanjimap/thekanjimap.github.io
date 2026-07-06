@@ -27,6 +27,8 @@ function initHeroAndGraph() {
         if (feedbackBox) feedbackBox.classList.add("show");
         if (toolBar) toolBar.classList.add("show");
         
+        const filterBox = document.getElementById("filterBox");
+        if (filterBox) filterBox.classList.add("show");
         renderKanjiGraph(sampleData);
         setupSearchHandlers();
         
@@ -85,6 +87,8 @@ function initHeroAndGraph() {
                             document.getElementById("appTitle").classList.add("show");
                             document.getElementById("visitCounter").classList.add("show");
                             document.getElementById("feedbackBox").classList.add("show");
+                            const filterBox = document.getElementById("filterBox");
+                            if (filterBox) filterBox.classList.add("show");
                             const toolBar = document.getElementById("toolBarWrapper");
                             if (toolBar) {
                                 toolBar.classList.add("show");
@@ -806,7 +810,7 @@ function hideTooltip() {
         tooltip.classList.remove("visible");
     }
 }
-const TRACKING_ENDPOINT = atob("aHR0cHM6Ly9zY3JpcHQuZ29vZ2xlLmNvbS9tYWNyb3Mvcy9BS2Z5Y2J3SF9qLUMxMEJPR3c0bzRsRXZfNFQyZlpNaUNBOHFiSXJ2aUhfbi1YaUZGdFJyaXVsRXRNS1d1di1rNDRiQXZFemcvZXxlYw==");
+const TRACKING_ENDPOINT = atob("aHR0cHM6Ly9zY3JpcHQuZ29vZ2xlLmNvbS9tYWNyb3Mvcy9BS2Z5Y2J6SS02OEZZTHZqN091aTUxY1libnctOWRiTklLblk2NlFZY1ByWTM0SGJKa2wxTkNLRFJ2YnVEemY1enBYcXoxcy9leGVj");
 
 const PAGE_SESSION_ID = "req_" + Math.random().toString(36).substr(2, 9) + Date.now();
 
@@ -822,7 +826,13 @@ function pingTracker() {
                 document.getElementById("visitCounter").textContent = "Lượt truy cập: " + data.x + " | " + data.y;
             }
         })
-        .catch(() => {});
+        .catch((err) => {
+            console.error("Error fetching or parsing tracker data:", err);
+            const counter = document.getElementById("visitCounter");
+            if (counter) {
+                counter.textContent = "Lỗi tải truy cập";
+            }
+        });
 }
 function logErrorToServer(keyword, errorType) {
     const userAgent = navigator.userAgent;
