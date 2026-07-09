@@ -334,15 +334,25 @@ function setupSearchHandlers() {
         }, 400);
     }
     let searchTimeout;
-    searchInput.addEventListener("input", (e) => {
-        const keyword = e.target.value.trim();
+    let autoSwitchTimeout; 
+    function checkModeSwitch() {
+        const keyword = searchInput.value.trim();
         const modeWrapper = document.getElementById("modeWrapper");
-        if (!modeWrapper || modeWrapper.classList.contains("animating")) return;
+        if (!modeWrapper) return;
+        if (modeWrapper.classList.contains("animating")) {
+            autoSwitchTimeout = setTimeout(checkModeSwitch, 100);
+            return;
+        }
         if (keyword.length >= 2 && window.currentSearchMode === 'radical') {
             modeWrapper.click();
         } else if (keyword.length < 2 && window.currentSearchMode === 'vocab') {
             modeWrapper.click();
         }
+    }
+
+    searchInput.addEventListener("input", (e) => {
+        clearTimeout(autoSwitchTimeout);
+        autoSwitchTimeout = setTimeout(checkModeSwitch, 250);
     });
     searchInput.addEventListener("keypress", (e) => {
         if (e.key === "Enter") {
