@@ -20,9 +20,23 @@
                     <line x1="12" y1="12" x2="19" y2="19"></line>
                 </svg>
             </div>
-            <input type="text" class="search-input" id="searchInput" placeholder="Nhập Kanji cần tra..." maxlength="10">
+            <input type="text" class="search-input" id="searchInput" placeholder="Nhập kanji cần tra..." maxlength="10">
             <button class="close-btn" id="closeBtn">✕</button>
         </div>
+
+            <input type="text" class="search-input" id="searchInput" placeholder="Nhập bộ thủ/kanji cần tra..." maxlength="10">
+            <button class="close-btn" id="closeBtn">✕</button>
+        </div>
+
+        <div class="mode-wrapper" id="modeWrapper" data-mode="radical">
+            <div class="mode-toggle-btn">
+                <div class="toggle-circle"></div>
+            </div>
+            <div class="mode-text-container">
+                <span class="mode-text" id="modeText">Bộ thủ</span>
+            </div>
+        </div>
+
         <div class="vocab-drop-container" id="vocabDropContainer">
             <button class="vocab-btn" id="vocabBtn">Mở rộng từ vựng</button>
             <div class="vocab-list" id="vocabList"></div>
