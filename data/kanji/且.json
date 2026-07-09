@@ -1,0 +1,56 @@
+{
+  "id": "且",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "且",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "strokeCount": 5,
+    "meaning": "hơn nữa, hơn nữa, hơn nữa",
+    "kunyomi": [
+      "か.つ"
+    ],
+    "onyomi": [
+      "ショ",
+      "ソ",
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "苟且",
+        "reading": "コウショ",
+        "meaning": "tạm thời, tạm thời, tạm thời"
+      },
+      {
+        "example": "暫且",
+        "reading": "ザンショ",
+        "meaning": "trong thời gian ngắn"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "且つ",
+        "reading": "かつ",
+        "meaning": "và hơn nữa, bên cạnh đó, cũng như, và trên hết, đồng thời"
+      },
+      {
+        "example": "且つ又",
+        "reading": "かつまた",
+        "meaning": "ngoài ra, hơn nữa, hơn nữa"
+      }
+    ],
+    "radical": {
+      "symbol": "一",
+      "meaning": "một"
+    },
+    "parts": [
+      "一",
+      "目"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/19988_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e14.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e14.gif",
+    "uri": "https://jisho.org/search/%E4%B8%94%23kanji"
+  }
+}

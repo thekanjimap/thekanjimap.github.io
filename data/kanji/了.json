@@ -1,0 +1,282 @@
+{
+  "id": "了",
+  "kanjialiveData": {
+    "_id": "54317adf791eba5146ee4913",
+    "_rev": "14-edf46529a70cd45c901014dc2129c251",
+    "rad_name_ja": "はねぼう",
+    "grade": null,
+    "hint_group": 1,
+    "kunyomi": "Không có",
+    "meaning": "kết thúc, hoàn thành, hiểu",
+    "kstroke": 2,
+    "examples": [
+      {
+        "japanese": "未了（みりょう）",
+        "meaning": {
+          "english": "chưa hoàn thành, chưa hoàn thành [n.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kan)ryou(suru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(kan)ryou(suru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(kan)ryou(suru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(kan)ryou(suru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "了解する（りょうかいする）",
+        "meaning": {
+          "english": "đồng ý, hiểu"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kan)ryou(suru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(kan)ryou(suru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(kan)ryou(suru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(kan)ryou(suru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "了承する（りょうしょうする）",
+        "meaning": {
+          "english": "chấp thuận, đồng ý"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kan)ryou(suru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(kan)ryou(suru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(kan)ryou(suru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(kan)ryou(suru)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "完了する（かんりょうする）",
+        "meaning": {
+          "english": "hoàn thành, kết luận"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kan)ryou(suru)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(kan)ryou(suru)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(kan)ryou(suru)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(kan)ryou(suru)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "終了する（しゅうりょうする）",
+        "meaning": {
+          "english": "đóng, kết thúc"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kan)ryou(suru)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(kan)ryou(suru)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(kan)ryou(suru)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(kan)ryou(suru)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "満了する（まんりょうする）",
+        "meaning": {
+          "english": "hết hạn, chấm dứt"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kan)ryou(suru)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(kan)ryou(suru)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(kan)ryou(suru)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(kan)ryou(suru)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "修了する（しゅうりょうする）",
+        "meaning": {
+          "english": "hoàn thành, kết thúc"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(kan)ryou(suru)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(kan)ryou(suru)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(kan)ryou(suru)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(kan)ryou(suru)_06_g.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "了",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=了",
+    "kname": "(kan)ryou(suru)",
+    "rad_order": 7,
+    "txt_books": [
+      {
+        "chapter": "2",
+        "txt_bk": "txtIKB"
+      }
+    ],
+    "rad_name_search": [
+      "hanebou"
+    ],
+    "rad_utf": "⼅",
+    "stroketimes": [
+      0,
+      1.6,
+      3.333333
+    ],
+    "kunyomi_ka_display": "Không có",
+    "dick": "2107",
+    "rad_name": "hanebou",
+    "dicn": "268",
+    "mn_hint": "Fishing rod フ with hook 亅at its end.",
+    "rad_stroke": 1,
+    "onyomi_ja": "リョウ",
+    "rad_meaning": "đột quỵ dọc với một cái móc",
+    "onyomi": "ryou",
+    "ka_id": "ka_1224",
+    "onyomi_search": [
+      "ryou",
+      "ryou"
+    ],
+    "kunyomi_search": [
+      "Không có",
+      "Không có"
+    ],
+    "meaning_search": [
+      "finish",
+      "complete",
+      "understand",
+      "finish, complete, understand"
+    ],
+    "onyomi_ja_search": [
+      "リョウ",
+      "リョウ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "vertical stroke with a hook",
+      "vertical",
+      "stroke",
+      "with",
+      "a",
+      "hook",
+      "vertical stroke with a hook"
+    ],
+    "rad_name_ja_search": [
+      "はねぼう"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "ik1",
+      "ik1:2",
+      "ik1:c2"
+    ],
+    "rad_name_file": "hanebou",
+    "kanji": {
+      "character": "了",
+      "meaning": {
+        "english": "finish, complete, understand"
+      },
+      "strokes": {
+        "count": 2,
+        "timings": [
+          0,
+          1.6,
+          3.333333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/(kan)ryou(suru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/(kan)ryou(suru)_2.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "ryou",
+        "katakana": "リョウ"
+      },
+      "kunyomi": {
+        "romaji": "Không có",
+        "hiragana": "Không có"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/(kan)ryou(suru)_2.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/(kan)ryou(suru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/(kan)ryou(suru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼅",
+      "strokes": 1,
+      "image": "https://media.kanjialive.com/radical_character/hanebou.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "はねぼう",
+        "romaji": "hanebou"
+      },
+      "meaning": {
+        "english": "đột quỵ dọc với một cái móc"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/hanebou0.svg",
+        "https://media.kanjialive.com/rad_frames/hanebou1.svg",
+        "https://media.kanjialive.com/rad_frames/hanebou2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "2107",
+      "classic_nelson": "268"
+    }
+  },
+  "jishoData": {
+    "query": "了",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "792",
+    "strokeCount": 2,
+    "meaning": "hoàn thành, kết thúc",
+    "kunyomi": [],
+    "onyomi": [
+      "リョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "了",
+        "reading": "リョウ",
+        "meaning": "sự kết thúc, sự hoàn thành, sự kết thúc"
+      },
+      {
+        "example": "諒",
+        "reading": "リョウ",
+        "meaning": "sự thật, sự thật, sự hiểu biết, sự cân nhắc"
+      },
+      {
+        "example": "満了",
+        "reading": "マンリョウ",
+        "meaning": "hết hạn, chấm dứt"
+      },
+      {
+        "example": "未了",
+        "reading": "ミリョウ",
+        "meaning": "chưa hoàn thành, chưa thực hiện (lệnh), chưa được thực hiện"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "亅",
+      "meaning": "cái móc"
+    },
+    "parts": [
+      "一",
+      "亅"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20102_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e86.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e86.gif",
+    "uri": "https://jisho.org/search/%E4%BA%86%23kanji"
+  }
+}

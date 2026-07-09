@@ -1,0 +1,62 @@
+{
+  "id": "享",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "享",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1893",
+    "strokeCount": 8,
+    "meaning": "thưởng thức, nhận, trải qua, trả lời (điện thoại), lấy, nhận, nắm bắt",
+    "kunyomi": [
+      "う.ける"
+    ],
+    "onyomi": [
+      "キョウ",
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "享受",
+        "reading": "キョウジュ",
+        "meaning": "hưởng thụ (tự do, vẻ đẹp, v.v.), tiếp nhận (quyền, đặc quyền, cấp bậc, v.v.), có"
+      },
+      {
+        "example": "饗宴",
+        "reading": "キョウエン",
+        "meaning": "bữa tiệc, bữa tiệc"
+      },
+      {
+        "example": "永享",
+        "reading": "エイキョウ",
+        "meaning": "Thời đại Eikyō (1429.9.5-1441.2.17)"
+      },
+      {
+        "example": "貞享",
+        "reading": "ジョウキョウ",
+        "meaning": "Thời đại Jōkyō (1684.2.21-1688.9.30)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "受ける",
+        "reading": "うける",
+        "meaning": "nhận, được, bắt (ví dụ một quả bóng), bị (gió, sóng, ánh sáng mặt trời, v.v.), duy trì (thiệt hại), chịu (mất mát), đau khổ (chấn thương), cảm thấy (ảnh hưởng), trải qua (ví dụ như phẫu thuật), thực hiện (một bài kiểm tra), chấp nhận (một thử thách), được cho (ví dụ như cuộc sống, tài năng), tìm thấy sự hài hước, thấy hài hước, thích thú (bởi), đi theo, thành công, được xuất thân, đối mặt (miền nam, v.v.), được sửa đổi bởi, để có được (một món đồ cầm đồ, v.v.) bằng cách trả một khoản phí, được đón nhận nồng nhiệt, trở nên phổ biến, đi xuống tốt"
+      }
+    ],
+    "radical": {
+      "symbol": "亠",
+      "meaning": "nắp"
+    },
+    "parts": [
+      "亠",
+      "口",
+      "子"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20139_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04eab.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4eab.gif",
+    "uri": "https://jisho.org/search/%E4%BA%AB%23kanji"
+  }
+}
