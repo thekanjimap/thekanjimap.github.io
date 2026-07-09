@@ -1,0 +1,70 @@
+{
+  "id": "佑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "佑",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2250",
+    "strokeCount": 7,
+    "meaning": "giúp đỡ, hỗ trợ",
+    "kunyomi": [
+      "たす.ける"
+    ],
+    "onyomi": [
+      "ユウ",
+      "ウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "佑助",
+        "reading": "ユウジョ",
+        "meaning": "sự giúp đỡ"
+      },
+      {
+        "example": "神祐",
+        "reading": "シンユウ",
+        "meaning": "sự bảo vệ của thiên đường, sự giúp đỡ của thần thánh"
+      },
+      {
+        "example": "天佑",
+        "reading": "テンユウ",
+        "meaning": "sự giúp đỡ thiêng liêng, ân sủng thiêng liêng, sự giúp đỡ quan phòng"
+      },
+      {
+        "example": "神祐",
+        "reading": "シンユウ",
+        "meaning": "sự bảo vệ của thiên đường, sự giúp đỡ của thần thánh"
+      },
+      {
+        "example": "天佑",
+        "reading": "テンユウ",
+        "meaning": "sự giúp đỡ thiêng liêng, ân sủng thiêng liêng, sự giúp đỡ quan phòng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "助ける",
+        "reading": "たすける",
+        "meaning": "tiết kiệm, giải cứu, phụ tùng, giúp đỡ, hỗ trợ, hỗ trợ (tài chính), đóng góp (để), cung cấp viện trợ, tạo điều kiện thuận lợi, kích thích, thúc đẩy, đóng góp cho"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "đàn ông, con người"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "化",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20305_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f51.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f51.gif",
+    "uri": "https://jisho.org/search/%E4%BD%91%23kanji"
+  }
+}

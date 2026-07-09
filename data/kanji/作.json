@@ -1,0 +1,440 @@
+{
+  "id": "作",
+  "kanjialiveData": {
+    "_id": "54317afb791eba5146ee4b30",
+    "_rev": "12-410b66e66202ac3e76a1b3370f4d4732",
+    "rad_name_ja": "にんべん",
+    "grade": 2,
+    "hint_group": 1,
+    "kunyomi": "tsuku, tsukuru, tsukuri",
+    "meaning": "làm, làm việc",
+    "kstroke": 7,
+    "examples": [
+      {
+        "japanese": "作成する（さくせいする）",
+        "meaning": {
+          "english": "sản xuất"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saku-tsuku(ru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/saku-tsuku(ru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/saku-tsuku(ru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/saku-tsuku(ru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "試作する（しさくする）",
+        "meaning": {
+          "english": "làm một nguyên mẫu"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saku-tsuku(ru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/saku-tsuku(ru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/saku-tsuku(ru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/saku-tsuku(ru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "作戦（さくせん）",
+        "meaning": {
+          "english": "chiến lược"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saku-tsuku(ru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/saku-tsuku(ru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/saku-tsuku(ru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/saku-tsuku(ru)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "作曲家（さっきょくか）",
+        "meaning": {
+          "english": "nhà soạn nhạc"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saku-tsuku(ru)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/saku-tsuku(ru)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/saku-tsuku(ru)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/saku-tsuku(ru)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "作曲する（さっきょくする）",
+        "meaning": {
+          "english": "soạn"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saku-tsuku(ru)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/saku-tsuku(ru)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/saku-tsuku(ru)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/saku-tsuku(ru)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "操作する（そうさする）",
+        "meaning": {
+          "english": "vận hành"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saku-tsuku(ru)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/saku-tsuku(ru)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/saku-tsuku(ru)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/saku-tsuku(ru)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "作業する（さぎょうする）",
+        "meaning": {
+          "english": "công việc [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saku-tsuku(ru)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/saku-tsuku(ru)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/saku-tsuku(ru)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/saku-tsuku(ru)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "動作（どうさ）",
+        "meaning": {
+          "english": "phong trào"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saku-tsuku(ru)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/saku-tsuku(ru)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/saku-tsuku(ru)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/saku-tsuku(ru)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "作る（つくる）",
+        "meaning": {
+          "english": "làm"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saku-tsuku(ru)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/saku-tsuku(ru)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/saku-tsuku(ru)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/saku-tsuku(ru)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "形作る（かたちづくる）",
+        "meaning": {
+          "english": "hình thức [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saku-tsuku(ru)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/saku-tsuku(ru)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/saku-tsuku(ru)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/saku-tsuku(ru)_06_j.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "つく、つくる、つくり",
+    "ka_utf": "作",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=作",
+    "kname": "saku-tsuku(ru)",
+    "rad_order": 11,
+    "txt_books": [
+      {
+        "chapter": "10",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "11",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "14",
+        "txt_bk": "txtAd2"
+      },
+      {
+        "chapter": "8",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtSFJ1"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "8",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "11",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "29"
+      }
+    ],
+    "rad_name_search": [
+      "ninben"
+    ],
+    "rad_utf": "⺅",
+    "stroketimes": [
+      1.295,
+      2.133,
+      3.066,
+      4.6,
+      5.666,
+      6.666,
+      7.466,
+      8.4
+    ],
+    "kunyomi_ka_display": "つく",
+    "dick": "49",
+    "rad_name": "ninben",
+    "dicn": "407",
+    "mn_hint": "Person's イ surprise 乍 at the sight of a beautifully made object.",
+    "rad_stroke": 2,
+    "onyomi_ja": "サク、サ",
+    "rad_meaning": "người",
+    "onyomi": "saku, sa",
+    "ka_id": "ka_60",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "saku",
+      "sa",
+      "saku, sa"
+    ],
+    "kunyomi_search": [
+      "tsuku",
+      "tsukuru",
+      "tsukuri",
+      "tsuku, tsukuru, tsukuri"
+    ],
+    "meaning_search": [
+      "make",
+      "work",
+      "make, work"
+    ],
+    "onyomi_ja_search": [
+      "サク",
+      "サ",
+      "サク、サ"
+    ],
+    "kunyomi_ja_search": [
+      "つく",
+      "つくる",
+      "つくり",
+      "つく、つくる、つくり"
+    ],
+    "rad_meaning_search": [
+      "person",
+      "person "
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "にんべん"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:10",
+      "cij:c10",
+      "bk",
+      "bk:11",
+      "bk:c11",
+      "aij3",
+      "aij3:14",
+      "aij3:c14",
+      "aij3:v2",
+      "aij3:v2:14",
+      "aij3:v2:c14",
+      "gen",
+      "gen:8",
+      "gen:c8",
+      "ap",
+      "ap:7",
+      "ap:c7",
+      "kll",
+      "kll:11",
+      "kll:c11",
+      "cijr",
+      "cijr:29",
+      "cijr:c29"
+    ],
+    "rad_name_file": "ninben",
+    "kanji": {
+      "character": "作",
+      "meaning": {
+        "english": "make, work"
+      },
+      "strokes": {
+        "count": 7,
+        "timings": [
+          1.295,
+          2.133,
+          3.066,
+          4.6,
+          5.666,
+          6.666,
+          7.466,
+          8.4
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/saku-tsuku(ru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/saku-tsuku(ru)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/saku-tsuku(ru)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/saku-tsuku(ru)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/saku-tsuku(ru)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/saku-tsuku(ru)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/saku-tsuku(ru)_7.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "saku, sa",
+        "katakana": "サク、サ"
+      },
+      "kunyomi": {
+        "romaji": "tsuku, tsukuru, tsukuri",
+        "hiragana": "つく"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/saku-tsuku(ru)_7.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/saku-tsuku(ru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/saku-tsuku(ru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺅",
+      "strokes": 2,
+      "image": "https://media.kanjialive.com/radical_character/ninben.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "にんべん",
+        "romaji": "ninben"
+      },
+      "meaning": {
+        "english": "người"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/ninben0.svg",
+        "https://media.kanjialive.com/rad_frames/ninben1.svg",
+        "https://media.kanjialive.com/rad_frames/ninben2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "49",
+      "classic_nelson": "407"
+    }
+  },
+  "jishoData": {
+    "query": "作",
+    "found": true,
+    "taughtIn": "lớp 2",
+    "jlptLevel": "N4",
+    "newspaperFrequencyRank": "103",
+    "strokeCount": 7,
+    "meaning": "chế tạo, sản xuất, chuẩn bị, xây dựng",
+    "kunyomi": [
+      "つく.る",
+      "つく.り",
+      "-づく.り"
+    ],
+    "onyomi": [
+      "サク",
+      "サ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "作",
+        "reading": "サク",
+        "meaning": "công việc (ví dụ như nghệ thuật), tác phẩm, sản xuất, thu hoạch, mùa màng, năng suất, trồng trọt, làm đất, kỹ thuật"
+      },
+      {
+        "example": "作柄",
+        "reading": "サクガラ",
+        "meaning": "vụ mùa (điều kiện), thu hoạch, năng suất, chất lượng (của một tác phẩm nghệ thuật)"
+      },
+      {
+        "example": "大作",
+        "reading": "タイサク",
+        "meaning": "công trình quy mô lớn, công trình đồ sộ, công trình đồ sộ, công trình vĩ đại, kiệt tác"
+      },
+      {
+        "example": "遺作",
+        "reading": "イサク",
+        "meaning": "tác phẩm để lại"
+      },
+      {
+        "example": "作",
+        "reading": "サク",
+        "meaning": "công việc (ví dụ như nghệ thuật), tác phẩm, sản xuất, thu hoạch, mùa màng, năng suất, trồng trọt, làm đất, kỹ thuật"
+      },
+      {
+        "example": "作業",
+        "reading": "サギョウ",
+        "meaning": "công việc, hoạt động, nhiệm vụ"
+      },
+      {
+        "example": "所作",
+        "reading": "ショサ",
+        "meaning": "ứng xử, hành vi, chuyển động, cử chỉ, dáng đi, biểu diễn (trên sân khấu, v.v.), khiêu vũ, diễn xuất, khiêu vũ (trong kabuki), kịch múa"
+      },
+      {
+        "example": "安定操作",
+        "reading": "アンテイソウサ",
+        "meaning": "giao dịch ổn định (chứng khoán)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "作る",
+        "reading": "つくる",
+        "meaning": "làm, sản xuất, chế tạo, xây dựng, xây dựng, chuẩn bị (thức ăn), pha (rượu), nuôi dưỡng, trồng trọt, trồng trọt, đào tạo, cày xới, vẽ ra (một tài liệu), làm ra, chuẩn bị, viết, tạo ra (một tác phẩm nghệ thuật, v.v.), sáng tác, kiếm tiền (một cụm từ), tổ chức, tổ chức, thành lập, tìm thấy, có (một đứa trẻ), trang điểm (khuôn mặt của một người, v.v.), bịa đặt (một cái cớ, v.v.), thể hiện (giả), giả vờ (cười, v.v.), thể hiện cảm xúc, hình thành (một dòng, v.v.), lập (kỷ lục), phạm tội (tội lỗi, v.v.)"
+      },
+      {
+        "example": "作り",
+        "reading": "つくり",
+        "meaning": "chế tạo, sản xuất, chế tạo, xây dựng, xây dựng, chế tạo, cấu trúc, diện mạo (trang phục, trang điểm, v.v.), hình dáng, vóc dáng, sashimi, gượng ép (nụ cười, v.v.)"
+      },
+      {
+        "example": "作り上げる",
+        "reading": "つくりあげる",
+        "meaning": "xây dựng, hoàn thành, xây dựng, tạo ra, đặt lại với nhau, tạo nên, chế tạo, phát minh, nấu chín"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "đàn ông, con người"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "乞",
+      "化",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20316_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f5c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f5c.gif",
+    "uri": "https://jisho.org/search/%E4%BD%9C%23kanji"
+  }
+}
