@@ -214,8 +214,8 @@ body {
 }
 .mode-wrapper {
     position: absolute;
-    top: 75px;
-    left: 20px;
+    top: 60px;
+    left: 0px; 
     height: 36px; 
     background-color: #FFFFFF;
     border-radius: 18px;
@@ -232,28 +232,33 @@ body {
     overflow: hidden;
     cursor: pointer;
 }
+
 .mode-wrapper[data-mode="radical"] {
     width: 110px; 
 }
+
 .mode-wrapper[data-mode="vocab"] {
-    width: 122px; 
+    width: 122px;
 }
+
 .mode-wrapper.step4-show {
     opacity: 1;
     pointer-events: auto;
     transform: translateY(0);
 }
+
+/* Thu nhỏ lại vừa khít nút gạt (dùng !important để đè lệnh chiều rộng ở trên khi thu khung) */
 .mode-wrapper.collapsed {
     width: 56px !important; 
 }
-
+/* Trạng thái biến mất hoàn toàn của khung gạt khi search */
 .mode-wrapper.hidden-mode {
     opacity: 0 !important;
     visibility: hidden !important;
-    transform: translateY(-20px) scale(0.8) !important;
+    transform: translateY(-20px) scale(0.8) !important; /* Trượt mờ lên trên */
     pointer-events: none !important;
 }
-
+/* Nút gạt màu pastel */
 .mode-toggle-btn {
     width: 48px; 
     height: 28px;
@@ -268,6 +273,7 @@ body {
     background: linear-gradient(to right, #90CAF9, #B39DDB); 
 }
 
+/* Nút tròn trắng */
 .toggle-circle {
     position: absolute;
     top: 2px;
@@ -283,6 +289,8 @@ body {
 .mode-wrapper[data-mode="vocab"] .toggle-circle {
     transform: translateX(20px); 
 }
+
+/* Khung chứa chữ */
 .mode-text-container {
     margin-left: 8px;
     white-space: nowrap;
@@ -305,13 +313,17 @@ body {
     letter-spacing: 0.2px;
     margin-top: 1px; 
 }
+
+/* Đẩy bảng từ vựng xuống một chút để không đè lên khung gạt */
 .vocab-drop-container {
-    top: 125px !important; 
-    left: 20px !important; 
+    top: 110px !important; 
+    left: 0px !important; 
     transition: top 0.4s cubic-bezier(0.25, 1, 0.5, 1) !important; 
 }
+
+/* TỰ ĐỘNG kéo nút Từ vựng lên đúng vị trí khi khung gạt biến mất */
 .mode-wrapper.hidden-mode ~ .vocab-drop-container {
-    top: 75px !important; 
+    top: 60px !important; 
 }
 
 #graph-container {
@@ -785,6 +797,9 @@ body {
     .info-box {
         top: 110px;
     }
+    .info-box.step3-height {
+        max-height: calc(100vh - 200px);
+    }
     #wordTooltip, .word-tooltip {
         display: none !important;
     }
@@ -1131,17 +1146,22 @@ body {
 }
 .fc-undo-btn.active { opacity: 1; pointer-events: auto; transform: translateY(0); }
 .fc-undo-btn.glow { box-shadow: 0 0 15px 4px rgba(55, 71, 79, 0.6); transform: scale(1.05); background: #f0f4f8; }
+
 .fc-progress-bar { width: 180px; height: 3px; background: rgba(255,255,255,0.2); border-radius: 2px; overflow: hidden; }
 .fc-progress-fill { height: 100%; width: 0%; background: #4CAF50; transition: width 0.4s cubic-bezier(0.25, 1, 0.5, 1); }
 .fc-counter { color: #fff; font-size: 14px; font-weight: bold; letter-spacing: 1px; }
+
 .fc-bottom-controls { position: absolute; bottom: 85px; width: 100%; display: flex; flex-direction: column; align-items: center; gap: 12px; z-index: 10001; }
 .fc-advanced-btn { background: transparent; border: 1px solid #fff; color: #fff; padding: 6px 18px; border-radius: 15px; font-size: 13px; cursor: pointer; transition: all 0.2s; }
 .fc-advanced-btn.active { background: #D32F2F; border-color: #D32F2F; font-weight: bold; }
 .fc-time-selector { display: none; gap: 15px; color: #fff; font-size: 13px; }
 .fc-time-selector.show { display: flex; }
 .fc-time-selector label { display: flex; align-items: center; gap: 4px; cursor: pointer; }
+
 .fc-hint { position: absolute; bottom: 35px; color: #fff; font-size: 13px; text-align: center; width: 100%; opacity: 0.7; pointer-events: none; line-height: 1.6; font-family: monospace; }
+
 .flashcard-container { width: 320px; height: 440px; position: relative; perspective: 1000px; margin-top: 20px; }
+
 .flashcard { 
     width: 100%; height: 100%; position: absolute; 
     cursor: grab; touch-action: none; 
@@ -1247,3 +1267,4 @@ body {
     opacity: 0;
     pointer-events: none;
 }
+/* =========================================================
