@@ -1,0 +1,49 @@
+{
+  "id": "俺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "俺",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "newspaperFrequencyRank": "1946",
+    "strokeCount": 10,
+    "meaning": "Tôi, chính tôi",
+    "kunyomi": [
+      "おれ",
+      "われ"
+    ],
+    "onyomi": [
+      "エン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "俺",
+        "reading": "おれ",
+        "meaning": "tôi, tôi"
+      },
+      {
+        "example": "オレオレ詐欺",
+        "reading": "おれおれさぎ",
+        "meaning": "lừa đảo qua điện thoại liên quan đến các cuộc gọi từ người thân giả vờ gặp nạn"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "đàn ông, con người"
+    },
+    "parts": [
+      "乙",
+      "化",
+      "大",
+      "奄"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20474_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ffa.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ffa.gif",
+    "uri": "https://jisho.org/search/%E4%BF%BA%23kanji"
+  }
+}

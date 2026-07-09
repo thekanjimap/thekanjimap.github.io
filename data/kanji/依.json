@@ -1,0 +1,306 @@
+{
+  "id": "依",
+  "kanjialiveData": {
+    "_id": "54317ad8791eba5146ee48a6",
+    "_rev": "11-05e956d99ab17d002328bb4fd998368c",
+    "rad_name_ja": "にんべん",
+    "grade": null,
+    "hint_group": 1,
+    "kunyomi": "Không có",
+    "meaning": "phụ thuộc vào",
+    "kstroke": 8,
+    "examples": [
+      {
+        "japanese": "依頼心（いらいしん）",
+        "meaning": {
+          "english": "tinh thần phụ thuộc"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(raisuru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/i(raisuru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/i(raisuru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/i(raisuru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "依頼する（いらいする）",
+        "meaning": {
+          "english": "yêu cầu [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(raisuru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/i(raisuru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/i(raisuru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/i(raisuru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "依存する（いぞんする）",
+        "meaning": {
+          "english": "phụ thuộc vào, dựa vào"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(raisuru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/i(raisuru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/i(raisuru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/i(raisuru)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "依拠する（いきょする）",
+        "meaning": {
+          "english": "dựa trên"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(raisuru)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/i(raisuru)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/i(raisuru)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/i(raisuru)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "依然として（いぜんとして）",
+        "meaning": {
+          "english": "vẫn, cho đến nay, như cũ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(raisuru)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/i(raisuru)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/i(raisuru)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/i(raisuru)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "帰依する（きえする）",
+        "meaning": {
+          "english": "cống hiến hết mình cho (tôn giáo)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/i(raisuru)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/i(raisuru)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/i(raisuru)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/i(raisuru)_06_f.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "依",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=依",
+    "kname": "i(raisuru)",
+    "rad_order": 11,
+    "txt_books": [],
+    "rad_name_search": [
+      "ninben"
+    ],
+    "rad_utf": "⺅",
+    "stroketimes": [
+      0,
+      1.4,
+      2.666667,
+      5,
+      6.133333,
+      7.933333,
+      10.2,
+      11,
+      12.933333
+    ],
+    "kunyomi_ka_display": "Không có",
+    "dick": "61",
+    "rad_name": "ninben",
+    "dicn": "426",
+    "mn_hint": "People イ rely on appearance/clothes 衣 to secure their place in society.",
+    "rad_stroke": 2,
+    "onyomi_ja": "イ、エ",
+    "rad_meaning": "người",
+    "onyomi": "i, e",
+    "ka_id": "ka_1126",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "i",
+      "e",
+      "i, e"
+    ],
+    "kunyomi_search": [
+      "Không có",
+      "Không có"
+    ],
+    "meaning_search": [
+      "depend on",
+      "depend",
+      "on",
+      "depend on"
+    ],
+    "onyomi_ja_search": [
+      "イ",
+      "エ",
+      "イ、エ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "person",
+      "person "
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "にんべん"
+    ],
+    "textbook_search": [],
+    "rad_name_file": "ninben",
+    "kanji": {
+      "character": "依",
+      "meaning": {
+        "english": "depend on"
+      },
+      "strokes": {
+        "count": 8,
+        "timings": [
+          0,
+          1.4,
+          2.666667,
+          5,
+          6.133333,
+          7.933333,
+          10.2,
+          11,
+          12.933333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/i(raisuru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/i(raisuru)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/i(raisuru)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/i(raisuru)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/i(raisuru)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/i(raisuru)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/i(raisuru)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/i(raisuru)_8.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "i, e",
+        "katakana": "イ、エ"
+      },
+      "kunyomi": {
+        "romaji": "Không có",
+        "hiragana": "Không có"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/i(raisuru)_8.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/i(raisuru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/i(raisuru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺅",
+      "strokes": 2,
+      "image": "https://media.kanjialive.com/radical_character/ninben.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "にんべん",
+        "romaji": "ninben"
+      },
+      "meaning": {
+        "english": "người"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/ninben0.svg",
+        "https://media.kanjialive.com/rad_frames/ninben1.svg",
+        "https://media.kanjialive.com/rad_frames/ninben2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "61",
+      "classic_nelson": "426"
+    }
+  },
+  "jishoData": {
+    "query": "依",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "906",
+    "strokeCount": 8,
+    "meaning": "dựa vào, phụ thuộc vào, do đó, do đó, do",
+    "kunyomi": [
+      "よ.る"
+    ],
+    "onyomi": [
+      "イ",
+      "エ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "依然",
+        "reading": "イゼン",
+        "meaning": "vẫn, vẫn vậy, như nó đã từng"
+      },
+      {
+        "example": "委嘱",
+        "reading": "イショク",
+        "meaning": "ủy thác, giao phó (với), yêu cầu, bổ nhiệm (vào một vị trí)"
+      },
+      {
+        "example": "依々",
+        "reading": "イイ",
+        "meaning": "gắn bó trìu mến, không muốn chia tay"
+      },
+      {
+        "example": "憑依",
+        "reading": "ヒョウイ",
+        "meaning": "sự chiếm hữu (bởi một linh hồn, một con quỷ, v.v.), sự phụ thuộc (vào)"
+      },
+      {
+        "example": "依蘭苔",
+        "reading": "エイランタイ",
+        "meaning": "Rêu Iceland (Cetraria islandica), địa y Iceland"
+      },
+      {
+        "example": "依怙",
+        "reading": "エコ",
+        "meaning": "thiên vị, thiên vị, thiên vị, thành kiến, thành kiến"
+      },
+      {
+        "example": "帰依",
+        "reading": "キエ",
+        "meaning": "trở thành một tín đồ sùng đạo, cải đạo (tôn giáo)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "依る",
+        "reading": "よる",
+        "meaning": "do, được gây ra bởi, phụ thuộc vào, bật, dựa vào, đến từ, có trụ sở tại (một địa điểm, một tổ chức), có trụ sở chính tại"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "đàn ông, con người"
+    },
+    "parts": [
+      "亠",
+      "化",
+      "衣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20381_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f9d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f9d.gif",
+    "uri": "https://jisho.org/search/%E4%BE%9D%23kanji"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "佳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "佳",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1643",
+    "strokeCount": 8,
+    "meaning": "xuất sắc, đẹp, tốt, làm hài lòng, có tay nghề cao",
+    "kunyomi": [],
+    "onyomi": [
+      "カ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "佳",
+        "reading": "カ",
+        "meaning": "đẹp, tốt, xuất sắc"
+      },
+      {
+        "example": "佳作",
+        "reading": "カサク",
+        "meaning": "tác phẩm tốt, tác phẩm xuất sắc, tác phẩm nhận được sự khen ngợi"
+      },
+      {
+        "example": "絶佳",
+        "reading": "ゼッカ",
+        "meaning": "tuyệt vời (view, phong cảnh)"
+      },
+      {
+        "example": "風光絶佳",
+        "reading": "フウコウゼッカ",
+        "meaning": "cảnh đẹp"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "đàn ông, con người"
+    },
+    "parts": [
+      "化",
+      "土"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20339_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f73.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f73.gif",
+    "uri": "https://jisho.org/search/%E4%BD%B3%23kanji"
+  }
+}

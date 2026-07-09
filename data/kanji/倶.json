@@ -1,0 +1,64 @@
+{
+  "id": "倶",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "倶",
+    "found": true,
+    "newspaperFrequencyRank": "1842",
+    "strokeCount": 10,
+    "meaning": "cả hai, cùng nhau, giống nhau",
+    "kunyomi": [
+      "とも.に"
+    ],
+    "onyomi": [
+      "グ",
+      "ク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "具す",
+        "reading": "グス",
+        "meaning": "đi cùng, đi theo, tập hợp (những vật dụng cần thiết), chuẩn bị"
+      },
+      {
+        "example": "具する",
+        "reading": "グスル",
+        "meaning": "đi cùng, đi theo, tập hợp (những vật dụng cần thiết), chuẩn bị"
+      },
+      {
+        "example": "倶楽部",
+        "reading": "クラブ",
+        "meaning": "câu lạc bộ, hội nam sinh, hội nữ sinh, câu lạc bộ"
+      },
+      {
+        "example": "倶伎羅",
+        "reading": "クキラ",
+        "meaning": "Gấu túi châu Á (Eudynamys scolopacea), chim cu nhỏ (Cuculus poliocephalus)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "共に",
+        "reading": "ともに",
+        "meaning": "cùng nhau, cùng nhau, cùng một lúc, với, như ..., bao gồm, cùng với, cả hai"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "đàn ông, con người"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "化",
+      "目"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20534_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05036.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5036.gif",
+    "uri": "https://jisho.org/search/%E5%80%B6%23kanji"
+  }
+}

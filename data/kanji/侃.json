@@ -1,0 +1,46 @@
+{
+  "id": "侃",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "侃",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 8,
+    "meaning": "mạnh mẽ, công bằng, chính trực, yêu chuộng hoà bình",
+    "kunyomi": [
+      "つよ.い"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "侃侃諤諤",
+        "reading": "カンカンガクガク",
+        "meaning": "thẳng thắn, tranh luận (nóng nảy) những gì mình tin tưởng, nhấn mạnh vào điều gì đó mà không kiềm chế"
+      },
+      {
+        "example": "侃直",
+        "reading": "カンチョク",
+        "meaning": "vững chắc và ngay thẳng (tính cách)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "đàn ông, con người"
+    },
+    "parts": [
+      "化",
+      "口",
+      "川"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20355_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f83.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f83.gif",
+    "uri": "https://jisho.org/search/%E4%BE%83%23kanji"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "佩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "佩",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "đeo, đeo (một thanh kiếm)",
+    "kunyomi": [
+      "は.く",
+      "お.びる",
+      "おびだま"
+    ],
+    "onyomi": [
+      "ハイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "佩",
+        "reading": "ハイ",
+        "meaning": "loại thắt lưng phương Đông cổ, bộ đếm kiếm"
+      },
+      {
+        "example": "佩剣",
+        "reading": "ハイケン",
+        "meaning": "đeo kiếm"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "履く",
+        "reading": "はく",
+        "meaning": "mặc (quần, váy, giày dép), mặc, gắn (một thanh kiếm vào hông), gắn (dây cung vào một cái cung)"
+      },
+      {
+        "example": "帯びる",
+        "reading": "おびる",
+        "meaning": "đeo (một thanh kiếm, đồ trang trí, v.v.), mang, mang, được giao phó (một nhiệm vụ), được giao nhiệm vụ, đảm nhận, có (phẩm chất, tài sản, v.v.), có dấu vết, nhuốm màu"
+      },
+      {
+        "example": "佩びる",
+        "reading": "おびる",
+        "meaning": "đeo, đeo (một thanh kiếm)"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "đàn ông, con người"
+    },
+    "parts": [
+      "一",
+      "几",
+      "化",
+      "巾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20329_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f69.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f69.gif",
+    "uri": "https://jisho.org/search/%E4%BD%A9%23kanji"
+  }
+}
