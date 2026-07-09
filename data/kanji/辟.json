@@ -1,0 +1,57 @@
+{
+  "id": "辟",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "辟",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "sai, trừng phạt, tội phạm, pháp luật",
+    "kunyomi": [
+      "きみ",
+      "ひら.く",
+      "め.す"
+    ],
+    "onyomi": [
+      "ヘキ",
+      "ヒ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "辟",
+        "reading": "ヘキ",
+        "meaning": "sai, trừng phạt, tội phạm, pháp luật, người cai trị"
+      },
+      {
+        "example": "辟易",
+        "reading": "ヘキエキ",
+        "meaning": "chán (với), mệt mỏi (với), chán (với), không thể chịu đựng được, bối rối, bối rối, bối rối, nhăn nhó, co rúm lại, co rúm người"
+      },
+      {
+        "example": "大辟",
+        "reading": "タイヘキ",
+        "meaning": "hình phạt nghiêm khắc, hình phạt tử hình"
+      },
+      {
+        "example": "復辟",
+        "reading": "フクヘキ",
+        "meaning": "phục hồi (của một người cai trị thoái vị)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "辛",
+      "meaning": "cay đắng"
+    },
+    "parts": [
+      "十",
+      "口",
+      "尸",
+      "立",
+      "辛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36767_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f9f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f9f.gif",
+    "uri": "https://jisho.org/search/%E8%BE%9F%23kanji"
+  }
+}

@@ -1,0 +1,456 @@
+{
+  "id": "節",
+  "kanjialiveData": {
+    "_id": "54317b00791eba5146ee4b8e",
+    "_rev": "12-c18254f5939905ca261f297da73c078e",
+    "rad_name_ja": "たけかんむり",
+    "grade": 4,
+    "hint_group": 5,
+    "kunyomi": "fushi",
+    "meaning": "chung, mùa trong năm, phần, giai điệu",
+    "kstroke": 13,
+    "examples": [
+      {
+        "japanese": "節句（せっく）",
+        "meaning": {
+          "english": "lễ hội theo mùa"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fushi_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fushi_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fushi_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fushi_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "節電（せつでん）",
+        "meaning": {
+          "english": "bảo tồn điện"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fushi_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fushi_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fushi_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fushi_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "節度（せつど）",
+        "meaning": {
+          "english": "điều độ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fushi_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fushi_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fushi_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fushi_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "関節（かんせつ）",
+        "meaning": {
+          "english": "khớp"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fushi_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fushi_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fushi_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fushi_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "季節（きせつ）",
+        "meaning": {
+          "english": "mùa"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fushi_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fushi_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fushi_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fushi_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "礼節（れいせつ）",
+        "meaning": {
+          "english": "sự trang nhã, sự đứng đắn, lịch sự"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fushi_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fushi_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fushi_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fushi_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "章節（しょうせつ）",
+        "meaning": {
+          "english": "chương và phần"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fushi_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fushi_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fushi_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fushi_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "使節（しせつ）",
+        "meaning": {
+          "english": "sứ giả, đại sứ quán, đại biểu"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fushi_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fushi_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fushi_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fushi_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "調節する（ちょうせつする）",
+        "meaning": {
+          "english": "điều chỉnh, điều chỉnh, kiểm soát"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fushi_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fushi_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fushi_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fushi_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "節約する（せつやくする）",
+        "meaning": {
+          "english": "tiết kiệm, tiết kiệm"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fushi_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fushi_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fushi_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fushi_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "お節料理（おせちりょうり）",
+        "meaning": {
+          "english": "Món ăn năm mới"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fushi_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fushi_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fushi_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fushi_06_k.mp3"
+        }
+      },
+      {
+        "japanese": "節（ふし）",
+        "meaning": {
+          "english": "nút, phần, dịp, thời gian"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fushi_06_l.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fushi_06_l.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fushi_06_l.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fushi_06_l.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "ふし",
+    "ka_utf": "節",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=節",
+    "kname": "fushi",
+    "rad_order": 154,
+    "txt_books": [
+      {
+        "chapter": "13",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "20",
+        "txt_bk": "txtSFJ3"
+      },
+      {
+        "chapter": "20",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "11",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "12",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "11",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "11",
+        "txt_bk": "jt"
+      }
+    ],
+    "rad_name_search": [
+      "takekanmuri"
+    ],
+    "rad_utf": "⺮",
+    "stroketimes": [
+      0,
+      1.2,
+      2.333333,
+      2.666667,
+      3.533333,
+      4.733333,
+      5.666667,
+      7.266667,
+      8.266667,
+      9.533333,
+      11.133333,
+      11.666667,
+      14,
+      17.8
+    ],
+    "kunyomi_ka_display": "ふし",
+    "dick": "1729",
+    "rad_name": "takekanmuri",
+    "dicn": "3402",
+    "mn_hint": "Like bamboo 竹 joints clearly [89] <span class='note'>(orig. \"firmly\")</span> marked 卩; part of a series.",
+    "rad_stroke": 6,
+    "onyomi_ja": "セツ、セチ",
+    "rad_meaning": "tre",
+    "onyomi": "setsu, sechi",
+    "ka_id": "ka_685",
+    "rad_position": "kanmuri",
+    "rad_position_ja": "かんむり",
+    "rad_position_search": [
+      "kanmuri",
+      "kanmuri"
+    ],
+    "onyomi_search": [
+      "setsu",
+      "sechi",
+      "setsu, sechi"
+    ],
+    "kunyomi_search": [
+      "fushi",
+      "fushi"
+    ],
+    "meaning_search": [
+      "joint",
+      "season of the year",
+      "season",
+      "of",
+      "the",
+      "year",
+      "section",
+      "melody",
+      "joint, season of the year, section, melody"
+    ],
+    "onyomi_ja_search": [
+      "セツ",
+      "セチ",
+      "セツ、セチ"
+    ],
+    "kunyomi_ja_search": [
+      "ふし",
+      "ふし"
+    ],
+    "rad_meaning_search": [
+      "bamboo",
+      "bamboo"
+    ],
+    "rad_position_ja_search": [
+      "かんむり",
+      "かんむり"
+    ],
+    "rad_name_ja_search": [
+      "たけかんむり"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:13",
+      "ij:c13",
+      "ap",
+      "ap:12",
+      "ap:c12",
+      "jt",
+      "jt:11",
+      "jt:c11"
+    ],
+    "rad_name_file": "takekanmuri",
+    "kanji": {
+      "character": "節",
+      "meaning": {
+        "english": "joint, season of the year, section, melody"
+      },
+      "strokes": {
+        "count": 13,
+        "timings": [
+          0,
+          1.2,
+          2.333333,
+          2.666667,
+          3.533333,
+          4.733333,
+          5.666667,
+          7.266667,
+          8.266667,
+          9.533333,
+          11.133333,
+          11.666667,
+          14,
+          17.8
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/fushi_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/fushi_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/fushi_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/fushi_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/fushi_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/fushi_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/fushi_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/fushi_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/fushi_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/fushi_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/fushi_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/fushi_12.svg",
+          "https://media.kanjialive.com/kanji_strokes/fushi_13.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "setsu, sechi",
+        "katakana": "セツ、セチ"
+      },
+      "kunyomi": {
+        "romaji": "fushi",
+        "hiragana": "ふし"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/fushi_13.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/fushi_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/fushi_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺮",
+      "strokes": 6,
+      "image": "https://media.kanjialive.com/radical_character/takekanmuri.svg",
+      "position": {
+        "hiragana": "かんむり",
+        "romaji": "kanmuri",
+        "icon": "https://media.kanjialive.com/rad_positions/kanmuri.svg"
+      },
+      "name": {
+        "hiragana": "たけかんむり",
+        "romaji": "takekanmuri"
+      },
+      "meaning": {
+        "english": "tre"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/takekanmuri0.svg",
+        "https://media.kanjialive.com/rad_frames/takekanmuri1.svg",
+        "https://media.kanjialive.com/rad_frames/takekanmuri2.svg"
+      ]
+    },
+    "references": {
+      "grade": 4,
+      "kodansha": "1729",
+      "classic_nelson": "3402"
+    }
+  },
+  "jishoData": {
+    "query": "節",
+    "found": true,
+    "taughtIn": "lớp 4",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "934",
+    "strokeCount": 13,
+    "meaning": "nút, mùa, giai đoạn, dịp, câu thơ, mệnh đề, khổ thơ, danh dự, khớp, đốt ngón tay, núm, nút thắt, giai điệu, giai điệu",
+    "kunyomi": [
+      "ふし",
+      "-ぶし",
+      "のっと"
+    ],
+    "onyomi": [
+      "セツ",
+      "セチ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "節",
+        "reading": "セツ",
+        "meaning": "dịp, thời gian, phần (của một tác phẩm văn học hoặc một bản nhạc), đoạn văn, đoạn, câu thơ, khổ thơ, mệnh đề, mùa, thuật ngữ, nguyên tắc của một người, tính toàn vẹn, nút (của thân cây), phần (phân loại), nút thắt (hải lý một giờ)"
+      },
+      {
+        "example": "節減",
+        "reading": "セツゲン",
+        "meaning": "cắt giảm, cắt giảm, kinh tế"
+      },
+      {
+        "example": "結節",
+        "reading": "ケッセツ",
+        "meaning": "nút, nốt, nốt sần, nốt"
+      },
+      {
+        "example": "国慶節",
+        "reading": "コッケイセツ",
+        "meaning": "ngày kỷ niệm thành lập (của PRC), thời gian kỷ niệm quốc gia"
+      },
+      {
+        "example": "節",
+        "reading": "セチ",
+        "meaning": "mùa, thời gian trong năm, lễ hội theo mùa, tiệc theo mùa, lễ theo mùa"
+      },
+      {
+        "example": "節分",
+        "reading": "セツブン",
+        "meaning": "setsubun, ngày cuối cùng của mùa đông theo lịch truyền thống của Nhật Bản (usu. Ngày 3 hoặc 4 tháng 2), ngày của lễ rải đậu, ngày cuối cùng của bất kỳ mùa nào (theo lịch truyền thống của Nhật Bản)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "節",
+        "reading": "ふし",
+        "meaning": "khớp, đốt ngón tay, giai điệu, giai điệu, nút (của thân cây), khớp, nút (bằng gỗ), núm, điểm (đáng chú ý), bộ phận, nút"
+      },
+      {
+        "example": "節目",
+        "reading": "ふしめ",
+        "meaning": "bước ngoặt, điểm mấu chốt, nút thắt (trên cây, v.v.)"
+      },
+      {
+        "example": "一節",
+        "reading": "ひとふし",
+        "meaning": "một khúc, một khúc, một điệu, một khúc, một thước, một khúc (cá ngừ khô)"
+      },
+      {
+        "example": "七節",
+        "reading": "ななふし",
+        "meaning": "gậy chống (bất kỳ loài côn trùng nào thuộc bộ Phasmatodea), gậy chống, côn trùng gậy, côn trùng lá"
+      },
+      {
+        "example": "節",
+        "reading": "ノット",
+        "meaning": "hải lý (hải lý một giờ)"
+      }
+    ],
+    "radical": {
+      "symbol": "竹",
+      "forms": [
+        "⺮"
+      ],
+      "meaning": "tre"
+    },
+    "parts": [
+      "乞",
+      "卩",
+      "竹",
+      "艮"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31680_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07bc0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7bc0.gif",
+    "uri": "https://jisho.org/search/%E7%AF%80%23kanji"
+  }
+}

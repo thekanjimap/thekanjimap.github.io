@@ -1,0 +1,64 @@
+{
+  "id": "姦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "姦",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "độc ác, tinh nghịch, quyến rũ, hãm hiếp, ồn ào",
+    "kunyomi": [
+      "かん.する",
+      "かしま.しい",
+      "みだら"
+    ],
+    "onyomi": [
+      "カン",
+      "ケン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "奸",
+        "reading": "カン",
+        "meaning": "xảo quyệt và độc ác, người xảo quyệt và độc ác"
+      },
+      {
+        "example": "姦通",
+        "reading": "カンツウ",
+        "meaning": "ngoại tình"
+      },
+      {
+        "example": "強姦",
+        "reading": "ゴウカン",
+        "meaning": "hiếp dâm, tấn công tình dục"
+      },
+      {
+        "example": "鶏姦",
+        "reading": "ケイカン",
+        "meaning": "quan hệ tình dục đồng giới giữa nam giới, buggery, sodomy"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "姦する",
+        "reading": "かんする",
+        "meaning": "ngoại tình, gian dâm, quan hệ tình dục trái phép, hãm hiếp, xâm phạm, lạm dụng tình dục"
+      },
+      {
+        "example": "姦しい",
+        "reading": "かしましい",
+        "meaning": "ồn ào, huyên náo"
+      }
+    ],
+    "radical": {
+      "symbol": "女",
+      "meaning": "phụ nữ, nữ"
+    },
+    "parts": [
+      "女"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23014_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/059e6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/59e6.gif",
+    "uri": "https://jisho.org/search/%E5%A7%A6%23kanji"
+  }
+}

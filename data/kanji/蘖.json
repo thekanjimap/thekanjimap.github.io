@@ -1,0 +1,55 @@
+{
+  "id": "蘖",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蘖",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "nảy mầm",
+    "kunyomi": [
+      "ひこばえ"
+    ],
+    "onyomi": [
+      "ゲツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "余蘖",
+        "reading": "ヨゲツ",
+        "meaning": "Mầm từ gốc cây, gia đình tan nát sống sót nhờ con cháu"
+      },
+      {
+        "example": "分けつ",
+        "reading": "ブンケツ",
+        "meaning": "máy xới, nhánh"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蘖",
+        "reading": "ひこばえ",
+        "meaning": "Mầm từ gốc cây, chồi từ gốc cây"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "十",
+      "口",
+      "木",
+      "立",
+      "艾",
+      "辛",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34326_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08616.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8616.gif",
+    "uri": "https://jisho.org/search/%E8%98%96%23kanji"
+  }
+}

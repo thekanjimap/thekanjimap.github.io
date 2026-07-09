@@ -1,0 +1,60 @@
+{
+  "id": "妨",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "妨",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1482",
+    "strokeCount": 7,
+    "meaning": "làm phiền, ngăn chặn, cản trở, cản trở",
+    "kunyomi": [
+      "さまた.げる"
+    ],
+    "onyomi": [
+      "ボウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "妨害",
+        "reading": "ボウガイ",
+        "meaning": "cản trở, cản trở, cản trở, làm xáo trộn, can thiệp, làm gián đoạn, phá hoại, gây nhiễu (tín hiệu)"
+      },
+      {
+        "example": "妨害機",
+        "reading": "ボウガイキ",
+        "meaning": "thiết bị gây nhiễu (ví dụ: tín hiệu vô tuyến), thiết bị đánh chặn (máy bay)"
+      },
+      {
+        "example": "公妨",
+        "reading": "コウボウ",
+        "meaning": "can thiệp vào việc công chức thực hiện nhiệm vụ của mình"
+      },
+      {
+        "example": "転び公妨",
+        "reading": "コロビコウボウ",
+        "meaning": "kích động bắt giữ nhằm cản trở, công an giả vờ bị đánh gục để có căn cứ bắt giữ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "妨げる",
+        "reading": "さまたげる",
+        "meaning": "làm xáo trộn, ngăn chặn, cản trở, cản trở"
+      }
+    ],
+    "radical": {
+      "symbol": "女",
+      "meaning": "phụ nữ, nữ"
+    },
+    "parts": [
+      "女",
+      "方"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22952_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/059a8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/59a8.gif",
+    "uri": "https://jisho.org/search/%E5%A6%A8%23kanji"
+  }
+}

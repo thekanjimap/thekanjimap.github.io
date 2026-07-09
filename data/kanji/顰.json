@@ -1,0 +1,60 @@
+{
+  "id": "顰",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "顰",
+    "found": true,
+    "strokeCount": 24,
+    "meaning": "cau mày, nhướn mày",
+    "kunyomi": [
+      "ひそ.める",
+      "しか.める"
+    ],
+    "onyomi": [
+      "ヒン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "顰み",
+        "reading": "ヒソミ",
+        "meaning": "lông mày nhíu lại, cau mày"
+      },
+      {
+        "example": "顰蹙",
+        "reading": "ヒンシュク",
+        "meaning": "cau mày, nhìn với vẻ khinh bỉ, thể hiện sự không tán thành"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "顰める",
+        "reading": "ひそめる",
+        "meaning": "đan (lông mày), nhăn lại, co lại"
+      },
+      {
+        "example": "顰める",
+        "reading": "しかめる",
+        "meaning": "nhăn nhó (mặt), nhăn nhó, nhăn nhó, nhăn nhó"
+      }
+    ],
+    "radical": {
+      "symbol": "頁",
+      "meaning": "lá"
+    },
+    "parts": [
+      "ノ",
+      "ハ",
+      "十",
+      "小",
+      "止",
+      "田",
+      "目",
+      "貝",
+      "頁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39024_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09870.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9870.gif",
+    "uri": "https://jisho.org/search/%E9%A1%B0%23kanji"
+  }
+}

@@ -1,0 +1,390 @@
+{
+  "id": "領",
+  "kanjialiveData": {
+    "_id": "54317ad2791eba5146ee483c",
+    "_rev": "9-a61ce401b06921aaf222e93754618640",
+    "rad_name_ja": "おおがい",
+    "grade": 5,
+    "hint_group": 1,
+    "kunyomi": "Không có",
+    "meaning": "lãnh thổ, cai trị, cai trị",
+    "kstroke": 14,
+    "examples": [
+      {
+        "japanese": "領土（りょうど）",
+        "meaning": {
+          "english": "quyền thống trị, lãnh thổ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(daitou)ryou_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(daitou)ryou_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(daitou)ryou_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(daitou)ryou_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "領内（りょうない）",
+        "meaning": {
+          "english": "lãnh thổ, miền"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(daitou)ryou_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(daitou)ryou_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(daitou)ryou_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(daitou)ryou_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "領空（りょうくう）",
+        "meaning": {
+          "english": "không phận lãnh thổ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(daitou)ryou_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(daitou)ryou_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(daitou)ryou_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(daitou)ryou_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "領地（りょうち）",
+        "meaning": {
+          "english": "lãnh thổ, quyền thống trị"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(daitou)ryou_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(daitou)ryou_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(daitou)ryou_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(daitou)ryou_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "領域（りょういき）",
+        "meaning": {
+          "english": "khu vực, miền, lãnh thổ, lĩnh vực"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(daitou)ryou_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(daitou)ryou_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(daitou)ryou_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(daitou)ryou_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "領事館（りょうじかん）",
+        "meaning": {
+          "english": "lãnh sự quán"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(daitou)ryou_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(daitou)ryou_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(daitou)ryou_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(daitou)ryou_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "領収書（りょうしゅうしょ）",
+        "meaning": {
+          "english": "biên lai"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(daitou)ryou_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(daitou)ryou_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(daitou)ryou_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(daitou)ryou_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "本領（ほんりょう）",
+        "meaning": {
+          "english": "đặc trưng, đặc sản"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(daitou)ryou_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(daitou)ryou_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(daitou)ryou_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(daitou)ryou_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "要領（ようりょう）",
+        "meaning": {
+          "english": "ý chính, điểm, mẹo"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(daitou)ryou_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(daitou)ryou_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(daitou)ryou_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(daitou)ryou_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "大統領（だいとうりょう）",
+        "meaning": {
+          "english": "tổng thống (của một quốc gia)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(daitou)ryou_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(daitou)ryou_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(daitou)ryou_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(daitou)ryou_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "占領する（せんりょうする）",
+        "meaning": {
+          "english": "chiếm giữ, chiếm giữ, sở hữu"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(daitou)ryou_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(daitou)ryou_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(daitou)ryou_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(daitou)ryou_06_k.mp3"
+        }
+      },
+      {
+        "japanese": "横領する（おうりょうする）",
+        "meaning": {
+          "english": "tham ô"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(daitou)ryou_06_l.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(daitou)ryou_06_l.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(daitou)ryou_06_l.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(daitou)ryou_06_l.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "領",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=領",
+    "rad_name_search": [
+      "oogai"
+    ],
+    "rad_order": 217,
+    "txt_books": [],
+    "kname": "(daitou)ryou",
+    "rad_utf": "⾴",
+    "stroketimes": [
+      0,
+      1,
+      1.733333,
+      2.533333,
+      3.8,
+      4.6,
+      5.933333,
+      6.733333,
+      7.866667,
+      9.6,
+      10.533333,
+      11.6,
+      12.666667,
+      13.266667,
+      14.6
+    ],
+    "kunyomi_ka_display": "Không có",
+    "dick": "828",
+    "rad_name": "oogai",
+    "dicn": "5124",
+    "mn_hint": "Order [175]/令 issued by a leader/head 頁 to govern a territory.",
+    "rad_stroke": 9,
+    "onyomi_ja": "リョウ",
+    "rad_meaning": "đầu, trang",
+    "onyomi": "ryou",
+    "ka_id": "ka_1030",
+    "rad_position": "tsukuri",
+    "rad_position_ja": "つくり",
+    "rad_position_search": [
+      "tsukuri",
+      "tsukuri"
+    ],
+    "onyomi_search": [
+      "ryou",
+      "ryou"
+    ],
+    "kunyomi_search": [
+      "Không có",
+      "Không có"
+    ],
+    "meaning_search": [
+      "territory",
+      "govern",
+      "rule",
+      "territory, govern, rule"
+    ],
+    "onyomi_ja_search": [
+      "リョウ",
+      "リョウ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "head",
+      "page",
+      "head, page"
+    ],
+    "rad_position_ja_search": [
+      "つくり",
+      "つくり"
+    ],
+    "rad_name_ja_search": [
+      "おおがい"
+    ],
+    "textbook_search": [],
+    "rad_name_file": "oogai",
+    "kanji": {
+      "character": "領",
+      "meaning": {
+        "english": "territory, govern, rule"
+      },
+      "strokes": {
+        "count": 14,
+        "timings": [
+          0,
+          1,
+          1.733333,
+          2.533333,
+          3.8,
+          4.6,
+          5.933333,
+          6.733333,
+          7.866667,
+          9.6,
+          10.533333,
+          11.6,
+          12.666667,
+          13.266667,
+          14.6
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/(daitou)ryou_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/(daitou)ryou_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/(daitou)ryou_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/(daitou)ryou_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/(daitou)ryou_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/(daitou)ryou_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/(daitou)ryou_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/(daitou)ryou_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/(daitou)ryou_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/(daitou)ryou_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/(daitou)ryou_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/(daitou)ryou_12.svg",
+          "https://media.kanjialive.com/kanji_strokes/(daitou)ryou_13.svg",
+          "https://media.kanjialive.com/kanji_strokes/(daitou)ryou_14.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "ryou",
+        "katakana": "リョウ"
+      },
+      "kunyomi": {
+        "romaji": "Không có",
+        "hiragana": "Không có"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/(daitou)ryou_14.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/(daitou)ryou_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/(daitou)ryou_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⾴",
+      "strokes": 9,
+      "image": "https://media.kanjialive.com/radical_character/oogai.svg",
+      "position": {
+        "hiragana": "つくり",
+        "romaji": "tsukuri",
+        "icon": "https://media.kanjialive.com/rad_positions/tsukuri.svg"
+      },
+      "name": {
+        "hiragana": "おおがい",
+        "romaji": "oogai"
+      },
+      "meaning": {
+        "english": "đầu, trang"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/oogai0.svg",
+        "https://media.kanjialive.com/rad_frames/oogai1.svg",
+        "https://media.kanjialive.com/rad_frames/oogai2.svg"
+      ]
+    },
+    "references": {
+      "grade": 5,
+      "kodansha": "828",
+      "classic_nelson": "5124"
+    }
+  },
+  "jishoData": {
+    "query": "領",
+    "found": true,
+    "taughtIn": "lớp 5",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "138",
+    "strokeCount": 14,
+    "meaning": "quyền tài phán, quyền thống trị, lãnh thổ, thái ấp, trị vì",
+    "kunyomi": [
+      "えり"
+    ],
+    "onyomi": [
+      "リョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "領",
+        "reading": "リョウ",
+        "meaning": "lãnh thổ (của đất nước, lãnh thổ phong kiến, v.v.), quầy bán quần áo, bộ áo giáp, v.v."
+      },
+      {
+        "example": "領域",
+        "reading": "リョウイキ",
+        "meaning": "lãnh thổ, miền, lĩnh vực, khu vực, miền, quả cầu, vương quốc, miền, khu vực"
+      },
+      {
+        "example": "学習指導要領",
+        "reading": "ガクシュウシドウヨウリョウ",
+        "meaning": "hướng dẫn khóa học (chương trình giảng dạy) của chính phủ"
+      },
+      {
+        "example": "綱領",
+        "reading": "コウリョウ",
+        "meaning": "kế hoạch chung, điểm chính, tóm tắt, nền tảng (ví dụ: cho một chiến dịch), tuyên bố sứ mệnh"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "襟",
+        "reading": "えり",
+        "meaning": "Cổ áo, ve áo, dây đeo cổ, cái cổ, gáy, gáy"
+      },
+      {
+        "example": "襟足",
+        "reading": "えりあし",
+        "meaning": "đường chân tóc ở gáy, gáy"
+      },
+      {
+        "example": "盤領",
+        "reading": "まるえり",
+        "meaning": "cổ tròn (của trang phục truyền thống Nhật Bản)"
+      }
+    ],
+    "radical": {
+      "symbol": "頁",
+      "meaning": "lá"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "个",
+      "卩",
+      "目",
+      "貝",
+      "頁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38936_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09818.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9818.gif",
+    "uri": "https://jisho.org/search/%E9%A0%98%23kanji"
+  }
+}

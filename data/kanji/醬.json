@@ -1,0 +1,33 @@
+{
+  "id": "醬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "醬",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "bất kỳ thực phẩm giống như mứt hoặc bột nhão nào",
+    "kunyomi": [
+      "ひしお"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "醤油",
+        "reading": "ショウユ",
+        "meaning": "nước tương, nước tương, nước tương"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "酉",
+      "meaning": "rượu vang, rượu"
+    },
+    "parts": [],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37292_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091ac.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91ac.gif",
+    "uri": "https://jisho.org/search/%E9%86%AC%23kanji"
+  }
+}

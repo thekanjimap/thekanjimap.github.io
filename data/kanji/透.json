@@ -1,0 +1,91 @@
+{
+  "id": "透",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "透",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1035",
+    "strokeCount": 10,
+    "meaning": "trong suốt, thấm, lọc, thâm nhập",
+    "kunyomi": [
+      "す.く",
+      "す.かす",
+      "す.ける",
+      "とう.る",
+      "とう.す"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "透明",
+        "reading": "トウメイ",
+        "meaning": "minh bạch, rõ ràng"
+      },
+      {
+        "example": "透析",
+        "reading": "トウセキ",
+        "meaning": "chạy thận"
+      },
+      {
+        "example": "失透",
+        "reading": "シットウ",
+        "meaning": "sự biến chất"
+      },
+      {
+        "example": "市場浸透",
+        "reading": "シジョウシントウ",
+        "meaning": "thâm nhập thị trường"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "透く",
+        "reading": "すく",
+        "meaning": "minh bạch, để lại một khoảng trống"
+      },
+      {
+        "example": "透かす",
+        "reading": "すかす",
+        "meaning": "nhìn xuyên qua, giữ ánh sáng, mở cửa, chừa khoảng trống, khoảng trống (đường), tỉa (cây), xì hơi mà không gây ra âm thanh"
+      },
+      {
+        "example": "透ける",
+        "reading": "すける",
+        "meaning": "minh bạch, thể hiện rõ ràng"
+      },
+      {
+        "example": "透水",
+        "reading": "とうすい",
+        "meaning": "sự thẩm thấu (ví dụ như nước), sự thẩm thấu, sự thẩm thấu"
+      },
+      {
+        "example": "透水性",
+        "reading": "とうすいせい",
+        "meaning": "tính thấm"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "đi bộ"
+    },
+    "parts": [
+      "ノ",
+      "乃",
+      "禾",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36879_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0900f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/900f.gif",
+    "uri": "https://jisho.org/search/%E9%80%8F%23kanji"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "郎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "郎",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "569",
+    "strokeCount": 9,
+    "meaning": "con trai, quầy dành cho con trai",
+    "kunyomi": [
+      "おとこ"
+    ],
+    "onyomi": [
+      "ロウ",
+      "リョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "郎",
+        "reading": "ロウ",
+        "meaning": "con trai thứ n, lang, tước vị chính thức ở Trung Quốc cổ đại, người đàn ông, chàng trai trẻ, chồng tôi, người tình của tôi, đứa con thứ n (nam và nữ)"
+      },
+      {
+        "example": "郎君",
+        "reading": "ロウクン",
+        "meaning": "chàng trai, chàng trai, con trai (của chủ, chủ, v.v.), chồng, người yêu (nam), người yêu, người yêu"
+      },
+      {
+        "example": "新郎",
+        "reading": "シンロウ",
+        "meaning": "chú rể"
+      },
+      {
+        "example": "女郎",
+        "reading": "ジョロウ",
+        "meaning": "gái mại dâm (đặc biệt là thời Edo)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "邑",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "thị trấn (阝 bên phải)"
+    },
+    "parts": [
+      "艮",
+      "邦"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37070_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/090ce.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/90ce.gif",
+    "uri": "https://jisho.org/search/%E9%83%8E%23kanji"
+  }
+}

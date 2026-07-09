@@ -1,0 +1,48 @@
+{
+  "id": "餝",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "餝",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "trang trí, trang trí, tô điểm, tô điểm",
+    "kunyomi": [
+      "かざり",
+      "かざ.る"
+    ],
+    "onyomi": [
+      "コウ",
+      "シキ",
+      "ショク"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "飾り車",
+        "reading": "かざりぐるま",
+        "meaning": "Cỗ xe được trang trí bằng vàng, bạc, đá quý, v.v., dành cho quý tộc thời Heian sử dụng"
+      },
+      {
+        "example": "飾る",
+        "reading": "かざる",
+        "meaning": "trang trí, tô điểm, tô điểm, trưng bày, triển lãm, trưng bày, sắp xếp, đánh dấu (ví dụ: ngày chiến thắng), tô điểm (ví dụ: trang đầu), làm duyên dáng (ví dụ: trang bìa), ảnh hưởng (một cách thức), để theo kịp (diện mạo), tô điểm, ăn mặc, phô trương, khoe khoang"
+      }
+    ],
+    "radical": {
+      "symbol": "食",
+      "forms": [
+        "飠"
+      ],
+      "meaning": "ăn, thức ăn"
+    },
+    "parts": [
+      "方",
+      "艾",
+      "食"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39197_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0991d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/991d.gif",
+    "uri": "https://jisho.org/search/%E9%A4%9D%23kanji"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "騅",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "騅",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "ngựa xám",
+    "kunyomi": [
+      "あしげ"
+    ],
+    "onyomi": [
+      "スイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "騅",
+        "reading": "スイ",
+        "meaning": "ngựa đốm xám (xám), ngựa đốm, Zhui (con ngựa yêu thích của Hạng Vũ)"
+      },
+      {
+        "example": "騅逝かず",
+        "reading": "スイユカズ",
+        "meaning": "mọi việc đi ngược lại với mong muốn của một người"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "馬",
+      "meaning": "con ngựa"
+    },
+    "parts": [
+      "杰",
+      "隹",
+      "馬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39429_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09a05.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9a05.gif",
+    "uri": "https://jisho.org/search/%E9%A8%85%23kanji"
+  }
+}

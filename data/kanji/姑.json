@@ -1,0 +1,77 @@
+{
+  "id": "姑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "姑",
+    "found": true,
+    "newspaperFrequencyRank": "2041",
+    "strokeCount": 8,
+    "meaning": "mẹ chồng",
+    "kunyomi": [
+      "しゅうとめ",
+      "しゅうと",
+      "おば",
+      "しばらく"
+    ],
+    "onyomi": [
+      "コ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "姑息",
+        "reading": "コソク",
+        "meaning": "ngầm, không công bằng, tạm thời, tạm thời"
+      },
+      {
+        "example": "姑洗",
+        "reading": "コセン",
+        "meaning": "(ở Trung Quốc) nốt thứ 5 của âm giai cổ (khoảng F thăng), tháng 3 âm lịch"
+      },
+      {
+        "example": "芸妓",
+        "reading": "ゲイギ",
+        "meaning": "geisha"
+      },
+      {
+        "example": "外姑",
+        "reading": "ガイコ",
+        "meaning": "mẹ vợ (của chồng)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "姑",
+        "reading": "しゅうとめ",
+        "meaning": "mẹ chồng"
+      },
+      {
+        "example": "嫁姑",
+        "reading": "よめしゅうとめ",
+        "meaning": "con dâu và mẹ chồng (mối quan hệ, xung đột, v.v.)"
+      },
+      {
+        "example": "姑",
+        "reading": "しゅうとめ",
+        "meaning": "mẹ chồng"
+      },
+      {
+        "example": "暫く",
+        "reading": "しばらく",
+        "meaning": "trong chốc lát, một phút, một lúc, một lúc, hiện tại, đã lâu rồi, lâu lắm rồi không gặp"
+      }
+    ],
+    "radical": {
+      "symbol": "女",
+      "meaning": "phụ nữ, nữ"
+    },
+    "parts": [
+      "十",
+      "口",
+      "女"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22993_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/059d1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/59d1.gif",
+    "uri": "https://jisho.org/search/%E5%A7%91%23kanji"
+  }
+}

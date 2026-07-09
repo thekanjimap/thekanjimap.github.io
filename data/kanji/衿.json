@@ -1,0 +1,63 @@
+{
+  "id": "衿",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "衿",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 9,
+    "meaning": "cổ, cổ áo, ve áo",
+    "kunyomi": [
+      "えり"
+    ],
+    "onyomi": [
+      "キン",
+      "コン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "開襟",
+        "reading": "カイキン",
+        "meaning": "cởi cúc cổ, mở (trái tim), áo hở cổ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "襟",
+        "reading": "えり",
+        "meaning": "Cổ áo, ve áo, dây đeo cổ, cái cổ, gáy, gáy"
+      },
+      {
+        "example": "襟元",
+        "reading": "えりもと",
+        "meaning": "(quanh) cổ, gáy, cổ áo (ở phía trước áo khoác, kimono, v.v.), vùng cổ áo"
+      },
+      {
+        "example": "裏衿",
+        "reading": "うらえり",
+        "meaning": "lót dây đeo cổ"
+      },
+      {
+        "example": "半衿",
+        "reading": "はんえり",
+        "meaning": "vòng cổ (trên kimono)"
+      }
+    ],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "quần áo"
+    },
+    "parts": [
+      "一",
+      "个",
+      "初"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34943_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0887f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/887f.gif",
+    "uri": "https://jisho.org/search/%E8%A1%BF%23kanji"
+  }
+}

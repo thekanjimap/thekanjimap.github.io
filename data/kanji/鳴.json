@@ -1,0 +1,386 @@
+{
+  "id": "鳴",
+  "kanjialiveData": {
+    "_id": "54317b09791eba5146ee4c3e",
+    "_rev": "11-02bf6bfe1dd3d1212868074a93397243",
+    "rad_name_ja": "とり",
+    "grade": 2,
+    "hint_group": 1,
+    "kunyomi": "na, naku, naru, narasu",
+    "meaning": "kêu, âm thanh, reo, hát, hú",
+    "kstroke": 14,
+    "examples": [
+      {
+        "japanese": "悲鳴（ひめい）",
+        "meaning": {
+          "english": "hét lên, hét lên"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mei-na(ru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mei-na(ru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mei-na(ru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mei-na(ru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "鳴動する（めいどうする）",
+        "meaning": {
+          "english": "ầm ầm"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mei-na(ru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mei-na(ru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mei-na(ru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mei-na(ru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "共鳴する（きょうめいする）",
+        "meaning": {
+          "english": "cộng hưởng, đồng cảm"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mei-na(ru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mei-na(ru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mei-na(ru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mei-na(ru)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "鳴く（なく）",
+        "meaning": {
+          "english": "hát, khóc, tạo ra âm thanh"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mei-na(ru)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mei-na(ru)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mei-na(ru)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mei-na(ru)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "鳴き声（なきごえ）",
+        "meaning": {
+          "english": "khóc, gầm lên, giọng đầy nước mắt"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mei-na(ru)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mei-na(ru)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mei-na(ru)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mei-na(ru)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "鳴らす（ならす）",
+        "meaning": {
+          "english": "chuông, âm thanh [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mei-na(ru)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mei-na(ru)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mei-na(ru)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mei-na(ru)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "鳴る（なる）",
+        "meaning": {
+          "english": "chuông, âm thanh, âm thanh [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mei-na(ru)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mei-na(ru)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mei-na(ru)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mei-na(ru)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "耳鳴り（みみなり）",
+        "meaning": {
+          "english": "ù tai, ù tai"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mei-na(ru)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mei-na(ru)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mei-na(ru)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mei-na(ru)_06_h.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "な、なく、なる、ならす",
+    "ka_utf": "鳴",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=鳴",
+    "rad_name_search": [
+      "tori"
+    ],
+    "rad_order": 230,
+    "txt_books": [
+      {
+        "chapter": "20",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "16",
+        "txt_bk": "macquarie"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtIKB"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "jtr"
+      }
+    ],
+    "kname": "mei-na(ru)",
+    "rad_utf": "⿃",
+    "stroketimes": [
+      0,
+      1.066667,
+      2.6,
+      3.666667,
+      4.6,
+      5.82,
+      7.333333,
+      8,
+      9,
+      10.266667,
+      12.2,
+      12.933333,
+      13.533333,
+      14.066667,
+      15.933333
+    ],
+    "kunyomi_ka_display": "な",
+    "dick": "481",
+    "rad_name": "tori",
+    "dicn": "983",
+    "mn_hint": "Like singing 口 birds 鳥.",
+    "rad_stroke": 11,
+    "onyomi_ja": "メイ",
+    "rad_meaning": "chim",
+    "onyomi": "mei",
+    "ka_id": "ka_843",
+    "onyomi_search": [
+      "mei",
+      "mei"
+    ],
+    "kunyomi_search": [
+      "na",
+      "naku",
+      "naru",
+      "narasu",
+      "na, naku, naru, narasu"
+    ],
+    "meaning_search": [
+      "cry",
+      "sound",
+      "ring",
+      "sing",
+      "howl",
+      "cry, sound, ring, sing, howl"
+    ],
+    "onyomi_ja_search": [
+      "メイ",
+      "メイ"
+    ],
+    "kunyomi_ja_search": [
+      "な",
+      "なく",
+      "なる",
+      "ならす",
+      "な、なく、なる、ならす"
+    ],
+    "rad_meaning_search": [
+      "bird",
+      "bird"
+    ],
+    "rad_name_ja_search": [
+      "とり"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:20",
+      "ij:c20",
+      "mac",
+      "mac:16",
+      "mac:c16",
+      "ik1",
+      "ik1:9",
+      "ik1:c9",
+      "jtr",
+      "jtr:7",
+      "jtr:c7"
+    ],
+    "rad_name_file": "tori",
+    "kanji": {
+      "character": "鳴",
+      "meaning": {
+        "english": "cry, sound, ring, sing, howl"
+      },
+      "strokes": {
+        "count": 14,
+        "timings": [
+          0,
+          1.066667,
+          2.6,
+          3.666667,
+          4.6,
+          5.82,
+          7.333333,
+          8,
+          9,
+          10.266667,
+          12.2,
+          12.933333,
+          13.533333,
+          14.066667,
+          15.933333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/mei-na(ru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/mei-na(ru)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/mei-na(ru)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/mei-na(ru)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/mei-na(ru)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/mei-na(ru)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/mei-na(ru)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/mei-na(ru)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/mei-na(ru)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/mei-na(ru)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/mei-na(ru)_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/mei-na(ru)_12.svg",
+          "https://media.kanjialive.com/kanji_strokes/mei-na(ru)_13.svg",
+          "https://media.kanjialive.com/kanji_strokes/mei-na(ru)_14.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "mei",
+        "katakana": "メイ"
+      },
+      "kunyomi": {
+        "romaji": "na, naku, naru, narasu",
+        "hiragana": "な"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/mei-na(ru)_14.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/mei-na(ru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/mei-na(ru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⿃",
+      "strokes": 11,
+      "image": "https://media.kanjialive.com/radical_character/tori.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "とり",
+        "romaji": "tori"
+      },
+      "meaning": {
+        "english": "chim"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/tori0.svg",
+        "https://media.kanjialive.com/rad_frames/tori1.svg",
+        "https://media.kanjialive.com/rad_frames/tori2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "481",
+      "classic_nelson": "983"
+    }
+  },
+  "jishoData": {
+    "query": "鳴",
+    "found": true,
+    "taughtIn": "lớp 2",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "1279",
+    "strokeCount": 14,
+    "meaning": "kêu, kêu, sủa, âm thanh, chuông, tiếng vang, tiếng còi",
+    "kunyomi": [
+      "な.く",
+      "な.る",
+      "な.らす"
+    ],
+    "onyomi": [
+      "メイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鳴管",
+        "reading": "メイカン",
+        "meaning": "ống tiêu (một phần của chim), thanh quản dưới"
+      },
+      {
+        "example": "鳴禽",
+        "reading": "メイキン",
+        "meaning": "chim biết hót, chim ưng"
+      },
+      {
+        "example": "百家争鳴",
+        "reading": "ヒャッカソウメイ",
+        "meaning": "hãy để hàng trăm trường phái tư tưởng tranh giành"
+      },
+      {
+        "example": "蛙鳴",
+        "reading": "アメイ",
+        "meaning": "tiếng ếch kêu"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鳴く",
+        "reading": "なく",
+        "meaning": "tạo ra âm thanh (của một con vật), kêu, kêu, rên rỉ, hát, kêu ríu rít, kêu meld (ví dụ pung, kong)"
+      },
+      {
+        "example": "鳴く蝉よりも鳴かぬ蛍が身を焦がす",
+        "reading": "なくせみよりもなかぬほたるがみをこがす",
+        "meaning": "Chiếc bình rỗng gây ồn ào nhất, đom đóm thầm lặng cháy bỏng đam mê hơn cả tiếng ve kêu"
+      },
+      {
+        "example": "鳴る",
+        "reading": "なる",
+        "meaning": "vang lên, vang lên, vang lên, vang lên, vang lên, vang lên"
+      },
+      {
+        "example": "鳴門",
+        "reading": "なると",
+        "meaning": "eo biển với thủy triều lên xuống ầm ầm, xoáy nước, xoáy nước, kamaboko với mô hình xoắn ốc giống như xoáy nước, kỹ thuật nấu ăn trong đó nguyên liệu được cắt theo mô hình xoắn ốc, Naruto (thành phố ở Tokushima), eo biển Naruto, Naruto wakame"
+      },
+      {
+        "example": "鳴らす",
+        "reading": "ならす",
+        "meaning": "đổ chuông, phát ra âm thanh, kêu vang, đánh đập, khịt mũi (mũi), búng tay, bẻ khớp, nổi tiếng, được quý trọng, có uy tín, tuyên bố, nhấn mạnh, phàn nàn, đánh rắm (lớn tiếng)"
+      }
+    ],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "chim"
+    },
+    "parts": [
+      "口",
+      "杰",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40180_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09cf4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9cf4.gif",
+    "uri": "https://jisho.org/search/%E9%B3%B4%23kanji"
+  }
+}

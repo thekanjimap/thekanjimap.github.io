@@ -1,0 +1,62 @@
+{
+  "id": "讀",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "讀",
+    "found": true,
+    "strokeCount": 22,
+    "meaning": "đọc, nghiên cứu, phát âm",
+    "kunyomi": [
+      "よ.む"
+    ],
+    "onyomi": [
+      "ドク",
+      "トク",
+      "トウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "読書",
+        "reading": "ドクショ",
+        "meaning": "đọc (sách)"
+      },
+      {
+        "example": "読書",
+        "reading": "ドクショ",
+        "meaning": "đọc (sách)"
+      },
+      {
+        "example": "冒涜",
+        "reading": "ボウトク",
+        "meaning": "sự báng bổ, sự báng bổ, sự phạm thánh, sự xúc phạm, sự ô uế"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "読む",
+        "reading": "よむ",
+        "meaning": "đọc, tụng (ví dụ: kinh), tụng, dự đoán, đoán, dự báo, đọc (suy nghĩ của ai đó), nhìn (ví dụ: vào trái tim của ai đó), đoán, phát âm, đọc (ví dụ: chữ kanji), giải mã, đọc (đồng hồ, đồ thị, âm nhạc, v.v.), kể (thời gian), đếm, ước tính, đọc (chữ kanji) với cách đọc tiếng Nhật bản địa của nó"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "lời nói"
+    },
+    "parts": [
+      "ハ",
+      "儿",
+      "囗",
+      "士",
+      "目",
+      "言",
+      "貝"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35712_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b80.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b80.gif",
+    "uri": "https://jisho.org/search/%E8%AE%80%23kanji"
+  }
+}

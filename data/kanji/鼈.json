@@ -1,0 +1,57 @@
+{
+  "id": "鼈",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鼈",
+    "found": true,
+    "strokeCount": 25,
+    "meaning": "rùa ngoạm, rùa nước ngọt",
+    "kunyomi": [
+      "すっぽん"
+    ],
+    "onyomi": [
+      "ベツ",
+      "ヘツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鼈",
+        "reading": "スッポン",
+        "meaning": "Rùa mai mềm Trung Quốc (Pelodiscus sinensis), rùa mai mềm (Trionychidae), cửa bẫy nằm trên lối đi trong nhà hát kabuki, máy bơm đáy tàu (dùng trên tàu truyền thống của Nhật Bản)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鼈",
+        "reading": "すっぽん",
+        "meaning": "Rùa mai mềm Trung Quốc (Pelodiscus sinensis), rùa mai mềm (Trionychidae), cửa bẫy nằm trên lối đi trong nhà hát kabuki, máy bơm đáy tàu (dùng trên tàu truyền thống của Nhật Bản)"
+      },
+      {
+        "example": "鼈茸",
+        "reading": "すっぽんたけ",
+        "meaning": "Sừng thối thông thường (Phallus impudicus)"
+      },
+      {
+        "example": "月とスッポン",
+        "reading": "つきとすっぽん",
+        "meaning": "hai thứ bề ngoài giống nhau nhưng lại hoàn toàn khác nhau, đêm và ngày, phấn và pho mát, Mặt trăng và con rùa"
+      }
+    ],
+    "radical": {
+      "symbol": "黽",
+      "meaning": "ếch, lưỡng cư"
+    },
+    "parts": [
+      "乞",
+      "冂",
+      "小",
+      "尚",
+      "攵",
+      "黽"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40712_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f08.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f08.gif",
+    "uri": "https://jisho.org/search/%E9%BC%88%23kanji"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "訴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "訴",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "427",
+    "strokeCount": 12,
+    "meaning": "buộc tội, kiện cáo, phàn nàn về nỗi đau, khiếu nại",
+    "kunyomi": [
+      "うった.える"
+    ],
+    "onyomi": [
+      "ソ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "訴状",
+        "reading": "ソジョウ",
+        "meaning": "đơn thỉnh cầu, khiếu nại, tóm tắt (pháp lý)"
+      },
+      {
+        "example": "訴訟",
+        "reading": "ソショウ",
+        "meaning": "vụ kiện, vụ kiện, hành động (pháp lý), kiện tụng"
+      },
+      {
+        "example": "公訴",
+        "reading": "コウソ",
+        "meaning": "(công khai) truy tố, buộc tội, buộc tội"
+      },
+      {
+        "example": "提訴",
+        "reading": "テイソ",
+        "meaning": "trình bày vụ việc, khởi kiện"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "訴える",
+        "reading": "うったえる",
+        "meaning": "gây ra, thu hút (sự chú ý của ai đó), thu hút (lý do, cảm xúc, v.v.), làm việc trên (cảm xúc của một người), lợi dụng (sự thông cảm của một người), phàn nàn, kiện (một người), đưa ai đó ra tòa, dùng đến (ví dụ: vũ khí, bạo lực)"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "lời nói"
+    },
+    "parts": [
+      "丶",
+      "斤",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35380_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a34.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a34.gif",
+    "uri": "https://jisho.org/search/%E8%A8%B4%23kanji"
+  }
+}

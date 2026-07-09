@@ -1,0 +1,59 @@
+{
+  "id": "攣",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "攣",
+    "found": true,
+    "strokeCount": 23,
+    "meaning": "cong, cong",
+    "kunyomi": [
+      "つ.る",
+      "ひ.く"
+    ],
+    "onyomi": [
+      "レン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "攣縮",
+        "reading": "レンシュク",
+        "meaning": "sự co thắt"
+      },
+      {
+        "example": "胃痙攣",
+        "reading": "イケイレン",
+        "meaning": "co thắt dạ dày, co thắt dạ dày, co thắt dạ dày"
+      },
+      {
+        "example": "膣痙攣",
+        "reading": "チツケイレン",
+        "meaning": "co thắt âm đạo, co thắt âm đạo"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "攣る",
+        "reading": "つる",
+        "meaning": "bị chuột rút, bị chuột rút, bị chuột rút (trong)"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "小",
+      "幺",
+      "手",
+      "糸",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25891_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06523.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6523.gif",
+    "uri": "https://jisho.org/search/%E6%94%A3%23kanji"
+  }
+}

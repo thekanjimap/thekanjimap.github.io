@@ -1,0 +1,49 @@
+{
+  "id": "泛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "泛",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "trôi dạt, trôi nổi, bất cẩn, liều lĩnh",
+    "kunyomi": [
+      "うか.ぶ"
+    ],
+    "onyomi": [
+      "ハン",
+      "ホウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "汎称",
+        "reading": "ハンショウ",
+        "meaning": "gộp những thứ tương tự lại với nhau và đặt cho nhóm một tên tập thể, tên tập thể, thuật ngữ chung"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "浮かぶ",
+        "reading": "うかぶ",
+        "meaning": "nổi lên, lơ lửng, nổi lên trên mặt nước, xuất hiện, nổi lên, xuất hiện, lờ mờ (lên), xuất hiện trong tâm trí, có cảm hứng"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "ノ",
+      "乙",
+      "亠",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27867_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06cdb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6cdb.gif",
+    "uri": "https://jisho.org/search/%E6%B3%9B%23kanji"
+  }
+}

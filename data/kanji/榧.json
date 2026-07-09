@@ -1,0 +1,52 @@
+{
+  "id": "榧",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "榧",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "Nhục đậu khấu Nhật Bản, mận-tuyệt tùng",
+    "kunyomi": [
+      "かや"
+    ],
+    "onyomi": [
+      "ヒ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "榧",
+        "reading": "かや",
+        "meaning": "kaya (Torreya nucifera), cây nhục đậu khấu Nhật Bản"
+      },
+      {
+        "example": "榧味噌",
+        "reading": "かやみそ",
+        "meaning": "món miso trắng trộn với bột nhục đậu khấu Nhật Bản rang, đường và hạt mè…"
+      },
+      {
+        "example": "新かや",
+        "reading": "しんかや",
+        "meaning": "shin kaya, kaya giả, bất kỳ loại gỗ nào rẻ hơn giống kaya, được sử dụng làm ván cờ vây và shogi"
+      },
+      {
+        "example": "本かや",
+        "reading": "ほんかや",
+        "meaning": "kaya chính hãng (trái ngược với kaya giả)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "匚",
+      "木",
+      "非"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27047_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069a7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69a7.gif",
+    "uri": "https://jisho.org/search/%E6%A6%A7%23kanji"
+  }
+}

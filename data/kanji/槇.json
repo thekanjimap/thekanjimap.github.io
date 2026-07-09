@@ -1,0 +1,73 @@
+{
+  "id": "槇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "槇",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "cành cây, thông đen Trung Quốc",
+    "kunyomi": [
+      "まき",
+      "こずえ"
+    ],
+    "onyomi": [
+      "テン",
+      "シン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "真柏",
+        "reading": "シンパク",
+        "meaning": "Cây bách xù Trung Quốc (Juniperus chinensis)"
+      },
+      {
+        "example": "這柏槇",
+        "reading": "ハイビャクシン",
+        "meaning": "Cây bách xù lùn vườn Nhật Bản (Juniperus chinensis var. Procumbens)"
+      },
+      {
+        "example": "新高柏槇",
+        "reading": "ニイタカビャクシン",
+        "meaning": "cây bách xù (Juniperus squamata), cây bách xù Himalaya"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "槙",
+        "reading": "まき",
+        "meaning": "Thông mận thủy tùng (Podocarpus macrophyllus)"
+      },
+      {
+        "example": "槇皮",
+        "reading": "まいはだ",
+        "meaning": "caulking, caking, oakum"
+      },
+      {
+        "example": "犬槙",
+        "reading": "いぬまき",
+        "meaning": "Thông mận thủy tùng (Podocarpus macrophyllus)"
+      },
+      {
+        "example": "棈",
+        "reading": "あべまき",
+        "meaning": "Sồi bần Trung Quốc (Quercus variabilis)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "木",
+      "目",
+      "貝",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27079_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069c7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69c7.gif",
+    "uri": "https://jisho.org/search/%E6%A7%87%23kanji"
+  }
+}

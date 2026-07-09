@@ -1,0 +1,65 @@
+{
+  "id": "匠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "匠",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1718",
+    "strokeCount": 6,
+    "meaning": "thợ thủ công, thợ mộc, thợ mộc",
+    "kunyomi": [
+      "たくみ"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "匠",
+        "reading": "ショウ",
+        "meaning": "thợ thủ công, thợ thủ công, thợ mộc, thợ (có tay nghề)"
+      },
+      {
+        "example": "匠気",
+        "reading": "ショウキ",
+        "meaning": "ảnh hưởng, mong muốn được ấn tượng"
+      },
+      {
+        "example": "師匠",
+        "reading": "シショウ",
+        "meaning": "chủ, thầy, chủ ổn định"
+      },
+      {
+        "example": "意匠",
+        "reading": "イショウ",
+        "meaning": "thiết kế, ý tưởng, ý tưởng, kế hoạch"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "匠",
+        "reading": "たくみ",
+        "meaning": "Thợ thủ công, Nghệ nhân, công nhân, Thợ mộc, Nghề thủ công, Nghề thủ công, kỹ năng, Khéo léo, Thiết kế, âm mưu, kế hoạch, Giả mạo, lừa"
+      },
+      {
+        "example": "飛騨の匠",
+        "reading": "ひだのたくみ",
+        "meaning": "hệ thống theo đó vùng Hida cung cấp cho chính quyền trung ương 10 thợ mộc mỗi làng thay cho thuế"
+      }
+    ],
+    "radical": {
+      "symbol": "匚",
+      "meaning": "cái hộp"
+    },
+    "parts": [
+      "匚",
+      "斤"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21280_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05320.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5320.gif",
+    "uri": "https://jisho.org/search/%E5%8C%A0%23kanji"
+  }
+}

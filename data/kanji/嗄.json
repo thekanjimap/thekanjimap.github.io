@@ -1,0 +1,61 @@
+{
+  "id": "嗄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嗄",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "khàn giọng",
+    "kunyomi": [
+      "か.らす",
+      "か.れる",
+      "しゃが.れる"
+    ],
+    "onyomi": [
+      "サ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "嗄声",
+        "reading": "サセイ",
+        "meaning": "khàn giọng, khàn giọng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "嗄らす",
+        "reading": "からす",
+        "meaning": "tự nói khàn giọng, tự hét khàn giọng"
+      },
+      {
+        "example": "嗄れる",
+        "reading": "かれる",
+        "meaning": "trở nên khàn khàn, trở nên khàn khàn"
+      },
+      {
+        "example": "嗄れる",
+        "reading": "しゃがれる",
+        "meaning": "trở nên khàn khàn, trở nên khàn khàn"
+      },
+      {
+        "example": "嗄れる",
+        "reading": "しゃがれる",
+        "meaning": "trở nên khàn khàn, trở nên khàn khàn"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "一",
+      "口",
+      "夂",
+      "自"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21956_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/055c4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/55c4.gif",
+    "uri": "https://jisho.org/search/%E5%97%84%23kanji"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "嗣",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嗣",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2310",
+    "strokeCount": 13,
+    "meaning": "người thừa kế, thành công",
+    "kunyomi": [],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "嗣",
+        "reading": "シ",
+        "meaning": "người kế vị, người kế vị"
+      },
+      {
+        "example": "嗣業",
+        "reading": "シギョウ",
+        "meaning": "thành công trong kinh doanh"
+      },
+      {
+        "example": "継嗣",
+        "reading": "ケイシ",
+        "meaning": "người thừa kế, người thừa kế, người thừa kế"
+      },
+      {
+        "example": "世子",
+        "reading": "セイシ",
+        "meaning": "người thừa kế, người kế vị"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "一",
+      "亅",
+      "冂",
+      "口",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21987_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/055e3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/55e3.gif",
+    "uri": "https://jisho.org/search/%E5%97%A3%23kanji"
+  }
+}

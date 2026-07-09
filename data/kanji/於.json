@@ -1,0 +1,63 @@
+{
+  "id": "於",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "於",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2113",
+    "strokeCount": 8,
+    "meaning": "tại, trong, trên, đối với",
+    "kunyomi": [
+      "おい.て",
+      "お.ける",
+      "ああ",
+      "より"
+    ],
+    "onyomi": [
+      "オ",
+      "ヨ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "於いて",
+        "reading": "オイテ",
+        "meaning": "tại (thời gian hoặc địa điểm), trong, trên, trong (một tình huống, vấn đề, v.v.), trên (một điểm), khi nói đến, liên quan đến, đối với, về (về mặt), đối với, về phía, dưới thẩm quyền của, nhân danh"
+      },
+      {
+        "example": "於かれましては",
+        "reading": "オカレマシテハ",
+        "meaning": "liên quan đến, liên quan đến, đối với"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "於いて",
+        "reading": "おいて",
+        "meaning": "tại (thời gian hoặc địa điểm), trong, trên, trong (một tình huống, vấn đề, v.v.), trên (một điểm), khi nói đến, liên quan đến, đối với, về (về mặt), đối với, về phía, dưới thẩm quyền của, nhân danh"
+      },
+      {
+        "example": "於ける",
+        "reading": "おける",
+        "meaning": "trong, tại, cho"
+      },
+      {
+        "example": "【ああ】",
+        "reading": "ah!, oh!, alas!, yes, indeed, that is correct, aah, gah, argh, hey!, yo!, uh huh, yeah yeah, right, gotcha",
+        "meaning": ""
+      }
+    ],
+    "radical": {
+      "symbol": "方",
+      "meaning": "hình vuông"
+    },
+    "parts": [
+      "个",
+      "方"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26044_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065bc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65bc.gif",
+    "uri": "https://jisho.org/search/%E6%96%BC%23kanji"
+  }
+}

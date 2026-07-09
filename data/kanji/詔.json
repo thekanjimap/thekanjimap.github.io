@@ -1,0 +1,59 @@
+{
+  "id": "詔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "詔",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2239",
+    "strokeCount": 12,
+    "meaning": "sắc lệnh của triều đình",
+    "kunyomi": [
+      "みことのり"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "詔",
+        "reading": "ミコトノリ",
+        "meaning": "sắc lệnh của triều đình, chiếu chỉ của triều đình"
+      },
+      {
+        "example": "詔書",
+        "reading": "ショウショ",
+        "meaning": "chiếu chỉ, chiếu chỉ của triều đình"
+      },
+      {
+        "example": "大詔",
+        "reading": "タイショウ",
+        "meaning": "bản chỉ dẫn của đế quốc"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "詔",
+        "reading": "みことのり",
+        "meaning": "sắc lệnh của triều đình, chiếu chỉ của triều đình"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "lời nói"
+    },
+    "parts": [
+      "刀",
+      "口",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35412_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a54.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a54.gif",
+    "uri": "https://jisho.org/search/%E8%A9%94%23kanji"
+  }
+}

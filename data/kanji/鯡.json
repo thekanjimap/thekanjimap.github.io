@@ -1,0 +1,49 @@
+{
+  "id": "鯡",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鯡",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "cá trích",
+    "kunyomi": [
+      "にしん",
+      "はららご"
+    ],
+    "onyomi": [
+      "ヒ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鰊",
+        "reading": "にしん",
+        "meaning": "Cá trích Thái Bình Dương (Clupea pallasii)"
+      },
+      {
+        "example": "鰊粕",
+        "reading": "にしんかす",
+        "meaning": "cá trích luộc ép khô ép (dùng làm phân bón)"
+      },
+      {
+        "example": "大西洋鯡",
+        "reading": "たいせいようにしん",
+        "meaning": "Cá trích Đại Tây Dương (Clupea harengus)"
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "cá"
+    },
+    "parts": [
+      "杰",
+      "田",
+      "非",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39905_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09be1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9be1.gif",
+    "uri": "https://jisho.org/search/%E9%AF%A1%23kanji"
+  }
+}

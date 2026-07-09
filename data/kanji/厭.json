@@ -1,0 +1,92 @@
+{
+  "id": "厭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "厭",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "chán, chán, chán, không thích, khó chịu, không được chào đón",
+    "kunyomi": [
+      "いや",
+      "あ.きる",
+      "いと.う",
+      "おさ.える"
+    ],
+    "onyomi": [
+      "エン",
+      "オン",
+      "アン",
+      "オウ",
+      "ユウ",
+      "ヨウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "厭悪",
+        "reading": "エンオ",
+        "meaning": "không thích, chán ghét"
+      },
+      {
+        "example": "厭忌",
+        "reading": "エンキ",
+        "meaning": "sự căm ghét, sự không ưa, sự ghê tởm, sự ghê tởm"
+      },
+      {
+        "example": "会厭",
+        "reading": "エエン",
+        "meaning": "nắp thanh quản"
+      },
+      {
+        "example": "倦厭",
+        "reading": "ケンエン",
+        "meaning": "sự mệt mỏi"
+      },
+      {
+        "example": "厭離",
+        "reading": "オンリ",
+        "meaning": "rời khỏi thế giới này trong sự khinh bỉ"
+      },
+      {
+        "example": "厭離穢土",
+        "reading": "エンリエド",
+        "meaning": "sự ghê tởm (sống trong) thế giới ô uế này"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "嫌",
+        "reading": "いや",
+        "meaning": "không thích, không muốn, không muốn (làm), miễn cưỡng, khó chịu, khó chịu, khó chịu, kinh khủng, kinh tởm, không mong muốn, không được chào đón, không!, bỏ nó đi!, dừng lại!"
+      },
+      {
+        "example": "嫌がらせ",
+        "reading": "いやがらせ",
+        "meaning": "quấy rối, làm phiền"
+      },
+      {
+        "example": "飽きる",
+        "reading": "あきる",
+        "meaning": "chán, chán, mất hứng thú, chán ngấy, chán ngấy, chán, trở nên chán, trở nên no nê, no nê"
+      },
+      {
+        "example": "厭う",
+        "reading": "いとう",
+        "meaning": "ghê tởm, chùn bước (làm), ác cảm (làm), tha thứ (bản thân), mệt mỏi, xa lánh, không thích (một hoạt động, một môi trường), ghét (một hoạt động), chăm sóc (tốt)"
+      }
+    ],
+    "radical": {
+      "symbol": "厂",
+      "meaning": "vách đá"
+    },
+    "parts": [
+      "厂",
+      "日",
+      "月",
+      "犬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21421_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053ad.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53ad.gif",
+    "uri": "https://jisho.org/search/%E5%8E%AD%23kanji"
+  }
+}

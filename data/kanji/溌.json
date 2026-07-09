@@ -1,0 +1,44 @@
+{
+  "id": "溌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "溌",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "rắc, sống động, mạnh mẽ",
+    "kunyomi": [
+      "も.る",
+      "とびち.る",
+      "そそ.ぐ"
+    ],
+    "onyomi": [
+      "ハツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "溌剌",
+        "reading": "ハツラツ",
+        "meaning": "sinh động, sinh động, sinh động, sinh động, sống động"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "二",
+      "儿",
+      "汁",
+      "癶"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28300_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e8c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e8c.gif",
+    "uri": "https://jisho.org/search/%E6%BA%8C%23kanji"
+  }
+}

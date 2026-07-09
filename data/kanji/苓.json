@@ -1,0 +1,52 @@
+{
+  "id": "苓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "苓",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "thực vật, cây cỏ, nấm",
+    "kunyomi": [
+      "みみなぐさ"
+    ],
+    "onyomi": [
+      "レイ",
+      "リョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "猪苓",
+        "reading": "チョレイ",
+        "meaning": "ô polypore sclerotium (được sử dụng làm thuốc lợi tiểu, hạ sốt và chống ho trong y học cổ truyền Trung Quốc)"
+      },
+      {
+        "example": "茯苓",
+        "reading": "ブクリョウ",
+        "meaning": "Poria cocos (loài basidiomycete được sử dụng trong y học Trung Quốc)"
+      },
+      {
+        "example": "土茯苓",
+        "reading": "ドブクリョウ",
+        "meaning": "Smilax glabra (loài sarsaparilla, được sử dụng đặc biệt để chỉ thân rễ khô của nó, được sử dụng trong y học Trung Quốc)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "一",
+      "个",
+      "卩",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33491_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082d3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82d3.gif",
+    "uri": "https://jisho.org/search/%E8%8B%93%23kanji"
+  }
+}

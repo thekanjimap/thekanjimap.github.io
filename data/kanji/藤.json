@@ -1,0 +1,74 @@
+{
+  "id": "藤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "藤",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "291",
+    "strokeCount": 18,
+    "meaning": "cây tử đằng",
+    "kunyomi": [
+      "ふじ"
+    ],
+    "onyomi": [
+      "トウ",
+      "ドウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "藤黄",
+        "reading": "トウオウ",
+        "meaning": "trò chơi khăm"
+      },
+      {
+        "example": "藤花",
+        "reading": "トウカ",
+        "meaning": "hoa tử đằng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "藤",
+        "reading": "ふじ",
+        "meaning": "wisteria (đặc biệt là wisteria Nhật Bản, Wisteria floribunda), wisteria"
+      },
+      {
+        "example": "藤色",
+        "reading": "ふじいろ",
+        "meaning": "màu tím nhạt"
+      },
+      {
+        "example": "草藤",
+        "reading": "くさふじ",
+        "meaning": "đậu tằm chần (Vicia cracca), đậu tằm bò"
+      },
+      {
+        "example": "野田藤",
+        "reading": "のだふじ",
+        "meaning": "Hoa tử đằng Nhật Bản (Wsteria floribunda)"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "一",
+      "二",
+      "大",
+      "月",
+      "水",
+      "艾",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34276_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085e4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85e4.gif",
+    "uri": "https://jisho.org/search/%E8%97%A4%23kanji"
+  }
+}

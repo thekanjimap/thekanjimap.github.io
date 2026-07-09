@@ -1,0 +1,54 @@
+{
+  "id": "彎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "彎",
+    "found": true,
+    "strokeCount": 22,
+    "meaning": "đường cong, giương cung",
+    "kunyomi": [
+      "ひ.く"
+    ],
+    "onyomi": [
+      "ワン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "湾曲",
+        "reading": "ワンキョク",
+        "meaning": "đường cong, uốn cong, quanh co"
+      },
+      {
+        "example": "彎月",
+        "reading": "ワンゲツ",
+        "meaning": "lưỡi liềm"
+      },
+      {
+        "example": "大弯",
+        "reading": "ダイワン",
+        "meaning": "độ cong lớn hơn (của dạ dày), đường cong tâm thất lớn"
+      },
+      {
+        "example": "小弯",
+        "reading": "ショウワン",
+        "meaning": "độ cong nhỏ (của dạ dày), đường cong tâm thất nhỏ"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "弓",
+      "meaning": "cúi đầu"
+    },
+    "parts": [
+      "小",
+      "幺",
+      "弓",
+      "糸",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24398_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f4e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f4e.gif",
+    "uri": "https://jisho.org/search/%E5%BD%8E%23kanji"
+  }
+}

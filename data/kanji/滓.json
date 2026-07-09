@@ -1,0 +1,81 @@
+{
+  "id": "滓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "滓",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "cặn bã, căn cứ",
+    "kunyomi": [
+      "おり",
+      "かす"
+    ],
+    "onyomi": [
+      "シ",
+      "サイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "残滓",
+        "reading": "ザンシ",
+        "meaning": "tàn tích, cặn bã, vết tích, tàn dư, cặn bã"
+      },
+      {
+        "example": "鉱滓",
+        "reading": "コウサイ",
+        "meaning": "xỉ"
+      },
+      {
+        "example": "残滓",
+        "reading": "ザンシ",
+        "meaning": "tàn tích, cặn bã, vết tích, tàn dư, cặn bã"
+      },
+      {
+        "example": "鉱滓",
+        "reading": "コウサイ",
+        "meaning": "xỉ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "滓",
+        "reading": "かす",
+        "meaning": "cặn, cặn, bã, bột, cặn (đặc biệt là rượu sake), thức ăn thừa, sản phẩm phụ, đồ vô giá trị, rác, cặn (ví dụ như của xã hội), cặn bã, cặn bã, thẻ 1 điểm"
+      },
+      {
+        "example": "糟酢",
+        "reading": "かすず",
+        "meaning": "giấm làm từ rượu sake"
+      },
+      {
+        "example": "燃え滓",
+        "reading": "もえかす",
+        "meaning": "than xỉ"
+      },
+      {
+        "example": "魚粕",
+        "reading": "ぎょかす",
+        "meaning": "bột cá"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "十",
+      "宀",
+      "汁",
+      "立",
+      "辛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28371_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ed3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ed3.gif",
+    "uri": "https://jisho.org/search/%E6%BB%93%23kanji"
+  }
+}

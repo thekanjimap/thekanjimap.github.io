@@ -1,0 +1,46 @@
+{
+  "id": "扣",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "扣",
+    "found": true,
+    "strokeCount": 6,
+    "meaning": "gõ, đánh, rap, gõ, nút",
+    "kunyomi": [
+      "たた.く",
+      "ひか.える"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "控除",
+        "reading": "コウジョ",
+        "meaning": "trừ, khấu trừ (ví dụ: thuế)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "控える",
+        "reading": "ひかえる",
+        "meaning": "ôn hòa, kiềm chế, kiềm chế, kiềm chế, kiềm chế bản thân khỏi quá mức ..., ghi chép, ghi chú (ví dụ: số điện thoại), chuẩn bị, chờ đợi, sắp tới, sắp bắt đầu, có mối quan hệ thân thiết (ví dụ như người ủng hộ, v.v.)"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "口",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25187_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06263.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6263.gif",
+    "uri": "https://jisho.org/search/%E6%89%A3%23kanji"
+  }
+}

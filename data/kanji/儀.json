@@ -1,0 +1,61 @@
+{
+  "id": "儀",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "儀",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "739",
+    "strokeCount": 15,
+    "meaning": "buổi lễ, quy tắc, việc, trường hợp, một vấn đề",
+    "kunyomi": [],
+    "onyomi": [
+      "ギ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "儀",
+        "reading": "ギ",
+        "meaning": "buổi lễ, vấn đề, sự việc, trường hợp, liên quan đến, đối với, như mối quan tâm"
+      },
+      {
+        "example": "儀式",
+        "reading": "ギシキ",
+        "meaning": "buổi lễ, nghi lễ, nghi lễ, phục vụ"
+      },
+      {
+        "example": "奥義",
+        "reading": "オウギ",
+        "meaning": "kỹ thuật bí mật (của một nghệ thuật hoặc kỹ năng), bí ẩn bên trong, bản chất, tinh hoa, trái tim"
+      },
+      {
+        "example": "祭儀",
+        "reading": "サイギ",
+        "meaning": "nghi thức, nghi thức"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "đàn ông, con người"
+    },
+    "parts": [
+      "一",
+      "亅",
+      "化",
+      "并",
+      "戈",
+      "手",
+      "王",
+      "羊"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20736_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05100.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5100.gif",
+    "uri": "https://jisho.org/search/%E5%84%80%23kanji"
+  }
+}

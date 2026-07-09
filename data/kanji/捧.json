@@ -1,0 +1,55 @@
+{
+  "id": "捧",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "捧",
+    "found": true,
+    "newspaperFrequencyRank": "2286",
+    "strokeCount": 11,
+    "meaning": "nâng lên, cho, dâng hiến, thánh hiến, hy sinh, cống hiến",
+    "kunyomi": [
+      "ささ.げる"
+    ],
+    "onyomi": [
+      "ホウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "捧持",
+        "reading": "ホウジ",
+        "meaning": "mang, trình bày, giơ lên (hình ảnh hoàng đế)"
+      },
+      {
+        "example": "奉呈",
+        "reading": "ホウテイ",
+        "meaning": "trình diện (với người có địa vị cao), nộp, đề nghị"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "捧げる",
+        "reading": "ささげる",
+        "meaning": "nâng lên, nâng lên, giơ lên cao hơn tầm mắt, dâng hiến, dâng hiến, dâng hiến, cống hiến, hy sinh, cống hiến"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "一",
+      "二",
+      "人",
+      "大",
+      "扎",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25447_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06367.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6367.gif",
+    "uri": "https://jisho.org/search/%E6%8D%A7%23kanji"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "蓄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蓄",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1260",
+    "strokeCount": 13,
+    "meaning": "tích lũy, nuôi dưỡng, tích trữ, tích trữ",
+    "kunyomi": [
+      "たくわ.える"
+    ],
+    "onyomi": [
+      "チク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蓄積",
+        "reading": "チクセキ",
+        "meaning": "tích lũy, tích lũy, tích trữ"
+      },
+      {
+        "example": "蓄財",
+        "reading": "チクザイ",
+        "meaning": "tích lũy của cải"
+      },
+      {
+        "example": "備蓄",
+        "reading": "ビチク",
+        "meaning": "dự trữ (trong trường hợp khẩn cấp), dự trữ, dự trữ, cất giữ, đặt vào (vật tư)"
+      },
+      {
+        "example": "含蓄",
+        "reading": "ガンチク",
+        "meaning": "hàm ý, ý nghĩa, nội hàm, ý nghĩa sâu sắc, sự phức tạp của một vấn đề"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蓄える",
+        "reading": "たくわえる",
+        "meaning": "lưu trữ, tiết kiệm, dự trữ, dự trữ, để dành, tích lũy (ví dụ: kiến thức), xây dựng (ví dụ: kinh nghiệm), phát triển (ví dụ: kỹ năng của một người), mọc lên (râu, ria mép, v.v.), mặc"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "亠",
+      "幺",
+      "玄",
+      "田",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33988_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084c4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84c4.gif",
+    "uri": "https://jisho.org/search/%E8%93%84%23kanji"
+  }
+}

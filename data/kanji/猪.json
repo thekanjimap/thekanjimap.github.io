@@ -1,0 +1,89 @@
+{
+  "id": "猪",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "猪",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1684",
+    "strokeCount": 11,
+    "meaning": "con lợn rừng",
+    "kunyomi": [
+      "い",
+      "いのしし"
+    ],
+    "onyomi": [
+      "チョ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "猪口",
+        "reading": "チョコ",
+        "meaning": "cốc đựng rượu sake, bát sứ nhỏ sâu lòng để phục vụ thức ăn"
+      },
+      {
+        "example": "猪牙舟",
+        "reading": "チョキブネ",
+        "meaning": "Chiếc thuyền nhỏ không mái dùng làm taxi sông (thời Edo)"
+      },
+      {
+        "example": "野猪",
+        "reading": "ヤチョ",
+        "meaning": "lợn rừng"
+      },
+      {
+        "example": "玄猪",
+        "reading": "ゲンチョ",
+        "meaning": "Ngày con lợn tháng mười, bánh mochi được ăn vào ngày con lợn rừng (đặc biệt là vào thời điểm con lợn rừng)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "猪",
+        "reading": "い",
+        "meaning": "lợn (đặc biệt là lợn rừng, nhưng cũng bao gồm cả lợn nhà)"
+      },
+      {
+        "example": "猪",
+        "reading": "いのしし",
+        "meaning": "lợn rừng, lợn rừng"
+      },
+      {
+        "example": "猪",
+        "reading": "いのしし",
+        "meaning": "lợn rừng, lợn rừng"
+      },
+      {
+        "example": "猪年",
+        "reading": "いのししどし",
+        "meaning": "năm con lợn, năm con lợn"
+      },
+      {
+        "example": "鹿猪",
+        "reading": "しかいのしし",
+        "meaning": "babirusa (Babyrousa babyrussa)"
+      },
+      {
+        "example": "臍猪",
+        "reading": "へそいのしし",
+        "meaning": "đồng hồ peccary"
+      }
+    ],
+    "radical": {
+      "symbol": "犬",
+      "forms": [
+        "犭"
+      ],
+      "meaning": "con chó"
+    },
+    "parts": [
+      "日",
+      "犯",
+      "老"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/29482_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0732a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/732a.gif",
+    "uri": "https://jisho.org/search/%E7%8C%AA%23kanji"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "肘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "肘",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "strokeCount": 7,
+    "meaning": "khuỷu tay, cánh tay",
+    "kunyomi": [
+      "ひじ"
+    ],
+    "onyomi": [
+      "チュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "肘関節",
+        "reading": "チュウカンセツ",
+        "meaning": "khớp khuỷu tay"
+      },
+      {
+        "example": "肘頭滑液嚢炎",
+        "reading": "チュウトウカツエキノウエン",
+        "meaning": "viêm bao hoạt dịch olecranoid, khuỷu tay của thợ mỏ"
+      },
+      {
+        "example": "掣肘",
+        "reading": "セイチュウ",
+        "meaning": "kiềm chế, hạn chế, kiểm soát, kiểm tra"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "肘",
+        "reading": "ひじ",
+        "meaning": "khuỷu tay"
+      },
+      {
+        "example": "肘当て",
+        "reading": "ひじあて",
+        "meaning": "(có thể tháo rời) tựa khuỷu tay, tựa tay, đệm khuỷu tay, tấn công khuỷu tay (karate)"
+      },
+      {
+        "example": "野球肘",
+        "reading": "やきゅうひじ",
+        "meaning": "Khuỷu tay Little League, khuỷu tay người ném bóng, khuỷu tay bóng chày"
+      },
+      {
+        "example": "右ひじ",
+        "reading": "みぎひじ",
+        "meaning": "khuỷu tay phải"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "thịt"
+    },
+    "parts": [
+      "寸",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32920_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08098.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8098.gif",
+    "uri": "https://jisho.org/search/%E8%82%98%23kanji"
+  }
+}

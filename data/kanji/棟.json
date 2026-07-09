@@ -1,0 +1,79 @@
+{
+  "id": "棟",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "棟",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1406",
+    "strokeCount": 12,
+    "meaning": "sườn núi, sườn núi",
+    "kunyomi": [
+      "むね",
+      "むな-"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "棟",
+        "reading": "トウ",
+        "meaning": "tòa nhà lớn, tòa nhà có mái dài, quầy cho các tòa nhà, căn hộ, v.v."
+      },
+      {
+        "example": "棟梁",
+        "reading": "トウリョウ",
+        "meaning": "nhân vật trung tâm, trụ cột (ví dụ của quốc gia), trụ cột, trụ đỡ chính, người lãnh đạo, người đứng đầu, ông chủ, người đứng đầu, người đứng đầu, thợ mộc bậc thầy, dầm và cột đỡ mái nhà"
+      },
+      {
+        "example": "病棟",
+        "reading": "ビョウトウ",
+        "meaning": "(bệnh viện) phường"
+      },
+      {
+        "example": "上棟",
+        "reading": "ジョウトウ",
+        "meaning": "nâng cao sườn núi"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "棟",
+        "reading": "むね",
+        "meaning": "sườn núi (mái nhà), mặt sau của thanh kiếm, quầy tính tiền cho các tòa nhà, căn hộ, v.v."
+      },
+      {
+        "example": "棟上げ",
+        "reading": "むねあげ",
+        "meaning": "nâng cột sống, dựng khung nhà"
+      },
+      {
+        "example": "別棟",
+        "reading": "べつむね",
+        "meaning": "nhà riêng, nhà phụ, nhà ngoài"
+      },
+      {
+        "example": "大棟",
+        "reading": "おおむね",
+        "meaning": "sống trên cùng của mái nhà, sống chính của mái nhà"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "一",
+      "日",
+      "木",
+      "田",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26847_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068df.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68df.gif",
+    "uri": "https://jisho.org/search/%E6%A3%9F%23kanji"
+  }
+}

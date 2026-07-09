@@ -1,0 +1,67 @@
+{
+  "id": "苔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "苔",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "rêu, địa y",
+    "kunyomi": [
+      "こけ",
+      "こけら"
+    ],
+    "onyomi": [
+      "タイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "苔状",
+        "reading": "タイジョウ",
+        "meaning": "đầy rêu"
+      },
+      {
+        "example": "苔癬",
+        "reading": "タイセン",
+        "meaning": "địa y"
+      },
+      {
+        "example": "青苔",
+        "reading": "セイタイ",
+        "meaning": "rêu xanh"
+      },
+      {
+        "example": "掃苔",
+        "reading": "ソウタイ",
+        "meaning": "thăm mộ gia đình (đặc biệt trong lễ hội Bon), loại bỏ rêu trên bia mộ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "苔",
+        "reading": "こけ",
+        "meaning": "rêu, thực vật ngắn giống rêu (bao gồm các loài rêu khác, địa y, các loài thực vật có tinh trùng rất nhỏ, v.v.)"
+      },
+      {
+        "example": "コケ植物",
+        "reading": "コケしょくぶつ",
+        "meaning": "bryophyte (bất kỳ nhóm nào trong ba nhóm thực vật không có mạch trên đất liền, bao gồm rêu, rêu và rêu gan)"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "厶",
+      "口",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33492_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082d4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82d4.gif",
+    "uri": "https://jisho.org/search/%E8%8B%94%23kanji"
+  }
+}

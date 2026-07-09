@@ -1,0 +1,52 @@
+{
+  "id": "囃",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "囃",
+    "found": true,
+    "newspaperFrequencyRank": "2275",
+    "strokeCount": 21,
+    "meaning": "chơi (âm nhạc), đệm, đánh nhịp, nói đùa, chế nhạo, vỗ tay",
+    "kunyomi": [
+      "はや.す",
+      "はやし"
+    ],
+    "onyomi": [
+      "サツ",
+      "ソウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "囃す",
+        "reading": "はやす",
+        "meaning": "chơi nhạc đệm, giữ thời gian, cổ vũ, vỗ tay, chế nhạo, chế giễu, nói đùa"
+      },
+      {
+        "example": "囃子",
+        "reading": "はやし",
+        "meaning": "đệm cho các buổi biểu diễn truyền thống (noh, kabuki, v.v.), dàn nhạc, ban nhạc"
+      },
+      {
+        "example": "囃子方",
+        "reading": "はやしかた",
+        "meaning": "người đệm nhạc (trong noh, kabuki, v.v.), nhạc cụ nền"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "亠",
+      "人",
+      "口",
+      "木",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22211_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/056c3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56c3.gif",
+    "uri": "https://jisho.org/search/%E5%9B%83%23kanji"
+  }
+}

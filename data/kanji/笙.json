@@ -1,0 +1,62 @@
+{
+  "id": "笙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "笙",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 11,
+    "meaning": "một nhạc cụ sậy",
+    "kunyomi": [
+      "ふえ"
+    ],
+    "onyomi": [
+      "ショウ",
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "笙",
+        "reading": "ショウ",
+        "meaning": "nhạc cụ hơi truyền thống của Nhật Bản giống như kèn panpipe, nhạc cụ bằng sậy tự do được sử dụng trong âm nhạc cung đình Nhật Bản"
+      },
+      {
+        "example": "笙歌",
+        "reading": "ショウカ",
+        "meaning": "hát và chơi đàn shou"
+      },
+      {
+        "example": "鳳笙",
+        "reading": "ホウショウ",
+        "meaning": "shō (nhạc cụ sậy tự do của Nhật Bản)"
+      },
+      {
+        "example": "笙",
+        "reading": "ショウ",
+        "meaning": "nhạc cụ hơi truyền thống của Nhật Bản giống như kèn panpipe, nhạc cụ bằng sậy tự do được sử dụng trong âm nhạc cung đình Nhật Bản"
+      },
+      {
+        "example": "笙の笛",
+        "reading": "ショウノフエ",
+        "meaning": "shō (nhạc cụ sậy tự do của Nhật Bản)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "竹",
+      "forms": [
+        "⺮"
+      ],
+      "meaning": "tre"
+    },
+    "parts": [
+      "乞",
+      "生",
+      "竹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31513_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07b19.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7b19.gif",
+    "uri": "https://jisho.org/search/%E7%AC%99%23kanji"
+  }
+}

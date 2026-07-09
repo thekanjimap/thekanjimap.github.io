@@ -1,0 +1,66 @@
+{
+  "id": "鴛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鴛",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "vịt quýt đực",
+    "kunyomi": [
+      "おし",
+      "おしどり"
+    ],
+    "onyomi": [
+      "エン",
+      "オン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鴛鴦",
+        "reading": "エンオウ",
+        "meaning": "vịt quýt"
+      },
+      {
+        "example": "鴛鴦茶",
+        "reading": "エンオウチャ",
+        "meaning": "uống trà đen pha cà phê"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鴛鴦",
+        "reading": "おし",
+        "meaning": "vịt quýt"
+      },
+      {
+        "example": "鴛鴦",
+        "reading": "おしどり",
+        "meaning": "Vịt quýt (Aix galericulata)"
+      },
+      {
+        "example": "鴛鴦",
+        "reading": "おしどり",
+        "meaning": "Vịt quýt (Aix galericulata)"
+      },
+      {
+        "example": "おしどり夫婦",
+        "reading": "おしどりふうふ",
+        "meaning": "cặp đôi yêu nhau, đôi uyên ương, cặp đôi hạnh phúc (luôn ở bên nhau)"
+      }
+    ],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "chim"
+    },
+    "parts": [
+      "卩",
+      "夕",
+      "杰",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40219_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d1b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d1b.gif",
+    "uri": "https://jisho.org/search/%E9%B4%9B%23kanji"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "萱",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "萱",
+    "found": true,
+    "newspaperFrequencyRank": "2217",
+    "strokeCount": 12,
+    "meaning": "sậy miscanthus",
+    "kunyomi": [
+      "かや",
+      "かんぞう"
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "萱堂",
+        "reading": "ケンドウ",
+        "meaning": "mẹ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "茅",
+        "reading": "かや",
+        "meaning": "cỏ dùng để lợp nhà, cói dùng để lợp nhà"
+      },
+      {
+        "example": "萱鼠",
+        "reading": "かやねずみ",
+        "meaning": "chuột thu hoạch (Mus minutus)"
+      },
+      {
+        "example": "刈萱",
+        "reading": "かるかや",
+        "meaning": "Chủ đề triandra var. japonica (nhiều loại cỏ kangaroo), Cymbopogon tortilis var. goeringii (các loại cỏ có họ hàng gần với sả), cỏ tranh, cỏ cói"
+      },
+      {
+        "example": "雄刈萱",
+        "reading": "おがるかや",
+        "meaning": "Cymbopogon tortilis var. goeringii (nhiều loại cỏ có họ hàng gần với sả)"
+      },
+      {
+        "example": "萱草",
+        "reading": "かんぞう",
+        "meaning": "hoa ban ngày (bất kỳ loài hoa nào thuộc họ Hemerocallis), hoa huệ ban ngày"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "一",
+      "宀",
+      "日",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33841_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08431.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8431.gif",
+    "uri": "https://jisho.org/search/%E8%90%B1%23kanji"
+  }
+}

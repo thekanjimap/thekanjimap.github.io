@@ -1,0 +1,71 @@
+{
+  "id": "慶",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "慶",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1300",
+    "strokeCount": 15,
+    "meaning": "hân hoan, chúc mừng, vui mừng, hạnh phúc",
+    "kunyomi": [
+      "よろこ.び"
+    ],
+    "onyomi": [
+      "ケイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "慶事",
+        "reading": "ケイジ",
+        "meaning": "sự kiện vui vẻ, sự kiện tốt lành, sự kiện đáng chúc mừng"
+      },
+      {
+        "example": "慶祝",
+        "reading": "ケイシュク",
+        "meaning": "chúc mừng, ăn mừng"
+      },
+      {
+        "example": "弁慶",
+        "reading": "ベンケイ",
+        "meaning": "người mạnh mẽ, người khoác lên mình vẻ dũng cảm, ống tre có đục lỗ (dùng làm giá để đồ dùng nhà bếp, quạt, v.v.), kẻ ca-rô, kẻ sọc, hoa văn ca-rô"
+      },
+      {
+        "example": "大慶",
+        "reading": "タイケイ",
+        "meaning": "niềm vui lớn lao"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "喜び",
+        "reading": "よろこび",
+        "meaning": "niềm vui, sự hân hoan, sự sung sướng, niềm vui, sự hài lòng, sự vui mừng, lời chúc mừng, lời khen ngợi"
+      },
+      {
+        "example": "喜びごと",
+        "reading": "よろこびごと",
+        "meaning": "sự kiện tốt lành, lễ kỷ niệm"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "冖",
+      "夂",
+      "广",
+      "心"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24950_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06176.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6176.gif",
+    "uri": "https://jisho.org/search/%E6%85%B6%23kanji"
+  }
+}

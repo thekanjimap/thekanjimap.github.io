@@ -1,0 +1,43 @@
+{
+  "id": "酖",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "酖",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "nghiện, chất độc",
+    "kunyomi": [
+      "ふ.ける"
+    ],
+    "onyomi": [
+      "タン",
+      "チン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "耽溺",
+        "reading": "タンデキ",
+        "meaning": "sự ham mê (rượu, phụ nữ, v.v.), trụy lạc, phóng túng"
+      },
+      {
+        "example": "鴆",
+        "reading": "チン",
+        "meaning": "chim lông độc, zhenniao, zhen, chim độc thần thoại (của Trung Quốc cổ đại)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "酉",
+      "meaning": "rượu vang, rượu"
+    },
+    "parts": [
+      "冖",
+      "尢",
+      "酉"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37206_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09156.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9156.gif",
+    "uri": "https://jisho.org/search/%E9%85%96%23kanji"
+  }
+}

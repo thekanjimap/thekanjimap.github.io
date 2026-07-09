@@ -1,0 +1,62 @@
+{
+  "id": "菰",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "菰",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "sậy dùng để làm thảm",
+    "kunyomi": [
+      "こも",
+      "まこも"
+    ],
+    "onyomi": [
+      "コ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "薦",
+        "reading": "コモ",
+        "meaning": "chiếu rơm (có nguồn gốc từ lá lúa rừng), người ăn xin, lúa hoang Mãn Châu (Zizania latifolia)"
+      },
+      {
+        "example": "薦僧",
+        "reading": "コモソウ",
+        "meaning": "Thiền sư khất sĩ của giáo phái Fuke"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "薦",
+        "reading": "こも",
+        "meaning": "chiếu rơm (có nguồn gốc từ lá lúa rừng), người ăn xin, lúa hoang Mãn Châu (Zizania latifolia)"
+      },
+      {
+        "example": "薦僧",
+        "reading": "こもそう",
+        "meaning": "Thiền sư khất sĩ của giáo phái Fuke"
+      },
+      {
+        "example": "真菰",
+        "reading": "まこも",
+        "meaning": "Lúa hoang Mãn Châu (Zizania latifolia)"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "子",
+      "瓜",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33776_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/083f0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/83f0.gif",
+    "uri": "https://jisho.org/search/%E8%8F%B0%23kanji"
+  }
+}

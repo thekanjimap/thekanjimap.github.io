@@ -1,0 +1,428 @@
+{
+  "id": "折",
+  "kanjialiveData": {
+    "_id": "54317b04791eba5146ee4bdf",
+    "_rev": "13-65a5649c368796c6fcae9868945b2e24",
+    "rad_name_ja": "てへん",
+    "grade": 4,
+    "hint_group": 1,
+    "kunyomi": "o, oru, ori, oreru",
+    "meaning": "bẻ ra, gấp lại, uốn cong",
+    "kstroke": 7,
+    "examples": [
+      {
+        "japanese": "和洋折衷（わようせっちゅう）",
+        "meaning": {
+          "english": "sự kết hợp giữa Nhật Bản và phương Tây"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-o(reru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/setsu-o(reru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/setsu-o(reru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/setsu-o(reru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "紆余曲折（うよきょくせつ）",
+        "meaning": {
+          "english": "những khúc quanh, những thăng trầm"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-o(reru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/setsu-o(reru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/setsu-o(reru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/setsu-o(reru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "右折する（うせつする）",
+        "meaning": {
+          "english": "rẽ phải"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-o(reru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/setsu-o(reru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/setsu-o(reru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/setsu-o(reru)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "左折する（させつする）",
+        "meaning": {
+          "english": "rẽ trái"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-o(reru)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/setsu-o(reru)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/setsu-o(reru)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/setsu-o(reru)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "屈折する（くっせつする）",
+        "meaning": {
+          "english": "uốn cong, khúc xạ, bóp méo"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-o(reru)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/setsu-o(reru)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/setsu-o(reru)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/setsu-o(reru)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "骨折する（こっせつする）",
+        "meaning": {
+          "english": "gãy xương"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-o(reru)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/setsu-o(reru)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/setsu-o(reru)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/setsu-o(reru)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "折る（おる）",
+        "meaning": {
+          "english": "bẻ, gấp [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-o(reru)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/setsu-o(reru)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/setsu-o(reru)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/setsu-o(reru)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "折り紙（おりがみ）",
+        "meaning": {
+          "english": "origami"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-o(reru)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/setsu-o(reru)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/setsu-o(reru)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/setsu-o(reru)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "折れる（おれる）",
+        "meaning": {
+          "english": "bẻ gãy, bị gấp lại, nhượng bộ [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-o(reru)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/setsu-o(reru)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/setsu-o(reru)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/setsu-o(reru)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "折（おり）",
+        "meaning": {
+          "english": "một dịp, một cơ hội"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/setsu-o(reru)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/setsu-o(reru)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/setsu-o(reru)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/setsu-o(reru)_06_j.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "お、おる、おり、おれる",
+    "ka_utf": "折",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=折",
+    "rad_name_search": [
+      "tehen"
+    ],
+    "rad_order": 77,
+    "txt_books": [
+      {
+        "chapter": "17",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "30",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "22",
+        "txt_bk": "txtSFJ3"
+      },
+      {
+        "chapter": "20",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "12",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "jtr"
+      },
+      {
+        "chapter": "12",
+        "txt_bk": "jt"
+      }
+    ],
+    "kname": "setsu-o(reru)",
+    "rad_utf": "⺘",
+    "stroketimes": [
+      0,
+      0.8,
+      2.8,
+      3.733333,
+      5.266667,
+      6.2,
+      7.466667,
+      10.333333
+    ],
+    "kunyomi_ka_display": "お、おり",
+    "dick": "189",
+    "rad_name": "tehen",
+    "dicn": "1855",
+    "mn_hint": "Arms 扌 bending at the elbows while using the ax 斤.",
+    "rad_stroke": 3,
+    "onyomi_ja": "セツ",
+    "rad_meaning": "tay",
+    "onyomi": "setsu",
+    "ka_id": "ka_758",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "setsu",
+      "setsu"
+    ],
+    "kunyomi_search": [
+      "o",
+      "oru",
+      "ori",
+      "oreru",
+      "o, oru, ori, oreru"
+    ],
+    "meaning_search": [
+      "break off",
+      "break",
+      "off",
+      "fold",
+      "bend",
+      "break off, fold, bend"
+    ],
+    "onyomi_ja_search": [
+      "セツ",
+      "セツ"
+    ],
+    "kunyomi_ja_search": [
+      "お",
+      "おる",
+      "おり",
+      "おれる",
+      "お、おる、おり、おれる"
+    ],
+    "rad_meaning_search": [
+      "hand",
+      "hand"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "てへん"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:17",
+      "ij:c17",
+      "bk",
+      "bk:30",
+      "bk:c30",
+      "jtr",
+      "jtr:4",
+      "jtr:c4",
+      "jt",
+      "jt:12",
+      "jt:c12"
+    ],
+    "rad_name_file": "tehen",
+    "kanji": {
+      "character": "折",
+      "meaning": {
+        "english": "break off, fold, bend"
+      },
+      "strokes": {
+        "count": 7,
+        "timings": [
+          0,
+          0.8,
+          2.8,
+          3.733333,
+          5.266667,
+          6.2,
+          7.466667,
+          10.333333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/setsu-o(reru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/setsu-o(reru)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/setsu-o(reru)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/setsu-o(reru)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/setsu-o(reru)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/setsu-o(reru)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/setsu-o(reru)_7.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "setsu",
+        "katakana": "セツ"
+      },
+      "kunyomi": {
+        "romaji": "o, oru, ori, oreru",
+        "hiragana": "お、おり"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/setsu-o(reru)_7.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/setsu-o(reru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/setsu-o(reru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺘",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/tehen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "てへん",
+        "romaji": "tehen"
+      },
+      "meaning": {
+        "english": "tay"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/tehen0.svg",
+        "https://media.kanjialive.com/rad_frames/tehen1.svg",
+        "https://media.kanjialive.com/rad_frames/tehen2.svg"
+      ]
+    },
+    "references": {
+      "grade": 4,
+      "kodansha": "189",
+      "classic_nelson": "1855"
+    }
+  },
+  "jishoData": {
+    "query": "折",
+    "found": true,
+    "taughtIn": "lớp 4",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "962",
+    "strokeCount": 7,
+    "meaning": "gấp, bẻ, bẻ, bẻ cong, nhường, nộp",
+    "kunyomi": [
+      "お.る",
+      "おり",
+      "お.り",
+      "-お.り",
+      "お.れる"
+    ],
+    "onyomi": [
+      "セツ",
+      "シャク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "曲折",
+        "reading": "キョクセツ",
+        "meaning": "uốn khúc, quanh co, quanh co, ngoằn ngoèo, thăng trầm, khúc khuỷu, phức tạp, khó khăn, thăng trầm"
+      },
+      {
+        "example": "屈折",
+        "reading": "クッセツ",
+        "meaning": "uốn cong, uốn cong, xoắn, vặn, uốn cong, cong vênh (về cảm giác, logic, v.v.), bóp méo, xoắn, khúc xạ, uốn cong"
+      },
+      {
+        "example": "折伏",
+        "reading": "シャクブク",
+        "meaning": "thuyết giảng, phá vỡ niềm tin sai lầm của ai đó thông qua sự đối đầu (để khiến họ có đức tin đúng đắn)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "折る",
+        "reading": "おる",
+        "meaning": "bẻ gãy, bẻ gãy, bẻ gãy, bẻ gãy, hái (ví dụ: hoa), gấp, uốn cong, làm (origami), làm gián đoạn, kết thúc"
+      },
+      {
+        "example": "折",
+        "reading": "おり",
+        "meaning": "cơ hội, cơ hội, dịp, thời gian, gấp, gấp, xếp nếp, gấp nếp, hộp đựng thức ăn nhỏ (bằng gỗ hoặc bìa cứng), gấp vào ... (hai, ba, v.v.), quầy để đồ gấp, quầy để đồ (đặc biệt là đồ ăn) được đóng gói trong oribako"
+      },
+      {
+        "example": "折り合い",
+        "reading": "おりあい",
+        "meaning": "thỏa thuận (ví dụ: kinh doanh, tranh chấp), hiểu biết, thỏa hiệp, giải quyết, mối quan hệ, quan hệ, các điều khoản (tốt, xấu, v.v.)"
+      },
+      {
+        "example": "折々",
+        "reading": "おりおり",
+        "meaning": "thỉnh thoảng, thỉnh thoảng, thỉnh thoảng"
+      },
+      {
+        "example": "指折り",
+        "reading": "ゆびおり",
+        "meaning": "dẫn đầu, nổi bật, nổi bật, nổi bật, nổi bật, đếm trên đầu ngón tay"
+      },
+      {
+        "example": "折",
+        "reading": "おり",
+        "meaning": "cơ hội, cơ hội, dịp, thời gian, gấp, gấp, xếp nếp, gấp nếp, hộp đựng thức ăn nhỏ (bằng gỗ hoặc bìa cứng), gấp vào ... (hai, ba, v.v.), quầy để đồ gấp, quầy để đồ (đặc biệt là đồ ăn) được đóng gói trong oribako"
+      },
+      {
+        "example": "折り合い",
+        "reading": "おりあい",
+        "meaning": "thỏa thuận (ví dụ: kinh doanh, tranh chấp), hiểu biết, thỏa hiệp, giải quyết, mối quan hệ, quan hệ, các điều khoản (tốt, xấu, v.v.)"
+      },
+      {
+        "example": "折々",
+        "reading": "おりおり",
+        "meaning": "thỉnh thoảng, thỉnh thoảng, thỉnh thoảng"
+      },
+      {
+        "example": "指折り",
+        "reading": "ゆびおり",
+        "meaning": "dẫn đầu, nổi bật, nổi bật, nổi bật, nổi bật, đếm trên đầu ngón tay"
+      },
+      {
+        "example": "折れる",
+        "reading": "おれる",
+        "meaning": "bẻ gãy, bẻ gãy, bẻ gãy, bẻ gãy, nhượng bộ, lùi bước, nhượng bộ, khuất phục, rẽ (một góc)"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "扎",
+      "斤"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25240_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06298.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6298.gif",
+    "uri": "https://jisho.org/search/%E6%8A%98%23kanji"
+  }
+}

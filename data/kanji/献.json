@@ -1,0 +1,87 @@
+{
+  "id": "献",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "献",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "637",
+    "strokeCount": 13,
+    "meaning": "mời chào, quầy bán đồ uống, tặng, đề nghị",
+    "kunyomi": [
+      "たてまつ.る"
+    ],
+    "onyomi": [
+      "ケン",
+      "コン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "献金",
+        "reading": "ケンキン",
+        "meaning": "sự quyên góp, sự đóng góp, sự cúng dường"
+      },
+      {
+        "example": "献花",
+        "reading": "ケンカ",
+        "meaning": "dâng hoa, dâng hoa, đặt hoa"
+      },
+      {
+        "example": "社会貢献",
+        "reading": "シャカイコウケン",
+        "meaning": "đóng góp cho xã hội"
+      },
+      {
+        "example": "国際貢献",
+        "reading": "コクサイコウケン",
+        "meaning": "đóng góp quốc tế, đóng góp cho thế giới rộng lớn hơn"
+      },
+      {
+        "example": "献立",
+        "reading": "コンダテ",
+        "meaning": "thực đơn, hóa đơn tiền vé, chương trình, chương trình, lịch trình"
+      },
+      {
+        "example": "献立表",
+        "reading": "コンダテヒョウ",
+        "meaning": "thực đơn, danh sách các bữa ăn (ví dụ: trong tuần)"
+      },
+      {
+        "example": "九献",
+        "reading": "クコン",
+        "meaning": "ba lần ba trao đổi chén cưới, rượu sake (ngôn ngữ bí mật của các cung nữ), rượu gạo"
+      },
+      {
+        "example": "一献",
+        "reading": "イッコン",
+        "meaning": "một cốc (rượu sake), (đi mời, chiêu đãi ai đó) đồ uống, bữa tiệc nhỏ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "奉る",
+        "reading": "たてまつる",
+        "meaning": "đề nghị, trình bày, đặt ai đó lên vị trí cao, tôn kính từ xa, làm một cách kính trọng"
+      }
+    ],
+    "radical": {
+      "symbol": "犬",
+      "forms": [
+        "犭"
+      ],
+      "meaning": "con chó"
+    },
+    "parts": [
+      "冂",
+      "十",
+      "干",
+      "并",
+      "犬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/29486_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0732e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/732e.gif",
+    "uri": "https://jisho.org/search/%E7%8C%AE%23kanji"
+  }
+}

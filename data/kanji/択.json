@@ -1,0 +1,64 @@
+{
+  "id": "択",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "択",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "847",
+    "strokeCount": 7,
+    "meaning": "chọn, lựa chọn, bầu chọn, ưa thích",
+    "kunyomi": [
+      "えら.ぶ"
+    ],
+    "onyomi": [
+      "タク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "択",
+        "reading": "タク",
+        "meaning": "bộ đếm cho các lựa chọn, tùy chọn, v.v."
+      },
+      {
+        "example": "択一",
+        "reading": "タクイツ",
+        "meaning": "chọn một trong số nhiều, nhiều lựa chọn"
+      },
+      {
+        "example": "一択",
+        "reading": "イッタク",
+        "meaning": "(chỉ) một lựa chọn, một lựa chọn có thể"
+      },
+      {
+        "example": "二択",
+        "reading": "ニタク",
+        "meaning": "(có) hai sự lựa chọn, sự lựa chọn giữa hai điều"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "選ぶ",
+        "reading": "えらぶ",
+        "meaning": "để chọn, để chọn"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "丶",
+      "尸",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25246_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0629e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/629e.gif",
+    "uri": "https://jisho.org/search/%E6%8A%9E%23kanji"
+  }
+}

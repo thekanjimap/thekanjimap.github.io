@@ -1,0 +1,70 @@
+{
+  "id": "嘆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嘆",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1584",
+    "strokeCount": 13,
+    "meaning": "thở dài, than thở, rên rỉ, đau buồn, thở dài ngưỡng mộ",
+    "kunyomi": [
+      "なげ.く",
+      "なげ.かわしい"
+    ],
+    "onyomi": [
+      "タン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "嘆",
+        "reading": "タン",
+        "meaning": "thở dài, đau buồn, than thở"
+      },
+      {
+        "example": "嘆願",
+        "reading": "タンガン",
+        "meaning": "lời thỉnh cầu, lời thỉnh cầu, lời thỉnh cầu"
+      },
+      {
+        "example": "詠嘆",
+        "reading": "エイタン",
+        "meaning": "cảm thán, ngưỡng mộ"
+      },
+      {
+        "example": "慨嘆",
+        "reading": "ガイタン",
+        "meaning": "sự than phiền, sự than thở, sự hối tiếc, lời phàn nàn"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "嘆く",
+        "reading": "なげく",
+        "meaning": "than thở, đau buồn, tiếc nuối, tiếc nuối"
+      },
+      {
+        "example": "嘆かわしい",
+        "reading": "なげかわしい",
+        "meaning": "đáng tiếc, đáng tiếc, đáng tiếc, đáng tiếc, đáng tiếc"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "二",
+      "口",
+      "大",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22022_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05606.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5606.gif",
+    "uri": "https://jisho.org/search/%E5%98%86%23kanji"
+  }
+}

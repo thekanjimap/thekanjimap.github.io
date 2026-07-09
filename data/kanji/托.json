@@ -1,0 +1,63 @@
+{
+  "id": "托",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "托",
+    "found": true,
+    "strokeCount": 6,
+    "meaning": "yêu cầu, giao phó, giả vờ, gợi ý",
+    "kunyomi": [
+      "たく.する",
+      "たの.む"
+    ],
+    "onyomi": [
+      "タク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "託す",
+        "reading": "タクス",
+        "meaning": "giao phó (ai đó) cho, để lại (vấn đề) cho ai đó, đặt dưới sự chăm sóc của ai đó, nhờ ai đó giao (tin nhắn, bưu kiện, v.v.), gửi (thông qua ai đó), để lại (tin nhắn) cho ai đó, sử dụng (cái gì đó) để bày tỏ (cảm xúc, ý kiến, v.v.), để thể hiện dưới dạng (cái gì đó), dùng như một cái cớ"
+      },
+      {
+        "example": "托鉢",
+        "reading": "タクハツ",
+        "meaning": "hành khất tôn giáo, đi khất thực, khất thực của nhà sư, mang bình bát đến thiền đường vào giờ ăn (trong một ngôi chùa Thiền)"
+      },
+      {
+        "example": "屈託",
+        "reading": "クッタク",
+        "meaning": "lo lắng, quan tâm, quan tâm, buồn chán, buồn chán"
+      },
+      {
+        "example": "結託",
+        "reading": "ケッタク",
+        "meaning": "âm mưu, sự thông đồng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "託する",
+        "reading": "たくする",
+        "meaning": "giao phó (ai đó) cho, để lại (vấn đề) cho ai đó, đặt dưới sự chăm sóc của ai đó, nhờ ai đó giao (tin nhắn, bưu kiện, v.v.), gửi (thông qua ai đó), để lại (tin nhắn) cho ai đó, sử dụng (cái gì đó) để bày tỏ (cảm xúc, ý kiến, v.v.), để thể hiện dưới dạng (cái gì đó), dùng như một cái cớ"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "乙",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25176_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06258.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6258.gif",
+    "uri": "https://jisho.org/search/%E6%89%98%23kanji"
+  }
+}

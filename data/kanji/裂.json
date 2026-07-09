@@ -1,0 +1,72 @@
+{
+  "id": "裂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "裂",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1041",
+    "strokeCount": 12,
+    "meaning": "chia, xé, xé",
+    "kunyomi": [
+      "さ.く",
+      "さ.ける",
+      "-ぎ.れ"
+    ],
+    "onyomi": [
+      "レツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "裂孔ヘルニア",
+        "reading": "レツコウヘルニア",
+        "meaning": "thoát vị gián đoạn, thoát vị gián đoạn"
+      },
+      {
+        "example": "裂肉歯",
+        "reading": "レツニクシ",
+        "meaning": "răng xác thịt, răng xác thịt"
+      },
+      {
+        "example": "核分裂",
+        "reading": "カクブンレツ",
+        "meaning": "phân hạch hạt nhân, karyokinesis (phân chia nhân tế bào trong quá trình nguyên phân hoặc giảm phân)"
+      },
+      {
+        "example": "炸裂",
+        "reading": "サクレツ",
+        "meaning": "vụ nổ dữ dội, bùng nổ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "裂く",
+        "reading": "さく",
+        "meaning": "xé, xé, cắt, tách, cắt mở (đặc biệt là bụng), buộc phải tách ra (ví dụ: hai người yêu nhau), để dành (thời gian, tiền bạc, v.v.), sử dụng một phần của cái gì đó, có một hình xăm ở khóe mắt"
+      },
+      {
+        "example": "裂ける",
+        "reading": "さける",
+        "meaning": "chia ra, xé ra, vỡ ra, tách ra, chia ra"
+      }
+    ],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "quần áo"
+    },
+    "parts": [
+      "亠",
+      "刈",
+      "歹",
+      "衣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35010_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088c2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88c2.gif",
+    "uri": "https://jisho.org/search/%E8%A3%82%23kanji"
+  }
+}

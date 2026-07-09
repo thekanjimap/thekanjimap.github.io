@@ -1,0 +1,100 @@
+{
+  "id": "魂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "魂",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1748",
+    "strokeCount": 14,
+    "meaning": "tâm hồn, tinh thần",
+    "kunyomi": [
+      "たましい",
+      "たま"
+    ],
+    "onyomi": [
+      "コン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "魂",
+        "reading": "コン",
+        "meaning": "Năng lượng dương, tinh thần"
+      },
+      {
+        "example": "魂胆",
+        "reading": "コンタン",
+        "meaning": "động cơ thầm kín, âm mưu, âm mưu, tình tiết phức tạp, rắc rối"
+      },
+      {
+        "example": "鎮魂",
+        "reading": "チンコン",
+        "meaning": "lễ an táng linh hồn, nghi lễ an táng linh hồn"
+      },
+      {
+        "example": "入魂",
+        "reading": "ニュウコン",
+        "meaning": "đặt cả trái tim và tâm hồn (vào), cho đi tất cả, thổi hồn vào (ví dụ như một bức tượng Phật), sự thân mật, sự quen thuộc"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "魂",
+        "reading": "たましい",
+        "meaning": "linh hồn, tinh thần, tâm trí, ý chí, sức sống, thứ gì đó quan trọng như mạng sống của chính mình, thứ gì đó vô giá, tinh thần vốn có của thứ gì đó, trạng thái của tâm trí"
+      },
+      {
+        "example": "魂不死説",
+        "reading": "たましいふしせつ",
+        "meaning": "(thuyết) linh hồn bất tử"
+      },
+      {
+        "example": "一寸の虫にも五分の魂",
+        "reading": "いっすんのむしにもごぶのたましい",
+        "meaning": "giẫm phải sâu thì nó sẽ biến, ngay cả một con sâu nhỏ cũng sẽ tự vệ, ngay cả những sinh vật yếu đuối nhất và nhỏ bé nhất cũng có ý chí riêng của mình, vì vậy đừng coi thường chúng"
+      },
+      {
+        "example": "死せる魂",
+        "reading": "しせるたましい",
+        "meaning": "Những linh hồn chết (tiểu thuyết của Gogol), Myortvye dushi"
+      },
+      {
+        "example": "魂",
+        "reading": "たましい",
+        "meaning": "linh hồn, tinh thần, tâm trí, ý chí, sức sống, thứ gì đó quan trọng như mạng sống của chính mình, thứ gì đó vô giá, tinh thần vốn có của thứ gì đó, trạng thái của tâm trí"
+      },
+      {
+        "example": "魂送り",
+        "reading": "たまおくり",
+        "meaning": "tiễn đưa linh hồn người chết"
+      },
+      {
+        "example": "稲魂",
+        "reading": "うかのみたま",
+        "meaning": "thần thực phẩm (đặc biệt là gạo)"
+      },
+      {
+        "example": "亡き魂",
+        "reading": "なきたま",
+        "meaning": "linh hồn, linh hồn đã khuất"
+      }
+    ],
+    "radical": {
+      "symbol": "鬼",
+      "meaning": "ma, quỷ"
+    },
+    "parts": [
+      "二",
+      "儿",
+      "匕",
+      "厶",
+      "田",
+      "鬼"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39746_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b42.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b42.gif",
+    "uri": "https://jisho.org/search/%E9%AD%82%23kanji"
+  }
+}

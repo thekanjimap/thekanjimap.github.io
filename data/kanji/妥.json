@@ -1,0 +1,42 @@
+{
+  "id": "妥",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "妥",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1102",
+    "strokeCount": 7,
+    "meaning": "nhẹ nhàng, bình yên, thỏa đáng, thích hợp",
+    "kunyomi": [],
+    "onyomi": [
+      "ダ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "妥結",
+        "reading": "ダケツ",
+        "meaning": "giải quyết, thỏa thuận"
+      },
+      {
+        "example": "妥協",
+        "reading": "ダキョウ",
+        "meaning": "thỏa hiệp, nhượng bộ"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "女",
+      "meaning": "phụ nữ, nữ"
+    },
+    "parts": [
+      "女",
+      "爪"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22949_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/059a5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/59a5.gif",
+    "uri": "https://jisho.org/search/%E5%A6%A5%23kanji"
+  }
+}

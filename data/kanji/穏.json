@@ -1,0 +1,62 @@
+{
+  "id": "穏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "穏",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1535",
+    "strokeCount": 16,
+    "meaning": "bình tĩnh, yên tĩnh, chừng mực",
+    "kunyomi": [
+      "おだ.やか"
+    ],
+    "onyomi": [
+      "オン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "穏健",
+        "reading": "オンケン",
+        "meaning": "ôn hòa (quan điểm, chính trị, v.v.), ôn hòa, hợp lý, tỉnh táo, không cực đoan"
+      },
+      {
+        "example": "温和",
+        "reading": "オンワ",
+        "meaning": "ôn hòa (khí hậu), ôn hòa, dễ chịu, dễ chịu, dễ chịu, dịu dàng (bản chất, tính cách, v.v.), nhẹ nhàng, yên tĩnh, dễ chịu, vừa phải (lời nói, biện pháp, v.v.), ôn hòa, ôn hòa"
+      },
+      {
+        "example": "安穏",
+        "reading": "アンノン",
+        "meaning": "hòa bình, yên tĩnh, yên tĩnh, yên bình"
+      },
+      {
+        "example": "無事平穏",
+        "reading": "ブジヘイオン",
+        "meaning": "hòa bình và yên tĩnh, an toàn và yên bình, yên tĩnh và bình yên"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "穏やか",
+        "reading": "おだやか",
+        "meaning": "bình tĩnh, yên tĩnh, dịu dàng, hòa bình, ôn hòa, vừa phải, hợp lý, thân thiện"
+      }
+    ],
+    "radical": {
+      "symbol": "禾",
+      "meaning": "ngũ cốc"
+    },
+    "parts": [
+      "ヨ",
+      "心",
+      "爪",
+      "禾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31311_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07a4f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7a4f.gif",
+    "uri": "https://jisho.org/search/%E7%A9%8F%23kanji"
+  }
+}

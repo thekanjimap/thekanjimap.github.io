@@ -1,0 +1,85 @@
+{
+  "id": "癖",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "癖",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1973",
+    "strokeCount": 18,
+    "meaning": "cách cư xử, thói quen, thói xấu, đặc điểm, lỗi lầm, nếp gấp",
+    "kunyomi": [
+      "くせ",
+      "くせ.に"
+    ],
+    "onyomi": [
+      "ヘキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "癖",
+        "reading": "クセ",
+        "meaning": "thói quen (usu. một cái xấu), xu hướng, đặc thù, phong cách riêng, phong cách, thói quen, nếp nhăn, nếp nhăn, cong, gấp khúc"
+      },
+      {
+        "example": "妄想癖",
+        "reading": "モウソウヘキ",
+        "meaning": "(có) trí tưởng tượng quá tích cực, có xu hướng lạc lối trong trí tưởng tượng của mình"
+      },
+      {
+        "example": "盗癖",
+        "reading": "トウヘキ",
+        "meaning": "xu hướng ăn trộm, thói quen trộm cắp, trộm cắp"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "癖",
+        "reading": "くせ",
+        "meaning": "thói quen (usu. một cái xấu), xu hướng, đặc thù, phong cách riêng, phong cách, thói quen, nếp nhăn, nếp nhăn, cong, gấp khúc"
+      },
+      {
+        "example": "癖に",
+        "reading": "くせに",
+        "meaning": "tuy nhiên, mặc dù, khi, bất chấp"
+      },
+      {
+        "example": "悪い癖",
+        "reading": "わるいくせ",
+        "meaning": "thói quen xấu, thói quen xấu"
+      },
+      {
+        "example": "自傷癖",
+        "reading": "じしょうくせ",
+        "meaning": "(thực hành) tự làm tổn thương bản thân, (thói quen) tự làm tổn thương bản thân"
+      },
+      {
+        "example": "癖に",
+        "reading": "くせに",
+        "meaning": "tuy nhiên, mặc dù, khi, bất chấp"
+      },
+      {
+        "example": "癖になる",
+        "reading": "くせになる",
+        "meaning": "trở thành một thói quen, gây nghiện, trở nên nhiều hơn"
+      }
+    ],
+    "radical": {
+      "symbol": "疒",
+      "meaning": "bệnh tật"
+    },
+    "parts": [
+      "十",
+      "口",
+      "尸",
+      "疔",
+      "立",
+      "辛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30294_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07656.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7656.gif",
+    "uri": "https://jisho.org/search/%E7%99%96%23kanji"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "叔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "叔",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1950",
+    "strokeCount": 8,
+    "meaning": "chú, tuổi trẻ",
+    "kunyomi": [],
+    "onyomi": [
+      "シュク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "叔母",
+        "reading": "オバ",
+        "meaning": "dì"
+      },
+      {
+        "example": "叔父",
+        "reading": "オジ",
+        "meaning": "chú"
+      },
+      {
+        "example": "伯叔",
+        "reading": "ハクシュク",
+        "meaning": "anh em, anh em của cha"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "又",
+      "meaning": "tay phải"
+    },
+    "parts": [
+      "卜",
+      "又",
+      "小"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21460_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053d4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53d4.gif",
+    "uri": "https://jisho.org/search/%E5%8F%94%23kanji"
+  }
+}

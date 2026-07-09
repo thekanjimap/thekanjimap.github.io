@@ -1,0 +1,53 @@
+{
+  "id": "坑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "坑",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2040",
+    "strokeCount": 7,
+    "meaning": "hố, lỗ",
+    "kunyomi": [],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "坑",
+        "reading": "コウ",
+        "meaning": "hố (đặc biệt là mỏ)"
+      },
+      {
+        "example": "坑口",
+        "reading": "コウコウ",
+        "meaning": "đầu mỏ, đầu mỏ"
+      },
+      {
+        "example": "廃坑",
+        "reading": "ハイコウ",
+        "meaning": "đóng cửa mỏ, mỏ bỏ hoang, mỏ không sử dụng"
+      },
+      {
+        "example": "開坑",
+        "reading": "カイコウ",
+        "meaning": "khai trương mỏ"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "土",
+      "meaning": "trái đất"
+    },
+    "parts": [
+      "亠",
+      "几",
+      "土"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22353_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05751.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5751.gif",
+    "uri": "https://jisho.org/search/%E5%9D%91%23kanji"
+  }
+}

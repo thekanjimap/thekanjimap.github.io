@@ -1,0 +1,78 @@
+{
+  "id": "惜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "惜",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1641",
+    "strokeCount": 11,
+    "meaning": "thương hại, tiết kiệm, tằn tiện, keo kiệt, tiếc nuối",
+    "kunyomi": [
+      "お.しい",
+      "お.しむ"
+    ],
+    "onyomi": [
+      "セキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "惜敗",
+        "reading": "セキハイ",
+        "meaning": "thất bại đáng tiếc, thất bại trong gang tấc"
+      },
+      {
+        "example": "惜春",
+        "reading": "セキシュン",
+        "meaning": "tiếc mùa xuân qua, tiếc tuổi trẻ qua"
+      },
+      {
+        "example": "痛惜",
+        "reading": "ツウセキ",
+        "meaning": "hối tiếc sâu sắc"
+      },
+      {
+        "example": "哀惜",
+        "reading": "アイセキ",
+        "meaning": "đau buồn, đau buồn"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "惜しい",
+        "reading": "おしい",
+        "meaning": "đáng tiếc, đáng thất vọng, không may, quý giá, thân yêu, có giá trị, quá tốt cho, xứng đáng tốt hơn, gần như (nhưng không hoàn toàn), gần (nhưng không có xì gà)"
+      },
+      {
+        "example": "惜しむ",
+        "reading": "おしむ",
+        "meaning": "phụ tùng, ác cảm, tiết kiệm (với), tiết kiệm, keo kiệt, tiếc nuối, than thở, miễn cưỡng (làm), không sẵn lòng, coi trọng, quý trọng, yêu quý, yêu thương, trân trọng"
+      },
+      {
+        "example": "惜しむべき",
+        "reading": "おしむべき",
+        "meaning": "đáng tiếc, đáng tiếc"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "一",
+      "二",
+      "忙",
+      "日",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24796_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060dc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60dc.gif",
+    "uri": "https://jisho.org/search/%E6%83%9C%23kanji"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "櫛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "櫛",
+    "found": true,
+    "newspaperFrequencyRank": "2256",
+    "strokeCount": 17,
+    "meaning": "lược",
+    "kunyomi": [
+      "くし",
+      "くしけず.る"
+    ],
+    "onyomi": [
+      "シツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "櫛歯",
+        "reading": "クシバ",
+        "meaning": "chải răng"
+      },
+      {
+        "example": "櫛状",
+        "reading": "クシジョウ",
+        "meaning": "hình lược, dạng pectin"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "櫛",
+        "reading": "くし",
+        "meaning": "lược"
+      },
+      {
+        "example": "櫛板",
+        "reading": "くしいた",
+        "meaning": "pecten, tấm lược, tấm lược (của thang cuốn...)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "乞",
+      "卩",
+      "木",
+      "竹",
+      "艮"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27355_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06adb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6adb.gif",
+    "uri": "https://jisho.org/search/%E6%AB%9B%23kanji"
+  }
+}

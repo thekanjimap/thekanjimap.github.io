@@ -1,0 +1,71 @@
+{
+  "id": "鯱",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鯱",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "loài cá giống cá heo tuyệt vời, cá voi sát thủ, (kokuji)",
+    "kunyomi": [
+      "しゃちほこ",
+      "しゃち"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鯱",
+        "reading": "しゃちほこ",
+        "meaning": "shachihoko, shachi, con vật thần thoại có đầu hổ và mình cá, vật trang trí trên mái nhà có hình dạng shachihoko (được cho là có tác dụng bảo vệ khỏi lửa bằng cách gây mưa)"
+      },
+      {
+        "example": "天社蛾",
+        "reading": "しゃちほこが",
+        "meaning": "sâu bướm tôm hùm (Stauropus fagi persimilis)"
+      },
+      {
+        "example": "金の鯱",
+        "reading": "きんのしゃち",
+        "meaning": "shachihoko vàng (trang trí)"
+      },
+      {
+        "example": "鯱",
+        "reading": "しゃち",
+        "meaning": "orca (Orcinus orca), cá voi sát thủ, grampus, shachi, cá chép thần thoại với đầu hổ và thân cá, được coi là những người bảo vệ tốt lành cho hạnh phúc, vật trang trí trên mái nhà có hình dạng shachi (được cho là có tác dụng bảo vệ khỏi lửa bằng cách gây mưa)"
+      },
+      {
+        "example": "鯱",
+        "reading": "しゃちほこ",
+        "meaning": "shachihoko, shachi, con vật thần thoại có đầu hổ và mình cá, vật trang trí trên mái nhà có hình dạng shachihoko (được cho là có tác dụng bảo vệ khỏi lửa bằng cách gây mưa)"
+      },
+      {
+        "example": "金の鯱",
+        "reading": "きんのしゃち",
+        "meaning": "shachihoko vàng (trang trí)"
+      },
+      {
+        "example": "金鯱",
+        "reading": "きんしゃち",
+        "meaning": "shachihoko vàng (trang trí)"
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "cá"
+    },
+    "parts": [
+      "儿",
+      "匕",
+      "卜",
+      "厂",
+      "杰",
+      "田",
+      "虍",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39921_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09bf1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9bf1.gif",
+    "uri": "https://jisho.org/search/%E9%AF%B1%23kanji"
+  }
+}

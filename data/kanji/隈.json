@@ -1,0 +1,59 @@
+{
+  "id": "隈",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "隈",
+    "found": true,
+    "newspaperFrequencyRank": "2311",
+    "strokeCount": 12,
+    "meaning": "góc, ngóc ngách, hốc",
+    "kunyomi": [
+      "くま",
+      "すみ"
+    ],
+    "onyomi": [
+      "ワイ",
+      "エ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "風呂キャンセル界隈",
+        "reading": "フロキャンセルカイワイ",
+        "meaning": "những người quá lười tắm hoặc tắm"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "隈",
+        "reading": "くま",
+        "meaning": "góc, ngóc ngách, hốc, bóng râm, bóng tối, vùng tối, quầng thâm (dưới mắt), quầng thâm, khúc cua (trên đường, sông, v.v.), tạo bóng, chuyển màu, kumatori, phong cách trang điểm kabuki dùng cho các vai bạo lực"
+      },
+      {
+        "example": "隈なく",
+        "reading": "くまなく",
+        "meaning": "khắp mọi nơi, mọi ngóc ngách"
+      },
+      {
+        "example": "目のクマ",
+        "reading": "めのクマ",
+        "meaning": "quầng thâm quanh mắt, quầng thâm quanh mắt"
+      }
+    ],
+    "radical": {
+      "symbol": "阜",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "gò, đập (阝 trái)"
+    },
+    "parts": [
+      "田",
+      "衣",
+      "阡"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38536_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09688.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9688.gif",
+    "uri": "https://jisho.org/search/%E9%9A%88%23kanji"
+  }
+}

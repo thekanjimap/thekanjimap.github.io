@@ -1,0 +1,56 @@
+{
+  "id": "陋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "陋",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "sự hẹp hòi, sự hèn hạ, sự khiêm tốn",
+    "kunyomi": [
+      "いや.しい",
+      "せま.い"
+    ],
+    "onyomi": [
+      "ロウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "陋",
+        "reading": "ロウ",
+        "meaning": "sự hèn mọn, sự hèn mọn, sự hèn mọn, sự hèn mọn"
+      },
+      {
+        "example": "陋屋",
+        "reading": "ロウオク",
+        "meaning": "nhà chật chội, nơi ở khiêm tốn, túp lều, chuồng lợn, túp lều tranh, túp lều tồi tàn"
+      },
+      {
+        "example": "固陋",
+        "reading": "コロウ",
+        "meaning": "Bướng bỉnh theo lối cũ, không thích cái mới, hẹp hòi"
+      },
+      {
+        "example": "狷介固陋",
+        "reading": "ケンカイコロウ",
+        "meaning": "ngoan cố bám vào lối cũ, hẹp hòi bác bỏ quan điểm của người khác"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "阜",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "gò, đập (阝 trái)"
+    },
+    "parts": [
+      "人",
+      "冂",
+      "阡"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38475_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0964b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/964b.gif",
+    "uri": "https://jisho.org/search/%E9%99%8B%23kanji"
+  }
+}

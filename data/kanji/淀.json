@@ -1,0 +1,43 @@
+{
+  "id": "淀",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "淀",
+    "found": true,
+    "newspaperFrequencyRank": "1987",
+    "strokeCount": 11,
+    "meaning": "hồ bơi, xoáy",
+    "kunyomi": [
+      "よど.む"
+    ],
+    "onyomi": [
+      "テン",
+      "デン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "淀む",
+        "reading": "よどむ",
+        "meaning": "trì trệ, lắng đọng (ở phía dưới), lắng đọng, lắng đọng, trở nên chậm chạp, trở nên buồn tẻ, trở nên cũ kỹ, trì hoãn, do dự, chùn bước, lắp bắp, vấp ngã"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "宀",
+      "汁",
+      "疋"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28096_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06dc0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6dc0.gif",
+    "uri": "https://jisho.org/search/%E6%B7%80%23kanji"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "腫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "腫",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "newspaperFrequencyRank": "2145",
+    "strokeCount": 13,
+    "meaning": "khối u, sưng tấy",
+    "kunyomi": [
+      "は.れる",
+      "は.れ",
+      "は.らす",
+      "はれもの"
+    ],
+    "onyomi": [
+      "シュ",
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "腫",
+        "reading": "シュ",
+        "meaning": "khối u, khối u"
+      },
+      {
+        "example": "腫瘍",
+        "reading": "シュヨウ",
+        "meaning": "khối u, khối u, khối u, khối u"
+      },
+      {
+        "example": "奇形腫",
+        "reading": "キケイシュ",
+        "meaning": "ung thư quái thai, ung thư quái thai, khối u quái thai"
+      },
+      {
+        "example": "神経腫",
+        "reading": "シンケイシュ",
+        "meaning": "u thần kinh"
+      },
+      {
+        "example": "疽腫",
+        "reading": "ソショウ",
+        "meaning": "sưng, sôi"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "腫れる",
+        "reading": "はれる",
+        "meaning": "sưng lên (do viêm), sưng lên"
+      },
+      {
+        "example": "腫れ",
+        "reading": "はれ",
+        "meaning": "sưng, sôi"
+      },
+      {
+        "example": "腫れる",
+        "reading": "はれる",
+        "meaning": "sưng lên (do viêm), sưng lên"
+      },
+      {
+        "example": "腫らす",
+        "reading": "はらす",
+        "meaning": "làm sưng lên, gây bỏng"
+      },
+      {
+        "example": "腫れ物",
+        "reading": "はれもの",
+        "meaning": "sưng, nhọt, áp xe, khối u, khối u"
+      },
+      {
+        "example": "腫れ物扱い",
+        "reading": "はれものあつかい",
+        "meaning": "đối xử với (ai đó) hết sức thận trọng (để không làm họ tức giận hoặc khó chịu), xử lý bằng găng tay trẻ em, đối xử thận trọng"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "thịt"
+    },
+    "parts": [
+      "ノ",
+      "日",
+      "月",
+      "里",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33131_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0816b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/816b.gif",
+    "uri": "https://jisho.org/search/%E8%85%AB%23kanji"
+  }
+}

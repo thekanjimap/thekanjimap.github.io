@@ -1,0 +1,83 @@
+{
+  "id": "酔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "酔",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1640",
+    "strokeCount": 11,
+    "meaning": "say rượu, cảm thấy ốm yếu, bị đầu độc, phấn khởi, say mê",
+    "kunyomi": [
+      "よ.う",
+      "よ.い",
+      "よ"
+    ],
+    "onyomi": [
+      "スイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "酔客",
+        "reading": "スイキャク",
+        "meaning": "người say rượu"
+      },
+      {
+        "example": "酔漢",
+        "reading": "スイカン",
+        "meaning": "người say rượu, người say rượu"
+      },
+      {
+        "example": "陶酔",
+        "reading": "トウスイ",
+        "meaning": "say mê, bị mê hoặc (bởi), bị mang đi (bởi), bị mê hoặc (bởi), bị say (với)"
+      },
+      {
+        "example": "大酔",
+        "reading": "タイスイ",
+        "meaning": "say chết"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "酔う",
+        "reading": "よう",
+        "meaning": "say rượu, trở nên say sưa, cảm thấy buồn nôn (ví dụ: trong xe), buồn nôn, phấn chấn, phấn chấn, say mê, say mê"
+      },
+      {
+        "example": "酔い",
+        "reading": "よい",
+        "meaning": "say rượu, say tàu xe, say tàu xe"
+      },
+      {
+        "example": "酔いが覚める",
+        "reading": "よいがさめる",
+        "meaning": "để tỉnh táo"
+      },
+      {
+        "example": "酔い",
+        "reading": "よい",
+        "meaning": "say rượu, say tàu xe, say tàu xe"
+      },
+      {
+        "example": "酔う",
+        "reading": "よう",
+        "meaning": "say rượu, trở nên say sưa, cảm thấy buồn nôn (ví dụ: trong xe), buồn nôn, phấn chấn, phấn chấn, say mê, say mê"
+      }
+    ],
+    "radical": {
+      "symbol": "酉",
+      "meaning": "rượu vang, rượu"
+    },
+    "parts": [
+      "九",
+      "十",
+      "酉"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37204_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09154.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9154.gif",
+    "uri": "https://jisho.org/search/%E9%85%94%23kanji"
+  }
+}

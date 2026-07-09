@@ -1,0 +1,54 @@
+{
+  "id": "腱",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "腱",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "gân",
+    "kunyomi": [],
+    "onyomi": [
+      "ケン",
+      "キン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "腱",
+        "reading": "ケン",
+        "meaning": "gân"
+      },
+      {
+        "example": "腱炎",
+        "reading": "ケンエン",
+        "meaning": "viêm gân, viêm gân"
+      },
+      {
+        "example": "膝蓋腱",
+        "reading": "シツガイケン",
+        "meaning": "gân bánh chè"
+      },
+      {
+        "example": "屈筋腱",
+        "reading": "クッキンケン",
+        "meaning": "gân gấp"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "thịt"
+    },
+    "parts": [
+      "廴",
+      "月",
+      "聿"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33137_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08171.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8171.gif",
+    "uri": "https://jisho.org/search/%E8%85%B1%23kanji"
+  }
+}

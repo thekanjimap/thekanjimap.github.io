@@ -1,0 +1,44 @@
+{
+  "id": "蒻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蒻",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "một loại cây nước",
+    "kunyomi": [],
+    "onyomi": [
+      "ジャク",
+      "ニャク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "スマトラ大蒟蒻",
+        "reading": "スマトラオオコンニャク",
+        "meaning": "titan arum (Amorphophallus titanum), hoa xác chết, hoa cà rốt"
+      },
+      {
+        "example": "蒟蒻",
+        "reading": "コンニャク",
+        "meaning": "konnyaku (Amorphophallus konjac), konjac, thạch lưỡi quỷ, thạch konnyaku, thạch konjac, thạch lưỡi quỷ"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "冫",
+      "弓",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33979_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084bb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84bb.gif",
+    "uri": "https://jisho.org/search/%E8%92%BB%23kanji"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "苛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "苛",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "strokeCount": 8,
+    "meaning": "hành hạ, mắng mỏ, trừng phạt",
+    "kunyomi": [
+      "いじ.める",
+      "さいな.む",
+      "いらだ.つ",
+      "からい",
+      "こまかい"
+    ],
+    "onyomi": [
+      "カ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "過酷",
+        "reading": "カコク",
+        "meaning": "khắc nghiệt, khắc nghiệt, khắc nghiệt, khắc nghiệt, khắc nghiệt"
+      },
+      {
+        "example": "苛虐",
+        "reading": "カギャク",
+        "meaning": "đối xử tàn nhẫn"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "苛める",
+        "reading": "いじめる",
+        "meaning": "đối xử tệ bạc, bắt nạt, hành hạ, bắt nạt, trêu chọc, tàn nhẫn, bắt bớ, cứng rắn (ví dụ như cơ thể của một người), đối xử khắc nghiệt"
+      },
+      {
+        "example": "苛む",
+        "reading": "さいなむ",
+        "meaning": "hành hạ, hành hạ, làm đau khổ, làm khổ sở"
+      },
+      {
+        "example": "苛立つ",
+        "reading": "いらだつ",
+        "meaning": "cáu kỉnh, khó chịu, mất kiên nhẫn"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "一",
+      "亅",
+      "口",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33499_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082db.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82db.gif",
+    "uri": "https://jisho.org/search/%E8%8B%9B%23kanji"
+  }
+}

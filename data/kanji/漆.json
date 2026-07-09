@@ -1,0 +1,81 @@
+{
+  "id": "漆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "漆",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1971",
+    "strokeCount": 14,
+    "meaning": "sơn mài, véc ni, bảy",
+    "kunyomi": [
+      "うるし"
+    ],
+    "onyomi": [
+      "シツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "漆芸",
+        "reading": "シツゲイ",
+        "meaning": "(Nhật Bản) nghệ thuật sơn mài"
+      },
+      {
+        "example": "漆樹",
+        "reading": "シツジュ",
+        "meaning": "Cây sơn mài Trung Quốc (Toxicodendron vernicifluum)"
+      },
+      {
+        "example": "膠漆",
+        "reading": "コウシツ",
+        "meaning": "keo và sơn mài, sự thân mật tuyệt vời"
+      },
+      {
+        "example": "仮漆",
+        "reading": "カシツ",
+        "meaning": "sơn bóng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "漆",
+        "reading": "うるし",
+        "meaning": "Sơn mài Đông Á, Nhật Bản, cây sơn mài Trung Quốc (Toxicodendron vernicifluum, trước đây là Rhus verniciflua)"
+      },
+      {
+        "example": "漆樹",
+        "reading": "しつじゅ",
+        "meaning": "Cây sơn mài Trung Quốc (Toxicodendron vernicifluum)"
+      },
+      {
+        "example": "生漆",
+        "reading": "きうるし",
+        "meaning": "nhựa cây sơn mài chưa tinh chế"
+      },
+      {
+        "example": "透漆",
+        "reading": "すきうるし",
+        "meaning": "sơn mài rõ ràng"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "个",
+      "木",
+      "水",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28422_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f06.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f06.gif",
+    "uri": "https://jisho.org/search/%E6%BC%86%23kanji"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "鄰",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鄰",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "hàng xóm, hàng xóm",
+    "kunyomi": [
+      "とな.る",
+      "となり"
+    ],
+    "onyomi": [
+      "リン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "隣",
+        "reading": "となり",
+        "meaning": "bên cạnh (với), liền kề, liền kề, nhà bên cạnh, nhà hàng xóm, hàng xóm kế bên, hàng xóm kế bên"
+      }
+    ],
+    "radical": {
+      "symbol": "邑",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "thị trấn (阝 bên phải)"
+    },
+    "parts": [
+      "夕",
+      "米",
+      "舛",
+      "邦"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37168_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09130.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9130.gif",
+    "uri": "https://jisho.org/search/%E9%84%B0%23kanji"
+  }
+}

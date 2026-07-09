@@ -1,0 +1,426 @@
+{
+  "id": "弾",
+  "kanjialiveData": {
+    "_id": "54317b0a791eba5146ee4c47",
+    "_rev": "11-ef0aec44837be5bb752ef77bd3084618",
+    "rad_name_ja": "ゆみへん",
+    "grade": null,
+    "hint_group": 1,
+    "kunyomi": "hi, hiku, hiki, hazu, hazumu, tama",
+    "meaning": "viên đạn, lò xo trở lại, nảy, chơi",
+    "kstroke": 12,
+    "examples": [
+      {
+        "japanese": "弾丸（だんがん）",
+        "meaning": {
+          "english": "đạn, bắn, vỏ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hazu(mu)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hazu(mu)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hazu(mu)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hazu(mu)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "弾薬（だんやく）",
+        "meaning": {
+          "english": "đạn dược"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hazu(mu)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hazu(mu)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hazu(mu)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hazu(mu)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "爆弾（ばくだん）",
+        "meaning": {
+          "english": "quả bom [n.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hazu(mu)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hazu(mu)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hazu(mu)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hazu(mu)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "銃弾（じゅうだん）",
+        "meaning": {
+          "english": "viên đạn"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hazu(mu)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hazu(mu)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hazu(mu)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hazu(mu)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "連弾（れんだん）",
+        "meaning": {
+          "english": "biểu diễn bốn tay (piano)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hazu(mu)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hazu(mu)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hazu(mu)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hazu(mu)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "弾力性（だんりょくせい）",
+        "meaning": {
+          "english": "tính đàn hồi, tính đàn hồi, tính đàn hồi"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hazu(mu)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hazu(mu)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hazu(mu)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hazu(mu)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "弾圧する（だんあつする）",
+        "meaning": {
+          "english": "đàn áp, trấn áp"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hazu(mu)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hazu(mu)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hazu(mu)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hazu(mu)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "弾く（ひく）",
+        "meaning": {
+          "english": "búng tay"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hazu(mu)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hazu(mu)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hazu(mu)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hazu(mu)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "弾む（はずむ）",
+        "meaning": {
+          "english": "mùa xuân, nảy lên, trở nên sống động"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hazu(mu)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hazu(mu)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hazu(mu)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hazu(mu)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "弾（たま）",
+        "meaning": {
+          "english": "đạn, bắn, vỏ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hazu(mu)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hazu(mu)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hazu(mu)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hazu(mu)_06_j.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "ひ、ひく、ひき、はず、はずむ、たま",
+    "ka_utf": "弾",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=弾",
+    "kname": "hazu(mu)",
+    "rad_order": 68,
+    "txt_books": [
+      {
+        "chapter": "20",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtIKB"
+      }
+    ],
+    "rad_name_search": [
+      "yumihen"
+    ],
+    "rad_utf": "",
+    "stroketimes": [
+      0,
+      2.666667,
+      3.733333,
+      6.133333,
+      6.866667,
+      7.6,
+      8.333333,
+      9.2,
+      10.466667,
+      11.466667,
+      12.733333,
+      14.2,
+      15.8
+    ],
+    "kunyomi_ka_display": "ひ、はず、たま",
+    "dick": "418",
+    "rad_name": "yumihen",
+    "dicn": "1575",
+    "mn_hint": "Flexible bows 弓 snapping ツ in the field 田 in great numbers 十 at archery competition.",
+    "rad_stroke": 3,
+    "onyomi_ja": "ダン",
+    "rad_meaning": "cung (trong bắn cung)",
+    "onyomi": "dan",
+    "ka_id": "ka_851",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "dan",
+      "dan"
+    ],
+    "kunyomi_search": [
+      "hi",
+      "hiku",
+      "hiki",
+      "hazu",
+      "hazumu",
+      "tama",
+      "hi, hiku, hiki, hazu, hazumu, tama"
+    ],
+    "meaning_search": [
+      "bullet",
+      "spring back",
+      "spring",
+      "back",
+      "bounce",
+      "play",
+      "bullet, spring back, bounce, play"
+    ],
+    "onyomi_ja_search": [
+      "ダン",
+      "ダン"
+    ],
+    "kunyomi_ja_search": [
+      "ひ",
+      "ひく",
+      "ひき",
+      "はず",
+      "はずむ",
+      "たま",
+      "ひ、ひく、ひき、はず、はずむ、たま"
+    ],
+    "rad_meaning_search": [
+      "bow（in archery）",
+      "bow（in",
+      "archery）",
+      "bow（in archery）"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "ゆみへん"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:20",
+      "ij:c20",
+      "ik1",
+      "ik1:9",
+      "ik1:c9"
+    ],
+    "rad_name_file": "yumihen",
+    "kanji": {
+      "character": "弾",
+      "meaning": {
+        "english": "bullet, spring back, bounce, play"
+      },
+      "strokes": {
+        "count": 12,
+        "timings": [
+          0,
+          2.666667,
+          3.733333,
+          6.133333,
+          6.866667,
+          7.6,
+          8.333333,
+          9.2,
+          10.466667,
+          11.466667,
+          12.733333,
+          14.2,
+          15.8
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/hazu(mu)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/hazu(mu)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/hazu(mu)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/hazu(mu)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/hazu(mu)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/hazu(mu)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/hazu(mu)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/hazu(mu)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/hazu(mu)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/hazu(mu)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/hazu(mu)_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/hazu(mu)_12.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "dan",
+        "katakana": "ダン"
+      },
+      "kunyomi": {
+        "romaji": "hi, hiku, hiki, hazu, hazumu, tama",
+        "hiragana": "ひ、はず、たま"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/hazu(mu)_12.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/hazu(mu)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/hazu(mu)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/yumihen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "ゆみへん",
+        "romaji": "yumihen"
+      },
+      "meaning": {
+        "english": "cung (trong bắn cung)"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/yumihen0.svg",
+        "https://media.kanjialive.com/rad_frames/yumihen1.svg",
+        "https://media.kanjialive.com/rad_frames/yumihen2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "418",
+      "classic_nelson": "1575"
+    }
+  },
+  "jishoData": {
+    "query": "弾",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "853",
+    "strokeCount": 12,
+    "meaning": "viên đạn, twang, lật, búng",
+    "kunyomi": [
+      "ひ.く",
+      "-ひ.き",
+      "はず.む",
+      "たま",
+      "はじ.く",
+      "はじ.ける",
+      "ただ.す",
+      "はじ.きゆみ"
+    ],
+    "onyomi": [
+      "ダン",
+      "タン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "弾",
+        "reading": "ダン",
+        "meaning": "bộ đếm các phần, giai đoạn, phần, v.v. (của một câu chuyện, bộ truyện, dự án, chiến dịch, v.v.), bộ đếm đạn"
+      },
+      {
+        "example": "弾圧",
+        "reading": "ダンアツ",
+        "meaning": "áp bức, đàn áp, áp lực"
+      },
+      {
+        "example": "防弾",
+        "reading": "ボウダン",
+        "meaning": "chống đạn, chống bom"
+      },
+      {
+        "example": "砲弾",
+        "reading": "ホウダン",
+        "meaning": "vỏ, súng thần công"
+      },
+      {
+        "example": "弾棋",
+        "reading": "ダンギ",
+        "meaning": "trò chơi cờ cổ của Trung Quốc tương tự như cờ vây"
+      },
+      {
+        "example": "弾指",
+        "reading": "ダンシ",
+        "meaning": "búng ngón tay (đặc biệt bằng cách dùng ngón cái đánh vào cạnh ngón giữa; để biểu thị sự đồng ý, vui mừng, cảnh báo, v.v.), khoảnh khắc, khoảnh khắc, chỉ trích, trốn tránh, từ chối"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "弾く",
+        "reading": "ひく",
+        "meaning": "chơi (nhạc cụ có dây hoặc bàn phím)"
+      },
+      {
+        "example": "弾む",
+        "reading": "はずむ",
+        "meaning": "bật dậy, bị ràng buộc, nảy lên, bị kích thích, được khuyến khích, trở nên sôi nổi, trả tiền hậu hĩnh, vung tiền, háo hức chia tay (tiền, v.v.), thở dốc, thở hổn hển, hụt hơi"
+      },
+      {
+        "example": "玉",
+        "reading": "たま",
+        "meaning": "quả bóng, quả cầu, quả địa cầu, quả cầu, hạt (của mồ hôi, sương, v.v.), giọt, giọt, quả bóng (trong thể thao), cao độ (ví dụ trong bóng chày), đống (của mì, v.v.), viên đạn, bóng đèn (ví dụ như bóng đèn), thấu kính (của kính, v.v.), hạt (của bàn tính), quả bóng (ví dụ như tinh hoàn), đá quý, viên ngọc (đặc biệt là hình cầu; đôi khi được dùng theo nghĩa bóng), ngọc trai, nữ nghệ sĩ giải trí (ví dụ: geisha), người (khi bình luận về bản chất của chúng), nhân vật, vật phẩm, quỹ hoặc người được sử dụng như một phần của cốt truyện, quả trứng, okonomiyaki, đồng xu, quý, đẹp, xuất sắc"
+      },
+      {
+        "example": "弾傷",
+        "reading": "たまきず",
+        "meaning": "vết đạn, vết thương do đạn bắn"
+      },
+      {
+        "example": "弾く",
+        "reading": "はじく",
+        "meaning": "lật, búng, búng, đẩy lùi, sử dụng (bàn tính), tính toán, gảy đàn, gảy dây (của đàn guitar, v.v.)"
+      },
+      {
+        "example": "弾ける",
+        "reading": "はじける",
+        "meaning": "nổ tung, bung ra, bật ra, bùng nổ (ví dụ: tuổi trẻ, tiếng cười, hương vị), nảy lên, bị ràng buộc"
+      },
+      {
+        "example": "弾正台",
+        "reading": "だんじょうだい",
+        "meaning": "Văn phòng Công tố và Điều tra Hoàng gia (1869-1871), Văn phòng Điều tra và Công tố Hoàng gia (thuộc hệ thống ritsuryō)"
+      }
+    ],
+    "radical": {
+      "symbol": "弓",
+      "meaning": "cúi đầu"
+    },
+    "parts": [
+      "十",
+      "尚",
+      "弓",
+      "田"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24382_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f3e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f3e.gif",
+    "uri": "https://jisho.org/search/%E5%BC%BE%23kanji"
+  }
+}

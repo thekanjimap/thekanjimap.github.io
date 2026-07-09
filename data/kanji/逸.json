@@ -1,0 +1,80 @@
+{
+  "id": "逸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "逸",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1524",
+    "strokeCount": 11,
+    "meaning": "đi chệch hướng, nhàn rỗi, nhàn nhã, bỏ lỡ mục tiêu, trốn tránh, trốn tránh, tránh né, phân kỳ",
+    "kunyomi": [
+      "そ.れる",
+      "そ.らす",
+      "はぐ.れる"
+    ],
+    "onyomi": [
+      "イツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "逸脱",
+        "reading": "イツダツ",
+        "meaning": "sự sai lệch, sự khởi hành, sự bỏ sót (vô tình)"
+      },
+      {
+        "example": "逸材",
+        "reading": "イツザイ",
+        "meaning": "tài năng xuất chúng, người có tài năng đặc biệt, người có năng khiếu"
+      },
+      {
+        "example": "捕逸",
+        "reading": "ホイツ",
+        "meaning": "chuyền bóng"
+      },
+      {
+        "example": "秀逸",
+        "reading": "シュウイツ",
+        "meaning": "xuất sắc, tuyệt vời, hạng nhất"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "逸れる",
+        "reading": "それる",
+        "meaning": "quay đi, bỏ đi, đi chệch hướng, chệch khỏi, bỏ lỡ (ví dụ: một mục tiêu), đi chệch hướng (ví dụ: trong một cuộc trò chuyện), đi lạc đề, đi lạc lối, đi lang thang"
+      },
+      {
+        "example": "逸らす",
+        "reading": "そらす",
+        "meaning": "quay đi chỗ khác (mắt, khuôn mặt, v.v.), lảng tránh, chuyển hướng (ví dụ: sự chú ý của một người), trốn tránh (ví dụ: một câu hỏi), thay đổi (ví dụ: chủ đề), làm khó chịu, làm phiền, xúc phạm, khó chịu, bỏ lỡ (mục tiêu, quả bóng, v.v.)"
+      },
+      {
+        "example": "逸れる",
+        "reading": "はぐれる",
+        "meaning": "mất dấu (bạn đồng hành), đi lạc, bỏ lỡ (cơ hội của một người ...)"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "đi bộ"
+    },
+    "parts": [
+      "ノ",
+      "儿",
+      "免",
+      "勹",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36920_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09038.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9038.gif",
+    "uri": "https://jisho.org/search/%E9%80%B8%23kanji"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "捉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "捉",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "newspaperFrequencyRank": "1976",
+    "strokeCount": 10,
+    "meaning": "bắt, bắt",
+    "kunyomi": [
+      "とら.える"
+    ],
+    "onyomi": [
+      "ソク",
+      "サク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "把捉",
+        "reading": "ハソク",
+        "meaning": "nắm bắt (một ý nghĩa)"
+      },
+      {
+        "example": "捕捉",
+        "reading": "ホソク",
+        "meaning": "bắt giữ, bắt giữ, nắm bắt, nắm bắt, nắm bắt, hiểu biết, nắm bắt"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "捉える",
+        "reading": "とらえる",
+        "meaning": "nắm bắt, nắm bắt, nắm giữ, bắt giữ, chộp lấy, nắm giữ, nắm bắt (ví dụ: ý nghĩa), nhận thức, nắm bắt (ví dụ: tính năng), quyến rũ, di chuyển (trái tim của một người)"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "口",
+      "扎",
+      "止",
+      "足"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25417_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06349.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6349.gif",
+    "uri": "https://jisho.org/search/%E6%8D%89%23kanji"
+  }
+}

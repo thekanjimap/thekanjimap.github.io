@@ -1,0 +1,79 @@
+{
+  "id": "称",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "称",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "985",
+    "strokeCount": 10,
+    "meaning": "tên gọi, khen ngợi, ngưỡng mộ, tên, chức danh, danh tiếng",
+    "kunyomi": [
+      "たた.える",
+      "とな.える",
+      "あ.げる",
+      "かな.う",
+      "はか.り",
+      "はか.る",
+      "ほめ.る"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "称",
+        "reading": "ショウ",
+        "meaning": "tên, danh hiệu, chức danh, danh tiếng, danh tiếng"
+      },
+      {
+        "example": "称号",
+        "reading": "ショウゴウ",
+        "meaning": "chức danh, tên, bằng cấp"
+      },
+      {
+        "example": "通称",
+        "reading": "ツウショウ",
+        "meaning": "tên thông thường, tên thông thường, biệt hiệu, bí danh"
+      },
+      {
+        "example": "公称",
+        "reading": "コウショウ",
+        "meaning": "thông báo công khai, tuyên bố chính thức, tuyên bố chính thức, danh nghĩa, chính thức, tuyên bố, tuyên bố, tên chính thức"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "称える",
+        "reading": "たたえる",
+        "meaning": "ca ngợi, ca ngợi, ca ngợi, tán dương, ăn mừng"
+      },
+      {
+        "example": "称える",
+        "reading": "となえる",
+        "meaning": "gọi (bằng tên), gọi tên"
+      },
+      {
+        "example": "褒める",
+        "reading": "ほめる",
+        "meaning": "khen ngợi, khen ngợi, khen ngợi, khen ngợi, nói tốt về"
+      }
+    ],
+    "radical": {
+      "symbol": "禾",
+      "meaning": "ngũ cốc"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "乞",
+      "小",
+      "禾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31216_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/079f0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/79f0.gif",
+    "uri": "https://jisho.org/search/%E7%A7%B0%23kanji"
+  }
+}

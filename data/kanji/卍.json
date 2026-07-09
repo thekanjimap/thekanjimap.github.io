@@ -1,0 +1,64 @@
+{
+  "id": "卍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "卍",
+    "found": true,
+    "strokeCount": 6,
+    "meaning": "chữ vạn, gammadion, fylfot",
+    "kunyomi": [
+      "まんじ"
+    ],
+    "onyomi": [
+      "バン",
+      "マン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "卍",
+        "reading": "マンジ",
+        "meaning": "chữ vạn (đặc biệt là dạng ngược chiều kim đồng hồ như một biểu tượng Phật giáo), fylfot, gammadion, gia huy hình chữ vạn, wow, vâng, ugh, yuck, tuyệt vời, thật đấy, đi thôi"
+      },
+      {
+        "example": "卍固め",
+        "reading": "マンジガタメ",
+        "meaning": "bạch tuộc giữ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "卍",
+        "reading": "まんじ",
+        "meaning": "chữ vạn (đặc biệt là dạng ngược chiều kim đồng hồ như một biểu tượng Phật giáo), fylfot, gammadion, gia huy hình chữ vạn, wow, vâng, ugh, yuck, tuyệt vời, thật đấy, đi thôi"
+      },
+      {
+        "example": "卍固め",
+        "reading": "まんじがため",
+        "meaning": "bạch tuộc giữ"
+      },
+      {
+        "example": "右万字",
+        "reading": "みぎまんじ",
+        "meaning": "chữ vạn hướng về bên phải, chữ vạn theo chiều kim đồng hồ"
+      },
+      {
+        "example": "逆卍",
+        "reading": "ぎゃくまんじ",
+        "meaning": "chữ vạn hướng về bên phải, chữ vạn theo chiều kim đồng hồ"
+      }
+    ],
+    "radical": {
+      "symbol": "十",
+      "meaning": "mười, hoàn thành"
+    },
+    "parts": [
+      "一",
+      "十",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21325_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0534d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/534d.gif",
+    "uri": "https://jisho.org/search/%E5%8D%8D%23kanji"
+  }
+}

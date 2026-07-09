@@ -1,0 +1,40 @@
+{
+  "id": "几",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "几",
+    "found": true,
+    "strokeCount": 2,
+    "meaning": "bàn, bàn bao, bàn hay căn gió (số 16)",
+    "kunyomi": [
+      "きにょう"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "几",
+        "reading": "オシマズキ",
+        "meaning": "tay vịn, bàn, bàn"
+      },
+      {
+        "example": "机上",
+        "reading": "キジョウ",
+        "meaning": "trên bàn, lý thuyết, học thuật, ghế bành (ví dụ: kế hoạch), máy tính để bàn, giấy, chưa được thực hiện"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "几",
+      "meaning": "bàn"
+    },
+    "parts": [
+      "几"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20960_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051e0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51e0.gif",
+    "uri": "https://jisho.org/search/%E5%87%A0%23kanji"
+  }
+}

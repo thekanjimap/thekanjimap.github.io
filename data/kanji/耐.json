@@ -1,0 +1,55 @@
+{
+  "id": "耐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "耐",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1295",
+    "strokeCount": 9,
+    "meaning": "- kiên cường, bền bỉ",
+    "kunyomi": [
+      "た.える"
+    ],
+    "onyomi": [
+      "タイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "耐",
+        "reading": "タイ",
+        "meaning": "-chống, chống lại"
+      },
+      {
+        "example": "耐久",
+        "reading": "タイキュウ",
+        "meaning": "sức chịu đựng, sự kiên trì"
+      },
+      {
+        "example": "不耐",
+        "reading": "フタイ",
+        "meaning": "không dung nạp (với thức ăn, thuốc, v.v.)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "耐える",
+        "reading": "たえる",
+        "meaning": "chịu đựng, chịu đựng, chịu đựng, chịu đựng, chống đỡ, chịu đựng, kháng cự, dũng cảm, xứng đáng, ngang hàng với"
+      }
+    ],
+    "radical": {
+      "symbol": "而",
+      "meaning": "râu"
+    },
+    "parts": [
+      "寸",
+      "而"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32784_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08010.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8010.gif",
+    "uri": "https://jisho.org/search/%E8%80%90%23kanji"
+  }
+}

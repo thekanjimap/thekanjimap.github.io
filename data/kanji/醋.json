@@ -1,0 +1,60 @@
+{
+  "id": "醋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "醋",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "giấm",
+    "kunyomi": [
+      "す"
+    ],
+    "onyomi": [
+      "サク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "酢酸",
+        "reading": "サクサン",
+        "meaning": "axit axetic"
+      },
+      {
+        "example": "木酢",
+        "reading": "モクサク",
+        "meaning": "giấm gỗ, axit pyroligneous"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "酢",
+        "reading": "す",
+        "meaning": "giấm"
+      },
+      {
+        "example": "酸橘",
+        "reading": "すだち",
+        "meaning": "sudachi (loài cam quýt Nhật Bản, Citrus sudachi)"
+      },
+      {
+        "example": "木酢",
+        "reading": "もくさく",
+        "meaning": "giấm gỗ, axit pyroligneous"
+      }
+    ],
+    "radical": {
+      "symbol": "酉",
+      "meaning": "rượu vang, rượu"
+    },
+    "parts": [
+      "一",
+      "二",
+      "日",
+      "酉",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37259_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0918b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/918b.gif",
+    "uri": "https://jisho.org/search/%E9%86%8B%23kanji"
+  }
+}

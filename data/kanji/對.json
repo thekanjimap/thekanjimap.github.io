@@ -1,0 +1,49 @@
+{
+  "id": "對",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "對",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "đúng, đúng, đối diện, phản đối",
+    "kunyomi": [
+      "あいて",
+      "こた.える",
+      "そろ.い",
+      "つれあ.い",
+      "なら.ぶ",
+      "むか.う"
+    ],
+    "onyomi": [
+      "タイ",
+      "ツイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "対",
+        "reading": "タイ",
+        "meaning": "so với, chống lại, vs., v., với (ví dụ: điểm 4 trên 2, tỷ lệ 3 trên 1, phiếu bầu từ 320 đến 180), hướng tới ..., đến ..., với ..., chống lại ..., chống, bình đẳng, bình đẳng, đối diện"
+      },
+      {
+        "example": "対して",
+        "reading": "タイシテ",
+        "meaning": "cho, liên quan đến, mỗi"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "寸",
+      "meaning": "ngón tay cái, inch"
+    },
+    "parts": [
+      "寸",
+      "并",
+      "王",
+      "羊"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23565_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c0d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c0d.gif",
+    "uri": "https://jisho.org/search/%E5%B0%8D%23kanji"
+  }
+}

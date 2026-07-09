@@ -1,0 +1,67 @@
+{
+  "id": "載",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "載",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "825",
+    "strokeCount": 13,
+    "meaning": "đi xe, lên tàu, leo lên, đặt, trải rộng, 10**44, ghi lại, xuất bản",
+    "kunyomi": [
+      "の.せる",
+      "の.る"
+    ],
+    "onyomi": [
+      "サイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "載",
+        "reading": "サイ",
+        "meaning": "10^44, trăm triệu tỷ"
+      },
+      {
+        "example": "採録",
+        "reading": "サイロク",
+        "meaning": "ghi âm, phiên âm"
+      },
+      {
+        "example": "積載",
+        "reading": "セキサイ",
+        "meaning": "tải, vận chuyển"
+      },
+      {
+        "example": "登載",
+        "reading": "トウサイ",
+        "meaning": "chạy (một bài báo), thực hiện, in ấn, xuất bản, đăng ký, ghi lại, liệt kê, đưa vào (trong danh sách)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "乗せる",
+        "reading": "のせる",
+        "meaning": "đặt (cái gì đó), cho (ai đó) đi nhờ, cho thang máy, đón, giúp lên tàu, chất (hành lý), mang, mang lên máy bay, gửi đi (trên sóng, v.v.), lừa dối, đi nhờ, (hát) cùng với (nhạc đệm), để (ai đó) tham gia, kích thích (ai đó), xuất bản (một bài báo), chạy (một quảng cáo)"
+      },
+      {
+        "example": "載る",
+        "reading": "のる",
+        "meaning": "được đặt trên, được đặt trên, được xếp chồng lên, được chất lên, xuất hiện (trong bản in), được đề cập, được ghi lại, được báo cáo, được đưa ra"
+      }
+    ],
+    "radical": {
+      "symbol": "車",
+      "meaning": "xe đẩy, xe hơi"
+    },
+    "parts": [
+      "土",
+      "戈",
+      "車"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36617_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f09.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f09.gif",
+    "uri": "https://jisho.org/search/%E8%BC%89%23kanji"
+  }
+}

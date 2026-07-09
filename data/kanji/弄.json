@@ -1,0 +1,79 @@
+{
+  "id": "弄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "弄",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "strokeCount": 7,
+    "meaning": "chơi đùa, chơi đùa, chơi đùa với",
+    "kunyomi": [
+      "いじく.る",
+      "ろう.する",
+      "いじ.る",
+      "ひねく.る",
+      "たわむ.れる",
+      "もてあそ.ぶ"
+    ],
+    "onyomi": [
+      "ロウ",
+      "ル"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "弄火",
+        "reading": "ロウカ",
+        "meaning": "chơi với lửa"
+      },
+      {
+        "example": "弄花",
+        "reading": "ロウカ",
+        "meaning": "đánh bạc với hanafuda"
+      },
+      {
+        "example": "嘲弄",
+        "reading": "チョウロウ",
+        "meaning": "khinh miệt, nhạo báng, chế nhạo"
+      },
+      {
+        "example": "戯弄",
+        "reading": "ギロウ",
+        "meaning": "trêu chọc, đùa giỡn với cảm xúc của ai đó"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "弄くる",
+        "reading": "いじくる",
+        "meaning": "dùng ngón tay, làm xáo trộn (với)"
+      },
+      {
+        "example": "弄する",
+        "reading": "ろうする",
+        "meaning": "chơi đùa, đùa giỡn, sử dụng (đặc biệt là lừa, ngụy biện, v.v.), chế giễu, chế nhạo, chế giễu"
+      },
+      {
+        "example": "弄る",
+        "reading": "いじる",
+        "meaning": "dùng ngón tay, chạm vào, chơi đùa, mân mê, đùa giỡn, thay đổi, mày mò, làm xáo trộn, vọc vào, làm như một sở thích, chơi đùa, trêu chọc, trêu đùa, mò mẫm, sờ nắn (trong túi, túi, v.v.)"
+      },
+      {
+        "example": "弄ぶ",
+        "reading": "もてあそぶ",
+        "meaning": "chơi với (một món đồ chơi, một mái tóc, v.v.), nghịch ngợm, đùa giỡn với (cảm xúc của một người, v.v.), đùa giỡn, làm điều gì đó theo ý mình, đánh giá cao"
+      }
+    ],
+    "radical": {
+      "symbol": "廾",
+      "meaning": "hai tay, hai mươi"
+    },
+    "parts": [
+      "廾",
+      "王"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24324_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f04.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f04.gif",
+    "uri": "https://jisho.org/search/%E5%BC%84%23kanji"
+  }
+}

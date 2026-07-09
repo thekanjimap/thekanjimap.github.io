@@ -1,0 +1,40 @@
+{
+  "id": "壹",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "壹",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "số một",
+    "kunyomi": [
+      "ひとつ"
+    ],
+    "onyomi": [
+      "イチ",
+      "イツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "一",
+        "reading": "イチ",
+        "meaning": "một, 1, tốt nhất, đầu tiên, quan trọng nhất, bắt đầu, bắt đầu, a (đơn), một (trong số nhiều), quân át, dây dưới (trên đàn shamisen, v.v.)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "士",
+      "meaning": "học giả, cử nhân"
+    },
+    "parts": [
+      "冖",
+      "口",
+      "士",
+      "并",
+      "豆"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22777_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058f9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58f9.gif",
+    "uri": "https://jisho.org/search/%E5%A3%B9%23kanji"
+  }
+}

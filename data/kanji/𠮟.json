@@ -1,0 +1,42 @@
+{
+  "id": "𠮟",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "𠮟",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "strokeCount": 5,
+    "meaning": "mắng mỏ, quở trách",
+    "kunyomi": [
+      "しか.る"
+    ],
+    "onyomi": [
+      "シツ",
+      "シチ",
+      "カ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "叱罵",
+        "reading": "シツバ",
+        "meaning": "mắng mỏ, chỉ trích gay gắt"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "叱る",
+        "reading": "しかる",
+        "meaning": "quở trách, khiển trách, quở trách, quở trách"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/55362_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/20b9f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/20b9f.gif",
+    "uri": "https://jisho.org/search/%F0%A0%AE%9F%23kanji"
+  }
+}

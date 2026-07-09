@@ -1,0 +1,349 @@
+{
+  "id": "武",
+  "kanjialiveData": {
+    "_id": "54317ad1791eba5146ee4831",
+    "_rev": "11-ea6a2060576eb833b2ee0d69f49a92d4",
+    "rad_name_ja": "とめる",
+    "grade": 5,
+    "hint_group": 1,
+    "kunyomi": "Không có",
+    "meaning": "quân sự",
+    "kstroke": 8,
+    "examples": [
+      {
+        "japanese": "武士（ぶし）",
+        "meaning": {
+          "english": "chiến binh, samurai"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bu(ryoku)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bu(ryoku)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/bu(ryoku)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/bu(ryoku)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "武器（ぶき）",
+        "meaning": {
+          "english": "vũ khí, cánh tay"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bu(ryoku)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bu(ryoku)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/bu(ryoku)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/bu(ryoku)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "武力（ぶりょく）",
+        "meaning": {
+          "english": "sức mạnh quân sự"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bu(ryoku)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bu(ryoku)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/bu(ryoku)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/bu(ryoku)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "武術（ぶじゅつ）",
+        "meaning": {
+          "english": "võ thuật"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bu(ryoku)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bu(ryoku)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/bu(ryoku)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/bu(ryoku)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "武道（ぶどう）",
+        "meaning": {
+          "english": "võ thuật, võ sĩ đạo"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bu(ryoku)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bu(ryoku)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/bu(ryoku)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/bu(ryoku)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "武装する（ぶそうする）",
+        "meaning": {
+          "english": "được trang bị vũ khí"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bu(ryoku)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bu(ryoku)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/bu(ryoku)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/bu(ryoku)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "武者震い（むしゃぶるい）",
+        "meaning": {
+          "english": "lắc lư vì phấn khích [n.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bu(ryoku)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bu(ryoku)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/bu(ryoku)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/bu(ryoku)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "影武者（かげむしゃ）",
+        "meaning": {
+          "english": "nhà môi giới quyền lực bí mật"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bu(ryoku)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bu(ryoku)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/bu(ryoku)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/bu(ryoku)_06_h.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "武",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=武",
+    "rad_name_search": [
+      "tomeru"
+    ],
+    "rad_order": 100,
+    "txt_books": [
+      {
+        "chapter": "24",
+        "txt_bk": "txtSFJ3"
+      },
+      {
+        "chapter": "24",
+        "txt_bk": "txtSFJ"
+      }
+    ],
+    "kname": "bu(ryoku)",
+    "rad_utf": "⽌",
+    "stroketimes": [
+      0,
+      0.733333,
+      2.066667,
+      3,
+      3.733333,
+      4.266667,
+      5.133333,
+      6.6,
+      8
+    ],
+    "kunyomi_ka_display": "Không có",
+    "dick": "2046",
+    "rad_name": "tomeru",
+    "dicn": "51",
+    "mn_hint": "Arms/spears 弋 for stopping 止 invaders 一.",
+    "rad_stroke": 4,
+    "onyomi_ja": "ブ、ム",
+    "rad_meaning": "dừng lại",
+    "onyomi": "bu, mu",
+    "ka_id": "ka_1020",
+    "onyomi_search": [
+      "bu",
+      "mu",
+      "bu, mu"
+    ],
+    "kunyomi_search": [
+      "Không có",
+      "Không có"
+    ],
+    "meaning_search": [
+      "military",
+      "military"
+    ],
+    "onyomi_ja_search": [
+      "ブ",
+      "ム",
+      "ブ、ム"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "to stop",
+      "to",
+      "stop",
+      "to stop"
+    ],
+    "rad_name_ja_search": [
+      "とめる"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [],
+    "rad_name_file": "tomeru",
+    "kanji": {
+      "character": "武",
+      "meaning": {
+        "english": "military"
+      },
+      "strokes": {
+        "count": 8,
+        "timings": [
+          0,
+          0.733333,
+          2.066667,
+          3,
+          3.733333,
+          4.266667,
+          5.133333,
+          6.6,
+          8
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/bu(ryoku)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/bu(ryoku)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/bu(ryoku)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/bu(ryoku)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/bu(ryoku)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/bu(ryoku)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/bu(ryoku)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/bu(ryoku)_8.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "bu, mu",
+        "katakana": "ブ、ム"
+      },
+      "kunyomi": {
+        "romaji": "Không có",
+        "hiragana": "Không có"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/bu(ryoku)_8.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/bu(ryoku)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/bu(ryoku)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⽌",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/tomeru.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "とめる",
+        "romaji": "tomeru"
+      },
+      "meaning": {
+        "english": "dừng lại"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/tomeru0.svg",
+        "https://media.kanjialive.com/rad_frames/tomeru1.svg",
+        "https://media.kanjialive.com/rad_frames/tomeru2.svg"
+      ]
+    },
+    "references": {
+      "grade": 5,
+      "kodansha": "2046",
+      "classic_nelson": "51"
+    }
+  },
+  "jishoData": {
+    "query": "武",
+    "found": true,
+    "taughtIn": "lớp 5",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "387",
+    "strokeCount": 8,
+    "meaning": "chiến binh, quân sự, tinh thần thượng võ, vũ khí",
+    "kunyomi": [
+      "たけ",
+      "たけ.し"
+    ],
+    "onyomi": [
+      "ブ",
+      "ム"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "武",
+        "reading": "ブ",
+        "meaning": "nghệ thuật chiến tranh, võ thuật, quân sự, lực lượng quân đội, thanh kiếm, lòng dũng cảm, lòng dũng cảm, sĩ quan quân đội, người quân đội"
+      },
+      {
+        "example": "武器",
+        "reading": "ブキ",
+        "meaning": "vũ khí, vũ khí, vũ khí (thứ gì đó được sử dụng để đạt được lợi thế), tài sản"
+      },
+      {
+        "example": "文武",
+        "reading": "ブンブ",
+        "meaning": "văn học và nghệ thuật quân sự, cây bút và thanh kiếm"
+      },
+      {
+        "example": "威武",
+        "reading": "イブ",
+        "meaning": "quyền lực và lực lượng"
+      },
+      {
+        "example": "武者",
+        "reading": "ムシャ",
+        "meaning": "chiến binh"
+      },
+      {
+        "example": "武者修行",
+        "reading": "ムシャシュギョウ",
+        "meaning": "đi du lịch để đạt được kỹ năng chiến đấu (đi du lịch)"
+      },
+      {
+        "example": "建武",
+        "reading": "ケンム",
+        "meaning": "Thời Kenmu (của Nhật Bản thống nhất; 1334.1.29-1336.2.29), thời Kenmu (của Triều đình phương Bắc; 1336.2.29-1338.8.28)"
+      },
+      {
+        "example": "玄武",
+        "reading": "ゲンブ",
+        "meaning": "Rùa đen (thần cai trị phương bắc), bảy dinh thự (chòm sao Trung Quốc) của phương bắc"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "武し",
+        "reading": "たけし",
+        "meaning": "dũng cảm"
+      },
+      {
+        "example": "武田薬品工業",
+        "reading": "たけだやくひんこうぎょう",
+        "meaning": "Dược phẩm Takeda"
+      },
+      {
+        "example": "武し",
+        "reading": "たけし",
+        "meaning": "dũng cảm"
+      }
+    ],
+    "radical": {
+      "symbol": "止",
+      "meaning": "dừng lại"
+    },
+    "parts": [
+      "弋",
+      "止"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27494_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06b66.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6b66.gif",
+    "uri": "https://jisho.org/search/%E6%AD%A6%23kanji"
+  }
+}

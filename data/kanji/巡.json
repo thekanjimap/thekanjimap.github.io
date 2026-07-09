@@ -1,0 +1,75 @@
+{
+  "id": "巡",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "巡",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1262",
+    "strokeCount": 6,
+    "meaning": "tuần tra, đi vòng quanh, chu vi",
+    "kunyomi": [
+      "めぐ.る",
+      "めぐ.り"
+    ],
+    "onyomi": [
+      "ジュン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "巡",
+        "reading": "ジュン",
+        "meaning": "quầy tính các chuyến tham quan, xe đạp, vòng, vòng đua, v.v."
+      },
+      {
+        "example": "巡回",
+        "reading": "ジュンカイ",
+        "meaning": "đi vòng quanh, tuần tra, vòng quanh, tham quan"
+      },
+      {
+        "example": "一巡",
+        "reading": "イチジュン",
+        "meaning": "một vòng, một chuyến, một vòng, một tuần"
+      },
+      {
+        "example": "軽巡",
+        "reading": "ケイジュン",
+        "meaning": "tàu tuần dương hạng nhẹ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "巡る",
+        "reading": "めぐる",
+        "meaning": "đi vòng quanh, đi vòng quanh, bao quanh, đi vòng quanh, đi vòng quanh, đi vòng quanh (của một mùa, ngày kỷ niệm, lượt, v.v.), quay trở lại, lặp lại, lưu thông (máu, tiền bạc, v.v.), đi du lịch khắp nơi, đi tham quan, quan tâm (một vấn đề), vây quanh"
+      },
+      {
+        "example": "巡り",
+        "reading": "めぐり",
+        "meaning": "chu vi, chu vi, chu vi, hành trình, lưu thông (ví dụ như máu)"
+      },
+      {
+        "example": "めぐり合う",
+        "reading": "めぐりあう",
+        "meaning": "tình cờ gặp nhau, tình cờ gặp nhau, tình cờ gặp nhau"
+      }
+    ],
+    "radical": {
+      "symbol": "巛",
+      "forms": [
+        "川",
+        "巜"
+      ],
+      "meaning": "con sông"
+    },
+    "parts": [
+      "巛",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24033_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05de1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5de1.gif",
+    "uri": "https://jisho.org/search/%E5%B7%A1%23kanji"
+  }
+}

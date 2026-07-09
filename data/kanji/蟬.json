@@ -1,0 +1,34 @@
+{
+  "id": "蟬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蟬",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "ve sầu, liên tục",
+    "kunyomi": [
+      "せみ"
+    ],
+    "onyomi": [
+      "セン",
+      "ゼン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "蝉",
+        "reading": "せみ",
+        "meaning": "ve sầu, châu chấu, ròng rọc cỡ nhỏ"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "côn trùng"
+    },
+    "parts": [],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34796_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/087ec.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/87ec.gif",
+    "uri": "https://jisho.org/search/%E8%9F%AC%23kanji"
+  }
+}

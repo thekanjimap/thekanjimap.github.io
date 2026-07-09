@@ -1,0 +1,75 @@
+{
+  "id": "奇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "奇",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1367",
+    "strokeCount": 8,
+    "meaning": "sự kỳ lạ, sự kỳ lạ, sự tò mò",
+    "kunyomi": [
+      "く.しき",
+      "あや.しい",
+      "くし",
+      "めずら.しい"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "奇",
+        "reading": "キ",
+        "meaning": "lạ, độc đáo, lập dị, mới lạ, số lẻ, số lẻ"
+      },
+      {
+        "example": "奇異",
+        "reading": "キイ",
+        "meaning": "kỳ lạ, kỳ lạ, kỳ lạ, kỳ dị"
+      },
+      {
+        "example": "物好き",
+        "reading": "モノズキ",
+        "meaning": "(nhàn rỗi) tò mò, huyền ảo, hay thay đổi, (có) sở thích lạ"
+      },
+      {
+        "example": "怪奇",
+        "reading": "カイキ",
+        "meaning": "kỳ lạ, kỳ lạ, kỳ lạ, bí ẩn, kỳ cục"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "奇しき",
+        "reading": "くしき",
+        "meaning": "kỳ lạ, bí ẩn, kỳ lạ"
+      },
+      {
+        "example": "奇しき",
+        "reading": "くしき",
+        "meaning": "kỳ lạ, bí ẩn, kỳ lạ"
+      },
+      {
+        "example": "奇しくも",
+        "reading": "くしくも",
+        "meaning": "một cách kỳ lạ, một cách kỳ lạ, một cách kỳ lạ, một cách bí ẩn"
+      }
+    ],
+    "radical": {
+      "symbol": "大",
+      "meaning": "lớn, rất"
+    },
+    "parts": [
+      "一",
+      "亅",
+      "口",
+      "大"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22855_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05947.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5947.gif",
+    "uri": "https://jisho.org/search/%E5%A5%87%23kanji"
+  }
+}

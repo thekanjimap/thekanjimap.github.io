@@ -1,0 +1,42 @@
+{
+  "id": "麥",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "麥",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "lúa mì",
+    "kunyomi": [
+      "むぎ"
+    ],
+    "onyomi": [
+      "バク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "麦穂",
+        "reading": "バクスイ",
+        "meaning": "tai lúa mì"
+      },
+      {
+        "example": "麥繞",
+        "reading": "バクニョウ",
+        "meaning": "gốc kanji \"lúa mì\""
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "麥",
+      "meaning": "lúa mì"
+    },
+    "parts": [
+      "人",
+      "十",
+      "夂"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40613_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ea5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ea5.gif",
+    "uri": "https://jisho.org/search/%E9%BA%A5%23kanji"
+  }
+}

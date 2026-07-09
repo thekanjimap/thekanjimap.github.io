@@ -1,0 +1,46 @@
+{
+  "id": "渊",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "渊",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "bờ rìa",
+    "kunyomi": [
+      "ふち",
+      "かた.い",
+      "はなわ"
+    ],
+    "onyomi": [
+      "エン",
+      "カク",
+      "コウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "淵",
+        "reading": "ふち",
+        "meaning": "vực sâu, nước sâu, vực thẳm, độ sâu (ví dụ: tuyệt vọng), sự kìm kẹp (ví dụ: cái chết)"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "ノ",
+      "汁",
+      "米",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28170_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e0a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e0a.gif",
+    "uri": "https://jisho.org/search/%E6%B8%8A%23kanji"
+  }
+}

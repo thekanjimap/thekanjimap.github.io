@@ -1,0 +1,50 @@
+{
+  "id": "頽",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "頽",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "sụt giảm, trượt",
+    "kunyomi": [
+      "くず.れる"
+    ],
+    "onyomi": [
+      "タイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "退廃",
+        "reading": "タイハイ",
+        "meaning": "(đạo đức) suy thoái, (xã hội) suy thoái, suy đồi, tham nhũng, thoái hóa, suy thoái, suy thoái (trong thịnh vượng)"
+      },
+      {
+        "example": "退勢",
+        "reading": "タイセイ",
+        "meaning": "suy sụp, vận may suy giảm, suy tàn"
+      },
+      {
+        "example": "廃退",
+        "reading": "ハイタイ",
+        "meaning": "(đạo đức) suy thoái, (xã hội) suy thoái, suy đồi, tham nhũng, thoái hóa, suy thoái, suy thoái (trong thịnh vượng), rơi vào tình trạng không sử dụng"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "頁",
+      "meaning": "lá"
+    },
+    "parts": [
+      "ハ",
+      "几",
+      "目",
+      "禾",
+      "貝",
+      "頁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38973_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0983d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/983d.gif",
+    "uri": "https://jisho.org/search/%E9%A0%BD%23kanji"
+  }
+}

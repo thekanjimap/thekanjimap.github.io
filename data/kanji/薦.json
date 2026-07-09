@@ -1,0 +1,64 @@
+{
+  "id": "薦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "薦",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1082",
+    "strokeCount": 16,
+    "meaning": "giới thiệu, chiếu, khuyên, khuyến khích, đề nghị",
+    "kunyomi": [
+      "すす.める"
+    ],
+    "onyomi": [
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "薦挙",
+        "reading": "センキョ",
+        "meaning": "khuyến nghị"
+      },
+      {
+        "example": "仙骨",
+        "reading": "センコツ",
+        "meaning": "xương cùng, xương cùng, ẩn sĩ, vẻ ngoài của một ẩn sĩ, vẻ ngoài trần tục, vóc dáng khác thường, vẻ ngoài nổi bật"
+      },
+      {
+        "example": "他薦",
+        "reading": "タセン",
+        "meaning": "khuyến nghị (của người khác)"
+      },
+      {
+        "example": "自薦",
+        "reading": "ジセン",
+        "meaning": "tự đề cử, tự đề cử, tự đề cử"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "勧める",
+        "reading": "すすめる",
+        "meaning": "giới thiệu (ai đó để làm), khuyên bảo, khuyến khích, thúc giục, giới thiệu (một cuốn sách, ai đó cho một vị trí, v.v.), gợi ý, đề nghị (đồ uống, thuốc lá, chỗ ngồi, v.v.)"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "广",
+      "杰",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34214_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085a6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85a6.gif",
+    "uri": "https://jisho.org/search/%E8%96%A6%23kanji"
+  }
+}

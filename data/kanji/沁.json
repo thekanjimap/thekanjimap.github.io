@@ -1,0 +1,40 @@
+{
+  "id": "沁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "沁",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "thâm nhập, thấm vào",
+    "kunyomi": [
+      "し.みる"
+    ],
+    "onyomi": [
+      "シン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "染みる",
+        "reading": "しみる",
+        "meaning": "đâm, xuyên, thấm vào, thấm, chích (vết thương hoặc vùng nhạy cảm, v.v.), thông minh, vặn vẹo, bị nhiễm trùng (với phó), bị ngâm (với thành kiến), bị ảnh hưởng, cảm thấy sâu sắc, tạo ấn tượng sâu sắc"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "心",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27777_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c81.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c81.gif",
+    "uri": "https://jisho.org/search/%E6%B2%81%23kanji"
+  }
+}

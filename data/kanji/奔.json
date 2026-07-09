@@ -1,0 +1,58 @@
+{
+  "id": "奔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "奔",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1884",
+    "strokeCount": 8,
+    "meaning": "chạy, nhộn nhịp",
+    "kunyomi": [
+      "はし.る"
+    ],
+    "onyomi": [
+      "ホン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "奔放",
+        "reading": "ホンポウ",
+        "meaning": "hoang dã, hoang dã, hoang dã, tràn lan"
+      },
+      {
+        "example": "奔走",
+        "reading": "ホンソウ",
+        "meaning": "chạy khắp nơi, cố gắng hết sức (làm), bận rộn (với), bận rộn tham gia (vào), văn phòng tốt, nỗ lực"
+      },
+      {
+        "example": "狂奔",
+        "reading": "キョウホン",
+        "meaning": "lao đi khắp nơi, chạy lung tung"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "走る",
+        "reading": "はしる",
+        "meaning": "chạy, chạy (của một phương tiện), lái xe, đi du lịch, di chuyển, chèo thuyền, lao tới, phóng, chạy đua, rút lui, chạy trốn, chạy trốn (đến), chạy trốn, bỏ trốn, chạy trốn, chớp nhoáng (sét), lao thẳng, bắn (xuyên qua, ví dụ như đau đớn), chạy (xuyên qua), bùng phát, chạy trốn (ví dụ như ngang qua khuôn mặt của một người), lan truyền nhanh chóng (tin tức, cú sốc, v.v.), đi (ví dụ: xấu, đến cực đoan), trở thành, quay lại, đi đến (ví dụ: tội phạm), bị cuốn theo (ví dụ: cảm xúc của một người), bị cuốn vào, bị cuốn vào, chạy (qua; của một con đường, đường phố, v.v.), mở rộng (ví dụ: một dãy núi), kéo dài, nằm"
+      }
+    ],
+    "radical": {
+      "symbol": "大",
+      "meaning": "lớn, rất"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "十",
+      "大",
+      "廾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22868_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05954.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5954.gif",
+    "uri": "https://jisho.org/search/%E5%A5%94%23kanji"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "滋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "滋",
+    "found": true,
+    "taughtIn": "lớp 4",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1563",
+    "strokeCount": 12,
+    "meaning": "nuôi dưỡng, ngày càng nhiều, xum xuê, trồng trọt, đục",
+    "kunyomi": [],
+    "onyomi": [
+      "ジ",
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "滋養",
+        "reading": "ジヨウ",
+        "meaning": "dinh dưỡng, dinh dưỡng"
+      },
+      {
+        "example": "慈雨",
+        "reading": "ジウ",
+        "meaning": "mưa chào đón, mưa có lợi, mưa may mắn, mưa đến sau hạn hán"
+      },
+      {
+        "example": "京滋",
+        "reading": "ケイジ",
+        "meaning": "Kyoto-Shiga, Kyoto và Shiga"
+      },
+      {
+        "example": "茂る",
+        "reading": "シゲル",
+        "meaning": "mọc rậm rạp, đầy lá, tràn lan, xum xuê, sang trọng"
+      },
+      {
+        "example": "滋賀",
+        "reading": "シガ",
+        "meaning": "Shiga (tỉnh)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "一",
+      "并",
+      "幺",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28363_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ecb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ecb.gif",
+    "uri": "https://jisho.org/search/%E6%BB%8B%23kanji"
+  }
+}

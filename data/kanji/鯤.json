@@ -1,0 +1,37 @@
+{
+  "id": "鯤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鯤",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "cá thần thoại lớn, trứng cá",
+    "kunyomi": [],
+    "onyomi": [
+      "コン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鯤",
+        "reading": "コン",
+        "meaning": "kun (cá khổng lồ có thể biến thành chim)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "cá"
+    },
+    "parts": [
+      "日",
+      "杰",
+      "比",
+      "田",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39908_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09be4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9be4.gif",
+    "uri": "https://jisho.org/search/%E9%AF%A4%23kanji"
+  }
+}

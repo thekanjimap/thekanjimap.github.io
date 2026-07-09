@@ -1,0 +1,405 @@
+{
+  "id": "抜",
+  "kanjialiveData": {
+    "_id": "54317af5791eba5146ee4ac8",
+    "_rev": "12-dd48c81170338dd7fbd301306b46a16f",
+    "rad_name_ja": "てへん",
+    "grade": null,
+    "hint_group": 1,
+    "kunyomi": "nuku, nuki, nukeru, nukasu, nukaru, nu",
+    "meaning": "kéo ra, nổi bật, vượt qua",
+    "kstroke": 7,
+    "examples": [
+      {
+        "japanese": "抜群（ばつぐん）",
+        "meaning": {
+          "english": "sự ưu việt"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nu(kasu)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nu(kasu)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nu(kasu)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nu(kasu)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "海抜（かいばつ）",
+        "meaning": {
+          "english": "độ cao so với mực nước biển"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nu(kasu)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nu(kasu)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nu(kasu)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nu(kasu)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "奇抜な（きばつな）",
+        "meaning": {
+          "english": "độc đáo, lập dị"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nu(kasu)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nu(kasu)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nu(kasu)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nu(kasu)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "抜本的な（ばっぽんてきな）",
+        "meaning": {
+          "english": "quyết liệt, triệt để"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nu(kasu)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nu(kasu)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nu(kasu)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nu(kasu)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "抜粋する（ばっすいする）",
+        "meaning": {
+          "english": "trích xuất, chọn"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nu(kasu)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nu(kasu)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nu(kasu)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nu(kasu)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "選抜する（せんばつする）",
+        "meaning": {
+          "english": "chọn"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nu(kasu)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nu(kasu)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nu(kasu)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nu(kasu)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "抜ける（ぬける）",
+        "meaning": {
+          "english": "đi ra, mất tích, [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nu(kasu)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nu(kasu)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nu(kasu)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nu(kasu)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "抜く（ぬく）",
+        "meaning": {
+          "english": "rút ra, rút phích cắm [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nu(kasu)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nu(kasu)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nu(kasu)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nu(kasu)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "抜かす（ぬかす）",
+        "meaning": {
+          "english": "bỏ qua, bỏ qua [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nu(kasu)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nu(kasu)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nu(kasu)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nu(kasu)_06_i.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "ぬく、ぬき、ぬける、ぬかす、ぬかる、ぬ",
+    "ka_utf": "抜",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=抜",
+    "kname": "nu(kasu)",
+    "rad_order": 77,
+    "txt_books": [
+      {
+        "chapter": "7",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "8",
+        "txt_bk": "jtr"
+      }
+    ],
+    "rad_name_search": [
+      "tehen"
+    ],
+    "rad_utf": "⺘",
+    "stroketimes": [
+      0,
+      1.066667,
+      2.666667,
+      3.333333,
+      4.4,
+      6,
+      7.533333,
+      10.133333
+    ],
+    "kunyomi_ka_display": "ぬ",
+    "dick": "183",
+    "rad_name": "tehen",
+    "dicn": "1854",
+    "mn_hint": "Hand 扌 taking something from one's own possessions to help a friend 友.",
+    "rad_stroke": 3,
+    "onyomi_ja": "バツ",
+    "rad_meaning": "tay",
+    "onyomi": "batsu",
+    "ka_id": "ka_506",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "batsu",
+      "batsu"
+    ],
+    "kunyomi_search": [
+      "nuku",
+      "nuki",
+      "nukeru",
+      "nukasu",
+      "nukaru",
+      "nu",
+      "nuku, nuki, nukeru, nukasu, nukaru, nu"
+    ],
+    "meaning_search": [
+      "pull out",
+      "pull",
+      "out",
+      "stand out",
+      "stand",
+      "out",
+      "surpass",
+      "pull out, stand out, surpass"
+    ],
+    "onyomi_ja_search": [
+      "バツ",
+      "バツ"
+    ],
+    "kunyomi_ja_search": [
+      "ぬく",
+      "ぬき",
+      "ぬける",
+      "ぬかす",
+      "ぬかる",
+      "ぬ",
+      "ぬく、ぬき、ぬける、ぬかす、ぬかる、ぬ"
+    ],
+    "rad_meaning_search": [
+      "hand",
+      "hand"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "てへん"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:7",
+      "ij:c7",
+      "jtr",
+      "jtr:8",
+      "jtr:c8"
+    ],
+    "rad_name_file": "tehen",
+    "kanji": {
+      "character": "抜",
+      "meaning": {
+        "english": "pull out, stand out, surpass"
+      },
+      "strokes": {
+        "count": 7,
+        "timings": [
+          0,
+          1.066667,
+          2.666667,
+          3.333333,
+          4.4,
+          6,
+          7.533333,
+          10.133333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/nu(kasu)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/nu(kasu)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/nu(kasu)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/nu(kasu)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/nu(kasu)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/nu(kasu)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/nu(kasu)_7.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "batsu",
+        "katakana": "バツ"
+      },
+      "kunyomi": {
+        "romaji": "nuku, nuki, nukeru, nukasu, nukaru, nu",
+        "hiragana": "ぬ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/nu(kasu)_7.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/nu(kasu)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/nu(kasu)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺘",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/tehen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "てへん",
+        "romaji": "tehen"
+      },
+      "meaning": {
+        "english": "tay"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/tehen0.svg",
+        "https://media.kanjialive.com/rad_frames/tehen1.svg",
+        "https://media.kanjialive.com/rad_frames/tehen2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "183",
+      "classic_nelson": "1854"
+    }
+  },
+  "jishoData": {
+    "query": "抜",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "726",
+    "strokeCount": 7,
+    "meaning": "tuột ra, rút ra, rút ra, lấy trộm, trích dẫn, loại bỏ, bỏ qua",
+    "kunyomi": [
+      "ぬ.く",
+      "-ぬ.く",
+      "ぬ.き",
+      "ぬ.ける",
+      "ぬ.かす",
+      "ぬ.かる"
+    ],
+    "onyomi": [
+      "バツ",
+      "ハツ",
+      "ハイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "抜群",
+        "reading": "バツグン",
+        "meaning": "nổi bật, xuất sắc, đặc biệt, nổi bật, vô song, vượt trội (ví dụ: sắc đẹp), không thể so sánh được"
+      },
+      {
+        "example": "抜山蓋世",
+        "reading": "バツザンガイセイ",
+        "meaning": "sức mạnh và nghị lực to lớn (của một anh hùng dũng mãnh), sức mạnh và sức sống mạnh mẽ"
+      },
+      {
+        "example": "卓抜",
+        "reading": "タクバツ",
+        "meaning": "sự xuất sắc, sự ưu việt, sự ưu việt, sự thịnh hành"
+      },
+      {
+        "example": "警抜",
+        "reading": "ケイバツ",
+        "meaning": "rực rỡ, cực kỳ xuất sắc"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "抜く",
+        "reading": "ぬく",
+        "meaning": "rút ra, rút ra, rút ra, rút ra, làm cỏ, bỏ qua, bỏ đi, không có, bỏ qua, làm đến cùng, làm triệt để, làm hoàn toàn, làm nghiêm khắc, để thoát ra (ví dụ như không khí từ một lốp xe), thoát nước (ví dụ như nước từ bồn tắm), làm trống, chọn ra, lựa chọn, chọn lọc, lấy ra, ăn cắp, lấy trộm, loại bỏ, loại bỏ, lấy ra, vượt qua, để vượt qua, vượt xa, vượt lên phía trước, xuyên thủng, vượt qua, cắt ra (một hình dạng), tạo ra (một khuôn mẫu) bằng cách nhuộm khu vực xung quanh, chiếm giữ, bắt giữ, thu nhỏ, múc (một câu chuyện), lấy ra (đá của đối thủ; đi), thủ dâm (của một người đàn ông), xuất tinh (trong khi thủ dâm), chụp (một bức ảnh), quay (video)"
+      },
+      {
+        "example": "抜くべからざる",
+        "reading": "ぬくべからざる",
+        "meaning": "có nguồn gốc sâu xa (nghi ngờ, v.v.)"
+      },
+      {
+        "example": "抜き",
+        "reading": "ぬき",
+        "meaning": "bỏ đi, bỏ qua, bỏ qua, phân phát, (đánh) liên tiếp, liên tiếp"
+      },
+      {
+        "example": "抜き打ち",
+        "reading": "ぬきうち",
+        "meaning": "rút katana và tấn công trong cùng một đòn, làm (việc gì đó) đột ngột và không báo trước, làm mà không báo trước"
+      },
+      {
+        "example": "手抜き",
+        "reading": "てぬき",
+        "meaning": "bỏ qua các bước quan trọng, cắt góc, bỏ qua, cố ý sơ suất, tenuki, thực hiện một nước đi không phải là đòn phản công trực tiếp với nước đi cuối cùng của đối thủ"
+      },
+      {
+        "example": "栓抜き",
+        "reading": "せんぬき",
+        "meaning": "cái mở nắp chai, cái mở nút chai"
+      },
+      {
+        "example": "抜ける",
+        "reading": "ぬける",
+        "meaning": "đi ra, rơi ra, bị bỏ sót, mất tích, trốn thoát, lỏng lẻo, phai màu, biến màu, thủng lỗ (ví dụ: quần áo), rời đi (ví dụ: một cuộc họp), rõ ràng, trong suốt (ví dụ: bầu trời), lơ đãng, bất cẩn, thiếu chú ý, ngu ngốc, thoát ra (một vòng lặp chương trình), đi qua, đi qua, nhường đường, gục ngã, kết thúc một vòng với nhiều hơn trên 88 điểm (không tính điểm đạt được từ các tổ hợp tính điểm)"
+      },
+      {
+        "example": "抜けるような青空",
+        "reading": "ぬけるようなあおぞら",
+        "meaning": "bầu trời xanh thẳm, bầu trời xanh không đáy"
+      },
+      {
+        "example": "抜かす",
+        "reading": "ぬかす",
+        "meaning": "bỏ qua, bỏ qua, bỏ qua, vượt qua, vượt qua, nói, nói"
+      },
+      {
+        "example": "抜かる",
+        "reading": "ぬかる",
+        "meaning": "phạm sai lầm"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "亠",
+      "又",
+      "夂",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25244_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0629c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/629c.gif",
+    "uri": "https://jisho.org/search/%E6%8A%9C%23kanji"
+  }
+}

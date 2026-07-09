@@ -1,0 +1,62 @@
+{
+  "id": "遮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "遮",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1865",
+    "strokeCount": 14,
+    "meaning": "chặn, làm gián đoạn, cản trở",
+    "kunyomi": [
+      "さえぎ.る"
+    ],
+    "onyomi": [
+      "シャ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "遮断機",
+        "reading": "シャダンキ",
+        "meaning": "(đường sắt) cổng qua, rào chắn (tại trạm thu phí, bãi đậu xe, v.v.)"
+      },
+      {
+        "example": "遮断器",
+        "reading": "シャダンキ",
+        "meaning": "ngắt mạch"
+      },
+      {
+        "example": "間遮",
+        "reading": "アイシャ",
+        "meaning": "quân đặt để chặn séc của đối phương, quân xen kẽ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "遮る",
+        "reading": "さえぎる",
+        "meaning": "làm gián đoạn, cản trở (tầm nhìn, đường đi của ai đó, v.v.), chặn (ánh sáng, gió, v.v.), chặn, cắt đứt"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "đi bộ"
+    },
+    "parts": [
+      "一",
+      "广",
+      "杰",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36974_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0906e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/906e.gif",
+    "uri": "https://jisho.org/search/%E9%81%AE%23kanji"
+  }
+}

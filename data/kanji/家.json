@@ -1,0 +1,520 @@
+{
+  "id": "家",
+  "kanjialiveData": {
+    "_id": "54317af0791eba5146ee4a5d",
+    "_rev": "10-a5d84f3a21e71d14a9ca72135decb562",
+    "rad_name_ja": "うかんむり",
+    "grade": 2,
+    "hint_group": 1,
+    "kunyomi": "ie, ya",
+    "meaning": "ngôi nhà, gia đình",
+    "kstroke": 10,
+    "examples": [
+      {
+        "japanese": "家族（かぞく）",
+        "meaning": {
+          "english": "gia đình"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ie_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ie_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ie_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ie_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "家内（かない）",
+        "meaning": {
+          "english": "vợ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ie_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ie_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ie_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ie_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "家具（かぐ）",
+        "meaning": {
+          "english": "đồ nội thất"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ie_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ie_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ie_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ie_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "作曲家（さっきょくか）",
+        "meaning": {
+          "english": "nhà soạn nhạc"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ie_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ie_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ie_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ie_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "作家（さっか）",
+        "meaning": {
+          "english": "nhà văn, nghệ sĩ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ie_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ie_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ie_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ie_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "徳川家（とくがわけ）",
+        "meaning": {
+          "english": "nhà Tokugawa"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ie_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ie_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ie_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ie_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "家（いえ）",
+        "meaning": {
+          "english": "nhà ở"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ie_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ie_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ie_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ie_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "家出する（いえでする）",
+        "meaning": {
+          "english": "chạy trốn khỏi nhà"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ie_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ie_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ie_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ie_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "家賃（やちん）",
+        "meaning": {
+          "english": "thuê"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ie_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ie_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ie_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ie_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "一軒家（いっけんや）",
+        "meaning": {
+          "english": "nhà đứng tự do"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ie_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ie_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ie_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ie_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "大家（おおや）",
+        "meaning": {
+          "english": "chủ nhà"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ie_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ie_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ie_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ie_06_k.mp3"
+        }
+      },
+      {
+        "japanese": "*家（うち）",
+        "meaning": {
+          "english": "ngôi nhà, gia đình"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ie_06_l.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ie_06_l.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ie_06_l.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ie_06_l.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "いえ、や",
+    "ka_utf": "家",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=家",
+    "kname": "ie",
+    "rad_order": 48,
+    "txt_books": [
+      {
+        "chapter": "9",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "12",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtAd2"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtSFJ2"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "1",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "14"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "22"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "29"
+      }
+    ],
+    "rad_name_search": [
+      "ukanmuri"
+    ],
+    "rad_utf": "⼧",
+    "stroketimes": [
+      0.993,
+      1.866,
+      2.266,
+      4.199,
+      4.733,
+      5.866,
+      7.399,
+      8.132,
+      8.999,
+      9.931,
+      10.6
+    ],
+    "kunyomi_ka_display": "いえ、や",
+    "dick": "1458",
+    "rad_name": "ukanmuri",
+    "dicn": "1311",
+    "mn_hint": "House 宀 with its members and its animals 豕.",
+    "rad_stroke": 3,
+    "onyomi_ja": "カ、ケ",
+    "rad_meaning": "mái nhà, ngôi nhà",
+    "onyomi": "ka, ke",
+    "ka_id": "ka_41",
+    "rad_position": "kanmuri",
+    "rad_position_ja": "かんむり",
+    "rad_position_search": [
+      "kanmuri",
+      "kanmuri"
+    ],
+    "onyomi_search": [
+      "ka",
+      "ke",
+      "ka, ke"
+    ],
+    "kunyomi_search": [
+      "ie",
+      "ya",
+      "ie, ya"
+    ],
+    "meaning_search": [
+      "house",
+      "family",
+      "house, family"
+    ],
+    "onyomi_ja_search": [
+      "カ",
+      "ケ",
+      "カ、ケ"
+    ],
+    "kunyomi_ja_search": [
+      "いえ",
+      "や",
+      "いえ、や"
+    ],
+    "rad_meaning_search": [
+      "roof",
+      "house",
+      "roof, house"
+    ],
+    "rad_position_ja_search": [
+      "かんむり",
+      "かんむり"
+    ],
+    "rad_name_ja_search": [
+      "うかんむり"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:9",
+      "cij:c9",
+      "bk",
+      "bk:12",
+      "bk:c12",
+      "aij3",
+      "aij3:7",
+      "aij3:c7",
+      "aij3:v2",
+      "aij3:v2:7",
+      "aij3:v2:c7",
+      "gen",
+      "gen:9",
+      "gen:c9",
+      "ap",
+      "ap:2",
+      "ap:c2",
+      "kll",
+      "kll:13",
+      "kll:c13",
+      "cijr",
+      "cijr:14",
+      "cijr:c14",
+      "cijr",
+      "cijr:22",
+      "cijr:c22",
+      "cijr",
+      "cijr:29",
+      "cijr:c29"
+    ],
+    "rad_name_file": "ukanmuri",
+    "kanji": {
+      "character": "家",
+      "meaning": {
+        "english": "house, family"
+      },
+      "strokes": {
+        "count": 10,
+        "timings": [
+          0.993,
+          1.866,
+          2.266,
+          4.199,
+          4.733,
+          5.866,
+          7.399,
+          8.132,
+          8.999,
+          9.931,
+          10.6
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/ie_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/ie_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/ie_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/ie_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/ie_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/ie_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/ie_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/ie_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/ie_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/ie_10.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "ka, ke",
+        "katakana": "カ、ケ"
+      },
+      "kunyomi": {
+        "romaji": "ie, ya",
+        "hiragana": "いえ、や"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/ie_10.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/ie_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/ie_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼧",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/ukanmuri.svg",
+      "position": {
+        "hiragana": "かんむり",
+        "romaji": "kanmuri",
+        "icon": "https://media.kanjialive.com/rad_positions/kanmuri.svg"
+      },
+      "name": {
+        "hiragana": "うかんむり",
+        "romaji": "ukanmuri"
+      },
+      "meaning": {
+        "english": "mái nhà, ngôi nhà"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/ukanmuri0.svg",
+        "https://media.kanjialive.com/rad_frames/ukanmuri1.svg",
+        "https://media.kanjialive.com/rad_frames/ukanmuri2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "1458",
+      "classic_nelson": "1311"
+    }
+  },
+  "jishoData": {
+    "query": "家",
+    "found": true,
+    "taughtIn": "lớp 2",
+    "jlptLevel": "N4",
+    "newspaperFrequencyRank": "133",
+    "strokeCount": 10,
+    "meaning": "nhà ở,nhà,gia đình,chuyên nghiệp,chuyên gia,Người biểu diễn",
+    "kunyomi": [
+      "いえ",
+      "や",
+      "うち"
+    ],
+    "onyomi": [
+      "カ",
+      "ケ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "家",
+        "reading": "カ",
+        "meaning": "-ist, -er"
+      },
+      {
+        "example": "家屋",
+        "reading": "カオク",
+        "meaning": "nhà, tòa nhà"
+      },
+      {
+        "example": "研究家",
+        "reading": "ケンキュウカ",
+        "meaning": "nhà nghiên cứu, sinh viên (của)"
+      },
+      {
+        "example": "活動家",
+        "reading": "カツドウカ",
+        "meaning": "nhà hoạt động"
+      },
+      {
+        "example": "家",
+        "reading": "ケ",
+        "meaning": "ngôi nhà, gia đình"
+      },
+      {
+        "example": "家来",
+        "reading": "ケライ",
+        "meaning": "người hầu cận, chư hầu, người đi theo"
+      },
+      {
+        "example": "本家",
+        "reading": "ホンケ",
+        "meaning": "gia chủ, gia đình chính, người sáng lập (của một trường phái, phong cách nhất định, v.v.), người sáng lập, nơi sinh"
+      },
+      {
+        "example": "公家",
+        "reading": "クゲ",
+        "meaning": "triều đình, quý tộc, kuge, triều đình"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "家",
+        "reading": "いえ",
+        "meaning": "nhà, nơi ở, nơi ở, gia đình, hộ gia đình, dòng họ, họ"
+      },
+      {
+        "example": "家主",
+        "reading": "やぬし",
+        "meaning": "chủ nhà, chủ nhà, chủ nhà, chủ nhà, chủ hộ"
+      },
+      {
+        "example": "小家",
+        "reading": "こいえ",
+        "meaning": "ngôi nhà nhỏ và đơn giản"
+      },
+      {
+        "example": "建ち家",
+        "reading": "たちいえ",
+        "meaning": "nhà, tòa nhà"
+      },
+      {
+        "example": "屋",
+        "reading": "や",
+        "meaning": "cửa hàng, cửa hàng, nhà hàng, người bán (cái gì đó) hoặc làm việc như (cái gì đó), ai đó có một đặc điểm tính cách (nhất định), ngôi nhà, mái nhà"
+      },
+      {
+        "example": "家内",
+        "reading": "かない",
+        "meaning": "(của tôi) vợ, trong nhà, gia đình của một người"
+      },
+      {
+        "example": "長屋",
+        "reading": "ながや",
+        "meaning": "nhà tập thể, nhà liền kề"
+      },
+      {
+        "example": "町家",
+        "reading": "まちや",
+        "meaning": "machiya, nhà phố bằng gỗ truyền thống, nhà buôn (đặc biệt là nhà có cửa hàng phía trước), nhà thương gia, gia đình thương gia"
+      },
+      {
+        "example": "家",
+        "reading": "うち",
+        "meaning": "nhà của ai, nhà của ai, gia đình của ai, nhà của ai, nhà của ai"
+      },
+      {
+        "example": "内",
+        "reading": "うち",
+        "meaning": "bên trong, bên trong, trong khi (ví dụ: một người còn trẻ), trong, trong (ví dụ: một ngày), trong quá trình, giữa, giữa, (ngoài), giữa, trong (bí mật, hỗn loạn, nghèo đói, v.v.), giữa, với (ví dụ: thành công), trong chính mình, cảm xúc, suy nghĩ bên trong của một người, chúng tôi, công ty của chúng tôi, tổ chức của chúng tôi, nhà của một người, gia đình của một người, vợ / chồng tôi, chồng tôi, vợ tôi, được vợ anh ấy ký thay mặt (tên chồng), Tôi, tôi, sân hoàng cung, hoàng đế"
+      },
+      {
+        "example": "お家",
+        "reading": "おうち",
+        "meaning": "nhà của bạn, gia đình của bạn, nhà của họ, gia đình của họ, nhà (của tôi)"
+      }
+    ],
+    "radical": {
+      "symbol": "宀",
+      "meaning": "mái nhà"
+    },
+    "parts": [
+      "宀",
+      "豕"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23478_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bb6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bb6.gif",
+    "uri": "https://jisho.org/search/%E5%AE%B6%23kanji"
+  }
+}

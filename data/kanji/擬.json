@@ -1,0 +1,78 @@
+{
+  "id": "擬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "擬",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1990",
+    "strokeCount": 17,
+    "meaning": "bắt chước, nhắm (súng), đề cử, bắt chước",
+    "kunyomi": [
+      "まが.い",
+      "もど.き"
+    ],
+    "onyomi": [
+      "ギ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "擬",
+        "reading": "ギ",
+        "meaning": "giả, tựa như"
+      },
+      {
+        "example": "疑似",
+        "reading": "ギジ",
+        "meaning": "giả, gần như, sai, para-, giả, giả, nghi ngờ (trường hợp, ví dụ như bệnh)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "紛い",
+        "reading": "まがい",
+        "meaning": "bắt chước, giả tạo, giống như"
+      },
+      {
+        "example": "紛い物",
+        "reading": "まがいもの",
+        "meaning": "sự bắt chước, sự giả tạo, sự giả tạo"
+      },
+      {
+        "example": "擬き",
+        "reading": "もどき",
+        "meaning": "-like, pseudo-, mock ..., bắt chước ..., theo phong cách ..., nhân vật hài hước chế nhạo hoặc bắt chước nhân vật chính (trong nghệ thuật biểu diễn Nhật Bản), phê phán, chỉ trích"
+      },
+      {
+        "example": "銀竜草擬",
+        "reading": "ぎんりょうそうもどき",
+        "meaning": "Ống Ấn Độ (Monotropa uniflora)"
+      },
+      {
+        "example": "太平洋赤坊擬",
+        "reading": "たいへいようあかぼうもどき",
+        "meaning": "Cá voi mõm khoằm Longman (Indopacetus pacificus), cá voi mõm khoằm Ấn Độ-Thái Bình Dương, cá voi mũi chai nhiệt đới"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "マ",
+      "乞",
+      "匕",
+      "扎",
+      "疋",
+      "矢"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25836_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064ec.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64ec.gif",
+    "uri": "https://jisho.org/search/%E6%93%AC%23kanji"
+  }
+}

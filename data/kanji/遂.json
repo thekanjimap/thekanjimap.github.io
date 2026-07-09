@@ -1,0 +1,67 @@
+{
+  "id": "遂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "遂",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1423",
+    "strokeCount": 12,
+    "meaning": "hoàn thành, hoàn thành, đạt được, cam kết (tự sát)",
+    "kunyomi": [
+      "と.げる",
+      "つい.に"
+    ],
+    "onyomi": [
+      "スイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "遂行",
+        "reading": "スイコウ",
+        "meaning": "sự thành tựu, sự thực hiện"
+      },
+      {
+        "example": "完遂",
+        "reading": "カンスイ",
+        "meaning": "thực hiện thành công, hoàn thành, hoàn thành, hoàn thành, thực hiện thành công"
+      },
+      {
+        "example": "既遂",
+        "reading": "キスイ",
+        "meaning": "đã hoàn thành (hành động), đã hoàn thành, đã cam kết (tội ác; trái ngược với cố gắng), phạm tội, hoàn thành, thành công"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "遂げる",
+        "reading": "とげる",
+        "meaning": "hoàn thành, đạt được, thực hiện, đạt tới (một kết quả nào đó), đi đến, kết thúc với"
+      },
+      {
+        "example": "遂に",
+        "reading": "ついに",
+        "meaning": "cuối cùng, cuối cùng, cuối cùng, cuối cùng, không bao giờ (xảy ra)"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "đi bộ"
+    },
+    "parts": [
+      "并",
+      "豕",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36930_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09042.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9042.gif",
+    "uri": "https://jisho.org/search/%E9%81%82%23kanji"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "袙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "袙",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "băng đô chiến binh",
+    "kunyomi": [
+      "あこめ"
+    ],
+    "onyomi": [
+      "バツ",
+      "ハ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "衵",
+        "reading": "あこめ",
+        "meaning": "lớp quần áo được mặc bởi quý tộc (mặc bên dưới áo choàng nhưng bên ngoài áo lót)"
+      }
+    ],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "quần áo"
+    },
+    "parts": [
+      "初",
+      "白"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34969_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08899.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8899.gif",
+    "uri": "https://jisho.org/search/%E8%A2%99%23kanji"
+  }
+}

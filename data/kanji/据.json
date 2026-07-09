@@ -1,0 +1,61 @@
+{
+  "id": "据",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "据",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1468",
+    "strokeCount": 11,
+    "meaning": "đặt, đặt nền móng, lắp đặt, trang bị, ngồi xổm, ngồi xuống",
+    "kunyomi": [
+      "す.える",
+      "す.わる"
+    ],
+    "onyomi": [
+      "キョ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "据銃",
+        "reading": "キョジュウ",
+        "meaning": "gắn súng (tức là giữ báng súng trên vai), gắn súng"
+      },
+      {
+        "example": "拮据",
+        "reading": "キッキョ",
+        "meaning": "siêng năng, cần cù, chịu khó, vất vả"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "据える",
+        "reading": "すえる",
+        "meaning": "đặt (vào vị trí), cố định, đặt (ví dụ: bàn), đặt (nền móng), cài đặt, đặt (ai đó), đặt (trên cái gì đó), sửa chữa (ví dụ: cái nhìn của một người), áp dụng (moxa)"
+      },
+      {
+        "example": "座る",
+        "reading": "すわる",
+        "meaning": "ngồi, ngồi xổm, đảm nhận (một tư thế), giữ vững, giữ yên"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "十",
+      "口",
+      "尸",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25454_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0636e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/636e.gif",
+    "uri": "https://jisho.org/search/%E6%8D%AE%23kanji"
+  }
+}

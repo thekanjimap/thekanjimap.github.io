@@ -1,0 +1,53 @@
+{
+  "id": "懦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "懦",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "sự yếu đuối, hèn nhát",
+    "kunyomi": [
+      "よわ.い"
+    ],
+    "onyomi": [
+      "ダ",
+      "ジュ",
+      "ゼン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "惰弱",
+        "reading": "ダジャク",
+        "meaning": "thờ ơ, thiếu nhiệt tình, lười biếng, bơ phờ, yếu đuối, uể oải, yếu ớt, nhu nhược, yếu ớt, yếu đuối, yếu đuối"
+      },
+      {
+        "example": "懦夫",
+        "reading": "ダフ",
+        "meaning": "người hèn nhát, người rụt rè"
+      },
+      {
+        "example": "怯懦",
+        "reading": "キョウダ",
+        "meaning": "hèn nhát, nhu nhược, yếu đuối, yếu đuối"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "忙",
+      "而",
+      "雨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25062_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061e6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61e6.gif",
+    "uri": "https://jisho.org/search/%E6%87%A6%23kanji"
+  }
+}

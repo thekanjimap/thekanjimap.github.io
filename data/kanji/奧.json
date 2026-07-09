@@ -1,0 +1,40 @@
+{
+  "id": "奧",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "奧",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "trái tim, nội thất",
+    "kunyomi": [
+      "おく.まる",
+      "くま"
+    ],
+    "onyomi": [
+      "オウ",
+      "オク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "奥",
+        "reading": "オク",
+        "meaning": "phần bên trong, bên trong, mặt sau (ngăn kéo, cổ họng, v.v.), độ sâu (ví dụ: một khu rừng), hốc (ví dụ: hang động), trái tim, phần cuối (của một con đường, khu vườn, v.v.), nơi ở (ở phía sau ngôi nhà), phòng trong, hốc (của tâm trí), đáy (của trái tim), phía sau (lời nói của ai đó), bí ẩn (của một nghệ thuật)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "大",
+      "meaning": "lớn, rất"
+    },
+    "parts": [
+      "冂",
+      "大",
+      "米",
+      "釆"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22887_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05967.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5967.gif",
+    "uri": "https://jisho.org/search/%E5%A5%A7%23kanji"
+  }
+}

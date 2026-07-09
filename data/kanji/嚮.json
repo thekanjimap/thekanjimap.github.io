@@ -1,0 +1,51 @@
+{
+  "id": "嚮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嚮",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "hướng dẫn, hướng dẫn, thiên về, ủng hộ",
+    "kunyomi": [
+      "さきに",
+      "むか.う"
+    ],
+    "onyomi": [
+      "コウ",
+      "キョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "向後",
+        "reading": "コウゴ",
+        "meaning": "kiếp sau"
+      },
+      {
+        "example": "向後",
+        "reading": "コウゴ",
+        "meaning": "kiếp sau"
+      },
+      {
+        "example": "嚮導",
+        "reading": "キョウドウ",
+        "meaning": "hướng dẫn, dẫn đầu (đường đi), dẫn dắt, chỉ đạo, lãnh đạo, hướng dẫn, hướng dẫn"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "冂",
+      "口",
+      "幺",
+      "艮",
+      "邦"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22190_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/056ae.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56ae.gif",
+    "uri": "https://jisho.org/search/%E5%9A%AE%23kanji"
+  }
+}

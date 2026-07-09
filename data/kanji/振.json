@@ -1,0 +1,82 @@
+{
+  "id": "振",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "振",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "614",
+    "strokeCount": 10,
+    "meaning": "lắc, vẫy, lắc, đu",
+    "kunyomi": [
+      "ふ.る",
+      "ふ.れる",
+      "ふ.るう"
+    ],
+    "onyomi": [
+      "シン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "振り子",
+        "reading": "フリコ",
+        "meaning": "con lắc"
+      },
+      {
+        "example": "振興",
+        "reading": "シンコウ",
+        "meaning": "khuyến khích, khuyến khích"
+      },
+      {
+        "example": "奪三振",
+        "reading": "ダツサンシン",
+        "meaning": "đánh một người đánh bóng ra ngoài"
+      },
+      {
+        "example": "不振",
+        "reading": "フシン",
+        "meaning": "sự buồn tẻ, suy sụp, trì trệ, không hoạt động, trầm cảm"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "振る",
+        "reading": "ふる",
+        "meaning": "vẫy tay, lắc, lắc lư, rắc, ném (xúc xắc), ném (diễn viên), phân bổ (công việc), từ chối (ai đó), từ chối, nghiêng, đổ, từ bỏ, từ bỏ, làm hỏng, thêm kana chỉ cách đọc một từ, thay đổi một chút tiêu đề, thay đổi hướng, chiết xuất bằng cách nướng, chuẩn bị truyền dịch, sắc, mang theo một cách mạnh mẽ (ví dụ: một ngôi đền di động), đưa ra một chủ đề, dẫn dắt về một chủ đề, thay thế, thay thế, bày ra một trò đùa cho người khác"
+      },
+      {
+        "example": "振る舞い",
+        "reading": "ふるまい",
+        "meaning": "hành vi, cách ứng xử, cách ứng xử, sự giải trí, chiêu đãi, bữa tiệc, bữa tiệc"
+      },
+      {
+        "example": "振れる",
+        "reading": "ふれる",
+        "meaning": "đung đưa, lắc lư, vẫy tay, xoay người, làm chệch hướng, nghiêng về phía"
+      },
+      {
+        "example": "振るう",
+        "reading": "ふるう",
+        "meaning": "vung, sử dụng (thể chất), nỗ lực, tập thể dục (ví dụ: sức mạnh, khả năng), triển lãm, hiển thị, sử dụng (ẩn dụ), phát triển, thịnh vượng, phát triển mạnh"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "厂",
+      "扎",
+      "衣",
+      "辰"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25391_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0632f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/632f.gif",
+    "uri": "https://jisho.org/search/%E6%8C%AF%23kanji"
+  }
+}

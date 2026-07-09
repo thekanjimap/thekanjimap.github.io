@@ -1,0 +1,73 @@
+{
+  "id": "鮭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鮭",
+    "found": true,
+    "newspaperFrequencyRank": "2477",
+    "strokeCount": 17,
+    "meaning": "cá hồi",
+    "kunyomi": [
+      "さけ",
+      "しゃけ",
+      "ふぐ"
+    ],
+    "onyomi": [
+      "カイ",
+      "ケイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鮭児",
+        "reading": "ケイジ",
+        "meaning": "keiji, cá hồi chum non"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鮭",
+        "reading": "さけ",
+        "meaning": "cá hồi (Salmonidae spp.), cá hồi chum (Oncorhynchus keta)"
+      },
+      {
+        "example": "鮭缶",
+        "reading": "さけかん",
+        "meaning": "cá hồi đóng hộp, cá hồi đóng hộp"
+      },
+      {
+        "example": "大西洋鮭",
+        "reading": "たいせいようさけ",
+        "meaning": "Cá hồi Đại Tây Dương (Salmo salmar)"
+      },
+      {
+        "example": "焼き鮭",
+        "reading": "やきしゃけ",
+        "meaning": "cá hồi nướng"
+      },
+      {
+        "example": "鮭",
+        "reading": "さけ",
+        "meaning": "cá hồi (Salmonidae spp.), cá hồi chum (Oncorhynchus keta)"
+      },
+      {
+        "example": "焼き鮭",
+        "reading": "やきしゃけ",
+        "meaning": "cá hồi nướng"
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "cá"
+    },
+    "parts": [
+      "土",
+      "杰",
+      "田",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39853_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09bad.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9bad.gif",
+    "uri": "https://jisho.org/search/%E9%AE%AD%23kanji"
+  }
+}

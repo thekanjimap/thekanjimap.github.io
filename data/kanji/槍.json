@@ -1,0 +1,76 @@
+{
+  "id": "槍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "槍",
+    "found": true,
+    "newspaperFrequencyRank": "2261",
+    "strokeCount": 14,
+    "meaning": "giáo, giáo, lao",
+    "kunyomi": [
+      "やり"
+    ],
+    "onyomi": [
+      "ソウ",
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "槍騎兵",
+        "reading": "ソウキヘイ",
+        "meaning": "thương gia"
+      },
+      {
+        "example": "槍術",
+        "reading": "ソウジュツ",
+        "meaning": "thương thuật"
+      },
+      {
+        "example": "聖槍",
+        "reading": "セイソウ",
+        "meaning": "thánh thương, giáo thánh"
+      },
+      {
+        "example": "弓馬刀槍",
+        "reading": "キュウバトウソウ",
+        "meaning": "bắn cung, cưỡi ngựa, giáo và kiếm thuật, võ thuật nói chung"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "槍",
+        "reading": "やり",
+        "meaning": "giáo, giáo, lao, giáo, chế nhạo"
+      },
+      {
+        "example": "槍烏賊",
+        "reading": "やりいか",
+        "meaning": "mực giáo (Loligo bleekeri)"
+      },
+      {
+        "example": "長槍",
+        "reading": "ながやり",
+        "meaning": "giáo dài, giáo"
+      },
+      {
+        "example": "毛槍",
+        "reading": "けやり",
+        "meaning": "keyari, ngọn giáo trang trí dài có gắn lông vũ được dẫn đầu đoàn rước của daimyo"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "一",
+      "个",
+      "口",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27085_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069cd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69cd.gif",
+    "uri": "https://jisho.org/search/%E6%A7%8D%23kanji"
+  }
+}

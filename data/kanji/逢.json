@@ -1,0 +1,61 @@
+{
+  "id": "逢",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "逢",
+    "found": true,
+    "newspaperFrequencyRank": "2116",
+    "strokeCount": 10,
+    "meaning": "gặp gỡ, hẹn hò, hẹn hò",
+    "kunyomi": [
+      "あ.う",
+      "むか.える"
+    ],
+    "onyomi": [
+      "ホウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "逢着",
+        "reading": "ホウチャク",
+        "meaning": "chạm trán, đối mặt, chạm trán, gặp phải"
+      },
+      {
+        "example": "遭逢",
+        "reading": "ソウホウ",
+        "meaning": "tình cờ gặp, gặp phải, tình cờ gặp phải"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "会う",
+        "reading": "あう",
+        "meaning": "gặp, chạm trán, gặp, gặp tai nạn, có trải nghiệm tồi tệ"
+      },
+      {
+        "example": "逢うは別れの始め",
+        "reading": "あうはわかれのはじめ",
+        "meaning": "Chúng ta gặp nhau chỉ để chia tay, gặp gỡ là bước đầu tiên của chia tay"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "đi bộ"
+    },
+    "parts": [
+      "二",
+      "夂",
+      "込",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36898_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09022.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9022.gif",
+    "uri": "https://jisho.org/search/%E9%80%A2%23kanji"
+  }
+}

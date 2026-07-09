@@ -1,0 +1,70 @@
+{
+  "id": "橙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "橙",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "cam đắng",
+    "kunyomi": [
+      "だいだい"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "橙色",
+        "reading": "ダイダイイロ",
+        "meaning": "màu cam (màu sắc, màu sắc)"
+      },
+      {
+        "example": "橙黄色",
+        "reading": "トウコウショク",
+        "meaning": "màu cam (màu)"
+      },
+      {
+        "example": "九蓮宝燈",
+        "reading": "チューレンポートー",
+        "meaning": "chín cổng, ván bài chiến thắng bao gồm 1-1-1-2-3-4-5-6-7-8-9-9-9 của cùng một bộ cộng thêm một ô bổ sung của cùng một bộ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "橙",
+        "reading": "だいだい",
+        "meaning": "cam đắng (Citrus aurantium), cam chua, cam Seville, cam (màu sắc, màu sắc)"
+      },
+      {
+        "example": "橙色",
+        "reading": "だいだいいろ",
+        "meaning": "màu cam (màu sắc, màu sắc)"
+      },
+      {
+        "example": "薄橙",
+        "reading": "うすだいだい",
+        "meaning": "màu cam nhạt (màu)"
+      },
+      {
+        "example": "夏橙",
+        "reading": "なつだいだい",
+        "meaning": "natsumikan (Citrus natsudaidai), cam mùa hè Nhật Bản"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "口",
+      "并",
+      "木",
+      "癶",
+      "豆"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27225_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a59.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a59.gif",
+    "uri": "https://jisho.org/search/%E6%A9%99%23kanji"
+  }
+}

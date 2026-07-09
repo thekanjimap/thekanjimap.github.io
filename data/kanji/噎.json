@@ -1,0 +1,46 @@
+{
+  "id": "噎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "噎",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "nghẹt thở, bóp nghẹt",
+    "kunyomi": [
+      "む.せる",
+      "むせ.ぶ"
+    ],
+    "onyomi": [
+      "イツ",
+      "エツ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "噎せる",
+        "reading": "むせる",
+        "meaning": "bị bóp nghẹt, bị bóp nghẹt, bị bóp nghẹt bởi"
+      },
+      {
+        "example": "咽ぶ",
+        "reading": "むせぶ",
+        "meaning": "bị bóp nghẹt, bị bóp nghẹt, bị bóp nghẹt"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "冖",
+      "口",
+      "士",
+      "并",
+      "豆"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22094_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0564e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/564e.gif",
+    "uri": "https://jisho.org/search/%E5%99%8E%23kanji"
+  }
+}

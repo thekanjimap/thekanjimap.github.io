@@ -1,0 +1,63 @@
+{
+  "id": "撞",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "撞",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "đâm, đâm, đâm, chích",
+    "kunyomi": [
+      "つ.く"
+    ],
+    "onyomi": [
+      "ドウ",
+      "トウ",
+      "シュ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "撞球",
+        "reading": "ドウキュウ",
+        "meaning": "bi-a"
+      },
+      {
+        "example": "撞着",
+        "reading": "ドウチャク",
+        "meaning": "mâu thuẫn"
+      },
+      {
+        "example": "撞木",
+        "reading": "シュモク",
+        "meaning": "Búa chuông gỗ hình chữ T"
+      },
+      {
+        "example": "撞木鮫",
+        "reading": "シュモクザメ",
+        "meaning": "cá mập đầu búa"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "突く",
+        "reading": "つく",
+        "meaning": "chích, đâm, chọc, chọc, đẩy, đẩy, huých, đánh, đánh, dùng (gậy), chống đỡ, ấn vào (sàn nhà, v.v.), tấn công, dũng cảm (mưa, v.v.)"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "扎",
+      "立",
+      "里"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25758_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0649e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/649e.gif",
+    "uri": "https://jisho.org/search/%E6%92%9E%23kanji"
+  }
+}

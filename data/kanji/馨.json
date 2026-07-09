@@ -1,0 +1,72 @@
+{
+  "id": "馨",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "馨",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2164",
+    "strokeCount": 20,
+    "meaning": "thơm, êm dịu, thuận lợi",
+    "kunyomi": [
+      "かお.る",
+      "かおり"
+    ],
+    "onyomi": [
+      "ケイ",
+      "キョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "馨香",
+        "reading": "ケイコウ",
+        "meaning": "hương thơm, nước hoa, hương thơm, danh dự, danh dự, danh tiếng"
+      },
+      {
+        "example": "素馨",
+        "reading": "ソケイ",
+        "meaning": "Hoa nhài Tây Ban Nha (Jasminum grandiflorum)"
+      },
+      {
+        "example": "黄素馨",
+        "reading": "キソケイ",
+        "meaning": "Hoa nhài Ý (Jasminum humile var. revolutum), hoa nhài màu vàng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "香る",
+        "reading": "かおる",
+        "meaning": "có mùi ngọt ngào, có mùi thơm"
+      },
+      {
+        "example": "香り",
+        "reading": "かおり",
+        "meaning": "hương thơm, hương thơm, hương thơm, mùi thơm"
+      },
+      {
+        "example": "香り立つ",
+        "reading": "かおりたつ",
+        "meaning": "có mùi thơm, có mùi thơm dễ chịu"
+      }
+    ],
+    "radical": {
+      "symbol": "香",
+      "meaning": "hương thơm"
+    },
+    "parts": [
+      "几",
+      "又",
+      "士",
+      "尸",
+      "日",
+      "殳",
+      "禾",
+      "香"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39336_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099a8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99a8.gif",
+    "uri": "https://jisho.org/search/%E9%A6%A8%23kanji"
+  }
+}

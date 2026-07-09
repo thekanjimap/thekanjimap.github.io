@@ -1,0 +1,53 @@
+{
+  "id": "藜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "藜",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "chân ngỗng, rau bina hoang dã",
+    "kunyomi": [
+      "あかざ"
+    ],
+    "onyomi": [
+      "レイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "藜",
+        "reading": "あかざ",
+        "meaning": "cỏ ngỗng trắng (album Chenopodium), gà mái béo, thịt cừu, cỏ lợn"
+      },
+      {
+        "example": "藜海老",
+        "reading": "あかざえび",
+        "meaning": "Tôm hùm Nhật Bản (Metanephrops japonicus)"
+      },
+      {
+        "example": "浜藜",
+        "reading": "はまあかざ",
+        "meaning": "cây muối bằng sáng chế (Atriplex subcordata), rau sam biển"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "个",
+      "勹",
+      "水",
+      "禾",
+      "艾",
+      "黍"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34268_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085dc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85dc.gif",
+    "uri": "https://jisho.org/search/%E8%97%9C%23kanji"
+  }
+}

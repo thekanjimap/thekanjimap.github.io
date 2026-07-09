@@ -1,0 +1,48 @@
+{
+  "id": "褻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "褻",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "bẩn thỉu",
+    "kunyomi": [
+      "けが.れる",
+      "な.れる"
+    ],
+    "onyomi": [
+      "セツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "猥褻",
+        "reading": "ワイセツ",
+        "meaning": "tục tĩu, không đứng đắn, bẩn thỉu, không đứng đắn"
+      },
+      {
+        "example": "強制わいせつ",
+        "reading": "キョウセイワイセツ",
+        "meaning": "sự tấn công không đứng đắn, sự cưỡng ép không đứng đắn"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "quần áo"
+    },
+    "parts": [
+      "丶",
+      "九",
+      "亠",
+      "土",
+      "衣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35131_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0893b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/893b.gif",
+    "uri": "https://jisho.org/search/%E8%A4%BB%23kanji"
+  }
+}

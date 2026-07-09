@@ -1,0 +1,69 @@
+{
+  "id": "箭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "箭",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "mũi tên",
+    "kunyomi": [
+      "や"
+    ],
+    "onyomi": [
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "弓箭",
+        "reading": "キュウセン",
+        "meaning": "cung và mũi tên, cánh tay, vũ khí, cung thủ, chiến binh, chiến đấu bằng cung tên, chiến tranh, trận chiến"
+      },
+      {
+        "example": "火矢",
+        "reading": "ヒヤ",
+        "meaning": "mũi tên lửa, mũi tên cháy, tên lửa"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "矢",
+        "reading": "や",
+        "meaning": "mũi tên, nêm, nghẹt"
+      },
+      {
+        "example": "矢竹",
+        "reading": "やだけ",
+        "meaning": "trục mũi tên tre, mũi tên tre (Pseudosasa japonica)"
+      },
+      {
+        "example": "弓矢",
+        "reading": "ゆみや",
+        "meaning": "cung tên, vũ khí, cánh tay"
+      },
+      {
+        "example": "大矢",
+        "reading": "おおや",
+        "meaning": "mũi tên dài, người có thể bắn mũi tên dài"
+      }
+    ],
+    "radical": {
+      "symbol": "竹",
+      "forms": [
+        "⺮"
+      ],
+      "meaning": "tre"
+    },
+    "parts": [
+      "一",
+      "乞",
+      "刈",
+      "并",
+      "月",
+      "竹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31661_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07bad.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7bad.gif",
+    "uri": "https://jisho.org/search/%E7%AE%AD%23kanji"
+  }
+}

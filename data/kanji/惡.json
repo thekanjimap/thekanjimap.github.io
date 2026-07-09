@@ -1,0 +1,54 @@
+{
+  "id": "惡",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "惡",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "xấu, ác",
+    "kunyomi": [
+      "わる.い",
+      "あ.し",
+      "にく.い",
+      "ああ",
+      "いずくに",
+      "いずくんぞ",
+      "にく.む"
+    ],
+    "onyomi": [
+      "アク",
+      "オ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "悪",
+        "reading": "アク",
+        "meaning": "cái ác, sự độc ác, (vai) nhân vật phản diện (trong rạp hát, v.v.), kẻ xấu"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "悪い",
+        "reading": "わるい",
+        "meaning": "xấu, nghèo, không mong muốn, kém (chất lượng), thấp kém, không đủ, xấu xa, tội lỗi, xấu xí, không đẹp, có lỗi, đáng trách, sai, xấu (khi làm điều gì đó), không có lợi, không có lợi, xin lỗi, (của tôi) xấu, không thể tha thứ"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "一",
+      "二",
+      "心"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24801_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060e1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60e1.gif",
+    "uri": "https://jisho.org/search/%E6%83%A1%23kanji"
+  }
+}

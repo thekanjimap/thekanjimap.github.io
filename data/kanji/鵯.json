@@ -1,0 +1,65 @@
+{
+  "id": "鵯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鵯",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "chào mào tai nâu",
+    "kunyomi": [
+      "ひよどり"
+    ],
+    "onyomi": [
+      "ヒ",
+      "ヒツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鵯",
+        "reading": "ヒヨドリ",
+        "meaning": "chào mào tai nâu (Hypsipetes amaurotis)"
+      },
+      {
+        "example": "鵯上戸",
+        "reading": "ヒヨドリジョウゴ",
+        "meaning": "Solanum lyratum (loài cà dược)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鵯",
+        "reading": "ひよどり",
+        "meaning": "chào mào tai nâu (Hypsipetes amaurotis)"
+      },
+      {
+        "example": "鵯上戸",
+        "reading": "ひよどりじょうご",
+        "meaning": "Solanum lyratum (loài cà dược)"
+      },
+      {
+        "example": "磯鵯",
+        "reading": "いそひよどり",
+        "meaning": "loài tưa đá xanh (Monticola solitarius)"
+      },
+      {
+        "example": "【ヨツバヒヨドリ】",
+        "reading": "Eupatorium glehnii (boneset species)",
+        "meaning": ""
+      }
+    ],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "chim"
+    },
+    "parts": [
+      "十",
+      "杰",
+      "田",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40303_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d6f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d6f.gif",
+    "uri": "https://jisho.org/search/%E9%B5%AF%23kanji"
+  }
+}

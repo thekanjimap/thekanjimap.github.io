@@ -1,0 +1,64 @@
+{
+  "id": "帖",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "帖",
+    "found": true,
+    "newspaperFrequencyRank": "2208",
+    "strokeCount": 8,
+    "meaning": "quire (bằng giấy), bó rong biển, quầy đựng màn hình, sổ ghi chép",
+    "kunyomi": [
+      "かきもの"
+    ],
+    "onyomi": [
+      "チョウ",
+      "ジョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "帖合",
+        "reading": "チョウアイ",
+        "meaning": "loại hình hệ thống hoa hồng trong ngành sách ở Nhật Bản"
+      },
+      {
+        "example": "捕物帳",
+        "reading": "トリモノチョウ",
+        "meaning": "truyện trinh thám (đặc biệt là truyện thời Edo kể về những kẻ bắt trộm), hồi ký của thám tử, hồi ký của kẻ trộm"
+      },
+      {
+        "example": "写生帖",
+        "reading": "シャセイチョウ",
+        "meaning": "sổ phác thảo"
+      },
+      {
+        "example": "帖",
+        "reading": "ジョウ",
+        "meaning": "sách gấp, quầy đựng giấy và nori (48 trang giấy Mino; 20 trang hanshi; 10 tờ nori), quầy gấp sách, màn gấp, tấm chắn, v.v., quầy cặp (rèm cửa), quầy chiếu tatami"
+      },
+      {
+        "example": "法帖",
+        "reading": "ホウジョウ",
+        "meaning": "sách in từ tác phẩm của các bậc thầy thư pháp xưa"
+      },
+      {
+        "example": "画帖",
+        "reading": "ガジョウ",
+        "meaning": "tập ảnh"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "巾",
+      "meaning": "khăn xếp, khăn quàng cổ"
+    },
+    "parts": [
+      "卜",
+      "口",
+      "巾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24086_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e16.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e16.gif",
+    "uri": "https://jisho.org/search/%E5%B8%96%23kanji"
+  }
+}

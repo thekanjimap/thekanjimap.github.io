@@ -1,0 +1,50 @@
+{
+  "id": "宋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "宋",
+    "found": true,
+    "newspaperFrequencyRank": "2058",
+    "strokeCount": 7,
+    "meaning": "ở, nhà Tống",
+    "kunyomi": [],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "宋",
+        "reading": "ソウ",
+        "meaning": "Nhà Tống (của Trung Quốc; 960-1279), nhà Tống, nhà Lưu Tống (của Trung Quốc; 420-479), nhà Lưu Sung, nhà Tống (nhà nước Trung Quốc cổ đại; thế kỷ 11-286 TCN), nhà Tống"
+      },
+      {
+        "example": "宋音",
+        "reading": "ソウオン",
+        "meaning": "sō-on, đọc bài hát, đọc chữ kanji dựa trên thời nhà Tống và sau này là tiếng Trung Quốc (đặc biệt là những từ liên quan đến Thiền tông)"
+      },
+      {
+        "example": "北宋",
+        "reading": "ホクソウ",
+        "meaning": "Triều đại Bắc Tống (của Trung Quốc; 960-1127)"
+      },
+      {
+        "example": "入宋",
+        "reading": "ニッソウ",
+        "meaning": "hành trình đến nhà Tống Trung Quốc trong thời Heian và Kamakura"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "宀",
+      "meaning": "mái nhà"
+    },
+    "parts": [
+      "宀",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23435_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b8b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b8b.gif",
+    "uri": "https://jisho.org/search/%E5%AE%8B%23kanji"
+  }
+}

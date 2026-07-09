@@ -1,0 +1,59 @@
+{
+  "id": "蠱",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蠱",
+    "found": true,
+    "strokeCount": 23,
+    "meaning": "sâu lúa, dẫn lạc lối",
+    "kunyomi": [
+      "まじ",
+      "まじこ.る"
+    ],
+    "onyomi": [
+      "コ",
+      "ヤ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蠱毒",
+        "reading": "コドク",
+        "meaning": "đầu độc ai đó"
+      },
+      {
+        "example": "蠱惑",
+        "reading": "コワク",
+        "meaning": "sự quyến rũ, sự quyến rũ, sự quyến rũ, sự mê hoặc, sự quyến rũ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蠱",
+        "reading": "まじ",
+        "meaning": "bị mê hoặc và bị nguyền rủa, điều gì đó làm hoang mang, điều gì đó khiến người ta lạc lối, công việc của ma quỷ"
+      },
+      {
+        "example": "蠱る",
+        "reading": "まじこる",
+        "meaning": "bị thu hút bởi điều gì đó độc ác, bị điều gì đó độc ác chinh phục"
+      },
+      {
+        "example": "蠱る",
+        "reading": "まじこる",
+        "meaning": "bị thu hút bởi điều gì đó độc ác, bị điều gì đó độc ác chinh phục"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "côn trùng"
+    },
+    "parts": [
+      "皿",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34865_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08831.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8831.gif",
+    "uri": "https://jisho.org/search/%E8%A0%B1%23kanji"
+  }
+}

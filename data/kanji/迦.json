@@ -1,0 +1,57 @@
+{
+  "id": "迦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "迦",
+    "found": true,
+    "newspaperFrequencyRank": "2160",
+    "strokeCount": 8,
+    "meaning": "(dùng theo ngữ âm)",
+    "kunyomi": [],
+    "onyomi": [
+      "カ",
+      "ケ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "迦具土神",
+        "reading": "カグツチノカミ",
+        "meaning": "Kagutsuchi, vị thần lửa đã thiêu chết mẹ anh là Izanami khi sinh con (và do đó bị cha anh là Izanagi chặt đầu)"
+      },
+      {
+        "example": "迦葉仏",
+        "reading": "カショウブツ",
+        "meaning": "Phật Kassapa, Phật Kasyapa, Phật Kashyapa"
+      },
+      {
+        "example": "釈迦",
+        "reading": "シャカ",
+        "meaning": "Đức Phật Gautama, Thích Ca Mâu Ni, Đức Phật lịch sử"
+      },
+      {
+        "example": "底野迦",
+        "reading": "テリアカ",
+        "meaning": "theriac (thuốc giải độc)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "đi bộ"
+    },
+    "parts": [
+      "力",
+      "口",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36838_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08fe6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8fe6.gif",
+    "uri": "https://jisho.org/search/%E8%BF%A6%23kanji"
+  }
+}

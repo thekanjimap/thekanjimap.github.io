@@ -1,0 +1,57 @@
+{
+  "id": "黛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "黛",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2254",
+    "strokeCount": 16,
+    "meaning": "lông mày đen",
+    "kunyomi": [
+      "まゆずみ"
+    ],
+    "onyomi": [
+      "タイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "黛青",
+        "reading": "タイセイ",
+        "meaning": "xanh đen"
+      },
+      {
+        "example": "翠黛",
+        "reading": "スイタイ",
+        "meaning": "chì kẻ mày xanh, mày xanh bóng, xanh mờ (núi xa)"
+      },
+      {
+        "example": "青黛",
+        "reading": "セイタイ",
+        "meaning": "chì kẻ mày màu xanh, lông mày xanh, xanh đậm, xanh đậm"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "眉墨",
+        "reading": "まゆずみ",
+        "meaning": "bút chì kẻ lông mày, lông mày đen, dãy núi xa (ẩn dụ)"
+      }
+    ],
+    "radical": {
+      "symbol": "黑",
+      "meaning": "màu đen"
+    },
+    "parts": [
+      "化",
+      "弋",
+      "杰",
+      "里",
+      "黒"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40667_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09edb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9edb.gif",
+    "uri": "https://jisho.org/search/%E9%BB%9B%23kanji"
+  }
+}

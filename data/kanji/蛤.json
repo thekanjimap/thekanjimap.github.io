@@ -1,0 +1,53 @@
+{
+  "id": "蛤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蛤",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "ngao",
+    "kunyomi": [
+      "はまぐり"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "蛤",
+        "reading": "はまぐり",
+        "meaning": "Nghêu phương Đông (Meretrix lusoria)"
+      },
+      {
+        "example": "蛤御門の変",
+        "reading": "はまぐりごもんのへん",
+        "meaning": "Sự kiện Hamaguri Gomon (xung đột năm 1864 giữa lực lượng ủng hộ và chống Mạc phủ)"
+      },
+      {
+        "example": "焼きハマグリ",
+        "reading": "やきはまぐり",
+        "meaning": "nghêu nướng, ngao nướng"
+      },
+      {
+        "example": "支那蛤",
+        "reading": "しなはまぐり",
+        "meaning": "Meretrix petechialis (loài nghêu)"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "côn trùng"
+    },
+    "parts": [
+      "一",
+      "个",
+      "口",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34532_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086e4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86e4.gif",
+    "uri": "https://jisho.org/search/%E8%9B%A4%23kanji"
+  }
+}

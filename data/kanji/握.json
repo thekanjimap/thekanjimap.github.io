@@ -1,0 +1,66 @@
+{
+  "id": "握",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "握",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1003",
+    "strokeCount": 12,
+    "meaning": "nắm, giữ, nặn sushi, hối lộ",
+    "kunyomi": [
+      "にぎ.る"
+    ],
+    "onyomi": [
+      "アク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "握手",
+        "reading": "アクシュ",
+        "meaning": "bắt tay, hòa giải, chung tay, hợp tác"
+      },
+      {
+        "example": "握力",
+        "reading": "アクリョク",
+        "meaning": "độ nắm (của bàn tay), độ bám"
+      },
+      {
+        "example": "一握",
+        "reading": "イチアク",
+        "meaning": "một số ít (của)"
+      },
+      {
+        "example": "動向把握",
+        "reading": "ドウコウハアク",
+        "meaning": "nắm bắt xu hướng, hiểu rõ tình hình đang phát triển như thế nào, hiểu rõ mọi thứ đang thay đổi như thế nào"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "握る",
+        "reading": "にぎる",
+        "meaning": "kẹp, nắm, nắm, nắm, giữ (câu trả lời), có (ví dụ: giải pháp), là chìa khóa, là lý do, nắm giữ (quyền lực), giữ (dây cương), thống trị, kiểm soát, làm (nigirizushi, cơm nắm, v.v.), tạo hình (bằng tay), ấn thành hình, tạo khuôn, tạo khuôn"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "厶",
+      "土",
+      "尸",
+      "扎",
+      "至"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25569_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063e1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63e1.gif",
+    "uri": "https://jisho.org/search/%E6%8F%A1%23kanji"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "桁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "桁",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "strokeCount": 10,
+    "meaning": "dầm, dầm, xà, đơn vị hoặc cột (kế toán)",
+    "kunyomi": [
+      "けた"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "桁端",
+        "reading": "コウタン",
+        "meaning": "yardarm"
+      },
+      {
+        "example": "衣桁",
+        "reading": "イコウ",
+        "meaning": "giá treo quần áo"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "桁",
+        "reading": "けた",
+        "meaning": "cột, chùm tia, dầm, xà ngang, cột, sân, chữ số, thập kỷ, thứ tự độ lớn"
+      },
+      {
+        "example": "桁上り",
+        "reading": "けたあがり",
+        "meaning": "mang theo (chữ số, bit, v.v.)"
+      },
+      {
+        "example": "有効桁",
+        "reading": "ゆうこうけた",
+        "meaning": "chữ số có nghĩa"
+      },
+      {
+        "example": "翼桁",
+        "reading": "よくけた",
+        "meaning": "(cánh) xà ngang"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "彳",
+      "木",
+      "行"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26689_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06841.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6841.gif",
+    "uri": "https://jisho.org/search/%E6%A1%81%23kanji"
+  }
+}

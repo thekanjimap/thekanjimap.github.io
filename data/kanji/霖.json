@@ -1,0 +1,58 @@
+{
+  "id": "霖",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "霖",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "cơn mưa kéo dài",
+    "kunyomi": [
+      "ながあめ",
+      "ながめ"
+    ],
+    "onyomi": [
+      "リン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "霖雨",
+        "reading": "リンウ",
+        "meaning": "cơn mưa kéo dài"
+      },
+      {
+        "example": "梅霖",
+        "reading": "バイリン",
+        "meaning": "mùa mưa"
+      },
+      {
+        "example": "秋霖",
+        "reading": "シュウリン",
+        "meaning": "những cơn mưa mùa thu kéo dài, mặt tiền mùa thu tĩnh lặng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "長雨",
+        "reading": "ながあめ",
+        "meaning": "cơn mưa kéo dài"
+      },
+      {
+        "example": "長雨",
+        "reading": "ながあめ",
+        "meaning": "cơn mưa kéo dài"
+      }
+    ],
+    "radical": {
+      "symbol": "雨",
+      "meaning": "mưa"
+    },
+    "parts": [
+      "木",
+      "雨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38678_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09716.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9716.gif",
+    "uri": "https://jisho.org/search/%E9%9C%96%23kanji"
+  }
+}

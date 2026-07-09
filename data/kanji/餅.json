@@ -1,0 +1,99 @@
+{
+  "id": "餅",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "餅",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "newspaperFrequencyRank": "2152",
+    "strokeCount": 14,
+    "meaning": "bánh gạo mochi",
+    "kunyomi": [
+      "もち",
+      "もちい"
+    ],
+    "onyomi": [
+      "ヘイ",
+      "ヒョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "餅餤",
+        "reading": "ベイダン",
+        "meaning": "Bánh ngọt thời Heian làm từ trứng vịt hoặc trứng ngỗng trộn với rau luộc và bọc trong mochi sau đó cắt thành hình vuông"
+      },
+      {
+        "example": "餅盤",
+        "reading": "ヘイバン",
+        "meaning": "đá vôi"
+      },
+      {
+        "example": "画餅",
+        "reading": "ガベイ",
+        "meaning": "thứ gì đó vô dụng, hình ảnh bánh gạo"
+      },
+      {
+        "example": "供餅",
+        "reading": "クモチ",
+        "meaning": "bánh gạo mochi dùng làm đồ cúng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "餅",
+        "reading": "もち",
+        "meaning": "mochi, bánh gạo nhỏ làm từ gạo nếp"
+      },
+      {
+        "example": "餅網",
+        "reading": "もちあみ",
+        "meaning": "nướng hoặc nướng bánh gạo"
+      },
+      {
+        "example": "椿餅",
+        "reading": "つばいもちい",
+        "meaning": "Bánh gạo ngọt ngào kẹp giữa hai lá trà"
+      },
+      {
+        "example": "五平餅",
+        "reading": "ごへいもち",
+        "meaning": "bánh gạo ngọt xiên ăn kèm nước tương và miso"
+      },
+      {
+        "example": "餅いなり",
+        "reading": "もちいなり",
+        "meaning": "xôi bọc đậu phụ chiên giòn"
+      },
+      {
+        "example": "椿餅",
+        "reading": "つばいもちい",
+        "meaning": "Bánh gạo ngọt ngào kẹp giữa hai lá trà"
+      },
+      {
+        "example": "愛敬の餅",
+        "reading": "あいきょうのもちい",
+        "meaning": "Nghi lễ thời Heian nơi chú rể và cô dâu mới cưới ăn bánh gạo vào đêm thứ ba sau lễ cưới"
+      }
+    ],
+    "radical": {
+      "symbol": "食",
+      "forms": [
+        "飠"
+      ],
+      "meaning": "ăn, thức ăn"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "二",
+      "并",
+      "廾",
+      "食",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39173_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09905.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9905.gif",
+    "uri": "https://jisho.org/search/%E9%A4%85%23kanji"
+  }
+}

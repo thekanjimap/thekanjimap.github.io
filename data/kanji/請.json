@@ -1,0 +1,110 @@
+{
+  "id": "請",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "請",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "524",
+    "strokeCount": 15,
+    "meaning": "xin, mời, hỏi",
+    "kunyomi": [
+      "こ.う",
+      "う.ける"
+    ],
+    "onyomi": [
+      "セイ",
+      "シン",
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "請求",
+        "reading": "セイキュウ",
+        "meaning": "yêu cầu, yêu cầu, tính phí, ứng dụng, yêu cầu, thanh toán (cho một dịch vụ)"
+      },
+      {
+        "example": "請願",
+        "reading": "セイガン",
+        "meaning": "lời thỉnh cầu"
+      },
+      {
+        "example": "招請",
+        "reading": "ショウセイ",
+        "meaning": "lời mời"
+      },
+      {
+        "example": "懇請",
+        "reading": "コンセイ",
+        "meaning": "lời kêu gọi, lời cầu xin, yêu cầu"
+      },
+      {
+        "example": "普請",
+        "reading": "フシン",
+        "meaning": "xây dựng, nỗ lực xây dựng, nỗ lực nhóm của các hành giả Phật giáo, các hoạt động nhóm của một cộng đồng (ví dụ: dọn dẹp, v.v.)"
+      },
+      {
+        "example": "安普請",
+        "reading": "ヤスブシン",
+        "meaning": "cấu trúc giá rẻ (ví dụ: nhà ở)"
+      },
+      {
+        "example": "請",
+        "reading": "ショウ",
+        "meaning": "yêu cầu, lời mời, đặc quyền trong luật hình sự dành cho quý tộc từ cấp thứ năm trở lên (hệ thống ritsuryō)"
+      },
+      {
+        "example": "招待",
+        "reading": "ショウタイ",
+        "meaning": "lời mời"
+      },
+      {
+        "example": "招請",
+        "reading": "ショウセイ",
+        "meaning": "lời mời"
+      },
+      {
+        "example": "拝請",
+        "reading": "ハイショウ",
+        "meaning": "khiêm tốn mời gọi"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "乞う",
+        "reading": "こう",
+        "meaning": "cầu xin, yêu cầu, yêu cầu, mời gọi, cầu nguyện, ước muốn"
+      },
+      {
+        "example": "乞うご期待",
+        "reading": "こうごきたい",
+        "meaning": "đừng bỏ lỡ, hãy theo dõi, sắp ra mắt, hãy chờ đợi nhé"
+      },
+      {
+        "example": "受ける",
+        "reading": "うける",
+        "meaning": "nhận, được, bắt (ví dụ một quả bóng), bị (gió, sóng, ánh sáng mặt trời, v.v.), duy trì (thiệt hại), chịu (mất mát), đau khổ (chấn thương), cảm thấy (ảnh hưởng), trải qua (ví dụ như phẫu thuật), thực hiện (một bài kiểm tra), chấp nhận (một thử thách), được cho (ví dụ như cuộc sống, tài năng), tìm thấy sự hài hước, thấy hài hước, thích thú (bởi), đi theo, thành công, được xuất thân, đối mặt (miền nam, v.v.), được sửa đổi bởi, để có được (một món đồ cầm đồ, v.v.) bằng cách trả một khoản phí, được đón nhận nồng nhiệt, trở nên phổ biến, đi xuống tốt"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "lời nói"
+    },
+    "parts": [
+      "二",
+      "亠",
+      "土",
+      "月",
+      "言",
+      "青"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35531_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08acb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8acb.gif",
+    "uri": "https://jisho.org/search/%E8%AB%8B%23kanji"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "拳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "拳",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1935",
+    "strokeCount": 10,
+    "meaning": "nắm tay",
+    "kunyomi": [
+      "こぶし"
+    ],
+    "onyomi": [
+      "ケン",
+      "ゲン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "拳",
+        "reading": "ケン",
+        "meaning": "trò chơi bằng tay (ví dụ: oẳn tù tì)"
+      },
+      {
+        "example": "拳銃",
+        "reading": "ケンジュウ",
+        "meaning": "súng lục, súng ngắn"
+      },
+      {
+        "example": "形意拳",
+        "reading": "ケイイケン",
+        "meaning": "nắm đấm hình-tâm, Hsing I Chuan"
+      },
+      {
+        "example": "五形拳",
+        "reading": "ゴケイケン",
+        "meaning": "Nắm đấm Wu Xing, nắm đấm năm dạng (Rồng, rắn, hổ, hạc, báo)"
+      },
+      {
+        "example": "拳骨",
+        "reading": "ゲンコツ",
+        "meaning": "(nghiền) nắm tay, đốt ngón tay"
+      },
+      {
+        "example": "拳固",
+        "reading": "ゲンコ",
+        "meaning": "nắm tay"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "拳",
+        "reading": "こぶし",
+        "meaning": "nắm tay"
+      },
+      {
+        "example": "こぶし大",
+        "reading": "こぶしだい",
+        "meaning": "cỡ nắm tay"
+      },
+      {
+        "example": "【ツノナガコブシ】",
+        "reading": "pebble crab (Leucosia anatum)",
+        "meaning": ""
+      },
+      {
+        "example": "力拳",
+        "reading": "ちからこぶし",
+        "meaning": "nắm tay siết chặt"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "一",
+      "二",
+      "大",
+      "并",
+      "手"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25331_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062f3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62f3.gif",
+    "uri": "https://jisho.org/search/%E6%8B%B3%23kanji"
+  }
+}

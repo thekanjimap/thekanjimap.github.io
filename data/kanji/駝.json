@@ -1,0 +1,49 @@
+{
+  "id": "駝",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "駝",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "gù lưng, tải",
+    "kunyomi": [
+      "せむし"
+    ],
+    "onyomi": [
+      "ダ",
+      "タ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "駝鳥",
+        "reading": "ダチョウ",
+        "meaning": "đà điểu (Struthio Camelus)"
+      },
+      {
+        "example": "双峰駱駝",
+        "reading": "ソウホウラクダ",
+        "meaning": "lạc đà hai bướu, lạc đà Bactrian"
+      },
+      {
+        "example": "単峰駱駝",
+        "reading": "タンポウラクダ",
+        "meaning": "Lạc đà Ả Rập, lạc đà một bướu, lạc đà một bướu"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "馬",
+      "meaning": "con ngựa"
+    },
+    "parts": [
+      "匕",
+      "宀",
+      "杰",
+      "馬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39389_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099dd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99dd.gif",
+    "uri": "https://jisho.org/search/%E9%A7%9D%23kanji"
+  }
+}

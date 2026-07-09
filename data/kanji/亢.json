@@ -1,0 +1,47 @@
+{
+  "id": "亢",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "亢",
+    "found": true,
+    "strokeCount": 4,
+    "meaning": "tinh thần phấn chấn",
+    "kunyomi": [
+      "たかぶる"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "亢",
+        "reading": "コウ",
+        "meaning": "Chòm sao \"Cổ\" Trung Quốc (một trong 28 dinh thự)"
+      },
+      {
+        "example": "興奮",
+        "reading": "コウフン",
+        "meaning": "sự phấn khích, sự kích động, sự kích động, sự kích động"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "高ぶる",
+        "reading": "たかぶる",
+        "meaning": "trở nên phấn khích (về cảm xúc, thần kinh, v.v.), trở nên phấn khích, trở nên phấn khích, trở nên phấn khích, tự hào, kiêu kỳ, khoa trương, tự coi mình là quan trọng"
+      }
+    ],
+    "radical": {
+      "symbol": "亠",
+      "meaning": "nắp"
+    },
+    "parts": [
+      "亠",
+      "几"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20130_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ea2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ea2.gif",
+    "uri": "https://jisho.org/search/%E4%BA%A2%23kanji"
+  }
+}

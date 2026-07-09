@@ -1,0 +1,84 @@
+{
+  "id": "咽",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "咽",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "strokeCount": 9,
+    "meaning": "cổ họng, nghẹn ngào, nghẹt thở, ngột ngạt",
+    "kunyomi": [
+      "むせ.ぶ",
+      "むせ.る",
+      "のど",
+      "の.む"
+    ],
+    "onyomi": [
+      "イン",
+      "エン",
+      "エツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "咽喉",
+        "reading": "インコウ",
+        "meaning": "cổ họng, đường sống, vị trí then chốt"
+      },
+      {
+        "example": "咽喉頭異常感症",
+        "reading": "インコウトウイジョウカンショウ",
+        "meaning": "u họng, khối u ở cổ họng, dị cảm họng thanh quản"
+      },
+      {
+        "example": "嚥下",
+        "reading": "エンゲ",
+        "meaning": "nuốt, tiêu hóa"
+      },
+      {
+        "example": "哀咽",
+        "reading": "アイエツ",
+        "meaning": "nghẹn ngào vì nước mắt"
+      },
+      {
+        "example": "嗚咽",
+        "reading": "オエツ",
+        "meaning": "nức nở, khóc nức nở, khóc nức nở"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "咽ぶ",
+        "reading": "むせぶ",
+        "meaning": "bị bóp nghẹt, bị bóp nghẹt, bị bóp nghẹt"
+      },
+      {
+        "example": "噎せる",
+        "reading": "むせる",
+        "meaning": "bị bóp nghẹt, bị bóp nghẹt, bị bóp nghẹt bởi"
+      },
+      {
+        "example": "喉",
+        "reading": "のど",
+        "meaning": "cổ họng, giọng hát, rãnh nước (lề trong của sách)"
+      },
+      {
+        "example": "喉から手が出る",
+        "reading": "のどからてがでる",
+        "meaning": "(muốn thứ gì đó mãnh liệt đến mức) người ta gần như có thể nếm được nó, một bàn tay vươn ra khỏi cổ họng"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "口",
+      "囗",
+      "大"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21693_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/054bd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/54bd.gif",
+    "uri": "https://jisho.org/search/%E5%92%BD%23kanji"
+  }
+}

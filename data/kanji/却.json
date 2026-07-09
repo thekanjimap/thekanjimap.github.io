@@ -1,0 +1,58 @@
+{
+  "id": "却",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "却",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "959",
+    "strokeCount": 7,
+    "meaning": "thay vào đó, ngược lại, lùi lại, rút lui, rút lui",
+    "kunyomi": [
+      "かえ.って",
+      "しりぞ.く",
+      "しりぞ.ける"
+    ],
+    "onyomi": [
+      "キャク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "焼却",
+        "reading": "ショウキャク",
+        "meaning": "sự đốt cháy, sự phá hủy bằng lửa"
+      },
+      {
+        "example": "償却",
+        "reading": "ショウキャク",
+        "meaning": "sự hoàn trả, sự chuộc lại, sự khấu hao, sự trả dần, sự khấu hao"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "却って",
+        "reading": "かえって",
+        "meaning": "ngược lại, đúng hơn, thay vào đó, hơn thế nữa"
+      },
+      {
+        "example": "退ける",
+        "reading": "しりぞける",
+        "meaning": "từ chối, từ chối, từ chối, bác bỏ, đẩy lùi, đẩy lui, xua đuổi, đánh bại, đánh bại, khiến (ai đó) rời đi, đuổi đi, quay đi, buộc (ai đó) rời khỏi vị trí của họ, lật đổ, loại bỏ, trục xuất"
+      }
+    ],
+    "radical": {
+      "symbol": "卩",
+      "meaning": "quỳ xuống"
+    },
+    "parts": [
+      "卩",
+      "厶",
+      "土"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21364_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05374.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5374.gif",
+    "uri": "https://jisho.org/search/%E5%8D%B4%23kanji"
+  }
+}

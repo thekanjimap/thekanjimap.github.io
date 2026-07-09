@@ -1,0 +1,77 @@
+{
+  "id": "摂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "摂",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1779",
+    "strokeCount": 13,
+    "meaning": "gián tiếp, thay thế, hành động bổ sung, tham gia, hấp thụ",
+    "kunyomi": [
+      "おさ.める",
+      "かね.る",
+      "と.る"
+    ],
+    "onyomi": [
+      "セツ",
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "摂理",
+        "reading": "セツリ",
+        "meaning": "quy luật (của tự nhiên), sự quan phòng (thần thánh)"
+      },
+      {
+        "example": "摂護腺",
+        "reading": "セツゴセン",
+        "meaning": "tuyến tiền liệt"
+      },
+      {
+        "example": "包摂",
+        "reading": "ホウセツ",
+        "meaning": "bao hàm, bao gồm, hàm ý, sự bao hàm"
+      },
+      {
+        "example": "金融包摂",
+        "reading": "キンユウホウセツ",
+        "meaning": "tài chính toàn diện, sự sẵn có và bình đẳng về cơ hội tiếp cận các dịch vụ tài chính"
+      },
+      {
+        "example": "接心",
+        "reading": "セッシン",
+        "meaning": "sự tập trung, thời gian tọa thiền chuyên sâu"
+      },
+      {
+        "example": "摂受",
+        "reading": "ショウジュ",
+        "meaning": "cải đạo ai đó (nhẹ nhàng) sang Phật giáo, cải đạo"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "摂る",
+        "reading": "とる",
+        "meaning": "ăn (ví dụ: bữa trưa), uống (ví dụ: vitamin)"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "冫",
+      "扎",
+      "耳"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25666_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06442.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6442.gif",
+    "uri": "https://jisho.org/search/%E6%91%82%23kanji"
+  }
+}

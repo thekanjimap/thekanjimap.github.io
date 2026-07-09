@@ -1,0 +1,357 @@
+{
+  "id": "停",
+  "kanjialiveData": {
+    "_id": "54317afe791eba5146ee4b69",
+    "_rev": "10-60a2cfff19612185bdedb5adf8770388",
+    "rad_name_ja": "にんべん",
+    "grade": 4,
+    "hint_group": 50,
+    "kunyomi": "Không có",
+    "meaning": "dừng lại, dừng lại",
+    "kstroke": 11,
+    "examples": [
+      {
+        "japanese": "停学（ていがく）",
+        "meaning": {
+          "english": "đình chỉ học"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(shisuru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tei(shisuru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tei(shisuru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tei(shisuru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "停職（ていしょく）",
+        "meaning": {
+          "english": "đình chỉ công việc"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(shisuru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tei(shisuru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tei(shisuru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tei(shisuru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "バス停（バスてい）",
+        "meaning": {
+          "english": "trạm xe buýt"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(shisuru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tei(shisuru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tei(shisuru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tei(shisuru)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "停車する（ていしゃする）",
+        "meaning": {
+          "english": "dừng xe lại"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(shisuru)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tei(shisuru)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tei(shisuru)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tei(shisuru)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "停止する（ていしする）",
+        "meaning": {
+          "english": "dừng lại [v.i., v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(shisuru)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tei(shisuru)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tei(shisuru)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tei(shisuru)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "停電する（ていでんする）",
+        "meaning": {
+          "english": "đi ra ngoài, bị cắt (điện)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(shisuru)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tei(shisuru)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tei(shisuru)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tei(shisuru)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "停戦する（ていせんする）",
+        "meaning": {
+          "english": "đình chỉ chiến sự"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(shisuru)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tei(shisuru)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tei(shisuru)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tei(shisuru)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "停滞する（ていたいする）",
+        "meaning": {
+          "english": "trì trệ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(shisuru)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tei(shisuru)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tei(shisuru)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tei(shisuru)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "調停する（ちょうていする）",
+        "meaning": {
+          "english": "hòa giải"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tei(shisuru)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tei(shisuru)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tei(shisuru)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tei(shisuru)_06_i.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "停",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=停",
+    "kname": "tei(shisuru)",
+    "rad_order": 11,
+    "txt_books": [
+      {
+        "chapter": "12",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtIKB"
+      }
+    ],
+    "rad_name_search": [
+      "ninben"
+    ],
+    "rad_utf": "⺅",
+    "stroketimes": [
+      0,
+      0.866667,
+      2.6,
+      3.733333,
+      4.8,
+      5.533333,
+      6.733333,
+      7.866667,
+      8.533333,
+      10.2,
+      11.133333,
+      14.933333
+    ],
+    "kunyomi_ka_display": "Không có",
+    "dick": "107",
+    "rad_name": "ninben",
+    "dicn": "507",
+    "mn_hint": "Traveler イ stopping at a restaurant 亭 <span class='note'>(high house [102] on the block 丁)</span>.",
+    "rad_stroke": 2,
+    "onyomi_ja": "テイ",
+    "rad_meaning": "người",
+    "onyomi": "tei",
+    "ka_id": "ka_651",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "tei",
+      "tei"
+    ],
+    "kunyomi_search": [
+      "Không có",
+      "Không có"
+    ],
+    "meaning_search": [
+      "halt",
+      "stop",
+      "halt, stop"
+    ],
+    "onyomi_ja_search": [
+      "テイ",
+      "テイ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "person",
+      "person "
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "にんべん"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:12",
+      "ij:c12",
+      "ik1",
+      "ik1:3",
+      "ik1:c3"
+    ],
+    "rad_name_file": "ninben",
+    "kanji": {
+      "character": "停",
+      "meaning": {
+        "english": "halt, stop"
+      },
+      "strokes": {
+        "count": 11,
+        "timings": [
+          0,
+          0.866667,
+          2.6,
+          3.733333,
+          4.8,
+          5.533333,
+          6.733333,
+          7.866667,
+          8.533333,
+          10.2,
+          11.133333,
+          14.933333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/tei(shisuru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/tei(shisuru)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/tei(shisuru)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/tei(shisuru)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/tei(shisuru)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/tei(shisuru)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/tei(shisuru)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/tei(shisuru)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/tei(shisuru)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/tei(shisuru)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/tei(shisuru)_11.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "tei",
+        "katakana": "テイ"
+      },
+      "kunyomi": {
+        "romaji": "Không có",
+        "hiragana": "Không có"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/tei(shisuru)_11.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/tei(shisuru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/tei(shisuru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺅",
+      "strokes": 2,
+      "image": "https://media.kanjialive.com/radical_character/ninben.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "にんべん",
+        "romaji": "ninben"
+      },
+      "meaning": {
+        "english": "người"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/ninben0.svg",
+        "https://media.kanjialive.com/rad_frames/ninben1.svg",
+        "https://media.kanjialive.com/rad_frames/ninben2.svg"
+      ]
+    },
+    "references": {
+      "grade": 4,
+      "kodansha": "107",
+      "classic_nelson": "507"
+    }
+  },
+  "jishoData": {
+    "query": "停",
+    "found": true,
+    "taughtIn": "lớp 5",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "733",
+    "strokeCount": 11,
+    "meaning": "dừng lại, dừng lại",
+    "kunyomi": [
+      "と.める",
+      "と.まる"
+    ],
+    "onyomi": [
+      "テイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "停車",
+        "reading": "テイシャ",
+        "meaning": "dừng (tàu, ô tô, v.v.), dừng lại"
+      },
+      {
+        "example": "停止",
+        "reading": "テイシ",
+        "meaning": "ngừng, dừng lại, tạm dừng, đình trệ, ngừng (di chuyển, hoạt động, v.v.), đình chỉ (hoạt động), gián đoạn (ví dụ: cung cấp điện), cắt đứt, đình chỉ (thanh toán, giấy phép, v.v.), (tạm thời) cấm, cấm, đình chỉ âm nhạc, khiêu vũ, v.v. như một dấu hiệu để tang một người nổi bật"
+      },
+      {
+        "example": "解停",
+        "reading": "カイテイ",
+        "meaning": "giải phóng khỏi sự đình chỉ (của một tờ báo, tạp chí, v.v.; thời Meiji), bãi bỏ sự đình chỉ"
+      },
+      {
+        "example": "居中調停",
+        "reading": "キョチュウチョウテイ",
+        "meaning": "hòa giải"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "止める",
+        "reading": "とめる",
+        "meaning": "dừng lại, dừng lại, dừng lại, ngăn chặn, ngăn chặn (ho), kìm lại (nước mắt), giữ (hơi thở), giảm bớt (đau đớn), ngăn chặn (ai đó làm điều gì đó), can ngăn, cấm, cấm, để ý, nhận thức, tập trung vào, chú ý đến, ghi nhớ, ghi nhớ, sửa chữa (tại chỗ), buộc chặt, gắn chặt, ghim, đóng đinh, cài nút, ghim, giữ, giữ bị giam giữ"
+      },
+      {
+        "example": "止まる",
+        "reading": "とまる",
+        "meaning": "dừng lại (di chuyển), dừng lại, dừng lại (làm, làm việc, được cung cấp), dừng lại, dừng lại, dừng lại, bị treo, xuống xe, đậu trên"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "đàn ông, con người"
+    },
+    "parts": [
+      "一",
+      "亅",
+      "亠",
+      "冖",
+      "化",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20572_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0505c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/505c.gif",
+    "uri": "https://jisho.org/search/%E5%81%9C%23kanji"
+  }
+}

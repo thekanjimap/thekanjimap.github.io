@@ -1,0 +1,53 @@
+{
+  "id": "壻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "壻",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "con rể",
+    "kunyomi": [
+      "むこ"
+    ],
+    "onyomi": [
+      "セイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "女婿",
+        "reading": "ジョセイ",
+        "meaning": "con rể"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "婿",
+        "reading": "むこ",
+        "meaning": "chồng, chú rể, con rể"
+      },
+      {
+        "example": "花婿",
+        "reading": "はなむこ",
+        "meaning": "chú rể"
+      },
+      {
+        "example": "入り婿",
+        "reading": "いりむこ",
+        "meaning": "người đàn ông lấy họ vợ và gả vào nhà vợ, người đàn ông được nhà vợ nhận làm con nuôi"
+      }
+    ],
+    "radical": {
+      "symbol": "士",
+      "meaning": "học giả, cử nhân"
+    },
+    "parts": [
+      "土",
+      "月",
+      "疋"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22779_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058fb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58fb.gif",
+    "uri": "https://jisho.org/search/%E5%A3%BB%23kanji"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "浬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "浬",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "nút thắt, hải lý",
+    "kunyomi": [
+      "かいり",
+      "のっと"
+    ],
+    "onyomi": [
+      "リ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "海里",
+        "reading": "かいり",
+        "meaning": "hải lý"
+      },
+      {
+        "example": "節",
+        "reading": "ノット",
+        "meaning": "hải lý (hải lý một giờ)"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "土",
+      "汁",
+      "田",
+      "里"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28012_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d6c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d6c.gif",
+    "uri": "https://jisho.org/search/%E6%B5%AC%23kanji"
+  }
+}

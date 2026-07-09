@@ -1,0 +1,62 @@
+{
+  "id": "伍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "伍",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1881",
+    "strokeCount": 6,
+    "meaning": "năm, đội năm người, tập tin, dòng",
+    "kunyomi": [
+      "いつつ"
+    ],
+    "onyomi": [
+      "ゴ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "伍",
+        "reading": "ゴ",
+        "meaning": "Công ty, nhóm, lớp, đoàn quân, cấp bậc, tập tin"
+      },
+      {
+        "example": "五",
+        "reading": "ゴ",
+        "meaning": "năm, 5"
+      },
+      {
+        "example": "隊伍",
+        "reading": "タイゴ",
+        "meaning": "cấp bậc (của quân đội), hàng, đội hình, đội hình, đám rước"
+      },
+      {
+        "example": "落伍",
+        "reading": "ラクゴ",
+        "meaning": "lạc hậu, tụt lại phía sau, bị bỏ lại phía sau, bỏ học, tụt hậu, tụt hậu"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "五つ",
+        "reading": "いつつ",
+        "meaning": "năm, năm tuổi, tám giờ (hệ thống thời gian cũ)"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "đàn ông, con người"
+    },
+    "parts": [
+      "五",
+      "化"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20237_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f0d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f0d.gif",
+    "uri": "https://jisho.org/search/%E4%BC%8D%23kanji"
+  }
+}

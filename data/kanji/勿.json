@@ -1,0 +1,46 @@
+{
+  "id": "勿",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "勿",
+    "found": true,
+    "strokeCount": 4,
+    "meaning": "không, không được, không được, không được",
+    "kunyomi": [
+      "なか.れ",
+      "なし"
+    ],
+    "onyomi": [
+      "モチ",
+      "ブツ",
+      "ボツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "勿論",
+        "reading": "モチロン",
+        "meaning": "tất nhiên, tất nhiên, tất nhiên"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "勿れ",
+        "reading": "なかれ",
+        "meaning": "không được, không được"
+      }
+    ],
+    "radical": {
+      "symbol": "勹",
+      "meaning": "quấn, ôm"
+    },
+    "parts": [
+      "ノ",
+      "勹",
+      "勿"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21247_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052ff.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52ff.gif",
+    "uri": "https://jisho.org/search/%E5%8B%BF%23kanji"
+  }
+}

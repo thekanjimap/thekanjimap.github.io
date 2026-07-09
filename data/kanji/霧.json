@@ -1,0 +1,84 @@
+{
+  "id": "霧",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "霧",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1747",
+    "strokeCount": 19,
+    "meaning": "sương mù, sương mù",
+    "kunyomi": [
+      "きり"
+    ],
+    "onyomi": [
+      "ム",
+      "ボウ",
+      "ブ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "霧化",
+        "reading": "ムカ",
+        "meaning": "nguyên tử hóa"
+      },
+      {
+        "example": "霧虹",
+        "reading": "キリニジ",
+        "meaning": "cung sương mù, sương mù, sương mù, cầu vồng trắng"
+      },
+      {
+        "example": "夕霧",
+        "reading": "ユウギリ",
+        "meaning": "sương mù buổi tối"
+      },
+      {
+        "example": "海霧",
+        "reading": "カイム",
+        "meaning": "sương mù biển"
+      },
+      {
+        "example": "蓮霧",
+        "reading": "レンブ",
+        "meaning": "táo sáp (Syzygium samarangense), táo Java"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "霧",
+        "reading": "きり",
+        "meaning": "sương mù, sương mù, phun"
+      },
+      {
+        "example": "霧雨",
+        "reading": "きりさめ",
+        "meaning": "mưa phùn, mưa nhẹ"
+      },
+      {
+        "example": "黒い霧",
+        "reading": "くろいきり",
+        "meaning": "sương mù dày đặc (nghi ngờ), bức màn đen bí mật, tội ác bị che đậy, hành động phi đạo đức, v.v."
+      },
+      {
+        "example": "雲霧",
+        "reading": "うんむ",
+        "meaning": "mây và sương mù"
+      }
+    ],
+    "radical": {
+      "symbol": "雨",
+      "meaning": "mưa"
+    },
+    "parts": [
+      "力",
+      "攵",
+      "矛",
+      "雨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38695_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09727.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9727.gif",
+    "uri": "https://jisho.org/search/%E9%9C%A7%23kanji"
+  }
+}

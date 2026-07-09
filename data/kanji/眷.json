@@ -1,0 +1,44 @@
+{
+  "id": "眷",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "眷",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "nhìn quanh, nhìn trìu mến",
+    "kunyomi": [
+      "かえり.みる"
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "眷顧",
+        "reading": "ケンコ",
+        "meaning": "ưu ái, bảo trợ, thiên vị, đặc biệt chú ý đến"
+      },
+      {
+        "example": "眷属",
+        "reading": "ケンゾク",
+        "meaning": "(của) gia đình, người phụ thuộc, hộ gia đình, người theo dõi, thuộc hạ, thuộc hạ"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "目",
+      "meaning": "mắt"
+    },
+    "parts": [
+      "二",
+      "人",
+      "大",
+      "并",
+      "目"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30519_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07737.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7737.gif",
+    "uri": "https://jisho.org/search/%E7%9C%B7%23kanji"
+  }
+}

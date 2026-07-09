@@ -1,0 +1,58 @@
+{
+  "id": "鋪",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鋪",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "cửa hàng, cửa hàng",
+    "kunyomi": [
+      "しく",
+      "みせ"
+    ],
+    "onyomi": [
+      "ホ",
+      "フ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "舗",
+        "reading": "ホ",
+        "meaning": "cửa hàng, cửa hàng, quầy bán những thứ có thể gập lại như bản đồ, v.v."
+      },
+      {
+        "example": "舗装",
+        "reading": "ホソウ",
+        "meaning": "lát (một con đường), bề mặt (bằng nhựa đường, bê tông, v.v.), mặt đường"
+      },
+      {
+        "example": "老舗",
+        "reading": "ロウホ",
+        "meaning": "cửa hàng lâu đời, cửa hàng lâu đời, cửa hàng cũ"
+      },
+      {
+        "example": "薬舗",
+        "reading": "ヤクホ",
+        "meaning": "hiệu thuốc, hiệu thuốc, hiệu thuốc"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "kim loại, vàng"
+    },
+    "parts": [
+      "丶",
+      "十",
+      "用",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37610_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/092ea.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/92ea.gif",
+    "uri": "https://jisho.org/search/%E9%8B%AA%23kanji"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "韲",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "韲",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "rau trộn (salad)",
+    "kunyomi": [
+      "あえもの",
+      "なます",
+      "あ.える"
+    ],
+    "onyomi": [
+      "セイ",
+      "サイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "粉韲",
+        "reading": "フンセイ",
+        "meaning": "sự nghiền thành bột"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "和え物",
+        "reading": "あえもの",
+        "meaning": "cá, động vật có vỏ hoặc rau cắt nhỏ, trộn với nước sốt (miso hoặc loại khác)"
+      },
+      {
+        "example": "和える",
+        "reading": "あえる",
+        "meaning": "ăn mặc (rau, salad, v.v.)"
+      }
+    ],
+    "radical": {
+      "symbol": "韭",
+      "meaning": "tỏi tây"
+    },
+    "parts": [
+      "亠",
+      "刀",
+      "廾",
+      "氏",
+      "韭",
+      "齊"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38898_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/097f2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/97f2.gif",
+    "uri": "https://jisho.org/search/%E9%9F%B2%23kanji"
+  }
+}

@@ -1,0 +1,425 @@
+{
+  "id": "盛",
+  "kanjialiveData": {
+    "_id": "54317ad5791eba5146ee4873",
+    "_rev": "13-eebd51ca837f8aa60ea73d92e9b765f9",
+    "rad_name_ja": "さら",
+    "grade": 6,
+    "hint_group": 1,
+    "kunyomi": "mo, saka, moru, sakan, sakanna",
+    "meaning": "thịnh vượng, hưng thịnh, phục vụ thức ăn",
+    "kstroke": 11,
+    "examples": [
+      {
+        "japanese": "盛衰（せいすい）",
+        "meaning": {
+          "english": "tăng và giảm"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka(nna)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/saka(nna)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/saka(nna)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/saka(nna)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "隆盛（りゅうせい）",
+        "meaning": {
+          "english": "sự thịnh vượng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka(nna)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/saka(nna)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/saka(nna)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/saka(nna)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "最盛期（さいせいき）",
+        "meaning": {
+          "english": "thời kỳ hoàng kim"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka(nna)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/saka(nna)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/saka(nna)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/saka(nna)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "盛況な（せいきょうな）",
+        "meaning": {
+          "english": "thành đạt, thịnh vượng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka(nna)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/saka(nna)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/saka(nna)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/saka(nna)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "盛大な（せいだいな）",
+        "meaning": {
+          "english": "vĩ đại, thịnh vượng, tráng lệ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka(nna)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/saka(nna)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/saka(nna)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/saka(nna)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "繁盛する（はんじょうする）",
+        "meaning": {
+          "english": "thịnh vượng, hưng thịnh, thịnh vượng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka(nna)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/saka(nna)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/saka(nna)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/saka(nna)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "盛る（もる）",
+        "meaning": {
+          "english": "chồng lên, dọn lên, chất chồng lên"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka(nna)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/saka(nna)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/saka(nna)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/saka(nna)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "山盛り（やまもり）",
+        "meaning": {
+          "english": "một đống"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka(nna)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/saka(nna)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/saka(nna)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/saka(nna)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "酒盛り（さかもり）",
+        "meaning": {
+          "english": "cuộc nhậu nhẹt, tiệc rượu"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka(nna)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/saka(nna)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/saka(nna)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/saka(nna)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "目盛り（めもり）",
+        "meaning": {
+          "english": "thang đo, mức độ, điểm [n.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka(nna)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/saka(nna)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/saka(nna)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/saka(nna)_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "盛んな（さかんな）",
+        "meaning": {
+          "english": "thịnh vượng, hưng thịnh"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka(nna)_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/saka(nna)_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/saka(nna)_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/saka(nna)_06_k.mp3"
+        }
+      },
+      {
+        "japanese": "働き盛り（はたらきざかり）",
+        "meaning": {
+          "english": "đỉnh cao của cuộc sống"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/saka(nna)_06_l.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/saka(nna)_06_l.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/saka(nna)_06_l.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/saka(nna)_06_l.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "も、さか、もる、さかん、さかんな",
+    "ka_utf": "盛",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=盛",
+    "rad_name_search": [
+      "sara"
+    ],
+    "rad_order": 136,
+    "txt_books": [
+      {
+        "chapter": "8",
+        "txt_bk": "txtIKB"
+      }
+    ],
+    "kname": "saka(nna)",
+    "rad_utf": "⽫",
+    "stroketimes": [
+      0,
+      1,
+      2.066667,
+      3.666667,
+      4.733333,
+      5.533333,
+      6.066667,
+      7,
+      8.266667,
+      9.2,
+      9.933333,
+      11.866667
+    ],
+    "kunyomi_ka_display": "も、さか",
+    "dick": "1717",
+    "rad_name": "sara",
+    "dicn": "3116",
+    "mn_hint": "Plate 皿 with lots of food forming 成 a heap.",
+    "rad_stroke": 5,
+    "onyomi_ja": "セイ、ジョウ",
+    "rad_meaning": "đĩa, bát",
+    "onyomi": "sei, jou",
+    "ka_id": "ka_1080",
+    "onyomi_search": [
+      "sei",
+      "jou",
+      "sei, jou"
+    ],
+    "kunyomi_search": [
+      "mo",
+      "saka",
+      "moru",
+      "sakan",
+      "sakanna",
+      "mo, saka, moru, sakan, sakanna"
+    ],
+    "meaning_search": [
+      "prosperous",
+      "flourish",
+      "serve food",
+      "serve",
+      "food",
+      "prosperous, flourish, serve food"
+    ],
+    "onyomi_ja_search": [
+      "セイ",
+      "ジョウ",
+      "セイ、ジョウ"
+    ],
+    "kunyomi_ja_search": [
+      "も",
+      "さか",
+      "もる",
+      "さかん",
+      "さかんな",
+      "も、さか、もる、さかん、さかんな"
+    ],
+    "rad_meaning_search": [
+      "plate",
+      "bowl",
+      "plate, bowl"
+    ],
+    "rad_name_ja_search": [
+      "さら"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "ik1",
+      "ik1:8",
+      "ik1:c8"
+    ],
+    "rad_name_file": "sara",
+    "kanji": {
+      "character": "盛",
+      "meaning": {
+        "english": "prosperous, flourish, serve food"
+      },
+      "strokes": {
+        "count": 11,
+        "timings": [
+          0,
+          1,
+          2.066667,
+          3.666667,
+          4.733333,
+          5.533333,
+          6.066667,
+          7,
+          8.266667,
+          9.2,
+          9.933333,
+          11.866667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/saka(nna)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/saka(nna)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/saka(nna)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/saka(nna)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/saka(nna)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/saka(nna)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/saka(nna)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/saka(nna)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/saka(nna)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/saka(nna)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/saka(nna)_11.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "sei, jou",
+        "katakana": "セイ、ジョウ"
+      },
+      "kunyomi": {
+        "romaji": "mo, saka, moru, sakan, sakanna",
+        "hiragana": "も、さか"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/saka(nna)_11.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/saka(nna)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/saka(nna)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⽫",
+      "strokes": 5,
+      "image": "https://media.kanjialive.com/radical_character/sara.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "さら",
+        "romaji": "sara"
+      },
+      "meaning": {
+        "english": "đĩa, bát"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/sara0.svg",
+        "https://media.kanjialive.com/rad_frames/sara1.svg",
+        "https://media.kanjialive.com/rad_frames/sara2.svg"
+      ]
+    },
+    "references": {
+      "grade": 6,
+      "kodansha": "1717",
+      "classic_nelson": "3116"
+    }
+  },
+  "jishoData": {
+    "query": "盛",
+    "found": true,
+    "taughtIn": "lớp 6",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "712",
+    "strokeCount": 11,
+    "meaning": "bùng nổ, thịnh vượng, giao hợp",
+    "kunyomi": [
+      "も.る",
+      "さか.る",
+      "さか.ん"
+    ],
+    "onyomi": [
+      "セイ",
+      "ジョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "盛大",
+        "reading": "セイダイ",
+        "meaning": "vĩ đại, tráng lệ, xa hoa, quy mô lớn, thịnh vượng, thịnh vượng, sống động, mạnh mẽ, mạnh mẽ, mạnh mẽ"
+      },
+      {
+        "example": "盛況",
+        "reading": "セイキョウ",
+        "meaning": "thành công, thịnh vượng, bùng nổ"
+      },
+      {
+        "example": "隆盛",
+        "reading": "リュウセイ",
+        "meaning": "thịnh vượng, hưng thịnh, thịnh vượng"
+      },
+      {
+        "example": "士気旺盛",
+        "reading": "シキオウセイ",
+        "meaning": "tinh thần chiến đấu lên rất cao"
+      },
+      {
+        "example": "盛者",
+        "reading": "ショウジャ",
+        "meaning": "người thịnh vượng, người có quyền lực"
+      },
+      {
+        "example": "盛者必衰",
+        "reading": "ジョウシャヒッスイ",
+        "meaning": "ngay cả sự thịnh vượng cũng không tránh khỏi suy tàn, sic trans gloria mundi, tất cả những gì công bằng đều phải phai nhạt"
+      },
+      {
+        "example": "強盛",
+        "reading": "キョウセイ",
+        "meaning": "sức mạnh, hùng mạnh"
+      },
+      {
+        "example": "熾盛",
+        "reading": "シジョウ",
+        "meaning": "sức sống (như ngọn lửa nhảy múa), sự sống động"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "盛る",
+        "reading": "もる",
+        "meaning": "phục vụ (trong một cái bát, trên một cái đĩa, v.v.), để bày ra, dọn lên, đổ đầy (một cái bát), chất lên, chất đống, đổ đầy, xếp chồng lên nhau, quản lý (thuốc, chất độc), liều lượng, kê đơn, đưa vào (ví dụ: thông tin trong một báo cáo, ý nghĩa trong một tuyên bố), đánh dấu (ví dụ: cân), chia độ (ví dụ: nhiệt kế), phóng đại, trang điểm đậm"
+      },
+      {
+        "example": "盛る",
+        "reading": "さかる",
+        "meaning": "trở nên mạnh mẽ, có được lực lượng, trở nên năng động hơn, thịnh vượng, phát đạt, hưng thịnh, nóng nảy, ở trong lối mòn, giao hợp"
+      },
+      {
+        "example": "盛ん",
+        "reading": "さかん",
+        "meaning": "thịnh vượng, hưng thịnh, thịnh vượng, thành công, phổ biến, rộng rãi, tích cực, sống động, tràn đầy năng lượng, mạnh mẽ, nhanh nhẹn, mạnh mẽ, nhiệt tình, háo hức, nồng nhiệt, thường xuyên, lặp đi lặp lại"
+      },
+      {
+        "example": "盛んな歓迎",
+        "reading": "さかんなかんげい",
+        "meaning": "sự đón tiếp thân mật"
+      }
+    ],
+    "radical": {
+      "symbol": "皿",
+      "meaning": "món ăn"
+    },
+    "parts": [
+      "ノ",
+      "戈",
+      "皿"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30427_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/076db.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/76db.gif",
+    "uri": "https://jisho.org/search/%E7%9B%9B%23kanji"
+  }
+}

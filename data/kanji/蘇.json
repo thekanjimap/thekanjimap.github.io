@@ -1,0 +1,75 @@
+{
+  "id": "蘇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蘇",
+    "found": true,
+    "newspaperFrequencyRank": "1968",
+    "strokeCount": 19,
+    "meaning": "được hồi sinh, hồi sinh, tía tô, tía tô",
+    "kunyomi": [
+      "よみがえ.る"
+    ],
+    "onyomi": [
+      "ソ",
+      "ス"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "【ソ】",
+        "reading": "Soviet Union",
+        "meaning": ""
+      },
+      {
+        "example": "酥",
+        "reading": "ソ",
+        "meaning": "so (sữa đặc được ăn ở Nhật Bản cổ đại)"
+      },
+      {
+        "example": "日ソ",
+        "reading": "ニッソ",
+        "meaning": "Nhật Bản và Liên Xô, Nhật-Xô"
+      },
+      {
+        "example": "中ソ",
+        "reading": "チュウソ",
+        "meaning": "Trung Quốc và Liên Xô, Xô-Trung, Trung-Xô"
+      },
+      {
+        "example": "蘇芳",
+        "reading": "スオウ",
+        "meaning": "gỗ sappan (Caesalpinia sappan), thuốc nhuộm sappanwood (màu đỏ), màu xếp lớp (mặt trước màu nâu nhạt, mặt dưới màu đỏ sẫm)"
+      },
+      {
+        "example": "蘇格蘭",
+        "reading": "スコットランド",
+        "meaning": "Scotland"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蘇る",
+        "reading": "よみがえる",
+        "meaning": "được hồi sinh, được hồi sinh, được phục hồi, được hồi sinh, được làm mới, được phục hồi, được gọi lại (ví dụ: ký ức), được mang trở lại"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "杰",
+      "田",
+      "禾",
+      "艾",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34311_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08607.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8607.gif",
+    "uri": "https://jisho.org/search/%E8%98%87%23kanji"
+  }
+}

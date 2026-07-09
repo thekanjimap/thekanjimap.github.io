@@ -1,0 +1,84 @@
+{
+  "id": "臭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "臭",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1760",
+    "strokeCount": 9,
+    "meaning": "có mùi hôi, có mùi khó chịu, có mùi đáng ngờ, có mùi, có mùi thơm, có mùi thơm, có mùi thơm, có mùi hôi, tỏa sáng, sáng sủa",
+    "kunyomi": [
+      "くさ.い",
+      "-くさ.い",
+      "にお.う",
+      "にお.い"
+    ],
+    "onyomi": [
+      "シュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "臭",
+        "reading": "シュウ",
+        "meaning": "- có mùi, có mùi hôi, có mùi hôi, có mùi hôi"
+      },
+      {
+        "example": "臭覚",
+        "reading": "シュウカク",
+        "meaning": "khứu giác"
+      },
+      {
+        "example": "体臭",
+        "reading": "タイシュウ",
+        "meaning": "mùi cơ thể, mùi cơ thể, mùi cá nhân, mùi cá nhân, đặc tính (của ai đó)"
+      },
+      {
+        "example": "異臭",
+        "reading": "イシュウ",
+        "meaning": "mùi khó chịu, mùi hôi, mùi hôi, mùi hôi thối"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "臭い",
+        "reading": "くさい",
+        "meaning": "hôi hám, hôi hám, nghi ngờ, tanh, vụng về, vụng về, có mùi, trông như, có vẻ như, có mùi, -ish"
+      },
+      {
+        "example": "臭い玉",
+        "reading": "においだま",
+        "meaning": "sỏi amidan, sỏi amidan, bóng mùi"
+      },
+      {
+        "example": "匂う",
+        "reading": "におう",
+        "meaning": "có mùi thơm, có mùi (tốt), có mùi hôi, có mùi (xấu), phát sáng, sáng sủa, có mùi, thể hiện chút gì đó"
+      },
+      {
+        "example": "匂い",
+        "reading": "におい",
+        "meaning": "mùi, mùi hương, mùi, mùi hôi, mùi hôi, hào quang, hơi, mùi, hương vị, hương vị, tâm trạng, mờ nhạt, mô hình giống như sương mù dọc theo đường tính khí của một thanh kiếm Nhật"
+      },
+      {
+        "example": "匂いがする",
+        "reading": "においがする",
+        "meaning": "có mùi, có mùi, có mùi"
+      }
+    ],
+    "radical": {
+      "symbol": "自",
+      "meaning": "tự"
+    },
+    "parts": [
+      "大",
+      "目",
+      "自"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33261_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081ed.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81ed.gif",
+    "uri": "https://jisho.org/search/%E8%87%AD%23kanji"
+  }
+}

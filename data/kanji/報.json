@@ -1,0 +1,407 @@
+{
+  "id": "報",
+  "kanjialiveData": {
+    "_id": "54317ad2791eba5146ee4834",
+    "_rev": "11-44964dfaf82ab47d8c13b63bd999f8ab",
+    "rad_name_ja": "つち",
+    "grade": 5,
+    "hint_group": 1,
+    "kunyomi": "muku, mukui, mukuiru, mukuu",
+    "meaning": "thông báo, yêu cầu, tin tức, báo cáo, khen thưởng",
+    "kstroke": 12,
+    "examples": [
+      {
+        "japanese": "報道（ほうどう）",
+        "meaning": {
+          "english": "thông tin, báo cáo"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yo)hou_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(yo)hou_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(yo)hou_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(yo)hou_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "報酬（ほうしゅう）",
+        "meaning": {
+          "english": "sự trả công, sự đền bù"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yo)hou_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(yo)hou_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(yo)hou_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(yo)hou_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "情報（じょうほう）",
+        "meaning": {
+          "english": "thông tin, tin tức"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yo)hou_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(yo)hou_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(yo)hou_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(yo)hou_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "警報（けいほう）",
+        "meaning": {
+          "english": "báo động, cảnh báo"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yo)hou_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(yo)hou_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(yo)hou_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(yo)hou_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "速報（そくほう）",
+        "meaning": {
+          "english": "tin tức chớp nhoáng, báo cáo nhanh"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yo)hou_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(yo)hou_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(yo)hou_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(yo)hou_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "天気予報（てんきよほう）",
+        "meaning": {
+          "english": "dự báo thời tiết"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yo)hou_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(yo)hou_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(yo)hou_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(yo)hou_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "報告する（ほうこくする）",
+        "meaning": {
+          "english": "báo cáo, thông báo"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yo)hou_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(yo)hou_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(yo)hou_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(yo)hou_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "報復する（ほうふくする）",
+        "meaning": {
+          "english": "trả thù, trả thù"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yo)hou_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(yo)hou_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(yo)hou_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(yo)hou_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "通報する（つうほうする）",
+        "meaning": {
+          "english": "báo cáo [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yo)hou_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(yo)hou_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(yo)hou_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(yo)hou_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "報じる（ほうじる）",
+        "meaning": {
+          "english": "thông báo, báo cáo"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yo)hou_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(yo)hou_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(yo)hou_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(yo)hou_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "報う（むくう）",
+        "meaning": {
+          "english": "thưởng, đền bù [v.i., v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yo)hou_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(yo)hou_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(yo)hou_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(yo)hou_06_k.mp3"
+        }
+      },
+      {
+        "japanese": "報いる（むくいる）",
+        "meaning": {
+          "english": "thưởng, đền bù [v.i., v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(yo)hou_06_l.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(yo)hou_06_l.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(yo)hou_06_l.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(yo)hou_06_l.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "むく、むくい、むくいる、むくう",
+    "ka_utf": "報",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=報",
+    "rad_name_search": [
+      "tsuchi"
+    ],
+    "rad_order": 37,
+    "txt_books": [
+      {
+        "chapter": "35",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "10",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "10",
+        "txt_bk": "jt"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "27"
+      }
+    ],
+    "kname": "(yo)hou",
+    "rad_utf": "⼟",
+    "stroketimes": [
+      0,
+      1.133333,
+      2.133333,
+      3.8,
+      4.6,
+      5.333333,
+      6.266667,
+      7.133333,
+      8.733333,
+      11.266667,
+      13.466667,
+      15.133333,
+      17.133333
+    ],
+    "kunyomi_ka_display": "むく",
+    "dick": "1115",
+    "rad_name": "tsuchi",
+    "dicn": "1114",
+    "mn_hint": "Happy 幸 news handed 又 in a sealed 卩 envelope.",
+    "rad_stroke": 3,
+    "onyomi_ja": "ホウ",
+    "rad_meaning": "trái đất",
+    "onyomi": "hou",
+    "ka_id": "ka_1023",
+    "onyomi_search": [
+      "hou",
+      "hou"
+    ],
+    "kunyomi_search": [
+      "muku",
+      "mukui",
+      "mukuiru",
+      "mukuu",
+      "muku, mukui, mukuiru, mukuu"
+    ],
+    "meaning_search": [
+      "inform",
+      "require",
+      "news",
+      "report",
+      "reward",
+      "inform, require, news, report, reward"
+    ],
+    "onyomi_ja_search": [
+      "ホウ",
+      "ホウ"
+    ],
+    "kunyomi_ja_search": [
+      "むく",
+      "むくい",
+      "むくいる",
+      "むくう",
+      "むく、むくい、むくいる、むくう"
+    ],
+    "rad_meaning_search": [
+      "earth",
+      "earth"
+    ],
+    "rad_name_ja_search": [
+      "つち"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "bk",
+      "bk:35",
+      "bk:c35",
+      "jt",
+      "jt:10",
+      "jt:c10",
+      "cijr",
+      "cijr:27",
+      "cijr:c27"
+    ],
+    "rad_name_file": "tsuchi",
+    "kanji": {
+      "character": "報",
+      "meaning": {
+        "english": "inform, require, news, report, reward"
+      },
+      "strokes": {
+        "count": 12,
+        "timings": [
+          0,
+          1.133333,
+          2.133333,
+          3.8,
+          4.6,
+          5.333333,
+          6.266667,
+          7.133333,
+          8.733333,
+          11.266667,
+          13.466667,
+          15.133333,
+          17.133333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/(yo)hou_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/(yo)hou_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/(yo)hou_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/(yo)hou_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/(yo)hou_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/(yo)hou_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/(yo)hou_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/(yo)hou_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/(yo)hou_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/(yo)hou_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/(yo)hou_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/(yo)hou_12.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "hou",
+        "katakana": "ホウ"
+      },
+      "kunyomi": {
+        "romaji": "muku, mukui, mukuiru, mukuu",
+        "hiragana": "むく"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/(yo)hou_12.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/(yo)hou_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/(yo)hou_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼟",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/tsuchi.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "つち",
+        "romaji": "tsuchi"
+      },
+      "meaning": {
+        "english": "trái đất"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/tsuchi0.svg",
+        "https://media.kanjialive.com/rad_frames/tsuchi1.svg",
+        "https://media.kanjialive.com/rad_frames/tsuchi2.svg"
+      ]
+    },
+    "references": {
+      "grade": 5,
+      "kodansha": "1115",
+      "classic_nelson": "1114"
+    }
+  },
+  "jishoData": {
+    "query": "報",
+    "found": true,
+    "taughtIn": "lớp 5",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "167",
+    "strokeCount": 12,
+    "meaning": "báo cáo, tin tức, khen thưởng, quả báo",
+    "kunyomi": [
+      "むく.いる"
+    ],
+    "onyomi": [
+      "ホウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "報",
+        "reading": "ホウ",
+        "meaning": "thông tin, tin tức, báo cáo, khen thưởng, quả báo"
+      },
+      {
+        "example": "報告",
+        "reading": "ホウコク",
+        "meaning": "báo cáo, thông tin"
+      },
+      {
+        "example": "会報",
+        "reading": "カイホウ",
+        "meaning": "bản tin (do một xã hội phát hành), báo cáo, bản tin"
+      },
+      {
+        "example": "注意報",
+        "reading": "チュウイホウ",
+        "meaning": "cảnh báo (ví dụ: có bão), tư vấn"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "報いる",
+        "reading": "むくいる",
+        "meaning": "trả thù, trả thù, trả thù, trả thù, báo thù"
+      }
+    ],
+    "radical": {
+      "symbol": "土",
+      "meaning": "trái đất"
+    },
+    "parts": [
+      "亠",
+      "十",
+      "卩",
+      "又",
+      "土",
+      "立",
+      "辛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22577_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05831.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5831.gif",
+    "uri": "https://jisho.org/search/%E5%A0%B1%23kanji"
+  }
+}

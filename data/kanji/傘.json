@@ -1,0 +1,79 @@
+{
+  "id": "傘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "傘",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1694",
+    "strokeCount": 12,
+    "meaning": "ô",
+    "kunyomi": [
+      "かさ"
+    ],
+    "onyomi": [
+      "サン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "傘下",
+        "reading": "サンカ",
+        "meaning": "liên kết với, thuộc thẩm quyền của, dưới sự bảo trợ"
+      },
+      {
+        "example": "傘寿",
+        "reading": "サンジュ",
+        "meaning": "sinh nhật lần thứ 80"
+      },
+      {
+        "example": "落下傘",
+        "reading": "ラッカサン",
+        "meaning": "dù"
+      },
+      {
+        "example": "開傘",
+        "reading": "カイサン",
+        "meaning": "mở dù"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "傘",
+        "reading": "かさ",
+        "meaning": "ô, dù che, vật gì có hình dạng như ô hoặc mũ nón, bóng râm (của đèn), mũ nấm, cọc"
+      },
+      {
+        "example": "笠貝",
+        "reading": "かさがい",
+        "meaning": "loài khập khiễng (đặc biệt là loài Cellana mazatlandica)"
+      },
+      {
+        "example": "核の傘",
+        "reading": "かくのかさ",
+        "meaning": "ô hạt nhân"
+      },
+      {
+        "example": "から傘",
+        "reading": "からかさ",
+        "meaning": "ô giấy, ô giấy dầu"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "đàn ông, con người"
+    },
+    "parts": [
+      "个",
+      "人",
+      "十"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20632_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05098.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5098.gif",
+    "uri": "https://jisho.org/search/%E5%82%98%23kanji"
+  }
+}

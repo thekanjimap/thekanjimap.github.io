@@ -1,0 +1,52 @@
+{
+  "id": "厄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "厄",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2123",
+    "strokeCount": 4,
+    "meaning": "xui xẻo, xui xẻo, xui xẻo, tai họa",
+    "kunyomi": [],
+    "onyomi": [
+      "ヤク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "厄",
+        "reading": "ヤク",
+        "meaning": "xui xẻo, xui xẻo, ác độc, tai họa, năm xui xẻo, năm quan trọng, năm (đặc biệt là 25 và 42 tuổi đối với nam, 19 và 33 đối với nữ) được coi là không may mắn"
+      },
+      {
+        "example": "厄年",
+        "reading": "ヤクドシ",
+        "meaning": "năm không may mắn, năm quan trọng, năm (đặc biệt là 25 và 42 tuổi đối với nam, 19 và 33 đối với nữ) được coi là không may mắn (có nguồn gốc từ Onmyōdō), năm xấu, annus horribilis"
+      },
+      {
+        "example": "災厄",
+        "reading": "サイヤク",
+        "meaning": "thiên tai, thảm họa, tai nạn"
+      },
+      {
+        "example": "大厄",
+        "reading": "タイヤク",
+        "meaning": "tai họa, tai họa, đại bất hạnh, đỉnh cao"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "厂",
+      "meaning": "vách đá"
+    },
+    "parts": [
+      "卩",
+      "厂"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21380_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05384.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5384.gif",
+    "uri": "https://jisho.org/search/%E5%8E%84%23kanji"
+  }
+}

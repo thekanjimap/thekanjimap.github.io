@@ -1,0 +1,55 @@
+{
+  "id": "赧",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "赧",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "bị đỏ",
+    "kunyomi": [
+      "あから.める"
+    ],
+    "onyomi": [
+      "タン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "赧顔",
+        "reading": "タンガン",
+        "meaning": "đỏ bừng (với sự ngượng ngùng), mặt đỏ bừng"
+      },
+      {
+        "example": "赧然",
+        "reading": "タンゼン",
+        "meaning": "đỏ mặt, đỏ mặt"
+      },
+      {
+        "example": "愧赧",
+        "reading": "キタン",
+        "meaning": "đỏ mặt vì xấu hổ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "赤らめる",
+        "reading": "あからめる",
+        "meaning": "làm đỏ mặt, làm đỏ mặt"
+      }
+    ],
+    "radical": {
+      "symbol": "赤",
+      "meaning": "màu đỏ, khỏa thân"
+    },
+    "parts": [
+      "又",
+      "口",
+      "土",
+      "赤",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36199_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08d67.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8d67.gif",
+    "uri": "https://jisho.org/search/%E8%B5%A7%23kanji"
+  }
+}

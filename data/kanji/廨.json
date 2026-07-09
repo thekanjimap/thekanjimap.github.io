@@ -1,0 +1,44 @@
+{
+  "id": "廨",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "廨",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "văn phòng chính phủ",
+    "kunyomi": [
+      "やくしょ"
+    ],
+    "onyomi": [
+      "カイ",
+      "ケ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "公廨",
+        "reading": "クガイ",
+        "meaning": "văn phòng chính phủ"
+      },
+      {
+        "example": "官廨",
+        "reading": "カンカイ",
+        "meaning": "văn phòng chính phủ, cơ quan chính phủ"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "广",
+      "meaning": "ngôi nhà trên vách đá"
+    },
+    "parts": [
+      "刀",
+      "广",
+      "牛",
+      "角"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24296_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ee8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ee8.gif",
+    "uri": "https://jisho.org/search/%E5%BB%A8%23kanji"
+  }
+}

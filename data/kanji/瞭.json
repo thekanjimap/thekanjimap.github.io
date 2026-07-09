@@ -1,0 +1,51 @@
+{
+  "id": "瞭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "瞭",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "strokeCount": 17,
+    "meaning": "rõ ràng",
+    "kunyomi": [
+      "あきらか"
+    ],
+    "onyomi": [
+      "リョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "瞭然",
+        "reading": "リョウゼン",
+        "meaning": "hiển nhiên, hiển nhiên, rõ ràng"
+      },
+      {
+        "example": "簡潔明瞭",
+        "reading": "カンケツメイリョウ",
+        "meaning": "rõ ràng và ngắn gọn"
+      },
+      {
+        "example": "簡単明瞭",
+        "reading": "カンタンメイリョウ",
+        "meaning": "đơn giản và rõ ràng"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "目",
+      "meaning": "mắt"
+    },
+    "parts": [
+      "大",
+      "小",
+      "并",
+      "日",
+      "目"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30637_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/077ad.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/77ad.gif",
+    "uri": "https://jisho.org/search/%E7%9E%AD%23kanji"
+  }
+}

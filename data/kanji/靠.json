@@ -1,0 +1,40 @@
+{
+  "id": "靠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "靠",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "dựa vào",
+    "kunyomi": [
+      "もた.れる",
+      "たが.う",
+      "よ.る"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "凭れる",
+        "reading": "もたれる",
+        "meaning": "dựa vào, dựa vào, ngả người, nằm nặng (trên bụng), khó tiêu hóa"
+      }
+    ],
+    "radical": {
+      "symbol": "非",
+      "meaning": "sai"
+    },
+    "parts": [
+      "ノ",
+      "口",
+      "土",
+      "非"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38752_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09760.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9760.gif",
+    "uri": "https://jisho.org/search/%E9%9D%A0%23kanji"
+  }
+}

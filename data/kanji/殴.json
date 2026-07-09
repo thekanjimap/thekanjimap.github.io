@@ -1,0 +1,59 @@
+{
+  "id": "殴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "殴",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1622",
+    "strokeCount": 8,
+    "meaning": "tấn công, đánh, đánh, đập",
+    "kunyomi": [
+      "なぐ.る"
+    ],
+    "onyomi": [
+      "オウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "殴打",
+        "reading": "オウダ",
+        "meaning": "đánh, đánh, đòn"
+      },
+      {
+        "example": "殴殺",
+        "reading": "オウサツ",
+        "meaning": "đánh chết, đánh chết"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "殴る",
+        "reading": "なぐる",
+        "meaning": "đánh, đánh, đánh, đấm"
+      },
+      {
+        "example": "殴る蹴る",
+        "reading": "なぐるける",
+        "meaning": "đấm và đá"
+      }
+    ],
+    "radical": {
+      "symbol": "殳",
+      "meaning": "vũ khí, thương"
+    },
+    "parts": [
+      "ノ",
+      "丶",
+      "几",
+      "匚",
+      "又",
+      "殳"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27572_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bb4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bb4.gif",
+    "uri": "https://jisho.org/search/%E6%AE%B4%23kanji"
+  }
+}

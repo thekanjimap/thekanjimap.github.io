@@ -1,0 +1,46 @@
+{
+  "id": "蠎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蠎",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "trăn, boa constrictor",
+    "kunyomi": [
+      "うわばみ",
+      "おろち"
+    ],
+    "onyomi": [
+      "ボウ",
+      "モウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "蟒",
+        "reading": "うわばみ",
+        "meaning": "con rắn lớn, người nghiện rượu nặng, người nghiện rượu nặng"
+      },
+      {
+        "example": "蟒草",
+        "reading": "うわばみそう",
+        "meaning": "Elatostema umbellatum var. majus (nhiều loại thực vật liên quan đến cây tầm ma)"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "côn trùng"
+    },
+    "parts": [
+      "十",
+      "大",
+      "廾",
+      "艾",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34830_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0880e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/880e.gif",
+    "uri": "https://jisho.org/search/%E8%A0%8E%23kanji"
+  }
+}

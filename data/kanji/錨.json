@@ -1,0 +1,72 @@
+{
+  "id": "錨",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "錨",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "mỏ neo, vật lộn",
+    "kunyomi": [
+      "いかり"
+    ],
+    "onyomi": [
+      "ビョウ",
+      "ミョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "錨地",
+        "reading": "ビョウチ",
+        "meaning": "(điểm của) nơi neo đậu"
+      },
+      {
+        "example": "錨泊",
+        "reading": "ビョウハク",
+        "meaning": "nơi neo đậu"
+      },
+      {
+        "example": "投錨",
+        "reading": "トウビョウ",
+        "meaning": "thả neo, thả neo, thả neo"
+      },
+      {
+        "example": "揚錨",
+        "reading": "ヨウビョウ",
+        "meaning": "nâng neo, cân neo"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "錨",
+        "reading": "いかり",
+        "meaning": "mỏ neo"
+      },
+      {
+        "example": "いかり氷",
+        "reading": "いかりこおり",
+        "meaning": "băng neo, băng bám đáy"
+      },
+      {
+        "example": "予備錨",
+        "reading": "よびいかり",
+        "meaning": "mỏ neo dự phòng"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "kim loại, vàng"
+    },
+    "parts": [
+      "田",
+      "艾",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37672_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09328.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9328.gif",
+    "uri": "https://jisho.org/search/%E9%8C%A8%23kanji"
+  }
+}

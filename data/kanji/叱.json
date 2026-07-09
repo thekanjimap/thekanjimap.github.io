@@ -1,0 +1,45 @@
+{
+  "id": "叱",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "叱",
+    "found": true,
+    "newspaperFrequencyRank": "2255",
+    "strokeCount": 5,
+    "meaning": "mắng mỏ, quở trách",
+    "kunyomi": [
+      "しか.る"
+    ],
+    "onyomi": [
+      "シツ",
+      "シチ",
+      "カ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "叱罵",
+        "reading": "シツバ",
+        "meaning": "mắng mỏ, chỉ trích gay gắt"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "叱る",
+        "reading": "しかる",
+        "meaning": "quở trách, khiển trách, quở trách, quở trách"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "匕",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21489_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053f1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53f1.gif",
+    "uri": "https://jisho.org/search/%E5%8F%B1%23kanji"
+  }
+}

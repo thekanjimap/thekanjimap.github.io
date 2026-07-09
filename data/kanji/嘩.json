@@ -1,0 +1,44 @@
+{
+  "id": "嘩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嘩",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "ồn ào",
+    "kunyomi": [
+      "かまびす.しい"
+    ],
+    "onyomi": [
+      "カ",
+      "ケ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "兄妹喧嘩",
+        "reading": "キョウダイゲンカ",
+        "meaning": "cãi nhau giữa anh chị em"
+      },
+      {
+        "example": "姉妹喧嘩",
+        "reading": "キョウダイゲンカ",
+        "meaning": "cãi nhau giữa chị em"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "一",
+      "口",
+      "艾",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22057_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05629.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5629.gif",
+    "uri": "https://jisho.org/search/%E5%98%A9%23kanji"
+  }
+}

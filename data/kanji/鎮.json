@@ -1,0 +1,74 @@
+{
+  "id": "鎮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鎮",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1617",
+    "strokeCount": 18,
+    "meaning": "yên tĩnh, trung tâm bảo tồn hòa bình cổ xưa",
+    "kunyomi": [
+      "しず.める",
+      "しず.まる",
+      "おさえ"
+    ],
+    "onyomi": [
+      "チン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鎮",
+        "reading": "チン",
+        "meaning": "cân, người giám sát ngôi đền, thị trấn (của Trung Quốc)"
+      },
+      {
+        "example": "鎮圧",
+        "reading": "チンアツ",
+        "meaning": "đàn áp (bạo loạn, nổi dậy, v.v.), đàn áp, đàn áp, dập tắt"
+      },
+      {
+        "example": "重鎮",
+        "reading": "ジュウチン",
+        "meaning": "người lãnh đạo, người có thẩm quyền, trụ cột"
+      },
+      {
+        "example": "郷鎮",
+        "reading": "ゴウチン",
+        "meaning": "doanh nghiệp thị trấn và làng xã (ở Trung Quốc), TVE"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "静める",
+        "reading": "しずめる",
+        "meaning": "làm yên tĩnh (một đứa trẻ, đám đông, v.v.), làm yên tĩnh, làm yên tĩnh, bình tĩnh (thần kinh, phấn khích, v.v.), trấn tĩnh (bản thân), xoa dịu (sự tức giận của ai đó), làm dịu, giải quyết (ví dụ: bất hòa), ngăn chặn (một cuộc nổi loạn, bạo loạn, hỏa hoạn, v.v.), dập tắt, đặt xuống, kiểm soát, làm dịu (ho, đau đớn, v.v.), làm dịu, làm giảm bớt, làm dịu, xoa dịu (một tinh thần, tâm hồn, v.v.), để làm yên lòng, làm dịu đi"
+      },
+      {
+        "example": "静まる",
+        "reading": "しずまる",
+        "meaning": "trở nên yên lặng, yên lặng, yên lặng, dịu đi, dịu xuống, dịu xuống, giảm bớt, bị đè nén"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "kim loại, vàng"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "十",
+      "并",
+      "目",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37806_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/093ae.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/93ae.gif",
+    "uri": "https://jisho.org/search/%E9%8E%AE%23kanji"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "蜑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蜑",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "quả trứng",
+    "kunyomi": [
+      "あま"
+    ],
+    "onyomi": [
+      "タン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蛋民",
+        "reading": "タンミン",
+        "meaning": "Người Tanka (miền nam Trung Quốc)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "海人",
+        "reading": "あま",
+        "meaning": "nam thợ lặn (người thu thập vỏ sò, rong biển, v.v.), ngư dân"
+      },
+      {
+        "example": "蜑小舟貝",
+        "reading": "あまおぶねがい",
+        "meaning": "nerit vòm miệng bò (Nerita albicilla), nerit đốm"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "côn trùng"
+    },
+    "parts": [
+      "ノ",
+      "廴",
+      "止",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34577_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08711.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8711.gif",
+    "uri": "https://jisho.org/search/%E8%9C%91%23kanji"
+  }
+}

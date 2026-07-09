@@ -1,0 +1,52 @@
+{
+  "id": "肛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "肛",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "hậu môn",
+    "kunyomi": [],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "肛門",
+        "reading": "コウモン",
+        "meaning": "hậu môn"
+      },
+      {
+        "example": "肛後腸",
+        "reading": "コウコウチョウ",
+        "meaning": "ruột sau hậu môn, ruột sau hậu môn, ruột sau lỗ thoát vị"
+      },
+      {
+        "example": "脱肛",
+        "reading": "ダッコウ",
+        "meaning": "sa hậu môn"
+      },
+      {
+        "example": "裂肛",
+        "reading": "レッコウ",
+        "meaning": "nứt hậu môn"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "thịt"
+    },
+    "parts": [
+      "工",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32923_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0809b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/809b.gif",
+    "uri": "https://jisho.org/search/%E8%82%9B%23kanji"
+  }
+}

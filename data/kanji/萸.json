@@ -1,0 +1,44 @@
+{
+  "id": "萸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "萸",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "cây trúc đào, cây gừng sông",
+    "kunyomi": [],
+    "onyomi": [
+      "ユ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "呉茱萸",
+        "reading": "ゴシュユ",
+        "meaning": "Tetradium ruticarpum (loài cây rụng lá)"
+      },
+      {
+        "example": "山茱萸",
+        "reading": "サンシュユ",
+        "meaning": "Cây dương đào châu Á (Cornus officinalis), cây ngô Nhật Bản, cây anh đào Nhật Bản"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "人",
+      "日",
+      "臼",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33848_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08438.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8438.gif",
+    "uri": "https://jisho.org/search/%E8%90%B8%23kanji"
+  }
+}

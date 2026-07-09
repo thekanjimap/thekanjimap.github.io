@@ -1,0 +1,62 @@
+{
+  "id": "赦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "赦",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1868",
+    "strokeCount": 11,
+    "meaning": "tha thứ, tha thứ",
+    "kunyomi": [
+      "ゆる.す"
+    ],
+    "onyomi": [
+      "シャ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "赦",
+        "reading": "シャ",
+        "meaning": "ân xá, ân xá"
+      },
+      {
+        "example": "赦免",
+        "reading": "シャメン",
+        "meaning": "ân xá, ân xá, ân xá"
+      },
+      {
+        "example": "特赦",
+        "reading": "トクシャ",
+        "meaning": "ân xá đặc biệt, ân xá (chung)"
+      },
+      {
+        "example": "情け容赦",
+        "reading": "ナサケヨウシャ",
+        "meaning": "lòng thương xót"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "許す",
+        "reading": "ゆるす",
+        "meaning": "cho phép, cho phép, chấp thuận, đồng ý, tha thứ, tha thứ, tha thứ, tha thứ, miễn trừ (ai đó), tha thứ, giải phóng, buông bỏ, thừa nhận, thừa nhận, tin tưởng, tâm sự, mất cảnh giác, bỏ cuộc (điểm trong một trò chơi, khoảng cách trong một cuộc đua, v.v.), nhượng bộ"
+      }
+    ],
+    "radical": {
+      "symbol": "赤",
+      "meaning": "màu đỏ, khỏa thân"
+    },
+    "parts": [
+      "乞",
+      "土",
+      "攵",
+      "赤"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36198_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08d66.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8d66.gif",
+    "uri": "https://jisho.org/search/%E8%B5%A6%23kanji"
+  }
+}

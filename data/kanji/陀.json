@@ -1,0 +1,65 @@
+{
+  "id": "陀",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "陀",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "dốc",
+    "kunyomi": [
+      "けわ.しい",
+      "ななめ"
+    ],
+    "onyomi": [
+      "タ",
+      "ダ",
+      "イ",
+      "チ",
+      "ジ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "珍陀",
+        "reading": "チンタ",
+        "meaning": "rượu vang đỏ"
+      },
+      {
+        "example": "陀羅尼助",
+        "reading": "ダラニスケ",
+        "meaning": "Thuốc chữa dạ dày \"Trung Quốc\" truyền thống (thường được bào chế dưới dạng viên thuốc hình cầu nhỏ màu sẫm)"
+      },
+      {
+        "example": "陀羅尼",
+        "reading": "ダラニ",
+        "meaning": "dharani, đánh vần, kinh cầu, tụng kinh đa âm tiết tiếng Phạn"
+      },
+      {
+        "example": "阿弥陀",
+        "reading": "アミダ",
+        "meaning": "A Di Đà (Phật), A Di Đà, xổ số ma quái, xổ số bậc thang, xổ số trong đó người tham gia vạch một đường trên một mô hình lưới để xác định người chiến thắng, đội một chiếc mũ được đẩy lùi trên đầu"
+      },
+      {
+        "example": "半田",
+        "reading": "ハンダ",
+        "meaning": "hàn, thiếc"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "阜",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "gò, đập (阝 trái)"
+    },
+    "parts": [
+      "匕",
+      "宀",
+      "阡"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38464_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09640.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9640.gif",
+    "uri": "https://jisho.org/search/%E9%99%80%23kanji"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "捩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "捩",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "vít, xoắn, cờ lê, bóp méo",
+    "kunyomi": [
+      "よじ.る",
+      "ね.じる",
+      "ねじ.れる",
+      "もじ.る"
+    ],
+    "onyomi": [
+      "レイ",
+      "レツ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "捩る",
+        "reading": "よじる",
+        "meaning": "vặn xoắn, vặn vẹo"
+      },
+      {
+        "example": "捩る",
+        "reading": "ねじる",
+        "meaning": "vặn, vặn, vặn, làm bong gân"
+      },
+      {
+        "example": "捩れる",
+        "reading": "ねじれる",
+        "meaning": "bị vặn vẹo, bị quanh co, bị biến dạng, bị vặn vẹo (trong tâm trí, mối quan hệ, v.v.), bị biến dạng, trở nên hư hỏng, trở nên trái ngược, trở nên rắc rối, trở nên phức tạp, trở nên căng thẳng"
+      },
+      {
+        "example": "捩る",
+        "reading": "もじる",
+        "meaning": "nhại lại, nhại lại, chơi chữ (bật), vặn vẹo, bóp méo"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "一",
+      "大",
+      "尸",
+      "戸",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25449_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06369.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6369.gif",
+    "uri": "https://jisho.org/search/%E6%8D%A9%23kanji"
+  }
+}

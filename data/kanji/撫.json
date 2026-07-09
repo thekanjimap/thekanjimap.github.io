@@ -1,0 +1,67 @@
+{
+  "id": "撫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "撫",
+    "found": true,
+    "newspaperFrequencyRank": "2402",
+    "strokeCount": 15,
+    "meaning": "vuốt ve, vỗ nhẹ, vuốt ve",
+    "kunyomi": [
+      "な.でる"
+    ],
+    "onyomi": [
+      "ブ",
+      "フ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "撫育",
+        "reading": "ブイク",
+        "meaning": "chăm sóc, chăm sóc"
+      },
+      {
+        "example": "撫する",
+        "reading": "ブスル",
+        "meaning": "vuốt ve, vuốt ve"
+      },
+      {
+        "example": "慰撫",
+        "reading": "イブ",
+        "meaning": "bình định, làm dịu"
+      },
+      {
+        "example": "綏撫",
+        "reading": "スイブ",
+        "meaning": "được ru ngủ trong sự bình yên, được an ủi và an ủi"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "撫でる",
+        "reading": "なでる",
+        "meaning": "vuốt ve, vuốt ve, chải nhẹ nhàng, vuốt ve, xoa dịu, chải (tóc), vuốt phẳng"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "乞",
+      "扎",
+      "杰",
+      "無",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25771_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064ab.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64ab.gif",
+    "uri": "https://jisho.org/search/%E6%92%AB%23kanji"
+  }
+}

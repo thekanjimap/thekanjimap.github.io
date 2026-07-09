@@ -1,0 +1,52 @@
+{
+  "id": "閑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "閑",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1994",
+    "strokeCount": 12,
+    "meaning": "giải trí",
+    "kunyomi": [],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "閑",
+        "reading": "カン",
+        "meaning": "thời gian rảnh rỗi, thời gian rảnh, nhàn rỗi"
+      },
+      {
+        "example": "閑散",
+        "reading": "カンサン",
+        "meaning": "vắng vẻ (đặc biệt là cửa hàng, chợ, thị trấn, đường phố), yên tĩnh, yên tĩnh, im lặng, trống rỗng, không hoạt động (kinh doanh, buôn bán, v.v.), lười biếng, bằng phẳng, trái mùa, yên tĩnh, buồn tẻ, nhàn rỗi, tự do, không có người ở"
+      },
+      {
+        "example": "清閑",
+        "reading": "セイカン",
+        "meaning": "yên bình, yên tĩnh, yên tĩnh, yên bình"
+      },
+      {
+        "example": "等閑",
+        "reading": "トウカン",
+        "meaning": "bỏ bê, sơ suất, coi thường, coi thường"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "門",
+      "meaning": "cánh cổng"
+    },
+    "parts": [
+      "木",
+      "門"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38289_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09591.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9591.gif",
+    "uri": "https://jisho.org/search/%E9%96%91%23kanji"
+  }
+}

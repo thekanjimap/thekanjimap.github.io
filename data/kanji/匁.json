@@ -1,0 +1,57 @@
+{
+  "id": "匁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "匁",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 4,
+    "meaning": "monme, 3,75 gam, (kokuji)",
+    "kunyomi": [
+      "もんめ",
+      "め"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "匁",
+        "reading": "もんめ",
+        "meaning": "monme (đơn vị trọng lượng, 3,75 g), monme, đồng xu bạc thời Edo có giá trị từ 1/50 đến 1/80 của một ryō"
+      },
+      {
+        "example": "百匁",
+        "reading": "ひゃくもんめ",
+        "meaning": "375 gram (100 monme)"
+      },
+      {
+        "example": "花いちもんめ",
+        "reading": "はないちもんめ",
+        "meaning": "trò chơi trẻ em trong đó hai nhóm tranh giành thành viên bằng cách chơi janken"
+      },
+      {
+        "example": "百匁",
+        "reading": "ひゃくもんめ",
+        "meaning": "375 gram (100 monme)"
+      },
+      {
+        "example": "花いちもんめ",
+        "reading": "はないちもんめ",
+        "meaning": "trò chơi trẻ em trong đó hai nhóm tranh giành thành viên bằng cách chơi janken"
+      }
+    ],
+    "radical": {
+      "symbol": "勹",
+      "meaning": "quấn, ôm"
+    },
+    "parts": [
+      "ノ",
+      "丶",
+      "勹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21249_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05301.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5301.gif",
+    "uri": "https://jisho.org/search/%E5%8C%81%23kanji"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "槽",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "槽",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1809",
+    "strokeCount": 15,
+    "meaning": "thùng, bồn tắm, bể chứa",
+    "kunyomi": [
+      "ふね"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "槽",
+        "reading": "ソウ",
+        "meaning": "cơ thể (của biwa)"
+      },
+      {
+        "example": "浄化槽",
+        "reading": "ジョウカソウ",
+        "meaning": "bể lọc nước, bể tự hoại"
+      },
+      {
+        "example": "電解槽",
+        "reading": "デンカイソウ",
+        "meaning": "tế bào điện phân, bể điện phân"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "船",
+        "reading": "ふね",
+        "meaning": "tàu, thuyền, tàu thủy, tàu thủy, thủy phi cơ, xe tăng, bồn tắm, thùng, máng, quầy đựng đồ đựng hình thuyền (ví dụ: sashimi)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "一",
+      "日",
+      "木",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27133_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069fd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69fd.gif",
+    "uri": "https://jisho.org/search/%E6%A7%BD%23kanji"
+  }
+}

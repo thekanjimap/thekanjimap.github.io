@@ -1,0 +1,73 @@
+{
+  "id": "浄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "浄",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1383",
+    "strokeCount": 9,
+    "meaning": "dọn dẹp, tẩy rửa, tẩy rửa, trừ tà, triều đại Mãn Châu",
+    "kunyomi": [
+      "きよ.める",
+      "きよ.い"
+    ],
+    "onyomi": [
+      "ジョウ",
+      "セイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "浄化槽",
+        "reading": "ジョウカソウ",
+        "meaning": "bể lọc nước, bể tự hoại"
+      },
+      {
+        "example": "浄化",
+        "reading": "ジョウカ",
+        "meaning": "thanh lọc, dọn dẹp (ví dụ: chính trị), thanh trừng"
+      },
+      {
+        "example": "自浄",
+        "reading": "ジジョウ",
+        "meaning": "tự làm sạch, tự làm sạch"
+      },
+      {
+        "example": "不浄",
+        "reading": "フジョウ",
+        "meaning": "ô uế, dơ bẩn, không tinh khiết, phòng tắm, nhà vệ sinh (phòng), kinh nguyệt, kinh nguyệt, phân, phân"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "清める",
+        "reading": "きよめる",
+        "meaning": "thanh lọc, tẩy rửa, trừ tà, thanh lọc, xua đuổi"
+      },
+      {
+        "example": "清い",
+        "reading": "きよい",
+        "meaning": "trong sạch, trong sáng, trong sạch, trong sáng, trong sạch, trong sáng, thuần khiết, trong sạch"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "ヨ",
+      "亅",
+      "勹",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27972_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d44.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d44.gif",
+    "uri": "https://jisho.org/search/%E6%B5%84%23kanji"
+  }
+}

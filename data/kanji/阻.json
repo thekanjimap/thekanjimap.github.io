@@ -1,0 +1,64 @@
+{
+  "id": "阻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "阻",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1280",
+    "strokeCount": 8,
+    "meaning": "ngăn cản, ngăn chặn, ngăn chặn, cản trở, cản trở, cản trở",
+    "kunyomi": [
+      "はば.む"
+    ],
+    "onyomi": [
+      "ソ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "阻止",
+        "reading": "ソシ",
+        "meaning": "cản trở,ngăn ngừa,cản trở,kiểm tra,ngăn chặn,ngăn chặn"
+      },
+      {
+        "example": "阻害",
+        "reading": "ソガイ",
+        "meaning": "sự cản trở, sự cản trở, sự cản trở, sự cản trở, sự cản trở, sự ngăn cản"
+      },
+      {
+        "example": "悪阻",
+        "reading": "オソ",
+        "meaning": "ốm nghén, buồn nôn và nôn khi mang thai"
+      },
+      {
+        "example": "妊娠悪阻",
+        "reading": "ニンシンオソ",
+        "meaning": "chứng nôn nghén nặng, HG, ốm nghén nặng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "阻む",
+        "reading": "はばむ",
+        "meaning": "ngăn chặn ai đó làm, ngăn chặn, ngăn chặn, kiểm tra, cản trở, cản trở, phản đối, cản trở"
+      }
+    ],
+    "radical": {
+      "symbol": "阜",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "gò, đập (阝 trái)"
+    },
+    "parts": [
+      "一",
+      "目",
+      "阡"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38459_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0963b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/963b.gif",
+    "uri": "https://jisho.org/search/%E9%98%BB%23kanji"
+  }
+}

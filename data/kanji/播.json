@@ -1,0 +1,70 @@
+{
+  "id": "播",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "播",
+    "found": true,
+    "newspaperFrequencyRank": "2204",
+    "strokeCount": 15,
+    "meaning": "trồng, gieo",
+    "kunyomi": [
+      "ま.く"
+    ],
+    "onyomi": [
+      "ハ",
+      "バン",
+      "ハン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "播種",
+        "reading": "ハシュ",
+        "meaning": "gieo hạt, gieo hạt, trồng trọt"
+      },
+      {
+        "example": "は種床",
+        "reading": "ハシュドコ",
+        "meaning": "thùng ươm cây, luống ươm, luống gieo hạt"
+      },
+      {
+        "example": "播州",
+        "reading": "バンシュウ",
+        "meaning": "tên cũ của một phần tỉnh Hyogo"
+      },
+      {
+        "example": "播但線",
+        "reading": "バンタンセン",
+        "meaning": "Tuyến Bantan (tỉnh Hyogo)"
+      },
+      {
+        "example": "直播",
+        "reading": "ジカマキ",
+        "meaning": "gieo thẳng, gieo thẳng, gieo trực tiếp"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蒔く",
+        "reading": "まく",
+        "meaning": "gieo, trồng, gieo hạt, gieo (hạt giống, ví dụ xung đột), rắc (bột vàng hoặc bạc lên đồ sơn mài)"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "扎",
+      "田",
+      "米",
+      "釆"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25773_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064ad.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64ad.gif",
+    "uri": "https://jisho.org/search/%E6%92%AD%23kanji"
+  }
+}

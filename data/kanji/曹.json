@@ -1,0 +1,59 @@
+{
+  "id": "曹",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "曹",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1998",
+    "strokeCount": 11,
+    "meaning": "văn phòng, quan chức, đồng chí, đồng nghiệp",
+    "kunyomi": [],
+    "onyomi": [
+      "ソウ",
+      "ゾウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "曹",
+        "reading": "ソウ",
+        "meaning": "phòng cung điện dành cho quan chức chính phủ, đồng bào, tập thể (người), thị tộc, gia đình"
+      },
+      {
+        "example": "曹灰硼石",
+        "reading": "ソウカイホウセキ",
+        "meaning": "ulexit"
+      },
+      {
+        "example": "法曹",
+        "reading": "ホウソウ",
+        "meaning": "nghề luật, viên chức tư pháp, luật sư, luật sư"
+      },
+      {
+        "example": "海曹",
+        "reading": "カイソウ",
+        "meaning": "hạ sĩ quan (hải quân)"
+      },
+      {
+        "example": "曹司",
+        "reading": "ゾウシ",
+        "meaning": "phòng cung điện dành cho quan chức chính phủ hoặc phu nhân đang chờ đợi, phòng bên trong cung điện hoặc khu đất riêng dành cho nhân viên, người sống trong phòng đó, nhà trọ dành cho quản trị viên thực tập sinh (thời kỳ ritsuryō)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "曰",
+      "meaning": "nói"
+    },
+    "parts": [
+      "一",
+      "日",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26361_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/066f9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/66f9.gif",
+    "uri": "https://jisho.org/search/%E6%9B%B9%23kanji"
+  }
+}

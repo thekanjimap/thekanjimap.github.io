@@ -1,0 +1,58 @@
+{
+  "id": "剛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "剛",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1576",
+    "strokeCount": 10,
+    "meaning": "vững chắc, sức mạnh",
+    "kunyomi": [],
+    "onyomi": [
+      "ゴウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "剛",
+        "reading": "ゴウ",
+        "meaning": "sức mạnh, sự dẻo dai, lòng dũng cảm, sự táo bạo"
+      },
+      {
+        "example": "強情",
+        "reading": "ゴウジョウ",
+        "meaning": "bướng bỉnh, bướng bỉnh, cứng đầu"
+      },
+      {
+        "example": "強豪",
+        "reading": "キョウゴウ",
+        "meaning": "sức mạnh áp đảo, người cực kỳ mạnh, cường quốc, cầu thủ rất mạnh, đội rất mạnh"
+      },
+      {
+        "example": "金剛",
+        "reading": "コンゴウ",
+        "meaning": "vajra (chất không thể phá hủy), kim cương, adamantine, sấm sét, vũ khí của Indra, biểu tượng Phật giáo về chân lý không thể phá hủy"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "刀",
+      "forms": [
+        "刂"
+      ],
+      "meaning": "dao, kiếm"
+    },
+    "parts": [
+      "冂",
+      "刈",
+      "山",
+      "岡",
+      "并"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21083_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0525b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/525b.gif",
+    "uri": "https://jisho.org/search/%E5%89%9B%23kanji"
+  }
+}

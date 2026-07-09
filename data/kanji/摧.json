@@ -1,0 +1,62 @@
+{
+  "id": "摧",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "摧",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "phá vỡ, đập vỡ, nghiền nát, quen thuộc, phổ biến",
+    "kunyomi": [
+      "くだ.く"
+    ],
+    "onyomi": [
+      "サイ",
+      "サ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "砕身",
+        "reading": "サイシン",
+        "meaning": "làm việc vất vả đến mức hủy hoại thân thể, vật lộn đến mức tự nghiền nát mình"
+      },
+      {
+        "example": "玉砕",
+        "reading": "ギョクサイ",
+        "meaning": "cái chết trong danh dự, cái chết không đầu hàng, thất bại trong danh dự, cố gắng nhưng bị đánh bại hoàn toàn, bị từ chối hoàn toàn khi tỏ tình"
+      },
+      {
+        "example": "破砕",
+        "reading": "ハサイ",
+        "meaning": "nghiền (thành từng mảnh), đập vỡ, làm nứt, vỡ ra"
+      },
+      {
+        "example": "砕身",
+        "reading": "サイシン",
+        "meaning": "làm việc vất vả đến mức hủy hoại thân thể, vật lộn đến mức tự nghiền nát mình"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "砕く",
+        "reading": "くだく",
+        "meaning": "đập vỡ (thành từng mảnh), đập vỡ, nghiền nát, nghiền nát, nghiền (thành bột), đập nát, đập vỡ (hy vọng, sự tự tin của ai đó, v.v.), nghiền nát, làm nản lòng, đơn giản hóa, làm cho dễ hiểu"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "山",
+      "扎",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25703_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06467.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6467.gif",
+    "uri": "https://jisho.org/search/%E6%91%A7%23kanji"
+  }
+}

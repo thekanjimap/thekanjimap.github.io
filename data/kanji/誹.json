@@ -1,0 +1,66 @@
+{
+  "id": "誹",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "誹",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "giễu cợt, vu khống",
+    "kunyomi": [
+      "そし.る"
+    ],
+    "onyomi": [
+      "ヒ",
+      "ハイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "誹謗",
+        "reading": "ヒボウ",
+        "meaning": "vu khống, lạm dụng"
+      },
+      {
+        "example": "誹毀",
+        "reading": "ヒキ",
+        "meaning": "sự phỉ báng, sự bôi nhọ, sự vu khống, sự vu khống"
+      },
+      {
+        "example": "譏誹",
+        "reading": "キヒ",
+        "meaning": "lạm dụng, vu khống"
+      },
+      {
+        "example": "俳諧",
+        "reading": "ハイカイ",
+        "meaning": "haikai (tên gọi chung của haiku, haibun, haiga, senryū, v.v.), haikai no renga (phong cách renga hài hước, thường thô tục xuất hiện vào thế kỷ 16), ngớ ngẩn, hài hước"
+      },
+      {
+        "example": "俳風",
+        "reading": "ハイフウ",
+        "meaning": "phong cách của một bài thơ haikai hoặc haiku"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "謗る",
+        "reading": "そしる",
+        "meaning": "nói xấu, bôi nhọ, chỉ trích, chỉ trích"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "lời nói"
+    },
+    "parts": [
+      "言",
+      "非"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35513_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ab9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ab9.gif",
+    "uri": "https://jisho.org/search/%E8%AA%B9%23kanji"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "朔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "朔",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2318",
+    "strokeCount": 10,
+    "meaning": "giao hội (thiên văn học), ngày đầu tháng, phía bắc",
+    "kunyomi": [
+      "ついたち"
+    ],
+    "onyomi": [
+      "サク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "朔",
+        "reading": "サク",
+        "meaning": "Trăng non, ngày đầu tiên của tháng âm lịch, lịch và sắc lệnh của năm tới (ở Trung Quốc cổ đại; được Hoàng đế ban hành vào cuối năm)"
+      },
+      {
+        "example": "朔日",
+        "reading": "サクジツ",
+        "meaning": "ngày đầu tháng (theo âm lịch)"
+      },
+      {
+        "example": "晦朔",
+        "reading": "カイサク",
+        "meaning": "những ngày cuối cùng và đầu tiên của tháng"
+      },
+      {
+        "example": "正朔",
+        "reading": "セイサク",
+        "meaning": "đầu tháng, đầu năm, ngày đầu năm, lịch"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "１日",
+        "reading": "ついたち",
+        "meaning": "ngày đầu tiên của tháng"
+      }
+    ],
+    "radical": {
+      "symbol": "月",
+      "meaning": "mặt trăng, tháng"
+    },
+    "parts": [
+      "屮",
+      "并",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26388_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06714.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6714.gif",
+    "uri": "https://jisho.org/search/%E6%9C%94%23kanji"
+  }
+}

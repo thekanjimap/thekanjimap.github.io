@@ -1,0 +1,66 @@
+{
+  "id": "拍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "拍",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1373",
+    "strokeCount": 8,
+    "meaning": "vỗ tay, đánh (âm nhạc)",
+    "kunyomi": [],
+    "onyomi": [
+      "ハク",
+      "ヒョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "拍",
+        "reading": "ハク",
+        "meaning": "đánh bại, mora"
+      },
+      {
+        "example": "拍車",
+        "reading": "ハクシャ",
+        "meaning": "(cưỡi) thúc đẩy, thúc đẩy, tăng tốc, thúc đẩy"
+      },
+      {
+        "example": "強拍",
+        "reading": "キョウハク",
+        "meaning": "nhịp điệu trầm lắng, có dấu"
+      },
+      {
+        "example": "上拍",
+        "reading": "ジョウハク",
+        "meaning": "lạc quan"
+      },
+      {
+        "example": "拍子",
+        "reading": "ヒョウシ",
+        "meaning": "(âm nhạc) thời gian, tiết tấu, tiết tấu, tiết tấu, lúc, lúc, cơ hội"
+      },
+      {
+        "example": "拍子抜け",
+        "reading": "ヒョウシヌケ",
+        "meaning": "cao trào, thất vọng, thất vọng, mất hứng thú"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "扎",
+      "白"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25293_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062cd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62cd.gif",
+    "uri": "https://jisho.org/search/%E6%8B%8D%23kanji"
+  }
+}

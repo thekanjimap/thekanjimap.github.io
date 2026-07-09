@@ -1,0 +1,52 @@
+{
+  "id": "汲",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "汲",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "múc (nước), muôi, múc, bơm",
+    "kunyomi": [
+      "く.む"
+    ],
+    "onyomi": [
+      "キュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "汲々",
+        "reading": "キュウキュウ",
+        "meaning": "siêng năng, chăm chỉ (trong việc gì)"
+      },
+      {
+        "example": "汲々",
+        "reading": "キュウキュウ",
+        "meaning": "siêng năng, chăm chỉ (trong việc gì)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "汲む",
+        "reading": "くむ",
+        "meaning": "múc (nước), múc, nhúng, múc, bơm, rót (vào cốc), uống (cùng), xem xét (cảm xúc, hoàn cảnh, v.v.), thông cảm, trực giác, hiểu, rút ra, kế thừa"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "ノ",
+      "及",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27762_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c72.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c72.gif",
+    "uri": "https://jisho.org/search/%E6%B1%B2%23kanji"
+  }
+}

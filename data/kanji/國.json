@@ -1,0 +1,68 @@
+{
+  "id": "國",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "國",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "đất nước",
+    "kunyomi": [
+      "くに"
+    ],
+    "onyomi": [
+      "コク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "国際",
+        "reading": "コクサイ",
+        "meaning": "quan hệ quốc tế, ngoại giao"
+      },
+      {
+        "example": "国語",
+        "reading": "コクゴ",
+        "meaning": "ngôn ngữ quốc gia, tiếng Nhật (đặc biệt là môn học ở Nhật Bản), ngôn ngữ mẹ đẻ, tiếng mẹ đẻ, từ tiếng Nhật bản địa (trái ngược với từ mượn và từ có nguồn gốc từ Trung Quốc)"
+      },
+      {
+        "example": "大韓民国",
+        "reading": "ダイカンミンコク",
+        "meaning": "Hàn Quốc, Hàn Quốc"
+      },
+      {
+        "example": "連合王国",
+        "reading": "レンゴウオウコク",
+        "meaning": "Vương quốc Anh"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "国",
+        "reading": "くに",
+        "meaning": "đất nước, tiểu bang, khu vực, chính quyền quốc gia, chính quyền trung ương, quê hương (tức là quê hương, quê hương), tỉnh (của Nhật Bản), đất đai, trái đất"
+      },
+      {
+        "example": "堅州国",
+        "reading": "かたすくに",
+        "meaning": "thế giới ngầm, thế giới ngầm"
+      },
+      {
+        "example": "根の堅州国",
+        "reading": "ねのかたすくに",
+        "meaning": "thế giới ngầm, thế giới ngầm"
+      }
+    ],
+    "radical": {
+      "symbol": "囗",
+      "meaning": "bao vây"
+    },
+    "parts": [
+      "口",
+      "囗",
+      "戈"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22283_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0570b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/570b.gif",
+    "uri": "https://jisho.org/search/%E5%9C%8B%23kanji"
+  }
+}

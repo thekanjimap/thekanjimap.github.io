@@ -1,0 +1,51 @@
+{
+  "id": "皓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "皓",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2428",
+    "strokeCount": 12,
+    "meaning": "trắng, rõ ràng",
+    "kunyomi": [
+      "しろ.い",
+      "ひか.る"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "皓月",
+        "reading": "コウゲツ",
+        "meaning": "trăng trắng sáng"
+      },
+      {
+        "example": "皓々",
+        "reading": "コウコウ",
+        "meaning": "sáng (đặc biệt là mặt trăng), rộng và trống rỗng"
+      },
+      {
+        "example": "皓々",
+        "reading": "コウコウ",
+        "meaning": "sáng (đặc biệt là mặt trăng), rộng và trống rỗng"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "白",
+      "meaning": "trắng"
+    },
+    "parts": [
+      "ノ",
+      "口",
+      "土",
+      "白"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30355_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07693.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7693.gif",
+    "uri": "https://jisho.org/search/%E7%9A%93%23kanji"
+  }
+}

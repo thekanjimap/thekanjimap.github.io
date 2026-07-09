@@ -1,0 +1,71 @@
+{
+  "id": "侠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "侠",
+    "found": true,
+    "newspaperFrequencyRank": "2385",
+    "strokeCount": 8,
+    "meaning": "tomboy, tinh thần hiệp sĩ",
+    "kunyomi": [
+      "きゃん",
+      "おとこだて"
+    ],
+    "onyomi": [
+      "キョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "侠客",
+        "reading": "キョウカク",
+        "meaning": "tự cho mình là nhân đạo, người hành động dưới danh nghĩa hiệp sĩ khi tham gia vào các băng nhóm và tham gia đánh bạc"
+      },
+      {
+        "example": "男気",
+        "reading": "オトコギ",
+        "meaning": "tinh thần hiệp sĩ, tinh thần hiệp sĩ"
+      },
+      {
+        "example": "任侠",
+        "reading": "ニンキョウ",
+        "meaning": "tinh thần hiệp sĩ, tinh thần hiệp sĩ, giúp đỡ kẻ yếu và chiến đấu với kẻ mạnh, yakuza"
+      },
+      {
+        "example": "遊侠",
+        "reading": "ユウキョウ",
+        "meaning": "người hào hiệp"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "侠",
+        "reading": "きゃん",
+        "meaning": "Pert, tomboyish, trơ tráo, sôi nổi, huyên náo, ga lăng, hào hiệp"
+      },
+      {
+        "example": "お侠",
+        "reading": "おきゃん",
+        "meaning": "Pert, tomboyish, trơ tráo, sôi nổi, náo nhiệt"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "đàn ông, con người"
+    },
+    "parts": [
+      "二",
+      "亠",
+      "人",
+      "化",
+      "大",
+      "并"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20384_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04fa0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4fa0.gif",
+    "uri": "https://jisho.org/search/%E4%BE%A0%23kanji"
+  }
+}

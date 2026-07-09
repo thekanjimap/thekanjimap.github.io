@@ -1,0 +1,46 @@
+{
+  "id": "徭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "徭",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "nghĩa vụ bắt buộc đối với nhà nước, tù nhân",
+    "kunyomi": [
+      "えだち",
+      "ふぞろ.い",
+      "つかい"
+    ],
+    "onyomi": [
+      "ヨウ",
+      "エウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "徭役",
+        "reading": "ヨウエキ",
+        "meaning": "dịch vụ lao động theo quy định (thời kỳ ritsuryō), socage"
+      },
+      {
+        "example": "雑徭",
+        "reading": "ゾウヨウ",
+        "meaning": "lao động cưỡng bức (lao động) áp đặt lên thường dân (thời kỳ ritsuryō)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "彳",
+      "meaning": "bước"
+    },
+    "parts": [
+      "凵",
+      "夕",
+      "彳",
+      "缶"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24493_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fad.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fad.gif",
+    "uri": "https://jisho.org/search/%E5%BE%AD%23kanji"
+  }
+}

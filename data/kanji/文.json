@@ -1,0 +1,477 @@
+{
+  "id": "文",
+  "kanjialiveData": {
+    "_id": "54317ae4791eba5146ee4981",
+    "_rev": "11-6461a36f97ce6adc35c9812f91db0344",
+    "rad_name_ja": "ぶん",
+    "grade": 1,
+    "hint_group": 1,
+    "kunyomi": "fumi",
+    "meaning": "lá thư, bài viết, câu",
+    "kstroke": 4,
+    "examples": [
+      {
+        "japanese": "文法（ぶんぽう）",
+        "meaning": {
+          "english": "ngữ pháp"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bun-fumi_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bun-fumi_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/bun-fumi_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/bun-fumi_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "文章（ぶんしょう）",
+        "meaning": {
+          "english": "câu"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bun-fumi_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bun-fumi_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/bun-fumi_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/bun-fumi_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "文学（ぶんがく）",
+        "meaning": {
+          "english": "văn học"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bun-fumi_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bun-fumi_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/bun-fumi_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/bun-fumi_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "文化（ぶんか）",
+        "meaning": {
+          "english": "văn hóa"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bun-fumi_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bun-fumi_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/bun-fumi_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/bun-fumi_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "文明（ぶんめい）",
+        "meaning": {
+          "english": "nền văn minh"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bun-fumi_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bun-fumi_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/bun-fumi_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/bun-fumi_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "文庫本（ぶんこぼん）",
+        "meaning": {
+          "english": "bìa mềm"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bun-fumi_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bun-fumi_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/bun-fumi_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/bun-fumi_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "文房具（ぶんぼうぐ）",
+        "meaning": {
+          "english": "văn phòng phẩm"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bun-fumi_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bun-fumi_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/bun-fumi_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/bun-fumi_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "論文（ろんぶん）",
+        "meaning": {
+          "english": "luận án"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bun-fumi_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bun-fumi_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/bun-fumi_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/bun-fumi_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "文通する（ぶんつうする）",
+        "meaning": {
+          "english": "trao đổi thư từ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bun-fumi_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bun-fumi_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/bun-fumi_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/bun-fumi_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "文部省（もんぶしょう）",
+        "meaning": {
+          "english": "Bộ Giáo dục"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bun-fumi_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bun-fumi_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/bun-fumi_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/bun-fumi_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "文句（もんく）",
+        "meaning": {
+          "english": "cụm từ, phàn nàn"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bun-fumi_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bun-fumi_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/bun-fumi_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/bun-fumi_06_k.mp3"
+        }
+      },
+      {
+        "japanese": "恋文（こいぶみ）",
+        "meaning": {
+          "english": "bức thư tình"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/bun-fumi_06_l.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/bun-fumi_06_l.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/bun-fumi_06_l.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/bun-fumi_06_l.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "ふみ",
+    "ka_utf": "文",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=文",
+    "kname": "bun-fumi",
+    "rad_order": 87,
+    "txt_books": [
+      {
+        "chapter": "20",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "12",
+        "txt_bk": "macquarie"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtAd3"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "17",
+        "txt_bk": "txtSFJ3"
+      },
+      {
+        "chapter": "17",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "18",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "14",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "mosr",
+        "chapter": "5"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "17"
+      }
+    ],
+    "rad_name_search": [
+      "bun"
+    ],
+    "rad_utf": "⽂",
+    "stroketimes": [
+      0,
+      1.865,
+      3.132,
+      4.065,
+      4.8
+    ],
+    "kunyomi_ka_display": "ふみ",
+    "dick": "1242",
+    "rad_name": "bun",
+    "dicn": "2064",
+    "mn_hint": "Please view the animation in the radical field to the left.",
+    "rad_stroke": 4,
+    "onyomi_ja": "ブン、モン",
+    "rad_meaning": "văn chương, thư từ",
+    "onyomi": "bun, mon",
+    "ka_id": "ka_211",
+    "onyomi_search": [
+      "bun",
+      "mon",
+      "bun, mon"
+    ],
+    "kunyomi_search": [
+      "fumi",
+      "fumi"
+    ],
+    "meaning_search": [
+      "letter",
+      "writings",
+      "sentence",
+      "letter, writings, sentence"
+    ],
+    "onyomi_ja_search": [
+      "ブン",
+      "モン",
+      "ブン、モン"
+    ],
+    "kunyomi_ja_search": [
+      "ふみ",
+      "ふみ"
+    ],
+    "rad_meaning_search": [
+      "literature",
+      "letters",
+      "literature, letters"
+    ],
+    "rad_name_ja_search": [
+      "ぶん"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:20",
+      "cij:c20",
+      "bk",
+      "bk:7",
+      "bk:c7",
+      "mac",
+      "mac:12",
+      "mac:c12",
+      "aij3",
+      "aij3:2",
+      "aij3:c2",
+      "aij3:v3",
+      "aij3:v3:2",
+      "aij3:v3:c2",
+      "gen",
+      "gen:7",
+      "gen:c7",
+      "ap",
+      "ap:18",
+      "ap:c18",
+      "kll",
+      "kll:14",
+      "kll:c14",
+      "mosr",
+      "mosr:5",
+      "mosr:c5",
+      "cijr",
+      "cijr:17",
+      "cijr:c17"
+    ],
+    "rad_name_file": "bun",
+    "kanji": {
+      "character": "文",
+      "meaning": {
+        "english": "letter, writings, sentence"
+      },
+      "strokes": {
+        "count": 4,
+        "timings": [
+          0,
+          1.865,
+          3.132,
+          4.065,
+          4.8
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/bun-fumi_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/bun-fumi_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/bun-fumi_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/bun-fumi_4.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "bun, mon",
+        "katakana": "ブン、モン"
+      },
+      "kunyomi": {
+        "romaji": "fumi",
+        "hiragana": "ふみ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/bun-fumi_4.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/bun-fumi_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/bun-fumi_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⽂",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/bun.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "ぶん",
+        "romaji": "bun"
+      },
+      "meaning": {
+        "english": "văn chương, thư từ"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/bun0.svg",
+        "https://media.kanjialive.com/rad_frames/bun1.svg",
+        "https://media.kanjialive.com/rad_frames/bun2.svg"
+      ]
+    },
+    "references": {
+      "grade": 1,
+      "kodansha": "1242",
+      "classic_nelson": "2064"
+    }
+  },
+  "jishoData": {
+    "query": "文",
+    "found": true,
+    "taughtIn": "lớp 1",
+    "jlptLevel": "N4",
+    "newspaperFrequencyRank": "190",
+    "strokeCount": 4,
+    "meaning": "câu, văn học, phong cách, nghệ thuật, trang trí, số liệu, kế hoạch, cấp tiến văn học (số 67)",
+    "kunyomi": [
+      "ふみ",
+      "あや"
+    ],
+    "onyomi": [
+      "ブン",
+      "モン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "文",
+        "reading": "ブン",
+        "meaning": "câu, bố cục, văn bản, bài viết, nghệ thuật văn học (trái ngược với nghệ thuật quân sự), học thuật, văn học, tuyên bố"
+      },
+      {
+        "example": "文化",
+        "reading": "ブンカ",
+        "meaning": "văn hóa, văn minh, văn minh, thời đại Bunka (1804.2.11-1818.4.22)"
+      },
+      {
+        "example": "公文",
+        "reading": "コウブン",
+        "meaning": "tài liệu chính thức, tài liệu lưu trữ"
+      },
+      {
+        "example": "異文",
+        "reading": "イブン",
+        "meaning": "biến thể (trong bản thảo hoặc sách), một phần của văn bản khác với các phiên bản khác"
+      },
+      {
+        "example": "文",
+        "reading": "モン",
+        "meaning": "mon, một phần nghìn kan (đơn vị tiền tệ 1336-1870), mon, đơn vị truyền thống dùng cho cỡ giày và tất (khoảng 2,4 cm), chữ cái, ký tự, câu, kinh thánh, câu thần chú"
+      },
+      {
+        "example": "紋",
+        "reading": "モン",
+        "meaning": "(gia đình) huy hiệu, huy hiệu, hoa văn, hình dáng, bộ đồ chơi bài (trong karuta)"
+      },
+      {
+        "example": "人文",
+        "reading": "ジンブン",
+        "meaning": "nhân loại, văn minh, văn minh, văn hóa"
+      },
+      {
+        "example": "縄文",
+        "reading": "ジョウモン",
+        "meaning": "hoa văn dây rơm ép vào đồ đất nung, thời Jōmon (khoảng 14000-1000 BCE)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "文",
+        "reading": "ふみ",
+        "meaning": "lá thư, chú thích, thư, sách, Tác phẩm, văn học nghệ thuật, học tập, học bổng"
+      },
+      {
+        "example": "文香",
+        "reading": "ふみこう",
+        "meaning": "tờ giấy thơm (để kèm theo một lá thư), tờ giấy thơm"
+      },
+      {
+        "example": "御文",
+        "reading": "おふみ",
+        "meaning": "Gobunsho (The Epistles, tập hợp các bức thư được viết bởi Rennyo)"
+      },
+      {
+        "example": "雁の文",
+        "reading": "かりのふみ",
+        "meaning": "(a) lá thư"
+      },
+      {
+        "example": "綾",
+        "reading": "あや",
+        "meaning": "hình vẽ, thiết kế, dệt chéo, kiểu sọc chéo, phong cách (chữ viết), hình dáng (lời nói), thiết kế, cốt truyện, kế hoạch, biến động nhỏ của thị trường, chỉnh sửa kỹ thuật, cái nôi mèo, cần thuê (trong khung cửi)"
+      },
+      {
+        "example": "文つける",
+        "reading": "あやつける",
+        "meaning": "buộc tội sai, bịa ra một cái cớ để cãi vã"
+      },
+      {
+        "example": "言葉は身の文",
+        "reading": "ことばはみのあや",
+        "meaning": "lời nói phản bội tính cách của một người"
+      }
+    ],
+    "radical": {
+      "symbol": "文",
+      "meaning": "kịch bản, văn học"
+    },
+    "parts": [
+      "文"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25991_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06587.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6587.gif",
+    "uri": "https://jisho.org/search/%E6%96%87%23kanji"
+  }
+}

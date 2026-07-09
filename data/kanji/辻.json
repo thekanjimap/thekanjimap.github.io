@@ -1,0 +1,55 @@
+{
+  "id": "辻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "辻",
+    "found": true,
+    "newspaperFrequencyRank": "1614",
+    "strokeCount": 5,
+    "meaning": "ngã tư, ngã tư, góc phố, (kokuji)",
+    "kunyomi": [
+      "つじ"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "辻",
+        "reading": "つじ",
+        "meaning": "ngã tư, băng qua, ngã tư, góc phố, đường phố"
+      },
+      {
+        "example": "旋風",
+        "reading": "せんぷう",
+        "meaning": "cơn lốc, cảm giác, chấn động, Hullabaloo"
+      },
+      {
+        "example": "辻辻",
+        "reading": "つじつじ",
+        "meaning": "từng góc phố, từng ngã tư"
+      },
+      {
+        "example": "四辻",
+        "reading": "よつつじ",
+        "meaning": "ngã tư, ngã tư, ngã tư, carrefour"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "đi bộ"
+    },
+    "parts": [
+      "十",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36795_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08fbb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8fbb.gif",
+    "uri": "https://jisho.org/search/%E8%BE%BB%23kanji"
+  }
+}

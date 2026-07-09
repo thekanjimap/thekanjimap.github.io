@@ -1,0 +1,68 @@
+{
+  "id": "斃",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "斃",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "giết, chết một cách bạo lực",
+    "kunyomi": [
+      "たお.れる",
+      "たお.す"
+    ],
+    "onyomi": [
+      "ヘイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "斃牛馬",
+        "reading": "ヘイギュウバ",
+        "meaning": "(quyền mua) ngựa và gia súc chết (thời Edo)"
+      },
+      {
+        "example": "へい死",
+        "reading": "ヘイシ",
+        "meaning": "rơi xuống chết, sắp chết, hấp hối"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "倒れる",
+        "reading": "たおれる",
+        "meaning": "ngã (trên, xuống), sụp đổ, ngã, lật đổ, bị phá hủy (trong một sự sụp đổ), sụp đổ, sụp đổ, sụp đổ, cho đi, nằm trên giường (bị bệnh), suy sụp, suy sụp (ví dụ do làm việc quá sức), chết, bị giết, phá sản (của một công ty, ngân hàng, v.v.), thất bại, suy sụp, suy sụp, bị đánh bại (trong một trò chơi), thua, rơi (của một cái gì đó) chính phủ, nhà độc tài, v.v.), bị lật đổ"
+      },
+      {
+        "example": "斃れる",
+        "reading": "たおれる",
+        "meaning": "chết, bị giết"
+      },
+      {
+        "example": "倒す",
+        "reading": "たおす",
+        "meaning": "ném xuống, làm đổ xuống, hạ xuống, ngã, đánh đổ, đặt (cái gì) xuống, lật (cái gì đó) về phía nó, ngả (ví dụ: một cái ghế), giết, đánh bại, đánh đập, lật đổ, vấp ngã, phá hoại, không trả tiền, gian lận, làm hoàn toàn, làm triệt để, làm hết mức"
+      }
+    ],
+    "radical": {
+      "symbol": "攴",
+      "forms": [
+        "攵"
+      ],
+      "meaning": "rap"
+    },
+    "parts": [
+      "乞",
+      "冂",
+      "匕",
+      "夕",
+      "小",
+      "尚",
+      "巾",
+      "并",
+      "攵"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25987_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06583.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6583.gif",
+    "uri": "https://jisho.org/search/%E6%96%83%23kanji"
+  }
+}

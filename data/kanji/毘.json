@@ -1,0 +1,47 @@
+{
+  "id": "毘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "毘",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "giúp đỡ, hỗ trợ",
+    "kunyomi": [
+      "たす.ける"
+    ],
+    "onyomi": [
+      "ヒ",
+      "ビ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "毘沙門天",
+        "reading": "ビシャモンテン",
+        "meaning": "Vaisravana (thần hộ mệnh của Phật giáo)"
+      },
+      {
+        "example": "毘盧遮那",
+        "reading": "ビルシャナ",
+        "meaning": "Vairocana (Đức Phật tượng trưng cho toàn bộ thế giới hiện tượng học)"
+      },
+      {
+        "example": "荼毘",
+        "reading": "ダビ",
+        "meaning": "hỏa táng"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "比",
+      "meaning": "so sánh, cạnh tranh"
+    },
+    "parts": [
+      "比",
+      "田"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27608_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bd8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bd8.gif",
+    "uri": "https://jisho.org/search/%E6%AF%98%23kanji"
+  }
+}

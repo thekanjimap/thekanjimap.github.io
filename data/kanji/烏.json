@@ -1,0 +1,94 @@
+{
+  "id": "烏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "烏",
+    "found": true,
+    "newspaperFrequencyRank": "2042",
+    "strokeCount": 10,
+    "meaning": "con quạ, con quạ",
+    "kunyomi": [
+      "からす",
+      "いずくんぞ",
+      "なんぞ"
+    ],
+    "onyomi": [
+      "ウ",
+      "オ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "烏克蘭",
+        "reading": "ウクライナ",
+        "meaning": "Ukraina"
+      },
+      {
+        "example": "烏焉魯魚",
+        "reading": "ウエンロギョ",
+        "meaning": "viết sai một từ, dùng sai chữ kanji để viết một từ"
+      },
+      {
+        "example": "屋烏",
+        "reading": "オクウ",
+        "meaning": "con quạ đậu trên mái nhà"
+      },
+      {
+        "example": "愛及屋烏",
+        "reading": "アイキュウオクウ",
+        "meaning": "sự mê đắm, say mê"
+      },
+      {
+        "example": "烏秋",
+        "reading": "オウチュウ",
+        "meaning": "drongo đen (Dicrurus macrocercus)"
+      },
+      {
+        "example": "烏滸",
+        "reading": "オコ",
+        "meaning": "điều ngu xuẩn, điều ngu xuẩn, điều ngớ ngẩn"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "【カラス】",
+        "reading": "crow (Corvus spp.), raven",
+        "meaning": ""
+      },
+      {
+        "example": "烏河豚",
+        "reading": "からす",
+        "meaning": "Cá nóc Trung Quốc (Takifugu chinensis)"
+      },
+      {
+        "example": "闇夜に烏",
+        "reading": "やみよにからす",
+        "meaning": "điều gì đó không rõ ràng, một con quạ trong đêm tối đen như mực"
+      },
+      {
+        "example": "八咫の烏",
+        "reading": "やたのからす",
+        "meaning": "Yatagarasu (con quạ thần thoại đã hỗ trợ Hoàng đế Jimmu trong chuyến thám hiểm phía đông), con quạ ba chân sống ở mặt trời trong thần thoại Trung Quốc"
+      },
+      {
+        "example": "安んぞ",
+        "reading": "いずくんぞ",
+        "meaning": "thế nào, tại sao"
+      }
+    ],
+    "radical": {
+      "symbol": "火",
+      "forms": [
+        "灬"
+      ],
+      "meaning": "ngọn lửa"
+    },
+    "parts": [
+      "杰",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28879_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/070cf.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/70cf.gif",
+    "uri": "https://jisho.org/search/%E7%83%8F%23kanji"
+  }
+}

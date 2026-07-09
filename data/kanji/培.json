@@ -1,0 +1,61 @@
+{
+  "id": "培",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "培",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1431",
+    "strokeCount": 11,
+    "meaning": "trồng trọt, nuôi dưỡng",
+    "kunyomi": [
+      "つちか.う"
+    ],
+    "onyomi": [
+      "バイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "培養",
+        "reading": "バイヨウ",
+        "meaning": "văn hóa, trồng trọt, trồng trọt (cây trồng), trồng trọt, chăn nuôi, trồng trọt (ví dụ: kỹ năng), nuôi dưỡng (dân chủ, sức mạnh quốc gia, v.v.), tăng trưởng"
+      },
+      {
+        "example": "培植",
+        "reading": "バイショク",
+        "meaning": "trồng trọt (cây), trồng trọt"
+      },
+      {
+        "example": "育成栽培",
+        "reading": "イクセイサイバイ",
+        "meaning": "trồng rau và trái cây"
+      },
+      {
+        "example": "促成栽培",
+        "reading": "ソクセイサイバイ",
+        "meaning": "ép buộc (thực vật, rau củ, v.v.), đẩy nhanh sự phát triển của thực vật một cách giả tạo (bằng cách kiểm soát nhiệt độ, ánh sáng, v.v.)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "培う",
+        "reading": "つちかう",
+        "meaning": "nuôi dưỡng, nuôi dưỡng"
+      }
+    ],
+    "radical": {
+      "symbol": "土",
+      "meaning": "trái đất"
+    },
+    "parts": [
+      "口",
+      "土",
+      "立"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22521_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/057f9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/57f9.gif",
+    "uri": "https://jisho.org/search/%E5%9F%B9%23kanji"
+  }
+}

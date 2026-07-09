@@ -1,0 +1,65 @@
+{
+  "id": "拙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "拙",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1938",
+    "strokeCount": 8,
+    "meaning": "vụng về, vụng về, thiếu khéo léo",
+    "kunyomi": [
+      "つたな.い"
+    ],
+    "onyomi": [
+      "セツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "拙",
+        "reading": "セツ",
+        "meaning": "nghèo, vụng về, tôi, tôi"
+      },
+      {
+        "example": "拙劣",
+        "reading": "セツレツ",
+        "meaning": "vụng về, kém khéo léo"
+      },
+      {
+        "example": "稚拙",
+        "reading": "チセツ",
+        "meaning": "không khéo léo, trẻ con, non nớt, ngây thơ, thiếu nghệ thuật, vụng về, thô thiển"
+      },
+      {
+        "example": "巧拙",
+        "reading": "コウセツ",
+        "meaning": "tay nghề, tay nghề, sự khéo léo, chất lượng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "拙い",
+        "reading": "つたない",
+        "meaning": "chất lượng kém, kém chất lượng, thô thiển, không khéo léo, thiếu kinh nghiệm, kém cỏi, kém cỏi, ngu ngốc, vụng về, không may mắn"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "凵",
+      "山",
+      "扎",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25305_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062d9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62d9.gif",
+    "uri": "https://jisho.org/search/%E6%8B%99%23kanji"
+  }
+}

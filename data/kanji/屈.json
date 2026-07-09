@@ -1,0 +1,68 @@
+{
+  "id": "屈",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "屈",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1434",
+    "strokeCount": 8,
+    "meaning": "nhường, uốn cong, nao núng, khuất phục",
+    "kunyomi": [
+      "かが.む",
+      "かが.める"
+    ],
+    "onyomi": [
+      "クツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "屈辱",
+        "reading": "クツジョク",
+        "meaning": "sự ô nhục, sự sỉ nhục"
+      },
+      {
+        "example": "屈従",
+        "reading": "クツジュウ",
+        "meaning": "sự phục tùng nô lệ, sự phục tùng"
+      },
+      {
+        "example": "背屈",
+        "reading": "ハイクツ",
+        "meaning": "sự uốn cong lưng, sự uốn cong lưng"
+      },
+      {
+        "example": "後屈",
+        "reading": "コウクツ",
+        "meaning": "sự phản xạ lại"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "屈む",
+        "reading": "かがむ",
+        "meaning": "cúi xuống, cúi xuống, cúi về phía trước, cúi xuống, cúi xuống, ngồi xổm"
+      },
+      {
+        "example": "屈める",
+        "reading": "かがめる",
+        "meaning": "cúi xuống, uốn cong (ví dụ: đầu gối của một người)"
+      }
+    ],
+    "radical": {
+      "symbol": "尸",
+      "meaning": "xác chết"
+    },
+    "parts": [
+      "凵",
+      "尸",
+      "山",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23624_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c48.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c48.gif",
+    "uri": "https://jisho.org/search/%E5%B1%88%23kanji"
+  }
+}

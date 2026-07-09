@@ -1,0 +1,53 @@
+{
+  "id": "楮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "楮",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "dâu giấy",
+    "kunyomi": [
+      "こうぞ"
+    ],
+    "onyomi": [
+      "チョ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "楮紙",
+        "reading": "コウゾガミ",
+        "meaning": "kozo (giấy), kōzogami, khăn giấy Nhật Bản làm từ sợi vỏ cây dâu giấy"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "楮",
+        "reading": "こうぞ",
+        "meaning": "kozo (Broussonetia kazinoki x papyrifera), cây dâu giấy Nhật Bản"
+      },
+      {
+        "example": "楮紙",
+        "reading": "こうぞがみ",
+        "meaning": "kozo (giấy), kōzogami, khăn giấy Nhật Bản làm từ sợi vỏ cây dâu giấy"
+      },
+      {
+        "example": "姫楮",
+        "reading": "ひめこうぞ",
+        "meaning": "Broussonetia kazinoki (loài dâu tằm)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "日",
+      "木",
+      "老"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26990_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0696e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/696e.gif",
+    "uri": "https://jisho.org/search/%E6%A5%AE%23kanji"
+  }
+}

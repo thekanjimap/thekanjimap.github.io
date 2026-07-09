@@ -1,0 +1,81 @@
+{
+  "id": "鑿",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鑿",
+    "found": true,
+    "strokeCount": 28,
+    "meaning": "cái đục",
+    "kunyomi": [
+      "のみ",
+      "うが.つ"
+    ],
+    "onyomi": [
+      "サク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "削岩機",
+        "reading": "サクガンキ",
+        "meaning": "máy khoan đá, máy khoan khí nén, máy khoan búa"
+      },
+      {
+        "example": "さく井",
+        "reading": "サクセイ",
+        "meaning": "khoan giếng"
+      },
+      {
+        "example": "掘削",
+        "reading": "クッサク",
+        "meaning": "đào bới, đào bới"
+      },
+      {
+        "example": "開削",
+        "reading": "カイサク",
+        "meaning": "đào, cắt, đào"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鑿",
+        "reading": "のみ",
+        "meaning": "cái đục"
+      },
+      {
+        "example": "鑿と言えば槌",
+        "reading": "のみといえばつち",
+        "meaning": "người ta nên làm nhiều hơn những gì được yêu cầu theo đúng nghĩa đen, khi được yêu cầu (mang theo) cái đục, (cũng mang theo) cái vồ"
+      },
+      {
+        "example": "鎬鑿",
+        "reading": "しのぎのみ",
+        "meaning": "đục để làm khớp nối"
+      },
+      {
+        "example": "平鑿",
+        "reading": "ひらのみ",
+        "meaning": "đục phẳng"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "kim loại, vàng"
+    },
+    "parts": [
+      "几",
+      "又",
+      "干",
+      "并",
+      "殳",
+      "臼",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38015_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0947f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/947f.gif",
+    "uri": "https://jisho.org/search/%E9%91%BF%23kanji"
+  }
+}

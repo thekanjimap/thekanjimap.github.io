@@ -1,0 +1,60 @@
+{
+  "id": "妃",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "妃",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1752",
+    "strokeCount": 6,
+    "meaning": "nữ hoàng, công chúa",
+    "kunyomi": [
+      "きさき"
+    ],
+    "onyomi": [
+      "ヒ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "妃",
+        "reading": "ヒ",
+        "meaning": "công chúa, phối ngẫu"
+      },
+      {
+        "example": "妃殿下",
+        "reading": "ヒデンカ",
+        "meaning": "công chúa, Hoàng thân"
+      },
+      {
+        "example": "皇太子妃",
+        "reading": "コウタイシヒ",
+        "meaning": "công chúa vương miện"
+      },
+      {
+        "example": "王太妃",
+        "reading": "オウタイヒ",
+        "meaning": "công chúa vương miện"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "后",
+        "reading": "きさき",
+        "meaning": "hoàng hậu (phối ngẫu), hoàng hậu (phối ngẫu)"
+      }
+    ],
+    "radical": {
+      "symbol": "女",
+      "meaning": "phụ nữ, nữ"
+    },
+    "parts": [
+      "女",
+      "已"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22915_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05983.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5983.gif",
+    "uri": "https://jisho.org/search/%E5%A6%83%23kanji"
+  }
+}

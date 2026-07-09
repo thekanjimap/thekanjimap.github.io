@@ -1,0 +1,61 @@
+{
+  "id": "蕾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蕾",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "nụ (cây, nấm chưa nở)",
+    "kunyomi": [
+      "つぼみ"
+    ],
+    "onyomi": [
+      "ライ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蕾状期",
+        "reading": "ライジョウキ",
+        "meaning": "giai đoạn chồi (răng)"
+      },
+      {
+        "example": "花蕾",
+        "reading": "カライ",
+        "meaning": "nụ hoa"
+      },
+      {
+        "example": "味蕾",
+        "reading": "ミライ",
+        "meaning": "nụ vị giác"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蕾",
+        "reading": "つぼみ",
+        "meaning": "(hoa) nụ, người trẻ đầy hứa hẹn, vẻ đẹp mới chớm nở"
+      },
+      {
+        "example": "薔薇のつぼみ",
+        "reading": "ばらのつぼみ",
+        "meaning": "nụ hồng"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "田",
+      "艾",
+      "雨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34174_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0857e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/857e.gif",
+    "uri": "https://jisho.org/search/%E8%95%BE%23kanji"
+  }
+}

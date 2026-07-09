@@ -1,0 +1,78 @@
+{
+  "id": "凝",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "凝",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1712",
+    "strokeCount": 16,
+    "meaning": "đông lại, đóng băng, cứng lại, bị hấp thụ vào",
+    "kunyomi": [
+      "こ.る",
+      "こ.らす",
+      "こご.らす",
+      "こご.らせる",
+      "こご.る"
+    ],
+    "onyomi": [
+      "ギョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "凝縮",
+        "reading": "ギョウシュク",
+        "meaning": "sự ngưng tụ (của ý tưởng, cảm xúc, v.v.), sự ngưng tụ (của hơi hoặc khí)"
+      },
+      {
+        "example": "凝固",
+        "reading": "ギョウコ",
+        "meaning": "đông tụ, đóng băng, đông đặc"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "凝る",
+        "reading": "こる",
+        "meaning": "trở nên cứng (của cơ bắp), say mê, phát triển niềm đam mê, cống hiến hết mình, bị ám ảnh, bị cuốn hút, phức tạp, phức tạp, tinh tế, đặc biệt, đặc biệt chú ý đến"
+      },
+      {
+        "example": "凝らす",
+        "reading": "こらす",
+        "meaning": "tập trung, tập trung vào, cống hiến, chuyên tâm, cứng rắn, trở nên căng thẳng"
+      },
+      {
+        "example": "凝らす",
+        "reading": "こごらす",
+        "meaning": "đóng băng, đông cứng, tập trung sự chú ý vào, cống hiến hết mình cho điều gì đó, suy ngẫm, thiền định"
+      },
+      {
+        "example": "凝らせる",
+        "reading": "こごらせる",
+        "meaning": "đóng băng, làm đông lại"
+      },
+      {
+        "example": "凝る",
+        "reading": "こごる",
+        "meaning": "làm đông đặc, làm hồ hóa, làm đông lại, làm thạch, làm đông lại"
+      }
+    ],
+    "radical": {
+      "symbol": "冫",
+      "meaning": "băng"
+    },
+    "parts": [
+      "マ",
+      "乞",
+      "冫",
+      "匕",
+      "疋",
+      "矢"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20957_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051dd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51dd.gif",
+    "uri": "https://jisho.org/search/%E5%87%9D%23kanji"
+  }
+}

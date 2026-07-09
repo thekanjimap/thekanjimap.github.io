@@ -1,0 +1,59 @@
+{
+  "id": "曼",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "曼",
+    "found": true,
+    "newspaperFrequencyRank": "2395",
+    "strokeCount": 11,
+    "meaning": "rộng, đẹp",
+    "kunyomi": [
+      "なが.い"
+    ],
+    "onyomi": [
+      "マン",
+      "バン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "曼荼羅",
+        "reading": "マンダラ",
+        "meaning": "mandala"
+      },
+      {
+        "example": "曼珠沙華",
+        "reading": "マンジュシャゲ",
+        "meaning": "hoa huệ nhện đỏ (Lycoris radiata), cụm amaryllis, cụm belladonna, manjusaka"
+      },
+      {
+        "example": "日耳曼",
+        "reading": "ゲルマン",
+        "meaning": "Tiếng Đức (con người, ngôn ngữ, văn hóa, v.v.)"
+      },
+      {
+        "example": "浪漫",
+        "reading": "ロウマン",
+        "meaning": "lãng mạn (ví dụ: chuyện tình lãng mạn của Arthurian), câu chuyện anh hùng, giấc mơ (gần như không thể), tinh thần phiêu lưu, công việc vĩ đại, cuộc phiêu lưu sử thi, tiểu thuyết (đầy đủ), lãng mạn, chuyện tình, chủ nghĩa lãng mạn"
+      },
+      {
+        "example": "曼谷",
+        "reading": "バンコク",
+        "meaning": "Băng Cốc (Thái Lan)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "曰",
+      "meaning": "nói"
+    },
+    "parts": [
+      "又",
+      "日",
+      "買"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26364_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/066fc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/66fc.gif",
+    "uri": "https://jisho.org/search/%E6%9B%BC%23kanji"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "凛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "凛",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "lạnh lùng, nghiêm khắc, khắc nghiệt",
+    "kunyomi": [
+      "きびし.い"
+    ],
+    "onyomi": [
+      "リン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "凛",
+        "reading": "リン",
+        "meaning": "lạnh lùng, lạnh lùng, giằng co, trang nghiêm, nổi bật, tinh tế, thanh lịch, (của một bầu không khí) căng thẳng, căng thẳng, (giọng nói, âm thanh, v.v.) rõ ràng, vang dội"
+      },
+      {
+        "example": "凛乎",
+        "reading": "リンコ",
+        "meaning": "chỉ huy, gây kinh ngạc"
+      },
+      {
+        "example": "凛々",
+        "reading": "リンリン",
+        "meaning": "nghiêm trọng, dữ dội, đầy cảm hứng, ra lệnh, cắn, cay đắng (lạnh), xuyên thấu, lạnh lùng"
+      },
+      {
+        "example": "威風凛々",
+        "reading": "イフウリンリン",
+        "meaning": "đầy cảm hứng, hùng vĩ, chỉ huy, trang nghiêm, với một bầu không khí hùng vĩ, một cách trang nghiêm (trang nghiêm)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "冫",
+      "meaning": "băng"
+    },
+    "parts": [
+      "二",
+      "亠",
+      "冫",
+      "口",
+      "囗",
+      "小",
+      "示"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20955_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051db.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51db.gif",
+    "uri": "https://jisho.org/search/%E5%87%9B%23kanji"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "谿",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "谿",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "thung lũng",
+    "kunyomi": [
+      "たに",
+      "たにがわ"
+    ],
+    "onyomi": [
+      "ケイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "渓谷",
+        "reading": "ケイコク",
+        "meaning": "thung lũng (có dòng sông chảy qua), hẻm núi, khe núi, hẻm núi"
+      },
+      {
+        "example": "渓流",
+        "reading": "ケイリュウ",
+        "meaning": "dòng suối, dòng suối trên núi"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "谷",
+        "reading": "たに",
+        "meaning": "thung lũng, khe núi, hẻm núi, hẻm núi"
+      }
+    ],
+    "radical": {
+      "symbol": "谷",
+      "meaning": "thung lũng"
+    },
+    "parts": [
+      "个",
+      "口",
+      "大",
+      "并",
+      "幺",
+      "爪",
+      "谷"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35903_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08c3f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8c3f.gif",
+    "uri": "https://jisho.org/search/%E8%B0%BF%23kanji"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "吠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "吠",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "sủa, hú, khóc",
+    "kunyomi": [
+      "ほえ.る",
+      "ほ.える"
+    ],
+    "onyomi": [
+      "ハイ",
+      "ベイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "吠瑠璃",
+        "reading": "ベイルリ",
+        "meaning": "beryl"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "吠える",
+        "reading": "ほえる",
+        "meaning": "sủa, hú, bay, gầm, kêu ăng ẳng, sủa, hú (của gió), gầm lên (của biển), la hét, la hét, kêu la, rên rỉ"
+      },
+      {
+        "example": "吠える",
+        "reading": "ほえる",
+        "meaning": "sủa, hú, bay, gầm, kêu ăng ẳng, sủa, hú (của gió), gầm lên (của biển), la hét, la hét, kêu la, rên rỉ"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "口",
+      "犬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21536_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05420.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5420.gif",
+    "uri": "https://jisho.org/search/%E5%90%A0%23kanji"
+  }
+}

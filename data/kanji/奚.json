@@ -1,0 +1,43 @@
+{
+  "id": "奚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "奚",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "người hầu, cái gì, tại sao",
+    "kunyomi": [
+      "なんぞ"
+    ],
+    "onyomi": [
+      "ケイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "奚琴",
+        "reading": "ケイキン",
+        "meaning": "xiqin (nhạc cụ 2 dây của Trung Quốc)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "何ぞ",
+        "reading": "なんぞ",
+        "meaning": "cái gì đó, cái gì, tại sao, như thế nào"
+      }
+    ],
+    "radical": {
+      "symbol": "大",
+      "meaning": "lớn, rất"
+    },
+    "parts": [
+      "大",
+      "幺",
+      "爪"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22874_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0595a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/595a.gif",
+    "uri": "https://jisho.org/search/%E5%A5%9A%23kanji"
+  }
+}

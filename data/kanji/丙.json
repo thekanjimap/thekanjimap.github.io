@@ -1,0 +1,60 @@
+{
+  "id": "丙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "丙",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "strokeCount": 5,
+    "meaning": "bảng lịch hạng ba, hạng 3, hạng 3",
+    "kunyomi": [
+      "ひのえ"
+    ],
+    "onyomi": [
+      "ヘイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "丙",
+        "reading": "ヘイ",
+        "meaning": "hạng ba, hạng ba, người thứ ba (trong hợp đồng, v.v.), ký hiệu thứ ba của lịch Trung Quốc"
+      },
+      {
+        "example": "丙寅",
+        "reading": "ヒノエトラ",
+        "meaning": "Hỏa Hổ (đoạn thứ 3 của chu kỳ lục thập niên, ví dụ: 1926, 1986, 2046)"
+      },
+      {
+        "example": "甲乙丙",
+        "reading": "コウオツヘイ",
+        "meaning": "A, B và C, thứ nhất, thứ hai và thứ ba"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "丙",
+        "reading": "へい",
+        "meaning": "hạng ba, hạng ba, người thứ ba (trong hợp đồng, v.v.), ký hiệu thứ ba của lịch Trung Quốc"
+      },
+      {
+        "example": "丙戌",
+        "reading": "ひのえいぬ",
+        "meaning": "Hỏa Tuất (học kỳ thứ 23 của chu kỳ lục thập niên, ví dụ: 1946, 2006, 2066)"
+      }
+    ],
+    "radical": {
+      "symbol": "一",
+      "meaning": "một"
+    },
+    "parts": [
+      "一",
+      "人",
+      "冂"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/19993_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e19.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e19.gif",
+    "uri": "https://jisho.org/search/%E4%B8%99%23kanji"
+  }
+}

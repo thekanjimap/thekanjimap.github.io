@@ -1,0 +1,44 @@
+{
+  "id": "咏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "咏",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "đọc thơ, ca hát, sáng tác",
+    "kunyomi": [
+      "よ.む",
+      "うた.う"
+    ],
+    "onyomi": [
+      "エイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "詠",
+        "reading": "エイ",
+        "meaning": "đọc thuộc lòng (một bài thơ), tụng kinh, ca hát, sáng tác (một bài thơ), sáng tác bài thơ"
+      },
+      {
+        "example": "詠春拳",
+        "reading": "エイシュンケン",
+        "meaning": "Vịnh Xuân (võ thuật truyền thống Trung Quốc)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "ノ",
+      "丶",
+      "口",
+      "水"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21647_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0548f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/548f.gif",
+    "uri": "https://jisho.org/search/%E5%92%8F%23kanji"
+  }
+}

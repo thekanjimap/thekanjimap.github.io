@@ -1,0 +1,55 @@
+{
+  "id": "衡",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "衡",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1847",
+    "strokeCount": 16,
+    "meaning": "cân bằng, thước đo, cân",
+    "kunyomi": [],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "衡器",
+        "reading": "コウキ",
+        "meaning": "cân, cân, máy cân"
+      },
+      {
+        "example": "衡平",
+        "reading": "コウヘイ",
+        "meaning": "sự cân bằng, sự công bằng"
+      },
+      {
+        "example": "拡大均衡",
+        "reading": "カクダイキンコウ",
+        "meaning": "một trạng thái cân bằng mở rộng hoặc mở rộng"
+      },
+      {
+        "example": "合従連衡",
+        "reading": "ガッショウレンコウ",
+        "meaning": "liên minh (của Lục quốc chống lại nhà Tần và của từng vương quốc với nhà Tần), (chiến thuật) tạo và phá bỏ liên minh (để có lợi cho bản thân khi có nhu cầu), sử dụng liên minh như một phương tiện ngoại giao"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "行",
+      "meaning": "đi, làm"
+    },
+    "parts": [
+      "勹",
+      "大",
+      "彳",
+      "田",
+      "行"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34913_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08861.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8861.gif",
+    "uri": "https://jisho.org/search/%E8%A1%A1%23kanji"
+  }
+}

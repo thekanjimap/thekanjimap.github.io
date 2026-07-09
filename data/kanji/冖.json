@@ -1,0 +1,33 @@
+{
+  "id": "冖",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "冖",
+    "found": true,
+    "strokeCount": 2,
+    "meaning": "Vương miện hình chữ wa (số 14)",
+    "kunyomi": [],
+    "onyomi": [
+      "ベキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "冖冠",
+        "reading": "ベキカンムリ",
+        "meaning": "kanji \"wa\" gốc ở trên cùng (căn 14)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "冖",
+      "meaning": "che"
+    },
+    "parts": [
+      "冖"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20886_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05196.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5196.gif",
+    "uri": "https://jisho.org/search/%E5%86%96%23kanji"
+  }
+}

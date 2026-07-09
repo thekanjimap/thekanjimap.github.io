@@ -1,0 +1,77 @@
+{
+  "id": "唇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "唇",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1992",
+    "strokeCount": 10,
+    "meaning": "đôi môi",
+    "kunyomi": [
+      "くちびる"
+    ],
+    "onyomi": [
+      "シン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "唇音",
+        "reading": "シンオン",
+        "meaning": "âm thanh môi"
+      },
+      {
+        "example": "唇音化",
+        "reading": "シンオンカ",
+        "meaning": "labialization"
+      },
+      {
+        "example": "下唇",
+        "reading": "シタクチビル",
+        "meaning": "môi dưới"
+      },
+      {
+        "example": "上唇",
+        "reading": "ウワクチビル",
+        "meaning": "môi trên, môi nhạt"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "唇",
+        "reading": "くちびる",
+        "meaning": "môi, môi"
+      },
+      {
+        "example": "唇を奪う",
+        "reading": "くちびるをうばう",
+        "meaning": "cướp mất một nụ hôn, cướp mất một nụ hôn"
+      },
+      {
+        "example": "上唇",
+        "reading": "うわくちびる",
+        "meaning": "môi trên, môi nhạt"
+      },
+      {
+        "example": "下唇",
+        "reading": "したくちびる",
+        "meaning": "môi dưới"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "厂",
+      "口",
+      "衣",
+      "辰"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21767_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05507.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5507.gif",
+    "uri": "https://jisho.org/search/%E5%94%87%23kanji"
+  }
+}

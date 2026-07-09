@@ -1,0 +1,477 @@
+{
+  "id": "落",
+  "kanjialiveData": {
+    "_id": "54317af2791eba5146ee4a87",
+    "_rev": "12-fce8962fd39312534cd4dbdecb938c9c",
+    "rad_name_ja": "くさかんむり",
+    "grade": 3,
+    "hint_group": 6,
+    "kunyomi": "o, ochiru, otosu",
+    "meaning": "ngã",
+    "kstroke": 12,
+    "examples": [
+      {
+        "japanese": "落下する（らっかする）",
+        "meaning": {
+          "english": "rơi, rơi"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/raku-o(chiru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/raku-o(chiru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/raku-o(chiru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/raku-o(chiru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "落馬する（らくばする）",
+        "meaning": {
+          "english": "ngã ngựa"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/raku-o(chiru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/raku-o(chiru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/raku-o(chiru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/raku-o(chiru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "落選する（らくせんする）",
+        "meaning": {
+          "english": "thua cuộc bầu cử"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/raku-o(chiru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/raku-o(chiru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/raku-o(chiru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/raku-o(chiru)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "墜落する（ついらくする）",
+        "meaning": {
+          "english": "ngã, va chạm"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/raku-o(chiru)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/raku-o(chiru)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/raku-o(chiru)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/raku-o(chiru)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "暴落する（ぼうらくする）",
+        "meaning": {
+          "english": "sụp đổ (thị trường chứng khoán)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/raku-o(chiru)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/raku-o(chiru)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/raku-o(chiru)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/raku-o(chiru)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "堕落する（だらくする）",
+        "meaning": {
+          "english": "suy tàn, bị hư hỏng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/raku-o(chiru)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/raku-o(chiru)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/raku-o(chiru)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/raku-o(chiru)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "落書き（らくがき）",
+        "meaning": {
+          "english": "viết nguệch ngoạc, vẽ bậy"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/raku-o(chiru)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/raku-o(chiru)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/raku-o(chiru)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/raku-o(chiru)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "落語（らくご）",
+        "meaning": {
+          "english": "rakugo (kể chuyện hài hước)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/raku-o(chiru)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/raku-o(chiru)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/raku-o(chiru)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/raku-o(chiru)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "段落（だんらく）",
+        "meaning": {
+          "english": "đoạn văn"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/raku-o(chiru)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/raku-o(chiru)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/raku-o(chiru)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/raku-o(chiru)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "落ちる（おちる）",
+        "meaning": {
+          "english": "ngã, trở nên tệ hơn [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/raku-o(chiru)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/raku-o(chiru)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/raku-o(chiru)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/raku-o(chiru)_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "落とす（おとす）",
+        "meaning": {
+          "english": "đánh rơi, đánh rơi, đánh rơi [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/raku-o(chiru)_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/raku-o(chiru)_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/raku-o(chiru)_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/raku-o(chiru)_06_k.mp3"
+        }
+      },
+      {
+        "japanese": "落ち着く（おちつく）",
+        "meaning": {
+          "english": "bình tĩnh lại, giữ bình tĩnh"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/raku-o(chiru)_06_l.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/raku-o(chiru)_06_l.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/raku-o(chiru)_06_l.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/raku-o(chiru)_06_l.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "お、おちる、おとす",
+    "ka_utf": "落",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=落",
+    "rad_name_search": [
+      "kusakanmuri"
+    ],
+    "rad_order": 71,
+    "txt_books": [
+      {
+        "chapter": "4",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtMimiFilm"
+      },
+      {
+        "chapter": "29",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "11",
+        "txt_bk": "txtSFJ2"
+      },
+      {
+        "chapter": "11",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "10",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "20",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "jtr"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "jt"
+      },
+      {
+        "txt_bk": "mntr",
+        "chapter": "1"
+      },
+      {
+        "txt_bk": "mntr",
+        "chapter": "6"
+      }
+    ],
+    "kname": "raku-o(chiru)",
+    "rad_utf": "⺾",
+    "stroketimes": [
+      0.668,
+      1.623,
+      2.359,
+      3.095,
+      4.033,
+      4.771,
+      5.575,
+      6.445,
+      7.451,
+      8.254,
+      8.857,
+      9.93,
+      10.52514
+    ],
+    "kunyomi_ka_display": "お",
+    "dick": "1494",
+    "rad_name": "kusakanmuri",
+    "dicn": "4003",
+    "mn_hint": "In fall, with every 各 rain シ it gets colder, and every leaf [8] falls to the ground.",
+    "rad_stroke": 3,
+    "onyomi_ja": "ラク",
+    "rad_meaning": "cỏ",
+    "onyomi": "raku",
+    "ka_id": "ka_448",
+    "rad_position": "kanmuri",
+    "rad_position_ja": "かんむり",
+    "rad_position_search": [
+      "kanmuri",
+      "kanmuri"
+    ],
+    "onyomi_search": [
+      "raku",
+      "raku"
+    ],
+    "kunyomi_search": [
+      "o",
+      "ochiru",
+      "otosu",
+      "o, ochiru, otosu"
+    ],
+    "meaning_search": [
+      "fall",
+      "fall"
+    ],
+    "onyomi_ja_search": [
+      "ラク",
+      "ラク"
+    ],
+    "kunyomi_ja_search": [
+      "お",
+      "おちる",
+      "おとす",
+      "お、おちる、おとす"
+    ],
+    "rad_meaning_search": [
+      "grass",
+      "grass"
+    ],
+    "rad_position_ja_search": [
+      "かんむり",
+      "かんむり"
+    ],
+    "rad_name_ja_search": [
+      "くさかんむり"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:4",
+      "ij:c4",
+      "mos",
+      "mos:9",
+      "mos:c9",
+      "bk",
+      "bk:29",
+      "bk:c29",
+      "ap",
+      "ap:20",
+      "ap:c20",
+      "jtr",
+      "jtr:2",
+      "jtr:c2",
+      "jt",
+      "jt:9",
+      "jt:c9",
+      "mntr",
+      "mntr:1",
+      "mntr:c1",
+      "mntr",
+      "mntr:6",
+      "mntr:c6"
+    ],
+    "rad_name_file": "kusakanmuri",
+    "kanji": {
+      "character": "落",
+      "meaning": {
+        "english": "fall"
+      },
+      "strokes": {
+        "count": 12,
+        "timings": [
+          0.668,
+          1.623,
+          2.359,
+          3.095,
+          4.033,
+          4.771,
+          5.575,
+          6.445,
+          7.451,
+          8.254,
+          8.857,
+          9.93,
+          10.52514
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/raku-o(chiru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/raku-o(chiru)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/raku-o(chiru)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/raku-o(chiru)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/raku-o(chiru)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/raku-o(chiru)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/raku-o(chiru)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/raku-o(chiru)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/raku-o(chiru)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/raku-o(chiru)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/raku-o(chiru)_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/raku-o(chiru)_12.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "raku",
+        "katakana": "ラク"
+      },
+      "kunyomi": {
+        "romaji": "o, ochiru, otosu",
+        "hiragana": "お"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/raku-o(chiru)_12.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/raku-o(chiru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/raku-o(chiru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺾",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/kusakanmuri.svg",
+      "position": {
+        "hiragana": "かんむり",
+        "romaji": "kanmuri",
+        "icon": "https://media.kanjialive.com/rad_positions/kanmuri.svg"
+      },
+      "name": {
+        "hiragana": "くさかんむり",
+        "romaji": "kusakanmuri"
+      },
+      "meaning": {
+        "english": "cỏ"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/kusakanmuri0.svg",
+        "https://media.kanjialive.com/rad_frames/kusakanmuri1.svg",
+        "https://media.kanjialive.com/rad_frames/kusakanmuri2.svg"
+      ]
+    },
+    "references": {
+      "grade": 3,
+      "kodansha": "1494",
+      "classic_nelson": "4003"
+    }
+  },
+  "jishoData": {
+    "query": "落",
+    "found": true,
+    "taughtIn": "lớp 3",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "420",
+    "strokeCount": 12,
+    "meaning": "rơi, rơi, đi xuống, làng, thôn",
+    "kunyomi": [
+      "お.ちる",
+      "お.ち",
+      "お.とす"
+    ],
+    "onyomi": [
+      "ラク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "落語",
+        "reading": "ラクゴ",
+        "meaning": "rakugo, truyện tranh truyền thống của Nhật Bản, truyện tranh (do người kể chuyện chuyên nghiệp kể)"
+      },
+      {
+        "example": "落書き",
+        "reading": "ラクガキ",
+        "meaning": "viết nguệch ngoạc, viết nguệch ngoạc, vẽ bậy, vẽ nguệch ngoạc"
+      },
+      {
+        "example": "崩落",
+        "reading": "ホウラク",
+        "meaning": "sụp đổ,vỡ vỡ,vỡ hang,sụp đổ,thị trường suy thoái,thị trường sụp đổ"
+      },
+      {
+        "example": "当落",
+        "reading": "トウラク",
+        "meaning": "kết quả (của một cuộc bầu cử), thành công hay thất bại (trong một cuộc bầu cử), thắng hay thua (xổ số, xổ số, v.v.)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "落ちる",
+        "reading": "おちる",
+        "meaning": "rơi, rơi, rơi xuống, sụp đổ, sụp đổ, hang động, nhường chỗ, lặn (của mặt trời hoặc mặt trăng), chìm, nhúng, đi xuống, giảm (về mức độ phổ biến, chất lượng, tốc độ, doanh số, v.v.), rơi, rơi, đi xuống, suy giảm, xấu đi, giảm bớt (gió), kém hơn (với), không tốt bằng, thiếu hụt (của), bong ra (bụi bẩn, sơn, trang điểm, v.v.), đến hết (một vết ố), phai màu (màu sắc), bị loại bỏ (bệnh tật, tinh thần ám ảnh, v.v.), biến mất (mỡ thừa), trở nên gầy hơn, gầy hơn, bị bỏ rơi, bị bỏ qua, bị mất tích, thất bại (một kỳ thi), thua (một cuộc thi, cuộc bầu cử, v.v.), không thành công, sa sút (về đạo đức, tính cách, v.v.), trở nên thô tục (ví dụ như trong một cuộc trò chuyện), cúi xuống (đến), chìm đắm (quá thấp), bị hủy hoại, đi xuống, rơi (vào địa ngục), rơi (yêu, ngủ, v.v.), rơi (vào tay ai đó), được chấp nhận (trong một cuộc đấu thầu), được thắng (trong một cuộc đấu thầu), được vinh dự (trong một dự luật), rơi vào (một cái bẫy), rơi vào (một trò lừa), nhượng bộ, thú nhận, sở hữu, đi đến (một kết luận, chủ đề, v.v.), đi đến (cuối cùng), rời khỏi (một thành phố, lâu đài, v.v.), để (bị đánh bại và) chạy trốn, chìm vào, được chấp nhận (trong trái tim của một người), rơi (vào tay kẻ thù), bị đánh bại, đi vào (của tiền), rơi (trên; ánh sáng, cái bóng, cái nhìn của một người, v.v.), bất tỉnh (trong judo), bất tỉnh, đi xuống (của một trang web, máy chủ, v.v.), bị sập, đăng xuất (của một trò chơi trực tuyến, phòng trò chuyện, v.v.), bỏ ra, rời đi, ngoại tuyến, di chuyển đến vùng nước sâu hơn (của một con cá trong thời tiết lạnh), chết (của một con vật)"
+      },
+      {
+        "example": "落ち",
+        "reading": "おち",
+        "meaning": "sơ suất, thiếu sót, kết cục, kết cục, kết quả, kết quả cuối cùng, điểm mấu chốt (của một trò đùa)"
+      },
+      {
+        "example": "落ち込む",
+        "reading": "おちこむ",
+        "meaning": "cảm thấy chán nản, cảm thấy buồn, chán nản, tinh thần xuống dốc, ở trong tình trạng suy thoái (kinh doanh, kinh tế, v.v.), ở trong tình trạng không thuận lợi, rơi vào (ví dụ: một cái hố)"
+      },
+      {
+        "example": "付け落ち",
+        "reading": "つけおち",
+        "meaning": "thiếu sót trong hóa đơn"
+      },
+      {
+        "example": "耳落",
+        "reading": "みみおち",
+        "meaning": "loại bỏ các cạnh, cắt các cạnh"
+      },
+      {
+        "example": "落とす",
+        "reading": "おとす",
+        "meaning": "thả, đánh mất, để rơi, đổ (ánh sáng), ném (cái nhìn của một người), đổ vào (chất lỏng), để lại phía sau, làm sạch (bụi bẩn, trang điểm, sơn, v.v.), loại bỏ (ví dụ: vết bẩn hoặc lông mặt), mất, tiêu tiền ở một nơi nhất định, bỏ qua, bỏ ra, bí mật trốn thoát, thua (một trận đấu), từ chối (người nộp đơn), thất bại (một khóa học), đánh bại (trong một cuộc bầu cử), hạ thấp (ví dụ: vai hoặc giọng nói), giảm bớt (ví dụ: sản xuất hoặc trọng lượng cơ thể), làm xấu đi (chất lượng), giảm (ví dụ: cấp bậc hoặc sự nổi tiếng), nói xấu, coi thường, rơi vào hoàn cảnh khó khăn, rơi vào (ví dụ: tình thế tiến thoái lưỡng nan hoặc tội lỗi), tự mình thực hiện, chấp nhận giá thầu của mình, buộc đầu hàng, chiếm đoạt (ví dụ: trại hoặc lâu đài của kẻ thù), thuyết phục một cách mạnh mẽ, ép thú tội, giải quyết, tải xuống, sao chép từ một máy tính sang một phương tiện khác, làm cho ai đó ngất ngây (judo), kết thúc một câu chuyện (ví dụ: bằng câu kết), kết thúc (một giai đoạn, ví dụ như nhịn ăn), giành chiến thắng, quyến rũ, chinh phục (không sẵn lòng)"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "口",
+      "夂",
+      "汁",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33853_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0843d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/843d.gif",
+    "uri": "https://jisho.org/search/%E8%90%BD%23kanji"
+  }
+}

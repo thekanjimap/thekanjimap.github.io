@@ -1,0 +1,89 @@
+{
+  "id": "惨",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "惨",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1463",
+    "strokeCount": 11,
+    "meaning": "khốn khổ, thảm họa, sự tàn ác, khắc nghiệt",
+    "kunyomi": [
+      "みじ.め",
+      "いた.む",
+      "むご.い"
+    ],
+    "onyomi": [
+      "サン",
+      "ザン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "惨",
+        "reading": "サン",
+        "meaning": "kinh khủng"
+      },
+      {
+        "example": "惨事",
+        "reading": "サンジ",
+        "meaning": "thảm họa, bi kịch, tai nạn thảm khốc, tai nạn khủng khiếp"
+      },
+      {
+        "example": "凄惨",
+        "reading": "セイサン",
+        "meaning": "khủng khiếp, khủng khiếp, khủng khiếp, khủng khiếp"
+      },
+      {
+        "example": "陰惨",
+        "reading": "インサン",
+        "meaning": "nỗi buồn và sự u ám"
+      },
+      {
+        "example": "残虐",
+        "reading": "ザンギャク",
+        "meaning": "tàn ác, tàn bạo, dã man, dã man"
+      },
+      {
+        "example": "残酷",
+        "reading": "ザンコク",
+        "meaning": "tàn nhẫn, tàn nhẫn, tàn nhẫn, vô nhân đạo"
+      },
+      {
+        "example": "冷酷無惨",
+        "reading": "レイコクムザン",
+        "meaning": "tàn nhẫn và vô tâm, tàn nhẫn, không thể tha thứ, máu lạnh"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "惨め",
+        "reading": "みじめ",
+        "meaning": "khốn khổ, khốn khổ, khốn khổ, đáng thương, đáng thương"
+      },
+      {
+        "example": "惨い",
+        "reading": "むごい",
+        "meaning": "tàn nhẫn, tàn nhẫn, tàn nhẫn, tàn bạo, tàn bạo, vô nhân đạo, bi thảm, khủng khiếp, khủng khiếp, khủng khiếp, khốn khổ, xấu xí, kinh hoàng"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "一",
+      "厶",
+      "彡",
+      "忙"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24808_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060e8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60e8.gif",
+    "uri": "https://jisho.org/search/%E6%83%A8%23kanji"
+  }
+}

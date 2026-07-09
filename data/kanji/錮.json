@@ -1,0 +1,47 @@
+{
+  "id": "錮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "錮",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "strokeCount": 16,
+    "meaning": "giam cầm, buộc",
+    "kunyomi": [
+      "ふさ.ぐ"
+    ],
+    "onyomi": [
+      "コ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "軽禁錮",
+        "reading": "ケイキンコ",
+        "meaning": "phạt tù nhẹ, phạt tù không lao động khổ sai (lao động khổ sai)"
+      },
+      {
+        "example": "重禁錮",
+        "reading": "ジュウキンコ",
+        "meaning": "hình phạt nặng, hình phạt lao động khổ sai (lao động khổ sai)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "kim loại, vàng"
+    },
+    "parts": [
+      "十",
+      "口",
+      "囗",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37678_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0932e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/932e.gif",
+    "uri": "https://jisho.org/search/%E9%8C%AE%23kanji"
+  }
+}

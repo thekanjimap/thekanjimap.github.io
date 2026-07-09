@@ -1,0 +1,67 @@
+{
+  "id": "拗",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "拗",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "quanh co, vặn vẹo, méo mó, biến thái, chéo",
+    "kunyomi": [
+      "ねじ.れる",
+      "こじ.れる",
+      "す.ねる",
+      "ねじ.ける"
+    ],
+    "onyomi": [
+      "オウ",
+      "ヨウ",
+      "イク",
+      "ユウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "拗音",
+        "reading": "ヨウオン",
+        "meaning": "âm thanh co lại, âm vòm hóa (ví dụ: âm thanh Nhật Bản với kana nhỏ), âm vòm hóa"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "捩れる",
+        "reading": "ねじれる",
+        "meaning": "bị vặn vẹo, bị quanh co, bị biến dạng, bị vặn vẹo (trong tâm trí, mối quan hệ, v.v.), bị biến dạng, trở nên hư hỏng, trở nên trái ngược, trở nên rắc rối, trở nên phức tạp, trở nên căng thẳng"
+      },
+      {
+        "example": "拗れる",
+        "reading": "こじれる",
+        "meaning": "trở nên phức tạp, trở nên tồi tệ hơn, trở nên chua chát"
+      },
+      {
+        "example": "拗ねる",
+        "reading": "すねる",
+        "meaning": "cáu kỉnh, hờn dỗi, bĩu môi"
+      },
+      {
+        "example": "拗ける",
+        "reading": "ねじける",
+        "meaning": "uốn cong, vặn vẹo, nổi loạn"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "力",
+      "幺",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25303_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062d7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62d7.gif",
+    "uri": "https://jisho.org/search/%E6%8B%97%23kanji"
+  }
+}

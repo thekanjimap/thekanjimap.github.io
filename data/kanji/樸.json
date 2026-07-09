@@ -1,0 +1,57 @@
+{
+  "id": "樸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "樸",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "vỏ cây",
+    "kunyomi": [
+      "こはだ",
+      "きじ"
+    ],
+    "onyomi": [
+      "ボク",
+      "ハク",
+      "ホク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "朴直",
+        "reading": "ボクチョク",
+        "meaning": "giản dị, trung thực, ngây thơ"
+      },
+      {
+        "example": "質朴",
+        "reading": "シツボク",
+        "meaning": "đơn giản (và trung thực), đơn giản, không phức tạp"
+      },
+      {
+        "example": "敦朴",
+        "reading": "トンボク",
+        "meaning": "trung thực và giản dị, đơn giản"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "木肌",
+        "reading": "きはだ",
+        "meaning": "vỏ cây (của cây)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "二",
+      "并",
+      "木",
+      "羊"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27192_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a38.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a38.gif",
+    "uri": "https://jisho.org/search/%E6%A8%B8%23kanji"
+  }
+}

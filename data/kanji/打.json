@@ -1,0 +1,369 @@
+{
+  "id": "打",
+  "kanjialiveData": {
+    "_id": "54317af6791eba5146ee4add",
+    "_rev": "11-88f34717ad4d2bd24394ff33f1fdd847",
+    "rad_name_ja": "てへん",
+    "grade": 3,
+    "hint_group": 1,
+    "kunyomi": "utsu, uchi",
+    "meaning": "đình công, đánh",
+    "kstroke": 5,
+    "examples": [
+      {
+        "japanese": "打者（だしゃ）",
+        "meaning": {
+          "english": "người đánh bóng (bóng chày)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/da-u(tsu)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/da-u(tsu)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/da-u(tsu)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/da-u(tsu)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "打率（だりつ）",
+        "meaning": {
+          "english": "đánh bóng trung bình"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/da-u(tsu)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/da-u(tsu)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/da-u(tsu)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/da-u(tsu)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "打撃（だげき）",
+        "meaning": {
+          "english": "thiệt hại, đánh bóng (bóng chày)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/da-u(tsu)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/da-u(tsu)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/da-u(tsu)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/da-u(tsu)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "打算的な（ださんてきな）",
+        "meaning": {
+          "english": "tính toán, lính đánh thuê"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/da-u(tsu)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/da-u(tsu)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/da-u(tsu)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/da-u(tsu)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "打破する（だはする）",
+        "meaning": {
+          "english": "lật đổ, bãi bỏ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/da-u(tsu)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/da-u(tsu)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/da-u(tsu)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/da-u(tsu)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "打診する（だしんする）",
+        "meaning": {
+          "english": "gọi ai đó ra"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/da-u(tsu)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/da-u(tsu)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/da-u(tsu)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/da-u(tsu)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "打倒する（だとうする）",
+        "meaning": {
+          "english": "đánh đổ, lật đổ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/da-u(tsu)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/da-u(tsu)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/da-u(tsu)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/da-u(tsu)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "打つ（うつ）",
+        "meaning": {
+          "english": "đánh, đánh"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/da-u(tsu)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/da-u(tsu)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/da-u(tsu)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/da-u(tsu)_06_h.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "うつ、うち",
+    "ka_utf": "打",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=打",
+    "kname": "da-u(tsu)",
+    "rad_order": 77,
+    "txt_books": [
+      {
+        "chapter": "8",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "30",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "22",
+        "txt_bk": "txtSFJ3"
+      },
+      {
+        "chapter": "22",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "jtr"
+      }
+    ],
+    "rad_name_search": [
+      "tehen"
+    ],
+    "rad_utf": "⺘",
+    "stroketimes": [
+      0,
+      0.918333,
+      2.733333,
+      3.533333,
+      4.866667,
+      7.4
+    ],
+    "kunyomi_ka_display": "う",
+    "dick": "142",
+    "rad_name": "tehen",
+    "dicn": "1829",
+    "mn_hint": "Action of a hand 扌 hitting a nail 丁.",
+    "rad_stroke": 3,
+    "onyomi_ja": "ダ",
+    "rad_meaning": "tay",
+    "onyomi": "da",
+    "ka_id": "ka_525",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "da",
+      "da"
+    ],
+    "kunyomi_search": [
+      "utsu",
+      "uchi",
+      "utsu, uchi"
+    ],
+    "meaning_search": [
+      "strike",
+      "hit",
+      "strike, hit"
+    ],
+    "onyomi_ja_search": [
+      "ダ",
+      "ダ"
+    ],
+    "kunyomi_ja_search": [
+      "うつ",
+      "うち",
+      "うつ、うち"
+    ],
+    "rad_meaning_search": [
+      "hand",
+      "hand"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "てへん"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:8",
+      "ij:c8",
+      "bk",
+      "bk:30",
+      "bk:c30",
+      "ap",
+      "ap:13",
+      "ap:c13",
+      "jtr",
+      "jtr:4",
+      "jtr:c4"
+    ],
+    "rad_name_file": "tehen",
+    "kanji": {
+      "character": "打",
+      "meaning": {
+        "english": "strike, hit"
+      },
+      "strokes": {
+        "count": 5,
+        "timings": [
+          0,
+          0.918333,
+          2.733333,
+          3.533333,
+          4.866667,
+          7.4
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/da-u(tsu)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/da-u(tsu)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/da-u(tsu)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/da-u(tsu)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/da-u(tsu)_5.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "da",
+        "katakana": "ダ"
+      },
+      "kunyomi": {
+        "romaji": "utsu, uchi",
+        "hiragana": "う"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/da-u(tsu)_5.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/da-u(tsu)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/da-u(tsu)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺘",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/tehen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "てへん",
+        "romaji": "tehen"
+      },
+      "meaning": {
+        "english": "tay"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/tehen0.svg",
+        "https://media.kanjialive.com/rad_frames/tehen1.svg",
+        "https://media.kanjialive.com/rad_frames/tehen2.svg"
+      ]
+    },
+    "references": {
+      "grade": 3,
+      "kodansha": "142",
+      "classic_nelson": "1829"
+    }
+  },
+  "jishoData": {
+    "query": "打",
+    "found": true,
+    "taughtIn": "lớp 3",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "239",
+    "strokeCount": 5,
+    "meaning": "đánh, đánh, gõ, đập, chục",
+    "kunyomi": [
+      "う.つ",
+      "う.ち-",
+      "ぶ.つ"
+    ],
+    "onyomi": [
+      "ダ",
+      "ダース"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "打",
+        "reading": "ダ",
+        "meaning": "đánh bóng (bằng gậy, gậy golf, v.v.), đánh bóng, cú đánh"
+      },
+      {
+        "example": "打",
+        "reading": "ダース",
+        "meaning": "tá"
+      },
+      {
+        "example": "本塁打",
+        "reading": "ホンルイダ",
+        "meaning": "chạy về nhà"
+      },
+      {
+        "example": "二塁打",
+        "reading": "ニルイダ",
+        "meaning": "cú đánh hai căn, gấp đôi"
+      },
+      {
+        "example": "打",
+        "reading": "ダース",
+        "meaning": "tá"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "打つ",
+        "reading": "うつ",
+        "meaning": "đánh, đánh, gõ, đánh, đấm, tát, gõ, đập, vỗ tay, đập, đánh (trưa, v.v.), đánh (chũm chọe, v.v.), đánh (trống, v.v.), đánh (nhịp điệu, ví dụ như mạch, sóng, v.v.), di chuyển, gây ấn tượng, chạm, lái vào, gõ vào, đưa vào, tiêm, tiêm phòng, gõ, gửi, truyền, chèn, viết vào, đánh dấu, làm (mì, v.v.), chuẩn bị, xới (đất), rắc, ném, ném, làm, thực hiện, chơi, biểu diễn, tham gia (cờ bạc, v.v.), trả tiền (tiền đặt cọc, v.v.), đi thăm (đi hành hương), xếp hàng (áo khoác), trói (tội phạm), thả (một mảnh)"
+      },
+      {
+        "example": "打つ手",
+        "reading": "うつて",
+        "meaning": "cách để làm (việc gì đó)"
+      },
+      {
+        "example": "打つ",
+        "reading": "ぶつ",
+        "meaning": "đánh (ai đó), đánh, đánh, phát biểu (phát biểu), đưa ra (địa chỉ), đánh bạc"
+      },
+      {
+        "example": "打付ける",
+        "reading": "ぶつける",
+        "meaning": "đánh (ví dụ: đầu của một người), đánh, gõ, chạy (vào), đâm (vào), ném (vào), ném (vào), ném (vào), trút giận (ví dụ: sự tức giận của một người), bày tỏ (cảm xúc của một người), ném (một câu hỏi vào ai đó), đánh (ai đó) chống lại, chống lại, chống lại, chống lại, chống lại"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "亅",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25171_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06253.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6253.gif",
+    "uri": "https://jisho.org/search/%E6%89%93%23kanji"
+  }
+}

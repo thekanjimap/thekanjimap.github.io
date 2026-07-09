@@ -1,0 +1,95 @@
+{
+  "id": "臍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "臍",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "rốn",
+    "kunyomi": [
+      "へそ",
+      "ほぞ"
+    ],
+    "onyomi": [
+      "セイ",
+      "サイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "臍下",
+        "reading": "セイカ",
+        "meaning": "bụng dưới"
+      },
+      {
+        "example": "臍下丹田",
+        "reading": "セイカタンデン",
+        "meaning": "hố dạ dày"
+      },
+      {
+        "example": "噬臍",
+        "reading": "ゼイセイ",
+        "meaning": "hối tiếc cay đắng"
+      },
+      {
+        "example": "膃肭臍",
+        "reading": "オットセイ",
+        "meaning": "hải cẩu lông thú (đặc biệt là hải cẩu lông phương bắc, Callorhinus ursinus), hải cẩu lông Alaska"
+      },
+      {
+        "example": "臍帯",
+        "reading": "サイタイ",
+        "meaning": "dây rốn"
+      },
+      {
+        "example": "臍帯下垂",
+        "reading": "サイタイカスイ",
+        "meaning": "sa dây rốn"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "臍",
+        "reading": "へそ",
+        "meaning": "rốn, rốn, chỗ nhô ra hoặc lõm vào giữa một vật, trung tâm, trung tâm, phần quan trọng nhất, điểm chính"
+      },
+      {
+        "example": "臍猪",
+        "reading": "へそいのしし",
+        "meaning": "đồng hồ peccary"
+      },
+      {
+        "example": "お臍",
+        "reading": "おへそ",
+        "meaning": "rốn, rốn"
+      },
+      {
+        "example": "臍",
+        "reading": "へそ",
+        "meaning": "rốn, rốn, chỗ nhô ra hoặc lõm vào giữa một vật, trung tâm, trung tâm, phần quan trọng nhất, điểm chính"
+      },
+      {
+        "example": "臍を固める",
+        "reading": "ほぞをかためる",
+        "meaning": "quyết tâm (làm việc gì), quyết tâm (làm việc gì)"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "thịt"
+    },
+    "parts": [
+      "刀",
+      "廾",
+      "月",
+      "氏",
+      "齊"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33229_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081cd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81cd.gif",
+    "uri": "https://jisho.org/search/%E8%87%8D%23kanji"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "迫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "迫",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "773",
+    "strokeCount": 8,
+    "meaning": "thúc giục, ép buộc, sắp xảy ra, thúc đẩy",
+    "kunyomi": [
+      "せま.る"
+    ],
+    "onyomi": [
+      "ハク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "迫撃",
+        "reading": "ハクゲキ",
+        "meaning": "tấn công gần"
+      },
+      {
+        "example": "迫害",
+        "reading": "ハクガイ",
+        "meaning": "sự đàn áp, áp bức"
+      },
+      {
+        "example": "肉薄",
+        "reading": "ニクハク",
+        "meaning": "áp sát (kẻ thù, vị trí đầu tiên, v.v.), đến gần, ép mạnh, ép mạnh (ví dụ: bằng một câu hỏi), thực hiện nhiệm vụ, nướng thịt"
+      },
+      {
+        "example": "威迫",
+        "reading": "イハク",
+        "meaning": "sự đe dọa, sự đe dọa, sự hăm dọa"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "迫る",
+        "reading": "せまる",
+        "meaning": "đến gần, đến gần, sắp xảy ra, ép (ai đó vì cái gì), thúc giục, ép buộc"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "đi bộ"
+    },
+    "parts": [
+      "白",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36843_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08feb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8feb.gif",
+    "uri": "https://jisho.org/search/%E8%BF%AB%23kanji"
+  }
+}

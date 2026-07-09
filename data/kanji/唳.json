@@ -1,0 +1,39 @@
+{
+  "id": "唳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "唳",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "tiếng kêu, tiếng chim kêu, tiếng ve kêu",
+    "kunyomi": [
+      "れつ"
+    ],
+    "onyomi": [
+      "レイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "風声鶴唳",
+        "reading": "フウセイカクレイ",
+        "meaning": "sợ hãi dù chỉ một tiếng động nhỏ, nghe thấy kẻ thù trong từng chiếc lá xào xạc, sợ hãi cái bóng của chính mình"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "一",
+      "口",
+      "大",
+      "尸",
+      "戸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21811_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05533.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5533.gif",
+    "uri": "https://jisho.org/search/%E5%94%B3%23kanji"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "晦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "晦",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "tối, biến mất",
+    "kunyomi": [
+      "つごもり",
+      "くら.い",
+      "みそか",
+      "くら.む"
+    ],
+    "onyomi": [
+      "カイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "三十日",
+        "reading": "ミソカ",
+        "meaning": "ngày cuối cùng của tháng"
+      },
+      {
+        "example": "晦朔",
+        "reading": "カイサク",
+        "meaning": "những ngày cuối cùng và đầu tiên của tháng"
+      },
+      {
+        "example": "韜晦",
+        "reading": "トウカイ",
+        "meaning": "che giấu tài năng, địa vị, ý định của mình, v.v., duy trì sự ẩn danh nghiêm ngặt, khiêm nhường"
+      },
+      {
+        "example": "自己韜晦",
+        "reading": "ジコトウカイ",
+        "meaning": "che giấu tài năng, địa vị, địa vị, ý định của một người, v.v."
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "三十日",
+        "reading": "みそか",
+        "meaning": "ngày cuối cùng của tháng"
+      },
+      {
+        "example": "大晦",
+        "reading": "おおつごもり",
+        "meaning": "ngày cuối cùng của năm, đêm giao thừa"
+      },
+      {
+        "example": "三十日",
+        "reading": "みそか",
+        "meaning": "ngày cuối cùng của tháng"
+      },
+      {
+        "example": "三十日蕎麦",
+        "reading": "みそかそば",
+        "meaning": "soba ăn vào cuối tháng (đặc biệt là vào cuối năm)"
+      },
+      {
+        "example": "眩む",
+        "reading": "くらむ",
+        "meaning": "bị lóa mắt, chóng mặt, mất phương hướng, lạc lối (tham lam, dục vọng, v.v.), trở nên đen tối"
+      }
+    ],
+    "radical": {
+      "symbol": "日",
+      "meaning": "mặt trời, ngày"
+    },
+    "parts": [
+      "乞",
+      "日",
+      "毋",
+      "母"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26214_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06666.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6666.gif",
+    "uri": "https://jisho.org/search/%E6%99%A6%23kanji"
+  }
+}

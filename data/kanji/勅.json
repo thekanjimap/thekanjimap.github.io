@@ -1,0 +1,64 @@
+{
+  "id": "勅",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "勅",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2157",
+    "strokeCount": 9,
+    "meaning": "mệnh lệnh hoàng gia",
+    "kunyomi": [
+      "いまし.める",
+      "みことのり"
+    ],
+    "onyomi": [
+      "チョク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "詔",
+        "reading": "ミコトノリ",
+        "meaning": "sắc lệnh của triều đình, chiếu chỉ của triều đình"
+      },
+      {
+        "example": "勅意",
+        "reading": "チョクイ",
+        "meaning": "ý nghĩa hoặc ý chính của một nghị định"
+      },
+      {
+        "example": "違勅",
+        "reading": "イチョク",
+        "meaning": "trái lệnh hoàng đế"
+      },
+      {
+        "example": "回勅",
+        "reading": "カイチョク",
+        "meaning": "thông điệp"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "詔",
+        "reading": "みことのり",
+        "meaning": "sắc lệnh của triều đình, chiếu chỉ của triều đình"
+      }
+    ],
+    "radical": {
+      "symbol": "力",
+      "meaning": "quyền lực, lực lượng"
+    },
+    "parts": [
+      "一",
+      "力",
+      "口",
+      "木",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21189_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052c5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52c5.gif",
+    "uri": "https://jisho.org/search/%E5%8B%85%23kanji"
+  }
+}

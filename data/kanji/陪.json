@@ -1,0 +1,51 @@
+{
+  "id": "陪",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "陪",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1917",
+    "strokeCount": 11,
+    "meaning": "tuân theo, đi theo, đi cùng, tham dự",
+    "kunyomi": [],
+    "onyomi": [
+      "バイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "陪審",
+        "reading": "バイシン",
+        "meaning": "bồi thẩm đoàn"
+      },
+      {
+        "example": "陪観",
+        "reading": "バイカン",
+        "meaning": "xem một cái gì đó trong công ty của cấp trên của một người"
+      },
+      {
+        "example": "反閇",
+        "reading": "ヘンバイ",
+        "meaning": "buổi lễ được thực hiện bởi một thầy phù thủy để bảo vệ một vị cao quý sắp đi du ngoạn, những bước nhảy lấy cảm hứng từ buổi lễ này"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "阜",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "gò, đập (阝 trái)"
+    },
+    "parts": [
+      "口",
+      "立",
+      "阡"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38506_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0966a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/966a.gif",
+    "uri": "https://jisho.org/search/%E9%99%AA%23kanji"
+  }
+}

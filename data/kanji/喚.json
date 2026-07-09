@@ -1,0 +1,63 @@
+{
+  "id": "喚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "喚",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1120",
+    "strokeCount": 12,
+    "meaning": "la, kêu, kêu, la, kêu gọi",
+    "kunyomi": [
+      "わめ.く"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "喚問",
+        "reading": "カンモン",
+        "meaning": "triệu tập"
+      },
+      {
+        "example": "喚起",
+        "reading": "カンキ",
+        "meaning": "sự kích thích, sự kích thích, sự thức tỉnh, sự gợi lên"
+      },
+      {
+        "example": "叫喚",
+        "reading": "キョウカン",
+        "meaning": "hét lên, hét lên"
+      },
+      {
+        "example": "阿鼻叫喚",
+        "reading": "アビキョウカン",
+        "meaning": "tiếng kêu đau đớn, hỗn loạn, hai địa ngục của Phật giáo"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "喚く",
+        "reading": "わめく",
+        "meaning": "la hét, la hét, la hét, la hét, la hét"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "儿",
+      "冂",
+      "勹",
+      "口",
+      "大"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21914_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0559a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/559a.gif",
+    "uri": "https://jisho.org/search/%E5%96%9A%23kanji"
+  }
+}

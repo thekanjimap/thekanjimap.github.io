@@ -1,0 +1,66 @@
+{
+  "id": "蹴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蹴",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "newspaperFrequencyRank": "2377",
+    "strokeCount": 19,
+    "meaning": "cú đá",
+    "kunyomi": [
+      "け.る"
+    ],
+    "onyomi": [
+      "シュク",
+      "シュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蹴鞠",
+        "reading": "ケマリ",
+        "meaning": "kemari, loại bóng đá được chơi bởi các cận thần ở Nhật Bản cổ đại"
+      },
+      {
+        "example": "蹴球",
+        "reading": "シュウキュウ",
+        "meaning": "bóng đá (bóng đá, bóng bầu dục, bóng đá Mỹ, v.v.; đặc biệt là bóng đá)"
+      },
+      {
+        "example": "先蹴",
+        "reading": "センシュウ",
+        "meaning": "trận đấu bắt đầu (đặc biệt là bóng bầu dục)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蹴る",
+        "reading": "ける",
+        "meaning": "đá, từ chối, từ chối, dậm chân (trên mặt đất), ấn mạnh chân (vào vật gì đó)"
+      }
+    ],
+    "radical": {
+      "symbol": "足",
+      "forms": [
+        "⻊"
+      ],
+      "meaning": "chân"
+    },
+    "parts": [
+      "ノ",
+      "丶",
+      "乙",
+      "亠",
+      "口",
+      "小",
+      "尢",
+      "尤",
+      "止",
+      "足"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36468_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e74.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e74.gif",
+    "uri": "https://jisho.org/search/%E8%B9%B4%23kanji"
+  }
+}

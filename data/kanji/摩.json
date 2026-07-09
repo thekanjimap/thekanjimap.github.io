@@ -1,0 +1,77 @@
+{
+  "id": "摩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "摩",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1252",
+    "strokeCount": 15,
+    "meaning": "chà xát, chà xát, đánh bóng, mài, cạo",
+    "kunyomi": [
+      "ま.する",
+      "さす.る",
+      "す.る"
+    ],
+    "onyomi": [
+      "マ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "摩擦",
+        "reading": "マサツ",
+        "meaning": "sự cọ xát, sự cọ xát, sự cọ xát, sự bất hòa, sự xích mích, sự xung đột, sự xung đột"
+      },
+      {
+        "example": "摩天楼",
+        "reading": "マテンロウ",
+        "meaning": "tòa nhà chọc trời"
+      },
+      {
+        "example": "研磨",
+        "reading": "ケンマ",
+        "meaning": "mài giũa, đánh bóng, trau chuốt (kỹ năng, kiến thức, v.v.), tự mình áp dụng (học tập), kỷ luật bản thân"
+      },
+      {
+        "example": "あん摩",
+        "reading": "アンマ",
+        "meaning": "massage (đặc biệt là anma, một hình thức massage truyền thống của Nhật Bản), người đấm bóp, người đấm bóp, người mát xa, người mù"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "摩する",
+        "reading": "まする",
+        "meaning": "cọ xát, chà xát, cạo, đến gần, ấn"
+      },
+      {
+        "example": "摩る",
+        "reading": "さする",
+        "meaning": "xoa, xoa, vuốt ve, xoa bóp"
+      },
+      {
+        "example": "擦る",
+        "reading": "する",
+        "meaning": "chà xát, chà xát, đánh (diêm), giũa, làm lạnh (kính), thua (ví dụ: một trận đấu), bị tước đoạt, phung phí tiền bạc của mình"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "广",
+      "手",
+      "木",
+      "麻"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25705_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06469.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6469.gif",
+    "uri": "https://jisho.org/search/%E6%91%A9%23kanji"
+  }
+}

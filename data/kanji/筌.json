@@ -1,0 +1,58 @@
+{
+  "id": "筌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "筌",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "bẫy cá, đập nước",
+    "kunyomi": [
+      "うけ",
+      "うえ"
+    ],
+    "onyomi": [
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "筌",
+        "reading": "ウエ",
+        "meaning": "giỏ câu cá bằng tre hình trụ"
+      },
+      {
+        "example": "茶筅",
+        "reading": "チャセン",
+        "meaning": "cây đánh trà, cây đánh tre để pha trà Nhật Bản, kiểu tóc búi thành chùm sau đầu (giống hình que đánh trà)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "筌",
+        "reading": "うえ",
+        "meaning": "giỏ câu cá bằng tre hình trụ"
+      },
+      {
+        "example": "筌",
+        "reading": "うえ",
+        "meaning": "giỏ câu cá bằng tre hình trụ"
+      }
+    ],
+    "radical": {
+      "symbol": "竹",
+      "forms": [
+        "⺮"
+      ],
+      "meaning": "tre"
+    },
+    "parts": [
+      "个",
+      "乞",
+      "王",
+      "竹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31564_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07b4c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7b4c.gif",
+    "uri": "https://jisho.org/search/%E7%AD%8C%23kanji"
+  }
+}

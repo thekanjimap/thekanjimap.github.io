@@ -1,0 +1,88 @@
+{
+  "id": "凡",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "凡",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1730",
+    "strokeCount": 3,
+    "meaning": "tầm thường, tầm thường, tầm thường",
+    "kunyomi": [
+      "およ.そ",
+      "おうよ.そ",
+      "すべ.て"
+    ],
+    "onyomi": [
+      "ボン",
+      "ハン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "凡",
+        "reading": "ボン",
+        "meaning": "tầm thường, tầm thường, tầm thường"
+      },
+      {
+        "example": "凡人",
+        "reading": "ボンジン",
+        "meaning": "người bình thường, người bình thường, người tầm thường"
+      },
+      {
+        "example": "超凡",
+        "reading": "チョウボン",
+        "meaning": "phi thường"
+      },
+      {
+        "example": "不凡",
+        "reading": "フボン",
+        "meaning": "khác thường, nổi bật"
+      },
+      {
+        "example": "凡百",
+        "reading": "ボンピャク",
+        "meaning": "nhiều, nhiều, đủ loại"
+      },
+      {
+        "example": "凡例",
+        "reading": "ハンレイ",
+        "meaning": "ghi chú giải thích (ở đầu sách), nhận xét giới thiệu, hướng dẫn sử dụng (ví dụ: từ điển), chú thích (trên bản đồ, hình vẽ, v.v.)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "凡そ",
+        "reading": "およそ",
+        "meaning": "về, đại khái, xấp xỉ, nói chung, về tổng thể, như một quy luật, hoàn toàn, khá, hoàn toàn, hoàn toàn, hoàn toàn, không hề (với động từ phủ định), phác thảo, ý chính"
+      },
+      {
+        "example": "大凡",
+        "reading": "おおよそ",
+        "meaning": "về, đại khái, xấp xỉ, nói chung, về tổng thể, như một quy luật, hoàn toàn, khá, hoàn toàn, hoàn toàn, hoàn toàn, không hề (với động từ phủ định), phác thảo, ý chính"
+      },
+      {
+        "example": "全て",
+        "reading": "すべて",
+        "meaning": "tất cả, tất cả, toàn bộ, hoàn toàn, hoàn toàn, toàn bộ, tất cả"
+      },
+      {
+        "example": "すべての道はローマに通ず",
+        "reading": "すべてのみちはローマにつうず",
+        "meaning": "mọi con đường đều dẫn tới thành Rome"
+      }
+    ],
+    "radical": {
+      "symbol": "几",
+      "meaning": "bàn"
+    },
+    "parts": [
+      "丶",
+      "几"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20961_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051e1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51e1.gif",
+    "uri": "https://jisho.org/search/%E5%87%A1%23kanji"
+  }
+}

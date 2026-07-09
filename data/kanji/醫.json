@@ -1,0 +1,48 @@
+{
+  "id": "醫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "醫",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "y học",
+    "kunyomi": [
+      "い.やす",
+      "い.する",
+      "くすし"
+    ],
+    "onyomi": [
+      "イ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "医院",
+        "reading": "イイン",
+        "meaning": "phòng khám, phòng khám bác sĩ, phòng khám"
+      },
+      {
+        "example": "医師",
+        "reading": "イシ",
+        "meaning": "bác sĩ, bác sĩ"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "酉",
+      "meaning": "rượu vang, rượu"
+    },
+    "parts": [
+      "乞",
+      "几",
+      "匚",
+      "又",
+      "殳",
+      "矢",
+      "酉"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37291_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091ab.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91ab.gif",
+    "uri": "https://jisho.org/search/%E9%86%AB%23kanji"
+  }
+}

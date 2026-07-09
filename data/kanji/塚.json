@@ -1,0 +1,57 @@
+{
+  "id": "塚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "塚",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "869",
+    "strokeCount": 12,
+    "meaning": "gò đất, gò đất",
+    "kunyomi": [
+      "つか",
+      "-づか"
+    ],
+    "onyomi": [
+      "チョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "陪塚",
+        "reading": "バイチョウ",
+        "meaning": "gò mộ phụ (thời Kofun), gò mộ vệ tinh"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "塚",
+        "reading": "つか",
+        "meaning": "Đồn, Đống, Gò, Gò mộ, mộ, Tumulus, Barrow, Mộ, Đá đứng, Biển hiệu đá, Tượng đá ven đường"
+      },
+      {
+        "example": "塚穴",
+        "reading": "つかあな",
+        "meaning": "phần mộ"
+      },
+      {
+        "example": "高塚",
+        "reading": "たかつか",
+        "meaning": "mộ, gò mộ"
+      }
+    ],
+    "radical": {
+      "symbol": "土",
+      "meaning": "trái đất"
+    },
+    "parts": [
+      "冖",
+      "土",
+      "豕"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22618_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0585a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/585a.gif",
+    "uri": "https://jisho.org/search/%E5%A1%9A%23kanji"
+  }
+}

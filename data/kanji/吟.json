@@ -1,0 +1,53 @@
+{
+  "id": "吟",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "吟",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1956",
+    "strokeCount": 7,
+    "meaning": "ngâm thơ, ca hát, biểu diễn",
+    "kunyomi": [],
+    "onyomi": [
+      "ギン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "吟",
+        "reading": "ギン",
+        "meaning": "ngâm thơ (một bài thơ), tụng kinh, hát, sáng tác (một bài thơ), sáng tác thơ, thể thơ cổ điển Trung Quốc, nhấn âm trong bài hát noh"
+      },
+      {
+        "example": "吟味",
+        "reading": "ギンミ",
+        "meaning": "kiểm tra chặt chẽ, điều tra kỹ lưỡng, kiểm tra chặt chẽ, lựa chọn cẩn thận, điều tra, điều tra, xem xét kỹ lưỡng, kiểm tra, điều tra tội phạm, truy tìm tội lỗi của ai đó, người chiến thắng (trong nhiều vòng, tức là một trò chơi đầy đủ), đọc và thưởng thức thơ truyền thống"
+      },
+      {
+        "example": "愛吟",
+        "reading": "アイギン",
+        "meaning": "thích đọc hoặc hát những bài thơ hoặc bài hát yêu thích"
+      },
+      {
+        "example": "詠吟",
+        "reading": "エイギン",
+        "meaning": "đọc thơ"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "一",
+      "个",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21535_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0541f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/541f.gif",
+    "uri": "https://jisho.org/search/%E5%90%9F%23kanji"
+  }
+}

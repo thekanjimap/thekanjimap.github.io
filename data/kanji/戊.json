@@ -1,0 +1,53 @@
+{
+  "id": "戊",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "戊",
+    "found": true,
+    "strokeCount": 5,
+    "meaning": "dấu hiệu lịch thứ 5",
+    "kunyomi": [
+      "つちのえ"
+    ],
+    "onyomi": [
+      "ボ",
+      "ボウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "戊",
+        "reading": "ツチノエ",
+        "meaning": "Đứng thứ 5, cung thứ năm trong lịch Trung Quốc"
+      },
+      {
+        "example": "戊寅",
+        "reading": "ツチノエトラ",
+        "meaning": "Thổ Hổ (đoạn thứ 15 của chu kỳ lục thập niên, ví dụ: 1938, 1998, 2058)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "戊",
+        "reading": "つちのえ",
+        "meaning": "Đứng thứ 5, cung thứ năm trong lịch Trung Quốc"
+      },
+      {
+        "example": "戊午",
+        "reading": "つちのえうま",
+        "meaning": "Thổ Mã (thuật ngữ thứ 55 của chu kỳ lục thập niên, ví dụ: 1918, 1978, 2038)"
+      }
+    ],
+    "radical": {
+      "symbol": "戈",
+      "meaning": "giáo, kích"
+    },
+    "parts": [
+      "ノ",
+      "戈"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25098_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0620a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/620a.gif",
+    "uri": "https://jisho.org/search/%E6%88%8A%23kanji"
+  }
+}

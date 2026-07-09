@@ -1,0 +1,53 @@
+{
+  "id": "媼",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "媼",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "mẹ, bà, bà già",
+    "kunyomi": [
+      "おうな"
+    ],
+    "onyomi": [
+      "オウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "嫗",
+        "reading": "オウナ",
+        "meaning": "người phụ nữ lớn tuổi"
+      },
+      {
+        "example": "翁媼",
+        "reading": "オウオウ",
+        "meaning": "ông già và bà già, ông già và bà già"
+      },
+      {
+        "example": "老媼",
+        "reading": "ロウオウ",
+        "meaning": "bà già"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "嫗",
+        "reading": "おうな",
+        "meaning": "người phụ nữ lớn tuổi"
+      }
+    ],
+    "radical": {
+      "symbol": "女",
+      "meaning": "phụ nữ, nữ"
+    },
+    "parts": [
+      "女",
+      "日",
+      "皿"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23228_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05abc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5abc.gif",
+    "uri": "https://jisho.org/search/%E5%AA%BC%23kanji"
+  }
+}

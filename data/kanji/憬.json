@@ -1,0 +1,50 @@
+{
+  "id": "憬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "憬",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "strokeCount": 15,
+    "meaning": "khao khát, khao khát, ngưỡng mộ",
+    "kunyomi": [
+      "あこが.れる"
+    ],
+    "onyomi": [
+      "ケイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "憧憬",
+        "reading": "ドウケイ",
+        "meaning": "khao khát, khao khát, khao khát, tôn thờ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "憧れる",
+        "reading": "あこがれる",
+        "meaning": "khao khát, khao khát, khao khát, bị thu hút bởi, bị thu hút, khao khát, ngưỡng mộ, ngưỡng mộ"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "亠",
+      "口",
+      "小",
+      "忙",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25004_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061ac.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61ac.gif",
+    "uri": "https://jisho.org/search/%E6%86%AC%23kanji"
+  }
+}

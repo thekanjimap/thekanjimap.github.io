@@ -1,0 +1,65 @@
+{
+  "id": "吾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "吾",
+    "found": true,
+    "newspaperFrequencyRank": "1828",
+    "strokeCount": 7,
+    "meaning": "Tôi, của tôi, của chúng ta, của riêng mình",
+    "kunyomi": [
+      "われ",
+      "わが-",
+      "あ-"
+    ],
+    "onyomi": [
+      "ゴ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "吾兄",
+        "reading": "アセ",
+        "meaning": "bạn (đề cập đến một người đàn ông)"
+      },
+      {
+        "example": "吾人",
+        "reading": "ゴジン",
+        "meaning": "chúng tôi"
+      },
+      {
+        "example": "故吾",
+        "reading": "コゴ",
+        "meaning": "bản thân trước đây của một người"
+      },
+      {
+        "example": "金吾",
+        "reading": "キンゴ",
+        "meaning": "kingo (trò chơi tương tự như blackjack)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "我",
+        "reading": "われ",
+        "meaning": "Tôi, tôi, chính mình, bạn, tiền tố biểu thị sự quen thuộc hoặc khinh thường"
+      },
+      {
+        "example": "我々",
+        "reading": "われわれ",
+        "meaning": "chúng tôi"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "五",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21566_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0543e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/543e.gif",
+    "uri": "https://jisho.org/search/%E5%90%BE%23kanji"
+  }
+}

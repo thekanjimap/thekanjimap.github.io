@@ -1,0 +1,71 @@
+{
+  "id": "洩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "洩",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "rò rỉ, trốn thoát",
+    "kunyomi": [
+      "も.らす",
+      "の.びる",
+      "も.れる"
+    ],
+    "onyomi": [
+      "エイ",
+      "セツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "情報漏洩",
+        "reading": "ジョウホウロウエイ",
+        "meaning": "rò rỉ thông tin, vi phạm dữ liệu"
+      },
+      {
+        "example": "軍機漏洩",
+        "reading": "グンキロウエイ",
+        "meaning": "tiết lộ (rò rỉ, phản bội) bí mật quân sự"
+      },
+      {
+        "example": "情報漏洩",
+        "reading": "ジョウホウロウエイ",
+        "meaning": "rò rỉ thông tin, vi phạm dữ liệu"
+      },
+      {
+        "example": "秘密漏洩",
+        "reading": "ヒミツロウエイ",
+        "meaning": "rò rỉ bí mật, rò rỉ bí mật"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "漏らす",
+        "reading": "もらす",
+        "meaning": "để rò rỉ, để lộ ra (ví dụ: ánh sáng), để lộ ra (bí mật), rò rỉ (thông tin), tiết lộ, tiết lộ, để lọt, phát biểu (ví dụ như sự không hài lòng của một người), trút giận, bày tỏ, tiết lộ (ví dụ như ý định thực sự của một người), để lộ ra (một tiếng thở dài, v.v.), làm ướt quần, bỏ qua, bỏ đi, không làm, bỏ lỡ, bỏ qua (do nhầm lẫn), quên làm"
+      },
+      {
+        "example": "漏れる",
+        "reading": "もれる",
+        "meaning": "rò rỉ ra, thoát ra, đi qua, tỏa sáng, lọc ra, tìm biểu hiện, trút giận, rò rỉ ra, được tiết lộ, được tiết lộ, bị bỏ qua, bị bỏ ra ngoài, bị loại trừ, không được bao gồm"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "ノ",
+      "乙",
+      "日",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27945_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d29.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d29.gif",
+    "uri": "https://jisho.org/search/%E6%B4%A9%23kanji"
+  }
+}

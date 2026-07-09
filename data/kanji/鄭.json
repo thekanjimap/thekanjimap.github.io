@@ -1,0 +1,46 @@
+{
+  "id": "鄭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鄭",
+    "found": true,
+    "newspaperFrequencyRank": "1732",
+    "strokeCount": 15,
+    "meaning": "một tỉnh cổ của Trung Quốc",
+    "kunyomi": [],
+    "onyomi": [
+      "テイ",
+      "ジョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "丁重",
+        "reading": "テイチョウ",
+        "meaning": "lịch sự, nhã nhặn, hiếu khách"
+      },
+      {
+        "example": "鄭氏政権",
+        "reading": "テイシセイケン",
+        "meaning": "Vương quốc Tungning (Đài Loan, 1661-1683), triều đại Koxinga"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "邑",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "thị trấn (阝 bên phải)"
+    },
+    "parts": [
+      "大",
+      "并",
+      "邦",
+      "酉"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37165_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0912d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/912d.gif",
+    "uri": "https://jisho.org/search/%E9%84%AD%23kanji"
+  }
+}

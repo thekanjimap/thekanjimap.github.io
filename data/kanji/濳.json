@@ -1,0 +1,51 @@
+{
+  "id": "濳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "濳",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "giấu, giấu, tiết ra, giấu kín",
+    "kunyomi": [
+      "ひそ.む",
+      "もぐ.る",
+      "かく.れる",
+      "くぐ.る",
+      "ひそ.める"
+    ],
+    "onyomi": [
+      "セン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "潜む",
+        "reading": "ひそむ",
+        "meaning": "ẩn nấp, ẩn nấp, ẩn náu, nằm im, tiềm ẩn"
+      },
+      {
+        "example": "潜める",
+        "reading": "ひそめる",
+        "meaning": "giấu, giấu, giảm âm lượng (âm thanh hoặc giọng nói) để không bị nghe thấy, trở nên im lặng và kín đáo"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "儿",
+      "土",
+      "日",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28659_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ff3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ff3.gif",
+    "uri": "https://jisho.org/search/%E6%BF%B3%23kanji"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "聴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "聴",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "781",
+    "strokeCount": 17,
+    "meaning": "lắng nghe, cứng đầu, nghịch ngợm, hỏi thăm cẩn thận",
+    "kunyomi": [
+      "き.く",
+      "ゆる.す"
+    ],
+    "onyomi": [
+      "チョウ",
+      "テイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "聴講",
+        "reading": "チョウコウ",
+        "meaning": "tham dự bài giảng, kiểm tra"
+      },
+      {
+        "example": "聴覚",
+        "reading": "チョウカク",
+        "meaning": "(cảm giác) thính giác, thính giác"
+      },
+      {
+        "example": "難聴",
+        "reading": "ナンチョウ",
+        "meaning": "khó nghe, chậm phát âm, điếc, giảm thính lực, khả năng thu sóng kém (đài, v.v.)"
+      },
+      {
+        "example": "愛聴",
+        "reading": "アイチョウ",
+        "meaning": "thích nghe cái gì đó, thích nghe cái gì đó"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "聞く",
+        "reading": "きく",
+        "meaning": "nghe, lắng nghe (ví dụ: âm nhạc), hỏi, hỏi thăm, truy vấn, nghe về, nghe, tìm hiểu, làm theo (lời khuyên, mệnh lệnh, v.v.), tuân theo, lắng nghe, tuân theo, nghe (ví dụ: một lời cầu xin), cấp (một yêu cầu), chấp nhận (ví dụ một cuộc tranh luận), xem xét, ngửi (đặc biệt là hương), nếm thử (một loại nước hoa), nếm (rượu), thử"
+      },
+      {
+        "example": "許す",
+        "reading": "ゆるす",
+        "meaning": "cho phép, cho phép, chấp thuận, đồng ý, tha thứ, tha thứ, tha thứ, tha thứ, miễn trừ (ai đó), tha thứ, giải phóng, buông bỏ, thừa nhận, thừa nhận, tin tưởng, tâm sự, mất cảnh giác, bỏ cuộc (điểm trong một trò chơi, khoảng cách trong một cuộc đua, v.v.), nhượng bộ"
+      }
+    ],
+    "radical": {
+      "symbol": "耳",
+      "meaning": "tai"
+    },
+    "parts": [
+      "十",
+      "心",
+      "耳",
+      "買"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32884_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08074.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8074.gif",
+    "uri": "https://jisho.org/search/%E8%81%B4%23kanji"
+  }
+}

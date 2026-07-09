@@ -1,0 +1,63 @@
+{
+  "id": "嗜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嗜",
+    "found": true,
+    "newspaperFrequencyRank": "2465",
+    "strokeCount": 13,
+    "meaning": "thích, hương vị, khiêm tốn",
+    "kunyomi": [
+      "たしな.む",
+      "たしな.み",
+      "この.む",
+      "この.み"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "嗜好",
+        "reading": "シコウ",
+        "meaning": "sở thích, sở thích, sở thích"
+      },
+      {
+        "example": "嗜虐",
+        "reading": "シギャク",
+        "meaning": "tính bạo dâm"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "嗜む",
+        "reading": "たしなむ",
+        "meaning": "có sở thích, thích, thích thú (có chừng mực), có hứng thú (ví dụ: một sở thích), khiêm tốn, thận trọng, quan sát (ví dụ: hành vi của một người)"
+      },
+      {
+        "example": "嗜み",
+        "reading": "たしなみ",
+        "meaning": "hương vị (về hàng hóa, v.v.), cách cư xử, nghi thức, sự khiêm tốn, kiềm chế, thận trọng, kiến ​​thức, kinh nghiệm (về nghệ thuật, v.v.), thành tích, chăm sóc ngoại hình cá nhân của một người"
+      },
+      {
+        "example": "不嗜",
+        "reading": "ぶたしなみ",
+        "meaning": "sự chuẩn bị kém"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "匕",
+      "口",
+      "日",
+      "老"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21980_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/055dc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/55dc.gif",
+    "uri": "https://jisho.org/search/%E5%97%9C%23kanji"
+  }
+}

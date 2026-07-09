@@ -1,0 +1,81 @@
+{
+  "id": "渦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "渦",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1789",
+    "strokeCount": 12,
+    "meaning": "xoáy nước, xoáy nước, xoáy nước",
+    "kunyomi": [
+      "うず"
+    ],
+    "onyomi": [
+      "カ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "渦中",
+        "reading": "カチュウ",
+        "meaning": "cơn lốc, vòng xoáy, xoáy nước, (ở giữa a) vụ bê bối, tranh cãi, cãi vã, hỗn loạn"
+      },
+      {
+        "example": "渦状",
+        "reading": "カジョウ",
+        "meaning": "xoắn ốc"
+      },
+      {
+        "example": "冷水渦",
+        "reading": "レイスイウズ",
+        "meaning": "xoáy lạnh"
+      },
+      {
+        "example": "極渦",
+        "reading": "キョクウズ",
+        "meaning": "xoáy cực, tế bào cực"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "渦",
+        "reading": "うず",
+        "meaning": "xoáy nước, xoáy nước, xoáy nước, xoáy nước, xoáy nước"
+      },
+      {
+        "example": "渦巻き",
+        "reading": "うずまき",
+        "meaning": "xoáy nước, xoáy nước, xoáy, xoáy, xoáy, xoắn ốc (hình dạng, hoa văn)"
+      },
+      {
+        "example": "冷水渦",
+        "reading": "れいすいうず",
+        "meaning": "xoáy lạnh"
+      },
+      {
+        "example": "暖水渦",
+        "reading": "だんすいうず",
+        "meaning": "xoáy ấm"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "冂",
+      "口",
+      "汁",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28198_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e26.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e26.gif",
+    "uri": "https://jisho.org/search/%E6%B8%A6%23kanji"
+  }
+}

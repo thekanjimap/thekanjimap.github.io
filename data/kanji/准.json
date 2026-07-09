@@ -1,0 +1,47 @@
+{
+  "id": "准",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "准",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1441",
+    "strokeCount": 10,
+    "meaning": "gần như, nửa, liên kết",
+    "kunyomi": [],
+    "onyomi": [
+      "ジュン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "準ずる",
+        "reading": "ジュンズル",
+        "meaning": "tuân theo (một quy tắc, tiền lệ, v.v.), tuân theo (luật pháp, tiêu chuẩn, v.v.), dựa trên, áp dụng tương ứng, tương xứng với, tương ứng với, tương đương với, được đối xử giống như"
+      },
+      {
+        "example": "準じる",
+        "reading": "ジュンジル",
+        "meaning": "tuân theo (một quy tắc, tiền lệ, v.v.), tuân theo (luật pháp, tiêu chuẩn, v.v.), dựa trên, áp dụng tương ứng, tương xứng với, tương ứng với, tương đương với, được đối xử giống như"
+      },
+      {
+        "example": "批准",
+        "reading": "ヒジュン",
+        "meaning": "phê chuẩn"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "冫",
+      "meaning": "băng"
+    },
+    "parts": [
+      "冫",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20934_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051c6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51c6.gif",
+    "uri": "https://jisho.org/search/%E5%87%86%23kanji"
+  }
+}

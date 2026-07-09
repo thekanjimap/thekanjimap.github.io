@@ -1,0 +1,55 @@
+{
+  "id": "壬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "壬",
+    "found": true,
+    "newspaperFrequencyRank": "2499",
+    "strokeCount": 4,
+    "meaning": "dấu hiệu lịch thứ 9",
+    "kunyomi": [
+      "みずのえ"
+    ],
+    "onyomi": [
+      "ニン",
+      "ジン",
+      "イ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "壬",
+        "reading": "ジン",
+        "meaning": "Đứng thứ 9, cung thứ chín trong lịch Trung Quốc"
+      },
+      {
+        "example": "壬寅",
+        "reading": "ミズノエトラ",
+        "meaning": "Thủy Tọp (kỳ thứ 39 của chu kỳ lục thập niên, ví dụ: 1962, 2022, 2082)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "壬",
+        "reading": "じん",
+        "meaning": "Đứng thứ 9, cung thứ chín trong lịch Trung Quốc"
+      },
+      {
+        "example": "壬戌",
+        "reading": "みずのえいぬ",
+        "meaning": "Thủy Tuất (học kỳ thứ 59 của chu kỳ sáu mươi tuổi, ví dụ: 1922, 1982, 2042)"
+      }
+    ],
+    "radical": {
+      "symbol": "士",
+      "meaning": "học giả, cử nhân"
+    },
+    "parts": [
+      "ノ",
+      "士"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22764_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058ec.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58ec.gif",
+    "uri": "https://jisho.org/search/%E5%A3%AC%23kanji"
+  }
+}

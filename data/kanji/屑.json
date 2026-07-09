@@ -1,0 +1,64 @@
+{
+  "id": "屑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "屑",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "rác rưởi, rác rưởi, rác rưởi, rác thải, mảnh vụn",
+    "kunyomi": [
+      "くず",
+      "いさぎよ.い"
+    ],
+    "onyomi": [
+      "セツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "砕屑",
+        "reading": "サイセツ",
+        "meaning": "mảnh vụn"
+      },
+      {
+        "example": "落屑",
+        "reading": "ラクセツ",
+        "meaning": "bong tróc, bong tróc da"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "屑",
+        "reading": "くず",
+        "meaning": "chất thải, sắt vụn, rác thải, cặn bã, cặn bã, mảnh rác, kẻ thua cuộc"
+      },
+      {
+        "example": "屑穴子",
+        "reading": "くずあなご",
+        "meaning": "lươn mỏ vịt (Nettastoma parviceps)"
+      },
+      {
+        "example": "野菜くず",
+        "reading": "やさいくず",
+        "meaning": "phế liệu thực vật"
+      },
+      {
+        "example": "大鋸屑",
+        "reading": "おがくず",
+        "meaning": "mùn cưa"
+      }
+    ],
+    "radical": {
+      "symbol": "尸",
+      "meaning": "xác chết"
+    },
+    "parts": [
+      "尚",
+      "尸",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23633_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c51.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c51.gif",
+    "uri": "https://jisho.org/search/%E5%B1%91%23kanji"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "嘴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嘴",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "mỏ, mỏ",
+    "kunyomi": [
+      "くちばし",
+      "はし"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "嘴管",
+        "reading": "シカン",
+        "meaning": "đầu chèn (ví dụ: ống thông)"
+      },
+      {
+        "example": "乳嘴",
+        "reading": "ニュウシ",
+        "meaning": "(vú) núm vú, núm vú"
+      },
+      {
+        "example": "砂嘴",
+        "reading": "サシ",
+        "meaning": "nhổ, nhổ cát"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "嘴",
+        "reading": "くちばし",
+        "meaning": "mỏ, mỏ"
+      },
+      {
+        "example": "くちばしが黄色い",
+        "reading": "くちばしがきいろい",
+        "meaning": "còn non, non và thiếu kinh nghiệm, xanh, ướt sau tai"
+      },
+      {
+        "example": "嘴",
+        "reading": "くちばし",
+        "meaning": "mỏ, mỏ"
+      },
+      {
+        "example": "嘴黒阿比",
+        "reading": "はしぐろあび",
+        "meaning": "loon chung (Gavia immer), thợ lặn vĩ đại phương bắc, loon phương bắc vĩ đại"
+      },
+      {
+        "example": "大嘴",
+        "reading": "おおはし",
+        "meaning": "toucan"
+      },
+      {
+        "example": "いすかの嘴",
+        "reading": "いすかのはし",
+        "meaning": "(cái gì đó) không đến với nhau (như người ta đã hy vọng hoặc mong đợi), sự việc không may, sự thay đổi bất ngờ, (a) mỏ chéo (có hình dạng phần trên và phần dưới khác nhau)"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "匕",
+      "口",
+      "止",
+      "角"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22068_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05634.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5634.gif",
+    "uri": "https://jisho.org/search/%E5%98%B4%23kanji"
+  }
+}

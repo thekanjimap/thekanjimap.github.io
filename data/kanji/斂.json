@@ -1,0 +1,53 @@
+{
+  "id": "斂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "斂",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "thắt chặt, làm cứng lại",
+    "kunyomi": [
+      "おさ.める"
+    ],
+    "onyomi": [
+      "レン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "斂葬",
+        "reading": "レンソウ",
+        "meaning": "mai táng, chôn cất"
+      },
+      {
+        "example": "収斂",
+        "reading": "シュウレン",
+        "meaning": "sự thắt lại, sự co lại, sự thu hẹp, sự thu thập (ví dụ như ý kiến), tập hợp lại, tóm tắt, thu thập (thuế), hội tụ (ánh sáng), hội tụ, hội tụ"
+      },
+      {
+        "example": "聚斂",
+        "reading": "シュウレン",
+        "meaning": "(đánh thuế a) đánh thuế nặng nề"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "攴",
+      "forms": [
+        "攵"
+      ],
+      "meaning": "rap"
+    },
+    "parts": [
+      "一",
+      "个",
+      "乞",
+      "人",
+      "口",
+      "攵"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25986_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06582.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6582.gif",
+    "uri": "https://jisho.org/search/%E6%96%82%23kanji"
+  }
+}

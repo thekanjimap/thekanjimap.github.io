@@ -1,0 +1,65 @@
+{
+  "id": "賦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "賦",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "strokeCount": 15,
+    "meaning": "thuế, thơ ca ngợi, văn xuôi, bài thơ, cống phẩm, trả góp",
+    "kunyomi": [],
+    "onyomi": [
+      "フ",
+      "ブ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "賦",
+        "reading": "フ",
+        "meaning": "thơ, truyện kể (phong cách Shi Jing), văn xuôi có vần điệu cổ điển Trung Quốc"
+      },
+      {
+        "example": "賦課",
+        "reading": "フカ",
+        "meaning": "sự đánh thuế, sự áp đặt"
+      },
+      {
+        "example": "配賦",
+        "reading": "ハイフ",
+        "meaning": "sự phân bổ, sự phân bổ, sự phân bổ"
+      },
+      {
+        "example": "貢賦",
+        "reading": "コウフ",
+        "meaning": "cống nạp và đánh thuế"
+      },
+      {
+        "example": "賦役",
+        "reading": "フエキ",
+        "meaning": "lao động nô lệ, lao động nô lệ, lao động cưỡng bức, lao động cưỡng bức, lao động cưỡng bức, sự phục vụ bắt buộc"
+      },
+      {
+        "example": "賦払い",
+        "reading": "ブバライ",
+        "meaning": "thanh toán theo hệ thống trả góp, thanh toán theo hệ thống trả góp, gói thanh toán dễ dàng"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "貝",
+      "meaning": "vỏ"
+    },
+    "parts": [
+      "ハ",
+      "弋",
+      "止",
+      "目",
+      "貝"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36070_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ce6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ce6.gif",
+    "uri": "https://jisho.org/search/%E8%B3%A6%23kanji"
+  }
+}

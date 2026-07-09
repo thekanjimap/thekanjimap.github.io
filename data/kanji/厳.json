@@ -1,0 +1,440 @@
+{
+  "id": "厳",
+  "kanjialiveData": {
+    "_id": "54317af6791eba5146ee4ade",
+    "_rev": "14-a94c24b43ef6c5cd991ac177afa5529c",
+    "rad_name_ja": "つ",
+    "grade": 6,
+    "hint_group": 4,
+    "kunyomi": "ogosoka, kibishii, ogoso, kibi",
+    "meaning": "nghiêm khắc, nghiêm khắc, trang nghiêm",
+    "kstroke": 17,
+    "examples": [
+      {
+        "japanese": "厳冬（げんとう）",
+        "meaning": {
+          "english": "mùa đông khắc nghiệt"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kibi(shii)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kibi(shii)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kibi(shii)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kibi(shii)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "威厳（いげん）",
+        "meaning": {
+          "english": "phẩm giá"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kibi(shii)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kibi(shii)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kibi(shii)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kibi(shii)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "戒厳令（かいげんれい）",
+        "meaning": {
+          "english": "thiết quân luật"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kibi(shii)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kibi(shii)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kibi(shii)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kibi(shii)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "厳格な（げんかくな）",
+        "meaning": {
+          "english": "nghiêm khắc, nghiêm ngặt, cứng nhắc"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kibi(shii)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kibi(shii)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kibi(shii)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kibi(shii)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "厳密な（げんみつな）",
+        "meaning": {
+          "english": "chính xác"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kibi(shii)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kibi(shii)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kibi(shii)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kibi(shii)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "厳重な（げんじゅうな）",
+        "meaning": {
+          "english": "nghiêm khắc, khắc khổ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kibi(shii)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kibi(shii)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kibi(shii)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kibi(shii)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "厳守する（げんしゅする）",
+        "meaning": {
+          "english": "tuân thủ (một quy tắc) nghiêm ngặt"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kibi(shii)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kibi(shii)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kibi(shii)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kibi(shii)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "荘厳な（そうごんな）",
+        "meaning": {
+          "english": "trang trọng, cao cả, hùng vĩ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kibi(shii)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kibi(shii)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kibi(shii)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kibi(shii)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "厳かな（おごそかな）",
+        "meaning": {
+          "english": "long trọng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kibi(shii)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kibi(shii)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kibi(shii)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kibi(shii)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "厳しい（きびしい）",
+        "meaning": {
+          "english": "mãnh liệt (ví dụ: lạnh), nghiêm trọng, nghiêm khắc"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kibi(shii)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kibi(shii)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kibi(shii)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kibi(shii)_06_j.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "おごそか、きびしい、おごそ、きび",
+    "ka_utf": "厳",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=厳",
+    "kname": "kibi(shii)",
+    "rad_order": 75,
+    "txt_books": [
+      {
+        "chapter": "8",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "24",
+        "txt_bk": "txtSFJ3"
+      },
+      {
+        "chapter": "24",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtIKB"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "jtr"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "28"
+      }
+    ],
+    "rad_name_search": [
+      "tsu"
+    ],
+    "rad_utf": "⺍",
+    "stroketimes": [
+      0,
+      0.733333,
+      1.4,
+      2.2,
+      3.666667,
+      5.2,
+      6.133333,
+      6.866667,
+      7.866667,
+      8.866667,
+      9.466667,
+      10,
+      10.866667,
+      12.266667,
+      13.4,
+      14.066667,
+      15.2,
+      17.8
+    ],
+    "kunyomi_ka_display": "おごそ、きび",
+    "dick": "2068",
+    "rad_name": "tsu",
+    "dicn": "253",
+    "mn_hint": "Like climbing a steep cliff [92] against all odds 敢.",
+    "rad_stroke": 3,
+    "onyomi_ja": "ゲン、ゴン",
+    "rad_meaning": "Katakana Tsu",
+    "onyomi": "gen, gon",
+    "ka_id": "ka_526",
+    "rad_position": "kanmuri",
+    "rad_position_ja": "かんむり",
+    "rad_position_search": [
+      "kanmuri",
+      "kanmuri"
+    ],
+    "onyomi_search": [
+      "gen",
+      "gon",
+      "gen, gon"
+    ],
+    "kunyomi_search": [
+      "ogosoka",
+      "kibishii",
+      "ogoso",
+      "kibi",
+      "ogosoka, kibishii, ogoso, kibi"
+    ],
+    "meaning_search": [
+      "severe",
+      "strict",
+      "solemn",
+      "severe, strict, solemn"
+    ],
+    "onyomi_ja_search": [
+      "ゲン",
+      "ゴン",
+      "ゲン、ゴン"
+    ],
+    "kunyomi_ja_search": [
+      "おごそか",
+      "きびしい",
+      "おごそ",
+      "きび",
+      "おごそか、きびしい、おごそ、きび"
+    ],
+    "rad_meaning_search": [
+      "Katakana Tsu",
+      "Katakana",
+      "Tsu",
+      "Katakana Tsu"
+    ],
+    "rad_position_ja_search": [
+      "かんむり",
+      "かんむり"
+    ],
+    "rad_name_ja_search": [
+      "つ"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:8",
+      "ij:c8",
+      "ik1",
+      "ik1:7",
+      "ik1:c7",
+      "jtr",
+      "jtr:9",
+      "jtr:c9",
+      "cijr",
+      "cijr:28",
+      "cijr:c28"
+    ],
+    "rad_name_file": "tsu",
+    "kanji": {
+      "character": "厳",
+      "meaning": {
+        "english": "severe, strict, solemn"
+      },
+      "strokes": {
+        "count": 17,
+        "timings": [
+          0,
+          0.733333,
+          1.4,
+          2.2,
+          3.666667,
+          5.2,
+          6.133333,
+          6.866667,
+          7.866667,
+          8.866667,
+          9.466667,
+          10,
+          10.866667,
+          12.266667,
+          13.4,
+          14.066667,
+          15.2,
+          17.8
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/kibi(shii)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/kibi(shii)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/kibi(shii)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/kibi(shii)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/kibi(shii)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/kibi(shii)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/kibi(shii)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/kibi(shii)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/kibi(shii)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/kibi(shii)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/kibi(shii)_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/kibi(shii)_12.svg",
+          "https://media.kanjialive.com/kanji_strokes/kibi(shii)_13.svg",
+          "https://media.kanjialive.com/kanji_strokes/kibi(shii)_14.svg",
+          "https://media.kanjialive.com/kanji_strokes/kibi(shii)_15.svg",
+          "https://media.kanjialive.com/kanji_strokes/kibi(shii)_16.svg",
+          "https://media.kanjialive.com/kanji_strokes/kibi(shii)_17.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "gen, gon",
+        "katakana": "ゲン、ゴン"
+      },
+      "kunyomi": {
+        "romaji": "ogosoka, kibishii, ogoso, kibi",
+        "hiragana": "おごそ、きび"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/kibi(shii)_17.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/kibi(shii)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/kibi(shii)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺍",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/tsu.svg",
+      "position": {
+        "hiragana": "かんむり",
+        "romaji": "kanmuri",
+        "icon": "https://media.kanjialive.com/rad_positions/kanmuri.svg"
+      },
+      "name": {
+        "hiragana": "つ",
+        "romaji": "tsu"
+      },
+      "meaning": {
+        "english": "Katakana Tsu"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/tsu0.svg",
+        "https://media.kanjialive.com/rad_frames/tsu1.svg",
+        "https://media.kanjialive.com/rad_frames/tsu2.svg"
+      ]
+    },
+    "references": {
+      "grade": 6,
+      "kodansha": "2068",
+      "classic_nelson": "253"
+    }
+  },
+  "jishoData": {
+    "query": "厳",
+    "found": true,
+    "taughtIn": "lớp 6",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "638",
+    "strokeCount": 17,
+    "meaning": "sự nghiêm khắc, sự nghiêm khắc, sự nghiêm khắc, sự nghiêm khắc",
+    "kunyomi": [
+      "おごそ.か",
+      "きび.しい",
+      "いか.めしい",
+      "いつくし"
+    ],
+    "onyomi": [
+      "ゲン",
+      "ゴン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "厳",
+        "reading": "ゲン",
+        "meaning": "nghiêm khắc, nghiêm khắc"
+      },
+      {
+        "example": "厳格",
+        "reading": "ゲンカク",
+        "meaning": "nghiêm ngặt, nghiêm khắc, nghiêm khắc, nghiêm ngặt, nghiêm khắc, khắc nghiệt"
+      },
+      {
+        "example": "謹厳",
+        "reading": "キンゲン",
+        "meaning": "nghiêm khắc, nghiêm trang, trang trọng, tỉnh táo"
+      },
+      {
+        "example": "冷厳",
+        "reading": "レイゲン",
+        "meaning": "nghiệt ngã, khắc nghiệt, khắc nghiệt, vô tâm"
+      },
+      {
+        "example": "華厳",
+        "reading": "ケゴン",
+        "meaning": "avatamsa (hoa trang sức, ẩn dụ cho việc trở thành một vị phật), kinh Avatamska, Kegon (giáo phái Phật giáo)"
+      },
+      {
+        "example": "荘厳",
+        "reading": "ショウゴン",
+        "meaning": "trang trí (tượng Phật, chùa), trang hoàng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "厳か",
+        "reading": "おごそか",
+        "meaning": "trang trọng (nghi lễ, không khí, v.v.), khắc khổ, trang trọng, uy nghiêm, trang nghiêm, trang nghiêm, ấn tượng"
+      },
+      {
+        "example": "厳しい",
+        "reading": "きびしい",
+        "meaning": "nghiêm khắc, nghiêm ngặt, cứng nhắc, không khoan nhượng, không ngừng, khó khăn (làm), khó khăn, gian xảo, dữ dội (ví dụ như lạnh), khắc nghiệt (thời tiết), khắc nghiệt"
+      },
+      {
+        "example": "厳しい暑さ",
+        "reading": "きびしいあつさ",
+        "meaning": "nhiệt độ cao"
+      },
+      {
+        "example": "厳めしい",
+        "reading": "いかめしい",
+        "meaning": "nghiêm khắc, nghiêm trọng, khắc khổ, hùng vĩ, trang nghiêm, ghê gớm, trang trọng, hùng vĩ, nghiêm ngặt (ví dụ như an ninh), nghiêm trọng, vững chắc, cứng nhắc, nghiêm ngặt"
+      }
+    ],
+    "radical": {
+      "symbol": "厂",
+      "meaning": "vách đá"
+    },
+    "parts": [
+      "乞",
+      "厂",
+      "尚",
+      "攵",
+      "耳"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21427_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053b3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53b3.gif",
+    "uri": "https://jisho.org/search/%E5%8E%B3%23kanji"
+  }
+}

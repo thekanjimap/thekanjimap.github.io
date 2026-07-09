@@ -1,0 +1,66 @@
+{
+  "id": "蕃",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蕃",
+    "found": true,
+    "newspaperFrequencyRank": "2361",
+    "strokeCount": 15,
+    "meaning": "phát triển sang trọng",
+    "kunyomi": [],
+    "onyomi": [
+      "バン",
+      "ハン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蛮夷",
+        "reading": "バンイ",
+        "meaning": "những kẻ man rợ, man rợ"
+      },
+      {
+        "example": "蕃茄",
+        "reading": "バンカ",
+        "meaning": "cà chua (Solanum lycopersicum)"
+      },
+      {
+        "example": "生蕃",
+        "reading": "セイバン",
+        "meaning": "các bộ lạc thổ dân Đài Loan man rợ, không văn minh, không bị chinh phục nằm ngoài phạm vi quyền lực của nhà Thanh Trung Quốc"
+      },
+      {
+        "example": "吐蕃",
+        "reading": "トバン",
+        "meaning": "Đế quốc Tây Tạng (618-842 CN)"
+      },
+      {
+        "example": "藩主",
+        "reading": "ハンシュ",
+        "meaning": "lãnh chúa phong kiến, daimyo"
+      },
+      {
+        "example": "繁殖",
+        "reading": "ハンショク",
+        "meaning": "chăn nuôi, nhân giống, sinh sôi, nhân lên, tăng trưởng"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "田",
+      "米",
+      "艾",
+      "釆"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34115_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08543.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8543.gif",
+    "uri": "https://jisho.org/search/%E8%95%83%23kanji"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "撓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "撓",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "uốn cong, đào tạo, uyển chuyển",
+    "kunyomi": [
+      "たわ.む",
+      "しな.う",
+      "しお.る",
+      "たわ.める",
+      "みだ.す",
+      "みだ.れる"
+    ],
+    "onyomi": [
+      "トウ",
+      "キョウ",
+      "コウ",
+      "ジョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "撓角法",
+        "reading": "トウカクホウ",
+        "meaning": "phương pháp làm lệch độ dốc"
+      },
+      {
+        "example": "撓曲",
+        "reading": "トウキョク",
+        "meaning": "sự uốn cong"
+      },
+      {
+        "example": "可撓",
+        "reading": "カトウ",
+        "meaning": "linh hoạt"
+      },
+      {
+        "example": "屈撓",
+        "reading": "クットウ",
+        "meaning": "uốn cong"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "撓む",
+        "reading": "たわむ",
+        "meaning": "uốn cong, cong vênh, mất lòng"
+      },
+      {
+        "example": "撓う",
+        "reading": "しなう",
+        "meaning": "uốn cong, làm cong, uốn cong, dẻo dai (ví dụ: tre, thân), dẻo, mềm dẻo"
+      },
+      {
+        "example": "撓める",
+        "reading": "たわめる",
+        "meaning": "uốn cong (một miếng gỗ, v.v.), cúi đầu"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "儿",
+      "土",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25747_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06493.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6493.gif",
+    "uri": "https://jisho.org/search/%E6%92%93%23kanji"
+  }
+}

@@ -1,0 +1,446 @@
+{
+  "id": "実",
+  "kanjialiveData": {
+    "_id": "54317ae4791eba5146ee4978",
+    "_rev": "11-d4bd578a3ca952ed18bebac838446d2c",
+    "rad_name_ja": "うかんむり",
+    "grade": 3,
+    "hint_group": 2,
+    "kunyomi": "mi, mino, minoru, minori",
+    "meaning": "thực tế, trái cây, hạt",
+    "kstroke": 8,
+    "examples": [
+      {
+        "japanese": "実は（じつは）",
+        "meaning": {
+          "english": "như một vấn đề thực tế"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jitsu-mino(ru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/jitsu-mino(ru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/jitsu-mino(ru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/jitsu-mino(ru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "実力（じつりょく）",
+        "meaning": {
+          "english": "khả năng thực sự"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jitsu-mino(ru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/jitsu-mino(ru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/jitsu-mino(ru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/jitsu-mino(ru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "事実（じじつ）",
+        "meaning": {
+          "english": "sự thật"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jitsu-mino(ru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/jitsu-mino(ru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/jitsu-mino(ru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/jitsu-mino(ru)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "確実な（かくじつな）",
+        "meaning": {
+          "english": "nhất định"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jitsu-mino(ru)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/jitsu-mino(ru)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/jitsu-mino(ru)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/jitsu-mino(ru)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "誠実な（せいじつな）",
+        "meaning": {
+          "english": "chân thành"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jitsu-mino(ru)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/jitsu-mino(ru)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/jitsu-mino(ru)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/jitsu-mino(ru)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "実現する（じつげんする）",
+        "meaning": {
+          "english": "thực hiện (một dự án hoặc mục tiêu)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jitsu-mino(ru)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/jitsu-mino(ru)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/jitsu-mino(ru)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/jitsu-mino(ru)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "実験する（じっけんする）",
+        "meaning": {
+          "english": "thí nghiệm [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jitsu-mino(ru)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/jitsu-mino(ru)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/jitsu-mino(ru)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/jitsu-mino(ru)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "実際（じっさい）",
+        "meaning": {
+          "english": "trên thực tế, trên thực tế"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jitsu-mino(ru)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/jitsu-mino(ru)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/jitsu-mino(ru)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/jitsu-mino(ru)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "木の実（きのみ）",
+        "meaning": {
+          "english": "hạt dẻ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jitsu-mino(ru)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/jitsu-mino(ru)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/jitsu-mino(ru)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/jitsu-mino(ru)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "実る（みのる）",
+        "meaning": {
+          "english": "sinh trái"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jitsu-mino(ru)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/jitsu-mino(ru)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/jitsu-mino(ru)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/jitsu-mino(ru)_06_j.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "み、みの、みのる、みのり",
+    "ka_utf": "実",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=実",
+    "rad_name_search": [
+      "ukanmuri"
+    ],
+    "rad_order": 48,
+    "txt_books": [
+      {
+        "chapter": "20",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "42",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "8",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "jt"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "17"
+      }
+    ],
+    "kname": "jitsu-mino(ru)",
+    "rad_utf": "⼧",
+    "stroketimes": [
+      0,
+      0.999,
+      1.798,
+      3.265,
+      4.266,
+      5.266,
+      6.131,
+      7.198,
+      8.266667
+    ],
+    "kunyomi_ka_display": "み、みの",
+    "dick": "1416",
+    "rad_name": "ukanmuri",
+    "dicn": "1297",
+    "mn_hint": "In actual life, only hard working families 宀 bear fruit and get higher [34] in society.",
+    "rad_stroke": 3,
+    "onyomi_ja": "ジツ",
+    "rad_meaning": "mái nhà, ngôi nhà",
+    "onyomi": "jitsu",
+    "ka_id": "ka_203",
+    "rad_position": "kanmuri",
+    "rad_position_ja": "かんむり",
+    "rad_position_search": [
+      "kanmuri",
+      "kanmuri"
+    ],
+    "onyomi_search": [
+      "jitsu",
+      "jitsu"
+    ],
+    "kunyomi_search": [
+      "mi",
+      "mino",
+      "minoru",
+      "minori",
+      "mi, mino, minoru, minori"
+    ],
+    "meaning_search": [
+      "real",
+      "fruit",
+      "nut",
+      "real, fruit, nut"
+    ],
+    "onyomi_ja_search": [
+      "ジツ",
+      "ジツ"
+    ],
+    "kunyomi_ja_search": [
+      "み",
+      "みの",
+      "みのる",
+      "みのり",
+      "み、みの、みのる、みのり"
+    ],
+    "rad_meaning_search": [
+      "roof",
+      "house",
+      "roof, house"
+    ],
+    "rad_position_ja_search": [
+      "かんむり",
+      "かんむり"
+    ],
+    "rad_name_ja_search": [
+      "うかんむり"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:20",
+      "cij:c20",
+      "bk",
+      "bk:42",
+      "bk:c42",
+      "ap",
+      "ap:8",
+      "ap:c8",
+      "jt",
+      "jt:2",
+      "jt:c2",
+      "cijr",
+      "cijr:17",
+      "cijr:c17"
+    ],
+    "rad_name_file": "ukanmuri",
+    "kanji": {
+      "character": "実",
+      "meaning": {
+        "english": "real, fruit, nut"
+      },
+      "strokes": {
+        "count": 8,
+        "timings": [
+          0,
+          0.999,
+          1.798,
+          3.265,
+          4.266,
+          5.266,
+          6.131,
+          7.198,
+          8.266667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/jitsu-mino(ru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/jitsu-mino(ru)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/jitsu-mino(ru)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/jitsu-mino(ru)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/jitsu-mino(ru)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/jitsu-mino(ru)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/jitsu-mino(ru)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/jitsu-mino(ru)_8.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "jitsu",
+        "katakana": "ジツ"
+      },
+      "kunyomi": {
+        "romaji": "mi, mino, minoru, minori",
+        "hiragana": "み、みの"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/jitsu-mino(ru)_8.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/jitsu-mino(ru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/jitsu-mino(ru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼧",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/ukanmuri.svg",
+      "position": {
+        "hiragana": "かんむり",
+        "romaji": "kanmuri",
+        "icon": "https://media.kanjialive.com/rad_positions/kanmuri.svg"
+      },
+      "name": {
+        "hiragana": "うかんむり",
+        "romaji": "ukanmuri"
+      },
+      "meaning": {
+        "english": "mái nhà, ngôi nhà"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/ukanmuri0.svg",
+        "https://media.kanjialive.com/rad_frames/ukanmuri1.svg",
+        "https://media.kanjialive.com/rad_frames/ukanmuri2.svg"
+      ]
+    },
+    "references": {
+      "grade": 3,
+      "kodansha": "1416",
+      "classic_nelson": "1297"
+    }
+  },
+  "jishoData": {
+    "query": "実",
+    "found": true,
+    "taughtIn": "lớp 3",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "68",
+    "strokeCount": 8,
+    "meaning": "thực tế, sự thật, hạt giống, trái cây, quả hạch",
+    "kunyomi": [
+      "み",
+      "みの.る",
+      "まこと",
+      "みの",
+      "みち.る"
+    ],
+    "onyomi": [
+      "ジツ",
+      "シツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "実",
+        "reading": "ジツ",
+        "meaning": "sự thật, thực tế, sự chân thành, sự trung thực, sự trung thành, nội dung, thực chất, kết quả (tốt)"
+      },
+      {
+        "example": "実演",
+        "reading": "ジツエン",
+        "meaning": "trình diễn, thuyết trình, trình diễn trên sân khấu, biểu diễn"
+      },
+      {
+        "example": "名実",
+        "reading": "メイジツ",
+        "meaning": "trong tên và trong thực tế, trên danh nghĩa và trên thực tế, hình thức và nội dung"
+      },
+      {
+        "example": "内実",
+        "reading": "ナイジツ",
+        "meaning": "sự thật, sự thật, tình trạng thực sự của sự việc, thực tế, thực tế, thực tế, thực sự"
+      },
+      {
+        "example": "故実",
+        "reading": "コジツ",
+        "meaning": "phong tục cổ xưa, phong tục cổ xưa"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "実",
+        "reading": "み",
+        "meaning": "trái cây, quả hạch, hạt, (trong nước dùng) miếng thịt, rau, v.v., hàm lượng, chất"
+      },
+      {
+        "example": "実り",
+        "reading": "みのり",
+        "meaning": "sự chín (của một vụ mùa), mùa màng, vụ thu hoạch"
+      },
+      {
+        "example": "浮き実",
+        "reading": "うきみ",
+        "meaning": "súp trang trí"
+      },
+      {
+        "example": "桷",
+        "reading": "ずみ",
+        "meaning": "Táo cua Toringo (Malus sieboldii)"
+      },
+      {
+        "example": "実る",
+        "reading": "みのる",
+        "meaning": "kết quả, chín muồi, tạo ra kết quả (tốt), cho kết quả, kết quả"
+      },
+      {
+        "example": "実るほど頭の下がる稲穂かな",
+        "reading": "みのるほどあたまのさがるいなほかな",
+        "meaning": "Càng học càng khiêm tốn Những cành mang nhiều cành thấp nhất"
+      },
+      {
+        "example": "誠",
+        "reading": "まこと",
+        "meaning": "sự thật, thực tế, thực tế, sự chân thành, trung thực, trung thành, thiện chí, thực sự, thực sự, hoàn toàn, thực sự, thực sự, rất, khá"
+      },
+      {
+        "example": "実に",
+        "reading": "じつに",
+        "meaning": "thực sự, thực sự, thực sự, thực sự, thực sự, rất, khá"
+      },
+      {
+        "example": "嘘から出たまこと",
+        "reading": "うそからでたまこと",
+        "meaning": "điều gì đó nhằm mục đích nói dối hoặc đùa giỡn mà (tình cờ) cuối cùng lại trở thành sự thật, lời nói dối trở thành sự thật"
+      },
+      {
+        "example": "実り",
+        "reading": "みのり",
+        "meaning": "sự chín (của một vụ mùa), mùa màng, vụ thu hoạch"
+      },
+      {
+        "example": "実る",
+        "reading": "みのる",
+        "meaning": "kết quả, chín muồi, tạo ra kết quả (tốt), cho kết quả, kết quả"
+      }
+    ],
+    "radical": {
+      "symbol": "宀",
+      "meaning": "mái nhà"
+    },
+    "parts": [
+      "士",
+      "大",
+      "宀"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23455_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b9f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b9f.gif",
+    "uri": "https://jisho.org/search/%E5%AE%9F%23kanji"
+  }
+}

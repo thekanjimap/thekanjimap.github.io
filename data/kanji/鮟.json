@@ -1,0 +1,42 @@
+{
+  "id": "鮟",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鮟",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "cá câu cá",
+    "kunyomi": [],
+    "onyomi": [
+      "アン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "あん肝",
+        "reading": "アンキモ",
+        "meaning": "gan cá chày, gan cá ngỗng"
+      },
+      {
+        "example": "鮟鱇",
+        "reading": "アンコ",
+        "meaning": "đô vật sumo bụng phệ, đô vật có bụng to, cá ngỗng (bất kỳ loài cá nào thuộc họ Lophiidae), cá chày, quỷ biển"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "cá"
+    },
+    "parts": [
+      "女",
+      "宀",
+      "杰",
+      "田",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39839_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b9f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b9f.gif",
+    "uri": "https://jisho.org/search/%E9%AE%9F%23kanji"
+  }
+}

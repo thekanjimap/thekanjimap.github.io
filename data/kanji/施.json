@@ -1,0 +1,74 @@
+{
+  "id": "施",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "施",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "323",
+    "strokeCount": 9,
+    "meaning": "ban cho, ban cho, thực hiện, bố thí",
+    "kunyomi": [
+      "ほどこ.す"
+    ],
+    "onyomi": [
+      "シ",
+      "セ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "施工",
+        "reading": "セコウ",
+        "meaning": "xây dựng, thi công, thi công, thi công, thi công, thi công, thi công"
+      },
+      {
+        "example": "施行",
+        "reading": "シコウ",
+        "meaning": "có hiệu lực (luật), đưa vào hoạt động, có hiệu lực, thi hành, thực hiện (kế hoạch, chính sách, v.v.), thực hiện"
+      },
+      {
+        "example": "施行",
+        "reading": "シコウ",
+        "meaning": "có hiệu lực (luật), đưa vào hoạt động, có hiệu lực, thi hành, thực hiện (kế hoạch, chính sách, v.v.), thực hiện"
+      },
+      {
+        "example": "施工",
+        "reading": "セコウ",
+        "meaning": "xây dựng, thi công, thi công, thi công, thi công, thi công, thi công"
+      },
+      {
+        "example": "布施",
+        "reading": "フセ",
+        "meaning": "bố thí, bố thí, cúng dường (usu. money) cho một tu sĩ (để đọc kinh, v.v.)"
+      },
+      {
+        "example": "仕着せ",
+        "reading": "シキセ",
+        "meaning": "quần áo của người hầu do người chủ cung cấp, trang phục"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "施す",
+        "reading": "ほどこす",
+        "meaning": "cho (thời gian, tiền bạc, hàng hóa), quyên góp, làm, thực hiện, tiến hành, áp dụng (chế biến, trang điểm, v.v.), thêm vào (ví dụ: trang trí, chú thích), gieo, gieo hạt, rải (ví dụ: phân bón), rắc, rải xa và rộng"
+      }
+    ],
+    "radical": {
+      "symbol": "方",
+      "meaning": "hình vuông"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "乞",
+      "也",
+      "方"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26045_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065bd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65bd.gif",
+    "uri": "https://jisho.org/search/%E6%96%BD%23kanji"
+  }
+}

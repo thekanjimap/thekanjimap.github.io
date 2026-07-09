@@ -1,0 +1,66 @@
+{
+  "id": "滞",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "滞",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1107",
+    "strokeCount": 13,
+    "meaning": "trì trệ, bị trì hoãn, quá hạn, nợ đọng",
+    "kunyomi": [
+      "とどこお.る"
+    ],
+    "onyomi": [
+      "タイ",
+      "テイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "滞納",
+        "reading": "タイノウ",
+        "meaning": "tụt lại phía sau (với một khoản thanh toán), bị truy thu, không thanh toán, vỡ nợ, quá hạn"
+      },
+      {
+        "example": "滞在",
+        "reading": "タイザイ",
+        "meaning": "ở lại, tạm trú"
+      },
+      {
+        "example": "沈滞",
+        "reading": "チンタイ",
+        "meaning": "trì trệ, không hoạt động"
+      },
+      {
+        "example": "遅滞",
+        "reading": "チタイ",
+        "meaning": "sự trì hoãn, sự trì hoãn"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "滞る",
+        "reading": "とどこおる",
+        "meaning": "trì trệ, bị trì hoãn, bị bỏ dở, quá hạn (thanh toán), rơi vào tình trạng nợ đọng, chưa trả được"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "冖",
+      "巾",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28382_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ede.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ede.gif",
+    "uri": "https://jisho.org/search/%E6%BB%9E%23kanji"
+  }
+}

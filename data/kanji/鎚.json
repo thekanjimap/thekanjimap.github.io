@@ -1,0 +1,53 @@
+{
+  "id": "鎚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鎚",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "búa, vồ",
+    "kunyomi": [
+      "つち"
+    ],
+    "onyomi": [
+      "ツイ",
+      "タイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鉄槌",
+        "reading": "テッツイ",
+        "meaning": "búa sắt, đòn nghiền nát"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "槌",
+        "reading": "つち",
+        "meaning": "búa, vồ, búa tạ, búa"
+      },
+      {
+        "example": "鎚矛",
+        "reading": "つちほこ",
+        "meaning": "chùy"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "kim loại, vàng"
+    },
+    "parts": [
+      "口",
+      "込",
+      "金",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37786_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0939a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/939a.gif",
+    "uri": "https://jisho.org/search/%E9%8E%9A%23kanji"
+  }
+}

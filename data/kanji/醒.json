@@ -1,0 +1,60 @@
+{
+  "id": "醒",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "醒",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "strokeCount": 16,
+    "meaning": "tỉnh táo, vỡ mộng, tỉnh táo",
+    "kunyomi": [
+      "さ.ます",
+      "さ.める"
+    ],
+    "onyomi": [
+      "セイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "醒覚",
+        "reading": "セイカク",
+        "meaning": "thức dậy, thức dậy, mở mắt"
+      },
+      {
+        "example": "警醒",
+        "reading": "ケイセイ",
+        "meaning": "cảnh báo"
+      },
+      {
+        "example": "大覚醒",
+        "reading": "ダイカクセイ",
+        "meaning": "Đại thức tỉnh (phong trào phục hưng Kitô giáo ở Mỹ thế kỷ 18)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "覚ます",
+        "reading": "さます",
+        "meaning": "đánh thức, đánh thức khỏi giấc ngủ, đánh thức các giác quan của mình, làm mất tinh thần (ai đó), làm tỉnh táo, làm suy yếu, làm hỏng, làm hỏng"
+      },
+      {
+        "example": "覚める",
+        "reading": "さめる",
+        "meaning": "thức dậy, thức dậy, trở nên tỉnh táo, tỉnh táo, lấy lại ý thức (ví dụ sau khi gây mê), tỉnh lại, vỡ mộng"
+      }
+    ],
+    "radical": {
+      "symbol": "酉",
+      "meaning": "rượu vang, rượu"
+    },
+    "parts": [
+      "日",
+      "生",
+      "酉"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37266_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09192.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9192.gif",
+    "uri": "https://jisho.org/search/%E9%86%92%23kanji"
+  }
+}

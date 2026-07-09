@@ -1,0 +1,50 @@
+{
+  "id": "旺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "旺",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2342",
+    "strokeCount": 8,
+    "meaning": "hưng thịnh, thành công, xinh đẹp, mạnh mẽ",
+    "kunyomi": [
+      "さかん"
+    ],
+    "onyomi": [
+      "オウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "旺盛",
+        "reading": "オウセイ",
+        "meaning": "sống động, mạnh mẽ, tràn đầy năng lượng, khỏe mạnh, khao khát (ví dụ: ham muốn), phong phú (ví dụ: trí tưởng tượng), tràn đầy (năng lượng, thèm ăn, tò mò, v.v.), tràn đầy"
+      },
+      {
+        "example": "旺然",
+        "reading": "オウゼン",
+        "meaning": "thịnh vượng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "盛ん",
+        "reading": "さかん",
+        "meaning": "thịnh vượng, hưng thịnh, thịnh vượng, thành công, phổ biến, rộng rãi, tích cực, sống động, tràn đầy năng lượng, mạnh mẽ, nhanh nhẹn, mạnh mẽ, nhiệt tình, háo hức, nồng nhiệt, thường xuyên, lặp đi lặp lại"
+      }
+    ],
+    "radical": {
+      "symbol": "日",
+      "meaning": "mặt trời, ngày"
+    },
+    "parts": [
+      "日",
+      "王"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26106_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065fa.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65fa.gif",
+    "uri": "https://jisho.org/search/%E6%97%BA%23kanji"
+  }
+}

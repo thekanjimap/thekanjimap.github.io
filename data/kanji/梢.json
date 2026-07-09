@@ -1,0 +1,55 @@
+{
+  "id": "梢",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "梢",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 11,
+    "meaning": "ngọn cây, cành cây",
+    "kunyomi": [
+      "こずえ",
+      "くすのき"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "梢子",
+        "reading": "ショウシ",
+        "meaning": "người chèo thuyền"
+      },
+      {
+        "example": "末梢",
+        "reading": "マッショウ",
+        "meaning": "đầu cành, đầu cành, đầu, chuyện vặt, chuyện vặt, chi tiết nhỏ"
+      },
+      {
+        "example": "黄梢",
+        "reading": "コウショウ",
+        "meaning": "mùa xuân nụ vàng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "梢",
+        "reading": "こずえ",
+        "meaning": "ngọn cây, đầu cành"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "尚",
+      "月",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26786_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068a2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68a2.gif",
+    "uri": "https://jisho.org/search/%E6%A2%A2%23kanji"
+  }
+}

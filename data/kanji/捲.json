@@ -1,0 +1,88 @@
+{
+  "id": "捲",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "捲",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "cuộn, gió, cuộn dây, lật trang, xắn tay áo, cởi ra, quay, cuộn lại",
+    "kunyomi": [
+      "ま.く",
+      "ま.くる",
+      "まく.る",
+      "めく.る",
+      "まく.れる"
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "捲縮",
+        "reading": "ケンシュク",
+        "meaning": "nếp gấp, nếp nhăn, sự gợn sóng"
+      },
+      {
+        "example": "捲土重来",
+        "reading": "ケンドチョウライ",
+        "meaning": "lấy lại sức lực cho một cuộc tấn công mới, thực hiện một nỗ lực khác với nỗ lực gấp đôi"
+      },
+      {
+        "example": "席巻",
+        "reading": "セッケン",
+        "meaning": "càn quét (vượt qua, ngang qua), chinh phục, áp đảo"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "巻く",
+        "reading": "まく",
+        "meaning": "quấn, cuộn, cuộn, đeo (ví dụ: khăn xếp, khăn quàng cổ), quấn, quấn, quấn bên ngoài, váy, liên kết (câu thơ), di chuyển về phía trước (ba giờ, v.v.), di chuyển lên"
+      },
+      {
+        "example": "捲る",
+        "reading": "まくる",
+        "meaning": "lật lên, cuộn lên (ví dụ: tay áo), làm đi làm lại, làm không ngừng nghỉ, làm với sự từ bỏ liều lĩnh, làm liên tục, quay trở lại (chống lại) (trong mạt chược, đua ngựa, v.v.), đến từ phía sau"
+      },
+      {
+        "example": "捲る",
+        "reading": "まくる",
+        "meaning": "lật lên, cuộn lên (ví dụ: tay áo), làm đi làm lại, làm không ngừng nghỉ, làm với sự từ bỏ liều lĩnh, làm liên tục, quay trở lại (chống lại) (trong mạt chược, đua ngựa, v.v.), đến từ phía sau"
+      },
+      {
+        "example": "捲る",
+        "reading": "まくる",
+        "meaning": "lật lên, cuộn lên (ví dụ: tay áo), làm đi làm lại, làm không ngừng nghỉ, làm với sự từ bỏ liều lĩnh, làm liên tục, quay trở lại (chống lại) (trong mạt chược, đua ngựa, v.v.), đến từ phía sau"
+      },
+      {
+        "example": "捲る",
+        "reading": "めくる",
+        "meaning": "lật, lật (trang), lật qua (cuốn sách, v.v.), xé, cởi ra, cởi ra, kéo ra (ví dụ: một tấm chăn), kéo lên (ví dụ: ván sàn), xé"
+      },
+      {
+        "example": "捲れる",
+        "reading": "まくれる",
+        "meaning": "bị lật ngược, bị lật từ trong ra ngoài, bị cuốn lên, được nâng lên (ví dụ: nhờ gió)"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "一",
+      "二",
+      "大",
+      "已",
+      "并",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25458_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06372.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6372.gif",
+    "uri": "https://jisho.org/search/%E6%8D%B2%23kanji"
+  }
+}

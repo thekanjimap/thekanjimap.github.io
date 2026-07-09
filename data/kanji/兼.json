@@ -1,0 +1,54 @@
+{
+  "id": "兼",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "兼",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1164",
+    "strokeCount": 10,
+    "meaning": "đồng thời, và, trước, trước",
+    "kunyomi": [
+      "か.ねる",
+      "-か.ねる"
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "兼",
+        "reading": "ケン",
+        "meaning": "kiêm (ví dụ: phòng ngủ kiêm phòng làm việc), và (đồng thời; ví dụ: tài xế và thư ký), ngoài ra, cùng một lúc"
+      },
+      {
+        "example": "兼任",
+        "reading": "ケンニン",
+        "meaning": "kiêm nhiệm, giữ chức vụ bổ sung"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "兼ねる",
+        "reading": "かねる",
+        "meaning": "không thể, cảm thấy khó thực hiện (khó chịu, vụng về, đau đớn), phục vụ đồng thời hai hoặc nhiều chức năng hoặc vai trò, chứa (hoặc kết hợp) hai hoặc nhiều tính năng, làm việc đồng thời hai hoặc nhiều công việc (vị trí, v.v.), làm cùng lúc, ngần ngại làm điều gì đó (không quan tâm đến người khác), nghĩ về tương lai (cũng như hiện tại)"
+      }
+    ],
+    "radical": {
+      "symbol": "八",
+      "meaning": "tám"
+    },
+    "parts": [
+      "ハ",
+      "ヨ",
+      "一",
+      "并",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20860_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0517c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/517c.gif",
+    "uri": "https://jisho.org/search/%E5%85%BC%23kanji"
+  }
+}

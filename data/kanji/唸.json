@@ -1,0 +1,54 @@
+{
+  "id": "唸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "唸",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "rên rỉ, gầm gừ",
+    "kunyomi": [
+      "うな.る",
+      "うなり"
+    ],
+    "onyomi": [
+      "テン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "唸る",
+        "reading": "うなる",
+        "meaning": "rên rỉ, rên rỉ, gầm gừ, hú, gầm gừ, vo ve (động cơ, gió, v.v.), vo ve, rít, kêu, tạo ra âm thanh trầm, buồn tẻ, ooh và aah (trong sự ngưỡng mộ), hát với giọng mạnh và trầm (đặc biệt là tụng kinh hoặc ngâm thơ truyền thống), sắp nổ tung, tràn ra"
+      },
+      {
+        "example": "唸るほど",
+        "reading": "うなるほど",
+        "meaning": "ở một mức độ lớn, vô cùng (ngon, nhiều, v.v.), (tiền) để đốt, lăn vào (tiền mặt)"
+      },
+      {
+        "example": "唸り",
+        "reading": "うなり",
+        "meaning": "rên rỉ, rên rỉ, gầm gừ, gầm gừ, gầm rú, hú, gầm gừ, vo ve (ví dụ: của động cơ), buzz, drone, wiz, thiết bị gắn vào diều tạo ra âm thanh vo ve khi thả diều, nhịp (nhiễu âm thanh)"
+      },
+      {
+        "example": "唸り声",
+        "reading": "うなりごえ",
+        "meaning": "rên rỉ, rên rỉ, gầm gừ, gầm gừ, gầm gừ, vo ve (của máy móc, đường dây điện, v.v.), vo ve (ví dụ: của động cơ), vo ve, hú (của gió)"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "一",
+      "个",
+      "口",
+      "心"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21816_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05538.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5538.gif",
+    "uri": "https://jisho.org/search/%E5%94%B8%23kanji"
+  }
+}

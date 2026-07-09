@@ -1,0 +1,43 @@
+{
+  "id": "鶲",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鶲",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "đớp ruồi mào, peewee",
+    "kunyomi": [
+      "ひたき"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鶲",
+        "reading": "ひたき",
+        "meaning": "Đớp ruồi Cựu Thế giới (bất kỳ loài chim nào thuộc họ Muscicapinae, đặc biệt là loài đớp ruồi điển hình của phân họ Muscicapinae)"
+      },
+      {
+        "example": "嘴黒鶲",
+        "reading": "はしぐろひたき",
+        "meaning": "lúa mì miền bắc (Oenanthe oenanthe)"
+      }
+    ],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "chim"
+    },
+    "parts": [
+      "ハ",
+      "冫",
+      "厶",
+      "杰",
+      "羽",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40370_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09db2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9db2.gif",
+    "uri": "https://jisho.org/search/%E9%B6%B2%23kanji"
+  }
+}

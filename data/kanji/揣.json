@@ -1,0 +1,47 @@
+{
+  "id": "揣",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "揣",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "phỏng đoán",
+    "kunyomi": [
+      "はか.る"
+    ],
+    "onyomi": [
+      "シ",
+      "スイ",
+      "タン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "揣摩",
+        "reading": "シマ",
+        "meaning": "sự phỏng đoán, sự phỏng đoán, sự phỏng đoán, sự suy đoán"
+      },
+      {
+        "example": "揣摩臆測",
+        "reading": "シマオクソク",
+        "meaning": "phỏng đoán và phỏng đoán, suy đoán, khiến trí tưởng tượng của con người phát huy hết mức mà không có căn cứ"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "山",
+      "扎",
+      "而"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25571_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063e3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63e3.gif",
+    "uri": "https://jisho.org/search/%E6%8F%A3%23kanji"
+  }
+}

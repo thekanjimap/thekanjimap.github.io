@@ -1,0 +1,73 @@
+{
+  "id": "汀",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "汀",
+    "found": true,
+    "strokeCount": 5,
+    "meaning": "mép nước, bờ, bờ",
+    "kunyomi": [
+      "みぎわ",
+      "なぎさ"
+    ],
+    "onyomi": [
+      "テイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "汀渚",
+        "reading": "テイショ",
+        "meaning": "doi cát, mép nước"
+      },
+      {
+        "example": "汀線",
+        "reading": "テイセン",
+        "meaning": "đường bờ biển, đường bờ biển"
+      },
+      {
+        "example": "長汀",
+        "reading": "チョウテイ",
+        "meaning": "bờ biển dài"
+      },
+      {
+        "example": "池汀",
+        "reading": "チテイ",
+        "meaning": "bờ ao, bờ ao"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "汀",
+        "reading": "みぎわ",
+        "meaning": "bờ nước, bờ biển, bờ nước"
+      },
+      {
+        "example": "汀線",
+        "reading": "ていせん",
+        "meaning": "đường bờ biển, đường bờ biển"
+      },
+      {
+        "example": "渚",
+        "reading": "なぎさ",
+        "meaning": "mép nước, bãi biển, bờ biển"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "一",
+      "亅",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27712_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c40.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c40.gif",
+    "uri": "https://jisho.org/search/%E6%B1%80%23kanji"
+  }
+}

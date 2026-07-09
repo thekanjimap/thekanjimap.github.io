@@ -1,0 +1,62 @@
+{
+  "id": "嘱",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嘱",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1903",
+    "strokeCount": 15,
+    "meaning": "ủy thác, yêu cầu, gửi tin nhắn",
+    "kunyomi": [
+      "しょく.する",
+      "たの.む"
+    ],
+    "onyomi": [
+      "ショク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "嘱託",
+        "reading": "ショクタク",
+        "meaning": "hoa hồng, ủy thác (công việc), nhân viên bán thời gian, công việc tạm thời"
+      },
+      {
+        "example": "嘱望",
+        "reading": "ショクボウ",
+        "meaning": "đặt hy vọng lớn vào (tương lai của ai đó), kỳ vọng nhiều vào, đặt hy vọng vào"
+      },
+      {
+        "example": "委嘱",
+        "reading": "イショク",
+        "meaning": "ủy thác, giao phó (với), yêu cầu, bổ nhiệm (vào một vị trí)"
+      },
+      {
+        "example": "遺嘱",
+        "reading": "イショク",
+        "meaning": "nguyện vọng sắp chết (được thực hiện sau khi chết)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "嘱する",
+        "reading": "しょくする",
+        "meaning": "giao phó (ai đó), đặt hy vọng vào (tương lai của ai), đặt nhiều kỳ vọng vào, nhờ (ai đó) chuyển (một lá thư, v.v.), để lại (một tin nhắn), gửi lời"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "口",
+      "尸",
+      "禹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22065_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05631.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5631.gif",
+    "uri": "https://jisho.org/search/%E5%98%B1%23kanji"
+  }
+}

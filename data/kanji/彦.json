@@ -1,0 +1,67 @@
+{
+  "id": "彦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "彦",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1117",
+    "strokeCount": 9,
+    "meaning": "chàng trai, chàng trai (xưa)",
+    "kunyomi": [
+      "ひこ"
+    ],
+    "onyomi": [
+      "ゲン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "諸彦",
+        "reading": "ショゲン",
+        "meaning": "nhiều người thành đạt"
+      },
+      {
+        "example": "俊彦",
+        "reading": "シュンゲン",
+        "meaning": "người có tài, người thành đạt"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "彦",
+        "reading": "ひこ",
+        "meaning": "cậu bé"
+      },
+      {
+        "example": "彦星",
+        "reading": "ひこぼし",
+        "meaning": "Altair (ngôi sao trong chòm sao Aquila), Alpha Aquilae"
+      },
+      {
+        "example": "猿田彦",
+        "reading": "さるたひこ",
+        "meaning": "Sarutahiko (vị thần)"
+      },
+      {
+        "example": "長髄彦",
+        "reading": "ながすねひこ",
+        "meaning": "Nagasunehiko, thủ lĩnh gia tộc huyền thoại phản đối việc thống nhất Nhật Bản của Hoàng đế Jimmu và sau đó bị vị thần Nigihayahi giết chết"
+      }
+    ],
+    "radical": {
+      "symbol": "彡",
+      "meaning": "lông, râu"
+    },
+    "parts": [
+      "亠",
+      "厂",
+      "并",
+      "彡",
+      "立"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24422_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f66.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f66.gif",
+    "uri": "https://jisho.org/search/%E5%BD%A6%23kanji"
+  }
+}

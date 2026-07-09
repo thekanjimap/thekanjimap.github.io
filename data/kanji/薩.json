@@ -1,0 +1,65 @@
+{
+  "id": "薩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "薩",
+    "found": true,
+    "newspaperFrequencyRank": "1984",
+    "strokeCount": 17,
+    "meaning": "sự cứu rỗi, Đức Phật",
+    "kunyomi": [],
+    "onyomi": [
+      "サツ",
+      "サチ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "さつま芋",
+        "reading": "サツマイモ",
+        "meaning": "khoai lang (Ipomoea batatas)"
+      },
+      {
+        "example": "薩英戦争",
+        "reading": "サツエイセンソウ",
+        "meaning": "Chiến tranh Anglo-Satsuma (1863), Bắn phá Kagoshima"
+      },
+      {
+        "example": "菩薩",
+        "reading": "ボサツ",
+        "meaning": "bồ tát, người đã đạt đến giác ngộ nhưng nguyện cứu độ tất cả chúng sinh trước khi thành phật, Thượng tăng (danh hiệu do triều đình ban tặng), danh hiệu ban tặng cho Thần đạo kami trong thuyết biểu hiện"
+      },
+      {
+        "example": "観自在菩薩",
+        "reading": "カンジザイボサツ",
+        "meaning": "Avalokiteshvara (Bồ Tát), Quán Thế Âm, Kannon, Kwannon, Guanyin, vị thần từ bi của Phật giáo"
+      },
+      {
+        "example": "菩薩",
+        "reading": "ボサツ",
+        "meaning": "bồ tát, người đã đạt đến giác ngộ nhưng nguyện cứu độ tất cả chúng sinh trước khi thành phật, Thượng tăng (danh hiệu do triều đình ban tặng), danh hiệu ban tặng cho Thần đạo kami trong thuyết biểu hiện"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "ノ",
+      "亠",
+      "厂",
+      "并",
+      "生",
+      "立",
+      "艾",
+      "阡"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34217_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085a9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85a9.gif",
+    "uri": "https://jisho.org/search/%E8%96%A9%23kanji"
+  }
+}

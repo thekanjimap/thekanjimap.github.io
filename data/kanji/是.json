@@ -1,0 +1,78 @@
+{
+  "id": "是",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "是",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1045",
+    "strokeCount": 9,
+    "meaning": "đúng thế, thế này, đúng rồi, công lý",
+    "kunyomi": [
+      "これ",
+      "この",
+      "ここ"
+    ],
+    "onyomi": [
+      "ゼ",
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "是",
+        "reading": "ゼ",
+        "meaning": "sự công bình, sự công bằng, lẽ phải"
+      },
+      {
+        "example": "是正",
+        "reading": "ゼセイ",
+        "meaning": "sửa lại,sửa lại,sửa lại,sửa lại"
+      },
+      {
+        "example": "国是",
+        "reading": "コクゼ",
+        "meaning": "chính sách quốc gia"
+      },
+      {
+        "example": "党是",
+        "reading": "トウゼ",
+        "meaning": "cương lĩnh của đảng, nguyên tắc của đảng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "此れ",
+        "reading": "これ",
+        "meaning": "cái này, cái này, người này, bây giờ, thời điểm này (trong thời gian), ở đây, dùng để nhấn mạnh chủ ngữ của câu, tôi, tôi"
+      },
+      {
+        "example": "此れから",
+        "reading": "これから",
+        "meaning": "từ nay trở đi, sau này, trong tương lai, trong tương lai, từ đây, từ thời điểm này"
+      },
+      {
+        "example": "此処",
+        "reading": "ここ",
+        "meaning": "ở đây, nơi này, điểm này, ở đây, bây giờ, những quá khứ này ... (ví dụ: ba năm), những lần cuối cùng ..., tiếp theo ... (ví dụ: vài ngày), những lần tiếp theo ..."
+      },
+      {
+        "example": "此処に",
+        "reading": "ここに",
+        "meaning": "bây giờ, ở đây, vào thời điểm này"
+      }
+    ],
+    "radical": {
+      "symbol": "日",
+      "meaning": "mặt trời, ngày"
+    },
+    "parts": [
+      "日",
+      "疋"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26159_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0662f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/662f.gif",
+    "uri": "https://jisho.org/search/%E6%98%AF%23kanji"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "抛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "抛",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "ném mạnh",
+    "kunyomi": [
+      "なげう.つ"
+    ],
+    "onyomi": [
+      "ホウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "放る",
+        "reading": "ホウル",
+        "meaning": "ném, ném, ném, quăng, bỏ bê, bỏ rơi, bỏ lại một mình, bỏ cuộc, bỏ dở, bỏ dở"
+      },
+      {
+        "example": "放棄",
+        "reading": "ホウキ",
+        "meaning": "sự từ bỏ,sự từ bỏ,sự từ bỏ,sự từ bỏ,sự từ bỏ,sự từ bỏ,sự từ bỏ,sự từ bỏ,sự từ bỏ,sự từ bỏ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "投げ打つ",
+        "reading": "なげうつ",
+        "meaning": "vứt bỏ, từ bỏ, từ bỏ, từ bỏ, từ bỏ (mạng sống)"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "ノ",
+      "九",
+      "力",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25243_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0629b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/629b.gif",
+    "uri": "https://jisho.org/search/%E6%8A%9B%23kanji"
+  }
+}

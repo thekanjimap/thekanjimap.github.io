@@ -1,0 +1,372 @@
+{
+  "id": "圧",
+  "kanjialiveData": {
+    "_id": "54317b04791eba5146ee4be5",
+    "_rev": "10-b2fb89f30f7a68137f28e7036b85f37f",
+    "rad_name_ja": "つち",
+    "grade": 5,
+    "hint_group": 1,
+    "kunyomi": "Không có",
+    "meaning": "áp lực",
+    "kstroke": 5,
+    "examples": [
+      {
+        "japanese": "圧力（あつりょく）",
+        "meaning": {
+          "english": "căng thẳng, áp lực"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atsu(ryoku)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/atsu(ryoku)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/atsu(ryoku)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/atsu(ryoku)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "圧巻（あっかん）",
+        "meaning": {
+          "english": "phần hay nhất của một cuốn sách, kiệt tác"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atsu(ryoku)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/atsu(ryoku)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/atsu(ryoku)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/atsu(ryoku)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "気圧（きあつ）",
+        "meaning": {
+          "english": "áp suất khí quyển"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atsu(ryoku)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/atsu(ryoku)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/atsu(ryoku)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/atsu(ryoku)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "血圧（けつあつ）",
+        "meaning": {
+          "english": "huyết áp"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atsu(ryoku)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/atsu(ryoku)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/atsu(ryoku)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/atsu(ryoku)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "電圧（でんあつ）",
+        "meaning": {
+          "english": "điện áp"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atsu(ryoku)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/atsu(ryoku)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/atsu(ryoku)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/atsu(ryoku)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "圧倒的な（あっとうてきな）",
+        "meaning": {
+          "english": "áp đảo"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atsu(ryoku)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/atsu(ryoku)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/atsu(ryoku)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/atsu(ryoku)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "圧迫する（あっぱくする）",
+        "meaning": {
+          "english": "áp lực, ép buộc, đàn áp"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atsu(ryoku)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/atsu(ryoku)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/atsu(ryoku)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/atsu(ryoku)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "圧倒する（あっとうする）",
+        "meaning": {
+          "english": "áp đảo, áp đảo"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atsu(ryoku)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/atsu(ryoku)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/atsu(ryoku)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/atsu(ryoku)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "圧勝する（あっしょうする）",
+        "meaning": {
+          "english": "giành chiến thắng vang dội"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atsu(ryoku)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/atsu(ryoku)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/atsu(ryoku)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/atsu(ryoku)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "圧縮する（あっしゅくする）",
+        "meaning": {
+          "english": "nén, ngưng tụ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atsu(ryoku)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/atsu(ryoku)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/atsu(ryoku)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/atsu(ryoku)_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "弾圧する（だんあつする）",
+        "meaning": {
+          "english": "đàn áp, trấn áp"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atsu(ryoku)_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/atsu(ryoku)_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/atsu(ryoku)_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/atsu(ryoku)_06_k.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "圧",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=圧",
+    "kname": "atsu(ryoku)",
+    "rad_order": 37,
+    "txt_books": [
+      {
+        "chapter": "17",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtIKB"
+      }
+    ],
+    "rad_name_search": [
+      "tsuchi"
+    ],
+    "rad_utf": "⼟",
+    "stroketimes": [
+      0,
+      0.866667,
+      2.4,
+      3.866667,
+      5.733333,
+      7.8
+    ],
+    "kunyomi_ka_display": "Không có",
+    "dick": "1883",
+    "rad_name": "tsuchi",
+    "dicn": "818",
+    "mn_hint": "To make an embankment 厂, one has to apply pressure to firm the ground 土.",
+    "rad_stroke": 3,
+    "onyomi_ja": "アツ",
+    "rad_meaning": "trái đất",
+    "onyomi": "atsu",
+    "ka_id": "ka_763",
+    "onyomi_search": [
+      "atsu",
+      "atsu"
+    ],
+    "kunyomi_search": [
+      "Không có",
+      "Không có"
+    ],
+    "meaning_search": [
+      "pressure",
+      "pressure"
+    ],
+    "onyomi_ja_search": [
+      "アツ",
+      "アツ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "earth",
+      "earth"
+    ],
+    "rad_name_ja_search": [
+      "つち"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:17",
+      "ij:c17",
+      "ik1",
+      "ik1:2",
+      "ik1:c2"
+    ],
+    "rad_name_file": "tsuchi",
+    "kanji": {
+      "character": "圧",
+      "meaning": {
+        "english": "pressure"
+      },
+      "strokes": {
+        "count": 5,
+        "timings": [
+          0,
+          0.866667,
+          2.4,
+          3.866667,
+          5.733333,
+          7.8
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/atsu(ryoku)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/atsu(ryoku)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/atsu(ryoku)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/atsu(ryoku)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/atsu(ryoku)_5.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "atsu",
+        "katakana": "アツ"
+      },
+      "kunyomi": {
+        "romaji": "Không có",
+        "hiragana": "Không có"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/atsu(ryoku)_5.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/atsu(ryoku)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/atsu(ryoku)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼟",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/tsuchi.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "つち",
+        "romaji": "tsuchi"
+      },
+      "meaning": {
+        "english": "trái đất"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/tsuchi0.svg",
+        "https://media.kanjialive.com/rad_frames/tsuchi1.svg",
+        "https://media.kanjialive.com/rad_frames/tsuchi2.svg"
+      ]
+    },
+    "references": {
+      "grade": 5,
+      "kodansha": "1883",
+      "classic_nelson": "818"
+    }
+  },
+  "jishoData": {
+    "query": "圧",
+    "found": true,
+    "taughtIn": "lớp 5",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "718",
+    "strokeCount": 5,
+    "meaning": "áp lực,đẩy,áp đảo,áp bức,thống trị",
+    "kunyomi": [
+      "お.す",
+      "へ.す",
+      "おさ.える",
+      "お.さえる"
+    ],
+    "onyomi": [
+      "アツ",
+      "エン",
+      "オウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "圧",
+        "reading": "アツ",
+        "meaning": "áp lực, lực lượng"
+      },
+      {
+        "example": "圧力",
+        "reading": "アツリョク",
+        "meaning": "áp lực, căng thẳng, áp lực (ví dụ: chính trị), ép buộc, vặn tay"
+      },
+      {
+        "example": "高圧",
+        "reading": "コウアツ",
+        "meaning": "điện áp cao, áp suất cao"
+      },
+      {
+        "example": "外圧",
+        "reading": "ガイアツ",
+        "meaning": "áp suất bên ngoài, áp suất bên ngoài, áp suất bên ngoài"
+      },
+      {
+        "example": "圧状",
+        "reading": "オウジョウ",
+        "meaning": "văn bản viết dưới sự ép buộc, ép buộc"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "押す",
+        "reading": "おす",
+        "meaning": "đẩy, đẩy, đẩy, ấn (xuống), ấn (ví dụ một nút), gây áp lực lên, đóng dấu (ví dụ: tên của một người), đóng dấu (một con dấu), đóng dấu (ví dụ như lá vàng), đẩy (ai đó cho một cái gì đó), nhấn, gây áp lực lên (ai đó), áp đảo, chế ngự, đặt (ai đó) dưới áp lực, vượt trội, thúc đẩy (với một chính sách, kế hoạch, v.v.), tiến tới, bám sát, làm ... bất chấp ..., thách thức, dũng cảm, gạt sang một bên, đảm bảo, tụt hậu so với kế hoạch"
+      },
+      {
+        "example": "圧す",
+        "reading": "へす",
+        "meaning": "làm móp, ấn, đẩy"
+      },
+      {
+        "example": "押さえる",
+        "reading": "おさえる",
+        "meaning": "ghim xuống, giữ xuống, ấn xuống, giữ đúng vị trí, giữ vững, che (đặc biệt là một bộ phận cơ thể bằng tay), giữ chặt (một bộ phận cơ thể bị đau), ấn (một bộ phận cơ thể), nắm lấy, thu được, bắt, bắt, bắt giữ, nắm lấy (một điểm), hiểu, dập tắt, khuất phục, ngăn chặn, kìm nén, giữ lại, kiểm tra, kiềm chế, chứa đựng"
+      },
+      {
+        "example": "押さえる",
+        "reading": "おさえる",
+        "meaning": "ghim xuống, giữ xuống, ấn xuống, giữ đúng vị trí, giữ vững, che (đặc biệt là một bộ phận cơ thể bằng tay), giữ chặt (một bộ phận cơ thể bị đau), ấn (một bộ phận cơ thể), nắm lấy, thu được, bắt, bắt, bắt giữ, nắm lấy (một điểm), hiểu, dập tắt, khuất phục, ngăn chặn, kìm nén, giữ lại, kiểm tra, kiềm chế, chứa đựng"
+      }
+    ],
+    "radical": {
+      "symbol": "土",
+      "meaning": "trái đất"
+    },
+    "parts": [
+      "厂",
+      "土"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22311_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05727.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5727.gif",
+    "uri": "https://jisho.org/search/%E5%9C%A7%23kanji"
+  }
+}

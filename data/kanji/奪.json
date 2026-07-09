@@ -1,0 +1,61 @@
+{
+  "id": "奪",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "奪",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "974",
+    "strokeCount": 14,
+    "meaning": "cướp, lấy bằng vũ lực, cướp đi, tước đoạt, cướp bóc, chiếm đoạt",
+    "kunyomi": [
+      "うば.う"
+    ],
+    "onyomi": [
+      "ダツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "奪三振",
+        "reading": "ダツサンシン",
+        "meaning": "đánh một người đánh bóng ra ngoài"
+      },
+      {
+        "example": "奪三振王",
+        "reading": "ダツサンシンオウ",
+        "meaning": "người giữ kỷ lục (mùa giải) về số lần lập công nhiều nhất"
+      },
+      {
+        "example": "争奪",
+        "reading": "ソウダツ",
+        "meaning": "đấu tranh (vì), tranh giành, tranh giành"
+      },
+      {
+        "example": "収奪",
+        "reading": "シュウダツ",
+        "meaning": "cướp bóc, bóc lột"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "奪う",
+        "reading": "うばう",
+        "meaning": "lấy (bằng vũ lực), lấy đi, giật, ăn trộm, cướp (ai đó), tước đoạt, tước đoạt, chiếm đoạt, thu hút (sự chú ý của một người), mê hoặc, quyến rũ, quyến rũ, làm lóa mắt"
+      }
+    ],
+    "radical": {
+      "symbol": "大",
+      "meaning": "lớn, rất"
+    },
+    "parts": [
+      "大",
+      "寸",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22890_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0596a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/596a.gif",
+    "uri": "https://jisho.org/search/%E5%A5%AA%23kanji"
+  }
+}

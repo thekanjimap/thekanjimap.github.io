@@ -1,0 +1,52 @@
+{
+  "id": "娼",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "娼",
+    "found": true,
+    "newspaperFrequencyRank": "2242",
+    "strokeCount": 11,
+    "meaning": "gái điếm",
+    "kunyomi": [
+      "あそびめ"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "娼婦",
+        "reading": "ショウフ",
+        "meaning": "gái điếm"
+      },
+      {
+        "example": "娼家",
+        "reading": "ショウカ",
+        "meaning": "nhà chứa"
+      },
+      {
+        "example": "街娼",
+        "reading": "ガイショウ",
+        "meaning": "gái điếm, con điếm, người đi đường"
+      },
+      {
+        "example": "廃娼",
+        "reading": "ハイショウ",
+        "meaning": "bãi bỏ mại dâm được cấp phép"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "女",
+      "meaning": "phụ nữ, nữ"
+    },
+    "parts": [
+      "女",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23100_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a3c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a3c.gif",
+    "uri": "https://jisho.org/search/%E5%A8%BC%23kanji"
+  }
+}

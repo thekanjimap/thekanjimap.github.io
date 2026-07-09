@@ -1,0 +1,76 @@
+{
+  "id": "鼓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鼓",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1795",
+    "strokeCount": 13,
+    "meaning": "trống, đánh, đánh, tập hợp",
+    "kunyomi": [
+      "つづみ"
+    ],
+    "onyomi": [
+      "コ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鼓舞",
+        "reading": "コブ",
+        "meaning": "khuyến khích, truyền cảm hứng, khơi dậy, khuấy động, nâng cao (ví dụ: tinh thần)"
+      },
+      {
+        "example": "鼓動",
+        "reading": "コドウ",
+        "meaning": "đập, đánh trống ngực, đập, đập mạnh"
+      },
+      {
+        "example": "大太鼓",
+        "reading": "オオダイコ",
+        "meaning": "trống lớn, trống bass"
+      },
+      {
+        "example": "御太鼓",
+        "reading": "オタイコ",
+        "meaning": "Cách thắt khăn kimono của phụ nữ rất phổ biến"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鼓",
+        "reading": "つづみ",
+        "meaning": "trống tay"
+      },
+      {
+        "example": "舌鼓",
+        "reading": "したつづみ",
+        "meaning": "chép môi (khi ăn)"
+      },
+      {
+        "example": "大鼓",
+        "reading": "おおつづみ",
+        "meaning": "trống tay lớn"
+      }
+    ],
+    "radical": {
+      "symbol": "鼓",
+      "meaning": "trống"
+    },
+    "parts": [
+      "十",
+      "又",
+      "口",
+      "士",
+      "并",
+      "支",
+      "豆",
+      "鼓"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40723_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f13.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f13.gif",
+    "uri": "https://jisho.org/search/%E9%BC%93%23kanji"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "鱗",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鱗",
+    "found": true,
+    "newspaperFrequencyRank": "2494",
+    "strokeCount": 24,
+    "meaning": "vảy (cá)",
+    "kunyomi": [
+      "うろこ",
+      "こけ",
+      "こけら"
+    ],
+    "onyomi": [
+      "リン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鱗芽",
+        "reading": "リンガ",
+        "meaning": "củ, vỏ cây, chồi non"
+      },
+      {
+        "example": "鱗形",
+        "reading": "ウロコガタ",
+        "meaning": "mô hình tam giác, mô hình vảy, mô hình đan xen, mô hình ghép nối, biểu tượng hình tam giác"
+      },
+      {
+        "example": "介鱗",
+        "reading": "カイリン",
+        "meaning": "cá và động vật có vỏ"
+      },
+      {
+        "example": "細鱗",
+        "reading": "サイリン",
+        "meaning": "vảy (cá) nhỏ, cá nhỏ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鱗",
+        "reading": "うろこ",
+        "meaning": "thang đo (của cá, rắn, v.v.), serif (trên kana hoặc kanji (ví dụ: ở phông chữ Mincho))"
+      },
+      {
+        "example": "鱗形",
+        "reading": "うろこがた",
+        "meaning": "mô hình tam giác, mô hình vảy, mô hình đan xen, mô hình ghép nối, biểu tượng hình tam giác"
+      },
+      {
+        "example": "三つ鱗",
+        "reading": "みつうろこ",
+        "meaning": "Biểu tượng mitsuuroko (ba hình tam giác theo hình tam giác; biểu tượng gia tộc Hōjō)"
+      },
+      {
+        "example": "目からウロコ",
+        "reading": "めからうろこ",
+        "meaning": "nhìn thấy ánh sáng, thức tỉnh với sự thật, vảy rơi khỏi mắt"
+      },
+      {
+        "example": "鱗",
+        "reading": "うろこ",
+        "meaning": "thang đo (của cá, rắn, v.v.), serif (trên kana hoặc kanji (ví dụ: ở phông chữ Mincho))"
+      },
+      {
+        "example": "鱗板",
+        "reading": "こけらいた",
+        "meaning": "bệnh zona mỏng"
+      },
+      {
+        "example": "鱗",
+        "reading": "うろこ",
+        "meaning": "thang đo (của cá, rắn, v.v.), serif (trên kana hoặc kanji (ví dụ: ở phông chữ Mincho))"
+      },
+      {
+        "example": "鱗板",
+        "reading": "こけらいた",
+        "meaning": "bệnh zona mỏng"
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "cá"
+    },
+    "parts": [
+      "夕",
+      "杰",
+      "田",
+      "米",
+      "舛",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40023_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c57.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c57.gif",
+    "uri": "https://jisho.org/search/%E9%B1%97%23kanji"
+  }
+}

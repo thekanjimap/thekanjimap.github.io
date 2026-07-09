@@ -1,0 +1,67 @@
+{
+  "id": "架",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "架",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1555",
+    "strokeCount": 9,
+    "meaning": "dựng lên, khung, gắn kết, hỗ trợ, kệ, xây dựng",
+    "kunyomi": [
+      "か.ける",
+      "か.かる"
+    ],
+    "onyomi": [
+      "カ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "架",
+        "reading": "カ",
+        "meaning": "giá, giá đỡ, giá đỡ"
+      },
+      {
+        "example": "架空",
+        "reading": "カクウ",
+        "meaning": "hư cấu, tưởng tượng, huyền ảo, bịa đặt, trên không, trên cao"
+      },
+      {
+        "example": "高架",
+        "reading": "コウカ",
+        "meaning": "nâng cao (cấu trúc), trên cao"
+      },
+      {
+        "example": "担架",
+        "reading": "タンカ",
+        "meaning": "cáng, cáng, cáng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "架ける",
+        "reading": "かける",
+        "meaning": "treo giữa hai điểm, xây dựng (một cây cầu, v.v.), đặt lên một cái gì đó (ví dụ: gác chân lên bàn)"
+      },
+      {
+        "example": "架かる",
+        "reading": "かかる",
+        "meaning": "bắc qua, bắc cầu, băng qua, cưỡi ngựa"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "力",
+      "口",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26550_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067b6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67b6.gif",
+    "uri": "https://jisho.org/search/%E6%9E%B6%23kanji"
+  }
+}

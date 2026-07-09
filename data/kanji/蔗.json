@@ -1,0 +1,58 @@
+{
+  "id": "蔗",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蔗",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "mía",
+    "kunyomi": [
+      "さとうきび"
+    ],
+    "onyomi": [
+      "シャ",
+      "ショ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "竹蔗",
+        "reading": "チクシャ",
+        "meaning": "Mía Trung Quốc (Saccharum sinense)"
+      },
+      {
+        "example": "甘蔗",
+        "reading": "カンショ",
+        "meaning": "mía"
+      },
+      {
+        "example": "ショ糖",
+        "reading": "ショトウ",
+        "meaning": "sucrose, saccharose, đường mía"
+      },
+      {
+        "example": "甘蔗",
+        "reading": "カンショ",
+        "meaning": "mía"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "一",
+      "凵",
+      "广",
+      "杰",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34071_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08517.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8517.gif",
+    "uri": "https://jisho.org/search/%E8%94%97%23kanji"
+  }
+}

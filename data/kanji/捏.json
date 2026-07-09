@@ -1,0 +1,55 @@
+{
+  "id": "捏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "捏",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "nhào, trộn",
+    "kunyomi": [
+      "こ.ねる",
+      "ね.る",
+      "つく.ねる"
+    ],
+    "onyomi": [
+      "ネツ",
+      "テツ",
+      "ネチ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "捏造",
+        "reading": "ネツゾウ",
+        "meaning": "sự bịa đặt, sự giả mạo, sự dối trá, trò lừa bịp"
+      },
+      {
+        "example": "捏造記事",
+        "reading": "ネツゾウキジ",
+        "meaning": "bài viết bịa đặt, câu chuyện (tin tức) bịa đặt, báo cáo (tin tức) bịa đặt"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "捏ねる",
+        "reading": "こねる",
+        "meaning": "nhào nặn, trộn lẫn bằng ngón tay, ngụy biện, tranh luận để tranh luận"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "土",
+      "扎",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25423_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0634f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/634f.gif",
+    "uri": "https://jisho.org/search/%E6%8D%8F%23kanji"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "棹",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "棹",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "cột một chiếc thuyền",
+    "kunyomi": [
+      "さお",
+      "こ.ぐ"
+    ],
+    "onyomi": [
+      "トウ",
+      "タク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "棹歌",
+        "reading": "トウカ",
+        "meaning": "bài hát của người chèo thuyền"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "竿",
+        "reading": "さお",
+        "meaning": "thanh, sào, cổ (của đàn shamisen, v.v.), shamisen, xà (tức là thanh ngang của cân), dây đơn (đặc biệt là hình dáng bay cho ngỗng), dương vật, quầy cờ (trên cột), quầy dành cho kẹo Nhật dài và mỏng (ví dụ: yōkan)"
+      },
+      {
+        "example": "棹さす",
+        "reading": "さおさす",
+        "meaning": "đi sào (thuyền), đi thuyền (thuyền), bơi theo (thủy triều), đi theo (dòng chảy, thời gian, v.v.), đi ngược lại (thủy triều, dòng chảy, v.v.)"
+      },
+      {
+        "example": "殻竿",
+        "reading": "からざお",
+        "meaning": "đòn đập lúa (để đập lúa)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "十",
+      "卜",
+      "日",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26873_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068f9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68f9.gif",
+    "uri": "https://jisho.org/search/%E6%A3%B9%23kanji"
+  }
+}

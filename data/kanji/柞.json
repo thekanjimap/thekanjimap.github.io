@@ -1,0 +1,37 @@
+{
+  "id": "柞",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "柞",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "loại gỗ sồi",
+    "kunyomi": [
+      "ははそ"
+    ],
+    "onyomi": [
+      "サク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "柞蚕",
+        "reading": "サクサン",
+        "meaning": "Bướm tằm sồi Trung Quốc (Antheraea pernyi), tằm sồi Trung Quốc, bướm tussar sồi Trung Quốc"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "ノ",
+      "木",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26590_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067de.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67de.gif",
+    "uri": "https://jisho.org/search/%E6%9F%9E%23kanji"
+  }
+}

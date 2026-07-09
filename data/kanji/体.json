@@ -1,0 +1,423 @@
+{
+  "id": "体",
+  "kanjialiveData": {
+    "_id": "54317ae2791eba5146ee4958",
+    "_rev": "10-5ed324702880402ca398dbba186ee21b",
+    "rad_name_ja": "にんべん",
+    "grade": 2,
+    "hint_group": 1,
+    "kunyomi": "karada",
+    "meaning": "cơ thể, hình thức",
+    "kstroke": 7,
+    "examples": [
+      {
+        "japanese": "体重（たいじゅう）",
+        "meaning": {
+          "english": "trọng lượng cơ thể"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/karada_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/karada_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/karada_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/karada_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "体力（たいりょく）",
+        "meaning": {
+          "english": "sức mạnh thể chất"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/karada_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/karada_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/karada_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/karada_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "大体（だいたい）",
+        "meaning": {
+          "english": "nói chung là chủ yếu"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/karada_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/karada_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/karada_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/karada_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "全体（ぜんたい）",
+        "meaning": {
+          "english": "toàn bộ, toàn bộ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/karada_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/karada_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/karada_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/karada_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "団体（だんたい）",
+        "meaning": {
+          "english": "nhóm, đội, tổ chức"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/karada_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/karada_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/karada_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/karada_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "具体的な（ぐたいてきな）",
+        "meaning": {
+          "english": "bê tông"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/karada_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/karada_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/karada_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/karada_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "体験する（たいけんする）",
+        "meaning": {
+          "english": "kinh nghiệm"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/karada_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/karada_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/karada_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/karada_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "体（からだ）",
+        "meaning": {
+          "english": "cơ thể"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/karada_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/karada_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/karada_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/karada_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "体中（からだじゅう）",
+        "meaning": {
+          "english": "khắp cơ thể"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/karada_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/karada_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/karada_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/karada_06_i.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "からだ",
+    "ka_utf": "体",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=体",
+    "kname": "karada",
+    "rad_order": 11,
+    "txt_books": [
+      {
+        "chapter": "18",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "macquarie"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtAd3"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtLookLearn"
+      }
+    ],
+    "rad_name_search": [
+      "ninben"
+    ],
+    "rad_utf": "⺅",
+    "stroketimes": [
+      0,
+      1.331,
+      2.598,
+      3.932,
+      5.065,
+      5.866,
+      6.999,
+      8.066667
+    ],
+    "kunyomi_ka_display": "からだ",
+    "dick": "52",
+    "rad_name": "ninben",
+    "dicn": "405",
+    "mn_hint": "A person's イ physical basis 本.",
+    "rad_stroke": 2,
+    "onyomi_ja": "タイ、テイ",
+    "rad_meaning": "người",
+    "onyomi": "tai, tei",
+    "ka_id": "ka_175",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "tai",
+      "tei",
+      "tai, tei"
+    ],
+    "kunyomi_search": [
+      "karada",
+      "karada"
+    ],
+    "meaning_search": [
+      "body",
+      "form",
+      "body, form"
+    ],
+    "onyomi_ja_search": [
+      "タイ",
+      "テイ",
+      "タイ、テイ"
+    ],
+    "kunyomi_ja_search": [
+      "からだ",
+      "からだ"
+    ],
+    "rad_meaning_search": [
+      "person",
+      "person "
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "にんべん"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:18",
+      "cij:c18",
+      "bk",
+      "bk:5",
+      "bk:c5",
+      "mac",
+      "mac:13",
+      "mac:c13",
+      "aij3",
+      "aij3:3",
+      "aij3:c3",
+      "aij3:v3",
+      "aij3:v3:3",
+      "aij3:v3:c3",
+      "gen",
+      "gen:13",
+      "gen:c13",
+      "ap",
+      "ap:13",
+      "ap:c13",
+      "kll",
+      "kll:9",
+      "kll:c9"
+    ],
+    "rad_name_file": "ninben",
+    "kanji": {
+      "character": "体",
+      "meaning": {
+        "english": "body, form"
+      },
+      "strokes": {
+        "count": 7,
+        "timings": [
+          0,
+          1.331,
+          2.598,
+          3.932,
+          5.065,
+          5.866,
+          6.999,
+          8.066667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/karada_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/karada_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/karada_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/karada_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/karada_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/karada_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/karada_7.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "tai, tei",
+        "katakana": "タイ、テイ"
+      },
+      "kunyomi": {
+        "romaji": "karada",
+        "hiragana": "からだ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/karada_7.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/karada_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/karada_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺅",
+      "strokes": 2,
+      "image": "https://media.kanjialive.com/radical_character/ninben.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "にんべん",
+        "romaji": "ninben"
+      },
+      "meaning": {
+        "english": "người"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/ninben0.svg",
+        "https://media.kanjialive.com/rad_frames/ninben1.svg",
+        "https://media.kanjialive.com/rad_frames/ninben2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "52",
+      "classic_nelson": "405"
+    }
+  },
+  "jishoData": {
+    "query": "体",
+    "found": true,
+    "taughtIn": "lớp 2",
+    "jlptLevel": "N4",
+    "newspaperFrequencyRank": "88",
+    "strokeCount": 7,
+    "meaning": "cơ thể, thực chất, đối tượng, hiện thực, bộ đếm hình ảnh",
+    "kunyomi": [
+      "からだ",
+      "かたち"
+    ],
+    "onyomi": [
+      "タイ",
+      "テイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "体",
+        "reading": "タイ",
+        "meaning": "cơ thể, vóc dáng, tư thế, hình dạng, hình thức, phong cách, bản chất, bản sắc, thực tế, lĩnh vực, bộ đếm các hình dạng giống người (ví dụ: búp bê, tượng, xác chết, v.v.), kiểu chữ, kiểu chữ"
+      },
+      {
+        "example": "体育",
+        "reading": "タイイク",
+        "meaning": "thể dục, thể dục, thể dục (lớp)"
+      },
+      {
+        "example": "生体",
+        "reading": "セイタイ",
+        "meaning": "sinh vật, cơ thể sống"
+      },
+      {
+        "example": "解体",
+        "reading": "カイタイ",
+        "meaning": "phá hủy, tháo dỡ, tháo dỡ, tháo rời, giải thể (của một tổ chức, công ty, v.v.), chia tay, mổ xẻ (của một cơ thể), chia cắt"
+      },
+      {
+        "example": "体",
+        "reading": "テイ",
+        "meaning": "sự xuất hiện, không khí, tình trạng, trạng thái, hình thức"
+      },
+      {
+        "example": "体裁",
+        "reading": "テイサイ",
+        "meaning": "(bề ngoài) hình thức, hình thức (thích hợp) (ví dụ: một bài luận), hình thức, phong cách, vẻ bề ngoài, sự đoan trang, thể hiện, phô trương, nhếch môi, lời nói không thành thật, nói chuyện phiếm"
+      },
+      {
+        "example": "身体",
+        "reading": "シンタイ",
+        "meaning": "cơ thể, hệ thống vật lý, (người)"
+      },
+      {
+        "example": "風体",
+        "reading": "フウテイ",
+        "meaning": "ngoại hình, diện mạo, trang phục"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "体",
+        "reading": "からだ",
+        "meaning": "cơ thể, thân xác, thân cây, xây dựng, vóc dáng, khung, nhân vật, sức khỏe, hiến pháp"
+      },
+      {
+        "example": "体つき",
+        "reading": "からだつき",
+        "meaning": "hình thể, vóc dáng"
+      },
+      {
+        "example": "お体",
+        "reading": "おからだ",
+        "meaning": "cơ thể"
+      },
+      {
+        "example": "御体",
+        "reading": "おんからだ",
+        "meaning": "Mình Chúa Kitô (Thánh Thể)"
+      },
+      {
+        "example": "形体",
+        "reading": "なりかたち",
+        "meaning": "sự xuất hiện của một người"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "đàn ông, con người"
+    },
+    "parts": [
+      "一",
+      "化",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20307_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f53.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f53.gif",
+    "uri": "https://jisho.org/search/%E4%BD%93%23kanji"
+  }
+}

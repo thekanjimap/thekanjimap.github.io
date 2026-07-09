@@ -1,0 +1,66 @@
+{
+  "id": "鹹",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鹹",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "mặn",
+    "kunyomi": [
+      "から.い",
+      "しおからい",
+      "しおけ",
+      "せいしゅ"
+    ],
+    "onyomi": [
+      "カン",
+      "ダイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鹹湖",
+        "reading": "カンコ",
+        "meaning": "hồ muối, đầm phá"
+      },
+      {
+        "example": "かん水",
+        "reading": "カンスイ",
+        "meaning": "nước kiềm (để làm mì Trung Quốc)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "塩辛い",
+        "reading": "しおからい",
+        "meaning": "mặn (vị), mặn"
+      },
+      {
+        "example": "塩辛い",
+        "reading": "しおからい",
+        "meaning": "mặn (vị), mặn"
+      },
+      {
+        "example": "塩気",
+        "reading": "しおけ",
+        "meaning": "độ mặn"
+      }
+    ],
+    "radical": {
+      "symbol": "鹵",
+      "meaning": "muối"
+    },
+    "parts": [
+      "ノ",
+      "十",
+      "卜",
+      "口",
+      "囗",
+      "戈",
+      "鹵"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40569_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09e79.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9e79.gif",
+    "uri": "https://jisho.org/search/%E9%B9%B9%23kanji"
+  }
+}

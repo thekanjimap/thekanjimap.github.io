@@ -1,0 +1,55 @@
+{
+  "id": "核",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "核",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "475",
+    "strokeCount": 10,
+    "meaning": "hạt nhân, lõi, hạt nhân",
+    "kunyomi": [],
+    "onyomi": [
+      "カク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "核",
+        "reading": "カク",
+        "meaning": "đá (của trái cây), hố, pip, lõi (của một tổ chức, đội, v.v.), hạt nhân, trái tim, vũ khí hạt nhân, hạt nhân (của nguyên tử), hạt nhân (của tế bào), hạt nhân ngưng tụ, lõi (hành tinh), vòng (trong một hợp chất tuần hoàn), hạt nhân, lõi, hạt nhân (của ngọc trai nuôi cấy)"
+      },
+      {
+        "example": "核家族",
+        "reading": "カクカゾク",
+        "meaning": "gia đình hạt nhân"
+      },
+      {
+        "example": "中核",
+        "reading": "チュウカク",
+        "meaning": "hạt nhân, hạt nhân, hạt nhân, trung tâm, trung tâm"
+      },
+      {
+        "example": "放射性同位核",
+        "reading": "ホウシャセイドウイカク",
+        "meaning": "đồng vị phóng xạ"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "ノ",
+      "丶",
+      "亠",
+      "人",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26680_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06838.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6838.gif",
+    "uri": "https://jisho.org/search/%E6%A0%B8%23kanji"
+  }
+}

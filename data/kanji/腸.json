@@ -1,0 +1,348 @@
+{
+  "id": "腸",
+  "kanjialiveData": {
+    "_id": "54317b10791eba5146ee4cb1",
+    "_rev": "10-4c6f3880ac43e4a2eef5940359546e0c",
+    "rad_name_ja": "にくづき",
+    "grade": 4,
+    "hint_group": 5,
+    "kunyomi": "Không có",
+    "meaning": "ruột",
+    "kstroke": 13,
+    "examples": [
+      {
+        "japanese": "腸（ちょう）",
+        "meaning": {
+          "english": "ruột, ruột, ruột"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mou)chou_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(mou)chou_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(mou)chou_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(mou)chou_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "腸炎（ちょうえん）",
+        "meaning": {
+          "english": "viêm ruột"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mou)chou_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(mou)chou_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(mou)chou_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(mou)chou_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "胃腸（いちょう）",
+        "meaning": {
+          "english": "dạ dày, ruột"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mou)chou_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(mou)chou_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(mou)chou_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(mou)chou_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "大腸（だいちょう）",
+        "meaning": {
+          "english": "dấu hai chấm"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mou)chou_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(mou)chou_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(mou)chou_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(mou)chou_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "小腸（しょうちょう）",
+        "meaning": {
+          "english": "ruột non"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mou)chou_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(mou)chou_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(mou)chou_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(mou)chou_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "盲腸（もうちょう）",
+        "meaning": {
+          "english": "ruột thừa, manh tràng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mou)chou_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(mou)chou_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(mou)chou_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(mou)chou_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "断腸の思い（だんちょうのおもい）",
+        "meaning": {
+          "english": "đau buồn đau lòng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mou)chou_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(mou)chou_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(mou)chou_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(mou)chou_06_g.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "腸",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=腸",
+    "rad_name_search": [
+      "nikuzuki"
+    ],
+    "rad_order": 96,
+    "txt_books": [
+      {
+        "chapter": "22",
+        "txt_bk": "txtSFJ3"
+      },
+      {
+        "chapter": "22",
+        "txt_bk": "txtSFJ"
+      }
+    ],
+    "kname": "(mou)chou",
+    "rad_utf": "",
+    "stroketimes": [
+      0,
+      1.2,
+      3.933333,
+      4.533333,
+      5.266667,
+      6.666667,
+      8.066667,
+      9.066667,
+      10.266667,
+      11.466667,
+      12.4,
+      14.2,
+      14.866667,
+      16.333333
+    ],
+    "kunyomi_ka_display": "Không có",
+    "dick": "709",
+    "rad_name": "nikuzuki",
+    "dicn": "3798",
+    "mn_hint": "All mammals [117] under the sun 日have this part of the body 月.",
+    "rad_stroke": 4,
+    "onyomi_ja": "チョウ",
+    "rad_meaning": "thịt, thịt",
+    "onyomi": "chou",
+    "ka_id": "ka_947",
+    "onyomi_search": [
+      "chou",
+      "chou"
+    ],
+    "kunyomi_search": [
+      "Không có",
+      "Không có"
+    ],
+    "meaning_search": [
+      "intestines",
+      "intestines"
+    ],
+    "onyomi_ja_search": [
+      "チョウ",
+      "チョウ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "meat",
+      "flesh",
+      "meat, flesh"
+    ],
+    "rad_name_ja_search": [
+      "にくづき"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [],
+    "rad_name_file": "nikuzuki",
+    "kanji": {
+      "character": "腸",
+      "meaning": {
+        "english": "intestines"
+      },
+      "strokes": {
+        "count": 13,
+        "timings": [
+          0,
+          1.2,
+          3.933333,
+          4.533333,
+          5.266667,
+          6.666667,
+          8.066667,
+          9.066667,
+          10.266667,
+          11.466667,
+          12.4,
+          14.2,
+          14.866667,
+          16.333333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/(mou)chou_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/(mou)chou_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/(mou)chou_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/(mou)chou_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/(mou)chou_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/(mou)chou_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/(mou)chou_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/(mou)chou_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/(mou)chou_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/(mou)chou_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/(mou)chou_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/(mou)chou_12.svg",
+          "https://media.kanjialive.com/kanji_strokes/(mou)chou_13.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "chou",
+        "katakana": "チョウ"
+      },
+      "kunyomi": {
+        "romaji": "Không có",
+        "hiragana": "Không có"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/(mou)chou_13.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/(mou)chou_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/(mou)chou_00.webm"
+      }
+    },
+    "radical": {
+      "character": "",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/nikuzuki.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "にくづき",
+        "romaji": "nikuzuki"
+      },
+      "meaning": {
+        "english": "thịt, thịt"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/nikuzuki0.svg",
+        "https://media.kanjialive.com/rad_frames/nikuzuki1.svg",
+        "https://media.kanjialive.com/rad_frames/nikuzuki2.svg"
+      ]
+    },
+    "references": {
+      "grade": 4,
+      "kodansha": "709",
+      "classic_nelson": "3798"
+    }
+  },
+  "jishoData": {
+    "query": "腸",
+    "found": true,
+    "taughtIn": "lớp 6",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1807",
+    "strokeCount": 13,
+    "meaning": "ruột, ruột, ruột, nội tạng",
+    "kunyomi": [
+      "はらわた",
+      "わた"
+    ],
+    "onyomi": [
+      "チョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "腸",
+        "reading": "チョウ",
+        "meaning": "ruột, ruột"
+      },
+      {
+        "example": "腸炎",
+        "reading": "チョウエン",
+        "meaning": "viêm ruột"
+      },
+      {
+        "example": "大腸",
+        "reading": "ダイチョウ",
+        "meaning": "ruột già, ruột già, đại tràng"
+      },
+      {
+        "example": "胃腸",
+        "reading": "イチョウ",
+        "meaning": "dạ dày và ruột, đường tiêu hóa, cơ quan tiêu hóa"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "腸",
+        "reading": "はらわた",
+        "meaning": "ruột, ruột, ruột, ruột, nhau thai (của quả bí, dưa, v.v.), cùi dạng sợi, khoang hạt, tim, thần"
+      },
+      {
+        "example": "はらわたが煮えくり返る",
+        "reading": "はらわたがにえくりかえる",
+        "meaning": "tức giận, giận dữ, sôi máu"
+      },
+      {
+        "example": "腸",
+        "reading": "わた",
+        "meaning": "ruột, ruột"
+      },
+      {
+        "example": "腸香",
+        "reading": "わたか",
+        "meaning": "Ischikauia steenackeri (loài cá chép)"
+      },
+      {
+        "example": "大腸",
+        "reading": "だいちょう",
+        "meaning": "ruột già, ruột già, đại tràng"
+      },
+      {
+        "example": "背わた",
+        "reading": "せわた",
+        "meaning": "tĩnh mạch của tôm (tôm), đường tiêu hóa của tôm, tĩnh mạch cát"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "thịt"
+    },
+    "parts": [
+      "一",
+      "勿",
+      "日",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33144_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08178.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8178.gif",
+    "uri": "https://jisho.org/search/%E8%85%B8%23kanji"
+  }
+}

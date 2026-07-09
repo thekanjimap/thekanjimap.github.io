@@ -1,0 +1,52 @@
+{
+  "id": "艱",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "艱",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "khó khăn, cố gắng, đau khổ, tang lễ cha mẹ, tang chế, nguy hiểm",
+    "kunyomi": [
+      "なや.む",
+      "かた.い",
+      "なや.み"
+    ],
+    "onyomi": [
+      "カン",
+      "ケン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "艱苦",
+        "reading": "カンク",
+        "meaning": "sự đau khổ thiếu thốn"
+      },
+      {
+        "example": "艱難",
+        "reading": "カンナン",
+        "meaning": "sự khó khăn, thiếu thốn, khó khăn"
+      },
+      {
+        "example": "時艱",
+        "reading": "ジカン",
+        "meaning": "những vấn đề ảnh hưởng đến một khoảng thời gian, những khó khăn đặc biệt của một thời đại, những vấn đề khó khăn của thời đại"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艮",
+      "meaning": "dừng lại"
+    },
+    "parts": [
+      "二",
+      "人",
+      "大",
+      "艮",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33393_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08271.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8271.gif",
+    "uri": "https://jisho.org/search/%E8%89%B1%23kanji"
+  }
+}

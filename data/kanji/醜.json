@@ -1,0 +1,80 @@
+{
+  "id": "醜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "醜",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2074",
+    "strokeCount": 17,
+    "meaning": "xấu xí, ô uế, xấu hổ, xấu xí",
+    "kunyomi": [
+      "みにく.い",
+      "しこ"
+    ],
+    "onyomi": [
+      "シュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "醜",
+        "reading": "シュウ",
+        "meaning": "sự xấu xí, sự xấu hổ, sự ô nhục"
+      },
+      {
+        "example": "醜女",
+        "reading": "シュウジョ",
+        "meaning": "người phụ nữ xấu xí, người phụ nữ kém hấp dẫn, nữ quỷ"
+      },
+      {
+        "example": "老醜",
+        "reading": "ロウシュウ",
+        "meaning": "sự xấu xí của tuổi già"
+      },
+      {
+        "example": "美醜",
+        "reading": "ビシュウ",
+        "meaning": "đẹp hay xấu, ngoại hình, ngoại hình"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "醜い",
+        "reading": "みにくい",
+        "meaning": "xấu xí, khó coi, xấu xí, khó coi, đáng xấu hổ, đáng xấu hổ, đáng xấu hổ"
+      },
+      {
+        "example": "みにくいアヒルの子",
+        "reading": "みにくいあひるのこ",
+        "meaning": "vịt con xấu xí"
+      },
+      {
+        "example": "醜",
+        "reading": "しこ",
+        "meaning": "điều xấu xí, ghê tởm, đáng ghét, đáng khinh, không xứng đáng, tầm thường, khiêm tốn, mạnh mẽ và đáng sợ"
+      },
+      {
+        "example": "醜女",
+        "reading": "しゅうじょ",
+        "meaning": "người phụ nữ xấu xí, người phụ nữ kém hấp dẫn, nữ quỷ"
+      }
+    ],
+    "radical": {
+      "symbol": "酉",
+      "meaning": "rượu vang, rượu"
+    },
+    "parts": [
+      "儿",
+      "匕",
+      "厶",
+      "田",
+      "酉",
+      "鬼"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37276_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0919c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/919c.gif",
+    "uri": "https://jisho.org/search/%E9%86%9C%23kanji"
+  }
+}

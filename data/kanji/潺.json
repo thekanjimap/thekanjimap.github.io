@@ -1,0 +1,50 @@
+{
+  "id": "潺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "潺",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "tiếng nước chảy",
+    "kunyomi": [],
+    "onyomi": [
+      "セン",
+      "サン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "潺湲",
+        "reading": "センカン",
+        "meaning": "ríu rít, ríu rít, rì rào (suối, suối, v.v...)"
+      },
+      {
+        "example": "潺々",
+        "reading": "センセン",
+        "meaning": "thì thầm (của một dòng suối, v.v.), với âm thanh gợn sóng"
+      },
+      {
+        "example": "潺々",
+        "reading": "センセン",
+        "meaning": "thì thầm (của một dòng suối, v.v.), với âm thanh gợn sóng"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "子",
+      "尸",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28538_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f7a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f7a.gif",
+    "uri": "https://jisho.org/search/%E6%BD%BA%23kanji"
+  }
+}

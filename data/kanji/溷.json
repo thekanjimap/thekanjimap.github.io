@@ -1,0 +1,44 @@
+{
+  "id": "溷",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "溷",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "bị dính bùn",
+    "kunyomi": [
+      "かわや",
+      "けが.れる",
+      "にご.る",
+      "みだ.れる"
+    ],
+    "onyomi": [
+      "コン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "混濁",
+        "reading": "コンダク",
+        "meaning": "trở nên đục, trở nên lầy lội, trở nên u ám, trở nên mờ đục, trở nên lộn xộn (về suy nghĩ, giác quan, v.v.), ngày càng mờ mịt (về ý thức), rối loạn, hỗn loạn"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "囗",
+      "汁",
+      "豕"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28343_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06eb7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6eb7.gif",
+    "uri": "https://jisho.org/search/%E6%BA%B7%23kanji"
+  }
+}

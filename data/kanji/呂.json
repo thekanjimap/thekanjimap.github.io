@@ -1,0 +1,75 @@
+{
+  "id": "呂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "呂",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2055",
+    "strokeCount": 7,
+    "meaning": "cột sống, xương sống",
+    "kunyomi": [
+      "せぼね"
+    ],
+    "onyomi": [
+      "ロ",
+      "リョ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蝋色漆",
+        "reading": "ロイロウルシ",
+        "meaning": "sơn mài đen"
+      },
+      {
+        "example": "呂律",
+        "reading": "ロレツ",
+        "meaning": "sự phát âm"
+      },
+      {
+        "example": "大呂",
+        "reading": "タイリョ",
+        "meaning": "nốt thứ hai của gam màu Trung Quốc cổ đại (khoảng D thăng), tháng 12 âm lịch"
+      },
+      {
+        "example": "仲呂",
+        "reading": "チュウリョ",
+        "meaning": "(ở Trung Quốc) nốt thứ 6 của thang âm cổ (khoảng G), tháng 4 âm lịch"
+      },
+      {
+        "example": "呂",
+        "reading": "リョ",
+        "meaning": "dải trầm (trong âm nhạc Nhật Bản), sáu nốt chẵn của thang màu cổ, thang gagaku bảy giai điệu của Nhật Bản tương tự như chế độ Mixolydian (tương ứng với: re, mi, fa, so, la, ti, do)"
+      },
+      {
+        "example": "呂旋",
+        "reading": "リョセン",
+        "meaning": "Thang âm gagaku bảy âm của Nhật Bản (tương ứng với: so, la, ti, do, re, mi, fa), tương tự như chế độ Mixolydian"
+      },
+      {
+        "example": "大呂",
+        "reading": "タイリョ",
+        "meaning": "nốt thứ hai của gam màu Trung Quốc cổ đại (khoảng D thăng), tháng 12 âm lịch"
+      },
+      {
+        "example": "仲呂",
+        "reading": "チュウリョ",
+        "meaning": "(ở Trung Quốc) nốt thứ 6 của thang âm cổ (khoảng G), tháng 4 âm lịch"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "ノ",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21570_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05442.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5442.gif",
+    "uri": "https://jisho.org/search/%E5%91%82%23kanji"
+  }
+}

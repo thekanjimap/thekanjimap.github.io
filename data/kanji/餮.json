@@ -1,0 +1,41 @@
+{
+  "id": "餮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "餮",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "háu ăn, háu ăn",
+    "kunyomi": [
+      "むさぼ.る"
+    ],
+    "onyomi": [
+      "テツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "饕餮",
+        "reading": "トウテツ",
+        "meaning": "taotie (sinh vật thần thoại Trung Quốc thường được thể hiện như một họa tiết trên đồ đồng nghi lễ từ triều đại nhà Thương và nhà Chu), tính tham lam, tham lam, hám lợi"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "食",
+      "forms": [
+        "飠"
+      ],
+      "meaning": "ăn, thức ăn"
+    },
+    "parts": [
+      "个",
+      "彡",
+      "歹",
+      "食"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39214_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0992e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/992e.gif",
+    "uri": "https://jisho.org/search/%E9%A4%AE%23kanji"
+  }
+}

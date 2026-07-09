@@ -1,0 +1,85 @@
+{
+  "id": "虚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "虚",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1454",
+    "strokeCount": 11,
+    "meaning": "sự trống rỗng, sự trống rỗng, sự thiếu chuẩn bị, vết nứt, vết nứt, sự giả dối",
+    "kunyomi": [
+      "むな.しい",
+      "うつ.ろ"
+    ],
+    "onyomi": [
+      "キョ",
+      "コ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "虚",
+        "reading": "キョ",
+        "meaning": "sự thiếu chuẩn bị, sự giả dối, chòm sao \"Sự trống rỗng\" của Trung Quốc (một trong 28 dinh thự)"
+      },
+      {
+        "example": "虚偽",
+        "reading": "キョギ",
+        "meaning": "sự dối trá, sự dối trá, sự dối trá, sự xuyên tạc, sự ngụy biện"
+      },
+      {
+        "example": "盈虚",
+        "reading": "エイキョ",
+        "meaning": "sự thăng trầm (của mặt trăng), giai đoạn thăng trầm (của vận may)"
+      },
+      {
+        "example": "太虚",
+        "reading": "タイキョ",
+        "meaning": "bầu trời, các tầng trời, Khoảng trống lớn (trong triết học Trung Quốc cổ đại, chất nguyên thủy sinh ra khí)"
+      },
+      {
+        "example": "虚偽",
+        "reading": "キョギ",
+        "meaning": "sự dối trá, sự dối trá, sự dối trá, sự xuyên tạc, sự ngụy biện"
+      },
+      {
+        "example": "虚空",
+        "reading": "コクウ",
+        "meaning": "không gian trống rỗng, bầu trời trống rỗng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "虚しい",
+        "reading": "むなしい",
+        "meaning": "trống rỗng, trống rỗng, trống rỗng, vô ích, vô ích, vô ích, không còn sức sống"
+      },
+      {
+        "example": "虚ろ",
+        "reading": "うつろ",
+        "meaning": "khoang, rỗng, trống rỗng, trống rỗng (giọng nói, nụ cười, v.v.), trống rỗng (mắt, cái nhìn, v.v.), trống rỗng (biểu cảm, cái nhìn chằm chằm, v.v.), trống rỗng (lời nói, trái tim, v.v.)"
+      },
+      {
+        "example": "虚舟",
+        "reading": "うつろぶね",
+        "meaning": "chiếc máy bay không xác định được cho là đã dạt vào bờ biển tỉnh Ibaraki trong thời Edo (đôi khi được cho là UFO)"
+      }
+    ],
+    "radical": {
+      "symbol": "虍",
+      "meaning": "sọc hổ"
+    },
+    "parts": [
+      "一",
+      "匕",
+      "卜",
+      "厂",
+      "虍"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34394_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0865a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/865a.gif",
+    "uri": "https://jisho.org/search/%E8%99%9A%23kanji"
+  }
+}

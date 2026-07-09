@@ -1,0 +1,41 @@
+{
+  "id": "騷",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "騷",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "làm phiền, làm phiền, làm phiền, làm phiền, kích động, buồn bã, đau buồn",
+    "kunyomi": [
+      "さわ.ぐ",
+      "うれい",
+      "さわが.しい"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "騒ぐ",
+        "reading": "さわぐ",
+        "meaning": "gây ồn ào, làm ầm ĩ, làm ồn ào, xào xạc, vèo vèo, vui vẻ, kêu la, kêu la, làm ầm ĩ, làm ầm ĩ, mất bình tĩnh, hoảng sợ, hành động bối rối, cảm thấy căng thẳng, khó chịu, phấn khích"
+      }
+    ],
+    "radical": {
+      "symbol": "馬",
+      "meaning": "con ngựa"
+    },
+    "parts": [
+      "丶",
+      "又",
+      "杰",
+      "虫",
+      "馬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39479_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09a37.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9a37.gif",
+    "uri": "https://jisho.org/search/%E9%A8%B7%23kanji"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "勾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "勾",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "strokeCount": 4,
+    "meaning": "bị uốn cong, độ dốc, chụp",
+    "kunyomi": [
+      "かぎ",
+      "ま.がる"
+    ],
+    "onyomi": [
+      "コウ",
+      "ク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "勾配",
+        "reading": "コウバイ",
+        "meaning": "độ dốc, độ nghiêng, độ dốc, cấp độ, độ cao, độ dốc (của hàm tuyến tính), độ dốc (phép tính vectơ)"
+      },
+      {
+        "example": "勾引",
+        "reading": "コウイン",
+        "meaning": "sự bắt giữ, sự giam giữ, sự bắt giữ, sự bắt cóc"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "勹",
+      "meaning": "quấn, ôm"
+    },
+    "parts": [
+      "勹",
+      "厶"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21246_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052fe.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52fe.gif",
+    "uri": "https://jisho.org/search/%E5%8B%BE%23kanji"
+  }
+}

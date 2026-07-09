@@ -1,0 +1,55 @@
+{
+  "id": "顛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "顛",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "lật đổ, đỉnh, nguồn gốc",
+    "kunyomi": [
+      "いただき",
+      "たお.れる"
+    ],
+    "onyomi": [
+      "テン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "転覆",
+        "reading": "テンプク",
+        "meaning": "lật đổ, lật đổ, lật đổ (ví dụ: chính phủ)"
+      },
+      {
+        "example": "転倒",
+        "reading": "テントウ",
+        "meaning": "ngã, ngã xuống, nhào lộn, lật đổ (trên), đảo ngược, đảo ngược, lộn ngược, khó chịu, mất đi sự tỉnh táo"
+      },
+      {
+        "example": "不列顛",
+        "reading": "ブリテン",
+        "meaning": "Anh (đảo), Vương quốc Anh"
+      },
+      {
+        "example": "山巓",
+        "reading": "サンテン",
+        "meaning": "đỉnh (của một ngọn núi)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "頁",
+      "meaning": "lá"
+    },
+    "parts": [
+      "ハ",
+      "十",
+      "目",
+      "貝",
+      "頁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39003_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0985b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/985b.gif",
+    "uri": "https://jisho.org/search/%E9%A1%9B%23kanji"
+  }
+}

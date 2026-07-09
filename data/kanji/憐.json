@@ -1,0 +1,74 @@
+{
+  "id": "憐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "憐",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "thương xót, thương xót, thông cảm, thương xót",
+    "kunyomi": [
+      "あわ.れむ",
+      "あわ.れ"
+    ],
+    "onyomi": [
+      "レン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "憐察",
+        "reading": "レンサツ",
+        "meaning": "lòng thương xót, lòng thương xót, lòng trắc ẩn"
+      },
+      {
+        "example": "憐情",
+        "reading": "レンジョウ",
+        "meaning": "lòng trắc ẩn, sự thương hại"
+      },
+      {
+        "example": "可憐",
+        "reading": "カレン",
+        "meaning": "ngọt ngào (ví dụ: các cô gái trẻ, hoa nở), đáng yêu một cách cảm động, dễ thương, đáng thương, đáng thương"
+      },
+      {
+        "example": "愛憐",
+        "reading": "アイレン",
+        "meaning": "sự cảm thông"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "哀れむ",
+        "reading": "あわれむ",
+        "meaning": "thương xót, cảm thông, đồng cảm, đồng cảm, đồng cảm, thương xót, thưởng thức vẻ đẹp, đánh giá cao, ngưỡng mộ"
+      },
+      {
+        "example": "哀れ",
+        "reading": "あわれ",
+        "meaning": "đáng thương, đáng tiếc, đau buồn, khốn khổ, từ bi, đáng thương, đáng thương, đáng thương, thảm hại, khốn khổ, than ôi, than ôi"
+      },
+      {
+        "example": "哀れむ",
+        "reading": "あわれむ",
+        "meaning": "thương xót, cảm thông, đồng cảm, đồng cảm, đồng cảm, thương xót, thưởng thức vẻ đẹp, đánh giá cao, ngưỡng mộ"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "夕",
+      "忙",
+      "米",
+      "舛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24976_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06190.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6190.gif",
+    "uri": "https://jisho.org/search/%E6%86%90%23kanji"
+  }
+}

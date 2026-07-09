@@ -1,0 +1,57 @@
+{
+  "id": "鬘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鬘",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "tóc giả, mảnh tóc",
+    "kunyomi": [
+      "かつら"
+    ],
+    "onyomi": [
+      "バン",
+      "マン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "華鬘",
+        "reading": "ケマン",
+        "meaning": "Đồ trang trí Phật giáo được chạm khắc với nhiều họa tiết khác nhau, thường được làm từ đồng mạ vàng (ví dụ để trang trí cho điện thờ bên trong của một ngôi chùa)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鬘",
+        "reading": "かつら",
+        "meaning": "tóc giả, sợi tóc, tóc giả"
+      },
+      {
+        "example": "百日鬘",
+        "reading": "ひゃくにちかずら",
+        "meaning": "bộ tóc giả dài được sử dụng trong kabuki (được sử dụng một cách ẩn dụ để chỉ sự phát triển dày đặc)"
+      },
+      {
+        "example": "全かつら",
+        "reading": "ぜんかつら",
+        "meaning": "toàn bộ tóc giả, toàn bộ tóc giả"
+      }
+    ],
+    "radical": {
+      "symbol": "髟",
+      "meaning": "tóc dài"
+    },
+    "parts": [
+      "又",
+      "彡",
+      "日",
+      "買",
+      "長",
+      "髟"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39704_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b18.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b18.gif",
+    "uri": "https://jisho.org/search/%E9%AC%98%23kanji"
+  }
+}

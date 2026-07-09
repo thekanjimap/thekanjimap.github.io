@@ -1,0 +1,48 @@
+{
+  "id": "沽",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "沽",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "giá cả, mua bán",
+    "kunyomi": [
+      "あた.い",
+      "あら.い",
+      "う.る"
+    ],
+    "onyomi": [
+      "コ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "沽券",
+        "reading": "コケン",
+        "meaning": "nhân phẩm, uy tín, sự đánh giá của công chúng, thể diện, danh dự, uy tín, giấy tờ mua bán (đất, rừng, nhà), giá trị bán, giá bán"
+      },
+      {
+        "example": "沽券に関わる",
+        "reading": "コケンニカカワル",
+        "meaning": "là một điểm danh dự, ảnh hưởng đến tên tuổi của ai đó"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "十",
+      "口",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27837_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06cbd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6cbd.gif",
+    "uri": "https://jisho.org/search/%E6%B2%BD%23kanji"
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "id": "芽",
+  "kanjialiveData": {
+    "_id": "54317b0e791eba5146ee4c8a",
+    "_rev": "9-258b28dd6a0b3e0bca624e4ebe8c4cc3",
+    "rad_name_ja": "くさかんむり",
+    "grade": 4,
+    "hint_group": 6,
+    "kunyomi": "me",
+    "meaning": "nụ, nảy mầm",
+    "kstroke": 8,
+    "examples": [
+      {
+        "japanese": "麦芽（ばくが）",
+        "meaning": {
+          "english": "mạch nha"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ga-me_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ga-me_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ga-me_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ga-me_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "胚芽（はいが）",
+        "meaning": {
+          "english": "chồi phôi, mầm"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ga-me_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ga-me_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ga-me_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ga-me_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "発芽する（はつがする）",
+        "meaning": {
+          "english": "nảy mầm, nảy mầm [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ga-me_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ga-me_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ga-me_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ga-me_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "芽（め）",
+        "meaning": {
+          "english": "nảy mầm [n.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ga-me_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ga-me_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ga-me_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ga-me_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "新芽（しんめ）",
+        "meaning": {
+          "english": "chồi, bắn [n.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ga-me_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ga-me_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ga-me_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ga-me_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "芽生える（めばえる）",
+        "meaning": {
+          "english": "nụ, mầm [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ga-me_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ga-me_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ga-me_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ga-me_06_f.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "め",
+    "ka_utf": "芽",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=芽",
+    "rad_name_search": [
+      "kusakanmuri"
+    ],
+    "rad_order": 71,
+    "txt_books": [],
+    "kname": "ga-me",
+    "rad_utf": "⺾",
+    "stroketimes": [
+      0,
+      1.088333,
+      1.8,
+      2.6,
+      3.866667,
+      4.733333,
+      5.8,
+      7.533333,
+      9.266667
+    ],
+    "kunyomi_ka_display": "め",
+    "dick": "1429",
+    "rad_name": "kusakanmuri",
+    "dicn": "3920",
+    "mn_hint": "Sprouting [8] like a tooth 牙.",
+    "rad_stroke": 3,
+    "onyomi_ja": "ガ",
+    "rad_meaning": "cỏ",
+    "onyomi": "ga",
+    "ka_id": "ka_911",
+    "rad_position": "kanmuri",
+    "rad_position_ja": "かんむり",
+    "rad_position_search": [
+      "kanmuri",
+      "kanmuri"
+    ],
+    "onyomi_search": [
+      "ga",
+      "ga"
+    ],
+    "kunyomi_search": [
+      "me",
+      "me"
+    ],
+    "meaning_search": [
+      "bud",
+      "sprout",
+      "bud, sprout"
+    ],
+    "onyomi_ja_search": [
+      "ガ",
+      "ガ"
+    ],
+    "kunyomi_ja_search": [
+      "め",
+      "め"
+    ],
+    "rad_meaning_search": [
+      "grass",
+      "grass"
+    ],
+    "rad_position_ja_search": [
+      "かんむり",
+      "かんむり"
+    ],
+    "rad_name_ja_search": [
+      "くさかんむり"
+    ],
+    "textbook_search": [],
+    "rad_name_file": "kusakanmuri",
+    "kanji": {
+      "character": "芽",
+      "meaning": {
+        "english": "bud, sprout"
+      },
+      "strokes": {
+        "count": 8,
+        "timings": [
+          0,
+          1.088333,
+          1.8,
+          2.6,
+          3.866667,
+          4.733333,
+          5.8,
+          7.533333,
+          9.266667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/ga-me_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/ga-me_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/ga-me_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/ga-me_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/ga-me_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/ga-me_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/ga-me_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/ga-me_8.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "ga",
+        "katakana": "ガ"
+      },
+      "kunyomi": {
+        "romaji": "me",
+        "hiragana": "め"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/ga-me_8.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/ga-me_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/ga-me_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺾",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/kusakanmuri.svg",
+      "position": {
+        "hiragana": "かんむり",
+        "romaji": "kanmuri",
+        "icon": "https://media.kanjialive.com/rad_positions/kanmuri.svg"
+      },
+      "name": {
+        "hiragana": "くさかんむり",
+        "romaji": "kusakanmuri"
+      },
+      "meaning": {
+        "english": "cỏ"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/kusakanmuri0.svg",
+        "https://media.kanjialive.com/rad_frames/kusakanmuri1.svg",
+        "https://media.kanjialive.com/rad_frames/kusakanmuri2.svg"
+      ]
+    },
+    "references": {
+      "grade": 4,
+      "kodansha": "1429",
+      "classic_nelson": "3920"
+    }
+  },
+  "jishoData": {
+    "query": "芽",
+    "found": true,
+    "taughtIn": "lớp 4",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1691",
+    "strokeCount": 8,
+    "meaning": "chồi, mầm, giáo, mầm",
+    "kunyomi": [
+      "め"
+    ],
+    "onyomi": [
+      "ガ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "芽球",
+        "reading": "ガキュウ",
+        "meaning": "gemmule, vụ nổ (tế bào)"
+      },
+      {
+        "example": "芽殖孤虫",
+        "reading": "ガショクコチュウ",
+        "meaning": "Sparganum proliferum (loài giun)"
+      },
+      {
+        "example": "発芽",
+        "reading": "ハツガ",
+        "meaning": "nảy mầm, nảy mầm, nảy chồi"
+      },
+      {
+        "example": "無性芽",
+        "reading": "ムセイガ",
+        "meaning": "đá quý"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "芽",
+        "reading": "め",
+        "meaning": "nảy mầm, chồi, chồi, đĩa mầm (trong trứng)"
+      },
+      {
+        "example": "目出度い",
+        "reading": "めでたい",
+        "meaning": "hạnh phúc, tốt lành, thuận lợi, vui vẻ, ngây thơ"
+      },
+      {
+        "example": "若芽",
+        "reading": "わかめ",
+        "meaning": "mầm, chồi mới, chồi non"
+      },
+      {
+        "example": "脇芽",
+        "reading": "わきめ",
+        "meaning": "chồi nách, chồi bên, chồi bên (ví dụ của cây cà chua hoặc cây bông cải xanh), chồi bên, chồi hút"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "牙",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33469_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082bd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82bd.gif",
+    "uri": "https://jisho.org/search/%E8%8A%BD%23kanji"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "浦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "浦",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "977",
+    "strokeCount": 10,
+    "meaning": "Bay, Lạch nhỏ, Lối vào, Vịnh, bờ biển, Bờ biển",
+    "kunyomi": [
+      "うら"
+    ],
+    "onyomi": [
+      "ホ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "海浦",
+        "reading": "カイホ",
+        "meaning": "bờ biển"
+      },
+      {
+        "example": "曲浦",
+        "reading": "キョクホ",
+        "meaning": "bờ biển quanh co (bãi biển)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "浦",
+        "reading": "うら",
+        "meaning": "cửa vào, bờ biển, bãi biển"
+      },
+      {
+        "example": "浦内笛鯛",
+        "reading": "うらうちふえだい",
+        "meaning": "Cá hồng đen Papua (Lutjanus goldiei)"
+      },
+      {
+        "example": "津々浦々",
+        "reading": "つつうらうら",
+        "meaning": "khắp mọi miền đất nước, khắp mọi miền đất nước, mọi ngóc ngách của đất nước, xa và rộng, (trong) mọi cảng, bến cảng"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "丶",
+      "十",
+      "汁",
+      "用"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28006_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d66.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d66.gif",
+    "uri": "https://jisho.org/search/%E6%B5%A6%23kanji"
+  }
+}

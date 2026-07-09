@@ -1,0 +1,80 @@
+{
+  "id": "猿",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "猿",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1772",
+    "strokeCount": 13,
+    "meaning": "khỉ",
+    "kunyomi": [
+      "さる"
+    ],
+    "onyomi": [
+      "エン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "猿人",
+        "reading": "エンジン",
+        "meaning": "người vượn"
+      },
+      {
+        "example": "猿害",
+        "reading": "エンガイ",
+        "meaning": "thiệt hại do khỉ gây ra (trên cây trồng, v.v.)"
+      },
+      {
+        "example": "人類猿",
+        "reading": "ジンルイエン",
+        "meaning": "vượn người"
+      },
+      {
+        "example": "孤猿",
+        "reading": "コエン",
+        "meaning": "khỉ đơn độc, khỉ đi lạc"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "猿",
+        "reading": "さる",
+        "meaning": "khỉ (đặc biệt là khỉ Nhật Bản, Macaca fuscata), vượn, linh trưởng không phải người, người ranh mãnh, ngốc nghếch, hick, chốt gỗ trượt (để giữ cửa hoặc cửa sổ đóng), kẹp dùng để kiểm soát độ cao của móc nồi, gái mại dâm trong nhà tắm"
+      },
+      {
+        "example": "猿尾",
+        "reading": "さるお",
+        "meaning": "phần sau của cổ đàn shamisen nơi nó tiếp giáp với thân đàn"
+      },
+      {
+        "example": "木から落ちた猿",
+        "reading": "きからおちたさる",
+        "meaning": "người đã đánh mất thứ mà họ từng dựa vào, một con khỉ bị rơi từ trên cây xuống"
+      },
+      {
+        "example": "真猿",
+        "reading": "まさる",
+        "meaning": "khỉ (đặc biệt là khỉ Nhật Bản, Macaca fuscata)"
+      }
+    ],
+    "radical": {
+      "symbol": "犬",
+      "forms": [
+        "犭"
+      ],
+      "meaning": "con chó"
+    },
+    "parts": [
+      "口",
+      "土",
+      "犯",
+      "衣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/29503_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0733f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/733f.gif",
+    "uri": "https://jisho.org/search/%E7%8C%BF%23kanji"
+  }
+}

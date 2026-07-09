@@ -1,0 +1,53 @@
+{
+  "id": "孕",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "孕",
+    "found": true,
+    "strokeCount": 5,
+    "meaning": "mang thai",
+    "kunyomi": [
+      "はら.む"
+    ],
+    "onyomi": [
+      "ヨウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "孕婦",
+        "reading": "ヨウフ",
+        "meaning": "phụ nữ mang thai"
+      },
+      {
+        "example": "懐孕",
+        "reading": "カイヨウ",
+        "meaning": "mang thai, thụ thai"
+      },
+      {
+        "example": "妊孕",
+        "reading": "ニンヨウ",
+        "meaning": "mang thai, thụ thai, thụ thai"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "孕む",
+        "reading": "はらむ",
+        "meaning": "thụ thai, mang thai, chứa đầy (ví dụ như cánh buồm đầy gió), bị phồng lên, chứa đựng (mâu thuẫn, nguy hiểm, v.v.), mang theo (vấn đề, hậu quả, v.v.), liên quan (ví dụ: rủi ro), sưng lên và chín (của tai, đầu, mầm, v.v.)"
+      }
+    ],
+    "radical": {
+      "symbol": "子",
+      "meaning": "đứa trẻ, hạt giống"
+    },
+    "parts": [
+      "ノ",
+      "乃",
+      "子"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23381_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b55.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b55.gif",
+    "uri": "https://jisho.org/search/%E5%AD%95%23kanji"
+  }
+}

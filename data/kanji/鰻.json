@@ -1,0 +1,62 @@
+{
+  "id": "鰻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鰻",
+    "found": true,
+    "strokeCount": 22,
+    "meaning": "con lươn",
+    "kunyomi": [
+      "うなぎ"
+    ],
+    "onyomi": [
+      "マン",
+      "バン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "養鰻",
+        "reading": "ヨウマン",
+        "meaning": "nuôi lươn, nuôi lươn"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鰻",
+        "reading": "うなぎ",
+        "meaning": "lươn (đặc biệt là lươn Nhật Bản, Anguilla japonica)"
+      },
+      {
+        "example": "鰻裂き包丁",
+        "reading": "うなぎさきほうちょう",
+        "meaning": "dao lươn"
+      },
+      {
+        "example": "大鰻",
+        "reading": "おおうなぎ",
+        "meaning": "lươn đốm khổng lồ (Anguilla marmorata), lươn cẩm thạch"
+      },
+      {
+        "example": "電気ウナギ",
+        "reading": "でんきウナギ",
+        "meaning": "lươn điện (Electrophorus electricus)"
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "cá"
+    },
+    "parts": [
+      "又",
+      "日",
+      "杰",
+      "田",
+      "買",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39995_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c3b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c3b.gif",
+    "uri": "https://jisho.org/search/%E9%B0%BB%23kanji"
+  }
+}

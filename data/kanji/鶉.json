@@ -1,0 +1,55 @@
+{
+  "id": "鶉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鶉",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "chim cút",
+    "kunyomi": [
+      "うずら"
+    ],
+    "onyomi": [
+      "ジュン",
+      "シュン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鶉",
+        "reading": "うずら",
+        "meaning": "chim cút Nhật Bản (Coturnix japonica)"
+      },
+      {
+        "example": "鶉水鶏",
+        "reading": "うずらくいな",
+        "meaning": "bánh ngô, bánh ngô, đường sắt trên bộ (Crex crex)"
+      },
+      {
+        "example": "ヨーロッパ鶉",
+        "reading": "ヨーロッパうずら",
+        "meaning": "chim cút thông thường (Coturnix coturnix)"
+      },
+      {
+        "example": "三斑鶉",
+        "reading": "みふうずら",
+        "meaning": "chim cút nút cấm (máy kích thích Turnix)"
+      }
+    ],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "chim"
+    },
+    "parts": [
+      "亠",
+      "口",
+      "子",
+      "杰",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40329_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d89.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d89.gif",
+    "uri": "https://jisho.org/search/%E9%B6%89%23kanji"
+  }
+}

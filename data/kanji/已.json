@@ -1,0 +1,70 @@
+{
+  "id": "已",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "已",
+    "found": true,
+    "newspaperFrequencyRank": "2140",
+    "strokeCount": 3,
+    "meaning": "dừng lại, dừng lại, trước đây, rồi, từ lâu rồi",
+    "kunyomi": [
+      "や.む",
+      "すで.に",
+      "のみ",
+      "はなはだ"
+    ],
+    "onyomi": [
+      "イ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "以降",
+        "reading": "イコウ",
+        "meaning": "về sau, từ... trở đi, kể từ đó"
+      },
+      {
+        "example": "以下",
+        "reading": "イカ",
+        "meaning": "không vượt quá ..., không quá ..., ... và dưới, ... và dưới, ... hoặc ít hơn, dưới (một tiêu chuẩn, cấp độ, v.v.), dưới, dưới, dưới, sau đây, dưới đây, phần còn lại, tiếp theo là ..., bao gồm ..., ... và khác (nhân viên, quan chức, v.v.)"
+      },
+      {
+        "example": "生滅滅已",
+        "reading": "ショウメツメツイ",
+        "meaning": "vượt qua sự sống và cái chết và nhập Niết bàn"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "止む",
+        "reading": "やむ",
+        "meaning": "chấm dứt, dừng lại, kết thúc"
+      },
+      {
+        "example": "やむを得ない",
+        "reading": "やむをえない",
+        "meaning": "không thể giúp được, không thể tránh khỏi"
+      },
+      {
+        "example": "既に",
+        "reading": "すでに",
+        "meaning": "đã, trước đó, trước đây, không thể phủ nhận, không thể nhầm lẫn, ngay từ đầu"
+      }
+    ],
+    "radical": {
+      "symbol": "己",
+      "forms": [
+        "巳",
+        "已",
+        "㔾"
+      ],
+      "meaning": "chính mình"
+    },
+    "parts": [
+      "已"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24050_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05df2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5df2.gif",
+    "uri": "https://jisho.org/search/%E5%B7%B2%23kanji"
+  }
+}

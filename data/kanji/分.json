@@ -1,0 +1,505 @@
+{
+  "id": "分",
+  "kanjialiveData": {
+    "_id": "54317ae8791eba5146ee49c1",
+    "_rev": "10-cacacb15fb7e8b7fd4d73509fd94ae44",
+    "rad_name_ja": "かたな",
+    "grade": 2,
+    "hint_group": 1,
+    "kunyomi": "wa, wakeru, wakaru, wakareru",
+    "meaning": "chia, phần, phút",
+    "kstroke": 4,
+    "examples": [
+      {
+        "japanese": "随分（ずいぶん）",
+        "meaning": {
+          "english": "cực kỳ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun-wa(keru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fun-wa(keru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fun-wa(keru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fun-wa(keru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "多分（たぶん）",
+        "meaning": {
+          "english": "có lẽ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun-wa(keru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fun-wa(keru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fun-wa(keru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fun-wa(keru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "十分に（じゅうぶんに）",
+        "meaning": {
+          "english": "đủ rồi"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun-wa(keru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fun-wa(keru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fun-wa(keru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fun-wa(keru)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "自分（じぶん）",
+        "meaning": {
+          "english": "chính mình"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun-wa(keru)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fun-wa(keru)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fun-wa(keru)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fun-wa(keru)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "何分（なんぷん）",
+        "meaning": {
+          "english": "bao nhiêu phút"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun-wa(keru)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fun-wa(keru)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fun-wa(keru)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fun-wa(keru)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "毎分（まいふん）",
+        "meaning": {
+          "english": "mỗi phút"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun-wa(keru)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fun-wa(keru)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fun-wa(keru)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fun-wa(keru)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "大分（だいぶ）",
+        "meaning": {
+          "english": "đáng kể"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun-wa(keru)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fun-wa(keru)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fun-wa(keru)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fun-wa(keru)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "三割五分（さんわりごぶ）",
+        "meaning": {
+          "english": "35 phần trăm"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun-wa(keru)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fun-wa(keru)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fun-wa(keru)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fun-wa(keru)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "分かれ道（わかれみち）",
+        "meaning": {
+          "english": "ngã tư"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun-wa(keru)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fun-wa(keru)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fun-wa(keru)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fun-wa(keru)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "分ける（わける）",
+        "meaning": {
+          "english": "chia [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun-wa(keru)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fun-wa(keru)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fun-wa(keru)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fun-wa(keru)_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "分かる（わかる）",
+        "meaning": {
+          "english": "hiểu [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/fun-wa(keru)_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/fun-wa(keru)_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/fun-wa(keru)_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/fun-wa(keru)_06_k.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "わ、わける、わかる、わかれる",
+    "ka_utf": "分",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=分",
+    "kname": "fun-wa(keru)",
+    "rad_order": 22,
+    "txt_books": [
+      {
+        "chapter": "8",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtAd2"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtSFJ1"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "1",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtSFJ4"
+      },
+      {
+        "chapter": "18",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "10"
+      },
+      {
+        "txt_bk": "aij4",
+        "chapter": "7"
+      }
+    ],
+    "rad_name_search": [
+      "katana"
+    ],
+    "rad_utf": "⼑",
+    "stroketimes": [
+      0.899,
+      1.465,
+      3.065,
+      4.599,
+      5.333333
+    ],
+    "kunyomi_ka_display": "わ",
+    "dick": "1247",
+    "rad_name": "katana",
+    "dicn": "578",
+    "mn_hint": "Something cut into several 八 smaller parts with a knife 刀.",
+    "rad_stroke": 2,
+    "onyomi_ja": "ブン、フン、ブ",
+    "rad_meaning": "dao, kiếm",
+    "onyomi": "bun, fun, bu",
+    "ka_id": "ka_27",
+    "onyomi_search": [
+      "bun",
+      "fun",
+      "bu",
+      "bun, fun, bu"
+    ],
+    "kunyomi_search": [
+      "wa",
+      "wakeru",
+      "wakaru",
+      "wakareru",
+      "wa, wakeru, wakaru, wakareru"
+    ],
+    "meaning_search": [
+      "divide",
+      "part",
+      "minute",
+      "divide, part, minute"
+    ],
+    "onyomi_ja_search": [
+      "ブン",
+      "フン",
+      "ブ",
+      "ブン、フン、ブ"
+    ],
+    "kunyomi_ja_search": [
+      "わ",
+      "わける",
+      "わかる",
+      "わかれる",
+      "わ、わける、わかる、わかれる"
+    ],
+    "rad_meaning_search": [
+      "knife",
+      "sword",
+      "knife, sword"
+    ],
+    "rad_name_ja_search": [
+      "かたな"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:8",
+      "cij:c8",
+      "bk",
+      "bk:4",
+      "bk:c4",
+      "aij3",
+      "aij3:7",
+      "aij3:c7",
+      "aij3:v2",
+      "aij3:v2:7",
+      "aij3:v2:c7",
+      "gen",
+      "gen:6",
+      "gen:c6",
+      "ap",
+      "ap:18",
+      "ap:c18",
+      "kll",
+      "kll:2",
+      "kll:c2",
+      "cijr",
+      "cijr:10",
+      "cijr:c10",
+      "aij4",
+      "aij4:7",
+      "aij4:c7",
+      "aij4:v1",
+      "aij4:v1:7",
+      "aij4:v1:c7"
+    ],
+    "rad_name_file": "katana",
+    "kanji": {
+      "character": "分",
+      "meaning": {
+        "english": "divide, part, minute"
+      },
+      "strokes": {
+        "count": 4,
+        "timings": [
+          0.899,
+          1.465,
+          3.065,
+          4.599,
+          5.333333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/fun-wa(keru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/fun-wa(keru)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/fun-wa(keru)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/fun-wa(keru)_4.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "bun, fun, bu",
+        "katakana": "ブン、フン、ブ"
+      },
+      "kunyomi": {
+        "romaji": "wa, wakeru, wakaru, wakareru",
+        "hiragana": "わ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/fun-wa(keru)_4.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/fun-wa(keru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/fun-wa(keru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼑",
+      "strokes": 2,
+      "image": "https://media.kanjialive.com/radical_character/katana.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "かたな",
+        "romaji": "katana"
+      },
+      "meaning": {
+        "english": "dao, kiếm"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/katana0.svg",
+        "https://media.kanjialive.com/rad_frames/katana1.svg",
+        "https://media.kanjialive.com/rad_frames/katana2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "1247",
+      "classic_nelson": "578"
+    }
+  },
+  "jishoData": {
+    "query": "分",
+    "found": true,
+    "taughtIn": "lớp 2",
+    "newspaperFrequencyRank": "24",
+    "strokeCount": 4,
+    "meaning": "phần, phút, phân đoạn, chia sẻ, mức độ, lô của một người, nghĩa vụ, hiểu, biết, tỷ lệ, 1%, cơ hội, shaku/100",
+    "kunyomi": [
+      "わ.ける",
+      "わ.け",
+      "わ.かれる",
+      "わ.かる",
+      "わ.かつ"
+    ],
+    "onyomi": [
+      "ブン",
+      "フン",
+      "ブ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "分",
+        "reading": "ブン",
+        "meaning": "một phần, phần, phần, số lượng, giá trị (như trong \"giá trị hai ngày\"), đủ (cho), phương tiện của một người, địa điểm của một người, số tiền của một người, vị trí xã hội của một người, nghĩa vụ của một người, một phần của một người, điều kiện, trạng thái (công việc), mức độ, tỷ lệ (như trong \"ở mức này\"), theo tỷ lệ, chỉ bằng, ở cùng một mức độ, nội dung (ví dụ: rượu), tỷ lệ phần trăm, tương đương với (ví dụ: một người anh trai cũ)"
+      },
+      {
+        "example": "分化",
+        "reading": "ブンカ",
+        "meaning": "sự chuyên môn hóa, sự chuyên môn hóa, sự khác biệt hóa"
+      },
+      {
+        "example": "応分",
+        "reading": "オウブン",
+        "meaning": "theo khả năng của mình, phù hợp, hợp lý"
+      },
+      {
+        "example": "細分",
+        "reading": "サイブン",
+        "meaning": "sự chia nhỏ (thành nhiều phần nhỏ)"
+      },
+      {
+        "example": "分",
+        "reading": "フン",
+        "meaning": "phút (đơn vị thời gian), vui vẻ (một phần mười monme, 5,787 hạt)"
+      },
+      {
+        "example": "分身",
+        "reading": "ブンシン",
+        "meaning": "cái tôi khác, cái tôi thay đổi, một phần của chính mình (ở ai đó hoặc cái gì khác), đại diện cho chính mình, hóa thân của Đức Phật"
+      },
+      {
+        "example": "毎分",
+        "reading": "マイフン",
+        "meaning": "mỗi phút, mỗi phút"
+      },
+      {
+        "example": "壊変毎分",
+        "reading": "カイヘンマイフン",
+        "meaning": "độ phân hủy mỗi phút, dpm"
+      },
+      {
+        "example": "分",
+        "reading": "ブ",
+        "meaning": "một phần mười, một phần trăm (một phần mười của một wari), 3 mm (một phần mười của mặt trời), 2,4 mm (một phần mười của một mon, một đơn vị truyền thống dùng để đo cỡ giày), 0,1 độ (một phần mười của một do, được sử dụng để đo nhiệt độ cơ thể trên bất kỳ thang đo nhiệt độ nào), một phần tư của ryō (đơn vị tiền tệ lỗi thời), độ dày, hoàn cảnh thuận lợi, một phần mười monme bạc"
+      },
+      {
+        "example": "分",
+        "reading": "ブン",
+        "meaning": "một phần, phần, phần, số lượng, giá trị (như trong \"giá trị hai ngày\"), đủ (cho), phương tiện của một người, địa điểm của một người, số tiền của một người, vị trí xã hội của một người, nghĩa vụ của một người, một phần của một người, điều kiện, trạng thái (công việc), mức độ, tỷ lệ (như trong \"ở mức này\"), theo tỷ lệ, chỉ bằng, ở cùng một mức độ, nội dung (ví dụ: rượu), tỷ lệ phần trăm, tương đương với (ví dụ: một người anh trai cũ)"
+      },
+      {
+        "example": "一分",
+        "reading": "イチブ",
+        "meaning": "một phần mười, một phần trăm, một phần trăm, một phần mười mặt trời, một phần tư ryō (đồng xu cũ)"
+      },
+      {
+        "example": "節分",
+        "reading": "セツブン",
+        "meaning": "setsubun, ngày cuối cùng của mùa đông theo lịch truyền thống của Nhật Bản (thông thường là ngày 3 hoặc 4 tháng 2), nơi tổ chức lễ rải đậu, ngày cuối cùng của bất kỳ mùa nào (theo lịch truyền thống của Nhật Bản)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "分ける",
+        "reading": "わける",
+        "meaning": "chia (thành), chia (thành), chia ra, phân biệt, phân chia, phân loại, sắp xếp, chia ra, chia sẻ, phân phối, giải quyết, bày ra, phân biệt, phân biệt, phân biệt (giữa), chia tay (một cuộc chiến), hòa giải, gọi một trận hòa, buộc, chen lấn qua (một đám đông), bán"
+      },
+      {
+        "example": "分け",
+        "reading": "わけ",
+        "meaning": "chia, chia, phân loại, chia sẻ, phân phối, vẽ, buộc"
+      },
+      {
+        "example": "分ける",
+        "reading": "わける",
+        "meaning": "chia (thành), chia (thành), chia ra, phân biệt, phân chia, phân loại, sắp xếp, chia ra, chia sẻ, phân phối, giải quyết, bày ra, phân biệt, phân biệt, phân biệt (giữa), chia tay (một cuộc chiến), hòa giải, gọi một trận hòa, buộc, chen lấn qua (một đám đông), bán"
+      },
+      {
+        "example": "申し訳",
+        "reading": "もうしわけ",
+        "meaning": "xin lỗi, xin lỗi"
+      },
+      {
+        "example": "追分",
+        "reading": "おいわけ",
+        "meaning": "đường chia đôi"
+      },
+      {
+        "example": "分かれる",
+        "reading": "わかれる",
+        "meaning": "phân nhánh, phân nhánh, phân nhánh, tách ra, phân chia, phân chia, phân tán, phân tán"
+      },
+      {
+        "example": "分かる",
+        "reading": "わかる",
+        "meaning": "để hiểu, để thấu hiểu, để nắm bắt, để thấy, để có được, để làm theo, để trở nên rõ ràng, được biết đến, được khám phá, được nhận ra, được nhận ra, được tìm ra, tôi biết!, tôi cũng nghĩ như vậy!"
+      },
+      {
+        "example": "分かつ",
+        "reading": "わかつ",
+        "meaning": "chia, chia, phân chia, phân biệt"
+      }
+    ],
+    "radical": {
+      "symbol": "刀",
+      "forms": [
+        "刂"
+      ],
+      "meaning": "dao, kiếm"
+    },
+    "parts": [
+      "ハ",
+      "刀"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20998_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05206.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5206.gif",
+    "uri": "https://jisho.org/search/%E5%88%86%23kanji"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "廻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "廻",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "vòng, trò chơi, xoay vòng, đi vòng quanh, chu vi",
+    "kunyomi": [
+      "まわ.る",
+      "まわ.す",
+      "もとお.る",
+      "めぐ.る",
+      "めぐ.らす"
+    ],
+    "onyomi": [
+      "カイ",
+      "エ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "回廊",
+        "reading": "カイロウ",
+        "meaning": "hành lang, phòng trưng bày, hành lang, tu viện (tức là lối đi có mái che thường đi vòng quanh một tòa nhà hoặc khu vườn, đặc biệt là trong cung điện hoặc nơi thờ cúng)"
+      },
+      {
+        "example": "回転",
+        "reading": "カイテン",
+        "meaning": "luân chuyển, cách mạng, xoay, quay, làm việc (ví dụ như tâm trí của một người), chức năng, doanh thu (hàng hóa, vốn, v.v.), lưu thông, dòng chảy (của khách hàng), luân chuyển, cuộn tròn, slalom"
+      },
+      {
+        "example": "回向",
+        "reading": "エコウ",
+        "meaning": "lễ tưởng niệm, cầu nguyện cho linh hồn an nghỉ, hồi hướng công đức"
+      },
+      {
+        "example": "回心",
+        "reading": "エシン",
+        "meaning": "chuyển đổi"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "回る",
+        "reading": "まわる",
+        "meaning": "quay, xoay, xoay vòng, quay, đi vòng quanh, vòng tròn, quay vòng, đi vòng quanh, đi vòng quanh (nhiều nơi), đi vòng quanh, thực hiện một chuyến tham quan, tuần tra, đi ngang qua, đi qua, dừng lại (trên đường), đi đường vòng, đi đường vòng, di chuyển xung quanh (đến một nơi hoặc vị trí khác), đi vòng quanh, đi qua (ví dụ: sang phía đối diện), vòng quanh (đến lượt của một người), được chuyển đi vòng quanh (của cốc, hình tròn, v.v.), hoạt động, hoạt động tốt, lan truyền, mở rộng (đến; ví dụ như sự chú ý của một người), tiếp cận, có hiệu lực (của rượu, thuốc độc, v.v.), vượt qua (một thời gian), quay lại (ví dụ: 5 giờ), kiếm tiền lãi, để ... xung quanh, để ... về"
+      },
+      {
+        "example": "回す",
+        "reading": "まわす",
+        "meaning": "quay, xoay, quay, xoắn, chuyển động, chuyền vòng, đưa xung quanh, đưa tay xung quanh, luân chuyển, di chuyển (ai đó hoặc cái gì đó đến nơi cần thiết), gửi, mang, chuyển, chuyển tiếp, hướng dẫn, phục tùng, chuyển (sang một mục đích sử dụng mới), sử dụng (cho việc khác), bật (thứ gì đó quay hoặc có bộ phận quay, ví dụ như máy giặt), khởi động (ví dụ: động cơ), quay (thứ gì đó), đặt (ai đó vào một vị trí), làm (ví dụ: kẻ thù của), ... xung quanh (ví dụ: đuổi theo, đánh lừa, chơi đùa), làm lại tất cả, làm mọi nơi, làm hoàn toàn, bao quanh (cái gì đó), bao bọc, vòng (vòng tay) quanh (ví dụ: thắt lưng của ai đó), vòng tay xung quanh, đầu tư (tiền), cho mượn, quay số (số điện thoại), hiếp dâm tập thể, vận hành (ví dụ: kinh doanh, cửa hàng)"
+      },
+      {
+        "example": "回る",
+        "reading": "もとおる",
+        "meaning": "đi lang thang xung quanh"
+      },
+      {
+        "example": "巡る",
+        "reading": "めぐる",
+        "meaning": "đi vòng quanh, đi vòng quanh, bao quanh, đi vòng quanh, đi vòng quanh, đi vòng quanh (của một mùa, ngày kỷ niệm, lượt, v.v.), quay trở lại, lặp lại, lưu thông (máu, tiền bạc, v.v.), đi du lịch khắp nơi, đi tham quan, quan tâm (một vấn đề), vây quanh"
+      },
+      {
+        "example": "巡らす",
+        "reading": "めぐらす",
+        "meaning": "kèm theo (với), bao quanh (với), bao quanh, xoay (đầu, gót chân, v.v.), suy nghĩ lại, làm việc, cân nhắc, cân nhắc, nghĩ ra, lên kế hoạch, thông báo (bằng miệng hoặc bằng văn bản)"
+      }
+    ],
+    "radical": {
+      "symbol": "廴",
+      "meaning": "sải bước dài"
+    },
+    "parts": [
+      "口",
+      "囗",
+      "廴"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24315_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05efb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5efb.gif",
+    "uri": "https://jisho.org/search/%E5%BB%BB%23kanji"
+  }
+}

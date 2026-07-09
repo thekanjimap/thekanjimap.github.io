@@ -1,0 +1,66 @@
+{
+  "id": "把",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "把",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1569",
+    "strokeCount": 7,
+    "meaning": "nắm, nắm, bó, đếm bó",
+    "kunyomi": [],
+    "onyomi": [
+      "ハ",
+      "ワ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "取っ手",
+        "reading": "トッテ",
+        "meaning": "tay cầm, nắm, núm"
+      },
+      {
+        "example": "把握",
+        "reading": "ハアク",
+        "meaning": "nắm bắt (về tình huống, ý nghĩa, v.v.), hiểu, kiểm soát, nắm giữ, nắm bắt"
+      },
+      {
+        "example": "銃把",
+        "reading": "ジュウハ",
+        "meaning": "cầm súng"
+      },
+      {
+        "example": "握把",
+        "reading": "アクハ",
+        "meaning": "cầm, nắm, nắm (kiếm, súng, v.v.), chuôi kiếm, tay cầm"
+      },
+      {
+        "example": "把",
+        "reading": "ワ",
+        "meaning": "quầy cho các gói"
+      },
+      {
+        "example": "一把",
+        "reading": "イチワ",
+        "meaning": "bó, bó"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "巴",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25226_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0628a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/628a.gif",
+    "uri": "https://jisho.org/search/%E6%8A%8A%23kanji"
+  }
+}

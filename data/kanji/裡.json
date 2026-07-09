@@ -1,0 +1,71 @@
+{
+  "id": "裡",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "裡",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "đảo ngược, bên trong, lòng bàn tay, đế, mặt sau, lớp lót, mặt sai",
+    "kunyomi": [
+      "うち",
+      "うら"
+    ],
+    "onyomi": [
+      "リ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "裏",
+        "reading": "リ",
+        "meaning": "trong (ví dụ: bí mật), với (ví dụ: thành công)"
+      },
+      {
+        "example": "裏面",
+        "reading": "リメン",
+        "meaning": "mặt sau (mặt), đảo ngược, bên trong, bối cảnh, mặt tối (ví dụ: của xã hội), đằng sau hậu trường, bên dưới bề mặt"
+      },
+      {
+        "example": "成功裏",
+        "reading": "セイコウリ",
+        "meaning": "(với a) kết quả thành công, (kết thúc bằng) thành công"
+      },
+      {
+        "example": "胸裏",
+        "reading": "キョウリ",
+        "meaning": "trái tim, tâm trí của một người (cảm xúc, lòng)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "内",
+        "reading": "うち",
+        "meaning": "bên trong, bên trong, trong khi (ví dụ: một người còn trẻ), trong, trong (ví dụ: một ngày), trong quá trình, giữa, giữa, (ngoài), giữa, trong (bí mật, hỗn loạn, nghèo đói, v.v.), giữa, với (ví dụ: thành công), trong chính mình, cảm xúc, suy nghĩ bên trong của một người, chúng tôi, công ty của chúng tôi, tổ chức của chúng tôi, nhà của một người, gia đình của một người, vợ / chồng tôi, chồng tôi, vợ tôi, được vợ anh ấy ký thay mặt (tên chồng), Tôi, tôi, sân hoàng cung, hoàng đế"
+      },
+      {
+        "example": "冥々のうち",
+        "reading": "めいめいのうち",
+        "meaning": "không nhận thức được, trước khi người ta nhận thức được"
+      },
+      {
+        "example": "胸の内",
+        "reading": "むねのうち",
+        "meaning": "những gì trong trái tim một người, trạng thái cảm xúc của một người, những gì người ta cảm thấy"
+      }
+    ],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "quần áo"
+    },
+    "parts": [
+      "初",
+      "里"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35041_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088e1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88e1.gif",
+    "uri": "https://jisho.org/search/%E8%A3%A1%23kanji"
+  }
+}

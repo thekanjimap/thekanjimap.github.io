@@ -1,0 +1,86 @@
+{
+  "id": "忍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "忍",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1700",
+    "strokeCount": 7,
+    "meaning": "chịu đựng, chịu đựng, chịu đựng, che giấu, tiết lộ, do thám, lẻn",
+    "kunyomi": [
+      "しの.ぶ",
+      "しの.ばせる"
+    ],
+    "onyomi": [
+      "ニン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "忍",
+        "reading": "ニン",
+        "meaning": "sự chịu đựng, sự nhẫn nại, sự kiên nhẫn, sự tự chủ"
+      },
+      {
+        "example": "忍耐",
+        "reading": "ニンタイ",
+        "meaning": "sức chịu đựng, sự kiên trì, sự kiên nhẫn"
+      },
+      {
+        "example": "無生法忍",
+        "reading": "ムショウホウニン",
+        "meaning": "anutpattika-dharma-ksanti (nhận thức rằng không có gì thực sự sinh ra hay diệt đi)"
+      },
+      {
+        "example": "中忍",
+        "reading": "チュウニン",
+        "meaning": "chỉ huy ninja"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "忍",
+        "reading": "しのぶ",
+        "meaning": "dương xỉ chân sóc (Davallia mariesii), Lepisorus thunbergianus (loài dương xỉ), màu sắc của các lớp quần áo dưới áo khoác ngoài (xanh nhạt trên xanh lam), shinobu-wake (kiểu tóc của phụ nữ thời Edo), quần áo có họa tiết hình dương xỉ chân sóc"
+      },
+      {
+        "example": "忍ぶ",
+        "reading": "しのぶ",
+        "meaning": "giấu mình, trốn tránh, chịu đựng, chịu đựng, chịu đựng, chịu đựng"
+      },
+      {
+        "example": "軒忍",
+        "reading": "のきしのぶ",
+        "meaning": "dương xỉ khóc (Lepisorus thunbergianus)"
+      },
+      {
+        "example": "立忍",
+        "reading": "たちしのぶ",
+        "meaning": "Dương xỉ móng Nhật Bản (Onychium japonicum), dương xỉ cà rốt"
+      },
+      {
+        "example": "忍ばせる",
+        "reading": "しのばせる",
+        "meaning": "che giấu, che giấu"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "丶",
+      "刀",
+      "心"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24525_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fcd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fcd.gif",
+    "uri": "https://jisho.org/search/%E5%BF%8D%23kanji"
+  }
+}

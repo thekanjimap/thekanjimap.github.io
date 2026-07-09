@@ -1,0 +1,61 @@
+{
+  "id": "謙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "謙",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1582",
+    "strokeCount": 17,
+    "meaning": "khiêm tốn, khiêm tốn, hạ mình, khiêm tốn",
+    "kunyomi": [
+      "へりくだ.る"
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "謙虚",
+        "reading": "ケンキョ",
+        "meaning": "khiêm tốn, khiêm nhường"
+      },
+      {
+        "example": "謙遜",
+        "reading": "ケンソン",
+        "meaning": "khiêm tốn, khiêm nhường, khiêm nhường"
+      },
+      {
+        "example": "恭謙",
+        "reading": "キョウケン",
+        "meaning": "sự khiêm tốn, sự khiêm tốn"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "謙る",
+        "reading": "へりくだる",
+        "meaning": "hạ thấp bản thân và khen ngợi người nghe, hạ thấp bản thân"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "lời nói"
+    },
+    "parts": [
+      "ハ",
+      "ヨ",
+      "并",
+      "言",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35609_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b19.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b19.gif",
+    "uri": "https://jisho.org/search/%E8%AC%99%23kanji"
+  }
+}

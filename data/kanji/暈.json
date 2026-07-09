@@ -1,0 +1,98 @@
+{
+  "id": "暈",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "暈",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "hào quang, hào quang, mờ dần",
+    "kunyomi": [
+      "ぼか.す",
+      "ぼけ.る",
+      "かさ",
+      "くま",
+      "ぼかし",
+      "めまい"
+    ],
+    "onyomi": [
+      "ウン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "暈",
+        "reading": "カサ",
+        "meaning": "quầng sáng (xung quanh Mặt trời, Mặt trăng, v.v.), vành đai, vành nhật hoa"
+      },
+      {
+        "example": "繧繝",
+        "reading": "ウンゲン",
+        "meaning": "ungen, phương pháp nhuộm trong đó màu sắc liên tục chuyển từ đậm đặc sang khuếch tán, khuếch tán sang đậm đặc; được sử dụng trong các bức tranh Phật giáo, đồ trang trí chùa, v.v., trong thời kỳ Nara và Heian"
+      },
+      {
+        "example": "乳暈",
+        "reading": "ニュウウン",
+        "meaning": "quầng vú (vùng tròn quanh núm vú), quầng vú"
+      },
+      {
+        "example": "日暈",
+        "reading": "ヒガサ",
+        "meaning": "vầng hào quang mặt trời"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "暈す",
+        "reading": "ぼかす",
+        "meaning": "làm mờ, làm mờ, làm mờ, làm mờ, làm mơ hồ"
+      },
+      {
+        "example": "暈ける",
+        "reading": "ぼける",
+        "meaning": "bị mờ, bị mờ, bị mờ, không tập trung"
+      },
+      {
+        "example": "暈",
+        "reading": "かさ",
+        "meaning": "quầng sáng (xung quanh Mặt trời, Mặt trăng, v.v.), vành đai, vành nhật hoa"
+      },
+      {
+        "example": "隈",
+        "reading": "くま",
+        "meaning": "góc, ngóc ngách, hốc, bóng râm, bóng tối, vùng tối, quầng thâm (dưới mắt), quầng thâm, khúc cua (trên đường, sông, v.v.), tạo bóng, chuyển màu, kumatori, phong cách trang điểm kabuki dùng cho các vai bạo lực"
+      },
+      {
+        "example": "隈取り",
+        "reading": "くまどり",
+        "meaning": "đổ bóng, chuyển màu (màu sắc), kumatori, phong cách trang điểm kabuki được sử dụng cho các vai bạo lực"
+      },
+      {
+        "example": "暈し",
+        "reading": "ぼかし",
+        "meaning": "làm mờ (ví dụ: một hình ảnh), làm mờ, chuyển màu, chuyển màu, tạo bóng, ủ phân bokashi, ủ phân lên men"
+      },
+      {
+        "example": "ぼかし染め",
+        "reading": "ぼかしぞめ",
+        "meaning": "nhuộm chuyển màu"
+      },
+      {
+        "example": "心因性めまい",
+        "reading": "しんいんせいめまい",
+        "meaning": "chóng mặt tâm lý, chóng mặt chức năng"
+      }
+    ],
+    "radical": {
+      "symbol": "日",
+      "meaning": "mặt trời, ngày"
+    },
+    "parts": [
+      "冖",
+      "日",
+      "車"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26248_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06688.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6688.gif",
+    "uri": "https://jisho.org/search/%E6%9A%88%23kanji"
+  }
+}

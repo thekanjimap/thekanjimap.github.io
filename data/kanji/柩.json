@@ -1,0 +1,56 @@
+{
+  "id": "柩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "柩",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "quan tài, quan tài",
+    "kunyomi": [
+      "ひちぎ",
+      "ひつぎ"
+    ],
+    "onyomi": [
+      "キュウ",
+      "グ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "棺",
+        "reading": "カン",
+        "meaning": "quan tài, quan tài"
+      },
+      {
+        "example": "柩車",
+        "reading": "キュウシャ",
+        "meaning": "xe tang"
+      },
+      {
+        "example": "霊柩",
+        "reading": "レイキュウ",
+        "meaning": "quan tài, quan tài"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "棺",
+        "reading": "かん",
+        "meaning": "quan tài, quan tài"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "久",
+      "入",
+      "匚",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26601_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067e9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67e9.gif",
+    "uri": "https://jisho.org/search/%E6%9F%A9%23kanji"
+  }
+}

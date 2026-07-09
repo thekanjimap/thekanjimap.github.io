@@ -1,0 +1,54 @@
+{
+  "id": "楢",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "楢",
+    "found": true,
+    "newspaperFrequencyRank": "2032",
+    "strokeCount": 13,
+    "meaning": "cây sồi",
+    "kunyomi": [
+      "なら"
+    ],
+    "onyomi": [
+      "シュウ",
+      "ユウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "楢",
+        "reading": "なら",
+        "meaning": "gỗ sồi (đặc biệt Quercus serrata)"
+      },
+      {
+        "example": "楢茸",
+        "reading": "ならたけ",
+        "meaning": "nấm mật ong (Armillaria mellea), nấm mật ong"
+      },
+      {
+        "example": "欧州楢",
+        "reading": "おうしゅうなら",
+        "meaning": "Gỗ sồi Anh (Quercus robur), gỗ sồi có cuống, gỗ sồi thông thường, gỗ sồi Pháp"
+      },
+      {
+        "example": "小楢",
+        "reading": "こなら",
+        "meaning": "sồi konara (Quercus serrata), sồi pin"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "并",
+      "木",
+      "酉"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26978_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06962.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6962.gif",
+    "uri": "https://jisho.org/search/%E6%A5%A2%23kanji"
+  }
+}

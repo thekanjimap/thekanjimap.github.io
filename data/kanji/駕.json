@@ -1,0 +1,73 @@
+{
+  "id": "駕",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "駕",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "Xe, kiệu, xả rác, buộc một con vật",
+    "kunyomi": [
+      "かご",
+      "が.する",
+      "しのぐ",
+      "のる"
+    ],
+    "onyomi": [
+      "カ",
+      "ガ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "駕籠",
+        "reading": "カゴ",
+        "meaning": "kiệu, kiệu, kiệu, kiệu"
+      },
+      {
+        "example": "駕籠かき",
+        "reading": "カゴカキ",
+        "meaning": "người khiêng kiệu, người khiêng kiệu"
+      },
+      {
+        "example": "駕",
+        "reading": "ガ",
+        "meaning": "xe cộ, xe ngựa"
+      },
+      {
+        "example": "繋駕",
+        "reading": "ケイガ",
+        "meaning": "buộc (một con ngựa vào một chiếc xe, đặc biệt để đua)"
+      },
+      {
+        "example": "来賀",
+        "reading": "ライガ",
+        "meaning": "sự xuất hiện của bạn, mang theo tin vui, sự hiện diện của bạn"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "駕籠",
+        "reading": "かご",
+        "meaning": "kiệu, kiệu, kiệu, kiệu"
+      },
+      {
+        "example": "駕籠かき",
+        "reading": "かごかき",
+        "meaning": "người khiêng kiệu, người khiêng kiệu"
+      }
+    ],
+    "radical": {
+      "symbol": "馬",
+      "meaning": "con ngựa"
+    },
+    "parts": [
+      "力",
+      "口",
+      "杰",
+      "馬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39381_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099d5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99d5.gif",
+    "uri": "https://jisho.org/search/%E9%A7%95%23kanji"
+  }
+}

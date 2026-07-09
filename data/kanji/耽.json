@@ -1,0 +1,53 @@
+{
+  "id": "耽",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "耽",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "nghiện ngập, đắm chìm trong",
+    "kunyomi": [
+      "ふけ.る"
+    ],
+    "onyomi": [
+      "タン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "眈々",
+        "reading": "タンタン",
+        "meaning": "(nhìn chằm chằm) thèm muốn, (nhìn) háo hức (để có cơ hội)"
+      },
+      {
+        "example": "耽溺",
+        "reading": "タンデキ",
+        "meaning": "sự ham mê (rượu, phụ nữ, v.v.), trụy lạc, phóng túng"
+      },
+      {
+        "example": "眈々",
+        "reading": "タンタン",
+        "meaning": "(nhìn chằm chằm) thèm muốn, (nhìn) háo hức (để có cơ hội)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "耽る",
+        "reading": "ふける",
+        "meaning": "đam mê, từ bỏ, bị ám ảnh bởi, say mê, lạc lối, bị cuốn hút vào"
+      }
+    ],
+    "radical": {
+      "symbol": "耳",
+      "meaning": "tai"
+    },
+    "parts": [
+      "冖",
+      "尢",
+      "耳"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32829_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0803d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/803d.gif",
+    "uri": "https://jisho.org/search/%E8%80%BD%23kanji"
+  }
+}

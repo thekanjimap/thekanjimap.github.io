@@ -1,0 +1,42 @@
+{
+  "id": "卮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "卮",
+    "found": true,
+    "strokeCount": 5,
+    "meaning": "cốc lớn, thích hợp, vừa vặn",
+    "kunyomi": [
+      "さかずき"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "巵",
+        "reading": "シ",
+        "meaning": "zhi (chén lớn kiểu Trung Quốc cổ có hai tay cầm)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "杯",
+        "reading": "さかずき",
+        "meaning": "cốc đựng rượu sake, cốc đựng đồ uống có cồn"
+      }
+    ],
+    "radical": {
+      "symbol": "卩",
+      "meaning": "quỳ xuống"
+    },
+    "parts": [
+      "卩",
+      "厂"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21358_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0536e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/536e.gif",
+    "uri": "https://jisho.org/search/%E5%8D%AE%23kanji"
+  }
+}

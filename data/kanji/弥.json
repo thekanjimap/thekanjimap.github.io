@@ -1,0 +1,107 @@
+{
+  "id": "弥",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "弥",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1687",
+    "strokeCount": 8,
+    "meaning": "hơn thế nữa, ngày càng",
+    "kunyomi": [
+      "や",
+      "いや",
+      "いよ.いよ",
+      "わた.る"
+    ],
+    "onyomi": [
+      "ミ",
+      "ビ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "弥撒",
+        "reading": "ミサ",
+        "meaning": "(Công giáo) Thánh lễ"
+      },
+      {
+        "example": "弥勒",
+        "reading": "ミロク",
+        "meaning": "Di Lặc (Bồ Tát), Miroku"
+      },
+      {
+        "example": "沙弥",
+        "reading": "シャミ",
+        "meaning": "nam sa-di Phật giáo"
+      },
+      {
+        "example": "伊邪那美",
+        "reading": "イザナミ",
+        "meaning": "Izanami (nữ thần Shinto)"
+      },
+      {
+        "example": "弥久",
+        "reading": "ビキュウ",
+        "meaning": "kéo dài trong một thời gian dài"
+      },
+      {
+        "example": "弥縫",
+        "reading": "ビホウ",
+        "meaning": "vá lại"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "弥生",
+        "reading": "やよい",
+        "meaning": "tháng 3 âm lịch, thời kỳ Yayoi (khoảng 300 TCN-300 CN), văn hóa Yayoi, sự phát triển dày đặc (cỏ, v.v.)"
+      },
+      {
+        "example": "弥栄",
+        "reading": "いやさか",
+        "meaning": "thịnh vượng, thịnh vượng, hưng thịnh, chúc may mắn, mọi điều tốt đẹp nhất, hoan hô, hoan hô"
+      },
+      {
+        "example": "覚弥",
+        "reading": "かくや",
+        "meaning": "dưa chua trộn thái nhỏ"
+      },
+      {
+        "example": "弥",
+        "reading": "いや",
+        "meaning": "ngày càng nhiều, ngày càng, cực kỳ, rất"
+      },
+      {
+        "example": "弥生",
+        "reading": "やよい",
+        "meaning": "tháng 3 âm lịch, thời kỳ Yayoi (khoảng 300 TCN-300 CN), văn hóa Yayoi, sự phát triển dày đặc (cỏ, v.v.)"
+      },
+      {
+        "example": "愈",
+        "reading": "いよいよ",
+        "meaning": "ngày càng nhiều, càng nhiều, càng ngày càng, cuối cùng, cuối cùng, không còn nghi ngờ gì nữa, (vào) thời điểm cuối cùng, thời điểm tồi tệ nhất có thể"
+      },
+      {
+        "example": "渡る",
+        "reading": "わたる",
+        "meaning": "vượt qua, đi ngang qua, mở rộng, bao phủ, phạm vi, trải dài"
+      }
+    ],
+    "radical": {
+      "symbol": "弓",
+      "meaning": "cúi đầu"
+    },
+    "parts": [
+      "ノ",
+      "乞",
+      "亅",
+      "小",
+      "弓"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24357_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f25.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f25.gif",
+    "uri": "https://jisho.org/search/%E5%BC%A5%23kanji"
+  }
+}

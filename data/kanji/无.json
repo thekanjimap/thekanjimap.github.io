@@ -1,0 +1,37 @@
+{
+  "id": "无",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "无",
+    "found": true,
+    "strokeCount": 4,
+    "meaning": "không có gì, không tồn tại, quanh co gốc rễ (số 71)",
+    "kunyomi": [
+      "なし",
+      "ない"
+    ],
+    "onyomi": [
+      "ブ",
+      "ム"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "無",
+        "reading": "ム",
+        "meaning": "không có gì, không có gì, không có gì, không, không, un-, không-"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "无",
+      "meaning": "diệt vong"
+    },
+    "parts": [
+      "无"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26080_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065e0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65e0.gif",
+    "uri": "https://jisho.org/search/%E6%97%A0%23kanji"
+  }
+}

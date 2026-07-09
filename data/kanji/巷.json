@@ -1,0 +1,74 @@
+{
+  "id": "巷",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "巷",
+    "found": true,
+    "newspaperFrequencyRank": "2415",
+    "strokeCount": 9,
+    "meaning": "ngã ba đường, cảnh, đấu trường, nhà hát",
+    "kunyomi": [
+      "ちまた"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "巷間",
+        "reading": "コウカン",
+        "meaning": "trên đường phố, quanh thị trấn, thế giới, công chúng"
+      },
+      {
+        "example": "巷説",
+        "reading": "コウセツ",
+        "meaning": "chuyện phiếm, nói về thị trấn"
+      },
+      {
+        "example": "陋巷",
+        "reading": "ロウコウ",
+        "meaning": "ngõ hẹp, bẩn thỉu"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "巷",
+        "reading": "ちまた",
+        "meaning": "công cộng, đường phố (ví dụ: \"từ trên đường\"), đường phố, quận, khu phố, địa điểm (ví dụ: một trận chiến), cảnh (ví dụ: cuộc tàn sát), phân chia (ví dụ: giữa sự sống và cái chết), ngã ba (trên một con đường), ngã tư"
+      },
+      {
+        "example": "巷で話題",
+        "reading": "ちまたでわだい",
+        "meaning": "được nói đến nhiều, gần đây phổ biến, đang thịnh hành"
+      },
+      {
+        "example": "悪の巷",
+        "reading": "あくのちまた",
+        "meaning": "hàng trượt, thế giới ngầm"
+      },
+      {
+        "example": "修羅の巷",
+        "reading": "しゅらのちまた",
+        "meaning": "hiện trường vụ tàn sát"
+      }
+    ],
+    "radical": {
+      "symbol": "己",
+      "forms": [
+        "巳",
+        "已",
+        "㔾"
+      ],
+      "meaning": "chính mình"
+    },
+    "parts": [
+      "ハ",
+      "井",
+      "已"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24055_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05df7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5df7.gif",
+    "uri": "https://jisho.org/search/%E5%B7%B7%23kanji"
+  }
+}

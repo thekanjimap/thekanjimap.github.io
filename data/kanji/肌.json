@@ -1,0 +1,329 @@
+{
+  "id": "肌",
+  "kanjialiveData": {
+    "_id": "54317ade791eba5146ee48fe",
+    "_rev": "10-d957297c462c5d26532de130e91e58b5",
+    "rad_name_ja": "にくづき",
+    "grade": null,
+    "hint_group": 1,
+    "kunyomi": "hada",
+    "meaning": "da",
+    "kstroke": 6,
+    "examples": [
+      {
+        "japanese": "肌（はだ）",
+        "meaning": {
+          "english": "da"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hada(gi)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hada(gi)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hada(gi)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hada(gi)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "肌身（はだみ）",
+        "meaning": {
+          "english": "cơ thể"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hada(gi)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hada(gi)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hada(gi)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hada(gi)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "肌着（はだぎ）",
+        "meaning": {
+          "english": "đồ lót"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hada(gi)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hada(gi)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hada(gi)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hada(gi)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "肌色（はだいろ）",
+        "meaning": {
+          "english": "màu da"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hada(gi)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hada(gi)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hada(gi)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hada(gi)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "肌触り（はだざわり）",
+        "meaning": {
+          "english": "kết cấu (cho da)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hada(gi)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hada(gi)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hada(gi)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hada(gi)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "肌寒い（はだざむい）",
+        "meaning": {
+          "english": "lạnh lẽo"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hada(gi)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hada(gi)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hada(gi)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hada(gi)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "山肌（やまはだ）",
+        "meaning": {
+          "english": "bề mặt trần của một ngọn núi"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hada(gi)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hada(gi)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hada(gi)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hada(gi)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "地肌（じはだ）",
+        "meaning": {
+          "english": "da của một người, bề mặt của mặt đất"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hada(gi)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hada(gi)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hada(gi)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hada(gi)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "学者肌（がくしゃはだ）",
+        "meaning": {
+          "english": "khuynh hướng học thuật"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hada(gi)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hada(gi)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hada(gi)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hada(gi)_06_i.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "はだ",
+    "ka_utf": "肌",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=肌",
+    "rad_name_search": [
+      "nikuzuki"
+    ],
+    "rad_order": 96,
+    "txt_books": [],
+    "kname": "hada(gi)",
+    "rad_utf": "",
+    "stroketimes": [
+      0,
+      2.4,
+      4.466667,
+      5.666667,
+      6.666667,
+      9.266667,
+      11.933333
+    ],
+    "kunyomi_ka_display": "はだ",
+    "dick": "553",
+    "rad_name": "nikuzuki",
+    "dicn": "3726",
+    "mn_hint": "Wrapping 几 the body 月.",
+    "rad_stroke": 4,
+    "onyomi_ja": "",
+    "rad_meaning": "thịt, thịt",
+    "onyomi": "Không có",
+    "ka_id": "ka_1205",
+    "onyomi_search": [
+      "Không có",
+      "Không có"
+    ],
+    "kunyomi_search": [
+      "hada",
+      "hada"
+    ],
+    "meaning_search": [
+      "skin",
+      "skin"
+    ],
+    "onyomi_ja_search": [
+      ""
+    ],
+    "kunyomi_ja_search": [
+      "はだ",
+      "はだ"
+    ],
+    "rad_meaning_search": [
+      "meat",
+      "flesh",
+      "meat, flesh"
+    ],
+    "rad_name_ja_search": [
+      "にくづき"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [],
+    "rad_name_file": "nikuzuki",
+    "kanji": {
+      "character": "肌",
+      "meaning": {
+        "english": "skin"
+      },
+      "strokes": {
+        "count": 6,
+        "timings": [
+          0,
+          2.4,
+          4.466667,
+          5.666667,
+          6.666667,
+          9.266667,
+          11.933333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/hada(gi)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/hada(gi)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/hada(gi)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/hada(gi)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/hada(gi)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/hada(gi)_6.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "Không có",
+        "katakana": ""
+      },
+      "kunyomi": {
+        "romaji": "hada",
+        "hiragana": "はだ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/hada(gi)_6.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/hada(gi)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/hada(gi)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/nikuzuki.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "にくづき",
+        "romaji": "nikuzuki"
+      },
+      "meaning": {
+        "english": "thịt, thịt"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/nikuzuki0.svg",
+        "https://media.kanjialive.com/rad_frames/nikuzuki1.svg",
+        "https://media.kanjialive.com/rad_frames/nikuzuki2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "553",
+      "classic_nelson": "3726"
+    }
+  },
+  "jishoData": {
+    "query": "肌",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "1559",
+    "strokeCount": 6,
+    "meaning": "kết cấu, da, cơ thể, ngũ cốc",
+    "kunyomi": [
+      "はだ"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "肌骨",
+        "reading": "キコツ",
+        "meaning": "da và xương"
+      },
+      {
+        "example": "肌膚",
+        "reading": "キフ",
+        "meaning": "da"
+      },
+      {
+        "example": "雪肌",
+        "reading": "ユキハダ",
+        "meaning": "bề mặt tuyết, làn da trắng như hoa huệ, làn da trắng"
+      },
+      {
+        "example": "美肌",
+        "reading": "ビハダ",
+        "meaning": "làn da đẹp"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "肌",
+        "reading": "はだ",
+        "meaning": "da, cơ thể (trong bối cảnh tiếp xúc thân mật), bề mặt, thớ gỗ (ví dụ: gỗ), kết cấu, tính cách, tính khí, tính cách, loại hình"
+      },
+      {
+        "example": "肌色",
+        "reading": "はだいろ",
+        "meaning": "màu da (của người Nhật), màu da, màu cam nhạt, màu da, màu da, màu da"
+      },
+      {
+        "example": "素肌",
+        "reading": "すはだ",
+        "meaning": "da trần, da trần"
+      },
+      {
+        "example": "地肌",
+        "reading": "じはだ",
+        "meaning": "kết cấu, hạt, da của một người (thiếu trang điểm, v.v.), da tự nhiên, da trần, da đầu, bề mặt trái đất, mặt đất trần, bề mặt của một lưỡi kiếm"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "thịt"
+    },
+    "parts": [
+      "几",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32908_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0808c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/808c.gif",
+    "uri": "https://jisho.org/search/%E8%82%8C%23kanji"
+  }
+}

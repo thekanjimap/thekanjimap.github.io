@@ -1,0 +1,285 @@
+{
+  "id": "径",
+  "kanjialiveData": {
+    "_id": "54317b0e791eba5146ee4c96",
+    "_rev": "10-b259b8f31da9a702ac24b41173db70ce",
+    "rad_name_ja": "ぎょうにんべん",
+    "grade": 4,
+    "hint_group": 1,
+    "kunyomi": "Không có",
+    "meaning": "đường đi, đường kính",
+    "kstroke": 8,
+    "examples": [
+      {
+        "japanese": "径路（けいろ）",
+        "meaning": {
+          "english": "con đường, lộ trình, quá trình"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(han)kei_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(han)kei_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(han)kei_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(han)kei_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "直径（ちょっけい）",
+        "meaning": {
+          "english": "đường kính"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(han)kei_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(han)kei_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(han)kei_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(han)kei_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "半径（はんけい）",
+        "meaning": {
+          "english": "bán kính"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(han)kei_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(han)kei_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(han)kei_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(han)kei_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "口径（こうけい）",
+        "meaning": {
+          "english": "khẩu độ, lỗ khoan, cỡ nòng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(han)kei_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(han)kei_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(han)kei_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(han)kei_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "直情径行（ちょくじょうけいこう）",
+        "meaning": {
+          "english": "thẳng thắn, không dối trá"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(han)kei_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(han)kei_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(han)kei_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(han)kei_06_e.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "径",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=径",
+    "rad_name_search": [
+      "gyouninben"
+    ],
+    "rad_order": 70,
+    "txt_books": [],
+    "kname": "(han)kei",
+    "rad_utf": "⼻",
+    "stroketimes": [
+      0,
+      0.733333,
+      1.6,
+      3,
+      4.866667,
+      6.333333,
+      7.133333,
+      8.4,
+      10.6
+    ],
+    "kunyomi_ka_display": "Không có",
+    "dick": "216",
+    "rad_name": "gyouninben",
+    "dicn": "1602",
+    "mn_hint": "Go 彳 along a straight 圣 line.",
+    "rad_stroke": 3,
+    "onyomi_ja": "ケイ",
+    "rad_meaning": "bước, sải bước, đường phố, đi",
+    "onyomi": "kei",
+    "ka_id": "ka_922",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "kei",
+      "kei"
+    ],
+    "kunyomi_search": [
+      "Không có",
+      "Không có"
+    ],
+    "meaning_search": [
+      "path",
+      "diameter",
+      "path, diameter"
+    ],
+    "onyomi_ja_search": [
+      "ケイ",
+      "ケイ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "step",
+      "stride",
+      "street",
+      "to go",
+      "to",
+      "go",
+      "step, stride, street, to go"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "ぎょうにんべん"
+    ],
+    "textbook_search": [],
+    "rad_name_file": "gyouninben",
+    "kanji": {
+      "character": "径",
+      "meaning": {
+        "english": "path, diameter"
+      },
+      "strokes": {
+        "count": 8,
+        "timings": [
+          0,
+          0.733333,
+          1.6,
+          3,
+          4.866667,
+          6.333333,
+          7.133333,
+          8.4,
+          10.6
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/(han)kei_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/(han)kei_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/(han)kei_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/(han)kei_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/(han)kei_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/(han)kei_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/(han)kei_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/(han)kei_8.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "kei",
+        "katakana": "ケイ"
+      },
+      "kunyomi": {
+        "romaji": "Không có",
+        "hiragana": "Không có"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/(han)kei_8.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/(han)kei_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/(han)kei_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼻",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/gyouninben.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "ぎょうにんべん",
+        "romaji": "gyouninben"
+      },
+      "meaning": {
+        "english": "bước, sải bước, đường phố, đi"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/gyouninben0.svg",
+        "https://media.kanjialive.com/rad_frames/gyouninben1.svg",
+        "https://media.kanjialive.com/rad_frames/gyouninben2.svg"
+      ]
+    },
+    "references": {
+      "grade": 4,
+      "kodansha": "216",
+      "classic_nelson": "1602"
+    }
+  },
+  "jishoData": {
+    "query": "径",
+    "found": true,
+    "taughtIn": "lớp 4",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1435",
+    "strokeCount": 8,
+    "meaning": "đường kính, đường dẫn, phương pháp",
+    "kunyomi": [
+      "みち",
+      "こみち",
+      "さしわたし",
+      "ただちに"
+    ],
+    "onyomi": [
+      "ケイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "径",
+        "reading": "ケイ",
+        "meaning": "đường kính"
+      },
+      {
+        "example": "経路",
+        "reading": "ケイロ",
+        "meaning": "khóa học, tuyến đường, con đường, kênh, quá trình, giai đoạn"
+      },
+      {
+        "example": "半径",
+        "reading": "ハンケイ",
+        "meaning": "bán kính"
+      },
+      {
+        "example": "口径",
+        "reading": "コウケイ",
+        "meaning": "khẩu độ, lỗ khoan, cỡ nòng, cỡ nòng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "道",
+        "reading": "みち",
+        "meaning": "đường, con đường, đường phố, làn đường, lối đi, tuyến đường, con đường, khoảng cách, hành trình, con đường (ví dụ: đến chiến thắng), khóa học, con đường (sống, ứng xử đúng đắn, v.v.), nguyên tắc đạo đức, giáo lý (đặc biệt là Nho giáo hoặc Phật giáo), giáo điều, lĩnh vực (ví dụ: y học), chủ đề, chuyên môn, phương tiện, cách thức, phương pháp"
+      },
+      {
+        "example": "径書房",
+        "reading": "こみちしょぼう",
+        "meaning": "Công ty xuất bản Komichi Shobo (công ty xuất bản)"
+      }
+    ],
+    "radical": {
+      "symbol": "彳",
+      "meaning": "bước"
+    },
+    "parts": [
+      "又",
+      "土",
+      "彳"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24452_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f84.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f84.gif",
+    "uri": "https://jisho.org/search/%E5%BE%84%23kanji"
+  }
+}

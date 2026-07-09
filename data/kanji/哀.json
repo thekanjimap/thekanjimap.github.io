@@ -1,0 +1,78 @@
+{
+  "id": "哀",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "哀",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1715",
+    "strokeCount": 9,
+    "meaning": "thảm hại, đau buồn, đau buồn, bi thảm, thương hại, thông cảm",
+    "kunyomi": [
+      "あわ.れ",
+      "あわ.れむ",
+      "かな.しい"
+    ],
+    "onyomi": [
+      "アイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "哀",
+        "reading": "アイ",
+        "meaning": "sự thương hại, nỗi buồn, sự đau buồn, sự đau khổ"
+      },
+      {
+        "example": "哀悼",
+        "reading": "アイトウ",
+        "meaning": "chia buồn, tiếc nuối, tưởng nhớ, đau buồn, cảm thông, than thở"
+      },
+      {
+        "example": "哀々",
+        "reading": "アイアイ",
+        "meaning": "nỗi buồn sâu sắc"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "哀れ",
+        "reading": "あわれ",
+        "meaning": "đáng thương, đáng tiếc, đau buồn, khốn khổ, từ bi, đáng thương, đáng thương, đáng thương, thảm hại, khốn khổ, than ôi, than ôi"
+      },
+      {
+        "example": "哀れむ",
+        "reading": "あわれむ",
+        "meaning": "thương xót, cảm thông, đồng cảm, đồng cảm, đồng cảm, thương xót, thưởng thức vẻ đẹp, đánh giá cao, ngưỡng mộ"
+      },
+      {
+        "example": "哀れむ",
+        "reading": "あわれむ",
+        "meaning": "thương xót, cảm thông, đồng cảm, đồng cảm, đồng cảm, thương xót, thưởng thức vẻ đẹp, đánh giá cao, ngưỡng mộ"
+      },
+      {
+        "example": "悲しい",
+        "reading": "かなしい",
+        "meaning": "buồn, đáng thương, đáng buồn, đáng buồn, đáng tiếc, đáng tiếc, đáng tiếc"
+      },
+      {
+        "example": "悲しいかな",
+        "reading": "かなしいかな",
+        "meaning": "buồn mà nói, buồn làm sao, than ôi"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "亠",
+      "口",
+      "衣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21696_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/054c0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/54c0.gif",
+    "uri": "https://jisho.org/search/%E5%93%80%23kanji"
+  }
+}

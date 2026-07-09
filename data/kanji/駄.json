@@ -1,0 +1,65 @@
+{
+  "id": "駄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "駄",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1500",
+    "strokeCount": 14,
+    "meaning": "gánh nặng, chở ngựa, chở ngựa, gửi bằng ngựa, tầm thường, vô giá trị",
+    "kunyomi": [],
+    "onyomi": [
+      "ダ",
+      "タ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "駄",
+        "reading": "ダ",
+        "meaning": "nghèo, cấp thấp, tầm thường, không đáng kể, vô giá trị, tải, gói, tải ngựa, ngựa thồ"
+      },
+      {
+        "example": "駄目",
+        "reading": "ダメ",
+        "meaning": "không tốt, không phục vụ mục đích của nó, vô dụng, bị hỏng, vô vọng, lãng phí, vô ích, không có mục đích, không thể, không được, không được phép, điểm trung lập, giao lộ không thuộc sở hữu của cả người chơi ở cuối trò chơi, không!, dừng lại!"
+      },
+      {
+        "example": "雪駄",
+        "reading": "セッタ",
+        "meaning": "dép đế da (geta)"
+      },
+      {
+        "example": "足駄",
+        "reading": "アシダ",
+        "meaning": "guốc cao, guốc mưa"
+      },
+      {
+        "example": "中下駄",
+        "reading": "チュウゲタ",
+        "meaning": "chiều cao trung bình geta"
+      },
+      {
+        "example": "高下駄",
+        "reading": "タカゲタ",
+        "meaning": "guốc gỗ cao"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "馬",
+      "meaning": "con ngựa"
+    },
+    "parts": [
+      "丶",
+      "大",
+      "杰",
+      "馬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39364_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099c4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99c4.gif",
+    "uri": "https://jisho.org/search/%E9%A7%84%23kanji"
+  }
+}

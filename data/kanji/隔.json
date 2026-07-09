@@ -1,0 +1,73 @@
+{
+  "id": "隔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "隔",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1382",
+    "strokeCount": 13,
+    "meaning": "cô lập, thay thế, khoảng cách, tách biệt, vịnh",
+    "kunyomi": [
+      "へだ.てる",
+      "へだ.たる"
+    ],
+    "onyomi": [
+      "カク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "隔",
+        "reading": "カク",
+        "meaning": "mỗi khác, thứ hai, thay thế"
+      },
+      {
+        "example": "隔月",
+        "reading": "カクゲツ",
+        "meaning": "mỗi tháng thứ hai, mỗi tháng"
+      },
+      {
+        "example": "遠隔",
+        "reading": "エンカク",
+        "meaning": "xa xôi, xa xôi, biệt lập"
+      },
+      {
+        "example": "縦隔",
+        "reading": "ジュウカク",
+        "meaning": "trung thất"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "隔てる",
+        "reading": "へだてる",
+        "meaning": "tách biệt (theo khoảng cách, thời gian, v.v.), cô lập, phân chia, phân chia, xen vào, ở giữa, xa lánh, ghẻ lạnh"
+      },
+      {
+        "example": "隔たる",
+        "reading": "へだたる",
+        "meaning": "trở nên xa cách"
+      }
+    ],
+    "radical": {
+      "symbol": "阜",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "gò, đập (阝 trái)"
+    },
+    "parts": [
+      "一",
+      "儿",
+      "冂",
+      "口",
+      "阡",
+      "鬲"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38548_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09694.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9694.gif",
+    "uri": "https://jisho.org/search/%E9%9A%94%23kanji"
+  }
+}

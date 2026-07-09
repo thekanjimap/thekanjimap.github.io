@@ -1,0 +1,46 @@
+{
+  "id": "拶",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "拶",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "strokeCount": 9,
+    "meaning": "sắp xảy ra, đến gần",
+    "kunyomi": [
+      "せま.る"
+    ],
+    "onyomi": [
+      "サツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "舞台挨拶",
+        "reading": "ブタイアイサツ",
+        "meaning": "bài phát biểu trên sân khấu của đạo diễn và dàn diễn viên trong ngày khai mạc một bộ phim hoặc vở kịch"
+      },
+      {
+        "example": "年頭挨拶",
+        "reading": "ネントウアイサツ",
+        "meaning": "Lời chúc mừng năm mới"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "夕",
+      "巛",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25334_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062f6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62f6.gif",
+    "uri": "https://jisho.org/search/%E6%8B%B6%23kanji"
+  }
+}

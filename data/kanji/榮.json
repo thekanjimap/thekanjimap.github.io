@@ -1,0 +1,51 @@
+{
+  "id": "榮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "榮",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "hưng thịnh, thịnh vượng, danh dự, vinh quang, huy hoàng",
+    "kunyomi": [
+      "さか.える",
+      "は.える",
+      "え"
+    ],
+    "onyomi": [
+      "エイ",
+      "ヨウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "栄耀栄華",
+        "reading": "エイヨウエイガ",
+        "meaning": "giàu có, thịnh vượng và lộng lẫy kiêu ngạo (lộng lẫy), (sống xa hoa) say sưa bởi sự giàu có và quyền lực, xa hoa"
+      },
+      {
+        "example": "日榮",
+        "reading": "ニチエイ",
+        "meaning": "Nichiei"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "栄耀栄華",
+        "reading": "えいようえいが",
+        "meaning": "giàu có, thịnh vượng và lộng lẫy kiêu ngạo (lộng lẫy), (sống xa hoa) say sưa bởi sự giàu có và quyền lực, xa hoa"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "冖",
+      "木",
+      "火"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27054_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069ae.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69ae.gif",
+    "uri": "https://jisho.org/search/%E6%A6%AE%23kanji"
+  }
+}

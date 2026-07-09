@@ -1,0 +1,73 @@
+{
+  "id": "旦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "旦",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "strokeCount": 5,
+    "meaning": "bình minh, bình minh, buổi sáng",
+    "kunyomi": [
+      "あき.らか",
+      "あきら",
+      "ただし",
+      "あさ",
+      "あした"
+    ],
+    "onyomi": [
+      "タン",
+      "ダン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "旦過",
+        "reading": "タンガ",
+        "meaning": "ở lại qua đêm (của một tu sĩ lưu động trong Thiền tông), chỗ ở của một tu sĩ lưu động, cung cấp chỗ ở cho một tu sĩ lưu động để ông ta có thể thiền định trong một thời gian dài"
+      },
+      {
+        "example": "旦日",
+        "reading": "タンジツ",
+        "meaning": "ngày mai, sáng mai"
+      },
+      {
+        "example": "歳旦",
+        "reading": "サイタン",
+        "meaning": "Sáng đầu năm, sáng ngày đầu năm mới, ngày đầu năm mới"
+      },
+      {
+        "example": "昧旦",
+        "reading": "マイタン",
+        "meaning": "bình minh, bình minh"
+      },
+      {
+        "example": "旦那",
+        "reading": "ダンナ",
+        "meaning": "chủ (của một ngôi nhà, cửa hàng, v.v.), chồng, thưa ông, ông chủ, ông chủ, thống đốc, người bảo trợ của tình nhân, geisha, nữ tiếp viên quán bar hoặc hộp đêm, bố nuôi, bố thí, bố thí, người bố thí"
+      },
+      {
+        "example": "旦つく",
+        "reading": "ダンツク",
+        "meaning": "chồng"
+      },
+      {
+        "example": "震旦",
+        "reading": "シンタン",
+        "meaning": "Trung Quốc"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "日",
+      "meaning": "mặt trời, ngày"
+    },
+    "parts": [
+      "一",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26086_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065e6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65e6.gif",
+    "uri": "https://jisho.org/search/%E6%97%A6%23kanji"
+  }
+}

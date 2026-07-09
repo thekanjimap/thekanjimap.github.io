@@ -1,0 +1,53 @@
+{
+  "id": "飩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "飩",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "mì Nhật",
+    "kunyomi": [],
+    "onyomi": [
+      "ドン",
+      "トン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "讃岐うどん",
+        "reading": "サヌキウドン",
+        "meaning": "Sanuki udon, udon dày từ tỉnh Kagawa"
+      },
+      {
+        "example": "焼きうどん",
+        "reading": "ヤキウドン",
+        "meaning": "udon chiên"
+      },
+      {
+        "example": "橘飩",
+        "reading": "キットン",
+        "meaning": "khoai lang nghiền (bao gồm hạt dẻ hoặc đậu ngọt)"
+      },
+      {
+        "example": "餛飩",
+        "reading": "コントン",
+        "meaning": "manjū hấp, mochi hấp"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "食",
+      "forms": [
+        "飠"
+      ],
+      "meaning": "ăn, thức ăn"
+    },
+    "parts": [
+      "屯",
+      "食"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39145_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/098e9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/98e9.gif",
+    "uri": "https://jisho.org/search/%E9%A3%A9%23kanji"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "茘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "茘",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "hành lá, hành tây nhỏ",
+    "kunyomi": [
+      "おおにら"
+    ],
+    "onyomi": [
+      "レイ",
+      "リ",
+      "レン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "茘枝",
+        "reading": "レイシ",
+        "meaning": "vải (Nephelium litchi), vải thiều, vải thiều, hạt vải, mướp đắng (Momordica charantia), mướp đắng, bronni Thái (loài dạ dày có chất nhầy)"
+      },
+      {
+        "example": "茘枝貝",
+        "reading": "レイシガイ",
+        "meaning": "Thais bronni (loài động vật chân bụng có chất nhầy)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "刀",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33560_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08318.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8318.gif",
+    "uri": "https://jisho.org/search/%E8%8C%98%23kanji"
+  }
+}

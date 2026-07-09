@@ -1,0 +1,52 @@
+{
+  "id": "從",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "從",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "từ, bởi, từ đó, từ đâu, qua",
+    "kunyomi": [
+      "したが.う",
+      "したが.える",
+      "より"
+    ],
+    "onyomi": [
+      "ジュウ",
+      "ショウ",
+      "ジュ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "従来農法",
+        "reading": "ジュウライノウホウ",
+        "meaning": "canh tác truyền thống"
+      },
+      {
+        "example": "従来農法",
+        "reading": "ジュウライノウホウ",
+        "meaning": "canh tác truyền thống"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "従う",
+        "reading": "したがう",
+        "meaning": "tuân theo (một mệnh lệnh, luật pháp, v.v.), tuân theo (một quy tắc, phong tục, v.v.), tuân theo, quan sát, tuân thủ, nhường bước, đi theo (một người), đi cùng, đi cùng, đi dọc theo (ví dụ: một dòng sông), đi theo (ví dụ: một dấu hiệu), phục vụ (như), tham gia vào (công việc)"
+      }
+    ],
+    "radical": {
+      "symbol": "彳",
+      "meaning": "bước"
+    },
+    "parts": [
+      "人",
+      "彳",
+      "疋"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24478_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f9e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f9e.gif",
+    "uri": "https://jisho.org/search/%E5%BE%9E%23kanji"
+  }
+}

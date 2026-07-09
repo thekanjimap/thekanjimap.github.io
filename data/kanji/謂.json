@@ -1,0 +1,69 @@
+{
+  "id": "謂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "謂",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "lý do, nguồn gốc, lịch sử, truyền miệng",
+    "kunyomi": [
+      "い.う",
+      "いい",
+      "おも.う",
+      "いわゆる"
+    ],
+    "onyomi": [
+      "イ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "謂",
+        "reading": "イイ",
+        "meaning": "những gì đã nói, ý nghĩa của nó, nguồn gốc của một câu chuyện (hoặc truyền thống, v.v.)"
+      },
+      {
+        "example": "言う",
+        "reading": "イウ",
+        "meaning": "nói, thốt ra, tuyên bố, gọi tên, gọi, đi (ví dụ: \"chuông báo thức kêu\"), gây ồn ào"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "言う",
+        "reading": "いう",
+        "meaning": "nói, thốt ra, tuyên bố, gọi tên, gọi, đi (ví dụ: \"chuông báo thức kêu\"), gây ồn ào"
+      },
+      {
+        "example": "言うところの",
+        "reading": "いうところの",
+        "meaning": "cái được gọi, như nó được gọi, cái gọi là, được gọi là, có thể nói như vậy"
+      },
+      {
+        "example": "謂",
+        "reading": "いい",
+        "meaning": "những gì đã nói, ý nghĩa của nó, nguồn gốc của một câu chuyện (hoặc truyền thống, v.v.)"
+      },
+      {
+        "example": "所謂",
+        "reading": "いわゆる",
+        "meaning": "cái được gọi là gì, bạn gọi là gì, họ gọi là gì, cái gọi là"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "lời nói"
+    },
+    "parts": [
+      "月",
+      "田",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35586_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b02.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b02.gif",
+    "uri": "https://jisho.org/search/%E8%AC%82%23kanji"
+  }
+}

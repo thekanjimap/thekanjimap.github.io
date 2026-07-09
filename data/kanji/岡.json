@@ -1,0 +1,57 @@
+{
+  "id": "岡",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "岡",
+    "found": true,
+    "taughtIn": "lớp 4",
+    "newspaperFrequencyRank": "463",
+    "strokeCount": 8,
+    "meaning": "núi, đồi, gò",
+    "kunyomi": [
+      "おか"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "岡陵",
+        "reading": "コウリョウ",
+        "meaning": "đồi núi"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "丘",
+        "reading": "おか",
+        "meaning": "đồi, độ cao, gò đất, mặt đất nhô lên, điểm thưởng được trao cho người chiến thắng khi kết thúc trò chơi"
+      },
+      {
+        "example": "岡三",
+        "reading": "おかさん",
+        "meaning": "Okasan"
+      },
+      {
+        "example": "盛岡",
+        "reading": "もりおか",
+        "meaning": "Morioka (thành phố ở Iwate)"
+      }
+    ],
+    "radical": {
+      "symbol": "山",
+      "meaning": "núi"
+    },
+    "parts": [
+      "一",
+      "冂",
+      "山",
+      "岡",
+      "并"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23713_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ca1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ca1.gif",
+    "uri": "https://jisho.org/search/%E5%B2%A1%23kanji"
+  }
+}

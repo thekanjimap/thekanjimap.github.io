@@ -1,0 +1,66 @@
+{
+  "id": "薔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "薔",
+    "found": true,
+    "newspaperFrequencyRank": "2356",
+    "strokeCount": 16,
+    "meaning": "tiêu nước",
+    "kunyomi": [
+      "みずたで"
+    ],
+    "onyomi": [
+      "バ",
+      "ショウ",
+      "ショク",
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "薔薇",
+        "reading": "バラ",
+        "meaning": "hoa hồng"
+      },
+      {
+        "example": "バラ色",
+        "reading": "バライロ",
+        "meaning": "màu hồng, màu hồng, tươi sáng (ví dụ: cuộc sống, tương lai, triển vọng), vui vẻ, hồng hào"
+      },
+      {
+        "example": "薔薇",
+        "reading": "バラ",
+        "meaning": "hoa hồng"
+      },
+      {
+        "example": "バラ油",
+        "reading": "バラユ",
+        "meaning": "dầu hoa hồng, hoa hồng otto"
+      },
+      {
+        "example": "薔薇",
+        "reading": "バラ",
+        "meaning": "hoa hồng"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "人",
+      "口",
+      "囗",
+      "土",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34196_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08594.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8594.gif",
+    "uri": "https://jisho.org/search/%E8%96%94%23kanji"
+  }
+}

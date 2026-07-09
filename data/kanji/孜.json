@@ -1,0 +1,48 @@
+{
+  "id": "孜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "孜",
+    "found": true,
+    "newspaperFrequencyRank": "1457",
+    "strokeCount": 7,
+    "meaning": "sự cần cù",
+    "kunyomi": [
+      "つと.める"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "孜々",
+        "reading": "シシ",
+        "meaning": "một cách cần mẫn, chăm chỉ"
+      },
+      {
+        "example": "孜々営々",
+        "reading": "シシエイエイ",
+        "meaning": "một cách cần mẫn, với lòng nhiệt thành không ngừng"
+      },
+      {
+        "example": "孜々",
+        "reading": "シシ",
+        "meaning": "một cách cần mẫn, chăm chỉ"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "子",
+      "meaning": "đứa trẻ, hạt giống"
+    },
+    "parts": [
+      "乞",
+      "子",
+      "攵"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23388_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b5c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b5c.gif",
+    "uri": "https://jisho.org/search/%E5%AD%9C%23kanji"
+  }
+}

@@ -1,0 +1,460 @@
+{
+  "id": "開",
+  "kanjialiveData": {
+    "_id": "54317ad5791eba5146ee4867",
+    "_rev": "9-5db29f6d6bca2aab5ba94fcdf954b589",
+    "rad_name_ja": "もんがまえ",
+    "grade": 3,
+    "hint_group": 1,
+    "kunyomi": "hira, hiraku, a, aku, akeru",
+    "meaning": "mở",
+    "kstroke": 12,
+    "examples": [
+      {
+        "japanese": "開発する（かいはつする）",
+        "meaning": {
+          "english": "phát triển"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-hira(ku)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kai-hira(ku)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kai-hira(ku)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kai-hira(ku)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "開放する（かいほうする）",
+        "meaning": {
+          "english": "ném mở"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-hira(ku)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kai-hira(ku)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kai-hira(ku)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kai-hira(ku)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "開設する（かいせつする）",
+        "meaning": {
+          "english": "thành lập"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-hira(ku)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kai-hira(ku)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kai-hira(ku)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kai-hira(ku)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "開閉する（かいへいする）",
+        "meaning": {
+          "english": "mở và đóng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-hira(ku)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kai-hira(ku)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kai-hira(ku)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kai-hira(ku)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "開始する（かいしする）",
+        "meaning": {
+          "english": "bắt đầu"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-hira(ku)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kai-hira(ku)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kai-hira(ku)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kai-hira(ku)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "公開する（こうかいする）",
+        "meaning": {
+          "english": "trình bày trước công chúng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-hira(ku)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kai-hira(ku)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kai-hira(ku)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kai-hira(ku)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "再開する（さいかいする）",
+        "meaning": {
+          "english": "mở lại"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-hira(ku)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kai-hira(ku)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kai-hira(ku)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kai-hira(ku)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "開く（ひらく）",
+        "meaning": {
+          "english": "mở [v.i., v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-hira(ku)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kai-hira(ku)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kai-hira(ku)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kai-hira(ku)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "開く（あく）",
+        "meaning": {
+          "english": "mở [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-hira(ku)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kai-hira(ku)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kai-hira(ku)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kai-hira(ku)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "開ける（あける）",
+        "meaning": {
+          "english": "mở [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-hira(ku)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kai-hira(ku)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kai-hira(ku)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kai-hira(ku)_06_j.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "ひら、ひらく、あ、あく、あける",
+    "ka_utf": "開",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=開",
+    "rad_name_search": [
+      "mongamae"
+    ],
+    "rad_order": 208,
+    "txt_books": [
+      {
+        "chapter": "13",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "14",
+        "txt_bk": "macquarie"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtAd3"
+      },
+      {
+        "chapter": "16",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "txtSFJ1"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "16",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "mntr",
+        "chapter": "3"
+      }
+    ],
+    "kname": "kai-hira(ku)",
+    "rad_utf": "⾨",
+    "stroketimes": [
+      0,
+      2.132,
+      3.467,
+      4.066,
+      4.933,
+      5.933,
+      8,
+      9,
+      9.866,
+      10.666,
+      11.467,
+      12.199,
+      12.866667
+    ],
+    "kunyomi_ka_display": "ひら、あ",
+    "dick": "2092",
+    "rad_name": "mongamae",
+    "dicn": "4950",
+    "mn_hint": "Two hands 廾 removing the gate bolt 閂.",
+    "rad_stroke": 8,
+    "onyomi_ja": "カイ",
+    "rad_meaning": "cổng, cửa",
+    "onyomi": "kai",
+    "ka_id": "ka_107",
+    "rad_position": "kamae, mongamae",
+    "rad_position_ja": "かまえ, もんがまえ",
+    "rad_position_search": [
+      "kamae",
+      "mongamae",
+      "kamae, mongamae"
+    ],
+    "onyomi_search": [
+      "kai",
+      "kai"
+    ],
+    "kunyomi_search": [
+      "hira",
+      "hiraku",
+      "a",
+      "aku",
+      "akeru",
+      "hira, hiraku, a, aku, akeru"
+    ],
+    "meaning_search": [
+      "open",
+      "open"
+    ],
+    "onyomi_ja_search": [
+      "カイ",
+      "カイ"
+    ],
+    "kunyomi_ja_search": [
+      "ひら",
+      "ひらく",
+      "あ",
+      "あく",
+      "あける",
+      "ひら、ひらく、あ、あく、あける"
+    ],
+    "rad_meaning_search": [
+      "gate",
+      "door",
+      "gate, door"
+    ],
+    "rad_position_ja_search": [
+      "かまえ",
+      "もんがまえ",
+      "かまえ, もんがまえ"
+    ],
+    "rad_name_ja_search": [
+      "もんがまえ"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:13",
+      "cij:c13",
+      "bk",
+      "bk:13",
+      "bk:c13",
+      "mac",
+      "mac:14",
+      "mac:c14",
+      "aij3",
+      "aij3:7",
+      "aij3:c7",
+      "aij3:v3",
+      "aij3:v3:7",
+      "aij3:v3:c7",
+      "gen",
+      "gen:16",
+      "gen:c16",
+      "ap",
+      "ap:3",
+      "ap:c3",
+      "kll",
+      "kll:16",
+      "kll:c16",
+      "mntr",
+      "mntr:3",
+      "mntr:c3"
+    ],
+    "rad_name_file": "mongamae",
+    "kanji": {
+      "character": "開",
+      "meaning": {
+        "english": "open"
+      },
+      "strokes": {
+        "count": 12,
+        "timings": [
+          0,
+          2.132,
+          3.467,
+          4.066,
+          4.933,
+          5.933,
+          8,
+          9,
+          9.866,
+          10.666,
+          11.467,
+          12.199,
+          12.866667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/kai-hira(ku)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/kai-hira(ku)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/kai-hira(ku)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/kai-hira(ku)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/kai-hira(ku)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/kai-hira(ku)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/kai-hira(ku)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/kai-hira(ku)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/kai-hira(ku)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/kai-hira(ku)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/kai-hira(ku)_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/kai-hira(ku)_12.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "kai",
+        "katakana": "カイ"
+      },
+      "kunyomi": {
+        "romaji": "hira, hiraku, a, aku, akeru",
+        "hiragana": "ひら、あ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/kai-hira(ku)_12.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/kai-hira(ku)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/kai-hira(ku)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⾨",
+      "strokes": 8,
+      "image": "https://media.kanjialive.com/radical_character/mongamae.svg",
+      "position": {
+        "hiragana": "かまえ, もんがまえ",
+        "romaji": "kamae, mongamae",
+        "icon": "https://media.kanjialive.com/rad_positions/mongamae.svg"
+      },
+      "name": {
+        "hiragana": "もんがまえ",
+        "romaji": "mongamae"
+      },
+      "meaning": {
+        "english": "cổng, cửa"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/mongamae0.svg",
+        "https://media.kanjialive.com/rad_frames/mongamae1.svg",
+        "https://media.kanjialive.com/rad_frames/mongamae2.svg"
+      ]
+    },
+    "references": {
+      "grade": 3,
+      "kodansha": "2092",
+      "classic_nelson": "4950"
+    }
+  },
+  "jishoData": {
+    "query": "開",
+    "found": true,
+    "taughtIn": "lớp 3",
+    "jlptLevel": "N4",
+    "newspaperFrequencyRank": "59",
+    "strokeCount": 12,
+    "meaning": "mở, mở ra, mở niêm phong",
+    "kunyomi": [
+      "ひら.く",
+      "ひら.き",
+      "-びら.き",
+      "ひら.ける",
+      "あ.く",
+      "あ.ける"
+    ],
+    "onyomi": [
+      "カイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "開花",
+        "reading": "カイカ",
+        "meaning": "nở hoa, nở hoa, nở hoa, nở hoa, nở hoa (của một nền văn minh, tài năng, v.v.), nở hoa, nở hoa, kết trái (của những nỗ lực)"
+      },
+      {
+        "example": "開演",
+        "reading": "カイエン",
+        "meaning": "kéo màn, bắt đầu (ví dụ: vở kịch, buổi hòa nhạc)"
+      },
+      {
+        "example": "疎開",
+        "reading": "ソカイ",
+        "meaning": "sơ tán (về nước), dàn quân (quân đội), triển khai, phân tán"
+      },
+      {
+        "example": "非公開",
+        "reading": "ヒコウカイ",
+        "meaning": "riêng tư, không công khai, bí mật, đóng cửa, đóng cửa"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "開く",
+        "reading": "ひらく",
+        "meaning": "mở, tháo, mở niêm phong, mở gói, nở hoa, mở ra, trải ra, mở (để kinh doanh, ví dụ: vào buổi sáng), rộng (khoảng trống, v.v.), mở rộng, tổ chức (hội họp, tiệc tùng, v.v.), cho, mở, thành lập (quốc gia, triều đại, giáo phái, v.v.), mở (một doanh nghiệp mới), thiết lập, thành lập, bắt đầu, mở (cảng, biên giới, v.v.), mở (một tài khoản), mở ra (vùng đất mới, con đường, v.v.), dọn dẹp, phát triển, mở (tập tin, v.v.), trích xuất (gốc), giảm (phương trình), cắt mở (cá), thay đổi (kanji thành hiragana), bùng phát (ví dụ: váy), chùng xuống (vào một tư thế xấu)"
+      },
+      {
+        "example": "開き",
+        "reading": "ひらき",
+        "meaning": "mở, khoảng cách, khô và mở cá"
+      },
+      {
+        "example": "開き直る",
+        "reading": "ひらきなおる",
+        "meaning": "trở nên thách thức, chống trả, tấn công, tấn công"
+      },
+      {
+        "example": "開ける",
+        "reading": "ひらける",
+        "meaning": "mở ra (về tầm nhìn, phong cảnh, v.v.), trải rộng, trở nên rõ ràng (về một con đường, tầm nhìn, v.v.), mở ra, cải thiện (về may mắn, triển vọng, v.v.), trở nên tốt hơn, phát triển (của một thị trấn, nền văn minh, v.v.), trở nên văn minh, hiện đại hóa, phát triển, nâng cao (về kiến thức, ý tưởng, v.v.), nhạy cảm, hiểu biết, được giác ngộ, mở ra (về một con đường, đường sắt mới, v.v.), được mở cho giao thông, để trở nên đông dân, trở nên đông đúc, trở nên nhộn nhịp"
+      },
+      {
+        "example": "開く",
+        "reading": "あく",
+        "meaning": "mở (ví dụ: cửa), mở (ví dụ: kinh doanh, v.v.), trống rỗng, trống rỗng, có sẵn, tự do, mở (ví dụ: đường viền cổ áo, v.v.), đã được mở (của mắt, miệng, v.v.), đi đến kết thúc, mở (mắt, miệng, v.v.), có một cái lỗ, tạo thành một khoảng trống, có một khoảng trống (giữa các sự kiện)"
+      },
+      {
+        "example": "開ける",
+        "reading": "あける",
+        "meaning": "mở (một cánh cửa, v.v.), mở (ví dụ: bưu kiện, gói hàng), mở khóa, mở (để kinh doanh, v.v.), để trống, loại bỏ, nhường chỗ, dọn chỗ, dọn ra, dọn ra, rời khỏi (ví dụ: nhà của một người), rời khỏi (tạm thời), đến bình minh, trời sáng, kết thúc (của một giai đoạn, mùa), bắt đầu (của năm mới), để lại (lịch trình của một người) mở, dành thời gian (cho), để tạo (một cái lỗ), mở ra (một cái lỗ)"
+      }
+    ],
+    "radical": {
+      "symbol": "門",
+      "meaning": "cánh cổng"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "二",
+      "廾",
+      "門"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38283_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0958b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/958b.gif",
+    "uri": "https://jisho.org/search/%E9%96%8B%23kanji"
+  }
+}

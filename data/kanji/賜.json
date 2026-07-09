@@ -1,0 +1,85 @@
+{
+  "id": "賜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "賜",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2190",
+    "strokeCount": 15,
+    "meaning": "cấp, quà tặng, lợi ích, kết quả",
+    "kunyomi": [
+      "たまわ.る",
+      "たま.う",
+      "たも.う"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "賜杯",
+        "reading": "シハイ",
+        "meaning": "Cúp hoàng đế, cúp do Hoàng đế trao tặng"
+      },
+      {
+        "example": "賜暇",
+        "reading": "シカ",
+        "meaning": "nghỉ phép, nghỉ phép"
+      },
+      {
+        "example": "恩賜",
+        "reading": "オンシ",
+        "meaning": "Quà tặng hoàng gia"
+      },
+      {
+        "example": "追賜",
+        "reading": "ツイシ",
+        "meaning": "được cấp bậc tòa án sau khi chết"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "賜る",
+        "reading": "たまわる",
+        "meaning": "được ban cho, được ban cho, được vinh dự, được tôn vinh, được ban cho, ban cho, ban cho, vinh danh, vinh danh"
+      },
+      {
+        "example": "給う",
+        "reading": "たまう",
+        "meaning": "cho, làm..."
+      },
+      {
+        "example": "給ふ",
+        "reading": "たまう",
+        "meaning": "cho, nhận"
+      },
+      {
+        "example": "給う",
+        "reading": "たもう",
+        "meaning": "cho, làm..."
+      },
+      {
+        "example": "給ふ",
+        "reading": "たまう",
+        "meaning": "cho, nhận"
+      }
+    ],
+    "radical": {
+      "symbol": "貝",
+      "meaning": "vỏ"
+    },
+    "parts": [
+      "ハ",
+      "勿",
+      "日",
+      "目",
+      "貝"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36060_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cdc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cdc.gif",
+    "uri": "https://jisho.org/search/%E8%B3%9C%23kanji"
+  }
+}

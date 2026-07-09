@@ -1,0 +1,77 @@
+{
+  "id": "漏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "漏",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1298",
+    "strokeCount": 14,
+    "meaning": "rò rỉ, trốn thoát, thời gian",
+    "kunyomi": [
+      "も.る",
+      "も.れる",
+      "も.らす"
+    ],
+    "onyomi": [
+      "ロウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "漏洩",
+        "reading": "ロウエイ",
+        "meaning": "rò rỉ (bí mật, thông tin, v.v.), tiết lộ, tiết lộ, rò rỉ (khí, chất lỏng, v.v.), rò rỉ, thoát ra (của khí), đi qua (ánh sáng)"
+      },
+      {
+        "example": "漏出",
+        "reading": "ロウシュツ",
+        "meaning": "rò rỉ, rò rỉ, rò rỉ"
+      },
+      {
+        "example": "遺漏",
+        "reading": "イロウ",
+        "meaning": "thiếu sót"
+      },
+      {
+        "example": "早漏",
+        "reading": "ソウロウ",
+        "meaning": "xuất tinh sớm"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "漏る",
+        "reading": "もる",
+        "meaning": "rò rỉ, hết"
+      },
+      {
+        "example": "漏れる",
+        "reading": "もれる",
+        "meaning": "rò rỉ ra, thoát ra, đi qua, tỏa sáng, lọc ra, tìm biểu hiện, trút giận, rò rỉ ra, được tiết lộ, được tiết lộ, bị bỏ qua, bị bỏ ra ngoài, bị loại trừ, không được bao gồm"
+      },
+      {
+        "example": "漏らす",
+        "reading": "もらす",
+        "meaning": "để rò rỉ, để lộ ra (ví dụ: ánh sáng), để lộ ra (bí mật), rò rỉ (thông tin), tiết lộ, tiết lộ, để lọt, phát biểu (ví dụ như sự không hài lòng của một người), trút giận, bày tỏ, tiết lộ (ví dụ như ý định thực sự của một người), để lộ ra (một tiếng thở dài, v.v.), làm ướt quần, bỏ qua, bỏ đi, không làm, bỏ lỡ, bỏ qua (do nhầm lẫn), quên làm"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "尸",
+      "汁",
+      "雨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28431_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f0f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f0f.gif",
+    "uri": "https://jisho.org/search/%E6%BC%8F%23kanji"
+  }
+}

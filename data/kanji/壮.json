@@ -1,0 +1,60 @@
+{
+  "id": "壮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "壮",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1657",
+    "strokeCount": 6,
+    "meaning": "mạnh mẽ, nam tính, thịnh vượng",
+    "kunyomi": [
+      "さかん"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "壮",
+        "reading": "ソウ",
+        "meaning": "sức sống, sức mạnh, sự dũng cảm, nam tính, thời kỳ đỉnh cao của một người (khoảng 30 tuổi; đặc biệt là của một người đàn ông), phản đối nón hoặc que moxa đốt trên da (trong moxibustion)"
+      },
+      {
+        "example": "壮行",
+        "reading": "ソウコウ",
+        "meaning": "(kích động) tiễn đưa, tạm biệt"
+      },
+      {
+        "example": "悲壮",
+        "reading": "ヒソウ",
+        "meaning": "bi thảm nhưng dũng cảm, anh hùng, nghiệt ngã"
+      },
+      {
+        "example": "強壮",
+        "reading": "キョウソウ",
+        "meaning": "khỏe mạnh, cường tráng, khỏe mạnh, khỏe mạnh"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "盛ん",
+        "reading": "さかん",
+        "meaning": "thịnh vượng, hưng thịnh, thịnh vượng, thành công, phổ biến, rộng rãi, tích cực, sống động, tràn đầy năng lượng, mạnh mẽ, nhanh nhẹn, mạnh mẽ, nhiệt tình, háo hức, nồng nhiệt, thường xuyên, lặp đi lặp lại"
+      }
+    ],
+    "radical": {
+      "symbol": "士",
+      "meaning": "học giả, cử nhân"
+    },
+    "parts": [
+      "士",
+      "爿"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22766_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058ee.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58ee.gif",
+    "uri": "https://jisho.org/search/%E5%A3%AE%23kanji"
+  }
+}

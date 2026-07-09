@@ -1,0 +1,43 @@
+{
+  "id": "雰",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "雰",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1341",
+    "strokeCount": 12,
+    "meaning": "không khí, sương mù",
+    "kunyomi": [],
+    "onyomi": [
+      "フン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "雰囲気",
+        "reading": "フンイキ",
+        "meaning": "bầu không khí, tâm trạng, bầu không khí, bầu không khí, hào quang, cảm giác, một bầu không khí nào đó, sự hiện diện, hào quang đặc biệt, một cái gì đó (về ai đó), bầu không khí (Trái đất)"
+      },
+      {
+        "example": "雰囲気美人",
+        "reading": "フンイキビジン",
+        "meaning": "người phụ nữ không đẹp theo kiểu truyền thống nhưng lại rất hấp dẫn, người phụ nữ có vẻ đẹp toát ra"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "雨",
+      "meaning": "mưa"
+    },
+    "parts": [
+      "ハ",
+      "刀",
+      "雨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38640_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096f0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96f0.gif",
+    "uri": "https://jisho.org/search/%E9%9B%B0%23kanji"
+  }
+}

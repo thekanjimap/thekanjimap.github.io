@@ -1,0 +1,377 @@
+{
+  "id": "辛",
+  "kanjialiveData": {
+    "_id": "54317b09791eba5146ee4c40",
+    "_rev": "10-e6edc11a3212c38209fbc3646d0f2f00",
+    "rad_name_ja": "からい",
+    "grade": null,
+    "hint_group": 1,
+    "kunyomi": "kara, karai, karasa",
+    "meaning": "hăng, cứng, cay",
+    "kstroke": 7,
+    "examples": [
+      {
+        "japanese": "辛苦（しんく）",
+        "meaning": {
+          "english": "khó khăn, vất vả, rắc rối"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kara(i)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kara(i)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kara(i)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kara(i)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "辛酸（しんさん）",
+        "meaning": {
+          "english": "khó khăn, thiếu thốn"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kara(i)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kara(i)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kara(i)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kara(i)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "辛辣な（しんらつな）",
+        "meaning": {
+          "english": "cay đắng, gay gắt, gay gắt"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kara(i)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kara(i)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kara(i)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kara(i)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "辛抱する（しんぼうする）",
+        "meaning": {
+          "english": "chịu đựng, kiên trì"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kara(i)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kara(i)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kara(i)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kara(i)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "香辛料（こうしんりょう）",
+        "meaning": {
+          "english": "gia vị"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kara(i)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kara(i)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kara(i)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kara(i)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "辛い（からい）",
+        "meaning": {
+          "english": "nóng, mặn, khó khăn, bất lợi, khắc nghiệt"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kara(i)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kara(i)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kara(i)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kara(i)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "塩辛い（しおからい）",
+        "meaning": {
+          "english": "mặn"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kara(i)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kara(i)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kara(i)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kara(i)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "辛子（からし）",
+        "meaning": {
+          "english": "mù tạt"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kara(i)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kara(i)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kara(i)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kara(i)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "唐辛子（とうがらし）",
+        "meaning": {
+          "english": "ớt đỏ, ớt cayenne"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kara(i)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kara(i)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kara(i)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kara(i)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "世知辛い（せちがらい）",
+        "meaning": {
+          "english": "cứng rắn, cứng rắn"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kara(i)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kara(i)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kara(i)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kara(i)_06_j.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "から、からい、からさ",
+    "ka_utf": "辛",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=辛",
+    "rad_name_search": [
+      "karai"
+    ],
+    "rad_order": 197,
+    "txt_books": [
+      {
+        "chapter": "20",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "22",
+        "txt_bk": "txtLookLearn"
+      }
+    ],
+    "kname": "kara(i)",
+    "rad_utf": "⾟",
+    "stroketimes": [
+      0,
+      0.533333,
+      2,
+      2.733333,
+      3.533333,
+      5.066667,
+      5.933333,
+      8.466667
+    ],
+    "kunyomi_ka_display": "から",
+    "dick": "1287",
+    "rad_name": "karai",
+    "dicn": "4646",
+    "mn_hint": "Standing up 立 many 十 times to get water when eating spicy food.",
+    "rad_stroke": 7,
+    "onyomi_ja": "シン",
+    "rad_meaning": "cay đắng",
+    "onyomi": "shin",
+    "ka_id": "ka_845",
+    "onyomi_search": [
+      "shin",
+      "shin"
+    ],
+    "kunyomi_search": [
+      "kara",
+      "karai",
+      "karasa",
+      "kara, karai, karasa"
+    ],
+    "meaning_search": [
+      "pungent",
+      "hard",
+      "spicy",
+      "pungent, hard, spicy"
+    ],
+    "onyomi_ja_search": [
+      "シン",
+      "シン"
+    ],
+    "kunyomi_ja_search": [
+      "から",
+      "からい",
+      "からさ",
+      "から、からい、からさ"
+    ],
+    "rad_meaning_search": [
+      "bitter",
+      "bitter"
+    ],
+    "rad_name_ja_search": [
+      "からい"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:20",
+      "ij:c20",
+      "kll",
+      "kll:22",
+      "kll:c22"
+    ],
+    "rad_name_file": "karai",
+    "kanji": {
+      "character": "辛",
+      "meaning": {
+        "english": "pungent, hard, spicy"
+      },
+      "strokes": {
+        "count": 7,
+        "timings": [
+          0,
+          0.533333,
+          2,
+          2.733333,
+          3.533333,
+          5.066667,
+          5.933333,
+          8.466667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/kara(i)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/kara(i)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/kara(i)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/kara(i)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/kara(i)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/kara(i)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/kara(i)_7.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "shin",
+        "katakana": "シン"
+      },
+      "kunyomi": {
+        "romaji": "kara, karai, karasa",
+        "hiragana": "から"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/kara(i)_7.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/kara(i)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/kara(i)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⾟",
+      "strokes": 7,
+      "image": "https://media.kanjialive.com/radical_character/karai.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "からい",
+        "romaji": "karai"
+      },
+      "meaning": {
+        "english": "cay đắng"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/karai0.svg",
+        "https://media.kanjialive.com/rad_frames/karai1.svg",
+        "https://media.kanjialive.com/rad_frames/karai2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "1287",
+      "classic_nelson": "4646"
+    }
+  },
+  "jishoData": {
+    "query": "辛",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "1607",
+    "strokeCount": 7,
+    "meaning": "cay, đắng, cay, chát",
+    "kunyomi": [
+      "から.い",
+      "つら.い",
+      "-づら.い",
+      "かのと"
+    ],
+    "onyomi": [
+      "シン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "辛",
+        "reading": "カノト",
+        "meaning": "Đứng thứ 8, cung thứ tám trong lịch Trung Quốc"
+      },
+      {
+        "example": "辛抱",
+        "reading": "シンボウ",
+        "meaning": "kiên nhẫn, sức chịu đựng, sự kiên trì"
+      },
+      {
+        "example": "細辛",
+        "reading": "サイシン",
+        "meaning": "Gừng hoang dã Siebold (đặc biệt là rễ hoặc thân rễ khô của nó, được sử dụng làm thuốc chống ho và giảm đau trong y học cổ truyền Trung Quốc)"
+      },
+      {
+        "example": "【ウスバサイシン】",
+        "reading": "Siebold&#39;s wild ginger (Asarum sieboldii)",
+        "meaning": ""
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "辛い",
+        "reading": "からい",
+        "meaning": "cay, nóng, mặn, khắc nghiệt (chỉ trích), khắc nghiệt (trừng phạt), nghiêm khắc, đau đớn, cay đắng, khó khăn, khắc nghiệt"
+      },
+      {
+        "example": "辛い味",
+        "reading": "からいあじ",
+        "meaning": "vị hăng"
+      },
+      {
+        "example": "辛い",
+        "reading": "つらい",
+        "meaning": "đau đớn, cay đắng, đau lòng, khó khăn (về mặt cảm xúc), khó khăn, khó khăn, khó khăn (thông thường trong các tình huống), tàn nhẫn, khắc nghiệt, lạnh lùng"
+      },
+      {
+        "example": "辛い目に会う",
+        "reading": "つらいめにあう",
+        "meaning": "phải trải qua một khoảng thời gian khó khăn"
+      },
+      {
+        "example": "辛",
+        "reading": "かのと",
+        "meaning": "Đứng thứ 8, cung thứ tám trong lịch Trung Quốc"
+      },
+      {
+        "example": "辛卯",
+        "reading": "かのとう",
+        "meaning": "Thỏ Kim Loại (học kỳ thứ 28 của chu kỳ lục thập niên, ví dụ: 1951, 2011, 2071)"
+      }
+    ],
+    "radical": {
+      "symbol": "辛",
+      "meaning": "cay đắng"
+    },
+    "parts": [
+      "十",
+      "立",
+      "辛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36763_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f9b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f9b.gif",
+    "uri": "https://jisho.org/search/%E8%BE%9B%23kanji"
+  }
+}

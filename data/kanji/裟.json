@@ -1,0 +1,47 @@
+{
+  "id": "裟",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "裟",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 13,
+    "meaning": "lễ vật Phật giáo",
+    "kunyomi": [],
+    "onyomi": [
+      "サ",
+      "シャ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "袈裟",
+        "reading": "ケサ",
+        "meaning": "kasaya, khăn choàng của nhà sư, mặc y phục giống như kasaya (tức là quàng qua một vai)"
+      },
+      {
+        "example": "結袈裟",
+        "reading": "ユイゲサ",
+        "meaning": "đai ba sợi hoặc dây thắt lưng được trang trí bằng quả pom-pom (được các học viên Shugendō đeo)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "quần áo"
+    },
+    "parts": [
+      "ノ",
+      "亠",
+      "小",
+      "汁",
+      "衣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35039_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088df.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88df.gif",
+    "uri": "https://jisho.org/search/%E8%A3%9F%23kanji"
+  }
+}

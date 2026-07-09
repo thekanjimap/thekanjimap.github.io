@@ -1,0 +1,52 @@
+{
+  "id": "耀",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "耀",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2253",
+    "strokeCount": 20,
+    "meaning": "lấp lánh, lấp lánh, lấp lánh, lấp lánh",
+    "kunyomi": [
+      "かがや.く",
+      "ひかり"
+    ],
+    "onyomi": [
+      "ヨウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "栄耀",
+        "reading": "エイヨウ",
+        "meaning": "sự sang trọng, lộng lẫy, huy hoàng, thịnh vượng"
+      },
+      {
+        "example": "光耀",
+        "reading": "コウヨウ",
+        "meaning": "tỏa sáng, lấp lánh"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "輝く",
+        "reading": "かがやく",
+        "meaning": "tỏa sáng, lấp lánh, lấp lánh, lấp lánh, lấp lánh, sáng lên (với hạnh phúc, hy vọng, v.v.), tỏa sáng, lấp lánh, tỏa sáng"
+      }
+    ],
+    "radical": {
+      "symbol": "羽",
+      "meaning": "lông vũ"
+    },
+    "parts": [
+      "ヨ",
+      "儿",
+      "尚",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32768_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08000.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8000.gif",
+    "uri": "https://jisho.org/search/%E8%80%80%23kanji"
+  }
+}

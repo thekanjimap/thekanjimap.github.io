@@ -1,0 +1,71 @@
+{
+  "id": "饒",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "饒",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "dồi dào",
+    "kunyomi": [
+      "ゆたか"
+    ],
+    "onyomi": [
+      "ジョウ",
+      "ニョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "饒舌",
+        "reading": "ジョウゼツ",
+        "meaning": "tính lắm lời, tính ba hoa, tính nói ba hoa"
+      },
+      {
+        "example": "饒舌家",
+        "reading": "ジョウゼツカ",
+        "meaning": "người nói nhiều, người nói nhiều"
+      },
+      {
+        "example": "豊饒",
+        "reading": "ホウジョウ",
+        "meaning": "màu mỡ, có năng suất, có kết quả"
+      },
+      {
+        "example": "富饒",
+        "reading": "フジョウ",
+        "meaning": "sự giàu có"
+      },
+      {
+        "example": "饒舌",
+        "reading": "ジョウゼツ",
+        "meaning": "tính lắm lời, tính ba hoa, tính nói ba hoa"
+      },
+      {
+        "example": "豊饒",
+        "reading": "ホウジョウ",
+        "meaning": "màu mỡ, có năng suất, có kết quả"
+      },
+      {
+        "example": "富饒",
+        "reading": "フジョウ",
+        "meaning": "sự giàu có"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "食",
+      "forms": [
+        "飠"
+      ],
+      "meaning": "ăn, thức ăn"
+    },
+    "parts": [
+      "儿",
+      "土",
+      "食"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39250_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09952.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9952.gif",
+    "uri": "https://jisho.org/search/%E9%A5%92%23kanji"
+  }
+}

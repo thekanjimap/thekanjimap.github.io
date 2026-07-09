@@ -1,0 +1,57 @@
+{
+  "id": "熨",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "熨",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "là phẳng, làm phẳng",
+    "kunyomi": [
+      "のし",
+      "おさ.える",
+      "の.す",
+      "ひのし"
+    ],
+    "onyomi": [
+      "イ",
+      "ウツ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "熨斗",
+        "reading": "のし",
+        "meaning": "noshi, bào ngư khô dài mỏng gói trong giấy có hoa văn gấp lại, dùng làm quà tặng"
+      },
+      {
+        "example": "熨斗鮑",
+        "reading": "のしあわび",
+        "meaning": "bào ngư khô sợi mỏng (thường buộc vào quà tặng)"
+      },
+      {
+        "example": "湯のし",
+        "reading": "ゆのし",
+        "meaning": "ủi hơi nước"
+      }
+    ],
+    "radical": {
+      "symbol": "火",
+      "forms": [
+        "灬"
+      ],
+      "meaning": "ngọn lửa"
+    },
+    "parts": [
+      "二",
+      "寸",
+      "小",
+      "尸",
+      "火",
+      "示"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/29096_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/071a8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/71a8.gif",
+    "uri": "https://jisho.org/search/%E7%86%A8%23kanji"
+  }
+}

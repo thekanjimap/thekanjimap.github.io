@@ -1,0 +1,54 @@
+{
+  "id": "渚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "渚",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2226",
+    "strokeCount": 11,
+    "meaning": "sợi, bãi biển, bờ biển",
+    "kunyomi": [
+      "なぎさ"
+    ],
+    "onyomi": [
+      "ショ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "渚畔",
+        "reading": "ショハン",
+        "meaning": "bờ biển, ven biển"
+      },
+      {
+        "example": "汀渚",
+        "reading": "テイショ",
+        "meaning": "doi cát, mép nước"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "渚",
+        "reading": "なぎさ",
+        "meaning": "mép nước, bãi biển, bờ biển"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "日",
+      "汁",
+      "老"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28186_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e1a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e1a.gif",
+    "uri": "https://jisho.org/search/%E6%B8%9A%23kanji"
+  }
+}

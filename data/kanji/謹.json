@@ -1,0 +1,61 @@
+{
+  "id": "謹",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "謹",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2068",
+    "strokeCount": 17,
+    "meaning": "kín đáo, tôn kính, khiêm tốn",
+    "kunyomi": [
+      "つつし.む"
+    ],
+    "onyomi": [
+      "キン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "謹慎",
+        "reading": "キンシン",
+        "meaning": "tự kiềm chế, tiết chế hành vi của chính mình, sám hối, kỷ luật, giam cầm (đặc biệt là ở nhà), quản thúc tại gia, đình chỉ (ở nơi làm việc hoặc trường học)"
+      },
+      {
+        "example": "謹賀新年",
+        "reading": "キンガシンネン",
+        "meaning": "Chúc mừng năm mới"
+      },
+      {
+        "example": "細謹",
+        "reading": "サイキン",
+        "meaning": "sai sót nhỏ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "慎む",
+        "reading": "つつしむ",
+        "meaning": "cẩn thận, kín đáo, làm chừng mực, kiềm chế (không làm quá), kiêng cữ, cung kính, thanh lọc, khiết tịnh"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "lời nói"
+    },
+    "parts": [
+      "二",
+      "口",
+      "土",
+      "艾",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35641_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b39.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b39.gif",
+    "uri": "https://jisho.org/search/%E8%AC%B9%23kanji"
+  }
+}

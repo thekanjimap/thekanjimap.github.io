@@ -1,0 +1,98 @@
+{
+  "id": "蕪",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蕪",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "củ cải",
+    "kunyomi": [
+      "かぶ",
+      "かぶら",
+      "あれる"
+    ],
+    "onyomi": [
+      "ブ",
+      "ム"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蕪雑",
+        "reading": "ブザツ",
+        "meaning": "lộn xộn, lộn xộn, không được trau chuốt, thô ráp"
+      },
+      {
+        "example": "蕪辞",
+        "reading": "ブジ",
+        "meaning": "lời nói hoặc văn viết thô tục, khiêm tốn đề cập đến lời nói của chính mình"
+      },
+      {
+        "example": "赤かぶ",
+        "reading": "アカカブ",
+        "meaning": "củ cải đỏ, củ cải đỏ nhỏ"
+      },
+      {
+        "example": "芽かぶ",
+        "reading": "メカブ",
+        "meaning": "lá wakame dày ở gần thân"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蕪",
+        "reading": "かぶ",
+        "meaning": "củ cải (Brassica rapa)"
+      },
+      {
+        "example": "蕪汁",
+        "reading": "かぶらじる",
+        "meaning": "súp miso củ cải"
+      },
+      {
+        "example": "赤かぶ",
+        "reading": "あかかぶ",
+        "meaning": "củ cải đỏ, củ cải đỏ nhỏ"
+      },
+      {
+        "example": "芽かぶ",
+        "reading": "めかぶ",
+        "meaning": "lá wakame dày ở gần thân"
+      },
+      {
+        "example": "蕪",
+        "reading": "かぶ",
+        "meaning": "củ cải (Brassica rapa)"
+      },
+      {
+        "example": "蕪汁",
+        "reading": "かぶらじる",
+        "meaning": "súp miso củ cải"
+      },
+      {
+        "example": "和布蕪",
+        "reading": "めかぶら",
+        "meaning": "lá wakame dày ở gần thân"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "乞",
+      "杰",
+      "無",
+      "艾",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34154_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0856a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/856a.gif",
+    "uri": "https://jisho.org/search/%E8%95%AA%23kanji"
+  }
+}

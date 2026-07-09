@@ -1,0 +1,75 @@
+{
+  "id": "汐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "汐",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2314",
+    "strokeCount": 6,
+    "meaning": "buổi tối, thủy triều, nước mặn, cơ hội",
+    "kunyomi": [
+      "しお",
+      "うしお",
+      "せい"
+    ],
+    "onyomi": [
+      "セキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "潮汐",
+        "reading": "チョウセキ",
+        "meaning": "thủy triều"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "潮",
+        "reading": "しお",
+        "meaning": "thủy triều, dòng chảy, nước biển, cơ hội, cơ hội, súp loãng cá hoặc động vật có vỏ luộc trong nước biển"
+      },
+      {
+        "example": "潮時",
+        "reading": "しおどき",
+        "meaning": "giờ thủy triều, đúng thời điểm (để làm điều gì đó), cơ hội, cơ hội"
+      },
+      {
+        "example": "夕潮",
+        "reading": "ゆうしお",
+        "meaning": "thủy triều buổi tối"
+      },
+      {
+        "example": "引き潮",
+        "reading": "ひきしお",
+        "meaning": "thủy triều xuống"
+      },
+      {
+        "example": "潮",
+        "reading": "しお",
+        "meaning": "thủy triều, dòng chảy, nước biển, cơ hội, cơ hội, súp loãng cá hoặc động vật có vỏ luộc trong nước biển"
+      },
+      {
+        "example": "夕潮",
+        "reading": "ゆうしお",
+        "meaning": "thủy triều buổi tối"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "夕",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27728_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c50.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c50.gif",
+    "uri": "https://jisho.org/search/%E6%B1%90%23kanji"
+  }
+}

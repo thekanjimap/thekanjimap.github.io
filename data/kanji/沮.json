@@ -1,0 +1,52 @@
+{
+  "id": "沮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "沮",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "dừng lại, ngăn chặn, đánh bại, chán nản",
+    "kunyomi": [
+      "はば.む"
+    ],
+    "onyomi": [
+      "ソ",
+      "ショ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "阻止",
+        "reading": "ソシ",
+        "meaning": "cản trở,ngăn ngừa,cản trở,kiểm tra,ngăn chặn,ngăn chặn"
+      },
+      {
+        "example": "沮害",
+        "reading": "ソガイ",
+        "meaning": "kiểm tra, cản trở, cản trở, cản trở"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "阻む",
+        "reading": "はばむ",
+        "meaning": "ngăn chặn ai đó làm, ngăn chặn, ngăn chặn, kiểm tra, cản trở, cản trở, phản đối, cản trở"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "汁",
+      "目"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27822_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06cae.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6cae.gif",
+    "uri": "https://jisho.org/search/%E6%B2%AE%23kanji"
+  }
+}

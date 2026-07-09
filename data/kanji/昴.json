@@ -1,0 +1,59 @@
+{
+  "id": "昴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "昴",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 9,
+    "meaning": "Pleiades",
+    "kunyomi": [
+      "すばる"
+    ],
+    "onyomi": [
+      "コウ",
+      "ボウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "昴",
+        "reading": "スバル",
+        "meaning": "Chòm sao \"Đầu lông\" Trung Quốc (một trong 28 biệt thự), Pleiades, Bảy chị em"
+      },
+      {
+        "example": "昴宿",
+        "reading": "ボウシュク",
+        "meaning": "Chòm sao \"Đầu lông\" Trung Quốc (một trong 28 biệt thự), Pleiades, Bảy chị em"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "昴",
+        "reading": "すばる",
+        "meaning": "Chòm sao \"Đầu lông\" Trung Quốc (một trong 28 biệt thự), Pleiades, Bảy chị em"
+      },
+      {
+        "example": "昴星",
+        "reading": "ぼうせい",
+        "meaning": "Chòm sao \"Đầu lông\" Trung Quốc (một trong 28 biệt thự), Pleiades, Bảy chị em"
+      },
+      {
+        "example": "寒昴",
+        "reading": "かんすばる",
+        "meaning": "Pleiades (đặc biệt vào mùa đông)"
+      }
+    ],
+    "radical": {
+      "symbol": "日",
+      "meaning": "mặt trời, ngày"
+    },
+    "parts": [
+      "卩",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26164_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06634.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6634.gif",
+    "uri": "https://jisho.org/search/%E6%98%B4%23kanji"
+  }
+}

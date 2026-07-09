@@ -1,0 +1,64 @@
+{
+  "id": "唖",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "唖",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "câm, câm",
+    "kunyomi": [
+      "おし"
+    ],
+    "onyomi": [
+      "ア",
+      "アク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "唖",
+        "reading": "オシ",
+        "meaning": "sự câm, sự câm, sự câm, sự câm điếc"
+      },
+      {
+        "example": "唖々",
+        "reading": "アア",
+        "meaning": "caw (của một con quạ, v.v.)"
+      },
+      {
+        "example": "唖々",
+        "reading": "アア",
+        "meaning": "caw (của một con quạ, v.v.)"
+      },
+      {
+        "example": "盲唖",
+        "reading": "モウア",
+        "meaning": "mù và câm"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "唖",
+        "reading": "おし",
+        "meaning": "sự câm, sự câm, sự câm, sự câm điếc"
+      },
+      {
+        "example": "唖蝉",
+        "reading": "おしぜみ",
+        "meaning": "ve sầu không tiếng (nữ), ve sầu châu Á"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "一",
+      "口",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21782_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05516.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5516.gif",
+    "uri": "https://jisho.org/search/%E5%94%96%23kanji"
+  }
+}

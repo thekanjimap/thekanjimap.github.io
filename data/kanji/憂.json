@@ -1,0 +1,96 @@
+{
+  "id": "憂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "憂",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1625",
+    "strokeCount": 15,
+    "meaning": "u sầu, đau buồn, than thở, lo lắng, buồn bã, không vui",
+    "kunyomi": [
+      "うれ.える",
+      "うれ.い",
+      "う.い",
+      "う.き"
+    ],
+    "onyomi": [
+      "ユウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "憂慮",
+        "reading": "ユウリョ",
+        "meaning": "sự lo lắng, sự lo lắng, sự sợ hãi"
+      },
+      {
+        "example": "憂鬱",
+        "reading": "ユウウツ",
+        "meaning": "sự chán nản, sự u sầu, sự chán nản, sự u ám, sự chán nản"
+      },
+      {
+        "example": "外憂",
+        "reading": "ガイユウ",
+        "meaning": "những rắc rối bên ngoài, mối đe dọa từ bên ngoài"
+      },
+      {
+        "example": "内憂",
+        "reading": "ナイユウ",
+        "meaning": "nội bộ, mâu thuẫn nội bộ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "憂える",
+        "reading": "うれえる",
+        "meaning": "lo lắng, lo lắng, lo lắng, than thở, đau buồn, cảm thấy buồn phiền về"
+      },
+      {
+        "example": "憂い",
+        "reading": "うれい",
+        "meaning": "nỗi buồn, sự đau buồn, nỗi thống khổ, sự đau khổ, sự lo lắng, lo lắng, rắc rối, đau khổ, sợ hãi, nghi ngờ"
+      },
+      {
+        "example": "憂い顔",
+        "reading": "うれいがお",
+        "meaning": "vẻ mặt buồn bã, vẻ mặt buồn bã, vẻ mặt lo lắng, vẻ mặt buồn bã"
+      },
+      {
+        "example": "憂い",
+        "reading": "うい",
+        "meaning": "không vui, buồn bã, ảm đạm"
+      },
+      {
+        "example": "憂き",
+        "reading": "うき",
+        "meaning": "không vui, buồn bã, ảm đạm"
+      },
+      {
+        "example": "憂き目",
+        "reading": "うきめ",
+        "meaning": "kinh nghiệm cay đắng, đau khổ, đau khổ, đau buồn, suy nghĩ buồn, khó khăn"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "一",
+      "冖",
+      "夂",
+      "心",
+      "白",
+      "自"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24962_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06182.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6182.gif",
+    "uri": "https://jisho.org/search/%E6%86%82%23kanji"
+  }
+}

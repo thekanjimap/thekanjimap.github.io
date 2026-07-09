@@ -1,0 +1,42 @@
+{
+  "id": "曩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "曩",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "trước đây, trước đó, trước đây, trước kia, quá khứ, trước đây",
+    "kunyomi": [
+      "さき.に"
+    ],
+    "onyomi": [
+      "ノウ",
+      "ドウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "先に",
+        "reading": "さきに",
+        "meaning": "trước đây, trước, trước đó, trước đây, gần đây, đầu tiên, trước (cái gì đó hoặc ai đó), trước (của), trước đó, trước, trước, trước thời hạn"
+      }
+    ],
+    "radical": {
+      "symbol": "日",
+      "meaning": "mặt trời, ngày"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "井",
+      "亠",
+      "日",
+      "衣",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26345_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/066e9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/66e9.gif",
+    "uri": "https://jisho.org/search/%E6%9B%A9%23kanji"
+  }
+}

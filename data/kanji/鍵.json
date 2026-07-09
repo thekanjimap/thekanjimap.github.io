@@ -1,0 +1,78 @@
+{
+  "id": "鍵",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鍵",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "newspaperFrequencyRank": "2029",
+    "strokeCount": 17,
+    "meaning": "chìa khóa",
+    "kunyomi": [
+      "かぎ"
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鍵",
+        "reading": "ケン",
+        "meaning": "phím (trên piano, organ, v.v.)"
+      },
+      {
+        "example": "鍵盤",
+        "reading": "ケンバン",
+        "meaning": "bàn phím (của đàn piano, máy đánh chữ...)"
+      },
+      {
+        "example": "打鍵",
+        "reading": "ダケン",
+        "meaning": "gõ phím"
+      },
+      {
+        "example": "黒鍵",
+        "reading": "コッケン",
+        "meaning": "phím đen (trên piano, organ, v.v.)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鍵",
+        "reading": "かぎ",
+        "meaning": "chìa khóa, ổ khóa, chìa khóa (của một vấn đề, thành công, v.v.), manh mối"
+      },
+      {
+        "example": "鍵垢",
+        "reading": "かぎアカ",
+        "meaning": "tài khoản riêng tư (trên mạng xã hội, đặc biệt là Twitter), tài khoản chỉ những người theo dõi được phê duyệt mới có thể xem"
+      },
+      {
+        "example": "公開鍵",
+        "reading": "こうかいかぎ",
+        "meaning": "khóa công khai"
+      },
+      {
+        "example": "暗号鍵",
+        "reading": "あんごうかぎ",
+        "meaning": "khóa mật mã, khóa mã hóa"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "kim loại, vàng"
+    },
+    "parts": [
+      "廴",
+      "聿",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37749_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09375.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9375.gif",
+    "uri": "https://jisho.org/search/%E9%8D%B5%23kanji"
+  }
+}

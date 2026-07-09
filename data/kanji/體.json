@@ -1,0 +1,66 @@
+{
+  "id": "體",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "體",
+    "found": true,
+    "strokeCount": 23,
+    "meaning": "cơ thể, chất liệu, vật thể, hiện thực",
+    "kunyomi": [
+      "からだ",
+      "かたち"
+    ],
+    "onyomi": [
+      "タイ",
+      "テイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "体術",
+        "reading": "タイジュツ",
+        "meaning": "hình thức võ thuật cổ điển"
+      },
+      {
+        "example": "身体",
+        "reading": "シンタイ",
+        "meaning": "cơ thể, hệ thống vật lý, (người)"
+      },
+      {
+        "example": "旧字体",
+        "reading": "キュウジタイ",
+        "meaning": "dạng ký tự cũ, kyūjitai, dạng chữ kanji truyền thống được sử dụng ở Nhật Bản trước năm 1946"
+      },
+      {
+        "example": "身体",
+        "reading": "シンタイ",
+        "meaning": "cơ thể, hệ thống vật lý, (người)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "体",
+        "reading": "からだ",
+        "meaning": "cơ thể, thân xác, thân cây, xây dựng, vóc dáng, khung, nhân vật, sức khỏe, hiến pháp"
+      }
+    ],
+    "radical": {
+      "symbol": "骨",
+      "meaning": "khúc xương"
+    },
+    "parts": [
+      "冂",
+      "冖",
+      "口",
+      "并",
+      "日",
+      "月",
+      "豆",
+      "骨",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39636_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ad4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ad4.gif",
+    "uri": "https://jisho.org/search/%E9%AB%94%23kanji"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "旬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "旬",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1162",
+    "strokeCount": 6,
+    "meaning": "decameron, khoảng thời gian mười ngày, mùa (đối với các sản phẩm cụ thể)",
+    "kunyomi": [],
+    "onyomi": [
+      "ジュン",
+      "シュン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "旬",
+        "reading": "ジュン",
+        "meaning": "thời gian mười ngày (trong một tháng), thời gian mười năm (trong một tuổi), thập kỷ"
+      },
+      {
+        "example": "旬報",
+        "reading": "ジュンポウ",
+        "meaning": "báo cáo mười ngày"
+      },
+      {
+        "example": "初旬",
+        "reading": "ショジュン",
+        "meaning": "10 ngày đầu tháng"
+      },
+      {
+        "example": "一旬",
+        "reading": "イチジュン",
+        "meaning": "mười ngày"
+      },
+      {
+        "example": "旬",
+        "reading": "シュン",
+        "meaning": "mùa (đối với trái cây, hải sản, v.v.), thời điểm tốt nhất trong năm (đối với), thịnh hành, phổ biến, nóng, tươi"
+      },
+      {
+        "example": "旬の魚",
+        "reading": "シュンノサカナ",
+        "meaning": "cá vào mùa"
+      },
+      {
+        "example": "最旬",
+        "reading": "サイシュン",
+        "meaning": "nóng nhất (ví dụ: thời trang), mới nhất, thịnh hành"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "日",
+      "meaning": "mặt trời, ngày"
+    },
+    "parts": [
+      "勹",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26092_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065ec.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65ec.gif",
+    "uri": "https://jisho.org/search/%E6%97%AC%23kanji"
+  }
+}

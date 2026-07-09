@@ -1,0 +1,79 @@
+{
+  "id": "江",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "江",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "704",
+    "strokeCount": 6,
+    "meaning": "lạch, cửa vào, vịnh",
+    "kunyomi": [
+      "え"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "江",
+        "reading": "コウ",
+        "meaning": "sông lớn (đặc biệt là Dương Tử), Hồ Biwa"
+      },
+      {
+        "example": "江上",
+        "reading": "コウジョウ",
+        "meaning": "(trên) bờ một con sông lớn"
+      },
+      {
+        "example": "長江",
+        "reading": "チョウコウ",
+        "meaning": "Sông Dương Tử (Trung Quốc), sông Trường Giang"
+      },
+      {
+        "example": "三角江",
+        "reading": "サンカクコウ",
+        "meaning": "cửa sông"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "江",
+        "reading": "え",
+        "meaning": "cửa vào, vịnh"
+      },
+      {
+        "example": "縁",
+        "reading": "えん",
+        "meaning": "số phận, định mệnh (đặc biệt là một thế lực bí ẩn gắn kết hai người lại với nhau), mối quan hệ (ví dụ: giữa hai người), sự ràng buộc, liên kết, kết nối, mối quan hệ gia đình, mối quan hệ, cơ hội, cơ hội (gặp ai đó và bắt đầu một mối quan hệ), pratyaya (điều kiện gián tiếp, trái ngược với nguyên nhân trực tiếp), hiên hẹp ngoài trời"
+      },
+      {
+        "example": "堀江",
+        "reading": "ほりえ",
+        "meaning": "con kênh"
+      },
+      {
+        "example": "松江",
+        "reading": "まつえ",
+        "meaning": "Matsue (thành phố ở Shimane)"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "工",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27743_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c5f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c5f.gif",
+    "uri": "https://jisho.org/search/%E6%B1%9F%23kanji"
+  }
+}

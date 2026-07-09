@@ -1,0 +1,43 @@
+{
+  "id": "麁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "麁",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "thô, thô, thô",
+    "kunyomi": [
+      "あら.い"
+    ],
+    "onyomi": [
+      "ソ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "粗",
+        "reading": "ソ",
+        "meaning": "thô, thô, thô, thô, chưa tinh chế"
+      },
+      {
+        "example": "粗品",
+        "reading": "ソシナ",
+        "meaning": "món quà nhỏ, món quà tầm thường, món quà do công ty tặng cho khách hàng để tri ân, khuyến khích tiếp thị, hàng kém chất lượng, mặt hàng kém chất lượng"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "鹿",
+      "meaning": "hươu"
+    },
+    "parts": [
+      "勹",
+      "广",
+      "比",
+      "鹿"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40577_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09e81.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9e81.gif",
+    "uri": "https://jisho.org/search/%E9%BA%81%23kanji"
+  }
+}

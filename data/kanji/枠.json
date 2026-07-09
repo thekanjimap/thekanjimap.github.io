@@ -1,0 +1,53 @@
+{
+  "id": "枠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "枠",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "922",
+    "strokeCount": 8,
+    "meaning": "khung, khung, trục xoay, ống cuộn, hộp giới hạn, (kokuji)",
+    "kunyomi": [
+      "わく"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "枠",
+        "reading": "わく",
+        "meaning": "khung, khung, đường viền, hộp, giới hạn, hạn chế, hạn ngạch, danh mục, khung, lớp, khe thời gian (trong lịch phát sóng), luồng, phát trực tiếp, phát trực tiếp, phát sóng trực tiếp (trực tuyến), cuộn (của chủ đề), cuộn"
+      },
+      {
+        "example": "枠外",
+        "reading": "わくがい",
+        "meaning": "(ngoài) giới hạn, phạm vi, ranh giới"
+      },
+      {
+        "example": "型枠",
+        "reading": "かたわく",
+        "meaning": "ván khuôn, ván khuôn, khuôn, khuôn, hình thức"
+      },
+      {
+        "example": "鋼枠",
+        "reading": "こうわく",
+        "meaning": "cốp pha thép, bộ thép"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "九",
+      "十",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26528_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067a0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67a0.gif",
+    "uri": "https://jisho.org/search/%E6%9E%A0%23kanji"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "髯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "髯",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "râu, ria mép",
+    "kunyomi": [
+      "ひげ"
+    ],
+    "onyomi": [
+      "ゼン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "肉髯",
+        "reading": "ニクゼン",
+        "meaning": "yếm (của cổ chim)"
+      },
+      {
+        "example": "白髯",
+        "reading": "ハクゼン",
+        "meaning": "râu trắng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "髭",
+        "reading": "ひげ",
+        "meaning": "ria mép, ria mép, râu, râu ria, tóc mai, râu ria (trên mèo, v.v.), râu (trên côn trùng, v.v.), (cằm) búi, bóng (trên biểu đồ nến)"
+      },
+      {
+        "example": "髯発条",
+        "reading": "ひげぜんまい",
+        "meaning": "lò xo cân bằng, dây tóc"
+      },
+      {
+        "example": "青ひげ",
+        "reading": "あおひげ",
+        "meaning": "sử dụng bút chì kẻ mày màu xanh để biểu thị nhân vật đã cạo má"
+      },
+      {
+        "example": "頬髭",
+        "reading": "ほおひげ",
+        "meaning": "râu ria, tóc mai, tủ búp phê"
+      }
+    ],
+    "radical": {
+      "symbol": "髟",
+      "meaning": "tóc dài"
+    },
+    "parts": [
+      "一",
+      "冂",
+      "十",
+      "厶",
+      "彡",
+      "長",
+      "髟",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39663_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09aef.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9aef.gif",
+    "uri": "https://jisho.org/search/%E9%AB%AF%23kanji"
+  }
+}

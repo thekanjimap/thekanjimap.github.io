@@ -1,0 +1,66 @@
+{
+  "id": "弔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "弔",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1840",
+    "strokeCount": 4,
+    "meaning": "chia buồn, tang lễ, tang lễ",
+    "kunyomi": [
+      "とむら.う",
+      "とぶら.う"
+    ],
+    "onyomi": [
+      "チョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "弔問",
+        "reading": "チョウモン",
+        "meaning": "gọi điện chia buồn, thăm gia đình tang quyến để chia buồn"
+      },
+      {
+        "example": "弔辞",
+        "reading": "チョウジ",
+        "meaning": "điện chia buồn, diễn văn tưởng niệm"
+      },
+      {
+        "example": "慶弔",
+        "reading": "ケイチョウ",
+        "meaning": "lời chúc mừng và chia buồn"
+      },
+      {
+        "example": "哀弔",
+        "reading": "アイチョウ",
+        "meaning": "thông cảm chia buồn"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "弔う",
+        "reading": "とむらう",
+        "meaning": "để thương tiếc, đau buồn, chia buồn với (gia đình tang quyến, v.v.), tổ chức lễ tưởng niệm, tổ chức tang lễ cho"
+      },
+      {
+        "example": "弔う",
+        "reading": "とむらう",
+        "meaning": "để thương tiếc, đau buồn, chia buồn với (gia đình tang quyến, v.v.), tổ chức lễ tưởng niệm, tổ chức tang lễ cho"
+      }
+    ],
+    "radical": {
+      "symbol": "弓",
+      "meaning": "cúi đầu"
+    },
+    "parts": [
+      "弓",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24340_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f14.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f14.gif",
+    "uri": "https://jisho.org/search/%E5%BC%94%23kanji"
+  }
+}

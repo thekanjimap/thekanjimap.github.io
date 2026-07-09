@@ -1,0 +1,63 @@
+{
+  "id": "鉾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鉾",
+    "found": true,
+    "newspaperFrequencyRank": "2453",
+    "strokeCount": 14,
+    "meaning": "kích, cánh tay, phao lễ hội",
+    "kunyomi": [
+      "ほこ"
+    ],
+    "onyomi": [
+      "ボウ",
+      "ム"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "木棒",
+        "reading": "キボウ",
+        "meaning": "thanh gỗ, cọc gỗ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "矛",
+        "reading": "ほこ",
+        "meaning": "giáo Trung Quốc cán dài, thương, giáo, vũ khí, cánh tay, chuôi cung, phao diễu hành được trang trí bằng giáo Trung Quốc cán dài"
+      },
+      {
+        "example": "矛先",
+        "reading": "ほこさき",
+        "meaning": "mũi giáo, mũi nhọn, trọng tâm (tấn công, chỉ trích, v.v.), mục tiêu, mục tiêu, sức mạnh, lực lượng (của một cuộc tranh luận), cạnh"
+      },
+      {
+        "example": "銅矛",
+        "reading": "どうほこ",
+        "meaning": "hoko đồng, kích đồng, mũi giáo đồng"
+      },
+      {
+        "example": "鯱",
+        "reading": "しゃちほこ",
+        "meaning": "shachihoko, shachi, con vật thần thoại có đầu hổ và mình cá, vật trang trí trên mái nhà có hình dạng shachihoko (được cho là có tác dụng bảo vệ khỏi lửa bằng cách gây mưa)"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "kim loại, vàng"
+    },
+    "parts": [
+      "厶",
+      "牛",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37502_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0927e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/927e.gif",
+    "uri": "https://jisho.org/search/%E9%89%BE%23kanji"
+  }
+}

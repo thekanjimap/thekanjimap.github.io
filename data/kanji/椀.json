@@ -1,0 +1,53 @@
+{
+  "id": "椀",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "椀",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "bát gỗ hoặc sơn mài",
+    "kunyomi": [
+      "はち"
+    ],
+    "onyomi": [
+      "ワン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "椀",
+        "reading": "ワン",
+        "meaning": "bát (bằng gỗ), quầy để bát thức ăn hoặc đồ uống"
+      },
+      {
+        "example": "椀形",
+        "reading": "ワンガタ",
+        "meaning": "hình bát, hình vòm"
+      },
+      {
+        "example": "お椀",
+        "reading": "オワン",
+        "meaning": "bát (bằng gỗ)"
+      },
+      {
+        "example": "飯椀",
+        "reading": "メシワン",
+        "meaning": "bát dùng để đựng cơm"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "卩",
+      "夕",
+      "宀",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26880_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06900.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6900.gif",
+    "uri": "https://jisho.org/search/%E6%A4%80%23kanji"
+  }
+}

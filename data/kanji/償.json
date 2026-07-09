@@ -1,0 +1,68 @@
+{
+  "id": "償",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "償",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "854",
+    "strokeCount": 17,
+    "meaning": "đền bù, đền bù, đền bù, chuộc lỗi",
+    "kunyomi": [
+      "つぐな.う"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "償却",
+        "reading": "ショウキャク",
+        "meaning": "sự hoàn trả, sự chuộc lại, sự khấu hao, sự trả dần, sự khấu hao"
+      },
+      {
+        "example": "償還",
+        "reading": "ショウカン",
+        "meaning": "sự hoàn trả, sự chuộc lại, sự khấu hao, sự khấu hao"
+      },
+      {
+        "example": "無償",
+        "reading": "ムショウ",
+        "meaning": "không có thù lao, không có phần thưởng, không phải trả tiền, miễn phí (miễn phí)"
+      },
+      {
+        "example": "有償",
+        "reading": "ユウショウ",
+        "meaning": "(liên quan) thanh toán, (liên quan) bồi thường, trả phí"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "償う",
+        "reading": "つぐなう",
+        "meaning": "đền bù, đền bù, đền bù, đền bù, chuộc lỗi (ví dụ: một lỗi lầm), chuộc lỗi"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "đàn ông, con người"
+    },
+    "parts": [
+      "ハ",
+      "冖",
+      "化",
+      "口",
+      "尚",
+      "目",
+      "貝"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20767_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0511f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/511f.gif",
+    "uri": "https://jisho.org/search/%E5%84%9F%23kanji"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "韓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "韓",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "newspaperFrequencyRank": "445",
+    "strokeCount": 18,
+    "meaning": "Hàn Quốc",
+    "kunyomi": [
+      "から",
+      "いげた"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "韓",
+        "reading": "カン",
+        "meaning": "Hàn Quốc, Hàn Quốc, Hán (nhà nước Trung Quốc cổ đại)"
+      },
+      {
+        "example": "韓国",
+        "reading": "カンコク",
+        "meaning": "Hàn Quốc, Hàn Quốc, Đế quốc Triều Tiên (1897-1910)"
+      },
+      {
+        "example": "日韓",
+        "reading": "ニッカン",
+        "meaning": "Nhật Bản và Hàn Quốc, Nhật Bản-Hàn Quốc"
+      },
+      {
+        "example": "在韓",
+        "reading": "ザイカン",
+        "meaning": "cư trú tại Hàn Quốc, nằm ở Hàn Quốc"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "唐",
+        "reading": "から",
+        "meaning": "Trung Quốc (đôi khi cũng được sử dụng để chỉ Hàn Quốc hoặc các nước khác)"
+      },
+      {
+        "example": "唐国",
+        "reading": "からくに",
+        "meaning": "Trung Quốc, Hàn Quốc"
+      }
+    ],
+    "radical": {
+      "symbol": "韋",
+      "meaning": "da rám nắng"
+    },
+    "parts": [
+      "十",
+      "口",
+      "日",
+      "韋"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38867_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/097d3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/97d3.gif",
+    "uri": "https://jisho.org/search/%E9%9F%93%23kanji"
+  }
+}

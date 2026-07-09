@@ -1,0 +1,57 @@
+{
+  "id": "蟲",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蟲",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "côn trùng, bọ, tính khí",
+    "kunyomi": [
+      "むし"
+    ],
+    "onyomi": [
+      "チュウ",
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "虫国",
+        "reading": "チュウゴク",
+        "meaning": "Trung Quốc"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "虫",
+        "reading": "むし",
+        "meaning": "côn trùng, bọ, dế, bướm đêm, sâu, giun đũa, vật bên trong cơ thể con người được cho là có ảnh hưởng đến suy nghĩ và cảm xúc của con người, vô thức (của một người), lo lắng, bồn chồn, người hết lòng vì một thứ, người chuyên tâm, lõi van, mushi (loại trò chơi chơi với bộ bài bị tước bỏ)"
+      },
+      {
+        "example": "虫出し",
+        "reading": "むしだし",
+        "meaning": "Cơn giông mùa xuân đầu tiên trong năm"
+      },
+      {
+        "example": "屁放き虫",
+        "reading": "へこきむし",
+        "meaning": "bọ xít hôi thối (đặc biệt là bọ oanh tạc), bọ xít hôi thối"
+      },
+      {
+        "example": "地虫",
+        "reading": "じむし",
+        "meaning": "sâu bọ Scarabaeid, bất kỳ loài côn trùng nào (hoặc sâu, v.v.) sống trong đất"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "côn trùng"
+    },
+    "parts": [
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34802_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/087f2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/87f2.gif",
+    "uri": "https://jisho.org/search/%E8%9F%B2%23kanji"
+  }
+}

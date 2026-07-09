@@ -1,0 +1,62 @@
+{
+  "id": "諱",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "諱",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "tên thật (thật)",
+    "kunyomi": [
+      "いみな",
+      "い.む"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "忌諱",
+        "reading": "キキ",
+        "meaning": "không hài lòng, xúc phạm, xúc phạm, không thích"
+      },
+      {
+        "example": "避諱",
+        "reading": "ヒキ",
+        "meaning": "tránh sử dụng tên (cấm đặt tên ở Trung Quốc cổ đại)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "諱",
+        "reading": "いみな",
+        "meaning": "tên thật (của một người đã chết hoặc một quý tộc), tên truy tặng"
+      },
+      {
+        "example": "後の諱",
+        "reading": "のちのいみな",
+        "meaning": "tên truy tặng"
+      },
+      {
+        "example": "忌む",
+        "reading": "いむ",
+        "meaning": "tránh xa, tránh xa, ghét bỏ"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "lời nói"
+    },
+    "parts": [
+      "口",
+      "言",
+      "韋"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35569_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08af1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8af1.gif",
+    "uri": "https://jisho.org/search/%E8%AB%B1%23kanji"
+  }
+}

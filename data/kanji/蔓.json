@@ -1,0 +1,64 @@
+{
+  "id": "蔓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蔓",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "cây nho, gân, ảnh hưởng, kết nối, văn phòng tốt, lan rộng, ngổn ngang, phát triển mạnh, tràn lan, mạnh mẽ",
+    "kunyomi": [
+      "はびこ.る",
+      "つる"
+    ],
+    "onyomi": [
+      "マン",
+      "バン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蔓延",
+        "reading": "マンエン",
+        "meaning": "lây lan (ví dụ: một căn bệnh), sự lan tràn, sự lây lan, sự phát triển, lan rộng"
+      },
+      {
+        "example": "まん延防止",
+        "reading": "マンエンボウシ",
+        "meaning": "biện pháp bán khẩn cấp phòng chống dịch bệnh Covid-19"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蔓延る",
+        "reading": "はびこる",
+        "meaning": "trở nên phát triển quá mức, phát triển dày đặc, lan rộng, lan tràn, phát triển mạnh, chiếm ưu thế, trở nên mạnh mẽ"
+      },
+      {
+        "example": "蔓",
+        "reading": "つる",
+        "meaning": "cây nho, cây xương rồng, gân, dây chạy, cây cung, cánh tay đền, mặt bên, tay vấu, tai nghe, một phần của cặp kính đeo qua tai, kết nối, tiếp xúc, ảnh hưởng, người hỗ trợ tài chính"
+      },
+      {
+        "example": "蔓脚類",
+        "reading": "まんきゃくるい",
+        "meaning": "Cirripedia, hà"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "又",
+      "日",
+      "艾",
+      "買"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34067_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08513.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8513.gif",
+    "uri": "https://jisho.org/search/%E8%94%93%23kanji"
+  }
+}

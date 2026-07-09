@@ -1,0 +1,79 @@
+{
+  "id": "添",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "添",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1501",
+    "strokeCount": 11,
+    "meaning": "sáp nhập, đi cùng, kết hôn, phù hợp, gặp gỡ, thỏa mãn, đính kèm, nối thêm, trang trí, bắt chước",
+    "kunyomi": [
+      "そ.える",
+      "そ.う"
+    ],
+    "onyomi": [
+      "テン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "添乗",
+        "reading": "テンジョウ",
+        "meaning": "đi cùng (trong một chuyến đi), hộ tống (một đoàn du lịch)"
+      },
+      {
+        "example": "添加物",
+        "reading": "テンカブツ",
+        "meaning": "phụ gia"
+      },
+      {
+        "example": "水添",
+        "reading": "スイテン",
+        "meaning": "hydro hóa"
+      },
+      {
+        "example": "別添",
+        "reading": "ベッテン",
+        "meaning": "phụ lục, phụ lục, phụ lục, phụ lục"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "添える",
+        "reading": "そえる",
+        "meaning": "trang trí, đi cùng (như một tấm thiệp làm một món quà), thêm vào như một sự hỗ trợ, chống đỡ, đi cùng (như một sự trợ giúp, hướng dẫn, phiên dịch, v.v.), bắt chước, bắt chước, kéo một cái gì đó lại gần mình, đến gần"
+      },
+      {
+        "example": "添う",
+        "reading": "そう",
+        "meaning": "đáp ứng (mong muốn, kỳ vọng, v.v.), thỏa mãn, tuân thủ, sống theo, đi cùng, đi cùng, ở bên cạnh một ai đó, liên kết với (ai đó), hòa nhập với, kết hôn, kết hôn, được thêm vào"
+      },
+      {
+        "example": "添水",
+        "reading": "そうず",
+        "meaning": "Ống tre chứa đầy nước trong khu vườn Nhật Bản phát ra tiếng kêu lạch cạch khi đổ nước vào đá"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "二",
+      "大",
+      "心",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28155_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06dfb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6dfb.gif",
+    "uri": "https://jisho.org/search/%E6%B7%BB%23kanji"
+  }
+}

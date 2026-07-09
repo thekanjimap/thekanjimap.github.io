@@ -1,0 +1,64 @@
+{
+  "id": "闘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "闘",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "751",
+    "strokeCount": 18,
+    "meaning": "chiến đấu, chiến tranh",
+    "kunyomi": [
+      "たたか.う",
+      "あらそ.う"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "闘士",
+        "reading": "トウシ",
+        "meaning": "võ sĩ (cho), chiến binh, nhà vô địch (của), võ sĩ"
+      },
+      {
+        "example": "闘志",
+        "reading": "トウシ",
+        "meaning": "tinh thần chiến đấu, (ý chí) chiến đấu"
+      },
+      {
+        "example": "敢闘",
+        "reading": "カントウ",
+        "meaning": "chiến đấu dũng cảm"
+      },
+      {
+        "example": "共闘",
+        "reading": "キョウトウ",
+        "meaning": "đấu tranh chung, mặt trận chung (thống nhất)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "戦う",
+        "reading": "たたかう",
+        "meaning": "gây chiến (trên), tiến hành chiến tranh (chống lại), đi chiến tranh (với), chiến đấu (với), chiến đấu (chống lại), cạnh tranh (chống lại), đấu tranh (chống lại nghịch cảnh, v.v.), chiến đấu, tranh đấu, chống lại"
+      }
+    ],
+    "radical": {
+      "symbol": "門",
+      "meaning": "cánh cổng"
+    },
+    "parts": [
+      "口",
+      "寸",
+      "并",
+      "豆",
+      "門"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38360_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095d8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95d8.gif",
+    "uri": "https://jisho.org/search/%E9%97%98%23kanji"
+  }
+}

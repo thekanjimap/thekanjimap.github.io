@@ -1,0 +1,51 @@
+{
+  "id": "葭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "葭",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "cây sậy",
+    "kunyomi": [
+      "よし",
+      "あし"
+    ],
+    "onyomi": [
+      "カ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "葦",
+        "reading": "あし",
+        "meaning": "sậy thông thường (Phragmites australis)"
+      },
+      {
+        "example": "葭切",
+        "reading": "よしきり",
+        "meaning": "Chích sậy (đặc biệt là chích sậy lớn, nhưng cũng có thể là chích sậy trán đen)"
+      },
+      {
+        "example": "葦",
+        "reading": "あし",
+        "meaning": "sậy thông thường (Phragmites australis)"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "又",
+      "艾",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33901_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0846d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/846d.gif",
+    "uri": "https://jisho.org/search/%E8%91%AD%23kanji"
+  }
+}

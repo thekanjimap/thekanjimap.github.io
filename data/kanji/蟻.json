@@ -1,0 +1,78 @@
+{
+  "id": "蟻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蟻",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "kiến",
+    "kunyomi": [
+      "あり"
+    ],
+    "onyomi": [
+      "ギ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蟻酸",
+        "reading": "ギサン",
+        "meaning": "axit formic, formic"
+      },
+      {
+        "example": "蟻蚕",
+        "reading": "ギサン",
+        "meaning": "tằm (ở tuổi thứ nhất hoặc thứ hai)"
+      },
+      {
+        "example": "兵蟻",
+        "reading": "ヘイギ",
+        "meaning": "kiến lính"
+      },
+      {
+        "example": "防蟻",
+        "reading": "ボウギ",
+        "meaning": "phòng chống kiến, diệt kiến, diệt mối"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蟻",
+        "reading": "あり",
+        "meaning": "kiến"
+      },
+      {
+        "example": "アリ学",
+        "reading": "ありがく",
+        "meaning": "sinh thái học"
+      },
+      {
+        "example": "兵隊アリ",
+        "reading": "へいたいアリ",
+        "meaning": "kiến lính"
+      },
+      {
+        "example": "軍隊蟻",
+        "reading": "ぐんたいあり",
+        "meaning": "kiến quân đội, kiến lái xe"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "côn trùng"
+    },
+    "parts": [
+      "一",
+      "亅",
+      "并",
+      "戈",
+      "手",
+      "王",
+      "羊",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34811_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/087fb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/87fb.gif",
+    "uri": "https://jisho.org/search/%E8%9F%BB%23kanji"
+  }
+}

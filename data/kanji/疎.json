@@ -1,0 +1,79 @@
+{
+  "id": "疎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "疎",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1572",
+    "strokeCount": 12,
+    "meaning": "xa lánh, thô bạo, bỏ bê, xa lánh, thưa thớt, thâm nhập",
+    "kunyomi": [
+      "うと.い",
+      "うと.む",
+      "まば.ら"
+    ],
+    "onyomi": [
+      "ソ",
+      "ショ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "疎",
+        "reading": "ソ",
+        "meaning": "thưa thớt, xa cách (trong một mối quan hệ), xa lạ, xa lánh"
+      },
+      {
+        "example": "疎開",
+        "reading": "ソカイ",
+        "meaning": "sơ tán (về nước), dàn quân (quân đội), triển khai, phân tán"
+      },
+      {
+        "example": "過疎",
+        "reading": "カソ",
+        "meaning": "thiếu dân số, mật độ dân số thấp, suy giảm dân số"
+      },
+      {
+        "example": "空疎",
+        "reading": "クウソ",
+        "meaning": "trống rỗng (ví dụ: lập luận), không có thực chất, rỗng tuếch, không có kết quả"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "疎い",
+        "reading": "うとい",
+        "meaning": "xa (với ai đó), xa cách, ghẻ lạnh, biết ít (về), không hiểu biết (về), không biết gì (về), không quen (với), không quen (với)"
+      },
+      {
+        "example": "疎む",
+        "reading": "うとむ",
+        "meaning": "xa lánh, tránh xa, tẩy chay, bỏ bê, tránh xa, trao cho mình một bờ vai cứng rắn"
+      },
+      {
+        "example": "疎ら",
+        "reading": "まばら",
+        "meaning": "thưa thớt, thưa thớt, thưa thớt, rải rác, rải rác"
+      }
+    ],
+    "radical": {
+      "symbol": "疋",
+      "forms": [
+        "⺪"
+      ],
+      "meaning": "chốt vải"
+    },
+    "parts": [
+      "一",
+      "口",
+      "木",
+      "止",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30094_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0758e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/758e.gif",
+    "uri": "https://jisho.org/search/%E7%96%8E%23kanji"
+  }
+}

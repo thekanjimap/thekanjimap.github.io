@@ -1,0 +1,45 @@
+{
+  "id": "鞴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鞴",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "ống thổi",
+    "kunyomi": [
+      "ふいご"
+    ],
+    "onyomi": [
+      "ヒ",
+      "ビ",
+      "フク"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鞴",
+        "reading": "ふいご",
+        "meaning": "(cặp) ống thổi"
+      },
+      {
+        "example": "ふいご祭",
+        "reading": "ふいごまつり",
+        "meaning": "Lễ hội Chuông, lễ hội dành cho thợ rèn và thợ đúc vào ngày 8 tháng 11 âm lịch, vào ngày đó họ sẽ lau chùi ống thổi và cầu nguyện"
+      }
+    ],
+    "radical": {
+      "symbol": "革",
+      "meaning": "da, da thô"
+    },
+    "parts": [
+      "厂",
+      "用",
+      "艾",
+      "革"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38836_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/097b4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/97b4.gif",
+    "uri": "https://jisho.org/search/%E9%9E%B4%23kanji"
+  }
+}

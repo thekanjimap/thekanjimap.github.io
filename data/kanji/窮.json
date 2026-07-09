@@ -1,0 +1,92 @@
+{
+  "id": "窮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "窮",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1756",
+    "strokeCount": 15,
+    "meaning": "khó khăn, cơ cực, đau khổ, bối rối, bị dồn vào chân tường",
+    "kunyomi": [
+      "きわ.める",
+      "きわ.まる",
+      "きわ.まり",
+      "きわ.み"
+    ],
+    "onyomi": [
+      "キュウ",
+      "キョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "窮屈",
+        "reading": "キュウクツ",
+        "meaning": "chật hẹp, chặt chẽ, chật chội, trang trọng, cứng nhắc, nghiêm ngặt, nghi lễ, cứng nhắc, gò bó, không thoải mái, chặt chẽ (ví dụ: tài chính)"
+      },
+      {
+        "example": "究極",
+        "reading": "キュウキョク",
+        "meaning": "cuối cùng, cuối cùng, cuối cùng, cuối cùng"
+      },
+      {
+        "example": "無窮",
+        "reading": "ムキュウ",
+        "meaning": "sự vĩnh cửu, sự vô tận, sự bất tử"
+      },
+      {
+        "example": "天壌無窮",
+        "reading": "テンジョウムキュウ",
+        "meaning": "vĩnh cửu như trời và đất"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "極める",
+        "reading": "きわめる",
+        "meaning": "đi đến cực đoan, đi đến tận cùng của một cái gì đó, đạt đến giới hạn của một cái gì đó, đạt đến đỉnh cao của một cái gì đó (ví dụ: sang trọng, khó khăn, v.v.), cực kỳ (ví dụ: bận rộn), kiệt sức hoàn toàn, không còn gì (ví dụ: để nói)"
+      },
+      {
+        "example": "極まる",
+        "reading": "きわまる",
+        "meaning": "đạt đến cực điểm, đạt đến giới hạn, chấm dứt, đi đến kết thúc, cực kỳ, bị mắc kẹt, rơi vào tình thế tiến thoái lưỡng nan, thua lỗ, được quyết định, được giải quyết"
+      },
+      {
+        "example": "極まり",
+        "reading": "きわまり",
+        "meaning": "cực, điểm cuối, giới hạn, giới hạn"
+      },
+      {
+        "example": "極まりない",
+        "reading": "きわまりない",
+        "meaning": "cực kỳ, cực độ, không có giới hạn (ví dụ: sự thô lỗ), vô song, vô biên (ví dụ: vũ trụ, đại dương), vô hạn"
+      },
+      {
+        "example": "極み",
+        "reading": "きわみ",
+        "meaning": "chiều cao, acme, điểm cực trị, đỉnh, điểm cuối, giới hạn"
+      },
+      {
+        "example": "窮みなき",
+        "reading": "きわみなき",
+        "meaning": "không có giới hạn, vô tận"
+      }
+    ],
+    "radical": {
+      "symbol": "穴",
+      "meaning": "hang động"
+    },
+    "parts": [
+      "儿",
+      "宀",
+      "弓",
+      "穴",
+      "身"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31406_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07aae.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7aae.gif",
+    "uri": "https://jisho.org/search/%E7%AA%AE%23kanji"
+  }
+}

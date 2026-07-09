@@ -1,0 +1,60 @@
+{
+  "id": "債",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "債",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "728",
+    "strokeCount": 13,
+    "meaning": "trái phiếu, khoản vay, nợ",
+    "kunyomi": [],
+    "onyomi": [
+      "サイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "債",
+        "reading": "サイ",
+        "meaning": "nợ, cho vay"
+      },
+      {
+        "example": "債権",
+        "reading": "サイケン",
+        "meaning": "tín dụng, yêu cầu bồi thường"
+      },
+      {
+        "example": "割引債",
+        "reading": "ワリビキサイ",
+        "meaning": "trái phiếu chiết khấu"
+      },
+      {
+        "example": "起債",
+        "reading": "キサイ",
+        "meaning": "phát hành trái phiếu"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "đàn ông, con người"
+    },
+    "parts": [
+      "ハ",
+      "二",
+      "亠",
+      "化",
+      "土",
+      "目",
+      "貝"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20661_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050b5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50b5.gif",
+    "uri": "https://jisho.org/search/%E5%82%B5%23kanji"
+  }
+}

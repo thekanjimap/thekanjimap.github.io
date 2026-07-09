@@ -1,0 +1,58 @@
+{
+  "id": "菱",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "菱",
+    "found": true,
+    "newspaperFrequencyRank": "1229",
+    "strokeCount": 11,
+    "meaning": "kim cương (hình dạng), hạt dẻ nước, hình thoi",
+    "kunyomi": [
+      "ひし"
+    ],
+    "onyomi": [
+      "リョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "菱亜鉛鉱",
+        "reading": "リョウアエンコウ",
+        "meaning": "smithsonite, kẽm, szaskaite, calamine, quặng xương khô"
+      },
+      {
+        "example": "菱花",
+        "reading": "リョウカ",
+        "meaning": "hoa hạt dẻ nước, hoa cải nước"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "菱",
+        "reading": "ひし",
+        "meaning": "caltrop nước (đặc biệt là Trapa japonica), hạt dẻ nước, caltrop (vũ khí)"
+      },
+      {
+        "example": "菱垣廻船",
+        "reading": "ひがきかいせん",
+        "meaning": "rác lớn của Nhật Bản"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "儿",
+      "土",
+      "夂",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33777_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/083f1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/83f1.gif",
+    "uri": "https://jisho.org/search/%E8%8F%B1%23kanji"
+  }
+}

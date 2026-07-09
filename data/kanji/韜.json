@@ -1,0 +1,50 @@
+{
+  "id": "韜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "韜",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "túi, gói",
+    "kunyomi": [
+      "ゆぶくろ",
+      "ゆみぶくろ",
+      "つつ.む"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "韜晦",
+        "reading": "トウカイ",
+        "meaning": "che giấu tài năng, địa vị, ý định của mình, v.v., duy trì sự ẩn danh nghiêm ngặt, khiêm nhường"
+      },
+      {
+        "example": "韜晦趣味",
+        "reading": "トウカイシュミ",
+        "meaning": "có xu hướng che giấu bản thân, có xu hướng che giấu tài năng của mình"
+      },
+      {
+        "example": "天津鞴韜",
+        "reading": "テンシンフクトウ",
+        "meaning": "ống thổi (của) bến cảng hoàng gia, học thuyết Phật giáo Thần đạo"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "韋",
+      "meaning": "da rám nắng"
+    },
+    "parts": [
+      "口",
+      "爪",
+      "臼",
+      "韋"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38876_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/097dc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/97dc.gif",
+    "uri": "https://jisho.org/search/%E9%9F%9C%23kanji"
+  }
+}

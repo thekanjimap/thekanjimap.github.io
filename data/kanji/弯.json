@@ -1,0 +1,53 @@
+{
+  "id": "弯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "弯",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "đường cong, giương cung",
+    "kunyomi": [
+      "ひ.く"
+    ],
+    "onyomi": [
+      "ワン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "湾曲",
+        "reading": "ワンキョク",
+        "meaning": "đường cong, uốn cong, quanh co"
+      },
+      {
+        "example": "弯入",
+        "reading": "ワンニュウ",
+        "meaning": "vết lõm cong (đặc biệt ở dạ dày)"
+      },
+      {
+        "example": "大弯",
+        "reading": "ダイワン",
+        "meaning": "độ cong lớn hơn (của dạ dày), đường cong tâm thất lớn"
+      },
+      {
+        "example": "小弯",
+        "reading": "ショウワン",
+        "meaning": "độ cong nhỏ (của dạ dày), đường cong tâm thất nhỏ"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "弓",
+      "meaning": "cúi đầu"
+    },
+    "parts": [
+      "ハ",
+      "亠",
+      "弓",
+      "赤"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24367_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f2f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f2f.gif",
+    "uri": "https://jisho.org/search/%E5%BC%AF%23kanji"
+  }
+}

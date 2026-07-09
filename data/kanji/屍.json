@@ -1,0 +1,70 @@
+{
+  "id": "屍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "屍",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "xác chết",
+    "kunyomi": [
+      "しかばね"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "屍",
+        "reading": "シカバネ",
+        "meaning": "xác chết, kanji \"xác chết\" gốc"
+      },
+      {
+        "example": "死体",
+        "reading": "シタイ",
+        "meaning": "thi thể, thi thể, xác chết, xác chết"
+      },
+      {
+        "example": "死屍",
+        "reading": "シシ",
+        "meaning": "xác chết"
+      },
+      {
+        "example": "検死",
+        "reading": "ケンシ",
+        "meaning": "khám nghiệm tử thi, khám nghiệm tử thi (khám nghiệm), điều tra (điều tra viên), khám nghiệm thi thể để xác định xem tội phạm đã được thực hiện hay chưa"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "屍",
+        "reading": "しかばね",
+        "meaning": "xác chết, kanji \"xác chết\" gốc"
+      },
+      {
+        "example": "屍をさらす",
+        "reading": "しかばねをさらす",
+        "meaning": "chết trên chiến trường"
+      },
+      {
+        "example": "生ける屍",
+        "reading": "いけるしかばね",
+        "meaning": "xác sống"
+      }
+    ],
+    "radical": {
+      "symbol": "尸",
+      "meaning": "xác chết"
+    },
+    "parts": [
+      "一",
+      "匕",
+      "夕",
+      "尸",
+      "歹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23629_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c4d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c4d.gif",
+    "uri": "https://jisho.org/search/%E5%B1%8D%23kanji"
+  }
+}

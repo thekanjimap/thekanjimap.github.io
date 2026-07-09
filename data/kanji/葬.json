@@ -1,0 +1,66 @@
+{
+  "id": "葬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "葬",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "754",
+    "strokeCount": 12,
+    "meaning": "mai táng, chôn cất, gác lại",
+    "kunyomi": [
+      "ほうむ.る"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "葬",
+        "reading": "ソウ",
+        "meaning": "tang lễ"
+      },
+      {
+        "example": "葬儀",
+        "reading": "ソウギ",
+        "meaning": "tang lễ, dịch vụ tang lễ"
+      },
+      {
+        "example": "火葬",
+        "reading": "カソウ",
+        "meaning": "hỏa táng"
+      },
+      {
+        "example": "葬送",
+        "reading": "ソウソウ",
+        "meaning": "tham dự đám tang, tiễn người đã khuất, chôn cất hài cốt của ai đó, quan sát lễ chôn cất"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "葬る",
+        "reading": "ほうむる",
+        "meaning": "chôn, chôn, chôn, che đậy, im lặng, gác lại"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "一",
+      "匕",
+      "夕",
+      "廾",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33900_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0846c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/846c.gif",
+    "uri": "https://jisho.org/search/%E8%91%AC%23kanji"
+  }
+}

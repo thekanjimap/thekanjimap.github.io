@@ -1,0 +1,70 @@
+{
+  "id": "虞",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "虞",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "strokeCount": 13,
+    "meaning": "sự sợ hãi, sự lo lắng, sự lo lắng, sự quan tâm, sự mong đợi, sự cân nhắc",
+    "kunyomi": [
+      "おそれ",
+      "おもんぱか.る",
+      "はか.る",
+      "うれ.える",
+      "あざむ.く",
+      "あやま.る",
+      "のぞ.む",
+      "たの.しむ"
+    ],
+    "onyomi": [
+      "グ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "虞犯",
+        "reading": "グハン",
+        "meaning": "có khả năng phạm tội, trước khi phạm tội"
+      },
+      {
+        "example": "虞犯少年",
+        "reading": "グハンショウネン",
+        "meaning": "vị thành niên được coi là có khả năng phạm tội, vị thành niên trước khi phạm tội, người phạm tội"
+      },
+      {
+        "example": "憂虞",
+        "reading": "ユウグ",
+        "meaning": "lo lắng, sợ hãi"
+      },
+      {
+        "example": "不虞",
+        "reading": "フグ",
+        "meaning": "không lường trước được (sự kiện), bất ngờ (sự kiện), tai nạn"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "恐れ",
+        "reading": "おそれ",
+        "meaning": "sự sợ hãi, sự kinh hoàng, sự lo lắng, sự lo lắng, sự bất an, sự tôn kính"
+      }
+    ],
+    "radical": {
+      "symbol": "虍",
+      "meaning": "sọc hổ"
+    },
+    "parts": [
+      "ハ",
+      "匕",
+      "卜",
+      "厂",
+      "口",
+      "虍"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34398_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0865e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/865e.gif",
+    "uri": "https://jisho.org/search/%E8%99%9E%23kanji"
+  }
+}

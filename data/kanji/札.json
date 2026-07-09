@@ -1,0 +1,367 @@
+{
+  "id": "札",
+  "kanjialiveData": {
+    "_id": "54317b0e791eba5146ee4c99",
+    "_rev": "9-586670d23b4918b5ce9e532211fa4799",
+    "rad_name_ja": "きへん",
+    "grade": 4,
+    "hint_group": 1,
+    "kunyomi": "fuda",
+    "meaning": "thẻ, hóa đơn, tiền giấy, nhãn",
+    "kstroke": 5,
+    "examples": [
+      {
+        "japanese": "札（さつ）",
+        "meaning": {
+          "english": "tiền giấy"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/satsu-fuda_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/satsu-fuda_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/satsu-fuda_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/satsu-fuda_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "札束（さつたば）",
+        "meaning": {
+          "english": "cuộn tiền giấy"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/satsu-fuda_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/satsu-fuda_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/satsu-fuda_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/satsu-fuda_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "札入れ（さついれ）",
+        "meaning": {
+          "english": "ví, ví đựng tiền"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/satsu-fuda_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/satsu-fuda_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/satsu-fuda_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/satsu-fuda_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "偽札（にせさつ）",
+        "meaning": {
+          "english": "tiền giấy giả"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/satsu-fuda_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/satsu-fuda_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/satsu-fuda_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/satsu-fuda_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "標札（ひょうさつ）",
+        "meaning": {
+          "english": "biển tên, biển cửa"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/satsu-fuda_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/satsu-fuda_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/satsu-fuda_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/satsu-fuda_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "改札口（かいさつぐち）",
+        "meaning": {
+          "english": "rào chắn vé, wicket"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/satsu-fuda_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/satsu-fuda_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/satsu-fuda_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/satsu-fuda_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "千円札（せんえんさつ）",
+        "meaning": {
+          "english": "Tờ 1.000 yên"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/satsu-fuda_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/satsu-fuda_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/satsu-fuda_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/satsu-fuda_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "入札する（にゅうさつする）",
+        "meaning": {
+          "english": "giá thầu"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/satsu-fuda_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/satsu-fuda_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/satsu-fuda_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/satsu-fuda_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "落札する（らくさつする）",
+        "meaning": {
+          "english": "đấu giá thành công"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/satsu-fuda_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/satsu-fuda_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/satsu-fuda_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/satsu-fuda_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "札（ふだ）",
+        "meaning": {
+          "english": "lưu ý [n.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/satsu-fuda_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/satsu-fuda_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/satsu-fuda_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/satsu-fuda_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "値札（ねふだ）",
+        "meaning": {
+          "english": "thẻ giá"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/satsu-fuda_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/satsu-fuda_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/satsu-fuda_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/satsu-fuda_06_k.mp3"
+        }
+      },
+      {
+        "japanese": "名札（なふだ）",
+        "meaning": {
+          "english": "bảng tên, bảng tên"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/satsu-fuda_06_l.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/satsu-fuda_06_l.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/satsu-fuda_06_l.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/satsu-fuda_06_l.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "ふだ",
+    "ka_utf": "札",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=札",
+    "rad_name_search": [
+      "kihen"
+    ],
+    "rad_order": 98,
+    "txt_books": [],
+    "kname": "satsu-fuda",
+    "rad_utf": "",
+    "stroketimes": [
+      0,
+      1.4,
+      2.666667,
+      4,
+      4.933333,
+      8.8
+    ],
+    "kunyomi_ka_display": "ふだ",
+    "dick": "546",
+    "rad_name": "kihen",
+    "dicn": "2171",
+    "mn_hint": "Paper made from wood 木, used as money or a tag with a clip/hook 乚.",
+    "rad_stroke": 4,
+    "onyomi_ja": "サツ",
+    "rad_meaning": "cây, gỗ",
+    "onyomi": "satsu",
+    "ka_id": "ka_925",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "satsu",
+      "satsu"
+    ],
+    "kunyomi_search": [
+      "fuda",
+      "fuda"
+    ],
+    "meaning_search": [
+      "tag",
+      "bill",
+      "paper money",
+      "paper",
+      "money",
+      "label",
+      "tag, bill, paper money, label"
+    ],
+    "onyomi_ja_search": [
+      "サツ",
+      "サツ"
+    ],
+    "kunyomi_ja_search": [
+      "ふだ",
+      "ふだ"
+    ],
+    "rad_meaning_search": [
+      "tree",
+      "wood",
+      "tree, wood"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "きへん"
+    ],
+    "textbook_search": [],
+    "rad_name_file": "kihen",
+    "kanji": {
+      "character": "札",
+      "meaning": {
+        "english": "tag, bill, paper money, label"
+      },
+      "strokes": {
+        "count": 5,
+        "timings": [
+          0,
+          1.4,
+          2.666667,
+          4,
+          4.933333,
+          8.8
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/satsu-fuda_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/satsu-fuda_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/satsu-fuda_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/satsu-fuda_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/satsu-fuda_5.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "satsu",
+        "katakana": "サツ"
+      },
+      "kunyomi": {
+        "romaji": "fuda",
+        "hiragana": "ふだ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/satsu-fuda_5.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/satsu-fuda_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/satsu-fuda_00.webm"
+      }
+    },
+    "radical": {
+      "character": "",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/kihen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "きへん",
+        "romaji": "kihen"
+      },
+      "meaning": {
+        "english": "cây, gỗ"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/kihen0.svg",
+        "https://media.kanjialive.com/rad_frames/kihen1.svg",
+        "https://media.kanjialive.com/rad_frames/kihen2.svg"
+      ]
+    },
+    "references": {
+      "grade": 4,
+      "kodansha": "546",
+      "classic_nelson": "2171"
+    }
+  },
+  "jishoData": {
+    "query": "札",
+    "found": true,
+    "taughtIn": "lớp 4",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "921",
+    "strokeCount": 5,
+    "meaning": "thẻ, tiền giấy, quầy trái phiếu, bảng hiệu, giá thầu",
+    "kunyomi": [
+      "ふだ"
+    ],
+    "onyomi": [
+      "サツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "札",
+        "reading": "サツ",
+        "meaning": "tiền giấy, hóa đơn, ghi chú, tiền giấy"
+      },
+      {
+        "example": "札束",
+        "reading": "サツタバ",
+        "meaning": "bó tiền giấy, chồng hóa đơn, số tiền lớn"
+      },
+      {
+        "example": "落札",
+        "reading": "ラクサツ",
+        "meaning": "đấu thầu thành công, trúng thầu"
+      },
+      {
+        "example": "応札",
+        "reading": "オウサツ",
+        "meaning": "đấu giá, đấu thầu"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "札",
+        "reading": "ふだ",
+        "meaning": "Vé, mã thông báo, Kiểm tra, biên lai, nhãn, nhãn, ký tên, Thẻ, đĩa, chơi bài, quyến rũ, Bùa hộ mệnh, tờ giấy đăng trên cột đền thờ của người hành hương"
+      },
+      {
+        "example": "札所",
+        "reading": "ふだしょ",
+        "meaning": "ngôi chùa phát bùa hộ mệnh"
+      },
+      {
+        "example": "立て札",
+        "reading": "たてふだ",
+        "meaning": "ký tên trên một cột (thường bằng gỗ và có mái nhỏ, chứa thông tin về điểm tham quan, cảnh báo, chúc mừng, v.v.), thông báo công cộng, bảng thông báo, bảng thông báo"
+      },
+      {
+        "example": "合札",
+        "reading": "あいふだ",
+        "meaning": "kiểm tra (ví dụ: nhận hành lý), thẻ, mã thông báo, kiểm đếm, điểm số"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "乙",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26413_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0672d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/672d.gif",
+    "uri": "https://jisho.org/search/%E6%9C%AD%23kanji"
+  }
+}

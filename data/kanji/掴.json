@@ -1,0 +1,53 @@
+{
+  "id": "掴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "掴",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "bắt,bắt,bắt,bắt,bắt,bắt,bắt",
+    "kunyomi": [
+      "つか.む",
+      "つか.まえる",
+      "つか.まる"
+    ],
+    "onyomi": [
+      "カク"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "掴む",
+        "reading": "つかむ",
+        "meaning": "nắm bắt, nắm bắt, nắm bắt, nắm chặt, nắm lấy, nắm giữ, nắm giữ, bắt giữ, đặt tay lên, có được, có được, có được, giành chiến thắng, nắm bắt, hiểu, nắm bắt, hiểu rõ"
+      },
+      {
+        "example": "捕まえる",
+        "reading": "つかまえる",
+        "meaning": "bắt, tóm, tóm, tóm, kiềm chế, chộp, bám, tóm, tóm, giữ, bắt giữ (ai đó), dừng lại (ví dụ: một người lạ trên đường), gọi (taxi, bồi bàn, v.v.), giữ (ai đó) lại, giam giữ, hướng về (ai đó), vào (ai đó), vào mặt (ai đó)"
+      },
+      {
+        "example": "捕まる",
+        "reading": "つかまる",
+        "meaning": "bị bắt, bị bắt, bám vào, nắm bắt, tìm thấy (ví dụ: bằng chứng), để có được (ví dụ: một chiếc taxi), bị giam giữ bởi"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "丶",
+      "囗",
+      "扎",
+      "王"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25524_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063b4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63b4.gif",
+    "uri": "https://jisho.org/search/%E6%8E%B4%23kanji"
+  }
+}

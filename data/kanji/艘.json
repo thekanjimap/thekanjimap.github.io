@@ -1,0 +1,45 @@
+{
+  "id": "艘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "艘",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "quầy cho thuyền nhỏ",
+    "kunyomi": [
+      "ふね"
+    ],
+    "onyomi": [
+      "ショウ",
+      "シュウ",
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "艘",
+        "reading": "ソウ",
+        "meaning": "quầy tính tiền cho thuyền (nhỏ)"
+      },
+      {
+        "example": "一艘",
+        "reading": "イッソウ",
+        "meaning": "một chiếc thuyền, một con tàu"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "舟",
+      "meaning": "thuyền"
+    },
+    "parts": [
+      "又",
+      "支",
+      "日",
+      "舟"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33368_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08258.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8258.gif",
+    "uri": "https://jisho.org/search/%E8%89%98%23kanji"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "蓋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蓋",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "newspaperFrequencyRank": "2388",
+    "strokeCount": 13,
+    "meaning": "nắp, nắp, nắp",
+    "kunyomi": [
+      "ふた",
+      "けだ.し",
+      "おお.う",
+      "かさ",
+      "かこう"
+    ],
+    "onyomi": [
+      "ガイ",
+      "カイ",
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蓋果",
+        "reading": "ガイカ",
+        "meaning": "pyxidium"
+      },
+      {
+        "example": "蓋世",
+        "reading": "ガイセイ",
+        "meaning": "vô song (chủ nghĩa anh hùng, tinh thần, quyết tâm, v.v.), vô song, áp đảo, thống trị thế giới"
+      },
+      {
+        "example": "鰓蓋",
+        "reading": "エラブタ",
+        "meaning": "nắp mang, nắp mang"
+      },
+      {
+        "example": "口蓋",
+        "reading": "コウガイ",
+        "meaning": "vòm miệng"
+      },
+      {
+        "example": "蓋世",
+        "reading": "ガイセイ",
+        "meaning": "vô song (chủ nghĩa anh hùng, tinh thần, quyết tâm, v.v.), vô song, áp đảo, thống trị thế giới"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蓋",
+        "reading": "ふた",
+        "meaning": "nắp, nắp, nắp"
+      },
+      {
+        "example": "蓋開け",
+        "reading": "ふたあけ",
+        "meaning": "khai mạc, bắt đầu, bắt đầu"
+      },
+      {
+        "example": "ポケ蓋",
+        "reading": "ポケふた",
+        "meaning": "manhole cover decorated with Pokémon creatures"
+      },
+      {
+        "example": "臭い物に蓋",
+        "reading": "くさいものにふた",
+        "meaning": "nhìn đi hướng khác, che đậy một vấn đề"
+      },
+      {
+        "example": "蓋し",
+        "reading": "けだし",
+        "meaning": "chắc chắn, thực sự, thực sự, thực sự, có thể, có lẽ, có lẽ, có lẽ"
+      },
+      {
+        "example": "覆う",
+        "reading": "おおう",
+        "meaning": "che đậy, che giấu, che giấu, che đậy, ngụy trang"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "厶",
+      "土",
+      "皿",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33995_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084cb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84cb.gif",
+    "uri": "https://jisho.org/search/%E8%93%8B%23kanji"
+  }
+}

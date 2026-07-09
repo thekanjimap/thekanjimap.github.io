@@ -1,0 +1,72 @@
+{
+  "id": "懇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "懇",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1135",
+    "strokeCount": 17,
+    "meaning": "hòa đồng, tốt bụng, lịch sự, hiếu khách, thân mật",
+    "kunyomi": [
+      "ねんご.ろ"
+    ],
+    "onyomi": [
+      "コン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "懇談",
+        "reading": "コンダン",
+        "meaning": "trò chuyện thân thiện, trò chuyện thoải mái, cuộc gặp gỡ thân mật"
+      },
+      {
+        "example": "懇親",
+        "reading": "コンシン",
+        "meaning": "tình bạn, sự thân mật"
+      },
+      {
+        "example": "米懇",
+        "reading": "ベイコン",
+        "meaning": "Hội nghị bàn tròn về giá gạo"
+      },
+      {
+        "example": "昵懇",
+        "reading": "ジッコン",
+        "meaning": "sự thân mật, sự quen thuộc, sự gần gũi"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "懇ろ",
+        "reading": "ねんごろ",
+        "meaning": "tốt bụng, lịch sự, hiếu khách, tôn trọng nồng nhiệt, thân mật, trở nên thân mật, có một mối quan hệ thân mật (đôi khi đặc biệt là một mối quan hệ đồng giới)"
+      },
+      {
+        "example": "懇ろになる",
+        "reading": "ねんごろになる",
+        "meaning": "trở nên thân thiết với (ví dụ: một người phụ nữ), làm quen"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "心",
+      "爪",
+      "犯",
+      "艮",
+      "豸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25031_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061c7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61c7.gif",
+    "uri": "https://jisho.org/search/%E6%87%87%23kanji"
+  }
+}

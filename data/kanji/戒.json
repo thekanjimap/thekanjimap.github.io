@@ -1,0 +1,60 @@
+{
+  "id": "戒",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "戒",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1062",
+    "strokeCount": 7,
+    "meaning": "điều răn",
+    "kunyomi": [
+      "いまし.める"
+    ],
+    "onyomi": [
+      "カイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "戒",
+        "reading": "カイ",
+        "meaning": "lời khuyên răn, lời răn, sila (lời răn)"
+      },
+      {
+        "example": "戒厳令",
+        "reading": "カイゲンレイ",
+        "meaning": "thiết quân luật"
+      },
+      {
+        "example": "懲戒",
+        "reading": "チョウカイ",
+        "meaning": "kỷ luật, trừng phạt, khiển trách"
+      },
+      {
+        "example": "自戒",
+        "reading": "ジカイ",
+        "meaning": "tự khuyên nhủ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "戒める",
+        "reading": "いましめる",
+        "meaning": "cảnh báo, cảnh cáo, khiển trách, la mắng, quở trách, cấm đoán, ngăn cấm, cảnh giác, ghê tởm, ghê tởm, trừng phạt"
+      }
+    ],
+    "radical": {
+      "symbol": "戈",
+      "meaning": "giáo, kích"
+    },
+    "parts": [
+      "廾",
+      "戈"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25106_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06212.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6212.gif",
+    "uri": "https://jisho.org/search/%E6%88%92%23kanji"
+  }
+}

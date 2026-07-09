@@ -1,0 +1,86 @@
+{
+  "id": "堪",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "堪",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1953",
+    "strokeCount": 12,
+    "meaning": "chịu đựng, chịu đựng, chống đỡ, chống lại",
+    "kunyomi": [
+      "た.える",
+      "たま.る",
+      "こら.える",
+      "こた.える"
+    ],
+    "onyomi": [
+      "カン",
+      "タン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "堪忍袋",
+        "reading": "カンニンブクロ",
+        "meaning": "kho dự trữ kiên nhẫn của một người"
+      },
+      {
+        "example": "堪忍",
+        "reading": "カンニン",
+        "meaning": "nhẫn nại, nhẫn nại, chịu đựng, bao dung, tha thứ, tha thứ"
+      },
+      {
+        "example": "不堪",
+        "reading": "フカン",
+        "meaning": "sự bất tài"
+      },
+      {
+        "example": "堪能",
+        "reading": "タンノウ",
+        "meaning": "thành thạo, khéo léo, khéo léo, tốt, thành đạt, tận hưởng một cách trọn vẹn, hoàn toàn hài lòng, hài lòng (với), có đầy đủ (của) một người"
+      },
+      {
+        "example": "堪航能力",
+        "reading": "タンコウノウリョク",
+        "meaning": "khả năng đi biển"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "耐える",
+        "reading": "たえる",
+        "meaning": "chịu đựng, chịu đựng, chịu đựng, chịu đựng, chống đỡ, chịu đựng, kháng cự, dũng cảm, xứng đáng, ngang hàng với"
+      },
+      {
+        "example": "堪る",
+        "reading": "たまる",
+        "meaning": "chịu đựng, chịu đựng"
+      },
+      {
+        "example": "堪える",
+        "reading": "こらえる",
+        "meaning": "Chịu đựng, chịu đựng, chịu đựng, chịu đựng, kiềm chế, kiểm soát, kiểm soát, tha thứ, chịu đựng, tha thứ"
+      },
+      {
+        "example": "堪える",
+        "reading": "こらえる",
+        "meaning": "Chịu đựng, chịu đựng, chịu đựng, chịu đựng, kiềm chế, kiểm soát, kiểm soát, tha thứ, chịu đựng, tha thứ"
+      }
+    ],
+    "radical": {
+      "symbol": "土",
+      "meaning": "trái đất"
+    },
+    "parts": [
+      "儿",
+      "匚",
+      "土",
+      "甘"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22570_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0582a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/582a.gif",
+    "uri": "https://jisho.org/search/%E5%A0%AA%23kanji"
+  }
+}

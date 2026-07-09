@@ -1,0 +1,62 @@
+{
+  "id": "柿",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "柿",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "newspaperFrequencyRank": "1745",
+    "strokeCount": 9,
+    "meaning": "quả hồng",
+    "kunyomi": [
+      "かき"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "熟柿",
+        "reading": "ジュクシ",
+        "meaning": "hồng chín"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "柿",
+        "reading": "かき",
+        "meaning": "kaki, quả hồng Nhật Bản (Diospyros kaki)"
+      },
+      {
+        "example": "柿色",
+        "reading": "かきいろ",
+        "meaning": "nâu đỏ, nâu vàng"
+      },
+      {
+        "example": "筆柿",
+        "reading": "ふでがき",
+        "meaning": "fudegaki (các loại hồng ngọt Nhật Bản)"
+      },
+      {
+        "example": "ピー柿",
+        "reading": "ピーかき",
+        "meaning": "hỗn hợp đậu phộng và bánh mochi nướng hoặc chiên cay có hình dạng hạt kaki (quả hồng Nhật)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "亠",
+      "冂",
+      "巾",
+      "木",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26623_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067ff.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67ff.gif",
+    "uri": "https://jisho.org/search/%E6%9F%BF%23kanji"
+  }
+}

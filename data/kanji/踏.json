@@ -1,0 +1,72 @@
+{
+  "id": "踏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "踏",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "723",
+    "strokeCount": 15,
+    "meaning": "bước, chà đạp, thực hiện, thẩm định, trốn thanh toán",
+    "kunyomi": [
+      "ふ.む",
+      "ふ.まえる"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "踏破",
+        "reading": "トウハ",
+        "meaning": "đi du lịch (một hành trình dài và khó khăn) đi bộ, đi bộ (suốt con đường), đi xuyên qua, đi bộ xuyên qua, đi ngang qua, đi khắp nơi (ví dụ: một quốc gia), thăm tất cả các địa điểm chính (của một khu vực, v.v.)"
+      },
+      {
+        "example": "踏襲",
+        "reading": "トウシュウ",
+        "meaning": "tuân theo (tiền lệ, chính sách trước đây, v.v.), tiếp tục, bám sát, quan sát"
+      },
+      {
+        "example": "前人未到",
+        "reading": "ゼンジンミトウ",
+        "meaning": "chưa được khám phá (khu vực, lĩnh vực nghiên cứu, v.v.), chưa từng có (khám phá, thành tích, v.v.)"
+      },
+      {
+        "example": "高踏",
+        "reading": "コウトウ",
+        "meaning": "trí tuệ cao, xa cách, siêu việt"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "踏む",
+        "reading": "ふむ",
+        "meaning": "bước lên, giẫm lên, chà đạp, đặt chân lên (ví dụ: đất lạ), đứng trên, tham quan, trải nghiệm, trải qua, tuân theo (quy tắc, nguyên tắc, v.v.), đi qua (ví dụ: hình thức), hoàn thành, đánh giá, đoán, đánh giá, đánh giá, đánh giá, vần điệu, thành công (ví dụ: ngai vàng)"
+      },
+      {
+        "example": "踏まえる",
+        "reading": "ふまえる",
+        "meaning": "dựa vào, tính đến, xây dựng, có nguồn gốc từ, có đôi chân vững chắc, đặt mình trên đó"
+      }
+    ],
+    "radical": {
+      "symbol": "足",
+      "forms": [
+        "⻊"
+      ],
+      "meaning": "chân"
+    },
+    "parts": [
+      "口",
+      "日",
+      "止",
+      "水",
+      "足"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36367_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e0f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e0f.gif",
+    "uri": "https://jisho.org/search/%E8%B8%8F%23kanji"
+  }
+}

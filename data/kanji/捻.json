@@ -1,0 +1,78 @@
+{
+  "id": "捻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "捻",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "strokeCount": 11,
+    "meaning": "xoay, xoay, chơi với",
+    "kunyomi": [
+      "ね.じる",
+      "ねじ.る",
+      "ひね.くる",
+      "ひね.る"
+    ],
+    "onyomi": [
+      "ネン",
+      "ジョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "捻挫",
+        "reading": "ネンザ",
+        "meaning": "bong gân, xoắn, cờ lê"
+      },
+      {
+        "example": "捻軍",
+        "reading": "ネングン",
+        "meaning": "Cuộc nổi loạn Nian (của Trung Quốc; 1851-1868)"
+      },
+      {
+        "example": "揉捻",
+        "reading": "ジュウネン",
+        "meaning": "lăn lá trà mới hái, giã trà"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "捩る",
+        "reading": "ねじる",
+        "meaning": "vặn, vặn, vặn, làm bong gân"
+      },
+      {
+        "example": "捩る",
+        "reading": "ねじる",
+        "meaning": "vặn, vặn, vặn, làm bong gân"
+      },
+      {
+        "example": "捻くる",
+        "reading": "ひねくる",
+        "meaning": "xoay tròn, xoay tròn, vặn vẹo, thay đổi (ví dụ: từ ngữ)"
+      },
+      {
+        "example": "捻る",
+        "reading": "ひねる",
+        "meaning": "vặn, vặn, vặn (vòi, công tắc, v.v.), vặn (một bộ phận cơ thể), uốn cong, bong gân, bóp cổ (đến chết), vặn (cổ động vật), đánh bại dễ dàng, đánh bại, làm (một vấn đề, thiết kế, v.v.) phức tạp, làm đặc biệt, làm phức tạp, quản lý để sáng tác (một bài haiku, bài hát, v.v.), gói (một món quà bằng tiền) trong giấy"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "一",
+      "个",
+      "心",
+      "扎",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25467_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0637b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/637b.gif",
+    "uri": "https://jisho.org/search/%E6%8D%BB%23kanji"
+  }
+}

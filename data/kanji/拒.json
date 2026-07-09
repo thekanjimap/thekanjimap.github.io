@@ -1,0 +1,65 @@
+{
+  "id": "拒",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "拒",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "863",
+    "strokeCount": 8,
+    "meaning": "đẩy lùi, từ chối, bác bỏ, từ chối",
+    "kunyomi": [
+      "こば.む"
+    ],
+    "onyomi": [
+      "キョ",
+      "ゴ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "拒否",
+        "reading": "キョヒ",
+        "meaning": "từ chối, bác bỏ, phủ nhận, phủ quyết"
+      },
+      {
+        "example": "拒絶反応",
+        "reading": "キョゼツハンノウ",
+        "meaning": "(cấy ghép) sự từ chối, phản ứng mạnh mẽ (chống lại)"
+      },
+      {
+        "example": "抗拒",
+        "reading": "コウキョ",
+        "meaning": "sự phản kháng, sự phản đối"
+      },
+      {
+        "example": "着拒",
+        "reading": "チャッキョ",
+        "meaning": "chặn liên lạc (từ số điện thoại hoặc địa chỉ e-mail)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "拒む",
+        "reading": "こばむ",
+        "meaning": "từ chối, từ chối, từ chối, ngăn chặn (làm), từ chối (ví dụ: truy cập), chặn"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "匚",
+      "巨",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25298_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062d2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62d2.gif",
+    "uri": "https://jisho.org/search/%E6%8B%92%23kanji"
+  }
+}

@@ -1,0 +1,386 @@
+{
+  "id": "量",
+  "kanjialiveData": {
+    "_id": "54317af7791eba5146ee4af3",
+    "_rev": "11-db0f35095e9ddebbbc62a3daa6ecb2dc",
+    "rad_name_ja": "さと",
+    "grade": 4,
+    "hint_group": 1,
+    "kunyomi": "hakaru, hakari, haka",
+    "meaning": "số lượng, đo, cân",
+    "kstroke": 12,
+    "examples": [
+      {
+        "japanese": "量（りょう）",
+        "meaning": {
+          "english": "số lượng, số tiền"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(suu)ryou_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(suu)ryou_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(suu)ryou_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(suu)ryou_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "数量（すうりょう）",
+        "meaning": {
+          "english": "số lượng, số lượng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(suu)ryou_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(suu)ryou_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(suu)ryou_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(suu)ryou_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "重量（じゅうりょう）",
+        "meaning": {
+          "english": "trọng lượng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(suu)ryou_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(suu)ryou_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(suu)ryou_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(suu)ryou_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "交通量（こうつうりょう）",
+        "meaning": {
+          "english": "lưu lượng giao thông"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(suu)ryou_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(suu)ryou_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(suu)ryou_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(suu)ryou_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "消費量（しょうひりょう）",
+        "meaning": {
+          "english": "lượng tiêu thụ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(suu)ryou_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(suu)ryou_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(suu)ryou_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(suu)ryou_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "大量な（たいりょうな）",
+        "meaning": {
+          "english": "lớn (số lượng)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(suu)ryou_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(suu)ryou_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(suu)ryou_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(suu)ryou_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "量産する（りょうさんする）",
+        "meaning": {
+          "english": "sản xuất với số lượng lớn"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(suu)ryou_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(suu)ryou_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(suu)ryou_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(suu)ryou_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "測量する（そくりょうする）",
+        "meaning": {
+          "english": "đo lường"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(suu)ryou_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(suu)ryou_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(suu)ryou_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(suu)ryou_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "推量する（すいりょうする）",
+        "meaning": {
+          "english": "đoán"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(suu)ryou_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(suu)ryou_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(suu)ryou_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(suu)ryou_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "量る（はかる）",
+        "meaning": {
+          "english": "đo, cân"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(suu)ryou_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(suu)ryou_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(suu)ryou_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(suu)ryou_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "推し量る（おしはかる）",
+        "meaning": {
+          "english": "phỏng đoán, phỏng đoán"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(suu)ryou_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(suu)ryou_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(suu)ryou_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(suu)ryou_06_k.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "はかる、はかり、はか",
+    "ka_utf": "量",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=量",
+    "rad_name_search": [
+      "sato"
+    ],
+    "rad_order": 200,
+    "txt_books": [
+      {
+        "chapter": "9",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtIKB"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "jtr"
+      }
+    ],
+    "kname": "(suu)ryou",
+    "rad_utf": "⾥",
+    "stroketimes": [
+      0,
+      0.933333,
+      2.733333,
+      3.866667,
+      4.733333,
+      6,
+      6.8,
+      8.066667,
+      8.933333,
+      10,
+      11,
+      12.066667,
+      14.666667
+    ],
+    "kunyomi_ka_display": "はか",
+    "dick": "1598",
+    "rad_name": "sato",
+    "dicn": "2141",
+    "mn_hint": "Amount of farm products brought from the villages 里 at sunrise 旦 to the market.",
+    "rad_stroke": 7,
+    "onyomi_ja": "リョウ",
+    "rad_meaning": "làng, (3,93 km)",
+    "onyomi": "ryou",
+    "ka_id": "ka_545",
+    "onyomi_search": [
+      "ryou",
+      "ryou"
+    ],
+    "kunyomi_search": [
+      "hakaru",
+      "hakari",
+      "haka",
+      "hakaru, hakari, haka"
+    ],
+    "meaning_search": [
+      "quantity",
+      "measure",
+      "weigh",
+      "quantity, measure, weigh"
+    ],
+    "onyomi_ja_search": [
+      "リョウ",
+      "リョウ"
+    ],
+    "kunyomi_ja_search": [
+      "はかる",
+      "はかり",
+      "はか",
+      "はかる、はかり、はか"
+    ],
+    "rad_meaning_search": [
+      "village",
+      "(3.93 km)",
+      "(3.93",
+      "km)",
+      "village, (3.93 km)"
+    ],
+    "rad_name_ja_search": [
+      "さと"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:9",
+      "ij:c9",
+      "ik1",
+      "ik1:2",
+      "ik1:c2",
+      "jtr",
+      "jtr:5",
+      "jtr:c5"
+    ],
+    "rad_name_file": "sato",
+    "kanji": {
+      "character": "量",
+      "meaning": {
+        "english": "quantity, measure, weigh"
+      },
+      "strokes": {
+        "count": 12,
+        "timings": [
+          0,
+          0.933333,
+          2.733333,
+          3.866667,
+          4.733333,
+          6,
+          6.8,
+          8.066667,
+          8.933333,
+          10,
+          11,
+          12.066667,
+          14.666667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/(suu)ryou_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/(suu)ryou_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/(suu)ryou_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/(suu)ryou_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/(suu)ryou_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/(suu)ryou_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/(suu)ryou_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/(suu)ryou_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/(suu)ryou_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/(suu)ryou_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/(suu)ryou_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/(suu)ryou_12.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "ryou",
+        "katakana": "リョウ"
+      },
+      "kunyomi": {
+        "romaji": "hakaru, hakari, haka",
+        "hiragana": "はか"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/(suu)ryou_12.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/(suu)ryou_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/(suu)ryou_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⾥",
+      "strokes": 7,
+      "image": "https://media.kanjialive.com/radical_character/sato.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "さと",
+        "romaji": "sato"
+      },
+      "meaning": {
+        "english": "làng, (3,93 km)"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/sato0.svg",
+        "https://media.kanjialive.com/rad_frames/sato1.svg",
+        "https://media.kanjialive.com/rad_frames/sato2.svg"
+      ]
+    },
+    "references": {
+      "grade": 4,
+      "kodansha": "1598",
+      "classic_nelson": "2141"
+    }
+  },
+  "jishoData": {
+    "query": "量",
+    "found": true,
+    "taughtIn": "lớp 4",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "469",
+    "strokeCount": 12,
+    "meaning": "số lượng, đo lường, trọng lượng, số lượng, xem xét, ước tính, phỏng đoán",
+    "kunyomi": [
+      "はか.る"
+    ],
+    "onyomi": [
+      "リョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "量",
+        "reading": "リョウ",
+        "meaning": "số lượng, số lượng, khối lượng, sức chứa, phần (thức ăn), sự hào phóng, rộng lượng, khoan dung, pramana (có nghĩa là người ta có được kiến thức chính xác và có giá trị; trong triết học Ấn Độ)"
+      },
+      {
+        "example": "量刑",
+        "reading": "リョウケイ",
+        "meaning": "bản án của thẩm phán, đánh giá vụ án"
+      },
+      {
+        "example": "裁量",
+        "reading": "サイリョウ",
+        "meaning": "sự phán xét, sự phán xét, sự phán xét"
+      },
+      {
+        "example": "軽量",
+        "reading": "ケイリョウ",
+        "meaning": "trọng lượng nhẹ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "計る",
+        "reading": "はかる",
+        "meaning": "đo, cân, khảo sát, tính thời gian (âm thanh, thước đo, ước tính), phỏng đoán, suy luận, phỏng đoán"
+      }
+    ],
+    "radical": {
+      "symbol": "里",
+      "meaning": "làng, dặm"
+    },
+    "parts": [
+      "一",
+      "日",
+      "里"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37327_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091cf.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91cf.gif",
+    "uri": "https://jisho.org/search/%E9%87%8F%23kanji"
+  }
+}

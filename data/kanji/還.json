@@ -1,0 +1,68 @@
+{
+  "id": "還",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "還",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "910",
+    "strokeCount": 16,
+    "meaning": "gửi lại, gửi lại",
+    "kunyomi": [
+      "かえ.る"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "還元",
+        "reading": "カンゲン",
+        "meaning": "phục hồi,trở lại,giảm,phân giải,khử oxy,khử oxy"
+      },
+      {
+        "example": "環境",
+        "reading": "カンキョウ",
+        "meaning": "môi trường, môi trường xung quanh, hoàn cảnh"
+      },
+      {
+        "example": "奪還",
+        "reading": "ダッカン",
+        "meaning": "lấy lại, lấy lại, lấy lại, lấy lại"
+      },
+      {
+        "example": "送還",
+        "reading": "ソウカン",
+        "meaning": "đưa về nhà, hồi hương, trục xuất"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "帰る",
+        "reading": "かえる",
+        "meaning": "trở về, về nhà, về nhà, quay lại, rời đi (của một vị khách, khách hàng, v.v.), về nhà, về nhà"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "đi bộ"
+    },
+    "parts": [
+      "一",
+      "口",
+      "衣",
+      "買",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36996_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09084.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9084.gif",
+    "uri": "https://jisho.org/search/%E9%82%84%23kanji"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "而",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "而",
+    "found": true,
+    "strokeCount": 6,
+    "meaning": "tuy nhiên, và sau đó, nhưng, tuy nhiên, tuy nhiên",
+    "kunyomi": [
+      "しこ.うして",
+      "しか.して",
+      "しか.も",
+      "しか.れども",
+      "すなわち",
+      "なんじ",
+      "しかるに"
+    ],
+    "onyomi": [
+      "ジ",
+      "ニ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "自今",
+        "reading": "ジコン",
+        "meaning": "kể từ bây giờ, sau này"
+      },
+      {
+        "example": "而今而後",
+        "reading": "ジコンジゴ",
+        "meaning": "trong tương lai, từ bây giờ trở đi, sau này, sau này"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "而して",
+        "reading": "そして",
+        "meaning": "và sau đó, do đó, và bây giờ, và cuối cùng"
+      },
+      {
+        "example": "然も",
+        "reading": "しかも",
+        "meaning": "hơn nữa, hơn nữa, tuy nhiên, tuy nhiên"
+      },
+      {
+        "example": "然るに",
+        "reading": "しかるに",
+        "meaning": "tuy nhiên, tuy nhiên, nhưng, tuy nhiên, trong khi, trong khi, mặt khác"
+      }
+    ],
+    "radical": {
+      "symbol": "而",
+      "meaning": "râu"
+    },
+    "parts": [
+      "而"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32780_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0800c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/800c.gif",
+    "uri": "https://jisho.org/search/%E8%80%8C%23kanji"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "督",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "督",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "534",
+    "strokeCount": 13,
+    "meaning": "Huấn luyện viên, chỉ huy, đôn đốc, lãnh đạo, giám sát",
+    "kunyomi": [],
+    "onyomi": [
+      "トク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "督促",
+        "reading": "トクソク",
+        "meaning": "sự thúc giục, yêu cầu, sự thúc bách"
+      },
+      {
+        "example": "督学官",
+        "reading": "トクガクカン",
+        "meaning": "thanh tra trường học"
+      },
+      {
+        "example": "総督",
+        "reading": "ソウトク",
+        "meaning": "toàn quyền, thống đốc, phó vương"
+      },
+      {
+        "example": "家督",
+        "reading": "カトク",
+        "meaning": "người thừa kế, người thừa kế, tài sản của gia đình, tài sản của gia đình, quyền thừa kế, quyền đứng đầu một gia đình"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "目",
+      "meaning": "mắt"
+    },
+    "parts": [
+      "卜",
+      "又",
+      "小",
+      "目"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30563_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07763.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7763.gif",
+    "uri": "https://jisho.org/search/%E7%9D%A3%23kanji"
+  }
+}

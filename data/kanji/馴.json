@@ -1,0 +1,62 @@
+{
+  "id": "馴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "馴",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "làm quen, có kinh nghiệm, thuần hóa",
+    "kunyomi": [
+      "な.れる",
+      "な.らす",
+      "したが.う"
+    ],
+    "onyomi": [
+      "ジュン",
+      "シュン",
+      "クン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "順化",
+        "reading": "ジュンカ",
+        "meaning": "sự thích nghi, sự nhập tịch, sự thích nghi"
+      },
+      {
+        "example": "馴致",
+        "reading": "ジュンチ",
+        "meaning": "thuần hóa, dần dần làm quen, dẫn đến"
+      },
+      {
+        "example": "雅馴",
+        "reading": "ガジュン",
+        "meaning": "tinh tế (văn xuôi, v.v.)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "慣れる",
+        "reading": "なれる",
+        "meaning": "làm quen với, quen với, trở nên quen thuộc, trở nên thành thạo, trở nên có kinh nghiệm, trở nên thuần hóa, trở nên thuần hóa, quen với việc làm"
+      },
+      {
+        "example": "慣らす",
+        "reading": "ならす",
+        "meaning": "làm quen, huấn luyện (ví dụ như tai), thuần hóa, thuần hóa, huấn luyện (một con vật)"
+      }
+    ],
+    "radical": {
+      "symbol": "馬",
+      "meaning": "con ngựa"
+    },
+    "parts": [
+      "川",
+      "杰",
+      "馬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39348_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099b4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99b4.gif",
+    "uri": "https://jisho.org/search/%E9%A6%B4%23kanji"
+  }
+}

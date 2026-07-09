@@ -1,0 +1,64 @@
+{
+  "id": "遽",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "遽",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "sợ hãi, kích động, bối rối, vội vàng",
+    "kunyomi": [
+      "あわ.てる",
+      "あわただ.しい",
+      "すみやか",
+      "にわか"
+    ],
+    "onyomi": [
+      "キョ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "遽然",
+        "reading": "キョゼン",
+        "meaning": "đột ngột, đột ngột"
+      },
+      {
+        "example": "急遽",
+        "reading": "キュウキョ",
+        "meaning": "vội vã, vội vã, vội vàng, vội vã, đột ngột"
+      },
+      {
+        "example": "惶遽",
+        "reading": "コウキョ",
+        "meaning": "sợ hãi và hoảng loạn"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "慌ただしい",
+        "reading": "あわただしい",
+        "meaning": "bận rộn, vội vã, vội vã, vội vàng, nhanh chóng, đột ngột"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "đi bộ"
+    },
+    "parts": [
+      "匕",
+      "卜",
+      "厂",
+      "虍",
+      "豕",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36989_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0907d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/907d.gif",
+    "uri": "https://jisho.org/search/%E9%81%BD%23kanji"
+  }
+}

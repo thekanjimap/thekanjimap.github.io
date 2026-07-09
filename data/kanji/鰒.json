@@ -1,0 +1,52 @@
+{
+  "id": "鰒",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鰒",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "bào ngư, cá nóc",
+    "kunyomi": [
+      "あわび",
+      "ふぐ"
+    ],
+    "onyomi": [
+      "フク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "河豚",
+        "reading": "フグ",
+        "meaning": "cá nóc, cá nóc, cá fugu, cá cầu, cá nục"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鮑",
+        "reading": "あわび",
+        "meaning": "bào ngư, vỏ tai"
+      },
+      {
+        "example": "河豚",
+        "reading": "ふぐ",
+        "meaning": "cá nóc, cá nóc, cá fugu, cá cầu, cá nục"
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "cá"
+    },
+    "parts": [
+      "乞",
+      "夂",
+      "日",
+      "杰",
+      "田",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39954_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c12.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c12.gif",
+    "uri": "https://jisho.org/search/%E9%B0%92%23kanji"
+  }
+}

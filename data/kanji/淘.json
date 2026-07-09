@@ -1,0 +1,54 @@
+{
+  "id": "淘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "淘",
+    "found": true,
+    "newspaperFrequencyRank": "2410",
+    "strokeCount": 11,
+    "meaning": "chọn",
+    "kunyomi": [
+      "よな.げる"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "淘汰",
+        "reading": "トウタ",
+        "meaning": "loại bỏ, loại bỏ (ví dụ: những nhân viên không cần thiết), loại bỏ, lựa chọn, lựa chọn"
+      },
+      {
+        "example": "淘汰作用",
+        "reading": "トウタサヨウ",
+        "meaning": "sàng lọc, sàng lọc, chọn lọc, phân loại"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "淘げる",
+        "reading": "よなげる",
+        "meaning": "tách và loại bỏ, sàng và phân loại, rửa sạch (tạp chất, v.v.)"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "凵",
+      "勹",
+      "汁",
+      "缶"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28120_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06dd8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6dd8.gif",
+    "uri": "https://jisho.org/search/%E6%B7%98%23kanji"
+  }
+}

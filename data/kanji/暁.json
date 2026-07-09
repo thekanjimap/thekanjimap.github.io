@@ -1,0 +1,79 @@
+{
+  "id": "暁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "暁",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1924",
+    "strokeCount": 12,
+    "meaning": "bình minh, bình minh, trong sự kiện",
+    "kunyomi": [
+      "あかつき",
+      "さと.る"
+    ],
+    "onyomi": [
+      "ギョウ",
+      "キョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "暁星",
+        "reading": "ギョウセイ",
+        "meaning": "sao mai, sao Kim, sự hiếm có"
+      },
+      {
+        "example": "暁鴉",
+        "reading": "ギョウア",
+        "meaning": "quạ kêu vào buổi sáng, quạ kêu vào buổi sáng"
+      },
+      {
+        "example": "早暁",
+        "reading": "ソウギョウ",
+        "meaning": "bình minh, bình minh"
+      },
+      {
+        "example": "通暁",
+        "reading": "ツウギョウ",
+        "meaning": "kiến thức sâu rộng, thông thạo"
+      },
+      {
+        "example": "払暁",
+        "reading": "フツギョウ",
+        "meaning": "bình minh, bình minh"
+      },
+      {
+        "example": "寒暁",
+        "reading": "カンギョウ",
+        "meaning": "bình minh mùa đông lạnh giá"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "暁",
+        "reading": "あかつき",
+        "meaning": "bình minh, bình minh, sự kiện (ví dụ: “trong trường hợp…”), dịp, sự kiện"
+      },
+      {
+        "example": "暁起き",
+        "reading": "あかつきおき",
+        "meaning": "thức dậy ngay trước bình minh"
+      }
+    ],
+    "radical": {
+      "symbol": "日",
+      "meaning": "mặt trời, ngày"
+    },
+    "parts": [
+      "儿",
+      "十",
+      "廾",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26241_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06681.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6681.gif",
+    "uri": "https://jisho.org/search/%E6%9A%81%23kanji"
+  }
+}

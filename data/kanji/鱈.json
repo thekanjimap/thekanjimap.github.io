@@ -1,0 +1,54 @@
+{
+  "id": "鱈",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鱈",
+    "found": true,
+    "strokeCount": 22,
+    "meaning": "cá tuyết, (kokuji)",
+    "kunyomi": [
+      "たら"
+    ],
+    "onyomi": [
+      "セツ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鱈",
+        "reading": "たら",
+        "meaning": "gadid (bất kỳ loài cá nào thuộc họ Gadidae, bao gồm cá tuyết, cá tuyết chấm đen, cá trắng và cá minh thái), cá tuyết Thái Bình Dương (Gadus macrocephalus)"
+      },
+      {
+        "example": "たら子",
+        "reading": "たらこ",
+        "meaning": "trứng cá tuyết (trứng của bất kỳ loài cá nào thuộc họ Gadidae, đặc biệt là trứng cá minh thái muối)"
+      },
+      {
+        "example": "大西洋鱈",
+        "reading": "たいせいようたら",
+        "meaning": "Cá tuyết Đại Tây Dương (Gadus morhua)"
+      },
+      {
+        "example": "チーズ鱈",
+        "reading": "チーズたら",
+        "meaning": "phô mai tara, miếng phô mai kẹp giữa hai miếng cá khô mỏng"
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "cá"
+    },
+    "parts": [
+      "ヨ",
+      "杰",
+      "田",
+      "雨",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40008_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c48.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c48.gif",
+    "uri": "https://jisho.org/search/%E9%B1%88%23kanji"
+  }
+}

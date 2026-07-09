@@ -1,0 +1,46 @@
+{
+  "id": "梵",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "梵",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "Tiếng Phạn, sự thanh tịnh, Phật giáo",
+    "kunyomi": [],
+    "onyomi": [
+      "ボン",
+      "フウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "梵",
+        "reading": "ボン",
+        "meaning": "Brahman (thực tại tối thượng của vũ trụ trong Ấn Độ giáo), Brahman, Brahma (thần sáng tạo Ấn Độ giáo), tiếng Phạn"
+      },
+      {
+        "example": "梵学",
+        "reading": "ボンガク",
+        "meaning": "học tiếng Phạn, học Phật giáo"
+      },
+      {
+        "example": "薄伽梵",
+        "reading": "バガボン",
+        "meaning": "Bhagavan, Bhagwan, Chúa"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "丶",
+      "几",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26805_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068b5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68b5.gif",
+    "uri": "https://jisho.org/search/%E6%A2%B5%23kanji"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "藁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "藁",
+    "found": true,
+    "newspaperFrequencyRank": "2488",
+    "strokeCount": 17,
+    "meaning": "rơm rạ",
+    "kunyomi": [
+      "わら"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "藁",
+        "reading": "わら",
+        "meaning": "rơm rạ"
+      },
+      {
+        "example": "笑",
+        "reading": "わら",
+        "meaning": "cười lớn, haha"
+      },
+      {
+        "example": "敷き藁",
+        "reading": "しきわら",
+        "meaning": "(động vật) rác, chất độn chuồng"
+      },
+      {
+        "example": "巻藁",
+        "reading": "まきわら",
+        "meaning": "Trụ rơm dùng để luyện kiếm, đấm karate và bắn mũi tên"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "亠",
+      "冂",
+      "口",
+      "木",
+      "艾",
+      "高"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34241_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085c1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85c1.gif",
+    "uri": "https://jisho.org/search/%E8%97%81%23kanji"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "娑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "娑",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "bà già",
+    "kunyomi": [],
+    "onyomi": [
+      "シャ",
+      "サ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "娑婆",
+        "reading": "シャバ",
+        "meaning": "thế giới này, cuộc đời này, thế giới tự do (ngoài nhà tù, quân đội, khu đèn đỏ, v.v.), thế giới thối nát này, thế giới hiện tại"
+      },
+      {
+        "example": "娑婆気",
+        "reading": "シャバケ",
+        "meaning": "những ham muốn hoặc tham vọng trần thế"
+      },
+      {
+        "example": "沙羅",
+        "reading": "シャラ",
+        "meaning": "sal (cây) (Shorea Robusta), saul, steartia Nhật Bản (Stewartia pseudocamellia)"
+      },
+      {
+        "example": "娑羅樹",
+        "reading": "サラジュ",
+        "meaning": "Cây steartia Nhật Bản (Stewartia pseudocamellia), sal (cây) (Shorea Robusta), saul"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "女",
+      "meaning": "phụ nữ, nữ"
+    },
+    "parts": [
+      "ノ",
+      "女",
+      "小",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23057_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a11.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a11.gif",
+    "uri": "https://jisho.org/search/%E5%A8%91%23kanji"
+  }
+}

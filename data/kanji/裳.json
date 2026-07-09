@@ -1,0 +1,69 @@
+{
+  "id": "裳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "裳",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "váy",
+    "kunyomi": [
+      "も",
+      "もすそ"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "裳階",
+        "reading": "モコシ",
+        "meaning": "mái nhà bị dồn nén (dưới mái chùa thật sự, v.v.)"
+      },
+      {
+        "example": "舞衣装",
+        "reading": "マイイショウ",
+        "meaning": "trang phục khiêu vũ"
+      },
+      {
+        "example": "花嫁衣裳",
+        "reading": "ハナヨメイショウ",
+        "meaning": "trang phục cô dâu, váy cưới"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "裳",
+        "reading": "も",
+        "meaning": "váy truyền thống"
+      },
+      {
+        "example": "裳着",
+        "reading": "もぎ",
+        "meaning": "Lễ trưởng thành của các bé gái thời Heian"
+      },
+      {
+        "example": "裳裾",
+        "reading": "もすそ",
+        "meaning": "cổ tay áo (quần), viền (váy), vạt áo (váy), chân (của núi)"
+      }
+    ],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "quần áo"
+    },
+    "parts": [
+      "亠",
+      "冖",
+      "口",
+      "尚",
+      "衣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35059_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088f3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88f3.gif",
+    "uri": "https://jisho.org/search/%E8%A3%B3%23kanji"
+  }
+}

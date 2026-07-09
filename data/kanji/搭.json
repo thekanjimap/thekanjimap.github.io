@@ -1,0 +1,48 @@
+{
+  "id": "搭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "搭",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1472",
+    "strokeCount": 12,
+    "meaning": "lên, tải (một chiếc xe), đi xe",
+    "kunyomi": [],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "搭載",
+        "reading": "トウサイ",
+        "meaning": "chất (lên tàu), trang bị (máy bay, ô tô, v.v.), được trang bị"
+      },
+      {
+        "example": "搭乗",
+        "reading": "トウジョウ",
+        "meaning": "lên tàu, lên máy bay (tàu thủy, máy bay)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "一",
+      "个",
+      "口",
+      "扎",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25645_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0642d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/642d.gif",
+    "uri": "https://jisho.org/search/%E6%90%AD%23kanji"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "彳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "彳",
+    "found": true,
+    "strokeCount": 3,
+    "meaning": "dừng lại, nán lại, lảng vảng, đi người triệt để (số 60)",
+    "kunyomi": [
+      "たたず.む"
+    ],
+    "onyomi": [
+      "テキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "彳亍",
+        "reading": "テキチョク",
+        "meaning": "dừng bước, đứng yên"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "佇む",
+        "reading": "たたずむ",
+        "meaning": "đứng yên một lúc, lảng vảng, dừng lại"
+      }
+    ],
+    "radical": {
+      "symbol": "彳",
+      "meaning": "bước"
+    },
+    "parts": [
+      "彳"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24435_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f73.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f73.gif",
+    "uri": "https://jisho.org/search/%E5%BD%B3%23kanji"
+  }
+}

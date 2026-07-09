@@ -1,0 +1,403 @@
+{
+  "id": "民",
+  "kanjialiveData": {
+    "_id": "54317b06791eba5146ee4c0f",
+    "_rev": "11-dea630617aad4d2fd1f5b59049696aa2",
+    "rad_name_ja": "うじ",
+    "grade": 4,
+    "hint_group": 1,
+    "kunyomi": "tami",
+    "meaning": "mọi người",
+    "kstroke": 5,
+    "examples": [
+      {
+        "japanese": "民衆（みんしゅう）",
+        "meaning": {
+          "english": "con người, quần chúng, quần chúng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tami_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tami_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tami_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tami_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "民族（みんぞく）",
+        "meaning": {
+          "english": "chủng tộc, quốc gia, con người"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tami_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tami_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tami_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tami_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "民謡（みんよう）",
+        "meaning": {
+          "english": "(truyền thống) bài dân ca"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tami_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tami_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tami_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tami_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "民営（みんえい）",
+        "meaning": {
+          "english": "quản lý tư nhân"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tami_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tami_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tami_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tami_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "国民（こくみん）",
+        "meaning": {
+          "english": "công dân, nhân dân, quốc gia"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tami_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tami_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tami_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tami_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "市民（しみん）",
+        "meaning": {
+          "english": "công dân, người dân thị trấn"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tami_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tami_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tami_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tami_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "県民（けんみん）",
+        "meaning": {
+          "english": "công dân của một tỉnh"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tami_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tami_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tami_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tami_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "住民（じゅうみん）",
+        "meaning": {
+          "english": "cư dân, dân số"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tami_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tami_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tami_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tami_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "庶民（しょみん）",
+        "meaning": {
+          "english": "quần chúng, thường dân"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tami_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tami_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tami_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tami_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "農民（のうみん）",
+        "meaning": {
+          "english": "nông dân, nông dân"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tami_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tami_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tami_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tami_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "民主主義（みんしゅしゅぎ）",
+        "meaning": {
+          "english": "dân chủ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tami_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tami_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tami_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tami_06_k.mp3"
+        }
+      },
+      {
+        "japanese": "民（たみ）",
+        "meaning": {
+          "english": "dân tộc, con người"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tami_06_l.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tami_06_l.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tami_06_l.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tami_06_l.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "たみ",
+    "ka_utf": "民",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=民",
+    "rad_name_search": [
+      "uji"
+    ],
+    "rad_order": 107,
+    "txt_books": [
+      {
+        "chapter": "18",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "41",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "24",
+        "txt_bk": "txtSFJ3"
+      },
+      {
+        "chapter": "24",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "18",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "jt"
+      }
+    ],
+    "kname": "tami",
+    "rad_utf": "⽒",
+    "stroketimes": [
+      0,
+      1.733333,
+      3.266667,
+      5.733333,
+      6.8,
+      9.6
+    ],
+    "kunyomi_ka_display": "たみ",
+    "dick": "1922",
+    "rad_name": "uji",
+    "dicn": "25",
+    "mn_hint": "Clans 氏 within their own boundary 口.",
+    "rad_stroke": 4,
+    "onyomi_ja": "ミン",
+    "rad_meaning": "gia đình, dòng họ",
+    "onyomi": "min",
+    "ka_id": "ka_800",
+    "onyomi_search": [
+      "min",
+      "min"
+    ],
+    "kunyomi_search": [
+      "tami",
+      "tami"
+    ],
+    "meaning_search": [
+      "people",
+      "people"
+    ],
+    "onyomi_ja_search": [
+      "ミン",
+      "ミン"
+    ],
+    "kunyomi_ja_search": [
+      "たみ",
+      "たみ"
+    ],
+    "rad_meaning_search": [
+      "family",
+      "clan",
+      "family, clan"
+    ],
+    "rad_name_ja_search": [
+      "うじ"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:18",
+      "ij:c18",
+      "bk",
+      "bk:41",
+      "bk:c41",
+      "kll",
+      "kll:18",
+      "kll:c18",
+      "jt",
+      "jt:6",
+      "jt:c6"
+    ],
+    "rad_name_file": "uji",
+    "kanji": {
+      "character": "民",
+      "meaning": {
+        "english": "people"
+      },
+      "strokes": {
+        "count": 5,
+        "timings": [
+          0,
+          1.733333,
+          3.266667,
+          5.733333,
+          6.8,
+          9.6
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/tami_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/tami_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/tami_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/tami_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/tami_5.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "min",
+        "katakana": "ミン"
+      },
+      "kunyomi": {
+        "romaji": "tami",
+        "hiragana": "たみ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/tami_5.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/tami_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/tami_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⽒",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/uji.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "うじ",
+        "romaji": "uji"
+      },
+      "meaning": {
+        "english": "gia đình, dòng họ"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/uji0.svg",
+        "https://media.kanjialive.com/rad_frames/uji1.svg",
+        "https://media.kanjialive.com/rad_frames/uji2.svg"
+      ]
+    },
+    "references": {
+      "grade": 4,
+      "kodansha": "1922",
+      "classic_nelson": "25"
+    }
+  },
+  "jishoData": {
+    "query": "民",
+    "found": true,
+    "taughtIn": "lớp 4",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "28",
+    "strokeCount": 5,
+    "meaning": "con người, đất nước, chủ thể",
+    "kunyomi": [
+      "たみ"
+    ],
+    "onyomi": [
+      "ミン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "民",
+        "reading": "ミン",
+        "meaning": "công dân, cư dân, người, người dùng (của một trang web, đặc biệt với tư cách là một tập thể, ví dụ: Twittersphere)"
+      },
+      {
+        "example": "民意",
+        "reading": "ミンイ",
+        "meaning": "ý chí của nhân dân, ý chí của nhân dân"
+      },
+      {
+        "example": "自民",
+        "reading": "ジミン",
+        "meaning": "Đảng Dân chủ Tự do, LDP"
+      },
+      {
+        "example": "公民",
+        "reading": "コウミン",
+        "meaning": "công dân"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "民",
+        "reading": "たみ",
+        "meaning": "con người, công dân, thần dân, dân gian"
+      },
+      {
+        "example": "民草",
+        "reading": "たみくさ",
+        "meaning": "người dân, dân chúng"
+      },
+      {
+        "example": "国民",
+        "reading": "くにたみ",
+        "meaning": "người dân của một đất nước"
+      },
+      {
+        "example": "流浪の民",
+        "reading": "るろうのたみ",
+        "meaning": "người lang thang, bộ lạc du mục"
+      }
+    ],
+    "radical": {
+      "symbol": "氏",
+      "meaning": "thị tộc"
+    },
+    "parts": [
+      "口",
+      "尸",
+      "氏"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27665_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c11.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c11.gif",
+    "uri": "https://jisho.org/search/%E6%B0%91%23kanji"
+  }
+}

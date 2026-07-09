@@ -1,0 +1,379 @@
+{
+  "id": "階",
+  "kanjialiveData": {
+    "_id": "54317b04791eba5146ee4bda",
+    "_rev": "10-b634fa9e46dd72f8d38428aebe6e6219",
+    "rad_name_ja": "こざとへん",
+    "grade": 3,
+    "hint_group": 1,
+    "kunyomi": "Không có",
+    "meaning": "tầng, bậc, bậc thang, cấp độ",
+    "kstroke": 12,
+    "examples": [
+      {
+        "japanese": "階段（かいだん）",
+        "meaning": {
+          "english": "cầu thang"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chi)kai_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(chi)kai_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(chi)kai_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(chi)kai_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "階下（かいか）",
+        "meaning": {
+          "english": "tầng dưới, tầng dưới"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chi)kai_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(chi)kai_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(chi)kai_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(chi)kai_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "階級（かいきゅう）",
+        "meaning": {
+          "english": "lớp, cấp bậc, cấp bậc"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chi)kai_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(chi)kai_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(chi)kai_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(chi)kai_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "階層（かいそう）",
+        "meaning": {
+          "english": "lớp, cấp độ, tầng lớp, thứ bậc"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chi)kai_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(chi)kai_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(chi)kai_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(chi)kai_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "地階（ちかい）",
+        "meaning": {
+          "english": "tầng hầm, hầm"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chi)kai_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(chi)kai_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(chi)kai_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(chi)kai_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "五階（ごかい）",
+        "meaning": {
+          "english": "tầng năm"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chi)kai_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(chi)kai_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(chi)kai_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(chi)kai_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "各階（かくかい）",
+        "meaning": {
+          "english": "mỗi tầng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chi)kai_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(chi)kai_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(chi)kai_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(chi)kai_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "段階（だんかい）",
+        "meaning": {
+          "english": "lớp, bậc, giai đoạn"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chi)kai_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(chi)kai_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(chi)kai_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(chi)kai_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "音階（おんかい）",
+        "meaning": {
+          "english": "thang âm nhạc"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(chi)kai_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(chi)kai_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(chi)kai_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(chi)kai_06_i.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "階",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=階",
+    "kname": "(chi)kai",
+    "rad_order": 74,
+    "txt_books": [
+      {
+        "chapter": "16",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "39",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "28",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "chapter": "1",
+        "txt_bk": "jtr"
+      }
+    ],
+    "rad_name_search": [
+      "kozatohen"
+    ],
+    "rad_utf": "⻖",
+    "stroketimes": [
+      0,
+      1.495,
+      3.266667,
+      5.733333,
+      6.8,
+      8.533333,
+      9.6,
+      11.466667,
+      12.733333,
+      14.133333,
+      16.733333,
+      17.666667,
+      20.066667
+    ],
+    "kunyomi_ka_display": "Không có",
+    "dick": "451",
+    "rad_name": "kozatohen",
+    "dicn": "5011",
+    "mn_hint": "Slope 阝 with stairs used by old people ヒヒ with white 白 hair to visit a temple.",
+    "rad_stroke": 3,
+    "onyomi_ja": "カイ",
+    "rad_meaning": "đồi, gò",
+    "onyomi": "kai",
+    "ka_id": "ka_753",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "kai",
+      "kai"
+    ],
+    "kunyomi_search": [
+      "Không có",
+      "Không có"
+    ],
+    "meaning_search": [
+      "floor",
+      "rank",
+      "stair",
+      "level",
+      "floor, rank, stair, level"
+    ],
+    "onyomi_ja_search": [
+      "カイ",
+      "カイ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "hill",
+      "mound",
+      "hill, mound"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "こざとへん"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:16",
+      "ij:c16",
+      "bk",
+      "bk:39",
+      "bk:c39",
+      "ap",
+      "ap:3",
+      "ap:c3",
+      "kll",
+      "kll:28",
+      "kll:c28",
+      "jtr",
+      "jtr:1",
+      "jtr:c1"
+    ],
+    "rad_name_file": "kozatohen",
+    "kanji": {
+      "character": "階",
+      "meaning": {
+        "english": "floor, rank, stair, level"
+      },
+      "strokes": {
+        "count": 12,
+        "timings": [
+          0,
+          1.495,
+          3.266667,
+          5.733333,
+          6.8,
+          8.533333,
+          9.6,
+          11.466667,
+          12.733333,
+          14.133333,
+          16.733333,
+          17.666667,
+          20.066667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/(chi)kai_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/(chi)kai_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/(chi)kai_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/(chi)kai_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/(chi)kai_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/(chi)kai_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/(chi)kai_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/(chi)kai_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/(chi)kai_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/(chi)kai_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/(chi)kai_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/(chi)kai_12.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "kai",
+        "katakana": "カイ"
+      },
+      "kunyomi": {
+        "romaji": "Không có",
+        "hiragana": "Không có"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/(chi)kai_12.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/(chi)kai_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/(chi)kai_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⻖",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/kozatohen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "こざとへん",
+        "romaji": "kozatohen"
+      },
+      "meaning": {
+        "english": "đồi, gò"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/kozatohen0.svg",
+        "https://media.kanjialive.com/rad_frames/kozatohen1.svg",
+        "https://media.kanjialive.com/rad_frames/kozatohen2.svg"
+      ]
+    },
+    "references": {
+      "grade": 3,
+      "kodansha": "451",
+      "classic_nelson": "5011"
+    }
+  },
+  "jishoData": {
+    "query": "階",
+    "found": true,
+    "taughtIn": "lớp 3",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "513",
+    "strokeCount": 12,
+    "meaning": "tầng, cầu thang, quầy cho các tầng của tòa nhà",
+    "kunyomi": [
+      "きざはし"
+    ],
+    "onyomi": [
+      "カイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "階",
+        "reading": "カイ",
+        "meaning": "tầng, tầng, tầng, cầu thang, sân khấu (theo niên đại địa tầng), quầy tính các tầng và các tầng của tòa nhà"
+      },
+      {
+        "example": "階級",
+        "reading": "カイキュウ",
+        "meaning": "(xã hội) giai cấp, cấp bậc, cấp bậc"
+      },
+      {
+        "example": "中二階",
+        "reading": "チュウニカイ",
+        "meaning": "tầng lửng"
+      },
+      {
+        "example": "位階",
+        "reading": "イカイ",
+        "meaning": "cấp bậc tòa án"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "階",
+        "reading": "きざはし",
+        "meaning": "cầu thang, cầu thang ở phía trước sân khấu noh"
+      }
+    ],
+    "radical": {
+      "symbol": "阜",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "gò, đập (阝 trái)"
+    },
+    "parts": [
+      "比",
+      "白",
+      "阡"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38542_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0968e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/968e.gif",
+    "uri": "https://jisho.org/search/%E9%9A%8E%23kanji"
+  }
+}

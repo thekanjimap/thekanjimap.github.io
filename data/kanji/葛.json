@@ -1,0 +1,65 @@
+{
+  "id": "葛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "葛",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "newspaperFrequencyRank": "1547",
+    "strokeCount": 11,
+    "meaning": "củ mũi tên, sắn dây",
+    "kunyomi": [
+      "つづら",
+      "くず"
+    ],
+    "onyomi": [
+      "カツ",
+      "カチ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "葛",
+        "reading": "くず",
+        "meaning": "sắn dây (Pueraria montana), củ dong Nhật Bản, hạt trăng Trung Quốc (Sinomenium acutum)"
+      },
+      {
+        "example": "葛籠",
+        "reading": "つづら",
+        "meaning": "cản trở quần áo đan bằng liễu gai"
+      },
+      {
+        "example": "熊葛",
+        "reading": "くまつづら",
+        "meaning": "cỏ roi ngựa thông thường (Verbena officinalis), cỏ roi ngựa thông thường"
+      },
+      {
+        "example": "葛",
+        "reading": "くず",
+        "meaning": "sắn dây (Pueraria montana), củ dong Nhật Bản, hạt trăng Trung Quốc (Sinomenium acutum)"
+      },
+      {
+        "example": "葛餡",
+        "reading": "くずあん",
+        "meaning": "sốt sắn dây"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "勹",
+      "匕",
+      "日",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33883_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0845b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/845b.gif",
+    "uri": "https://jisho.org/search/%E8%91%9B%23kanji"
+  }
+}

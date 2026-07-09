@@ -1,0 +1,56 @@
+{
+  "id": "邀",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "邀",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "đi gặp, gọi điện",
+    "kunyomi": [
+      "むか.える",
+      "もと.める"
+    ],
+    "onyomi": [
+      "ヨウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "邀撃",
+        "reading": "ヨウゲキ",
+        "meaning": "đánh chặn, phản công"
+      },
+      {
+        "example": "要撃機",
+        "reading": "ヨウゲキキ",
+        "meaning": "máy bay đánh chặn (máy bay)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "迎える",
+        "reading": "むかえる",
+        "meaning": "đi ra ngoài gặp gỡ, tiếp đón, chào đón, chào hỏi, chào hỏi, kêu gọi, triệu tập, mời, chấp nhận (ví dụ: với tư cách là thành viên của một nhóm hoặc gia đình), lấy (ví dụ: một người vợ), đến (một thời điểm nhất định, một điểm trong cuộc đời của một người, v.v.), để bước vào (một giai đoạn mới, kỷ nguyên mới, v.v.), đến gần (ví dụ: cái chết)"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "đi bộ"
+    },
+    "parts": [
+      "乞",
+      "攵",
+      "方",
+      "白",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36992_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09080.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9080.gif",
+    "uri": "https://jisho.org/search/%E9%82%80%23kanji"
+  }
+}

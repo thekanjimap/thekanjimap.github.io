@@ -1,0 +1,66 @@
+{
+  "id": "顧",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "顧",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1058",
+    "strokeCount": 21,
+    "meaning": "nhìn lại, xem xét lại, xem xét bản thân, quay lại",
+    "kunyomi": [
+      "かえり.みる"
+    ],
+    "onyomi": [
+      "コ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "顧問",
+        "reading": "コモン",
+        "meaning": "cố vấn, cố vấn, cố vấn"
+      },
+      {
+        "example": "顧客",
+        "reading": "コキャク",
+        "meaning": "khách hàng, khách hàng, người bảo trợ"
+      },
+      {
+        "example": "一顧",
+        "reading": "イッコ",
+        "meaning": "sự chú ý nhỏ nhất, sự quan tâm nhỏ nhất, sự chú ý nhỏ nhất, một chút suy nghĩ, cái nhìn thoáng qua"
+      },
+      {
+        "example": "後顧",
+        "reading": "コウコ",
+        "meaning": "nhìn lại, lo lắng, lo lắng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "顧みる",
+        "reading": "かえりみる",
+        "meaning": "nhìn lại (quá khứ), suy ngẫm, hồi tưởng, nhìn về phía sau (vào), quay lại (và nhìn), nhìn qua vai, cân nhắc, quan tâm đến bản thân, chú ý đến, chú ý đến, xem xét"
+      }
+    ],
+    "radical": {
+      "symbol": "頁",
+      "meaning": "lá"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "尸",
+      "戸",
+      "目",
+      "貝",
+      "隹",
+      "頁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39015_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09867.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9867.gif",
+    "uri": "https://jisho.org/search/%E9%A1%A7%23kanji"
+  }
+}

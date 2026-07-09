@@ -1,0 +1,61 @@
+{
+  "id": "彩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "彩",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1251",
+    "strokeCount": 11,
+    "meaning": "tô màu, sơn, trang điểm",
+    "kunyomi": [
+      "いろど.る"
+    ],
+    "onyomi": [
+      "サイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "彩色",
+        "reading": "サイシキ",
+        "meaning": "tô màu, tô màu, tô màu, tô màu, tô màu, tô màu"
+      },
+      {
+        "example": "彩雲",
+        "reading": "サイウン",
+        "meaning": "những đám mây óng ánh, những đám mây phát sáng"
+      },
+      {
+        "example": "油彩",
+        "reading": "ユサイ",
+        "meaning": "tranh sơn dầu"
+      },
+      {
+        "example": "光彩",
+        "reading": "コウサイ",
+        "meaning": "sự rực rỡ, sự huy hoàng, sự rực rỡ, sự rực rỡ, sự rực rỡ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "彩る",
+        "reading": "いろどる",
+        "meaning": "tô màu, tô màu, tô màu, trang điểm, tô điểm, tô điểm, tô điểm, tô điểm"
+      }
+    ],
+    "radical": {
+      "symbol": "彡",
+      "meaning": "lông, râu"
+    },
+    "parts": [
+      "彡",
+      "木",
+      "爪"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24425_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f69.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f69.gif",
+    "uri": "https://jisho.org/search/%E5%BD%A9%23kanji"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "桴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "桴",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "dùi trống, bè",
+    "kunyomi": [
+      "ばち",
+      "いかだ"
+    ],
+    "onyomi": [
+      "フ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "撥",
+        "reading": "ばち",
+        "meaning": "miếng gảy (đối với đàn shamisen, biwa, v.v.), gắp, dùi trống (đối với taiko), vồ (đối với chiêng), nhịp đập"
+      },
+      {
+        "example": "筏",
+        "reading": "いかだ",
+        "meaning": "bè, miếng bảo vệ cẳng tay (làm bằng tấm kim loại mỏng), kabayaki lươn con xiên"
+      },
+      {
+        "example": "救命いかだ",
+        "reading": "きゅうめいいかだ",
+        "meaning": "bè cứu sinh, xuồng cứu sinh"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "子",
+      "木",
+      "爪"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26740_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06874.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6874.gif",
+    "uri": "https://jisho.org/search/%E6%A1%B4%23kanji"
+  }
+}

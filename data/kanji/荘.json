@@ -1,0 +1,91 @@
+{
+  "id": "荘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "荘",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1489",
+    "strokeCount": 9,
+    "meaning": "Biệt thự, nhà trọ, Nhà tranh, Dinh thự phong kiến, trang trọng, trang nghiêm",
+    "kunyomi": [
+      "ほうき",
+      "おごそ.か"
+    ],
+    "onyomi": [
+      "ソウ",
+      "ショウ",
+      "チャン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "荘",
+        "reading": "ショウ",
+        "meaning": "dinh thự, biệt thự"
+      },
+      {
+        "example": "荘園",
+        "reading": "ショウエン",
+        "meaning": "trang viên, demesne"
+      },
+      {
+        "example": "山荘",
+        "reading": "サンソウ",
+        "meaning": "biệt thự trên núi, nơi nghỉ dưỡng trên núi, biệt thự trên núi"
+      },
+      {
+        "example": "山水荘",
+        "reading": "サンスイソウ",
+        "meaning": "Nhà trọ Sansui"
+      },
+      {
+        "example": "荘",
+        "reading": "ショウ",
+        "meaning": "dinh thự, biệt thự"
+      },
+      {
+        "example": "荘園",
+        "reading": "ショウエン",
+        "meaning": "trang viên, demesne"
+      },
+      {
+        "example": "荘",
+        "reading": "チャン",
+        "meaning": "quầy trò chơi mạt chược"
+      },
+      {
+        "example": "荘風牌",
+        "reading": "チャンフォンパイ",
+        "meaning": "ngói phù hợp với gió tròn"
+      },
+      {
+        "example": "半荘",
+        "reading": "ハンチャン",
+        "meaning": "nửa trận đấu bao gồm một vòng phía đông và phía nam"
+      },
+      {
+        "example": "連チャン",
+        "reading": "レンチャン",
+        "meaning": "các sự kiện lặp lại (ví dụ: các cuộc họp, các buổi uống rượu), chuỗi sự kiện, chuỗi, liên tiếp, người chia bài tiếp tục là người chia bài và phía đông sau khi thắng, người chia bài giữ nguyên"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "士",
+      "爿",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33624_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08358.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8358.gif",
+    "uri": "https://jisho.org/search/%E8%8D%98%23kanji"
+  }
+}

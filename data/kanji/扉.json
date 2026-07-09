@@ -1,0 +1,71 @@
+{
+  "id": "扉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "扉",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1866",
+    "strokeCount": 12,
+    "meaning": "cửa trước, trang tiêu đề, trang đầu",
+    "kunyomi": [
+      "とびら"
+    ],
+    "onyomi": [
+      "ヒ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "開扉",
+        "reading": "カイヒ",
+        "meaning": "mở một cánh cửa"
+      },
+      {
+        "example": "小開扉",
+        "reading": "ショウカイヒ",
+        "meaning": "mở cửa trong giây lát (đặc biệt là trên tàu, khi chân ai đó bị kẹt, v.v.)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "扉",
+        "reading": "とびら",
+        "meaning": "cửa, cổng, mở, trang tiêu đề"
+      },
+      {
+        "example": "扉絵",
+        "reading": "とびらえ",
+        "meaning": "mặt trước"
+      },
+      {
+        "example": "自動扉",
+        "reading": "じどうとびら",
+        "meaning": "cửa tự động"
+      },
+      {
+        "example": "前扉",
+        "reading": "まえとびら",
+        "meaning": "cửa trước (tủ, xe buýt, v.v.), tựa đề nửa (của một cuốn sách), tựa đề khốn nạn"
+      }
+    ],
+    "radical": {
+      "symbol": "戶",
+      "forms": [
+        "户",
+        "戸"
+      ],
+      "meaning": "cửa, nhà"
+    },
+    "parts": [
+      "一",
+      "尸",
+      "戸",
+      "非"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25161_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06249.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6249.gif",
+    "uri": "https://jisho.org/search/%E6%89%89%23kanji"
+  }
+}

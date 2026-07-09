@@ -1,0 +1,86 @@
+{
+  "id": "掌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "掌",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1757",
+    "strokeCount": 12,
+    "meaning": "lòng bàn tay, cai trị, quản lý, tiến hành",
+    "kunyomi": [
+      "てのひら",
+      "たなごころ"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "手のひら",
+        "reading": "テノヒラ",
+        "meaning": "lòng bàn tay (của bàn tay)"
+      },
+      {
+        "example": "掌握",
+        "reading": "ショウアク",
+        "meaning": "nắm bắt, nắm giữ, nắm giữ, chỉ huy, kiểm soát"
+      },
+      {
+        "example": "合掌",
+        "reading": "ガッショウ",
+        "meaning": "chắp tay cầu nguyện, khung tam giác của mái tranh, chân thành, chân thành, chân thành của bạn"
+      },
+      {
+        "example": "鞅掌",
+        "reading": "オウショウ",
+        "meaning": "đang bận rộn với"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "手のひら",
+        "reading": "てのひら",
+        "meaning": "lòng bàn tay (của bàn tay)"
+      },
+      {
+        "example": "手のひら返し",
+        "reading": "てのひらがえし",
+        "meaning": "sự đảo ngược đột ngột (hành vi, quan điểm, thái độ, v.v.), trở mặt, lật lọng"
+      },
+      {
+        "example": "両手のひら",
+        "reading": "りょうてのひら",
+        "meaning": "cả hai lòng bàn tay"
+      },
+      {
+        "example": "手のひら",
+        "reading": "てのひら",
+        "meaning": "lòng bàn tay (của bàn tay)"
+      },
+      {
+        "example": "掌の玉",
+        "reading": "たなごころのたま",
+        "meaning": "quả táo của một người"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "冖",
+      "口",
+      "尚",
+      "手"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25484_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0638c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/638c.gif",
+    "uri": "https://jisho.org/search/%E6%8E%8C%23kanji"
+  }
+}

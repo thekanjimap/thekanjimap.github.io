@@ -1,0 +1,41 @@
+{
+  "id": "苅",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "苅",
+    "found": true,
+    "newspaperFrequencyRank": "2178",
+    "strokeCount": 7,
+    "meaning": "cắt (cỏ)",
+    "kunyomi": [
+      "か.る"
+    ],
+    "onyomi": [
+      "ガイ",
+      "カイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "刈る",
+        "reading": "かる",
+        "meaning": "cắt (cỏ, tóc, v.v.), cắt, cắt, tỉa, tỉa, cắt, gặt, thu hoạch"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "刈",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33477_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082c5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82c5.gif",
+    "uri": "https://jisho.org/search/%E8%8B%85%23kanji"
+  }
+}

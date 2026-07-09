@@ -1,0 +1,67 @@
+{
+  "id": "陳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "陳",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1323",
+    "strokeCount": 11,
+    "meaning": "trưng bày, nêu, liên hệ, giải thích",
+    "kunyomi": [
+      "ひ.ねる"
+    ],
+    "onyomi": [
+      "チン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "陳",
+        "reading": "チン",
+        "meaning": "Chen (nhà nước Trung Quốc cổ đại; khoảng 1045-479 TCN), Ch'en, triều đại Chen (của Trung Quốc; 557-589 TCN), triều đại Chen"
+      },
+      {
+        "example": "陳謝",
+        "reading": "チンシャ",
+        "meaning": "lời xin lỗi"
+      },
+      {
+        "example": "開陳",
+        "reading": "カイチン",
+        "meaning": "nêu rõ (quan điểm của ai đó), bày tỏ"
+      },
+      {
+        "example": "具陳",
+        "reading": "グチン",
+        "meaning": "báo cáo chi tiết, tuyên bố chính thức"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "陳ねる",
+        "reading": "ひねる",
+        "meaning": "già đi, già đi, già nua, quá trưởng thành (so với tuổi của một người), già đi, trở nên vặn vẹo, trở nên lệch lạc, trở nên hư hỏng"
+      }
+    ],
+    "radical": {
+      "symbol": "阜",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "gò, đập (阝 trái)"
+    },
+    "parts": [
+      "一",
+      "日",
+      "木",
+      "田",
+      "阡",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38515_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09673.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9673.gif",
+    "uri": "https://jisho.org/search/%E9%99%B3%23kanji"
+  }
+}

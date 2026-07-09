@@ -1,0 +1,74 @@
+{
+  "id": "慰",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "慰",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1158",
+    "strokeCount": 15,
+    "meaning": "sự an ủi, sự giải trí, sự quyến rũ, sự cổ vũ, thể thao, sự thoải mái, sự điều khiển",
+    "kunyomi": [
+      "なぐさ.める",
+      "なぐさ.む"
+    ],
+    "onyomi": [
+      "イ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "慰謝",
+        "reading": "イシャ",
+        "meaning": "sự an ủi"
+      },
+      {
+        "example": "慰安",
+        "reading": "イアン",
+        "meaning": "sự an ủi, thư giãn"
+      },
+      {
+        "example": "弔慰",
+        "reading": "チョウイ",
+        "meaning": "chia buồn, cảm thông"
+      },
+      {
+        "example": "自慰",
+        "reading": "ジイ",
+        "meaning": "thủ dâm, thủ dâm, tự an ủi"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "慰める",
+        "reading": "なぐさめる",
+        "meaning": "an ủi, an ủi, làm vui"
+      },
+      {
+        "example": "慰む",
+        "reading": "なぐさむ",
+        "meaning": "cảm thấy được an ủi, có tinh thần vui vẻ, cảm thấy dễ chịu hơn, quên đi những lo lắng, đùa giỡn, đùa giỡn với"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "二",
+      "寸",
+      "小",
+      "尸",
+      "心",
+      "示"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24944_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06170.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6170.gif",
+    "uri": "https://jisho.org/search/%E6%85%B0%23kanji"
+  }
+}

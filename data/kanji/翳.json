@@ -1,0 +1,78 @@
+{
+  "id": "翳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "翳",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "giữ cao",
+    "kunyomi": [
+      "かげ",
+      "かげ.る",
+      "かざ.す",
+      "きぬがさ",
+      "くも.る",
+      "くもり"
+    ],
+    "onyomi": [
+      "エイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "翳",
+        "reading": "サシハ",
+        "meaning": "một vật lớn hình quạt do người hầu cầm và dùng để che mặt một người quý tộc, v.v."
+      },
+      {
+        "example": "黒影",
+        "reading": "コクエイ",
+        "meaning": "hình bóng, bóng tối"
+      },
+      {
+        "example": "暗影",
+        "reading": "アンエイ",
+        "meaning": "cái bóng, sự u ám"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "陰",
+        "reading": "かげ",
+        "meaning": "bóng tối, bóng tối, đằng sau (cái gì đó), phía bên kia, lưng, hậu cảnh, đằng sau hậu trường, đằng sau lưng ai đó, sự u ám (trong biểu hiện, bản chất của ai đó, v.v.), bóng tối"
+      },
+      {
+        "example": "陰り",
+        "reading": "かげり",
+        "meaning": "cái bóng (ví dụ: về hạnh phúc của ai đó), đám mây, bóng râm, sự u ám"
+      },
+      {
+        "example": "陰る",
+        "reading": "かげる",
+        "meaning": "trở nên u ám, trở nên tối tăm, trở nên tối tăm, trở nên ẩn (phía sau những đám mây), làm tối tăm (khuôn mặt), trở nên tồi tệ hơn, xấu đi, trở nên u ám"
+      },
+      {
+        "example": "翳す",
+        "reading": "かざす",
+        "meaning": "giơ cao đầu, giơ cao, giữ vật gì đó, giơ (tay) ra (ví dụ như hướng về phía ngọn lửa), che vật gì đó bằng vật gì đó, giơ lên để che mắt, mặt, v.v."
+      }
+    ],
+    "radical": {
+      "symbol": "羽",
+      "meaning": "lông vũ"
+    },
+    "parts": [
+      "乞",
+      "冫",
+      "几",
+      "匚",
+      "又",
+      "殳",
+      "矢",
+      "羽"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32755_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07ff3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7ff3.gif",
+    "uri": "https://jisho.org/search/%E7%BF%B3%23kanji"
+  }
+}

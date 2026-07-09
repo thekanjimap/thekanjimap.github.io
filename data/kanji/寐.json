@@ -1,0 +1,55 @@
+{
+  "id": "寐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "寐",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "ngủ",
+    "kunyomi": [
+      "ね.る"
+    ],
+    "onyomi": [
+      "ビ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "寐語",
+        "reading": "ビゴ",
+        "meaning": "nói nhảm, nói nhảm"
+      },
+      {
+        "example": "寤寐",
+        "reading": "ゴビ",
+        "meaning": "đang ngủ và thức"
+      },
+      {
+        "example": "夢寐",
+        "reading": "ムビ",
+        "meaning": "đang ngủ, đang mơ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "寝る",
+        "reading": "ねる",
+        "meaning": "ngủ (nằm), đi ngủ, nằm trên giường, nằm xuống, ngủ (với ai đó, tức là giao hợp), nằm thẳng (ví dụ như tóc), nằm không (của tiền, kho, v.v.), lên men (nước tương, miso, v.v.)"
+      }
+    ],
+    "radical": {
+      "symbol": "宀",
+      "meaning": "mái nhà"
+    },
+    "parts": [
+      "ハ",
+      "亅",
+      "二",
+      "宀",
+      "爿"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23504_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bd0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bd0.gif",
+    "uri": "https://jisho.org/search/%E5%AF%90%23kanji"
+  }
+}

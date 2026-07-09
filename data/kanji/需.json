@@ -1,0 +1,52 @@
+{
+  "id": "需",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "需",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "935",
+    "strokeCount": 14,
+    "meaning": "yêu cầu, yêu cầu, cần",
+    "kunyomi": [],
+    "onyomi": [
+      "ジュ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "需要",
+        "reading": "ジュヨウ",
+        "meaning": "yêu cầu, yêu cầu"
+      },
+      {
+        "example": "需給",
+        "reading": "ジュキュウ",
+        "meaning": "cung và cầu"
+      },
+      {
+        "example": "外需",
+        "reading": "ガイジュ",
+        "meaning": "nhu cầu nước ngoài"
+      },
+      {
+        "example": "内需",
+        "reading": "ナイジュ",
+        "meaning": "nhu cầu trong nước"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "雨",
+      "meaning": "mưa"
+    },
+    "parts": [
+      "而",
+      "雨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38656_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09700.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9700.gif",
+    "uri": "https://jisho.org/search/%E9%9C%80%23kanji"
+  }
+}

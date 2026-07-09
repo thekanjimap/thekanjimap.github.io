@@ -1,0 +1,70 @@
+{
+  "id": "釐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "釐",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "ít, một phần mười của một bu",
+    "kunyomi": [
+      "おさ.める",
+      "さいわ.い",
+      "りん"
+    ],
+    "onyomi": [
+      "リ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "厘",
+        "reading": "リン",
+        "meaning": "một phần trăm, 0,3 mm (một phần trăm mặt trời), 0,1 phần trăm (một phần trăm wari), 0,0375 gam (một phần trăm monme), rin (đơn vị tiền tệ; 0,001 yên)"
+      },
+      {
+        "example": "毫釐",
+        "reading": "ゴウリ",
+        "meaning": "số lượng rất nhỏ"
+      },
+      {
+        "example": "銚釐",
+        "reading": "チロリ",
+        "meaning": "bình đựng rượu sake bằng kim loại, bình đựng rượu sake"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "厘",
+        "reading": "りん",
+        "meaning": "một phần trăm, 0,3 mm (một phần trăm mặt trời), 0,1 phần trăm (một phần trăm wari), 0,0375 gam (một phần trăm monme), rin (đơn vị tiền tệ; 0,001 yên)"
+      },
+      {
+        "example": "毫釐",
+        "reading": "ごうり",
+        "meaning": "số lượng rất nhỏ"
+      },
+      {
+        "example": "分厘",
+        "reading": "ふんりん",
+        "meaning": "(không) ít nhất, (không) một chút"
+      }
+    ],
+    "radical": {
+      "symbol": "里",
+      "meaning": "làng, dặm"
+    },
+    "parts": [
+      "ハ",
+      "乞",
+      "二",
+      "厂",
+      "攵",
+      "木",
+      "里",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37328_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091d0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91d0.gif",
+    "uri": "https://jisho.org/search/%E9%87%90%23kanji"
+  }
+}

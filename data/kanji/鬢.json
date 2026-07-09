@@ -1,0 +1,57 @@
+{
+  "id": "鬢",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鬢",
+    "found": true,
+    "strokeCount": 24,
+    "meaning": "tóc mai",
+    "kunyomi": [],
+    "onyomi": [
+      "ビン",
+      "ヒン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鬢",
+        "reading": "ビン",
+        "meaning": "tóc lệch, tóc ở thái dương"
+      },
+      {
+        "example": "鬢切り",
+        "reading": "ビンキリ",
+        "meaning": "binkiri, kiểu tóc thời Edo với một lọn tóc chạy dài từ thái dương xuống qua tai"
+      },
+      {
+        "example": "双鬢",
+        "reading": "ソウビン",
+        "meaning": "ổ khóa bên"
+      },
+      {
+        "example": "両鬢",
+        "reading": "リョウビン",
+        "meaning": "tóc mai, tóc ở hai bên đầu"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "髟",
+      "meaning": "tóc dài"
+    },
+    "parts": [
+      "ノ",
+      "ハ",
+      "宀",
+      "小",
+      "彡",
+      "目",
+      "貝",
+      "長",
+      "髟"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39714_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b22.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b22.gif",
+    "uri": "https://jisho.org/search/%E9%AC%A2%23kanji"
+  }
+}

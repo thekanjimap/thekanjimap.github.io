@@ -1,0 +1,65 @@
+{
+  "id": "骸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "骸",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "strokeCount": 16,
+    "meaning": "xương, cơ thể, xác chết",
+    "kunyomi": [
+      "むくろ"
+    ],
+    "onyomi": [
+      "ガイ",
+      "カイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "骸骨",
+        "reading": "ガイコツ",
+        "meaning": "bộ xương"
+      },
+      {
+        "example": "骸晶",
+        "reading": "ガイショウ",
+        "meaning": "tinh thể phễu, tinh thể bộ xương"
+      },
+      {
+        "example": "死骸",
+        "reading": "シガイ",
+        "meaning": "(đã chết) thi thể, thi thể, thi thể, hài cốt"
+      },
+      {
+        "example": "形骸",
+        "reading": "ケイガイ",
+        "meaning": "(vô hồn) cơ thể, khung (của một tòa nhà, v.v.), bộ xương, hài cốt, đống đổ nát, xác tàu, vỏ sò, tên đơn thuần, lá thư chết"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "躯",
+        "reading": "むくろ",
+        "meaning": "(đã chết) thi thể, thi thể"
+      }
+    ],
+    "radical": {
+      "symbol": "骨",
+      "meaning": "khúc xương"
+    },
+    "parts": [
+      "ノ",
+      "丶",
+      "亠",
+      "人",
+      "冂",
+      "冖",
+      "月",
+      "骨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39608_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ab8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ab8.gif",
+    "uri": "https://jisho.org/search/%E9%AA%B8%23kanji"
+  }
+}

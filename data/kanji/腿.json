@@ -1,0 +1,76 @@
+{
+  "id": "腿",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "腿",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "đùi, xương đùi",
+    "kunyomi": [
+      "もも"
+    ],
+    "onyomi": [
+      "タイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "腿口類",
+        "reading": "タイコウルイ",
+        "meaning": "Merostomata (nhóm bao gồm bọ cạp biển và cua móng ngựa)"
+      },
+      {
+        "example": "腿骨",
+        "reading": "タイコツ",
+        "meaning": "xương của chân trên và dưới"
+      },
+      {
+        "example": "大腿",
+        "reading": "ダイタイ",
+        "meaning": "đùi"
+      },
+      {
+        "example": "上腿",
+        "reading": "ジョウタイ",
+        "meaning": "đùi"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "腿",
+        "reading": "もも",
+        "meaning": "đùi"
+      },
+      {
+        "example": "腿赤ノスリ",
+        "reading": "ももあかノスリ",
+        "meaning": "Diều hâu Harris (Parabuteo unicinctus), diều hâu Harris"
+      },
+      {
+        "example": "太もも",
+        "reading": "ふともも",
+        "meaning": "đùi, mông, mông, mông, mông"
+      },
+      {
+        "example": "外股",
+        "reading": "そともも",
+        "meaning": "đùi ngoài"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "thịt"
+    },
+    "parts": [
+      "月",
+      "艮",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33151_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0817f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/817f.gif",
+    "uri": "https://jisho.org/search/%E8%85%BF%23kanji"
+  }
+}

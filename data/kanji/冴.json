@@ -1,0 +1,47 @@
+{
+  "id": "冴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "冴",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2341",
+    "strokeCount": 7,
+    "meaning": "rõ ràng, thanh thản, lạnh lùng, khéo léo",
+    "kunyomi": [
+      "さ.える",
+      "こお.る",
+      "ひ.える"
+    ],
+    "onyomi": [
+      "ゴ",
+      "コ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "冴寒",
+        "reading": "ゴカン",
+        "meaning": "cực lạnh"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "冴える",
+        "reading": "さえる",
+        "meaning": "rõ ràng (về hình ảnh, âm thanh, màu sắc, v.v.), sáng sủa, sống động, sắc nét, rõ ràng, tỉnh táo, nhạy bén, tỉnh táo, trông lạc quan, vui tươi, vui vẻ, thành thạo (một kỹ năng), xuất sắc, thực hiện sạch sẽ, thỏa mãn, trở nên lạnh lùng, trở nên cực kỳ lạnh lùng"
+      }
+    ],
+    "radical": {
+      "symbol": "冫",
+      "meaning": "băng"
+    },
+    "parts": [
+      "冫",
+      "牙"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20916_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051b4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51b4.gif",
+    "uri": "https://jisho.org/search/%E5%86%B4%23kanji"
+  }
+}

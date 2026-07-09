@@ -1,0 +1,86 @@
+{
+  "id": "塵",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "塵",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "bụi, rác, rác",
+    "kunyomi": [
+      "ちり",
+      "ごみ"
+    ],
+    "onyomi": [
+      "チン",
+      "ジン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "塵",
+        "reading": "ジン",
+        "meaning": "phiền não, bất tịnh, phiền não, đối tượng (được nhận thức bằng tâm trí hoặc giác quan), một phần tỷ"
+      },
+      {
+        "example": "塵埃",
+        "reading": "ジンアイ",
+        "meaning": "bụi bặm, bụi bặm, thế giới ảm đạm, những chuyện vụn vặt đời thường"
+      },
+      {
+        "example": "灰塵",
+        "reading": "カイジン",
+        "meaning": "tro và bụi"
+      },
+      {
+        "example": "細塵",
+        "reading": "サイジン",
+        "meaning": "bụi mịn"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "塵",
+        "reading": "ちり",
+        "meaning": "bụi bặm, rác rưởi, rác rưởi, rác rưởi, bụi bẩn, số lượng không đáng kể, một chút, sự hối hả và nhộn nhịp (của cuộc sống), sự quan tâm trần tục, tạp chất của thế giới, cử chỉ nghi lễ cho thấy một cuộc chiến sẽ trong sạch"
+      },
+      {
+        "example": "ちり紙",
+        "reading": "ちりがみ",
+        "meaning": "khăn giấy, giấy vệ sinh"
+      },
+      {
+        "example": "【ゴミ】",
+        "reading": "rubbish, trash, garbage, refuse, litter",
+        "meaning": ""
+      },
+      {
+        "example": "ゴミ箱",
+        "reading": "ごみばこ",
+        "meaning": "thùng rác, thùng rác, thùng rác, thùng rác"
+      },
+      {
+        "example": "粗大ごみ",
+        "reading": "そだいごみ",
+        "meaning": "rác cỡ lớn (ví dụ: đồ nội thất, đồ điện), rác quá khổ, rác cồng kềnh, người đàn ông vô dụng trong nhà, người chồng đã nghỉ hưu và bị coi là phiền toái"
+      },
+      {
+        "example": "家庭ごみ",
+        "reading": "かていごみ",
+        "meaning": "rác thải sinh hoạt, rác thải sinh hoạt, rác thải sinh hoạt"
+      }
+    ],
+    "radical": {
+      "symbol": "土",
+      "meaning": "trái đất"
+    },
+    "parts": [
+      "土",
+      "广",
+      "比",
+      "鹿"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22645_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05875.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5875.gif",
+    "uri": "https://jisho.org/search/%E5%A1%B5%23kanji"
+  }
+}

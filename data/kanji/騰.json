@@ -1,0 +1,67 @@
+{
+  "id": "騰",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "騰",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1420",
+    "strokeCount": 20,
+    "meaning": "nhảy lên,nhảy lên,nhảy lên,tiến lên,tiến tới",
+    "kunyomi": [
+      "あが.る",
+      "のぼ.る"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "騰貴",
+        "reading": "トウキ",
+        "meaning": "tăng (về giá hoặc giá trị), tăng giá, tiến bộ"
+      },
+      {
+        "example": "騰勢",
+        "reading": "トウセイ",
+        "meaning": "xu hướng đi lên"
+      },
+      {
+        "example": "反騰",
+        "reading": "ハントウ",
+        "meaning": "tăng giá phản động"
+      },
+      {
+        "example": "物価高騰",
+        "reading": "ブッカコウトウ",
+        "meaning": "tăng giá"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "上がる",
+        "reading": "あがる",
+        "meaning": "tăng lên, đi lên, đi lên, đi lên, được nâng lên, đi vào (đặc biệt là từ ngoài trời), đi vào, đi vào, vào (một trường học), lên lớp tiếp theo, ra khỏi (dưới nước), lên bờ, tăng trưởng, cải thiện, tiến bộ, được thăng chức, thăng tiến, được thực hiện (vì lợi nhuận, v.v.), xảy ra (đặc biệt là một kết quả thuận lợi), vừa đủ (để trang trải chi phí, v.v.), hoàn thành, phải làm, vượt qua, dừng (mưa), nâng, dừng (làm việc đúng cách), cắt ra, đưa ra, chết, thắng (trong một trò chơi bài, v.v.), bị bắt, xuất hiện (bằng chứng, v.v.), bị chiên giòn, nói to, lo lắng, sợ hãi sân khấu, được cúng dường (với các vị thần, v.v.), được đi, thăm, ăn, uống, được liệt kê (như một ứng cử viên), để phục vụ (trong nhà của chủ nhân), đến được hoàn thành, để kết thúc, ở trên, phía bắc của"
+      }
+    ],
+    "radical": {
+      "symbol": "馬",
+      "meaning": "con ngựa"
+    },
+    "parts": [
+      "一",
+      "二",
+      "人",
+      "大",
+      "并",
+      "月",
+      "杰",
+      "馬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39472_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09a30.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9a30.gif",
+    "uri": "https://jisho.org/search/%E9%A8%B0%23kanji"
+  }
+}

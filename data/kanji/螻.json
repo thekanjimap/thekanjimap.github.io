@@ -1,0 +1,56 @@
+{
+  "id": "螻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "螻",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "dế chuột chũi",
+    "kunyomi": [
+      "けら"
+    ],
+    "onyomi": [
+      "ロウ",
+      "ル"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "螻蛄",
+        "reading": "ケラ",
+        "meaning": "dế chũi (đặc biệt là dế chũi phương Đông, Gryllotalpa Orientalis), không một xu dính túi, bị phá sản"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "螻蛄",
+        "reading": "けら",
+        "meaning": "dế chũi (đặc biệt là dế chũi phương Đông, Gryllotalpa Orientalis), không một xu dính túi, bị phá sản"
+      },
+      {
+        "example": "螻蛄芸",
+        "reading": "けらげい",
+        "meaning": "là người nắm rõ mọi nghề và không thành thạo một nghề nào"
+      },
+      {
+        "example": "虫けら",
+        "reading": "むしけら",
+        "meaning": "sâu, côn trùng, người tầm thường, người đáng thương"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "côn trùng"
+    },
+    "parts": [
+      "一",
+      "口",
+      "女",
+      "虫",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34747_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/087bb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/87bb.gif",
+    "uri": "https://jisho.org/search/%E8%9E%BB%23kanji"
+  }
+}

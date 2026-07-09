@@ -1,0 +1,73 @@
+{
+  "id": "沫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "沫",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "bắn tung tóe, sủi bọt",
+    "kunyomi": [
+      "あわ",
+      "しぶき",
+      "つばき"
+    ],
+    "onyomi": [
+      "マツ",
+      "バツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "飛沫",
+        "reading": "ヒマツ",
+        "meaning": "giật gân, phun, giọt"
+      },
+      {
+        "example": "泡沫",
+        "reading": "ウタカタ",
+        "meaning": "bong bóng trên bề mặt chất lỏng, phù du, thoáng qua"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "泡",
+        "reading": "あわ",
+        "meaning": "bong bóng, bọt, bọt, bọt, bọt, đầu (trên bia)"
+      },
+      {
+        "example": "淡雪",
+        "reading": "あわゆき",
+        "meaning": "Tuyết nhẹ, tuyết rơi nhẹ, tuyết mỏng, món tráng miệng thạch làm từ lòng trắng trứng đánh bông, thạch và đường"
+      },
+      {
+        "example": "血飛沫",
+        "reading": "ちしぶき",
+        "meaning": "phun máu (do vũ khí gây ra), đài phun máu"
+      },
+      {
+        "example": "波しぶき",
+        "reading": "なみしぶき",
+        "meaning": "phun nước biển, trôi dạt"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "ハ",
+      "二",
+      "亠",
+      "木",
+      "汁",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27819_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06cab.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6cab.gif",
+    "uri": "https://jisho.org/search/%E6%B2%AB%23kanji"
+  }
+}

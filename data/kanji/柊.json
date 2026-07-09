@@ -1,0 +1,49 @@
+{
+  "id": "柊",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "柊",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 9,
+    "meaning": "nhựa ruồi",
+    "kunyomi": [
+      "ひいらぎ"
+    ],
+    "onyomi": [
+      "シュ",
+      "シュウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "柊",
+        "reading": "ひいらぎ",
+        "meaning": "ô liu nhựa ruồi (Osmanthus dị hợp), nhựa ruồi giả, nhựa ruồi, cá ngựa đốm (Leiognathus nuchalis)"
+      },
+      {
+        "example": "柊鰯",
+        "reading": "ひいらぎいわし",
+        "meaning": "cá mòi và bùa nhựa ruồi, đầu cá mòi và cành nhựa ruồi được đặt cạnh cửa trước trong lễ setsubun để xua đuổi ma quỷ"
+      },
+      {
+        "example": "西洋柊",
+        "reading": "せいようひいらぎ",
+        "meaning": "Holly Anh (Ilex aquifolium)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "丶",
+      "夂",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26570_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067ca.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67ca.gif",
+    "uri": "https://jisho.org/search/%E6%9F%8A%23kanji"
+  }
+}

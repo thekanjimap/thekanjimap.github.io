@@ -1,0 +1,47 @@
+{
+  "id": "颪",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "颪",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "gió từ núi, (kokuji)",
+    "kunyomi": [
+      "おろし"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "颪",
+        "reading": "おろし",
+        "meaning": "gió thổi từ trên núi xuống"
+      },
+      {
+        "example": "六甲颪",
+        "reading": "ろっこうおろし",
+        "meaning": "gió mùa đông lạnh giá phương bắc từ dãy núi Rokko"
+      },
+      {
+        "example": "嶺颪",
+        "reading": "ねおろし",
+        "meaning": "gió thổi từ đỉnh núi"
+      }
+    ],
+    "radical": {
+      "symbol": "風",
+      "meaning": "gió"
+    },
+    "parts": [
+      "一",
+      "几",
+      "卜",
+      "虫",
+      "風"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39082_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/098aa.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/98aa.gif",
+    "uri": "https://jisho.org/search/%E9%A2%AA%23kanji"
+  }
+}

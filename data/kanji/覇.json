@@ -1,0 +1,60 @@
+{
+  "id": "覇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "覇",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1173",
+    "strokeCount": 19,
+    "meaning": "bá quyền, uy quyền, lãnh đạo, vô địch",
+    "kunyomi": [
+      "はたがしら"
+    ],
+    "onyomi": [
+      "ハ",
+      "ハク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "覇",
+        "reading": "ハ",
+        "meaning": "quyền lực tối cao (trên một quốc gia), quyền bá chủ, sự thống trị, sự lãnh đạo, chức vô địch, chiến thắng"
+      },
+      {
+        "example": "覇権",
+        "reading": "ハケン",
+        "meaning": "quyền bá chủ"
+      },
+      {
+        "example": "制覇",
+        "reading": "セイハ",
+        "meaning": "chinh phục, thống trị, uy quyền, làm chủ, chiến thắng (chức vô địch)"
+      },
+      {
+        "example": "初制覇",
+        "reading": "ハツセイハ",
+        "meaning": "chiến thắng đầu tiên"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "西",
+      "forms": [
+        "襾",
+        "覀"
+      ],
+      "meaning": "hướng tây"
+    },
+    "parts": [
+      "月",
+      "西",
+      "革"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35207_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08987.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8987.gif",
+    "uri": "https://jisho.org/search/%E8%A6%87%23kanji"
+  }
+}

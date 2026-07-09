@@ -1,0 +1,375 @@
+{
+  "id": "波",
+  "kanjialiveData": {
+    "_id": "54317b0d791eba5146ee4c7a",
+    "_rev": "9-eb1a27005cec64f4d0d940f30602d0fe",
+    "rad_name_ja": "さんずい",
+    "grade": 3,
+    "hint_group": 1,
+    "kunyomi": "nami",
+    "meaning": "làn sóng",
+    "kstroke": 8,
+    "examples": [
+      {
+        "japanese": "波紋（はもん）",
+        "meaning": {
+          "english": "gợn sóng [n.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(on)pa_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(on)pa_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(on)pa_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(on)pa_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "波長（はちょう）",
+        "meaning": {
+          "english": "bước sóng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(on)pa_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(on)pa_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(on)pa_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(on)pa_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "波止場（はとば）",
+        "meaning": {
+          "english": "bến tàu, cầu cảng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(on)pa_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(on)pa_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(on)pa_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(on)pa_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "電磁波（でんじは）",
+        "meaning": {
+          "english": "sóng điện từ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(on)pa_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(on)pa_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(on)pa_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(on)pa_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "電波（でんぱ）",
+        "meaning": {
+          "english": "sóng vô tuyến"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(on)pa_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(on)pa_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(on)pa_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(on)pa_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "音波（おんぱ）",
+        "meaning": {
+          "english": "sóng âm"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(on)pa_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(on)pa_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(on)pa_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(on)pa_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "寒波（かんぱ）",
+        "meaning": {
+          "english": "một cái lạnh đột ngột"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(on)pa_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(on)pa_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(on)pa_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(on)pa_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "波（なみ）",
+        "meaning": {
+          "english": "sóng [n.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(on)pa_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(on)pa_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(on)pa_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(on)pa_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "波乗り（なみのり）",
+        "meaning": {
+          "english": "lướt sóng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(on)pa_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(on)pa_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(on)pa_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(on)pa_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "津波（つなみ）",
+        "meaning": {
+          "english": "sóng thần, thủy triều"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(on)pa_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(on)pa_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(on)pa_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(on)pa_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "人波（ひとなみ）",
+        "meaning": {
+          "english": "đám đông dâng cao, giẫm đạp"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(on)pa_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(on)pa_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(on)pa_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(on)pa_06_k.mp3"
+        }
+      },
+      {
+        "japanese": "波打つ（なみうつ）",
+        "meaning": {
+          "english": "lao tới, nhấp nhô, phập phồng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(on)pa_06_l.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(on)pa_06_l.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(on)pa_06_l.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(on)pa_06_l.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "なみ",
+    "ka_utf": "波",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=波",
+    "rad_name_search": [
+      "sanzui"
+    ],
+    "rad_order": 76,
+    "txt_books": [],
+    "kname": "(on)pa",
+    "rad_utf": "⺡",
+    "stroketimes": [
+      0,
+      0.733333,
+      1.8,
+      3.133333,
+      4.533333,
+      6,
+      7.733333,
+      9.733333,
+      11.6
+    ],
+    "kunyomi_ka_display": "なみ",
+    "dick": "245",
+    "rad_name": "sanzui",
+    "dicn": "2529",
+    "mn_hint": "The wrinkled skin 皮 of the water シ.",
+    "rad_stroke": 3,
+    "onyomi_ja": "ハ",
+    "rad_meaning": "nước",
+    "onyomi": "ha",
+    "ka_id": "ka_898",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "ha",
+      "ha"
+    ],
+    "kunyomi_search": [
+      "nami",
+      "nami"
+    ],
+    "meaning_search": [
+      "wave",
+      "wave"
+    ],
+    "onyomi_ja_search": [
+      "ハ",
+      "ハ"
+    ],
+    "kunyomi_ja_search": [
+      "なみ",
+      "なみ"
+    ],
+    "rad_meaning_search": [
+      "water",
+      "water"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "さんずい"
+    ],
+    "textbook_search": [],
+    "rad_name_file": "sanzui",
+    "kanji": {
+      "character": "波",
+      "meaning": {
+        "english": "wave"
+      },
+      "strokes": {
+        "count": 8,
+        "timings": [
+          0,
+          0.733333,
+          1.8,
+          3.133333,
+          4.533333,
+          6,
+          7.733333,
+          9.733333,
+          11.6
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/(on)pa_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/(on)pa_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/(on)pa_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/(on)pa_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/(on)pa_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/(on)pa_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/(on)pa_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/(on)pa_8.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "ha",
+        "katakana": "ハ"
+      },
+      "kunyomi": {
+        "romaji": "nami",
+        "hiragana": "なみ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/(on)pa_8.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/(on)pa_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/(on)pa_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺡",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/sanzui.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "さんずい",
+        "romaji": "sanzui"
+      },
+      "meaning": {
+        "english": "nước"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/sanzui0.svg",
+        "https://media.kanjialive.com/rad_frames/sanzui1.svg",
+        "https://media.kanjialive.com/rad_frames/sanzui2.svg"
+      ]
+    },
+    "references": {
+      "grade": 3,
+      "kodansha": "245",
+      "classic_nelson": "2529"
+    }
+  },
+  "jishoData": {
+    "query": "波",
+    "found": true,
+    "taughtIn": "lớp 3",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "740",
+    "strokeCount": 8,
+    "meaning": "sóng, sóng, Ba Lan",
+    "kunyomi": [
+      "なみ"
+    ],
+    "onyomi": [
+      "ハ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "波",
+        "reading": "ハ",
+        "meaning": "bộ đếm sóng (của sự xuất hiện lặp đi lặp lại)"
+      },
+      {
+        "example": "波及",
+        "reading": "ハキュウ",
+        "meaning": "lan rộng, mở rộng, ảnh hưởng, hậu quả, gợn sóng"
+      },
+      {
+        "example": "低周波",
+        "reading": "テイシュウハ",
+        "meaning": "tần số thấp"
+      },
+      {
+        "example": "横波",
+        "reading": "ヨコナミ",
+        "meaning": "sóng ngang, sóng biển"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "波",
+        "reading": "なみ",
+        "meaning": "sóng, thăng trầm"
+      },
+      {
+        "example": "波間",
+        "reading": "なみま",
+        "meaning": "khoảng cách giữa các sóng, khoảng cách giữa các sóng"
+      },
+      {
+        "example": "高波",
+        "reading": "たかなみ",
+        "meaning": "sóng lớn, biển lớn"
+      },
+      {
+        "example": "横波",
+        "reading": "よこなみ",
+        "meaning": "sóng ngang, sóng biển"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "又",
+      "汁",
+      "皮"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27874_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ce2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ce2.gif",
+    "uri": "https://jisho.org/search/%E6%B3%A2%23kanji"
+  }
+}

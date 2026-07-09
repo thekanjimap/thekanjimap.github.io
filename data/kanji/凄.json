@@ -1,0 +1,64 @@
+{
+  "id": "凄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "凄",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "newspaperFrequencyRank": "2313",
+    "strokeCount": 10,
+    "meaning": "kỳ lạ, kỳ lạ, đe dọa, khủng khiếp",
+    "kunyomi": [
+      "さむ.い",
+      "すご.い",
+      "すさ.まじい"
+    ],
+    "onyomi": [
+      "セイ",
+      "サイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "凄艶",
+        "reading": "セイエン",
+        "meaning": "đẹp lạ lùng"
+      },
+      {
+        "example": "凄惨",
+        "reading": "セイサン",
+        "meaning": "khủng khiếp, khủng khiếp, khủng khiếp, khủng khiếp"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "凄い",
+        "reading": "すごい",
+        "meaning": "khủng khiếp, khủng khiếp, đáng kinh ngạc (ví dụ: sức mạnh), tuyệt vời (ví dụ: kỹ năng), tuyệt vời, tuyệt vời, đến một mức độ lớn, rộng lớn (về số lượng), khủng khiếp, rất, vô cùng"
+      },
+      {
+        "example": "凄い事になる",
+        "reading": "すごいことになる",
+        "meaning": "phát điên (đặc biệt là về một tình huống hoặc sự việc), vượt khỏi tầm kiểm soát, rơi vào trạng thái cực độ"
+      },
+      {
+        "example": "凄まじい",
+        "reading": "すさまじい",
+        "meaning": "khủng khiếp, khủng khiếp, khủng khiếp, khủng khiếp, khủng khiếp, to lớn, khủng khiếp, to lớn, phi thường, kỳ diệu, đáng kinh ngạc, kinh khủng, gây sốc, đáng kinh ngạc, ngớ ngẩn"
+      }
+    ],
+    "radical": {
+      "symbol": "冫",
+      "meaning": "băng"
+    },
+    "parts": [
+      "ヨ",
+      "冫",
+      "十",
+      "女"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20932_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051c4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51c4.gif",
+    "uri": "https://jisho.org/search/%E5%87%84%23kanji"
+  }
+}

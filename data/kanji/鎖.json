@@ -1,0 +1,87 @@
+{
+  "id": "鎖",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鎖",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1250",
+    "strokeCount": 18,
+    "meaning": "dây chuyền, bàn là, kết nối",
+    "kunyomi": [
+      "くさり",
+      "とざ.す"
+    ],
+    "onyomi": [
+      "サ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鎖国",
+        "reading": "サコク",
+        "meaning": "cô lập quốc gia, đóng cửa đất nước (với người nước ngoài), sakoku, chính sách cô lập quốc gia do Mạc phủ Tokugawa ban hành"
+      },
+      {
+        "example": "鎖骨",
+        "reading": "サコツ",
+        "meaning": "xương đòn, xương đòn"
+      },
+      {
+        "example": "経済封鎖",
+        "reading": "ケイザイフウサ",
+        "meaning": "phong tỏa kinh tế, cấm vận"
+      },
+      {
+        "example": "学級閉鎖",
+        "reading": "ガッキュウヘイサ",
+        "meaning": "tạm thời đóng cửa lớp học"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鎖",
+        "reading": "くさり",
+        "meaning": "chuỗi, chuỗi"
+      },
+      {
+        "example": "鎖編み",
+        "reading": "くさりあみ",
+        "meaning": "chuỗi khâu"
+      },
+      {
+        "example": "失われた鎖",
+        "reading": "うしなわれたくさり",
+        "meaning": "liên kết bị thiếu"
+      },
+      {
+        "example": "救命の鎖",
+        "reading": "きゅうめいのくさり",
+        "meaning": "chuỗi sinh tồn"
+      },
+      {
+        "example": "閉ざす",
+        "reading": "とざす",
+        "meaning": "đóng, đóng, buộc chặt, khóa, chặn (đường phố, lối vào, v.v.), đóng cửa (với tuyết, băng, v.v.), tắt, cắt đứt, che phủ (ví dụ: trong bóng tối), tiêu thụ (với cảm giác tiêu cực), lấp đầy (ví dụ: nỗi buồn), chôn vùi (ví dụ: trong đau buồn)"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "kim loại, vàng"
+    },
+    "parts": [
+      "ハ",
+      "尚",
+      "目",
+      "貝",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37782_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09396.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9396.gif",
+    "uri": "https://jisho.org/search/%E9%8E%96%23kanji"
+  }
+}

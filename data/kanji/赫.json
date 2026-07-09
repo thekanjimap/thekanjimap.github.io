@@ -1,0 +1,59 @@
+{
+  "id": "赫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "赫",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "đột nhiên, sáng lên, chiếu sáng, sáng lên",
+    "kunyomi": [
+      "あかい",
+      "あか",
+      "かがや.く"
+    ],
+    "onyomi": [
+      "カク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "赫奕",
+        "reading": "カクエキ",
+        "meaning": "sáng, rực rỡ, rực rỡ, rực rỡ"
+      },
+      {
+        "example": "赫々",
+        "reading": "カクカク",
+        "meaning": "rực rỡ, rực rỡ, huy hoàng"
+      },
+      {
+        "example": "赫々",
+        "reading": "カクカク",
+        "meaning": "rực rỡ, rực rỡ, huy hoàng"
+      },
+      {
+        "example": "名声赫々",
+        "reading": "メイセイカッカク",
+        "meaning": "có danh tiếng lớn, rất lừng lẫy, ở đỉnh cao danh vọng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "輝く",
+        "reading": "かがやく",
+        "meaning": "tỏa sáng, lấp lánh, lấp lánh, lấp lánh, lấp lánh, sáng lên (với hạnh phúc, hy vọng, v.v.), tỏa sáng, lấp lánh, tỏa sáng"
+      }
+    ],
+    "radical": {
+      "symbol": "赤",
+      "meaning": "màu đỏ, khỏa thân"
+    },
+    "parts": [
+      "土",
+      "赤"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36203_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08d6b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8d6b.gif",
+    "uri": "https://jisho.org/search/%E8%B5%AB%23kanji"
+  }
+}

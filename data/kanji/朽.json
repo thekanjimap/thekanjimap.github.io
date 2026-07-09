@@ -1,0 +1,61 @@
+{
+  "id": "朽",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "朽",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1891",
+    "strokeCount": 6,
+    "meaning": "mục nát, thối rữa, sống ẩn dật",
+    "kunyomi": [
+      "く.ちる"
+    ],
+    "onyomi": [
+      "キュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "朽壊",
+        "reading": "キュウカイ",
+        "meaning": "thối rữa và vỡ vụn"
+      },
+      {
+        "example": "朽廃",
+        "reading": "キュウハイ",
+        "meaning": "sự suy tàn, sự đổ nát"
+      },
+      {
+        "example": "若朽",
+        "reading": "ジャッキュウ",
+        "meaning": "trẻ nhưng không có tham vọng, trẻ nhưng thiếu tinh thần"
+      },
+      {
+        "example": "腐朽",
+        "reading": "フキュウ",
+        "meaning": "sự mục nát, sự suy thoái, mục nát"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "朽ちる",
+        "reading": "くちる",
+        "meaning": "mục nát, mục nát, chết trong tăm tối, bị lãng quên theo thời gian"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "一",
+      "勹",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26429_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0673d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/673d.gif",
+    "uri": "https://jisho.org/search/%E6%9C%BD%23kanji"
+  }
+}

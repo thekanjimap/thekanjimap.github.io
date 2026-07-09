@@ -1,0 +1,64 @@
+{
+  "id": "噴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "噴",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1270",
+    "strokeCount": 15,
+    "meaning": "phun ra, phun ra, phun ra, tuôn ra",
+    "kunyomi": [
+      "ふ.く"
+    ],
+    "onyomi": [
+      "フン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "噴煙",
+        "reading": "フンエン",
+        "meaning": "(sự phun trào) khói"
+      },
+      {
+        "example": "噴火",
+        "reading": "フンカ",
+        "meaning": "sự phun trào, sự phun trào núi lửa"
+      },
+      {
+        "example": "暴噴",
+        "reading": "ボウフン",
+        "meaning": "vụ nổ (giếng dầu, mỏ khí đốt, v.v.)"
+      },
+      {
+        "example": "自噴",
+        "reading": "ジフン",
+        "meaning": "phun ra (ví dụ như dầu), phun ra, sự xuất hiện tự nhiên (của suối nước nóng)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "噴く",
+        "reading": "ふく",
+        "meaning": "phun ra, phun ra, phun ra, sôi lên"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "ハ",
+      "十",
+      "口",
+      "目",
+      "艾",
+      "貝"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22132_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05674.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5674.gif",
+    "uri": "https://jisho.org/search/%E5%99%B4%23kanji"
+  }
+}

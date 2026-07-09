@@ -1,0 +1,94 @@
+{
+  "id": "鉤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鉤",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "móc, ngạnh, gaff, dấu ngoặc",
+    "kunyomi": [
+      "かぎ",
+      "はり",
+      "ばり"
+    ],
+    "onyomi": [
+      "コウ",
+      "ク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鉤状",
+        "reading": "コウジョウ",
+        "meaning": "hình móc câu, hình móc câu, hình móc câu"
+      },
+      {
+        "example": "鉤虫",
+        "reading": "コウチュウ",
+        "meaning": "giun móc"
+      },
+      {
+        "example": "符鉤",
+        "reading": "フコウ",
+        "meaning": "đuôi (của một nốt nhạc)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鉤",
+        "reading": "かぎ",
+        "meaning": "móc, khung móc (dấu ngoặc kép tiếng Nhật)"
+      },
+      {
+        "example": "かぎ括弧",
+        "reading": "かぎかっこ",
+        "meaning": "dấu ngoặc vuông, dấu ngoặc kép kiểu Nhật"
+      },
+      {
+        "example": "自在鉤",
+        "reading": "じざいかぎ",
+        "meaning": "ổ gà (để treo cái nồi v.v. trên đống lửa)"
+      },
+      {
+        "example": "ひっかけ鉤",
+        "reading": "ひっかけかぎ",
+        "meaning": "móc vật lộn, móc sắt"
+      },
+      {
+        "example": "針",
+        "reading": "はり",
+        "meaning": "kim, ghim, móc, ngòi, gai, bàn tay (ví dụ: đồng hồ, v.v.), con trỏ, ghim (đối với kim bấm), may vá, may, ác ý, bộ đếm mũi khâu"
+      },
+      {
+        "example": "鉤素",
+        "reading": "はりす",
+        "meaning": "snell (câu cá), lãnh đạo, dấu vết, đúc"
+      },
+      {
+        "example": "蚊針",
+        "reading": "かばり",
+        "meaning": "ruồi đánh cá"
+      },
+      {
+        "example": "毛鉤",
+        "reading": "けばり",
+        "meaning": "(nhân tạo) bay, mồi bay"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "kim loại, vàng"
+    },
+    "parts": [
+      "勹",
+      "口",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37476_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09264.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9264.gif",
+    "uri": "https://jisho.org/search/%E9%89%A4%23kanji"
+  }
+}

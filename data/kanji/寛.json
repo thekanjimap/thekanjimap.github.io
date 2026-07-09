@@ -1,0 +1,68 @@
+{
+  "id": "寛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "寛",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1377",
+    "strokeCount": 13,
+    "meaning": "khoan dung, khoan dung, rộng lượng, thư giãn, cảm thấy như ở nhà, thoải mái, cởi mở",
+    "kunyomi": [
+      "くつろ.ぐ",
+      "ひろ.い",
+      "ゆる.やか"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "寛",
+        "reading": "カン",
+        "meaning": "khoan dung, dịu dàng"
+      },
+      {
+        "example": "寛大",
+        "reading": "カンダイ",
+        "meaning": "bao dung, rộng lượng, khoan dung, rộng lượng, cao thượng"
+      },
+      {
+        "example": "長寛",
+        "reading": "チョウカン",
+        "meaning": "Thời Chokan (1163.3.29-1165.6.5)"
+      },
+      {
+        "example": "寛緩",
+        "reading": "カンカン",
+        "meaning": "trông thật ngầu và thu hút, với một bầu không khí điềm tĩnh hoàn hảo"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "寛ぐ",
+        "reading": "くつろぐ",
+        "meaning": "để thư giãn, để cảm thấy như ở nhà"
+      },
+      {
+        "example": "寛い",
+        "reading": "ひろい",
+        "meaning": "rộng lượng"
+      }
+    ],
+    "radical": {
+      "symbol": "宀",
+      "meaning": "mái nhà"
+    },
+    "parts": [
+      "宀",
+      "艾",
+      "見"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23515_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bdb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bdb.gif",
+    "uri": "https://jisho.org/search/%E5%AF%9B%23kanji"
+  }
+}

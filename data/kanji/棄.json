@@ -1,0 +1,63 @@
+{
+  "id": "棄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "棄",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "901",
+    "strokeCount": 13,
+    "meaning": "từ bỏ,vứt bỏ,vứt bỏ,từ chức,từ chối,hy sinh",
+    "kunyomi": [
+      "す.てる"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "棄権",
+        "reading": "キケン",
+        "meaning": "bỏ phiếu trắng (bỏ phiếu), từ bỏ (quyền), rút lui (khỏi một cuộc tranh cử)"
+      },
+      {
+        "example": "棄却",
+        "reading": "キキャク",
+        "meaning": "sự từ bỏ, sự từ chối, sự từ chối, sự từ bỏ, sự từ bỏ"
+      },
+      {
+        "example": "投棄",
+        "reading": "トウキ",
+        "meaning": "sự bỏ rơi,sự từ bỏ,vứt bỏ,vứt bỏ,vứt bỏ"
+      },
+      {
+        "example": "遺棄",
+        "reading": "イキ",
+        "meaning": "sự bỏ rơi, sự đào ngũ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "捨てる",
+        "reading": "すてる",
+        "meaning": "vứt đi,bỏ đi,vứt bỏ,bỏ rơi,bỏ rơi,bỏ đi,từ bỏ,từ chức"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "一",
+      "亠",
+      "凵",
+      "厶",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26820_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068c4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68c4.gif",
+    "uri": "https://jisho.org/search/%E6%A3%84%23kanji"
+  }
+}

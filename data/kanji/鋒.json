@@ -1,0 +1,74 @@
+{
+  "id": "鋒",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鋒",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "dao găm, mũi kiếm, xe lễ hội, phao",
+    "kunyomi": [
+      "きっさき",
+      "とかり",
+      "ほこさき"
+    ],
+    "onyomi": [
+      "ホウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "切っ先",
+        "reading": "キッサキ",
+        "meaning": "mũi nhọn (của một thanh kiếm, v.v.), đòn tấn công bằng lời nói"
+      },
+      {
+        "example": "鋒鋩",
+        "reading": "ホウボウ",
+        "meaning": "đầu của một nhạc cụ có lưỡi, lời nói sắc bén, tính cách độc ác"
+      },
+      {
+        "example": "鋭鋒",
+        "reading": "エイホウ",
+        "meaning": "gánh nặng của sự tấn công hoặc tranh luận"
+      },
+      {
+        "example": "兵鋒",
+        "reading": "ヘイホウ",
+        "meaning": "mũi kiếm, sự tiến lên của một đội quân"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "切っ先",
+        "reading": "きっさき",
+        "meaning": "mũi nhọn (của một thanh kiếm, v.v.), đòn tấn công bằng lời nói"
+      },
+      {
+        "example": "矛",
+        "reading": "ほこ",
+        "meaning": "giáo Trung Quốc cán dài, thương, giáo, vũ khí, cánh tay, chuôi cung, phao diễu hành được trang trí bằng giáo Trung Quốc cán dài"
+      },
+      {
+        "example": "矛先",
+        "reading": "ほこさき",
+        "meaning": "mũi giáo, mũi nhọn, trọng tâm (tấn công, chỉ trích, v.v.), mục tiêu, mục tiêu, sức mạnh, lực lượng (của một cuộc tranh luận), cạnh"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "kim loại, vàng"
+    },
+    "parts": [
+      "一",
+      "夂",
+      "金",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37586_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/092d2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/92d2.gif",
+    "uri": "https://jisho.org/search/%E9%8B%92%23kanji"
+  }
+}

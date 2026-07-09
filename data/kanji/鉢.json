@@ -1,0 +1,67 @@
+{
+  "id": "鉢",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鉢",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1890",
+    "strokeCount": 13,
+    "meaning": "bát, bồn cơm, nồi, vương miện",
+    "kunyomi": [],
+    "onyomi": [
+      "ハチ",
+      "ハツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鉢",
+        "reading": "ハチ",
+        "meaning": "bát, nồi, lưu vực, chậu hoa, Vương miện, brainpan"
+      },
+      {
+        "example": "鉢植え",
+        "reading": "ハチウエ",
+        "meaning": "cây trồng trong chậu, chậu"
+      },
+      {
+        "example": "乳鉢",
+        "reading": "ニュウバチ",
+        "meaning": "vữa"
+      },
+      {
+        "example": "衣鉢",
+        "reading": "イハツ",
+        "meaning": "những bí ẩn về nghệ thuật của thầy, y và bát (vật sở hữu quan trọng của nhà sư được bán đấu giá trong đám tang của ông), việc truyền pháp từ thầy sang đệ tử (trong Thiền)"
+      },
+      {
+        "example": "托鉢",
+        "reading": "タクハツ",
+        "meaning": "hành khất tôn giáo, đi khất thực, khất thực của nhà sư, mang bình bát đến thiền đường vào giờ ăn (trong một ngôi chùa Thiền)"
+      },
+      {
+        "example": "衣鉢",
+        "reading": "イハツ",
+        "meaning": "những bí ẩn về nghệ thuật của thầy, y và bát (vật sở hữu quan trọng của nhà sư được bán đấu giá trong đám tang của ông), việc truyền pháp từ thầy sang đệ tử (trong Thiền)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "kim loại, vàng"
+    },
+    "parts": [
+      "一",
+      "木",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37474_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09262.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9262.gif",
+    "uri": "https://jisho.org/search/%E9%89%A2%23kanji"
+  }
+}

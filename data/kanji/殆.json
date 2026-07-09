@@ -1,0 +1,59 @@
+{
+  "id": "殆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "殆",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "gần như, khá, thực sự",
+    "kunyomi": [
+      "ほとほと",
+      "ほとん.ど",
+      "あやうい"
+    ],
+    "onyomi": [
+      "タイ",
+      "サイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "危殆",
+        "reading": "キタイ",
+        "meaning": "nguy hiểm, hiểm nguy, khốn cùng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "殆",
+        "reading": "ほとほと",
+        "meaning": "hoàn toàn, hoàn toàn, thực sự, hoàn toàn"
+      },
+      {
+        "example": "殆ど",
+        "reading": "ほとんど",
+        "meaning": "hầu như, gần như, hầu hết, thực tế, hầu như, về cơ bản, chỉ khoảng, tất cả nhưng, hầu như không, hầu như không, ít, đa số lớn, tỷ lệ lớn, phần lớn hơn, hầu hết (của), gần như tất cả (của)"
+      },
+      {
+        "example": "殆どない",
+        "reading": "ほとんどない",
+        "meaning": "hầu như không có, hầu như không có, rất ít"
+      }
+    ],
+    "radical": {
+      "symbol": "歹",
+      "forms": [
+        "歺"
+      ],
+      "meaning": "cái chết, sự suy tàn"
+    },
+    "parts": [
+      "厶",
+      "口",
+      "歹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27526_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06b86.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6b86.gif",
+    "uri": "https://jisho.org/search/%E6%AE%86%23kanji"
+  }
+}

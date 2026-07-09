@@ -1,0 +1,72 @@
+{
+  "id": "揚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "揚",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1316",
+    "strokeCount": 12,
+    "meaning": "nâng cao, nâng cao, nâng lên, khen ngợi, ca ngợi, chiên trong mỡ sâu",
+    "kunyomi": [
+      "あ.げる",
+      "-あ.げ",
+      "あ.がる"
+    ],
+    "onyomi": [
+      "ヨウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "揚力",
+        "reading": "ヨウリョク",
+        "meaning": "lực nâng động, sức nâng"
+      },
+      {
+        "example": "揚音",
+        "reading": "ヨウオン",
+        "meaning": "cấp tính (giọng, v.v.)"
+      },
+      {
+        "example": "高揚",
+        "reading": "コウヨウ",
+        "meaning": "nâng cao (tinh thần), nâng cao (tinh thần), nâng cao, phấn chấn"
+      },
+      {
+        "example": "掲揚",
+        "reading": "ケイヨウ",
+        "meaning": "treo (ví dụ: một lá cờ), giơ lên, bay lên, dựng lên"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "上げる",
+        "reading": "あげる",
+        "meaning": "nâng cao, nâng cao, làm lên (tóc), thả (diều, v.v.), phóng (pháo hoa, v.v.), lên mặt nước (tàu ngầm, v.v.), hạ cánh (thuyền), chiên ngập dầu, dẫn ai đó (vào phòng), đưa, đưa ai đó (đi), ghi danh (con đi học), ghi danh, tăng (giá cả, chất lượng, địa vị, v.v.), phát triển (tài năng, kỹ năng), cải thiện, tạo ra (âm thanh lớn), nâng cao (giọng nói của một người), kiếm được (điều gì đó mong muốn), khen ngợi, cho (ví dụ, v.v.), trích dẫn, triệu tập (tất cả sức lực của một người, v.v.), bắt giữ, đề cử, triệu tập (đối với geishas, v.v.), dâng (hương, cầu nguyện, v.v.) lên các vị thần (hoặc Phật, v.v.), sinh (một đứa trẻ), tiến hành (một buổi lễ, đặc biệt là một đám cưới), (của thủy triều) đi vào, nôn mửa, làm vì (vì người khác), hoàn thành..., khiêm tốn làm..."
+      },
+      {
+        "example": "上がる",
+        "reading": "あがる",
+        "meaning": "tăng lên, đi lên, đi lên, đi lên, được nâng lên, đi vào (đặc biệt là từ ngoài trời), đi vào, đi vào, vào (một trường học), lên lớp tiếp theo, ra khỏi (dưới nước), lên bờ, tăng trưởng, cải thiện, tiến bộ, được thăng chức, thăng tiến, được thực hiện (vì lợi nhuận, v.v.), xảy ra (đặc biệt là một kết quả thuận lợi), vừa đủ (để trang trải chi phí, v.v.), hoàn thành, phải làm, vượt qua, dừng (mưa), nâng, dừng (làm việc đúng cách), cắt ra, đưa ra, chết, thắng (trong một trò chơi bài, v.v.), bị bắt, xuất hiện (bằng chứng, v.v.), bị chiên giòn, nói to, lo lắng, sợ hãi sân khấu, được cúng dường (với các vị thần, v.v.), được đi, thăm, ăn, uống, được liệt kê (như một ứng cử viên), để phục vụ (trong nhà của chủ nhân), đến được hoàn thành, để kết thúc, ở trên, phía bắc của"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "一",
+      "勿",
+      "扎",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25562_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063da.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63da.gif",
+    "uri": "https://jisho.org/search/%E6%8F%9A%23kanji"
+  }
+}

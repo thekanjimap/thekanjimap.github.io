@@ -1,0 +1,56 @@
+{
+  "id": "墳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "墳",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1822",
+    "strokeCount": 15,
+    "meaning": "ngôi mộ, gò đất",
+    "kunyomi": [],
+    "onyomi": [
+      "フン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "墳墓",
+        "reading": "フンボ",
+        "meaning": "mộ, ngôi mộ"
+      },
+      {
+        "example": "墳丘",
+        "reading": "フンキュウ",
+        "meaning": "gò mộ, gò mộ"
+      },
+      {
+        "example": "前方後円墳",
+        "reading": "ゼンポウコウエンフン",
+        "meaning": "lăng mộ cổ Nhật Bản hình lỗ khóa"
+      },
+      {
+        "example": "方墳",
+        "reading": "ホウフン",
+        "meaning": "gò mộ mặt phẳng"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "土",
+      "meaning": "trái đất"
+    },
+    "parts": [
+      "ハ",
+      "十",
+      "土",
+      "目",
+      "艾",
+      "貝"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22707_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058b3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58b3.gif",
+    "uri": "https://jisho.org/search/%E5%A2%B3%23kanji"
+  }
+}

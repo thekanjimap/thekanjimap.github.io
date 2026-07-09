@@ -1,0 +1,452 @@
+{
+  "id": "成",
+  "kanjialiveData": {
+    "_id": "54317aef791eba5146ee4a59",
+    "_rev": "12-5508bb305e6c9b52db44803476d47526",
+    "rad_name_ja": "ほこ",
+    "grade": 4,
+    "hint_group": 1,
+    "kunyomi": "na, naru, nasu",
+    "meaning": "hình thức, đạt được",
+    "kstroke": 6,
+    "examples": [
+      {
+        "japanese": "成功する（せいこうする）",
+        "meaning": {
+          "english": "thành công [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-na(ru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sei-na(ru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sei-na(ru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sei-na(ru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "成長する（せいちょうする）",
+        "meaning": {
+          "english": "phát triển"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-na(ru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sei-na(ru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sei-na(ru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sei-na(ru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "成立する（せいりつする）",
+        "meaning": {
+          "english": "hình thức, được sinh ra, được hoàn thành"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-na(ru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sei-na(ru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sei-na(ru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sei-na(ru)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "賛成する（さんせいする）",
+        "meaning": {
+          "english": "đồng ý"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-na(ru)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sei-na(ru)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sei-na(ru)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sei-na(ru)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "完成する（かんせいする）",
+        "meaning": {
+          "english": "hoàn thành, đạt được"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-na(ru)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sei-na(ru)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sei-na(ru)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sei-na(ru)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "成績（せいせき）",
+        "meaning": {
+          "english": "lớp (trường học)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-na(ru)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sei-na(ru)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sei-na(ru)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sei-na(ru)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "成人式（せいじんしき）",
+        "meaning": {
+          "english": "lễ đón tuổi trưởng thành"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-na(ru)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sei-na(ru)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sei-na(ru)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sei-na(ru)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "成就する（じょうじゅする）",
+        "meaning": {
+          "english": "hoàn thành, hoàn thành"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-na(ru)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sei-na(ru)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sei-na(ru)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sei-na(ru)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "成仏する（じょうぶつする）",
+        "meaning": {
+          "english": "chết (an bình)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-na(ru)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sei-na(ru)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sei-na(ru)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sei-na(ru)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "成る（なる）",
+        "meaning": {
+          "english": "trở thành [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-na(ru)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sei-na(ru)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sei-na(ru)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sei-na(ru)_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "成す（なす）",
+        "meaning": {
+          "english": "hoàn thành [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sei-na(ru)_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sei-na(ru)_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sei-na(ru)_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sei-na(ru)_06_k.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "な、なる、なす",
+    "ka_utf": "成",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=成",
+    "kname": "sei-na(ru)",
+    "rad_order": 81,
+    "txt_books": [
+      {
+        "chapter": "2",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "txtMimiFilm"
+      },
+      {
+        "chapter": "39",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "21",
+        "txt_bk": "macquarie"
+      },
+      {
+        "chapter": "18",
+        "txt_bk": "txtSFJ3"
+      },
+      {
+        "chapter": "18",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "11",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "11",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "29",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "jt"
+      },
+      {
+        "txt_bk": "mosr",
+        "chapter": "9"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "23"
+      }
+    ],
+    "rad_name_search": [
+      "hoko"
+    ],
+    "rad_utf": "⼽",
+    "stroketimes": [
+      1.118,
+      1.903,
+      2.975,
+      4.582,
+      5.921,
+      6.59,
+      7.504
+    ],
+    "kunyomi_ka_display": "な",
+    "dick": "2202",
+    "rad_name": "hoko",
+    "dicn": "1799",
+    "mn_hint": "10,000 万 soldiers with spears 戈 become a strong army.",
+    "rad_stroke": 4,
+    "onyomi_ja": "セイ、ジョウ",
+    "rad_meaning": "giáo, vũ khí",
+    "onyomi": "sei, jou",
+    "ka_id": "ka_406",
+    "onyomi_search": [
+      "sei",
+      "jou",
+      "sei, jou"
+    ],
+    "kunyomi_search": [
+      "na",
+      "naru",
+      "nasu",
+      "na, naru, nasu"
+    ],
+    "meaning_search": [
+      "form",
+      "achieve",
+      "form, achieve"
+    ],
+    "onyomi_ja_search": [
+      "セイ",
+      "ジョウ",
+      "セイ、ジョウ"
+    ],
+    "kunyomi_ja_search": [
+      "な",
+      "なる",
+      "なす",
+      "な、なる、なす"
+    ],
+    "rad_meaning_search": [
+      "spear",
+      "weapon",
+      "spear, weapon"
+    ],
+    "rad_name_ja_search": [
+      "ほこ"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:2",
+      "ij:c2",
+      "mos",
+      "mos:13",
+      "mos:c13",
+      "bk",
+      "bk:39",
+      "bk:c39",
+      "mac",
+      "mac:21",
+      "mac:c21",
+      "ap",
+      "ap:11",
+      "ap:c11",
+      "kll",
+      "kll:29",
+      "kll:c29",
+      "jt",
+      "jt:4",
+      "jt:c4",
+      "mosr",
+      "mosr:9",
+      "mosr:c9",
+      "cijr",
+      "cijr:23",
+      "cijr:c23"
+    ],
+    "rad_name_file": "hoko",
+    "kanji": {
+      "character": "成",
+      "meaning": {
+        "english": "form, achieve"
+      },
+      "strokes": {
+        "count": 6,
+        "timings": [
+          1.118,
+          1.903,
+          2.975,
+          4.582,
+          5.921,
+          6.59,
+          7.504
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/sei-na(ru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/sei-na(ru)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/sei-na(ru)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/sei-na(ru)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/sei-na(ru)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/sei-na(ru)_6.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "sei, jou",
+        "katakana": "セイ、ジョウ"
+      },
+      "kunyomi": {
+        "romaji": "na, naru, nasu",
+        "hiragana": "な"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/sei-na(ru)_6.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/sei-na(ru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/sei-na(ru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼽",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/hoko.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "ほこ",
+        "romaji": "hoko"
+      },
+      "meaning": {
+        "english": "giáo, vũ khí"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/hoko0.svg",
+        "https://media.kanjialive.com/rad_frames/hoko1.svg",
+        "https://media.kanjialive.com/rad_frames/hoko2.svg"
+      ]
+    },
+    "references": {
+      "grade": 4,
+      "kodansha": "2202",
+      "classic_nelson": "1799"
+    }
+  },
+  "jishoData": {
+    "query": "成",
+    "found": true,
+    "taughtIn": "lớp 4",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "116",
+    "strokeCount": 6,
+    "meaning": "biến thành, trở thành, nhận được, phát triển, trôi qua, đạt được",
+    "kunyomi": [
+      "な.る",
+      "な.す",
+      "-な.す"
+    ],
+    "onyomi": [
+      "セイ",
+      "ジョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "成果",
+        "reading": "セイカ",
+        "meaning": "(tốt) kết quả, kết quả, thành quả (công sức của một người), sản phẩm, thành tựu"
+      },
+      {
+        "example": "成案",
+        "reading": "セイアン",
+        "meaning": "kế hoạch xác định"
+      },
+      {
+        "example": "合成",
+        "reading": "ゴウセイ",
+        "meaning": "bố cục, tổng hợp, ghép, kết hợp, ảnh tổng hợp, bố cục (chức năng)"
+      },
+      {
+        "example": "集大成",
+        "reading": "シュウタイセイ",
+        "meaning": "(lớn) sự tổng hợp, đỉnh cao (của sự chăm chỉ)"
+      },
+      {
+        "example": "成仏",
+        "reading": "ジョウブツ",
+        "meaning": "đắc Phật, thành Phật, nhập Niết bàn, lên thiên đường, an nghỉ, chết (an bình)"
+      },
+      {
+        "example": "成就",
+        "reading": "ジョウジュ",
+        "meaning": "sự thực hiện, sự thực hiện, sự thực hiện, sự thực hiện, sự hoàn thành"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "成る",
+        "reading": "なる",
+        "meaning": "trở thành, đạt được, phát triển, biến, đạt tới, đạt được, dẫn đến, hóa ra, kết thúc, chứng minh (thành), bao gồm, bao gồm, được tạo thành, được hoàn thành, được nhận ra, thành công, đạt được, được hoàn thành, thay đổi (thành), biến (thành), biến đổi, đến (làm), bắt đầu (làm), phát triển (làm), đi đến, lên tới, thêm vào, đến làm, chơi (một phần của), hành động như, được sử dụng, có ích cho, phục vụ như, được thăng chức, làm ..."
+      },
+      {
+        "example": "成るべく",
+        "reading": "なるべく",
+        "meaning": "càng (nhiều) càng tốt, càng (nhiều) càng tốt, bất cứ khi nào có thể, nếu có thể"
+      },
+      {
+        "example": "成す",
+        "reading": "なす",
+        "meaning": "hình thành, thực hiện, cấu thành, xây dựng (ví dụ: một tài sản), tạo ra, thiết lập, hoàn thành, đạt được, giành được (danh tiếng), đạt được, thay đổi (thành), chuyển đổi, làm, cam kết, thực hiện, mang lại, làm có chủ ý"
+      },
+      {
+        "example": "なす角",
+        "reading": "なすかく",
+        "meaning": "formed angle, angle made"
+      }
+    ],
+    "radical": {
+      "symbol": "戈",
+      "meaning": "giáo, kích"
+    },
+    "parts": [
+      "ノ",
+      "戈"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25104_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06210.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6210.gif",
+    "uri": "https://jisho.org/search/%E6%88%90%23kanji"
+  }
+}

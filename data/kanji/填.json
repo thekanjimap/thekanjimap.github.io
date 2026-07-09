@@ -1,0 +1,74 @@
+{
+  "id": "填",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "填",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "điền vào",
+    "kunyomi": [
+      "は.まる",
+      "は.める",
+      "うず.める",
+      "しず.める",
+      "ふさ.ぐ"
+    ],
+    "onyomi": [
+      "テン",
+      "チン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "填隙",
+        "reading": "テンゲキ",
+        "meaning": "trát, trát"
+      },
+      {
+        "example": "填詞",
+        "reading": "テンシ",
+        "meaning": "ci (dạng thơ Trung Quốc)"
+      },
+      {
+        "example": "充填",
+        "reading": "ジュウテン",
+        "meaning": "đổ đầy (lên), bổ sung, lấp đầy (một cái răng), nạp (súng có đạn, máy ảnh có phim, v.v.), đóng gói, cắm"
+      },
+      {
+        "example": "装填",
+        "reading": "ソウテン",
+        "meaning": "tải, sạc, làm đầy"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "嵌まる",
+        "reading": "はまる",
+        "meaning": "phù hợp, đi vào, đi vào, được trang bị (ví dụ: cửa có cửa sổ), phù hợp với (một công việc, v.v.), phù hợp với, thỏa mãn (điều kiện), rơi vào, lao vào, bị mắc kẹt, bị bắt, bị lừa, bị mắc vào, rơi vào bẫy, nghiện, đi sâu vào, trở nên điên cuồng, bị mắc kẹt"
+      },
+      {
+        "example": "嵌める",
+        "reading": "はめる",
+        "meaning": "lắp (ví dụ: một khung vào khung), chèn (ví dụ: nút chai), buộc chặt (một nút), đeo vào (thứ gì đó bao bọc, ví dụ: một chiếc nhẫn, găng tay), đặt (vòng) xung quanh, gắn (ví dụ: một cái ống vào một cái vòi), vào chuồng (vào một danh mục cụ thể), buộc (vào một cái khuôn), đặt (hạn chế) vào, bẫy, đưa (ai đó) vào, đặt (ai đó) lên, lừa dối, ném vào, quan hệ tình dục, làm tình"
+      },
+      {
+        "example": "埋める",
+        "reading": "うずめる",
+        "meaning": "che, chôn (ví dụ: úp mặt vào tay), nhấn chìm, lấp đầy (hoàn toàn), nhét, đóng gói, nhồi nhét, lấp đầy"
+      }
+    ],
+    "radical": {
+      "symbol": "土",
+      "meaning": "trái đất"
+    },
+    "parts": [
+      "ハ",
+      "十",
+      "土",
+      "目"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22635_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0586b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/586b.gif",
+    "uri": "https://jisho.org/search/%E5%A1%AB%23kanji"
+  }
+}

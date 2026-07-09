@@ -1,0 +1,74 @@
+{
+  "id": "痕",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "痕",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "newspaperFrequencyRank": "1958",
+    "strokeCount": 11,
+    "meaning": "đánh dấu, dấu chân",
+    "kunyomi": [
+      "あと"
+    ],
+    "onyomi": [
+      "コン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "痕",
+        "reading": "コン",
+        "meaning": "vết sẹo (ví dụ: do phẫu thuật, tiêm), dấu vết, dấu vết (ví dụ: vết trượt)"
+      },
+      {
+        "example": "痕跡",
+        "reading": "コンセキ",
+        "meaning": "dấu vết, vết tích, dấu vết, dấu hiệu, bằng chứng"
+      },
+      {
+        "example": "弾痕",
+        "reading": "ダンコン",
+        "meaning": "lỗ đạn, vết đạn"
+      },
+      {
+        "example": "聖痕",
+        "reading": "セイコン",
+        "meaning": "dấu thánh"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "跡",
+        "reading": "あと",
+        "meaning": "dấu vết, bài hát, đánh dấu, ký tên, địa điểm, tàn tích, tàn tích, vết sẹo"
+      },
+      {
+        "example": "跡をつける",
+        "reading": "あとをつける",
+        "meaning": "bám theo, đi theo, bám đuôi, theo bóng, để lại dấu vết, để lại dấu chân"
+      },
+      {
+        "example": "ニキビ跡",
+        "reading": "にきびあと",
+        "meaning": "vết rỗ (do mụn nhọt), sẹo mụn"
+      },
+      {
+        "example": "爪痕",
+        "reading": "つめあと",
+        "meaning": "vết móng tay, vết xước, vết sẹo (ví dụ: chiến tranh), dấu vết (thiệt hại), sự tàn phá, hậu quả"
+      }
+    ],
+    "radical": {
+      "symbol": "疒",
+      "meaning": "bệnh tật"
+    },
+    "parts": [
+      "疔",
+      "艮"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30165_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/075d5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/75d5.gif",
+    "uri": "https://jisho.org/search/%E7%97%95%23kanji"
+  }
+}

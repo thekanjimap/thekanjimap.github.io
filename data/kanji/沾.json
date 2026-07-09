@@ -1,0 +1,44 @@
+{
+  "id": "沾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "沾",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "làm ẩm, làm ướt, ngâm, chạm vào",
+    "kunyomi": [
+      "うるお.う",
+      "うるお.す"
+    ],
+    "onyomi": [
+      "セン",
+      "チョウ",
+      "テン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "均てん",
+        "reading": "キンテン",
+        "meaning": "chia (lợi nhuận, v.v.) bằng nhau, đạt được bằng nhau"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "卜",
+      "口",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27838_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06cbe.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6cbe.gif",
+    "uri": "https://jisho.org/search/%E6%B2%BE%23kanji"
+  }
+}

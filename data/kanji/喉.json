@@ -1,0 +1,66 @@
+{
+  "id": "喉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "喉",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "newspaperFrequencyRank": "2390",
+    "strokeCount": 12,
+    "meaning": "cổ họng, giọng nói",
+    "kunyomi": [
+      "のど"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "喉",
+        "reading": "コン",
+        "meaning": "cá, quầy bán cá"
+      },
+      {
+        "example": "喉頭",
+        "reading": "コウトウ",
+        "meaning": "thanh quản"
+      },
+      {
+        "example": "咽喉",
+        "reading": "インコウ",
+        "meaning": "cổ họng, đường sống, vị trí then chốt"
+      },
+      {
+        "example": "耳鼻咽喉",
+        "reading": "ジビインコウ",
+        "meaning": "tai, mũi và họng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "喉",
+        "reading": "のど",
+        "meaning": "cổ họng, giọng hát, rãnh nước (lề trong của sách)"
+      },
+      {
+        "example": "喉赤蜂鳥",
+        "reading": "のどあかはちどり",
+        "meaning": "chim ruồi họng hồng ngọc (Archilochus colubris)"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "乞",
+      "化",
+      "口",
+      "矢"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21897_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05589.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5589.gif",
+    "uri": "https://jisho.org/search/%E5%96%89%23kanji"
+  }
+}

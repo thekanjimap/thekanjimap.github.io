@@ -1,0 +1,73 @@
+{
+  "id": "帝",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "帝",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1276",
+    "strokeCount": 9,
+    "meaning": "chủ quyền, hoàng đế, thần, người sáng tạo",
+    "kunyomi": [
+      "みかど"
+    ],
+    "onyomi": [
+      "テイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "帝国主義",
+        "reading": "テイコクシュギ",
+        "meaning": "chủ nghĩa đế quốc"
+      },
+      {
+        "example": "帝国",
+        "reading": "テイコク",
+        "meaning": "đế quốc, Đế quốc Nhật Bản"
+      },
+      {
+        "example": "女帝",
+        "reading": "ジョテイ",
+        "meaning": "hoàng hậu"
+      },
+      {
+        "example": "大帝",
+        "reading": "タイテイ",
+        "meaning": "hoàng đế vĩ đại,... Đại đế"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "帝",
+        "reading": "みかど",
+        "meaning": "hoàng đế (của Nhật Bản), mikado, (cổng của một) nơi ở của hoàng gia"
+      },
+      {
+        "example": "帝揚羽",
+        "reading": "みかどあげは",
+        "meaning": "giẻ cùi thông thường (loài bướm đuôi én, Graphium doson)"
+      },
+      {
+        "example": "時の帝",
+        "reading": "ときのみかど",
+        "meaning": "hoàng đế thời đó"
+      }
+    ],
+    "radical": {
+      "symbol": "巾",
+      "meaning": "khăn xếp, khăn quàng cổ"
+    },
+    "parts": [
+      "亠",
+      "冖",
+      "巾",
+      "并",
+      "立"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24093_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e1d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e1d.gif",
+    "uri": "https://jisho.org/search/%E5%B8%9D%23kanji"
+  }
+}

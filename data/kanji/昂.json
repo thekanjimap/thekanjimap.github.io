@@ -1,0 +1,61 @@
+{
+  "id": "昂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "昂",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 8,
+    "meaning": "tăng lên",
+    "kunyomi": [
+      "あ.がる",
+      "たか.い",
+      "たか.ぶる"
+    ],
+    "onyomi": [
+      "コウ",
+      "ゴウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "興奮",
+        "reading": "コウフン",
+        "meaning": "sự phấn khích, sự kích động, sự kích động, sự kích động"
+      },
+      {
+        "example": "高騰",
+        "reading": "コウトウ",
+        "meaning": "tăng mạnh (về giá), tăng mạnh, tăng đáng kể, tăng vọt"
+      },
+      {
+        "example": "激昂",
+        "reading": "ゲッコウ",
+        "meaning": "sự phấn khích, sự bực tức, sự phẫn nộ, cơn thịnh nộ, sự giận dữ"
+      },
+      {
+        "example": "軒昂",
+        "reading": "ケンコウ",
+        "meaning": "có tinh thần cao độ, có tinh thần cao độ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "高ぶる",
+        "reading": "たかぶる",
+        "meaning": "trở nên phấn khích (về cảm xúc, thần kinh, v.v.), trở nên phấn khích, trở nên phấn khích, trở nên phấn khích, tự hào, kiêu kỳ, khoa trương, tự coi mình là quan trọng"
+      }
+    ],
+    "radical": {
+      "symbol": "日",
+      "meaning": "mặt trời, ngày"
+    },
+    "parts": [
+      "卩",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26114_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06602.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6602.gif",
+    "uri": "https://jisho.org/search/%E6%98%82%23kanji"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "遵",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "遵",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "strokeCount": 15,
+    "meaning": "tuân theo, tuân theo, tuân theo, học hỏi",
+    "kunyomi": [],
+    "onyomi": [
+      "ジュン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "遵守",
+        "reading": "ジュンシュ",
+        "meaning": "tuân thủ (luật pháp, quy tắc, v.v.), tuân thủ, tuân thủ, tuân theo, tuân thủ, tuân thủ"
+      },
+      {
+        "example": "遵法",
+        "reading": "ジュンポウ",
+        "meaning": "tuân theo pháp luật, tuân thủ pháp luật"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "đi bộ"
+    },
+    "parts": [
+      "寸",
+      "并",
+      "込",
+      "酉"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36981_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09075.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9075.gif",
+    "uri": "https://jisho.org/search/%E9%81%B5%23kanji"
+  }
+}

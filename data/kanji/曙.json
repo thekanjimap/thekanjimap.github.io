@@ -1,0 +1,50 @@
+{
+  "id": "曙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "曙",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1518",
+    "strokeCount": 17,
+    "meaning": "bình minh, bình minh",
+    "kunyomi": [
+      "あけぼの"
+    ],
+    "onyomi": [
+      "ショ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "曙光",
+        "reading": "ショコウ",
+        "meaning": "bình minh, rạng đông, ánh sáng đầu tiên trong ngày, dấu hiệu đầu tiên, cái nhìn thoáng qua, tia sáng, đèn flash, triển vọng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "曙",
+        "reading": "あけぼの",
+        "meaning": "bình minh, bình minh, sự bắt đầu"
+      },
+      {
+        "example": "曙色",
+        "reading": "あけぼのいろ",
+        "meaning": "cá hồi (màu sắc), màu hồng pha chút vàng"
+      }
+    ],
+    "radical": {
+      "symbol": "日",
+      "meaning": "mặt trời, ngày"
+    },
+    "parts": [
+      "日",
+      "老",
+      "買"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26329_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/066d9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/66d9.gif",
+    "uri": "https://jisho.org/search/%E6%9B%99%23kanji"
+  }
+}

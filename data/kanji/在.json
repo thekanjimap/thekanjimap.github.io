@@ -1,0 +1,385 @@
+{
+  "id": "在",
+  "kanjialiveData": {
+    "_id": "54317af1791eba5146ee4a7f",
+    "_rev": "11-06c12e6e86024d0db691d1e53c407362",
+    "rad_name_ja": "つち",
+    "grade": 5,
+    "hint_group": 1,
+    "kunyomi": "a, aru",
+    "meaning": "được, tồn tại",
+    "kstroke": 6,
+    "examples": [
+      {
+        "japanese": "在学する（ざいがくする）",
+        "meaning": {
+          "english": "được ghi danh (trường học)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zai-a(ru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/zai-a(ru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/zai-a(ru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/zai-a(ru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "在籍する（ざいせきする）",
+        "meaning": {
+          "english": "được đăng ký (trường học)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zai-a(ru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/zai-a(ru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/zai-a(ru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/zai-a(ru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "在宅する（ざいたくする）",
+        "meaning": {
+          "english": "ở nhà"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zai-a(ru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/zai-a(ru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/zai-a(ru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/zai-a(ru)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "存在する（そんざいする）",
+        "meaning": {
+          "english": "tồn tại"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zai-a(ru)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/zai-a(ru)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/zai-a(ru)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/zai-a(ru)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "実在する（じつざいする）",
+        "meaning": {
+          "english": "(thực sự) tồn tại"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zai-a(ru)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/zai-a(ru)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/zai-a(ru)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/zai-a(ru)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "滞在する（たいざいする）",
+        "meaning": {
+          "english": "ở lại"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zai-a(ru)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/zai-a(ru)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/zai-a(ru)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/zai-a(ru)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "在日（ざいにち）",
+        "meaning": {
+          "english": "sống/lưu trú tại Nhật Bản"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zai-a(ru)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/zai-a(ru)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/zai-a(ru)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/zai-a(ru)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "在庫（ざいこ）",
+        "meaning": {
+          "english": "hàng tồn kho, hàng tồn kho"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zai-a(ru)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/zai-a(ru)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/zai-a(ru)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/zai-a(ru)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "現在（げんざい）",
+        "meaning": {
+          "english": "hiện tại [n.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zai-a(ru)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/zai-a(ru)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/zai-a(ru)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/zai-a(ru)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "不在（ふざい）",
+        "meaning": {
+          "english": "vắng mặt"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zai-a(ru)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/zai-a(ru)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/zai-a(ru)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/zai-a(ru)_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "自由自在に（じゆうじざいに）",
+        "meaning": {
+          "english": "tự do"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zai-a(ru)_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/zai-a(ru)_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/zai-a(ru)_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/zai-a(ru)_06_k.mp3"
+        }
+      },
+      {
+        "japanese": "在る（ある）",
+        "meaning": {
+          "english": "được, tồn tại"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/zai-a(ru)_06_l.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/zai-a(ru)_06_l.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/zai-a(ru)_06_l.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/zai-a(ru)_06_l.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "あ、ある",
+    "ka_utf": "在",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=在",
+    "rad_name_search": [
+      "tsuchi"
+    ],
+    "rad_order": 37,
+    "txt_books": [
+      {
+        "chapter": "4",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "18",
+        "txt_bk": "txtSFJ3"
+      },
+      {
+        "chapter": "18",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "jt"
+      }
+    ],
+    "kname": "zai-a(ru)",
+    "rad_utf": "⼟",
+    "stroketimes": [
+      0.762,
+      1.712,
+      2.515,
+      3.387,
+      4.66,
+      5.329,
+      6.368715
+    ],
+    "kunyomi_ka_display": "あ",
+    "dick": "1896",
+    "rad_name": "tsuchi",
+    "dicn": "1055",
+    "mn_hint": "People イ exist between earth 土 and heaven 一.",
+    "rad_stroke": 3,
+    "onyomi_ja": "ザイ",
+    "rad_meaning": "trái đất",
+    "onyomi": "zai",
+    "ka_id": "ka_440",
+    "onyomi_search": [
+      "zai",
+      "zai"
+    ],
+    "kunyomi_search": [
+      "a",
+      "aru",
+      "a, aru"
+    ],
+    "meaning_search": [
+      "be",
+      "exist",
+      "be, exist"
+    ],
+    "onyomi_ja_search": [
+      "ザイ",
+      "ザイ"
+    ],
+    "kunyomi_ja_search": [
+      "あ",
+      "ある",
+      "あ、ある"
+    ],
+    "rad_meaning_search": [
+      "earth",
+      "earth"
+    ],
+    "rad_name_ja_search": [
+      "つち"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:4",
+      "ij:c4",
+      "jt",
+      "jt:5",
+      "jt:c5"
+    ],
+    "rad_name_file": "tsuchi",
+    "kanji": {
+      "character": "在",
+      "meaning": {
+        "english": "be, exist"
+      },
+      "strokes": {
+        "count": 6,
+        "timings": [
+          0.762,
+          1.712,
+          2.515,
+          3.387,
+          4.66,
+          5.329,
+          6.368715
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/zai-a(ru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/zai-a(ru)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/zai-a(ru)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/zai-a(ru)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/zai-a(ru)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/zai-a(ru)_6.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "zai",
+        "katakana": "ザイ"
+      },
+      "kunyomi": {
+        "romaji": "a, aru",
+        "hiragana": "あ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/zai-a(ru)_6.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/zai-a(ru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/zai-a(ru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼟",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/tsuchi.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "つち",
+        "romaji": "tsuchi"
+      },
+      "meaning": {
+        "english": "trái đất"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/tsuchi0.svg",
+        "https://media.kanjialive.com/rad_frames/tsuchi1.svg",
+        "https://media.kanjialive.com/rad_frames/tsuchi2.svg"
+      ]
+    },
+    "references": {
+      "grade": 5,
+      "kodansha": "1896",
+      "classic_nelson": "1055"
+    }
+  },
+  "jishoData": {
+    "query": "在",
+    "found": true,
+    "taughtIn": "lớp 5",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "211",
+    "strokeCount": 6,
+    "meaning": "tồn tại, vùng ngoại ô, vùng ngoại ô, nằm ở",
+    "kunyomi": [
+      "あ.る"
+    ],
+    "onyomi": [
+      "ザイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "在",
+        "reading": "ザイ",
+        "meaning": "đất nước, nông thôn, vùng ngoại ô, vùng ngoại ô, sự hiện diện, đang tham dự, nằm ở, đang ở, thường trú ở"
+      },
+      {
+        "example": "在外",
+        "reading": "ザイガイ",
+        "meaning": "ở nước ngoài, ở nước ngoài"
+      },
+      {
+        "example": "顕在",
+        "reading": "ケンザイ",
+        "meaning": "là thực tế (trái ngược với ẩn hoặc tiềm ẩn), rõ ràng, rõ ràng, hữu hình, được tiết lộ"
+      },
+      {
+        "example": "介在",
+        "reading": "カイザイ",
+        "meaning": "hiện có (ở giữa), sự can thiệp, sự can thiệp, sự tham gia"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "有る",
+        "reading": "ある",
+        "meaning": "tồn tại, tồn tại, sống, có, được định vị, được trang bị, xảy ra, xuất hiện, tồn tại (ở trạng thái hoàn thiện), là (cái gì đó không thay đổi ở trạng thái hiện tại)"
+      },
+      {
+        "example": "在るがまま",
+        "reading": "あるがまま",
+        "meaning": "như nó là, rõ ràng (sự thật), trần trụi, không che giấu, không tô vẽ, không cường điệu, trung thực, chân thật, thẳng thắn, thẳng thắn"
+      }
+    ],
+    "radical": {
+      "symbol": "土",
+      "meaning": "trái đất"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "土",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22312_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05728.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5728.gif",
+    "uri": "https://jisho.org/search/%E5%9C%A8%23kanji"
+  }
+}

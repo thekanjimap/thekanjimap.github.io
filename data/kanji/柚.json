@@ -1,0 +1,83 @@
+{
+  "id": "柚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "柚",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2489",
+    "strokeCount": 9,
+    "meaning": "cây thanh yên",
+    "kunyomi": [
+      "ゆず"
+    ],
+    "onyomi": [
+      "ユ",
+      "ユウ",
+      "ジク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "柚子",
+        "reading": "ユズ",
+        "meaning": "yuzu (Citrus ichangensis x C. reticulata)"
+      },
+      {
+        "example": "柚香菊",
+        "reading": "ユウガギク",
+        "meaning": "Cúc Nhật Bản (Kalimeris pinnatifida), cúc giả"
+      },
+      {
+        "example": "晩白柚",
+        "reading": "バンペイユ",
+        "meaning": "giống bưởi (Citrus maxima, Citrus grandis)"
+      },
+      {
+        "example": "青柚子",
+        "reading": "アオユズ",
+        "meaning": "Yuzu xanh, Yuzu chưa chín"
+      },
+      {
+        "example": "柚子",
+        "reading": "ユズ",
+        "meaning": "yuzu (Citrus ichangensis x C. reticulata)"
+      },
+      {
+        "example": "柚香菊",
+        "reading": "ユウガギク",
+        "meaning": "Cúc Nhật Bản (Kalimeris pinnatifida), cúc giả"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "柚子",
+        "reading": "ゆず",
+        "meaning": "yuzu (Citrus ichangensis x C. reticulata)"
+      },
+      {
+        "example": "柚子胡椒",
+        "reading": "ゆずこしょう",
+        "meaning": "gia vị dán làm từ vỏ yuzu và ớt (ớt)"
+      },
+      {
+        "example": "青柚子",
+        "reading": "あおゆず",
+        "meaning": "Yuzu xanh, Yuzu chưa chín"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "日",
+      "木",
+      "田",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26586_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067da.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67da.gif",
+    "uri": "https://jisho.org/search/%E6%9F%9A%23kanji"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "鞭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鞭",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "roi, roi, đòn roi",
+    "kunyomi": [
+      "むち",
+      "むちうつ"
+    ],
+    "onyomi": [
+      "ベン",
+      "ヘン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鞭撻",
+        "reading": "ベンタツ",
+        "meaning": "khuyến khích, thúc giục, thúc đẩy, trừng phạt bằng đòn roi"
+      },
+      {
+        "example": "鞭毛",
+        "reading": "ベンモウ",
+        "meaning": "roi"
+      },
+      {
+        "example": "先鞭",
+        "reading": "センベン",
+        "meaning": "sáng kiến, tiên phong"
+      },
+      {
+        "example": "教鞭",
+        "reading": "キョウベン",
+        "meaning": "gậy của giáo viên, con trỏ của giáo viên"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鞭",
+        "reading": "むち",
+        "meaning": "roi da, roi da, roi, gậy, mía, gậy, con trỏ"
+      },
+      {
+        "example": "鞭入れ",
+        "reading": "むちいれ",
+        "meaning": "đánh đòn, dùng roi"
+      },
+      {
+        "example": "枝鞭",
+        "reading": "えだむち",
+        "meaning": "thanh bạch dương"
+      },
+      {
+        "example": "【アメとムチ】",
+        "reading": "carrot and stick, candy and whip",
+        "meaning": ""
+      },
+      {
+        "example": "鞭打つ",
+        "reading": "むちうつ",
+        "meaning": "quất roi, quất roi, quất roi, thúc giục, khích lệ"
+      }
+    ],
+    "radical": {
+      "symbol": "革",
+      "meaning": "da, da thô"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "化",
+      "日",
+      "田",
+      "革"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38829_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/097ad.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/97ad.gif",
+    "uri": "https://jisho.org/search/%E9%9E%AD%23kanji"
+  }
+}

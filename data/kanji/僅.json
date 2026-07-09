@@ -1,0 +1,66 @@
+{
+  "id": "僅",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "僅",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "strokeCount": 12,
+    "meaning": "một chút thôi",
+    "kunyomi": [
+      "わず.か"
+    ],
+    "onyomi": [
+      "キン",
+      "ゴン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "僅々",
+        "reading": "キンキン",
+        "meaning": "chỉ, chỉ, chỉ, không hơn gì"
+      },
+      {
+        "example": "僅差",
+        "reading": "キンサ",
+        "meaning": "lề hẹp, lề hẹp"
+      },
+      {
+        "example": "僅々",
+        "reading": "キンキン",
+        "meaning": "chỉ, chỉ, chỉ, không hơn gì"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "僅か",
+        "reading": "わずか",
+        "meaning": "một chút, một ít, nhỏ, nhỏ, tầm thường, ít ỏi, ít ỏi, hẹp (lề), chỉ, chỉ, đơn thuần, không nhiều hơn"
+      },
+      {
+        "example": "僅かしか",
+        "reading": "わずかしか",
+        "meaning": "(không có gì) nhưng một chút"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "đàn ông, con người"
+    },
+    "parts": [
+      "一",
+      "二",
+      "化",
+      "口",
+      "土",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20677_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050c5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50c5.gif",
+    "uri": "https://jisho.org/search/%E5%83%85%23kanji"
+  }
+}

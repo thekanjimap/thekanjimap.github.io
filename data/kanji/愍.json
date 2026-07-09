@@ -1,0 +1,71 @@
+{
+  "id": "愍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "愍",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "lòng thương xót, lòng thương xót, lòng trắc ẩn",
+    "kunyomi": [
+      "あわ.れむ"
+    ],
+    "onyomi": [
+      "ビン",
+      "ミン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "憫笑",
+        "reading": "ビンショウ",
+        "meaning": "mỉm cười thương hại"
+      },
+      {
+        "example": "憫然",
+        "reading": "ビンゼン",
+        "meaning": "đáng thương, đáng thương, đáng tiếc, đáng tiếc"
+      },
+      {
+        "example": "哀愍",
+        "reading": "アイビン",
+        "meaning": "đáng tiếc"
+      },
+      {
+        "example": "不憫",
+        "reading": "フビン",
+        "meaning": "đáng thương, đáng thương, đáng thương, đáng thương"
+      },
+      {
+        "example": "哀愍",
+        "reading": "アイビン",
+        "meaning": "đáng tiếc"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "哀れむ",
+        "reading": "あわれむ",
+        "meaning": "thương xót, cảm thông, đồng cảm, đồng cảm, đồng cảm, thương xót, thưởng thức vẻ đẹp, đánh giá cao, ngưỡng mộ"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "乞",
+      "口",
+      "尸",
+      "心",
+      "攵",
+      "氏"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24845_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0610d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/610d.gif",
+    "uri": "https://jisho.org/search/%E6%84%8D%23kanji"
+  }
+}

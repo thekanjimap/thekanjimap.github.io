@@ -1,0 +1,48 @@
+{
+  "id": "嗤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嗤",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "cười, chế giễu",
+    "kunyomi": [
+      "わら.う"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "嗤笑",
+        "reading": "シショウ",
+        "meaning": "chế nhạo"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "笑う",
+        "reading": "わらう",
+        "meaning": "cười, cười nhạo, chế giễu, chế giễu, chết lặng, sửng sốt"
+      },
+      {
+        "example": "笑うべき",
+        "reading": "わらうべき",
+        "meaning": "buồn cười, buồn cười, buồn cười, buồn cười"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "口",
+      "山",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21988_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/055e4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/55e4.gif",
+    "uri": "https://jisho.org/search/%E5%97%A4%23kanji"
+  }
+}

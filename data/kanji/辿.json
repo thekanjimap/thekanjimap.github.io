@@ -1,0 +1,47 @@
+{
+  "id": "辿",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "辿",
+    "found": true,
+    "strokeCount": 6,
+    "meaning": "đi theo (đường), theo đuổi",
+    "kunyomi": [
+      "たど.る",
+      "たどり"
+    ],
+    "onyomi": [
+      "テン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "辿る",
+        "reading": "たどる",
+        "meaning": "đi theo (một con đường, con đường, v.v.), theo dõi, đi theo (đầu mối, mùi hương, dấu vết, âm mưu, v.v.), theo dõi (một tuyến đường, lịch sử, cây gia phả, v.v.), truy tìm (ví dụ: ký ức của một người), tìm kiếm, đi qua, hướng tới (của một tình huống), đi theo hướng, đi (một khóa học), theo đuổi (một con đường), gặp (một số phận)"
+      },
+      {
+        "example": "たどり着く",
+        "reading": "たどりつく",
+        "meaning": "(cuối cùng) đến, đến được (cuối cùng), đến (xoay xở) đến được, tìm đường đến"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "đi bộ"
+    },
+    "parts": [
+      "山",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36799_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08fbf.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8fbf.gif",
+    "uri": "https://jisho.org/search/%E8%BE%BF%23kanji"
+  }
+}

@@ -1,0 +1,524 @@
+{
+  "id": "後",
+  "kanjialiveData": {
+    "_id": "54317adf791eba5146ee490e",
+    "_rev": "10-bc785130cc36e7b7eb5fe86fb8e9f904",
+    "rad_name_ja": "ぎょうにんべん",
+    "grade": 2,
+    "hint_group": 1,
+    "kunyomi": "nochi, ushi, ushiro, ato, oku, okure",
+    "meaning": "sau, quay lại",
+    "kstroke": 9,
+    "examples": [
+      {
+        "japanese": "午後（ごご）",
+        "meaning": {
+          "english": "buổi chiều, chiều"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ushi(ro)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ushi(ro)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ushi(ro)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ushi(ro)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "最後（さいご）",
+        "meaning": {
+          "english": "cuối cùng, kết thúc"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ushi(ro)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ushi(ro)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ushi(ro)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ushi(ro)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "以後（いご）",
+        "meaning": {
+          "english": "kể từ bây giờ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ushi(ro)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ushi(ro)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ushi(ro)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ushi(ro)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "後半（こうはん）",
+        "meaning": {
+          "english": "nửa sau"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ushi(ro)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ushi(ro)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ushi(ro)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ushi(ro)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "後ほど（のちほど）",
+        "meaning": {
+          "english": "sau này"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ushi(ro)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ushi(ro)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ushi(ro)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ushi(ro)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "後ろ（うしろ）",
+        "meaning": {
+          "english": "phía sau, phía sau"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ushi(ro)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ushi(ro)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ushi(ro)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ushi(ro)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "後で（あとで）",
+        "meaning": {
+          "english": "sau đó, sau đó"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ushi(ro)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ushi(ro)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ushi(ro)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ushi(ro)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "手後れ（ておくれ）",
+        "meaning": {
+          "english": "đến (quá) muộn"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ushi(ro)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ushi(ro)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ushi(ro)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ushi(ro)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "*明後日（あさって）",
+        "meaning": {
+          "english": "ngày mốt"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ushi(ro)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ushi(ro)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ushi(ro)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ushi(ro)_06_i.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "のち、うし、うしろ、あと、おく、おくれ",
+    "ka_utf": "後",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=後",
+    "kname": "ushi(ro)",
+    "rad_order": 70,
+    "txt_books": [
+      {
+        "chapter": "14",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "10",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtAd3"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtSFJ1"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtSFJ4"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "mosr",
+        "chapter": "6"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "7"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "12"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "30"
+      },
+      {
+        "txt_bk": "mntr",
+        "chapter": "1"
+      }
+    ],
+    "rad_name_search": [
+      "gyouninben"
+    ],
+    "rad_utf": "⼻",
+    "stroketimes": [
+      0,
+      1.733,
+      2.667,
+      3.599,
+      4.732,
+      5.933,
+      6.533,
+      7.599,
+      8.732,
+      9.6
+    ],
+    "kunyomi_ka_display": "のち、うし、あと、おく",
+    "dick": "267",
+    "rad_name": "gyouninben",
+    "dicn": "1610",
+    "mn_hint": "Walking 彳 with a thread 幺 in the hand 夂: it trails behind.",
+    "rad_stroke": 3,
+    "onyomi_ja": "ゴ、コウ",
+    "rad_meaning": "bước, sải bước, đường phố, đi",
+    "onyomi": "go, kou",
+    "ka_id": "ka_122",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "go",
+      "kou",
+      "go, kou"
+    ],
+    "kunyomi_search": [
+      "nochi",
+      "ushi",
+      "ushiro",
+      "ato",
+      "oku",
+      "okure",
+      "nochi, ushi, ushiro, ato, oku, okure"
+    ],
+    "meaning_search": [
+      "after",
+      "back",
+      "after, back"
+    ],
+    "onyomi_ja_search": [
+      "ゴ",
+      "コウ",
+      "ゴ、コウ"
+    ],
+    "kunyomi_ja_search": [
+      "のち",
+      "うし",
+      "うしろ",
+      "あと",
+      "おく",
+      "おくれ",
+      "のち、うし、うしろ、あと、おく、おくれ"
+    ],
+    "rad_meaning_search": [
+      "step",
+      "stride",
+      "street",
+      "to go",
+      "to",
+      "go",
+      "step, stride, street, to go"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "ぎょうにんべん"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:14",
+      "cij:c14",
+      "bk",
+      "bk:10",
+      "bk:c10",
+      "aij3",
+      "aij3:2",
+      "aij3:c2",
+      "aij3:v3",
+      "aij3:v3:2",
+      "aij3:v3:c2",
+      "gen",
+      "gen:9",
+      "gen:c9",
+      "ap",
+      "ap:5",
+      "ap:c5",
+      "kll",
+      "kll:3",
+      "kll:c3",
+      "mosr",
+      "mosr:6",
+      "mosr:c6",
+      "cijr",
+      "cijr:7",
+      "cijr:c7",
+      "cijr",
+      "cijr:12",
+      "cijr:c12",
+      "cijr",
+      "cijr:30",
+      "cijr:c30",
+      "mntr",
+      "mntr:1",
+      "mntr:c1"
+    ],
+    "rad_name_file": "gyouninben",
+    "kanji": {
+      "character": "後",
+      "meaning": {
+        "english": "after, back"
+      },
+      "strokes": {
+        "count": 9,
+        "timings": [
+          0,
+          1.733,
+          2.667,
+          3.599,
+          4.732,
+          5.933,
+          6.533,
+          7.599,
+          8.732,
+          9.6
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/ushi(ro)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/ushi(ro)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/ushi(ro)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/ushi(ro)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/ushi(ro)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/ushi(ro)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/ushi(ro)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/ushi(ro)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/ushi(ro)_9.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "go, kou",
+        "katakana": "ゴ、コウ"
+      },
+      "kunyomi": {
+        "romaji": "nochi, ushi, ushiro, ato, oku, okure",
+        "hiragana": "のち、うし、あと、おく"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/ushi(ro)_9.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/ushi(ro)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/ushi(ro)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼻",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/gyouninben.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "ぎょうにんべん",
+        "romaji": "gyouninben"
+      },
+      "meaning": {
+        "english": "bước, sải bước, đường phố, đi"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/gyouninben0.svg",
+        "https://media.kanjialive.com/rad_frames/gyouninben1.svg",
+        "https://media.kanjialive.com/rad_frames/gyouninben2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "267",
+      "classic_nelson": "1610"
+    }
+  },
+  "jishoData": {
+    "query": "後",
+    "found": true,
+    "taughtIn": "lớp 2",
+    "jlptLevel": "N5",
+    "newspaperFrequencyRank": "26",
+    "strokeCount": 9,
+    "meaning": "đằng sau, đằng sau, sau này",
+    "kunyomi": [
+      "のち",
+      "うし.ろ",
+      "うしろ",
+      "あと",
+      "おく.れる"
+    ],
+    "onyomi": [
+      "ゴ",
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "後",
+        "reading": "ゴ",
+        "meaning": "sau"
+      },
+      {
+        "example": "後日",
+        "reading": "ゴジツ",
+        "meaning": "trong tương lai, một ngày khác, sau đó"
+      },
+      {
+        "example": "越後",
+        "reading": "エチゴ",
+        "meaning": "Echigo (tỉnh cũ thuộc tỉnh Niigata ngày nay)"
+      },
+      {
+        "example": "終了後",
+        "reading": "シュウリョウゴ",
+        "meaning": "sau khi kết thúc (của một cái gì đó), post-"
+      },
+      {
+        "example": "後援",
+        "reading": "コウエン",
+        "meaning": "ủng hộ, ủng hộ"
+      },
+      {
+        "example": "後遺症",
+        "reading": "コウイショウ",
+        "meaning": "triệu chứng tiên lượng, hậu quả, di chứng"
+      },
+      {
+        "example": "向後",
+        "reading": "コウゴ",
+        "meaning": "kiếp sau"
+      },
+      {
+        "example": "先後",
+        "reading": "センゴ",
+        "meaning": "trước và sau, trước và sau, thứ tự, trình tự, xảy ra gần như đồng thời, đảo ngược (thứ tự), đen và trắng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "後",
+        "reading": "のち",
+        "meaning": "sau này, sau đó, tương lai, sau khi chết, hậu duệ"
+      },
+      {
+        "example": "後々",
+        "reading": "のちのち",
+        "meaning": "tương lai, tương lai xa"
+      },
+      {
+        "example": "後々",
+        "reading": "のちのち",
+        "meaning": "tương lai, tương lai xa"
+      },
+      {
+        "example": "この後",
+        "reading": "このあと",
+        "meaning": "sau này, kể từ bây giờ, kể từ bây giờ, kể từ bây giờ"
+      },
+      {
+        "example": "後ろ",
+        "reading": "うしろ",
+        "meaning": "sau, đằng sau, phía sau"
+      },
+      {
+        "example": "後ろ姿",
+        "reading": "うしろすがた",
+        "meaning": "(một người) hình dáng từ phía sau, người nhìn từ phía sau, nhìn từ phía sau, hình dáng đang rút lui"
+      },
+      {
+        "example": "後ろ",
+        "reading": "うしろ",
+        "meaning": "sau, đằng sau, phía sau"
+      },
+      {
+        "example": "後ろ姿",
+        "reading": "うしろすがた",
+        "meaning": "(một người) hình dáng từ phía sau, người nhìn từ phía sau, nhìn từ phía sau, hình dáng đang rút lui"
+      },
+      {
+        "example": "後",
+        "reading": "あと",
+        "meaning": "đằng sau, phía sau, sau, sau, phần còn lại, phần còn lại, hơn (ví dụ: năm phút nữa), còn lại, cũng, ngoài ra, hậu duệ, người kế vị, người thừa kế, sau khi chết, quá khứ, trước đó"
+      },
+      {
+        "example": "後押し",
+        "reading": "あとおし",
+        "meaning": "đẩy, hỗ trợ, ủng hộ, hỗ trợ, hỗ trợ, đẩy từ phía sau (xe đẩy, v.v.), người đẩy"
+      },
+      {
+        "example": "亡き後",
+        "reading": "なきあと",
+        "meaning": "sau cái chết của một người"
+      },
+      {
+        "example": "後々",
+        "reading": "あとあと",
+        "meaning": "tương lai, tương lai xa"
+      },
+      {
+        "example": "遅れる",
+        "reading": "おくれる",
+        "meaning": "đến muộn, bị trì hoãn, bị chậm tiến độ, bị quá hạn, bị tụt lại phía sau (trong một cuộc đua, việc học của một người, v.v.), bị tụt lại phía sau, bị tụt lại phía sau (thời gian), bị mất, bị (ai đó) đi trước cái chết, bị chậm (của đồng hồ hoặc đồng hồ)"
+      }
+    ],
+    "radical": {
+      "symbol": "彳",
+      "meaning": "bước"
+    },
+    "parts": [
+      "夂",
+      "幺",
+      "彳"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24460_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f8c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f8c.gif",
+    "uri": "https://jisho.org/search/%E5%BE%8C%23kanji"
+  }
+}

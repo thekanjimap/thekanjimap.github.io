@@ -1,0 +1,60 @@
+{
+  "id": "嶮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嶮",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "nơi không thể tiếp cận, vị trí bất khả xâm phạm, nơi dốc, con mắt tinh tường",
+    "kunyomi": [
+      "けわ.しい"
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "険",
+        "reading": "ケン",
+        "meaning": "độ dốc, nơi dốc, khắc nghiệt (nhìn), sắc bén (lưỡi)"
+      },
+      {
+        "example": "険峻",
+        "reading": "ケンシュン",
+        "meaning": "dốc, dựng đứng"
+      },
+      {
+        "example": "天険",
+        "reading": "テンケン",
+        "meaning": "phòng thủ tự nhiên, phòng thủ tự nhiên, nơi dốc"
+      },
+      {
+        "example": "峻険",
+        "reading": "シュンケン",
+        "meaning": "dốc, dựng đứng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "険しい",
+        "reading": "けわしい",
+        "meaning": "dựng đứng, gồ ghề, không thể tiếp cận, bất khả xâm phạm, dốc, nghiệt ngã, nghiêm trọng, nghiêm khắc"
+      }
+    ],
+    "radical": {
+      "symbol": "山",
+      "meaning": "núi"
+    },
+    "parts": [
+      "一",
+      "个",
+      "人",
+      "口",
+      "山"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23982_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05dae.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5dae.gif",
+    "uri": "https://jisho.org/search/%E5%B6%AE%23kanji"
+  }
+}

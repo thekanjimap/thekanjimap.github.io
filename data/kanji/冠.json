@@ -1,0 +1,77 @@
+{
+  "id": "冠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "冠",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1503",
+    "strokeCount": 9,
+    "meaning": "vương miện, tốt nhất, vô song",
+    "kunyomi": [
+      "かんむり"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "冠",
+        "reading": "カンムリ",
+        "meaning": "mũ truyền thống được đội bởi các giáo sĩ và cận thần Thần đạo, vương miện, vương miện, mũ miện, cấp kanji hàng đầu, câu thơ đầu tiên của haikai, v.v., tốt nhất, vô song, đầu tiên, tên, danh hiệu, tài trợ có tên cho một chương trình, sự kiện, đội, v.v., quầy cho các danh hiệu"
+      },
+      {
+        "example": "冠婚葬祭",
+        "reading": "カンコンソウサイ",
+        "meaning": "những dịp nghi lễ quan trọng trong mối quan hệ gia đình"
+      },
+      {
+        "example": "宝冠",
+        "reading": "ホウカン",
+        "meaning": "vương miện, vương miện nạm ngọc"
+      },
+      {
+        "example": "月桂冠",
+        "reading": "ゲッケイカン",
+        "meaning": "vòng nguyệt quế"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "冠",
+        "reading": "かんむり",
+        "meaning": "mũ truyền thống được đội bởi các giáo sĩ và cận thần Thần đạo, vương miện, vương miện, mũ miện, cấp kanji hàng đầu, câu thơ đầu tiên của haikai, v.v., tốt nhất, vô song, đầu tiên, tên, danh hiệu, tài trợ có tên cho một chương trình, sự kiện, đội, v.v., quầy cho các danh hiệu"
+      },
+      {
+        "example": "冠海雀",
+        "reading": "かんむりうみすずめ",
+        "meaning": "Murrelet Nhật Bản (Synthliboramphus wumizusume), Murrelet mào"
+      },
+      {
+        "example": "初冠",
+        "reading": "ういこうぶり",
+        "meaning": "đội vương miện cho một cậu bé lần đầu tiên trong lễ trưởng thành, mũ noh có đuôi cuộn tròn hoặc rũ xuống (biểu thị sự cao quý)"
+      },
+      {
+        "example": "老冠",
+        "reading": "おいかんむり",
+        "meaning": "chữ kanji \"cũ\" ở trên cùng"
+      }
+    ],
+    "radical": {
+      "symbol": "冖",
+      "meaning": "che"
+    },
+    "parts": [
+      "儿",
+      "元",
+      "冖",
+      "寸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20896_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051a0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51a0.gif",
+    "uri": "https://jisho.org/search/%E5%86%A0%23kanji"
+  }
+}

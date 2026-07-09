@@ -1,0 +1,47 @@
+{
+  "id": "荳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "荳",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "đậu, hạt nhục đậu khấu",
+    "kunyomi": [
+      "まめ"
+    ],
+    "onyomi": [
+      "トウ",
+      "ズ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "豆",
+        "reading": "まめ",
+        "meaning": "cây họ đậu (đặc biệt là các loại đậu ăn được hoặc hạt của chúng, ví dụ như đậu, đậu Hà Lan, đậu), đậu, đậu Hà Lan, đậu nành (Glycine max), đậu nành, đậu nành, cơ quan sinh dục nữ (đặc biệt là âm vật), thận, nhỏ, thu nhỏ, em bé, người lùn, quy mô nhỏ, trẻ em"
+      },
+      {
+        "example": "肉刺",
+        "reading": "まめ",
+        "meaning": "mụn nước, ngô"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "口",
+      "并",
+      "艾",
+      "豆"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33651_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08373.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8373.gif",
+    "uri": "https://jisho.org/search/%E8%8D%B3%23kanji"
+  }
+}

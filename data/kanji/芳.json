@@ -1,0 +1,63 @@
+{
+  "id": "芳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "芳",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1302",
+    "strokeCount": 7,
+    "meaning": "nước hoa, thơm, thuận lợi, thơm",
+    "kunyomi": [
+      "かんば.しい"
+    ],
+    "onyomi": [
+      "ホウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "芳香",
+        "reading": "ホウコウ",
+        "meaning": "nước hoa, nước hoa, hương thơm, dầu dưỡng, hương thơm ngọt ngào"
+      },
+      {
+        "example": "芳韻",
+        "reading": "ホウイン",
+        "meaning": "Bài thơ, bài thơ, vần điệu Trung Quốc"
+      },
+      {
+        "example": "遺芳",
+        "reading": "イホウ",
+        "meaning": "ký ức hoặc chữ ký của người đã khuất"
+      },
+      {
+        "example": "余芳",
+        "reading": "ヨホウ",
+        "meaning": "Hương thơm lưu luyến, danh tiếng tiếp tục (sau khi chết)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "芳しい",
+        "reading": "かんばしい",
+        "meaning": "có mùi thơm, mùi thơm, tốt (danh tiếng, điều kiện, kết quả…), thuận lợi"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "方",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33459_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082b3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82b3.gif",
+    "uri": "https://jisho.org/search/%E8%8A%B3%23kanji"
+  }
+}

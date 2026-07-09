@@ -1,0 +1,62 @@
+{
+  "id": "曝",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "曝",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "tẩy, tinh chế, phơi bày, thông gió",
+    "kunyomi": [
+      "さら.す"
+    ],
+    "onyomi": [
+      "バク",
+      "ホク",
+      "ボク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "暴露",
+        "reading": "バクロ",
+        "meaning": "sự tiết lộ, sự phơi bày, sự tiết lộ"
+      },
+      {
+        "example": "曝書",
+        "reading": "バクショ",
+        "meaning": "phát sóng sách"
+      },
+      {
+        "example": "被曝",
+        "reading": "ヒバク",
+        "meaning": "tiếp xúc với bức xạ, tiếp xúc với bức xạ"
+      },
+      {
+        "example": "低線量被曝",
+        "reading": "テイセンリョウヒバク",
+        "meaning": "bức xạ ở mức độ thấp, chiếu xạ liều thấp, phơi nhiễm liều thấp"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "晒す",
+        "reading": "さらす",
+        "meaning": "phơi bày (dưới ánh nắng mặt trời, nơi công cộng, nguy hiểm, v.v.), tẩy, lọc, rửa (rau), ngâm, doxx, dox, công khai thông tin riêng tư của ai đó mà không được phép, kết án (ai đó) để sỉ nhục công khai"
+      }
+    ],
+    "radical": {
+      "symbol": "日",
+      "meaning": "mặt trời, ngày"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "日",
+      "水",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26333_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/066dd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/66dd.gif",
+    "uri": "https://jisho.org/search/%E6%9B%9D%23kanji"
+  }
+}

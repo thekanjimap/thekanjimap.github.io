@@ -1,0 +1,68 @@
+{
+  "id": "輝",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "輝",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1259",
+    "strokeCount": 15,
+    "meaning": "sự tỏa sáng, sự tỏa sáng, sự lấp lánh, sự lấp lánh, sự lấp lánh",
+    "kunyomi": [
+      "かがや.く"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "輝度",
+        "reading": "キド",
+        "meaning": "độ sáng, độ sáng"
+      },
+      {
+        "example": "輝安鉱",
+        "reading": "キアンコウ",
+        "meaning": "stibnite (khoáng chất), antimonite"
+      },
+      {
+        "example": "光輝",
+        "reading": "コウキ",
+        "meaning": "sự rực rỡ, sự huy hoàng, sự huy hoàng"
+      },
+      {
+        "example": "輝々",
+        "reading": "キキ",
+        "meaning": "rực rỡ (của ánh sáng), tỏa sáng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "輝く",
+        "reading": "かがやく",
+        "meaning": "tỏa sáng, lấp lánh, lấp lánh, lấp lánh, lấp lánh, sáng lên (với hạnh phúc, hy vọng, v.v.), tỏa sáng, lấp lánh, tỏa sáng"
+      },
+      {
+        "example": "輝く女性",
+        "reading": "かがやくじょせい",
+        "meaning": "phụ nữ xuất sắc, phụ nữ ở vị trí nổi bật"
+      }
+    ],
+    "radical": {
+      "symbol": "車",
+      "meaning": "xe đẩy, xe hơi"
+    },
+    "parts": [
+      "一",
+      "儿",
+      "冖",
+      "尚",
+      "車"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36637_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f1d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f1d.gif",
+    "uri": "https://jisho.org/search/%E8%BC%9D%23kanji"
+  }
+}

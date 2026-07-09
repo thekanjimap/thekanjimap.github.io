@@ -1,0 +1,48 @@
+{
+  "id": "赭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "赭",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "màu đỏ",
+    "kunyomi": [
+      "あかつち"
+    ],
+    "onyomi": [
+      "シャ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "赭顔",
+        "reading": "シャガン",
+        "meaning": "mặt hồng hào"
+      },
+      {
+        "example": "赤熊",
+        "reading": "シャグマ",
+        "meaning": "tóc yak nhuộm đỏ, tóc đỏ, tóc giả xoăn, tóc giả xoăn"
+      },
+      {
+        "example": "代赭",
+        "reading": "タイシャ",
+        "meaning": "đất son đỏ (đất son)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "赤",
+      "meaning": "màu đỏ, khỏa thân"
+    },
+    "parts": [
+      "土",
+      "日",
+      "老",
+      "赤"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36205_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08d6d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8d6d.gif",
+    "uri": "https://jisho.org/search/%E8%B5%AD%23kanji"
+  }
+}

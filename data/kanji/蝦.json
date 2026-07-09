@@ -1,0 +1,65 @@
+{
+  "id": "蝦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蝦",
+    "found": true,
+    "newspaperFrequencyRank": "2501",
+    "strokeCount": 15,
+    "meaning": "tôm, tôm, tôm hùm",
+    "kunyomi": [
+      "えび"
+    ],
+    "onyomi": [
+      "カ",
+      "ゲ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蛙",
+        "reading": "カエル",
+        "meaning": "ếch, ếch kajika (Buergeria buergeri)"
+      },
+      {
+        "example": "海老尾",
+        "reading": "エビオ",
+        "meaning": "cá vàng có đuôi giống tôm, đầu đàn shamisen hoặc đàn luýt (cong về phía sau như đuôi tôm)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "海老",
+        "reading": "えび",
+        "meaning": "tôm, tôm, tôm hùm"
+      },
+      {
+        "example": "海老芋",
+        "reading": "えびいも",
+        "meaning": "giống khoai môn hình con tôm"
+      },
+      {
+        "example": "鉄砲蝦",
+        "reading": "てっぽうえび",
+        "meaning": "tôm ngoạm (Alpheus brevicristatus), tôm súng lục"
+      },
+      {
+        "example": "猩猩蝦",
+        "reading": "しょうじょうえび",
+        "meaning": "Tôm kangaroo (Glyphus marsupialis)"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "côn trùng"
+    },
+    "parts": [
+      "又",
+      "口",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34662_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08766.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8766.gif",
+    "uri": "https://jisho.org/search/%E8%9D%A6%23kanji"
+  }
+}

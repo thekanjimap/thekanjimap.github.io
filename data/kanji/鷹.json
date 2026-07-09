@@ -1,0 +1,78 @@
+{
+  "id": "鷹",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鷹",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1676",
+    "strokeCount": 24,
+    "meaning": "chim ưng",
+    "kunyomi": [
+      "たか"
+    ],
+    "onyomi": [
+      "ヨウ",
+      "オウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鷹隼",
+        "reading": "ヨウシュン",
+        "meaning": "diều hâu và chim ưng"
+      },
+      {
+        "example": "鷹揚",
+        "reading": "オウヨウ",
+        "meaning": "rộng lượng, hào phóng, phóng khoáng, cởi mở, cao thượng, dễ tính, điềm tĩnh, điềm tĩnh, lạnh lùng, tự chủ"
+      },
+      {
+        "example": "放鷹",
+        "reading": "ホウヨウ",
+        "meaning": "nuôi chim ưng, săn chim ưng"
+      },
+      {
+        "example": "鷹揚",
+        "reading": "オウヨウ",
+        "meaning": "rộng lượng, hào phóng, phóng khoáng, cởi mở, cao thượng, dễ tính, điềm tĩnh, điềm tĩnh, lạnh lùng, tự chủ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鷹",
+        "reading": "たか",
+        "meaning": "chim ưng, chim ưng"
+      },
+      {
+        "example": "鷹匠",
+        "reading": "たかじょう",
+        "meaning": "người nuôi chim ưng, người bán hàng rong"
+      },
+      {
+        "example": "大鷹",
+        "reading": "おおたか",
+        "meaning": "chim ưng phương bắc (Accipiter gentilis), diều hâu cái (hoặc chim ưng), nuôi chim ưng (sử dụng chim ưng phương bắc)"
+      },
+      {
+        "example": "小鷹",
+        "reading": "こたか",
+        "meaning": "diều hâu hoặc chim ưng nhỏ (dùng để săn bắn), nuôi chim ưng (dùng diều hâu hoặc chim ưng nhỏ)"
+      }
+    ],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "chim"
+    },
+    "parts": [
+      "化",
+      "广",
+      "杰",
+      "隹",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40441_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09df9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9df9.gif",
+    "uri": "https://jisho.org/search/%E9%B7%B9%23kanji"
+  }
+}

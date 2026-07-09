@@ -1,0 +1,56 @@
+{
+  "id": "棋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "棋",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1311",
+    "strokeCount": 12,
+    "meaning": "quân cờ, cờ vua Nhật Bản, shogi",
+    "kunyomi": [
+      "ご"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "棋士",
+        "reading": "キシ",
+        "meaning": "kỳ thủ shogi chuyên nghiệp, kỳ thủ cờ vây chuyên nghiệp"
+      },
+      {
+        "example": "棋院",
+        "reading": "キイン",
+        "meaning": "đi học, đi câu lạc bộ, đi hội trường"
+      },
+      {
+        "example": "弾棋",
+        "reading": "ダンギ",
+        "meaning": "trò chơi cờ cổ của Trung Quốc tương tự như cờ vây"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "碁",
+        "reading": "ご",
+        "meaning": "đi (trò chơi cờ bàn)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "ハ",
+      "木",
+      "甘"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26827_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068cb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68cb.gif",
+    "uri": "https://jisho.org/search/%E6%A3%8B%23kanji"
+  }
+}

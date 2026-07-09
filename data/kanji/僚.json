@@ -1,0 +1,57 @@
+{
+  "id": "僚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "僚",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "709",
+    "strokeCount": 14,
+    "meaning": "đồng nghiệp, chính thức, bạn đồng hành",
+    "kunyomi": [],
+    "onyomi": [
+      "リョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "僚友",
+        "reading": "リョウユウ",
+        "meaning": "đồng nghiệp, đồng nghiệp, đồng chí, đồng nghiệp"
+      },
+      {
+        "example": "僚船",
+        "reading": "リョウセン",
+        "meaning": "tàu phối hợp"
+      },
+      {
+        "example": "幕僚",
+        "reading": "バクリョウ",
+        "meaning": "nhân viên, nhân viên"
+      },
+      {
+        "example": "下僚",
+        "reading": "カリョウ",
+        "meaning": "cấp dưới, quan chức nhỏ"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "đàn ông, con người"
+    },
+    "parts": [
+      "化",
+      "大",
+      "小",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20698_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050da.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50da.gif",
+    "uri": "https://jisho.org/search/%E5%83%9A%23kanji"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "匪",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "匪",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "sự phủ định, kẻ ác",
+    "kunyomi": [
+      "あら.ず",
+      "かたみ"
+    ],
+    "onyomi": [
+      "ヒ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "匪躬",
+        "reading": "ヒキュウ",
+        "meaning": "dịch vụ hy sinh"
+      },
+      {
+        "example": "匪石之心",
+        "reading": "ヒセキノココロ",
+        "meaning": "kiên định, vững vàng trong niềm tin, có trái tim không dễ thay đổi như hòn đá lăn"
+      },
+      {
+        "example": "兵匪",
+        "reading": "ヘイヒ",
+        "meaning": "kẻ cướp"
+      },
+      {
+        "example": "討匪",
+        "reading": "トウヒ",
+        "meaning": "trấn áp bọn cướp"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "匚",
+      "meaning": "cái hộp"
+    },
+    "parts": [
+      "匚",
+      "非"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21290_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0532a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/532a.gif",
+    "uri": "https://jisho.org/search/%E5%8C%AA%23kanji"
+  }
+}

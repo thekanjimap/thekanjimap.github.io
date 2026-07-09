@@ -1,0 +1,66 @@
+{
+  "id": "這",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "這",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "bò, bò, trườn, đường mòn (dây leo)",
+    "kunyomi": [
+      "は.う",
+      "は.い",
+      "むか.える",
+      "この"
+    ],
+    "onyomi": [
+      "シャ",
+      "ゲン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "這般",
+        "reading": "シャハン",
+        "meaning": "những cái này, loại này, như vậy, lần này"
+      },
+      {
+        "example": "這裏",
+        "reading": "シャリ",
+        "meaning": "bên trong cái này, bên trong"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "這う",
+        "reading": "はう",
+        "meaning": "bò, bò, đi bằng bốn chân, trườn, luồn lách, theo dấu (dây leo, hoa, v.v.), trải rộng, bò"
+      },
+      {
+        "example": "入り込む",
+        "reading": "はいりこむ",
+        "meaning": "đi vào, đi vào, thâm nhập, đi vào, bước vào (một ngôi nhà), trở nên phức tạp"
+      },
+      {
+        "example": "入り口",
+        "reading": "いりぐち",
+        "meaning": "lối vào, lối vào, cổng, lối vào, miệng"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "đi bộ"
+    },
+    "parts": [
+      "言",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36889_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09019.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9019.gif",
+    "uri": "https://jisho.org/search/%E9%80%99%23kanji"
+  }
+}

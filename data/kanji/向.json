@@ -1,0 +1,461 @@
+{
+  "id": "向",
+  "kanjialiveData": {
+    "_id": "54317ae8791eba5146ee49c9",
+    "_rev": "11-3f2222f3cdad2cc2147d15355ff80cbb",
+    "rad_name_ja": "くち",
+    "grade": 3,
+    "hint_group": 1,
+    "kunyomi": "mu, muku, muki, mukeru, mukau, mukou",
+    "meaning": "quay mặt về phía, hướng về phía",
+    "kstroke": 6,
+    "examples": [
+      {
+        "japanese": "向上心（こうじょうしん）",
+        "meaning": {
+          "english": "khát vọng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-mu(ki)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kou-mu(ki)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kou-mu(ki)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kou-mu(ki)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "方向（ほうこう）",
+        "meaning": {
+          "english": "phương hướng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-mu(ki)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kou-mu(ki)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kou-mu(ki)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kou-mu(ki)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "傾向（けいこう）",
+        "meaning": {
+          "english": "xu hướng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-mu(ki)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kou-mu(ki)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kou-mu(ki)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kou-mu(ki)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "動向（どうこう）",
+        "meaning": {
+          "english": "xu hướng, phong trào"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-mu(ki)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kou-mu(ki)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kou-mu(ki)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kou-mu(ki)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "対向車（たいこうしゃ）",
+        "meaning": {
+          "english": "xe đang tới"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-mu(ki)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kou-mu(ki)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kou-mu(ki)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kou-mu(ki)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "転向する（てんこうする）",
+        "meaning": {
+          "english": "chuyển, chuyển đổi"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-mu(ki)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kou-mu(ki)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kou-mu(ki)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kou-mu(ki)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "向こう（むこう）",
+        "meaning": {
+          "english": "đằng kia"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-mu(ki)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kou-mu(ki)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kou-mu(ki)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kou-mu(ki)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "向ける（むける）",
+        "meaning": {
+          "english": "hãy hướng về [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-mu(ki)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kou-mu(ki)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kou-mu(ki)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kou-mu(ki)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "向かう（むかう）",
+        "meaning": {
+          "english": "đi về phía [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-mu(ki)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kou-mu(ki)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kou-mu(ki)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kou-mu(ki)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "子供向け（こどもむけ）",
+        "meaning": {
+          "english": "dành cho trẻ em"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-mu(ki)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kou-mu(ki)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kou-mu(ki)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kou-mu(ki)_06_j.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "む、むく、むき、むける、むかう、むこう",
+    "ka_utf": "向",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=向",
+    "rad_name_search": [
+      "kuchi"
+    ],
+    "rad_order": 34,
+    "txt_books": [
+      {
+        "chapter": "25",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "40",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "20",
+        "txt_bk": "txtSFJ3"
+      },
+      {
+        "chapter": "20",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "jt"
+      },
+      {
+        "txt_bk": "mntr",
+        "chapter": "3"
+      }
+    ],
+    "kname": "kou-mu(ki)",
+    "rad_utf": "⼝",
+    "stroketimes": [
+      0,
+      1.733,
+      2.4,
+      4.666,
+      5.333,
+      6.533,
+      6.933333
+    ],
+    "kunyomi_ka_display": "む",
+    "dick": "1934",
+    "rad_name": "kuchi",
+    "dicn": "101",
+    "mn_hint": "Something ノ happening beyond the limits of the house 冋.",
+    "rad_stroke": 3,
+    "onyomi_ja": "コウ",
+    "rad_meaning": "miệng",
+    "onyomi": "kou",
+    "ka_id": "ka_277",
+    "onyomi_search": [
+      "kou",
+      "kou"
+    ],
+    "kunyomi_search": [
+      "mu",
+      "muku",
+      "muki",
+      "mukeru",
+      "mukau",
+      "mukou",
+      "mu, muku, muki, mukeru, mukau, mukou"
+    ],
+    "meaning_search": [
+      "turn toward",
+      "turn",
+      "toward",
+      "face toward",
+      "face",
+      "toward",
+      "turn toward, face toward"
+    ],
+    "onyomi_ja_search": [
+      "コウ",
+      "コウ"
+    ],
+    "kunyomi_ja_search": [
+      "む",
+      "むく",
+      "むき",
+      "むける",
+      "むかう",
+      "むこう",
+      "む、むく、むき、むける、むかう、むこう"
+    ],
+    "rad_meaning_search": [
+      "mouth",
+      "mouth"
+    ],
+    "rad_name_ja_search": [
+      "くち"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:25",
+      "cij:c25",
+      "bk",
+      "bk:40",
+      "bk:c40",
+      "ap",
+      "ap:6",
+      "ap:c6",
+      "jt",
+      "jt:4",
+      "jt:c4",
+      "mntr",
+      "mntr:3",
+      "mntr:c3"
+    ],
+    "rad_name_file": "kuchi",
+    "kanji": {
+      "character": "向",
+      "meaning": {
+        "english": "turn toward, face toward"
+      },
+      "strokes": {
+        "count": 6,
+        "timings": [
+          0,
+          1.733,
+          2.4,
+          4.666,
+          5.333,
+          6.533,
+          6.933333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/kou-mu(ki)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/kou-mu(ki)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/kou-mu(ki)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/kou-mu(ki)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/kou-mu(ki)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/kou-mu(ki)_6.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "kou",
+        "katakana": "コウ"
+      },
+      "kunyomi": {
+        "romaji": "mu, muku, muki, mukeru, mukau, mukou",
+        "hiragana": "む"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/kou-mu(ki)_6.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/kou-mu(ki)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/kou-mu(ki)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼝",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/kuchi.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "くち",
+        "romaji": "kuchi"
+      },
+      "meaning": {
+        "english": "miệng"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/kuchi0.svg",
+        "https://media.kanjialive.com/rad_frames/kuchi1.svg",
+        "https://media.kanjialive.com/rad_frames/kuchi2.svg"
+      ]
+    },
+    "references": {
+      "grade": 3,
+      "kodansha": "1934",
+      "classic_nelson": "101"
+    }
+  },
+  "jishoData": {
+    "query": "向",
+    "found": true,
+    "taughtIn": "lớp 3",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "182",
+    "strokeCount": 6,
+    "meaning": "đằng kia, đối mặt, xa hơn, đương đầu, thách thức, có xu hướng, tiếp cận",
+    "kunyomi": [
+      "む.く",
+      "む.い",
+      "-む.き",
+      "む.ける",
+      "-む.け",
+      "む.かう",
+      "む.かい",
+      "む.こう",
+      "む.こう-",
+      "むこ",
+      "むか.い"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "向上",
+        "reading": "コウジョウ",
+        "meaning": "sự thăng tiến, sự thăng tiến, sự tiến bộ, sự tiến bộ"
+      },
+      {
+        "example": "向後",
+        "reading": "コウゴ",
+        "meaning": "kiếp sau"
+      },
+      {
+        "example": "趣向",
+        "reading": "シュコウ",
+        "meaning": "kế hoạch, ý tưởng, thiết kế, âm mưu, sở thích, sở thích, sở thích"
+      },
+      {
+        "example": "性向",
+        "reading": "セイコウ",
+        "meaning": "khuynh hướng, khuynh hướng, tính chất, tính cách"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "向く",
+        "reading": "むく",
+        "meaning": "quay về phía, nhìn (lên, xuống, v.v.), đối mặt (ví dụ: phía đông) (của một tòa nhà, cửa sổ, v.v.), nhìn ra ngoài, phía trước (trên), chỉ (mũi tên, kim la bàn, v.v.), phù hợp với, phù hợp với, hướng tới, hướng tới (sở thích, cảm xúc của một người, v.v.), có khuynh hướng (làm)"
+      },
+      {
+        "example": "向いている",
+        "reading": "むいている",
+        "meaning": "bị loại bỏ (ví dụ: một công việc), phù hợp với (để)"
+      },
+      {
+        "example": "向ける",
+        "reading": "むける",
+        "meaning": "quay (hướng tới), đối mặt, chỉ, nhắm, hướng tới, hướng tới, đi về phía, phân bổ, phân bổ, gửi, gửi (ví dụ: một người), nhắm tới, theo đuổi"
+      },
+      {
+        "example": "向かう",
+        "reading": "むかう",
+        "meaning": "đối mặt, hướng tới, hướng tới"
+      },
+      {
+        "example": "向かうところ敵無し",
+        "reading": "むかうところてきなし",
+        "meaning": "không thể đánh bại, bất khả chiến bại, không thể cưỡng lại được"
+      },
+      {
+        "example": "向い",
+        "reading": "むかい",
+        "meaning": "đối diện, đối diện, bên kia đường, phía bên kia"
+      },
+      {
+        "example": "向かい合う",
+        "reading": "むかいあう",
+        "meaning": "đối mặt với nhau, đối diện nhau (với)"
+      },
+      {
+        "example": "向こう",
+        "reading": "むこう",
+        "meaning": "đối diện, phía bên kia, đằng kia, phía trước, xa hơn, (trong) khoảng cách, xa, xa, đích đến, ở đó (ở đâu đó xa xôi, đặc biệt là ở nước ngoài), bên kia, phía bên kia, từ bây giờ, tiếp theo (ví dụ: hai tuần), đến ..., từ ... trở đi"
+      },
+      {
+        "example": "向こう側",
+        "reading": "むこうがわ",
+        "meaning": "phía bên kia, phía đối diện, phía bên kia"
+      },
+      {
+        "example": "向こう",
+        "reading": "むこう",
+        "meaning": "đối diện, phía bên kia, đằng kia, phía trước, xa hơn, (trong) khoảng cách, xa, xa, đích đến, ở đó (ở đâu đó xa xôi, đặc biệt là ở nước ngoài), bên kia, phía bên kia, từ bây giờ, tiếp theo (ví dụ: hai tuần), đến ..., từ ... trở đi"
+      },
+      {
+        "example": "向こう側",
+        "reading": "むこうがわ",
+        "meaning": "phía bên kia, phía đối diện, phía bên kia"
+      },
+      {
+        "example": "向い",
+        "reading": "むかい",
+        "meaning": "đối diện, đối diện, bên kia đường, phía bên kia"
+      },
+      {
+        "example": "向かい合う",
+        "reading": "むかいあう",
+        "meaning": "đối mặt với nhau, đối diện nhau (với)"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "冂",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21521_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05411.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5411.gif",
+    "uri": "https://jisho.org/search/%E5%90%91%23kanji"
+  }
+}

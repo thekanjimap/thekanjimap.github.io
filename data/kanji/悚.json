@@ -1,0 +1,48 @@
+{
+  "id": "悚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "悚",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "nỗi sợ hãi",
+    "kunyomi": [
+      "おそ.れる"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "悚然",
+        "reading": "ショウゼン",
+        "meaning": "kinh hoàng, kinh hoàng"
+      },
+      {
+        "example": "恐悚",
+        "reading": "キョウショウ",
+        "meaning": "lùi lại vì sợ hãi, cảm thấy có lỗi (vì đã làm phiền ai đó), cảm thấy xấu hổ (ví dụ: vì một lời khen), cảm thấy xấu hổ, cảm thấy (nhiều) nghĩa vụ"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "ハ",
+      "口",
+      "忙",
+      "木",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24730_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0609a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/609a.gif",
+    "uri": "https://jisho.org/search/%E6%82%9A%23kanji"
+  }
+}

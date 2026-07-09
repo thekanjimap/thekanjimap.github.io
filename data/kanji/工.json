@@ -1,0 +1,392 @@
+{
+  "id": "工",
+  "kanjialiveData": {
+    "_id": "54317ae8791eba5146ee49c3",
+    "_rev": "11-00f4a38b6f99662eb0541cf2cccbcd13",
+    "rad_name_ja": "たくみ",
+    "grade": 2,
+    "hint_group": 1,
+    "kunyomi": "Không có",
+    "meaning": "sản xuất, xây dựng",
+    "kstroke": 3,
+    "examples": [
+      {
+        "japanese": "工事（こうじ）",
+        "meaning": {
+          "english": "công trình xây dựng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ku(fuu)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ku(fuu)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ku(fuu)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ku(fuu)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "工場（こうじょう）",
+        "meaning": {
+          "english": "nhà máy"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ku(fuu)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ku(fuu)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ku(fuu)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ku(fuu)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "工学部（こうがくぶ）",
+        "meaning": {
+          "english": "khoa kỹ thuật"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ku(fuu)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ku(fuu)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ku(fuu)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ku(fuu)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "人工的な（じんこうてきな）",
+        "meaning": {
+          "english": "nhân tạo"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ku(fuu)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ku(fuu)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ku(fuu)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ku(fuu)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "加工する（かこうする）",
+        "meaning": {
+          "english": "quá trình [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ku(fuu)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ku(fuu)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ku(fuu)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ku(fuu)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "大工（だいく）",
+        "meaning": {
+          "english": "thợ mộc"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ku(fuu)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ku(fuu)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ku(fuu)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ku(fuu)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "細工する（さいくする）",
+        "meaning": {
+          "english": "thủ công"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ku(fuu)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ku(fuu)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ku(fuu)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ku(fuu)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "工夫する（くふうする）",
+        "meaning": {
+          "english": "nghĩ ra"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ku(fuu)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ku(fuu)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ku(fuu)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ku(fuu)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "工面する（くめんする）",
+        "meaning": {
+          "english": "quyên góp (tiền)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ku(fuu)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ku(fuu)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ku(fuu)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ku(fuu)_06_i.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "工",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=工",
+    "kname": "ku(fuu)",
+    "rad_order": 57,
+    "txt_books": [
+      {
+        "chapter": "25",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "10",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "19",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "18",
+        "txt_bk": "macquarie"
+      },
+      {
+        "chapter": "19",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "21",
+        "txt_bk": "txtSFJ3"
+      },
+      {
+        "chapter": "21",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtLookLearn"
+      }
+    ],
+    "rad_name_search": [
+      "takumi"
+    ],
+    "rad_utf": "⼯",
+    "stroketimes": [
+      0,
+      1.665,
+      2.598,
+      3.666667
+    ],
+    "kunyomi_ka_display": "Không có",
+    "dick": "2118",
+    "rad_name": "takumi",
+    "dicn": "1451",
+    "mn_hint": "Please view the animation in the radical field to the left.",
+    "rad_stroke": 3,
+    "onyomi_ja": "コウ、ク",
+    "rad_meaning": "công việc, thợ mộc, kỹ năng",
+    "onyomi": "kou, ku",
+    "ka_id": "ka_271",
+    "onyomi_search": [
+      "kou",
+      "ku",
+      "kou, ku"
+    ],
+    "kunyomi_search": [
+      "Không có",
+      "Không có"
+    ],
+    "meaning_search": [
+      "manufacture",
+      "construction",
+      "manufacture, construction"
+    ],
+    "onyomi_ja_search": [
+      "コウ",
+      "ク",
+      "コウ、ク"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "work",
+      "carpenter",
+      "skill",
+      "work, carpenter, skill"
+    ],
+    "rad_name_ja_search": [
+      "たくみ"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:25",
+      "cij:c25",
+      "ij",
+      "ij:10",
+      "ij:c10",
+      "bk",
+      "bk:19",
+      "bk:c19",
+      "mac",
+      "mac:18",
+      "mac:c18",
+      "gen",
+      "gen:19",
+      "gen:c19",
+      "ap",
+      "ap:6",
+      "ap:c6",
+      "kll",
+      "kll:3",
+      "kll:c3"
+    ],
+    "rad_name_file": "takumi",
+    "kanji": {
+      "character": "工",
+      "meaning": {
+        "english": "manufacture, construction"
+      },
+      "strokes": {
+        "count": 3,
+        "timings": [
+          0,
+          1.665,
+          2.598,
+          3.666667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/ku(fuu)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/ku(fuu)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/ku(fuu)_3.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "kou, ku",
+        "katakana": "コウ、ク"
+      },
+      "kunyomi": {
+        "romaji": "Không có",
+        "hiragana": "Không có"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/ku(fuu)_3.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/ku(fuu)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/ku(fuu)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼯",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/takumi.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "たくみ",
+        "romaji": "takumi"
+      },
+      "meaning": {
+        "english": "công việc, thợ mộc, kỹ năng"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/takumi0.svg",
+        "https://media.kanjialive.com/rad_frames/takumi1.svg",
+        "https://media.kanjialive.com/rad_frames/takumi2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "2118",
+      "classic_nelson": "1451"
+    }
+  },
+  "jishoData": {
+    "query": "工",
+    "found": true,
+    "taughtIn": "lớp 2",
+    "jlptLevel": "N4",
+    "newspaperFrequencyRank": "299",
+    "strokeCount": 3,
+    "meaning": "thủ công, xây dựng, katakana e cấp tiến (số 48)",
+    "kunyomi": [],
+    "onyomi": [
+      "コウ",
+      "ク",
+      "グ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "工",
+        "reading": "コウ",
+        "meaning": "(nhà máy) công nhân"
+      },
+      {
+        "example": "工員",
+        "reading": "コウイン",
+        "meaning": "công nhân nhà máy"
+      },
+      {
+        "example": "起工",
+        "reading": "キコウ",
+        "meaning": "thiết lập để làm việc"
+      },
+      {
+        "example": "商工",
+        "reading": "ショウコウ",
+        "meaning": "thương mại và công nghiệp"
+      },
+      {
+        "example": "工夫",
+        "reading": "クフウ",
+        "meaning": "nghĩ ra (một cách), toan tính, phát minh, nghĩ ra, tìm ra, nghĩ ra, tìm ra, thiết bị, thiết kế, ý tưởng, kế hoạch, phát minh, cống hiến cho việc cải thiện tinh thần (đặc biệt là thông qua thiền Zen)"
+      },
+      {
+        "example": "工面",
+        "reading": "クメン",
+        "meaning": "sự sắp đặt, quản lý (để kiếm tiền), điều kiện tài chính của một người"
+      },
+      {
+        "example": "竹細工",
+        "reading": "タケザイク",
+        "meaning": "đồ tre, đồ tre"
+      },
+      {
+        "example": "寄せ木細工",
+        "reading": "ヨセギザイク",
+        "meaning": "tác phẩm khảm bằng gỗ, sàn gỗ, khảm bằng gỗ (ví dụ: trên một món đồ nội thất), khảm, marqueterie"
+      },
+      {
+        "example": "具合",
+        "reading": "グアイ",
+        "meaning": "tình trạng, trạng thái, sức khỏe, trạng thái (sức khỏe), cách thức, cách thức, hoàn cảnh, may mắn, khuôn mặt, nhân phẩm, sự đứng đắn, sự đứng đắn"
+      },
+      {
+        "example": "工面",
+        "reading": "クメン",
+        "meaning": "sự sắp đặt, quản lý (để kiếm tiền), điều kiện tài chính của một người"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "工",
+      "meaning": "làm việc"
+    },
+    "parts": [
+      "工"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24037_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05de5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5de5.gif",
+    "uri": "https://jisho.org/search/%E5%B7%A5%23kanji"
+  }
+}

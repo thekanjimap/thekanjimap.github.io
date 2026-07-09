@@ -1,0 +1,55 @@
+{
+  "id": "臘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "臘",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "tháng 12 âm lịch",
+    "kunyomi": [],
+    "onyomi": [
+      "ロウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "臘",
+        "reading": "ロウ",
+        "meaning": "Lễ cúng dường được tổ chức vào ngày mồng 3 Mậu Tuất sau Đông chí, tháng 12 âm dương, năm theo Phật giáo (sau khi hoàn thành khóa thiền đầu tiên)"
+      },
+      {
+        "example": "臘月",
+        "reading": "ロウゲツ",
+        "meaning": "tháng mười hai âm lịch, tháng 12 âm lịch"
+      },
+      {
+        "example": "劫臈",
+        "reading": "コウロウ",
+        "meaning": "lâu năm, nhiều năm phục vụ"
+      },
+      {
+        "example": "旧臘",
+        "reading": "キュウロウ",
+        "meaning": "Tháng 12 năm ngoái, cuối năm ngoái"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "thịt"
+    },
+    "parts": [
+      "囗",
+      "巛",
+      "月",
+      "臼",
+      "鼠"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33240_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081d8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81d8.gif",
+    "uri": "https://jisho.org/search/%E8%87%98%23kanji"
+  }
+}

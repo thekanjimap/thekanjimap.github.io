@@ -1,0 +1,63 @@
+{
+  "id": "漿",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "漿",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "đồ uống",
+    "kunyomi": [
+      "こんず"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "濃漿",
+        "reading": "コンズ",
+        "meaning": "nước gạo"
+      },
+      {
+        "example": "漿液",
+        "reading": "ショウエキ",
+        "meaning": "dịch huyết thanh, nước trái cây, nhựa cây"
+      },
+      {
+        "example": "精漿",
+        "reading": "セイショウ",
+        "meaning": "huyết tương tinh dịch"
+      },
+      {
+        "example": "泥漿",
+        "reading": "デイショウ",
+        "meaning": "bùn, trượt"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "濃漿",
+        "reading": "こんず",
+        "meaning": "nước gạo"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "夕",
+      "寸",
+      "水",
+      "爿"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28479_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f3f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f3f.gif",
+    "uri": "https://jisho.org/search/%E6%BC%BF%23kanji"
+  }
+}

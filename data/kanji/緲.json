@@ -1,0 +1,41 @@
+{
+  "id": "緲",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "緲",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "mờ nhạt, xa vời",
+    "kunyomi": [],
+    "onyomi": [
+      "ビョウ",
+      "ミョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "縹渺",
+        "reading": "ヒョウビョウ",
+        "meaning": "vô tận, rộng lớn, vô tận, mơ hồ, mơ hồ, mơ hồ, không rõ ràng"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "糸",
+      "forms": [
+        "糹"
+      ],
+      "meaning": "lụa"
+    },
+    "parts": [
+      "ノ",
+      "小",
+      "幺",
+      "目",
+      "糸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32242_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07df2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7df2.gif",
+    "uri": "https://jisho.org/search/%E7%B7%B2%23kanji"
+  }
+}

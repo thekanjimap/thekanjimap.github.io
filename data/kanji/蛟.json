@@ -1,0 +1,44 @@
+{
+  "id": "蛟",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蛟",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "rồng",
+    "kunyomi": [
+      "みずち"
+    ],
+    "onyomi": [
+      "コウ",
+      "キョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蛟竜",
+        "reading": "コウリョウ",
+        "meaning": "mizuchi, thủy sinh, quái vật giống rồng có bốn chân, có sừng và hơi thở độc, thiên tài chưa phát huy, tài năng tiềm ẩn"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蛟",
+        "reading": "みずち",
+        "meaning": "mizuchi, thủy sinh, quái vật giống rồng có bốn chân, sừng và hơi thở độc"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "côn trùng"
+    },
+    "parts": [
+      "亠",
+      "父",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34527_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086df.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86df.gif",
+    "uri": "https://jisho.org/search/%E8%9B%9F%23kanji"
+  }
+}

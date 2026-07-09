@@ -1,0 +1,63 @@
+{
+  "id": "履",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "履",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1619",
+    "strokeCount": 15,
+    "meaning": "thực hiện, hoàn thiện, giày dép, giày, bốt, mang (bàn chân)",
+    "kunyomi": [
+      "は.く"
+    ],
+    "onyomi": [
+      "リ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "履歴書",
+        "reading": "リレキショ",
+        "meaning": "lý lịch cá nhân, sơ yếu lý lịch, sơ yếu lý lịch"
+      },
+      {
+        "example": "履行",
+        "reading": "リコウ",
+        "meaning": "thực hiện (nghĩa vụ), thực hiện (lời hứa), thực hiện, thực hiện (hợp đồng), thực hiện, thực hiện"
+      },
+      {
+        "example": "草履",
+        "reading": "ゾウリ",
+        "meaning": "zori, dép quai ngang truyền thống của Nhật Bản"
+      },
+      {
+        "example": "再履",
+        "reading": "サイリ",
+        "meaning": "lặp lại một khóa học, học lại một khóa học"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "履く",
+        "reading": "はく",
+        "meaning": "mặc (quần, váy, giày dép), mặc, gắn (một thanh kiếm vào hông), gắn (dây cung vào một cái cung)"
+      }
+    ],
+    "radical": {
+      "symbol": "尸",
+      "meaning": "xác chết"
+    },
+    "parts": [
+      "乞",
+      "夂",
+      "尸",
+      "彳",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23653_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c65.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c65.gif",
+    "uri": "https://jisho.org/search/%E5%B1%A5%23kanji"
+  }
+}

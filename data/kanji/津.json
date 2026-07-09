@@ -1,0 +1,79 @@
+{
+  "id": "津",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "津",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1036",
+    "strokeCount": 9,
+    "meaning": "thiên đường, bến cảng, bến cảng, phà",
+    "kunyomi": [
+      "つ"
+    ],
+    "onyomi": [
+      "シン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "津液",
+        "reading": "シンエキ",
+        "meaning": "nước bọt, nước bọt, nước miếng, chất lỏng (trong y học Trung Quốc, đặc biệt là chất lỏng không màu của cơ thể, ví dụ như nước mắt)"
+      },
+      {
+        "example": "津々",
+        "reading": "シンシン",
+        "meaning": "tuôn trào, tràn ngập, bất tận, không ngừng nghỉ, vô tận"
+      },
+      {
+        "example": "京津",
+        "reading": "ケイシン",
+        "meaning": "Kyoto-Otsu, Kyoto và Otsu, Kyoto-Settsu, Kyoto và Settsu"
+      },
+      {
+        "example": "入津",
+        "reading": "ニュウシン",
+        "meaning": "vào một cảng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "津",
+        "reading": "つ",
+        "meaning": "Tsu (thành phố ở Mie), bến cảng, bến cảng, bến phà"
+      },
+      {
+        "example": "津波",
+        "reading": "つなみ",
+        "meaning": "sóng thần, thủy triều"
+      },
+      {
+        "example": "大津",
+        "reading": "おおつ",
+        "meaning": "Ōtsu (thành phố ở Shiga)"
+      },
+      {
+        "example": "秋津",
+        "reading": "あきつ",
+        "meaning": "chuồn chuồn"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "汁",
+      "聿"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27941_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d25.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d25.gif",
+    "uri": "https://jisho.org/search/%E6%B4%A5%23kanji"
+  }
+}

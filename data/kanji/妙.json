@@ -1,0 +1,77 @@
+{
+  "id": "妙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "妙",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1122",
+    "strokeCount": 7,
+    "meaning": "tinh tế, kỳ lạ, kỳ lạ, bí ẩn, phép lạ, xuất sắc, tinh tế, quyến rũ",
+    "kunyomi": [
+      "たえ"
+    ],
+    "onyomi": [
+      "ミョウ",
+      "ビョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "妙",
+        "reading": "ミョウ",
+        "meaning": "kỳ lạ, kỳ lạ, kỳ quặc, tò mò, ngạc nhiên, bí ẩn, phép lạ, xuất sắc, thông minh, khéo léo, sở trường, kỹ năng"
+      },
+      {
+        "example": "妙案",
+        "reading": "ミョウアン",
+        "meaning": "ý tưởng khéo léo, kế hoạch xuất sắc, ý tưởng sáng suốt"
+      },
+      {
+        "example": "絶妙",
+        "reading": "ゼツミョウ",
+        "meaning": "tinh tế, tuyệt vời, hoàn hảo, kỳ diệu"
+      },
+      {
+        "example": "軽妙",
+        "reading": "ケイミョウ",
+        "meaning": "nhẹ nhàng và dễ dàng, trong sáng, thông minh, hóm hỉnh, thông minh"
+      },
+      {
+        "example": "神妙",
+        "reading": "シンミョウ",
+        "meaning": "nhu mì, yên tĩnh, ngoan ngoãn, khiêm tốn, trung thành, vâng lời, bí ẩn, tuyệt vời, kỳ diệu"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "妙なる",
+        "reading": "たえなる",
+        "meaning": "tinh tế (ví dụ: giai điệu), du dương, tinh tế, mê hoặc"
+      },
+      {
+        "example": "妙なる調べ",
+        "reading": "たえなるしらべ",
+        "meaning": "giai điệu mê hoặc, giai điệu ngọt ngào"
+      },
+      {
+        "example": "白妙",
+        "reading": "しろたえ",
+        "meaning": "vải trắng, trắng"
+      }
+    ],
+    "radical": {
+      "symbol": "女",
+      "meaning": "phụ nữ, nữ"
+    },
+    "parts": [
+      "ノ",
+      "女",
+      "小"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22937_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05999.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5999.gif",
+    "uri": "https://jisho.org/search/%E5%A6%99%23kanji"
+  }
+}

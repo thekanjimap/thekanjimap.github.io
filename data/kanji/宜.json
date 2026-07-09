@@ -1,0 +1,67 @@
+{
+  "id": "宜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "宜",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1766",
+    "strokeCount": 8,
+    "meaning": "lời chúc tốt đẹp nhất, tốt",
+    "kunyomi": [
+      "よろ.しい",
+      "よろ.しく"
+    ],
+    "onyomi": [
+      "ギ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "宜陽殿",
+        "reading": "ギヨウデン",
+        "meaning": "gian nhà chứa báu vật hoàng gia và hiện vật lịch sử (trong Cung điện Heian)"
+      },
+      {
+        "example": "時宜",
+        "reading": "ジギ",
+        "meaning": "đúng lúc, đúng lúc, chào mùa"
+      },
+      {
+        "example": "友誼",
+        "reading": "ユウギ",
+        "meaning": "tình bạn, quan hệ hữu nghị, tình bằng hữu"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "宜しい",
+        "reading": "よろしい",
+        "meaning": "tốt, được rồi, được rồi, rất tốt, sẽ làm được, có thể, có thể"
+      },
+      {
+        "example": "宜しく",
+        "reading": "よろしく",
+        "meaning": "tốt, đúng cách, phù hợp, lời chúc tốt đẹp nhất, xin hãy nhớ đến tôi, xin hãy đối xử với tôi một cách thuận lợi (có lợi), xin hãy chăm sóc, làm ơn, giống như ..., như thể một người ..., bằng mọi cách, tất nhiên"
+      },
+      {
+        "example": "よろしくお願いいたします",
+        "reading": "よろしくおねがいいたします",
+        "meaning": "xin hãy nhớ đến tôi, xin hãy giúp tôi, xin hãy đối xử tốt với tôi, tôi rất mong được làm việc với bạn, xin hãy làm, hãy quan tâm đến tôi"
+      }
+    ],
+    "radical": {
+      "symbol": "宀",
+      "meaning": "mái nhà"
+    },
+    "parts": [
+      "一",
+      "宀",
+      "目"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23452_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b9c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b9c.gif",
+    "uri": "https://jisho.org/search/%E5%AE%9C%23kanji"
+  }
+}

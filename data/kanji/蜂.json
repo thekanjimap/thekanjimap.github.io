@@ -1,0 +1,71 @@
+{
+  "id": "蜂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蜂",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "newspaperFrequencyRank": "2223",
+    "strokeCount": 13,
+    "meaning": "con ong, ong bắp cày, ong bắp cày",
+    "kunyomi": [
+      "はち"
+    ],
+    "onyomi": [
+      "ホウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蜂起",
+        "reading": "ホウキ",
+        "meaning": "cuộc nổi dậy, cuộc nổi dậy"
+      },
+      {
+        "example": "蜂窩",
+        "reading": "ホウカ",
+        "meaning": "tổ ong, tổ ong, tổ ong"
+      },
+      {
+        "example": "寄生蜂",
+        "reading": "キセイバチ",
+        "meaning": "ong ký sinh, ong ký sinh, ong ký sinh"
+      },
+      {
+        "example": "養蜂",
+        "reading": "ヨウホウ",
+        "meaning": "nuôi ong, nuôi ong"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蜂",
+        "reading": "はち",
+        "meaning": "con ong, ong bắp cày, ong bắp cày"
+      },
+      {
+        "example": "蜂蜜",
+        "reading": "はちみつ",
+        "meaning": "Mật ong"
+      },
+      {
+        "example": "虻蜂",
+        "reading": "あぶはち",
+        "meaning": "chuồn chuồn và ong, chuồn chuồn và ong bắp cày"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "côn trùng"
+    },
+    "parts": [
+      "一",
+      "夂",
+      "虫",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34562_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08702.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8702.gif",
+    "uri": "https://jisho.org/search/%E8%9C%82%23kanji"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "跛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "跛",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "khập khiễng, khập khiễng, giày kỳ quặc",
+    "kunyomi": [
+      "びっこ",
+      "ちんば"
+    ],
+    "onyomi": [
+      "ハ",
+      "ヒ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "跛行",
+        "reading": "ハコウ",
+        "meaning": "mất thăng bằng, tiến triển không đều, tiến triển không vững, khập khiễng, khập khiễng"
+      },
+      {
+        "example": "跛行景気",
+        "reading": "ハコウケイキ",
+        "meaning": "sự bùng nổ kinh tế cục bộ"
+      },
+      {
+        "example": "跛行",
+        "reading": "ハコウ",
+        "meaning": "mất thăng bằng, tiến triển không đều, tiến triển không vững, khập khiễng, khập khiễng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "跛",
+        "reading": "びっこ",
+        "meaning": "sự khập khiễng, què quặt, đôi giày không khớp (giày, v.v.)"
+      },
+      {
+        "example": "びっこを引く",
+        "reading": "びっこをひく",
+        "meaning": "khập khiễng"
+      },
+      {
+        "example": "跛",
+        "reading": "びっこ",
+        "meaning": "sự khập khiễng, què quặt, đôi giày không khớp (giày, v.v.)"
+      },
+      {
+        "example": "片跛",
+        "reading": "かたちんば",
+        "meaning": "khập khiễng, khập khiễng, không phù hợp (ví dụ: giày kỳ quặc)"
+      }
+    ],
+    "radical": {
+      "symbol": "足",
+      "forms": [
+        "⻊"
+      ],
+      "meaning": "chân"
+    },
+    "parts": [
+      "又",
+      "口",
+      "止",
+      "皮",
+      "足"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36315_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ddb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ddb.gif",
+    "uri": "https://jisho.org/search/%E8%B7%9B%23kanji"
+  }
+}

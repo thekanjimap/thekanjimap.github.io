@@ -1,0 +1,61 @@
+{
+  "id": "燦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "燦",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 17,
+    "meaning": "xuất sắc",
+    "kunyomi": [
+      "さん.たる",
+      "あき.らか",
+      "きらめ.く",
+      "きら.めく"
+    ],
+    "onyomi": [
+      "サン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "燦",
+        "reading": "サン",
+        "meaning": "rực rỡ, rực rỡ"
+      },
+      {
+        "example": "燦々",
+        "reading": "サンサン",
+        "meaning": "rực rỡ, tươi sáng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "煌めく",
+        "reading": "きらめく",
+        "meaning": "lấp lánh,lấp lánh,lấp lánh,lấp lánh,lấp lánh,lấp lánh"
+      },
+      {
+        "example": "煌めく",
+        "reading": "きらめく",
+        "meaning": "lấp lánh,lấp lánh,lấp lánh,lấp lánh,lấp lánh,lấp lánh"
+      }
+    ],
+    "radical": {
+      "symbol": "火",
+      "forms": [
+        "灬"
+      ],
+      "meaning": "ngọn lửa"
+    },
+    "parts": [
+      "又",
+      "夕",
+      "火",
+      "米"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/29158_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/071e6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/71e6.gif",
+    "uri": "https://jisho.org/search/%E7%87%A6%23kanji"
+  }
+}

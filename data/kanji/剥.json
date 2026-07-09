@@ -1,0 +1,105 @@
+{
+  "id": "剥",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "剥",
+    "found": true,
+    "newspaperFrequencyRank": "2383",
+    "strokeCount": 10,
+    "meaning": "bong ra, bong ra, phai màu, đổi màu",
+    "kunyomi": [
+      "へ.ぐ",
+      "へず.る",
+      "む.く",
+      "む.ける",
+      "は.がれる",
+      "は.ぐ",
+      "は.げる",
+      "は.がす"
+    ],
+    "onyomi": [
+      "ハク",
+      "ホク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "剥製",
+        "reading": "ハクセイ",
+        "meaning": "mẫu vật nhồi bông, thú nhồi bông, nhồi, gắn"
+      },
+      {
+        "example": "剥製術",
+        "reading": "ハクセイジュツ",
+        "meaning": "phân loại"
+      },
+      {
+        "example": "落剥",
+        "reading": "ラクハク",
+        "meaning": "bong ra, bong ra"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "剥ぐ",
+        "reading": "はぐ",
+        "meaning": "lột, lột, lột, lột, lột da, lột da, lột bỏ (quần áo, cấp bậc, v.v.), tước đoạt, lột bỏ"
+      },
+      {
+        "example": "剥る",
+        "reading": "へずる",
+        "meaning": "ăn trộm, ăn trộm một phần"
+      },
+      {
+        "example": "剥く",
+        "reading": "むく",
+        "meaning": "lột, lột da, gọt vỏ, lột vỏ, lột trần (răng, nanh), mở to (mắt)"
+      },
+      {
+        "example": "剥れる",
+        "reading": "むくれる",
+        "meaning": "trở nên ủ rũ, hờn dỗi, tức giận, xúc phạm, khó chịu, khó chịu, lột xác, bỏ đi"
+      },
+      {
+        "example": "剥ける",
+        "reading": "むける",
+        "meaning": "bong ra, bong ra, được cởi ra"
+      },
+      {
+        "example": "剥がれる",
+        "reading": "はがれる",
+        "meaning": "thoát khỏi, bong ra, bong ra"
+      },
+      {
+        "example": "剥ぐ",
+        "reading": "はぐ",
+        "meaning": "lột, lột, lột, lột, lột da, lột da, lột bỏ (quần áo, cấp bậc, v.v.), tước đoạt, lột bỏ"
+      },
+      {
+        "example": "剥げる",
+        "reading": "はげる",
+        "meaning": "bong ra, bong ra, bong ra, bong ra, phai màu, phai màu, phai màu"
+      },
+      {
+        "example": "剥がす",
+        "reading": "はがす",
+        "meaning": "lột ra, lột ra, lột ra, lột ra, lột da, lột da, cởi quần áo, tước bỏ, tách ra, tách ra"
+      }
+    ],
+    "radical": {
+      "symbol": "刀",
+      "forms": [
+        "刂"
+      ],
+      "meaning": "dao, kiếm"
+    },
+    "parts": [
+      "ヨ",
+      "刈",
+      "水"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21093_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05265.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5265.gif",
+    "uri": "https://jisho.org/search/%E5%89%A5%23kanji"
+  }
+}

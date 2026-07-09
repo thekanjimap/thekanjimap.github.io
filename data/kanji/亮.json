@@ -1,0 +1,50 @@
+{
+  "id": "亮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "亮",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1821",
+    "strokeCount": 9,
+    "meaning": "rõ ràng, giúp đỡ",
+    "kunyomi": [
+      "あきらか"
+    ],
+    "onyomi": [
+      "リョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "諒闇",
+        "reading": "リョウアン",
+        "meaning": "tang lễ của triều đình (dành cho hoàng đế hoặc hoàng hậu quá cố), quốc tang"
+      },
+      {
+        "example": "亮月",
+        "reading": "リョウゲツ",
+        "meaning": "ánh trăng sáng"
+      },
+      {
+        "example": "嚠喨",
+        "reading": "リュウリョウ",
+        "meaning": "rõ ràng và vang dội (như một giọng nói hoặc nhạc cụ)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "亠",
+      "meaning": "nắp"
+    },
+    "parts": [
+      "亠",
+      "儿",
+      "冖",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20142_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04eae.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4eae.gif",
+    "uri": "https://jisho.org/search/%E4%BA%AE%23kanji"
+  }
+}

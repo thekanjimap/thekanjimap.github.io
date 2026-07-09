@@ -1,0 +1,63 @@
+{
+  "id": "囂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "囂",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "ồn ào, huyên náo",
+    "kunyomi": [
+      "かしま.しい",
+      "かまびす.しい"
+    ],
+    "onyomi": [
+      "ゴウ",
+      "キョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "囂々",
+        "reading": "ゴウゴウ",
+        "meaning": "ồn ào (chỉ trích, phản đối, v.v.), ồn ào, ồn ào, huyên náo, ồn ào, dữ dội"
+      },
+      {
+        "example": "喧々囂々",
+        "reading": "ケンケンゴウゴウ",
+        "meaning": "sự náo động hoang dã, sự huyên náo, tiếng ồn ào, sự ồn ào, ồn ào, huyên náo, huyên náo"
+      },
+      {
+        "example": "非難轟々",
+        "reading": "ヒナンゴウゴウ",
+        "meaning": "sự chỉ trích ầm ĩ, dòng chỉ trích, sự tố cáo gay gắt (của nhiều người), sự phản đối kịch liệt"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "姦しい",
+        "reading": "かしましい",
+        "meaning": "ồn ào, huyên náo"
+      },
+      {
+        "example": "姦しい",
+        "reading": "かしましい",
+        "meaning": "ồn ào, huyên náo"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "口",
+      "目",
+      "貝",
+      "頁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22210_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/056c2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56c2.gif",
+    "uri": "https://jisho.org/search/%E5%9B%82%23kanji"
+  }
+}

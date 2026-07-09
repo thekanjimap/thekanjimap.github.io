@@ -1,0 +1,60 @@
+{
+  "id": "笥",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "笥",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "hộp cơm, tủ đựng quần áo",
+    "kunyomi": [
+      "け",
+      "はこ"
+    ],
+    "onyomi": [
+      "ス",
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "洋服ダンス",
+        "reading": "ヨウフクダンス",
+        "meaning": "tủ quần áo (đặc biệt dành cho quần áo phương Tây), tủ ngăn kéo, tủ quần áo, tủ đựng quần áo, áo cao"
+      },
+      {
+        "example": "階段箪笥",
+        "reading": "カイダンタンス",
+        "meaning": "tủ ngăn kéo cũng có chức năng như cầu thang"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "笥",
+        "reading": "け",
+        "meaning": "đồ đựng (đặc biệt là đồ ăn)"
+      },
+      {
+        "example": "碁笥",
+        "reading": "ごけ",
+        "meaning": "thùng đựng đá go-stone"
+      }
+    ],
+    "radical": {
+      "symbol": "竹",
+      "forms": [
+        "⺮"
+      ],
+      "meaning": "tre"
+    },
+    "parts": [
+      "一",
+      "乞",
+      "亅",
+      "口",
+      "竹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31525_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07b25.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7b25.gif",
+    "uri": "https://jisho.org/search/%E7%AC%A5%23kanji"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "舶",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "舶",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1753",
+    "strokeCount": 11,
+    "meaning": "lót, tàu",
+    "kunyomi": [],
+    "onyomi": [
+      "ハク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "舶来",
+        "reading": "ハクライ",
+        "meaning": "nhập khẩu, sản xuất ở nước ngoài"
+      },
+      {
+        "example": "舶載",
+        "reading": "ハクサイ",
+        "meaning": "vận tải đường biển, nhập khẩu"
+      },
+      {
+        "example": "巨舶",
+        "reading": "キョハク",
+        "meaning": "tàu biển"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "舟",
+      "meaning": "thuyền"
+    },
+    "parts": [
+      "白",
+      "舟"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33334_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08236.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8236.gif",
+    "uri": "https://jisho.org/search/%E8%88%B6%23kanji"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "忽",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "忽",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "trong giây lát, ngay lập tức, đột ngột, bỏ mặc, coi thường",
+    "kunyomi": [
+      "たちま.ち",
+      "ゆるが.せ"
+    ],
+    "onyomi": [
+      "コツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "忽",
+        "reading": "コツ",
+        "meaning": "một phần trăm nghìn, đột ngột, đột ngột, bất ngờ"
+      },
+      {
+        "example": "忽焉",
+        "reading": "コツエン",
+        "meaning": "đột ngột, bất ngờ"
+      },
+      {
+        "example": "軽忽",
+        "reading": "キョウコツ",
+        "meaning": "vô kỷ luật, thiếu suy nghĩ, lố bịch, buồn cười, coi thường, coi thường"
+      },
+      {
+        "example": "粗忽",
+        "reading": "ソコツ",
+        "meaning": "bất cẩn, thiếu suy nghĩ, hấp tấp, thô lỗ, có lỗi"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "忽ち",
+        "reading": "たちまち",
+        "meaning": "ngay lập tức, ngay lập tức, ngay lập tức, ngay lập tức, đột nhiên, đột nhiên, ngay lập tức"
+      },
+      {
+        "example": "忽せ",
+        "reading": "ゆるがせ",
+        "meaning": "cẩu thả, bất cẩn, dễ dãi, thoải mái"
+      },
+      {
+        "example": "忽せにする",
+        "reading": "ゆるがせにする",
+        "meaning": "lơ là, lơ là, xem thường"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "ノ",
+      "勹",
+      "勿",
+      "心"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24573_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ffd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ffd.gif",
+    "uri": "https://jisho.org/search/%E5%BF%BD%23kanji"
+  }
+}

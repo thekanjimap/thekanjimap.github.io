@@ -1,0 +1,61 @@
+{
+  "id": "埒",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "埒",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "picket, giới hạn, được giải quyết",
+    "kunyomi": [
+      "らち.があく",
+      "かこ.い"
+    ],
+    "onyomi": [
+      "レツ",
+      "ラツ",
+      "ラチ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "放埓",
+        "reading": "ホウラツ",
+        "meaning": "phóng đãng, hoang phí, phóng túng, náo loạn, hoang dã"
+      },
+      {
+        "example": "埒",
+        "reading": "ラチ",
+        "meaning": "giới hạn, giới hạn, hàng rào ranh giới (đặc biệt là sân cưỡi ngựa)"
+      },
+      {
+        "example": "埒があかない",
+        "reading": "ラチガアカナイ",
+        "meaning": "không tiến bộ, không đi đến đâu, vẫn bất ổn"
+      },
+      {
+        "example": "不埒",
+        "reading": "フラチ",
+        "meaning": "vô luật pháp, thái quá, xấc xược, thô lỗ, không thể tha thứ, không thể tha thứ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "埒があく",
+        "reading": "らちがあく",
+        "meaning": "đi đến một giải pháp"
+      }
+    ],
+    "radical": {
+      "symbol": "土",
+      "meaning": "trái đất"
+    },
+    "parts": [
+      "土",
+      "寸",
+      "爪"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22482_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/057d2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/57d2.gif",
+    "uri": "https://jisho.org/search/%E5%9F%92%23kanji"
+  }
+}

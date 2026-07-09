@@ -1,0 +1,76 @@
+{
+  "id": "盲",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "盲",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1767",
+    "strokeCount": 8,
+    "meaning": "người mù, người mù, kẻ ngu dốt",
+    "kunyomi": [
+      "めくら"
+    ],
+    "onyomi": [
+      "モウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "盲",
+        "reading": "モウ",
+        "meaning": "mù lòa"
+      },
+      {
+        "example": "盲学校",
+        "reading": "モウガッコウ",
+        "meaning": "trường học cho người mù"
+      },
+      {
+        "example": "全盲",
+        "reading": "ゼンモウ",
+        "meaning": "mù hoàn toàn"
+      },
+      {
+        "example": "衆盲",
+        "reading": "シュウモウ",
+        "meaning": "quần chúng mù quáng, quần chúng ngu dốt, quần chúng chưa giác ngộ, nhiều người mù"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "盲",
+        "reading": "めくら",
+        "meaning": "người mù, người mù chữ, người mù chữ, người dốt nát, người dốt nát"
+      },
+      {
+        "example": "盲穴",
+        "reading": "めくらあな",
+        "meaning": "lỗ mù"
+      },
+      {
+        "example": "俄盲",
+        "reading": "にわかめくら",
+        "meaning": "bị mù đột ngột, bị mù đột ngột"
+      },
+      {
+        "example": "作り盲",
+        "reading": "つくりめくら",
+        "meaning": "giả mù"
+      }
+    ],
+    "radical": {
+      "symbol": "目",
+      "meaning": "mắt"
+    },
+    "parts": [
+      "亠",
+      "亡",
+      "目"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30450_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/076f2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/76f2.gif",
+    "uri": "https://jisho.org/search/%E7%9B%B2%23kanji"
+  }
+}

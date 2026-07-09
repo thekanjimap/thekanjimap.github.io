@@ -1,0 +1,63 @@
+{
+  "id": "廟",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "廟",
+    "found": true,
+    "newspaperFrequencyRank": "2101",
+    "strokeCount": 15,
+    "meaning": "lăng mộ, điện thờ, cung điện",
+    "kunyomi": [
+      "たまや",
+      "みたまや",
+      "やしろ"
+    ],
+    "onyomi": [
+      "ビョウ",
+      "ミョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "廟",
+        "reading": "ビョウ",
+        "meaning": "lăng mộ, điện thờ, triều đình (hoàng gia)"
+      },
+      {
+        "example": "廟宇",
+        "reading": "ビョウウ",
+        "meaning": "lăng mộ, đền thờ (Thần đạo)"
+      },
+      {
+        "example": "聖廟",
+        "reading": "セイビョウ",
+        "meaning": "chùa Nho giáo"
+      },
+      {
+        "example": "伊勢大廟",
+        "reading": "イセタイビョウ",
+        "meaning": "Đại đền thờ Ise"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "霊屋",
+        "reading": "たまや",
+        "meaning": "lăng mộ, nơi an nghỉ (tạm thời) của thi thể"
+      }
+    ],
+    "radical": {
+      "symbol": "广",
+      "meaning": "ngôi nhà trên vách đá"
+    },
+    "parts": [
+      "十",
+      "广",
+      "日",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24287_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05edf.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5edf.gif",
+    "uri": "https://jisho.org/search/%E5%BB%9F%23kanji"
+  }
+}

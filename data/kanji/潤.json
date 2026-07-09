@@ -1,0 +1,77 @@
+{
+  "id": "潤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "潤",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1644",
+    "strokeCount": 15,
+    "meaning": "ướt, được tưới nước, hưởng lợi, nhận được lợi ích, ưu đãi, quyến rũ, dốc",
+    "kunyomi": [
+      "うるお.う",
+      "うるお.す",
+      "うる.む"
+    ],
+    "onyomi": [
+      "ジュン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "潤滑油",
+        "reading": "ジュンカツユ",
+        "meaning": "dầu bôi trơn, chất bôi trơn, chất bôi trơn, người hoặc vật giúp mọi việc diễn ra suôn sẻ, người hỗ trợ"
+      },
+      {
+        "example": "潤色",
+        "reading": "ジュンショク",
+        "meaning": "hùng biện khởi sắc"
+      },
+      {
+        "example": "豊潤",
+        "reading": "ホウジュン",
+        "meaning": "phong phú, phong phú, chín, êm dịu"
+      },
+      {
+        "example": "芳醇",
+        "reading": "ホウジュン",
+        "meaning": "êm dịu (hương vị hoặc hương thơm, đặc biệt là rượu), đậm đà, đậm đà, vượt trội"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "潤う",
+        "reading": "うるおう",
+        "meaning": "trở nên ẩm ướt, được làm ẩm, trở nên ẩm ướt, bị ướt, hưởng lợi (từ), được hưởng lợi, trở nên thịnh vượng, hưng thịnh, được làm giàu, được sảng khoái (tâm trí của một người), được làm giàu (của trái tim của một người)"
+      },
+      {
+        "example": "潤す",
+        "reading": "うるおす",
+        "meaning": "làm ẩm, làm ướt, mang lại lợi nhuận, làm giàu, mang lại lợi ích"
+      },
+      {
+        "example": "潤む",
+        "reading": "うるむ",
+        "meaning": "bị ướt (với nước mắt), bị ẩm, bị mờ, bị mờ, bị đục, bị dính bùn, bị mờ, bị nghẹn nước mắt"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "汁",
+      "王",
+      "門"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28516_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f64.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f64.gif",
+    "uri": "https://jisho.org/search/%E6%BD%A4%23kanji"
+  }
+}

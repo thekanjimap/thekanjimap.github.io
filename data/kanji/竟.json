@@ -1,0 +1,57 @@
+{
+  "id": "竟",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "竟",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "kết thúc, cuối cùng",
+    "kunyomi": [
+      "おわ.る",
+      "ついに",
+      "わた.る"
+    ],
+    "onyomi": [
+      "キョウ",
+      "ケイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "究竟",
+        "reading": "クッキョウ",
+        "meaning": "sau cùng, cuối cùng, cuối cùng, xuất sắc, tuyệt vời, tiện dụng, thích hợp, lý tưởng, cường tráng, cơ bắp, cơ bắp, khỏe mạnh, cứng cáp"
+      },
+      {
+        "example": "究竟",
+        "reading": "クキョウ",
+        "meaning": "đỉnh điểm, kết luận"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "終わる",
+        "reading": "おわる",
+        "meaning": "kết thúc, kết thúc, kết thúc, kết thúc, kết thúc, kết thúc, hoàn thành, kết thúc, làm xong, đã qua thời kỳ đỉnh cao của nó, khủng khiếp, khủng khiếp, tệ hại, vô vọng"
+      },
+      {
+        "example": "遂に",
+        "reading": "ついに",
+        "meaning": "cuối cùng, cuối cùng, cuối cùng, cuối cùng, không bao giờ (xảy ra)"
+      }
+    ],
+    "radical": {
+      "symbol": "立",
+      "meaning": "đứng, dựng lên"
+    },
+    "parts": [
+      "儿",
+      "日",
+      "立",
+      "音"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31455_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07adf.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7adf.gif",
+    "uri": "https://jisho.org/search/%E7%AB%9F%23kanji"
+  }
+}

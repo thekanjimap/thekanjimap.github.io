@@ -1,0 +1,53 @@
+{
+  "id": "縣",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "縣",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "quận, huyện, phân khu",
+    "kunyomi": [
+      "か.ける"
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "県",
+        "reading": "ケン",
+        "meaning": "tỉnh (của Nhật Bản), quận (của Trung Quốc, Đài Loan, Na Uy, v.v.), tỉnh (của Pháp), tỉnh (của Ý, Tây Ban Nha, v.v.)"
+      },
+      {
+        "example": "福井県",
+        "reading": "フクイケン",
+        "meaning": "Tỉnh Fukui (khu vực Hokuriku)"
+      },
+      {
+        "example": "三重県",
+        "reading": "ミエケン",
+        "meaning": "Tỉnh Mie (khu vực Kinki)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "糸",
+      "forms": [
+        "糹"
+      ],
+      "meaning": "lụa"
+    },
+    "parts": [
+      "一",
+      "小",
+      "幺",
+      "目",
+      "糸",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32291_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07e23.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7e23.gif",
+    "uri": "https://jisho.org/search/%E7%B8%A3%23kanji"
+  }
+}

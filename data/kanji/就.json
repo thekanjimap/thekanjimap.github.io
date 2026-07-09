@@ -1,0 +1,385 @@
+{
+  "id": "就",
+  "kanjialiveData": {
+    "_id": "54317ad4791eba5146ee4864",
+    "_rev": "11-9c9605f932eb72959a3c029174f8eb2f",
+    "rad_name_ja": "だいのまげあし",
+    "grade": 6,
+    "hint_group": 1,
+    "kunyomi": "tsu, tsuku",
+    "meaning": "bắt đầu, tham gia (vào một nghề nghiệp), thuê",
+    "kstroke": 12,
+    "examples": [
+      {
+        "japanese": "就業時間（しゅうぎょうじかん）",
+        "meaning": {
+          "english": "giờ làm việc"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-tsu(ku)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shuu-tsu(ku)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shuu-tsu(ku)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shuu-tsu(ku)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "就職する（しゅうしょくする）",
+        "meaning": {
+          "english": "tìm việc làm"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-tsu(ku)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shuu-tsu(ku)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shuu-tsu(ku)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shuu-tsu(ku)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "就任する（しゅうにんする）",
+        "meaning": {
+          "english": "nhậm chức, nhậm chức"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-tsu(ku)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shuu-tsu(ku)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shuu-tsu(ku)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shuu-tsu(ku)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "就航する（しゅうこうする）",
+        "meaning": {
+          "english": "đi vào hoạt động (tàu, máy bay)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-tsu(ku)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shuu-tsu(ku)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shuu-tsu(ku)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shuu-tsu(ku)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "就学する（しゅうがくする）",
+        "meaning": {
+          "english": "vào trường, vào trường"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-tsu(ku)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shuu-tsu(ku)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shuu-tsu(ku)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shuu-tsu(ku)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "就労する（しゅうろうする）",
+        "meaning": {
+          "english": "đi làm, đi làm"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-tsu(ku)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shuu-tsu(ku)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shuu-tsu(ku)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shuu-tsu(ku)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "成就する（じょうじゅする）",
+        "meaning": {
+          "english": "nhận ra, hoàn thành"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-tsu(ku)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shuu-tsu(ku)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shuu-tsu(ku)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shuu-tsu(ku)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "就ける（つける）",
+        "meaning": {
+          "english": "đặt, đặt [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-tsu(ku)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shuu-tsu(ku)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shuu-tsu(ku)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shuu-tsu(ku)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "就く（つく）",
+        "meaning": {
+          "english": "nhận (một công việc) [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shuu-tsu(ku)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shuu-tsu(ku)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shuu-tsu(ku)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shuu-tsu(ku)_06_i.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "つ、つく",
+    "ka_utf": "就",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=就",
+    "rad_name_search": [
+      "dainomageashi"
+    ],
+    "rad_order": 52,
+    "txt_books": [
+      {
+        "chapter": "9",
+        "txt_bk": "jtr"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "23"
+      }
+    ],
+    "kname": "shuu-tsu(ku)",
+    "rad_utf": "⺐",
+    "stroketimes": [
+      0,
+      0.8,
+      2.266667,
+      3.133333,
+      4.266667,
+      5.066667,
+      6.8,
+      7.466667,
+      8.2,
+      9.933333,
+      11.333333,
+      12.666667,
+      13.666667
+    ],
+    "kunyomi_ka_display": "つ",
+    "dick": "1113",
+    "rad_name": "dainomageashi",
+    "dicn": "323",
+    "mn_hint": "Receiving employment in the capital 京, like a dog 尤 getting a master.",
+    "rad_stroke": 3,
+    "onyomi_ja": "シュウ、ジュ",
+    "rad_meaning": "chân què",
+    "onyomi": "shuu, ju",
+    "ka_id": "ka_1067",
+    "rad_position": "tsukuri",
+    "rad_position_ja": "つくり",
+    "rad_position_search": [
+      "tsukuri",
+      "tsukuri"
+    ],
+    "onyomi_search": [
+      "shuu",
+      "ju",
+      "shuu, ju"
+    ],
+    "kunyomi_search": [
+      "tsu",
+      "tsuku",
+      "tsu, tsuku"
+    ],
+    "meaning_search": [
+      "set about",
+      "set",
+      "about",
+      "engage (in an occupation)",
+      "engage",
+      "(in",
+      "an",
+      "occupation)",
+      "employ",
+      "set about, engage (in an occupation), employ"
+    ],
+    "onyomi_ja_search": [
+      "シュウ",
+      "ジュ",
+      "シュウ、ジュ"
+    ],
+    "kunyomi_ja_search": [
+      "つ",
+      "つく",
+      "つ、つく"
+    ],
+    "rad_meaning_search": [
+      "lame leg",
+      "lame",
+      "leg",
+      "lame leg"
+    ],
+    "rad_position_ja_search": [
+      "つくり",
+      "つくり"
+    ],
+    "rad_name_ja_search": [
+      "だいのまげあし"
+    ],
+    "textbook_search": [
+      "jtr",
+      "jtr:9",
+      "jtr:c9",
+      "cijr",
+      "cijr:23",
+      "cijr:c23"
+    ],
+    "rad_name_file": "dainomageashi",
+    "kanji": {
+      "character": "就",
+      "meaning": {
+        "english": "set about, engage (in an occupation), employ"
+      },
+      "strokes": {
+        "count": 12,
+        "timings": [
+          0,
+          0.8,
+          2.266667,
+          3.133333,
+          4.266667,
+          5.066667,
+          6.8,
+          7.466667,
+          8.2,
+          9.933333,
+          11.333333,
+          12.666667,
+          13.666667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/shuu-tsu(ku)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/shuu-tsu(ku)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/shuu-tsu(ku)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/shuu-tsu(ku)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/shuu-tsu(ku)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/shuu-tsu(ku)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/shuu-tsu(ku)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/shuu-tsu(ku)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/shuu-tsu(ku)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/shuu-tsu(ku)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/shuu-tsu(ku)_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/shuu-tsu(ku)_12.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "shuu, ju",
+        "katakana": "シュウ、ジュ"
+      },
+      "kunyomi": {
+        "romaji": "tsu, tsuku",
+        "hiragana": "つ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/shuu-tsu(ku)_12.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/shuu-tsu(ku)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/shuu-tsu(ku)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺐",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/dainomageashi.svg",
+      "position": {
+        "hiragana": "つくり",
+        "romaji": "tsukuri",
+        "icon": "https://media.kanjialive.com/rad_positions/tsukuri.svg"
+      },
+      "name": {
+        "hiragana": "だいのまげあし",
+        "romaji": "dainomageashi"
+      },
+      "meaning": {
+        "english": "chân què"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/dainomageashi0.svg",
+        "https://media.kanjialive.com/rad_frames/dainomageashi1.svg",
+        "https://media.kanjialive.com/rad_frames/dainomageashi2.svg"
+      ]
+    },
+    "references": {
+      "grade": 6,
+      "kodansha": "1113",
+      "classic_nelson": "323"
+    }
+  },
+  "jishoData": {
+    "query": "就",
+    "found": true,
+    "taughtIn": "lớp 6",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "624",
+    "strokeCount": 12,
+    "meaning": "liên quan, giải quyết, đảm nhận vị trí, khởi hành, nghiên cứu, theo",
+    "kunyomi": [
+      "つ.く",
+      "つ.ける"
+    ],
+    "onyomi": [
+      "シュウ",
+      "ジュ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "就業",
+        "reading": "シュウギョウ",
+        "meaning": "việc làm, bắt đầu công việc"
+      },
+      {
+        "example": "就学",
+        "reading": "シュウガク",
+        "meaning": "vào trường, đi học"
+      },
+      {
+        "example": "去就",
+        "reading": "キョシュウ",
+        "meaning": "rời đi hay ở lại, hành động của (một người), vị trí của (một người), thái độ của (một người)"
+      },
+      {
+        "example": "進退去就",
+        "reading": "シンタイキョシュウ",
+        "meaning": "đường lối hành động của một người, quyết định xem mình phải làm gì, dù ở vị trí hiện tại hay rời bỏ nó"
+      },
+      {
+        "example": "本懐成就",
+        "reading": "ホンカイジョウジュ",
+        "meaning": "hiện thực hóa một tham vọng lớn lao, đạt được ước muốn ấp ủ nhất của một người, lời cầu nguyện tha thiết của một người được đáp lại"
+      },
+      {
+        "example": "不空成就",
+        "reading": "フクウジョウジュ",
+        "meaning": "Amoghasiddhi, Phép thuật không thể sai lầm (một vị phật dhyani)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "就く",
+        "reading": "つく",
+        "meaning": "đảm nhận (chỗ ngồi, vị trí, khóa học, văn phòng, v.v.), đảm nhận, được thuê, được tuyển dụng, lên (ngai vàng), gia nhập, bắt đầu (trên một hành trình), bắt đầu, khởi hành, học tập (dưới sự hướng dẫn của giáo viên), trở thành người học việc"
+      },
+      {
+        "example": "就ける",
+        "reading": "つける",
+        "meaning": "phong (một vị vua, hoàng đế, v.v.), bổ nhiệm (vào một chức vụ), thăng chức, phân công (học tập)"
+      }
+    ],
+    "radical": {
+      "symbol": "尢",
+      "forms": [
+        "尣"
+      ],
+      "meaning": "khập khiễng"
+    },
+    "parts": [
+      "丶",
+      "亠",
+      "口",
+      "小",
+      "尢",
+      "尤"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23601_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c31.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c31.gif",
+    "uri": "https://jisho.org/search/%E5%B0%B1%23kanji"
+  }
+}

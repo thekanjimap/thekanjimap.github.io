@@ -1,0 +1,60 @@
+{
+  "id": "騙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "騙",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "lừa dối",
+    "kunyomi": [
+      "かた.る",
+      "だま.す"
+    ],
+    "onyomi": [
+      "ヘン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "騙取",
+        "reading": "ヘンシュ",
+        "meaning": "lừa đảo"
+      },
+      {
+        "example": "欺騙",
+        "reading": "キヘン",
+        "meaning": "sự lừa dối, sự lừa dối, sự lừa dối, sự lừa dối trong quân đội"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "騙る",
+        "reading": "かたる",
+        "meaning": "lừa gạt, lừa gạt, lừa gạt, xuyên tạc về bản thân, giả vờ, giả định (tên hoặc chức danh), giả mạo (ví dụ: một con dấu)"
+      },
+      {
+        "example": "騙す",
+        "reading": "だます",
+        "meaning": "lừa gạt, lừa gạt, lừa dối, lừa bịp, dụ dỗ, dụ dỗ, làm dịu, làm dịu"
+      }
+    ],
+    "radical": {
+      "symbol": "馬",
+      "meaning": "con ngựa"
+    },
+    "parts": [
+      "一",
+      "冂",
+      "冊",
+      "尸",
+      "廾",
+      "戸",
+      "杰",
+      "馬",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39449_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09a19.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9a19.gif",
+    "uri": "https://jisho.org/search/%E9%A8%99%23kanji"
+  }
+}

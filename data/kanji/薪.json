@@ -1,0 +1,79 @@
+{
+  "id": "薪",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "薪",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2182",
+    "strokeCount": 16,
+    "meaning": "nhiên liệu, củi, củi",
+    "kunyomi": [
+      "たきぎ",
+      "まき"
+    ],
+    "onyomi": [
+      "シン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "薪炭",
+        "reading": "シンタン",
+        "meaning": "gỗ và than củi, nhiên liệu"
+      },
+      {
+        "example": "薪水",
+        "reading": "シンスイ",
+        "meaning": "Nhiên liệu và nước, củi và nước, kiếm củi và lấy nước, làm bếp, việc nhà"
+      },
+      {
+        "example": "柴薪",
+        "reading": "サイシン",
+        "meaning": "củi và củi"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "薪",
+        "reading": "まき",
+        "meaning": "(các) mảnh củi (đặc biệt là được chặt hoặc chẻ từ khúc gỗ), củi nhóm (cành, cành, v.v.), củi"
+      },
+      {
+        "example": "薪入れ",
+        "reading": "たきぎいれ",
+        "meaning": "giỏ gỗ, thùng củi, giá đỡ khúc gỗ"
+      },
+      {
+        "example": "薪",
+        "reading": "まき",
+        "meaning": "(các) mảnh củi (đặc biệt là được chặt hoặc chẻ từ khúc gỗ), củi nhóm (cành, cành, v.v.), củi"
+      },
+      {
+        "example": "薪小屋",
+        "reading": "まきごや",
+        "meaning": "kho chứa củi"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "亠",
+      "并",
+      "斤",
+      "木",
+      "立",
+      "艾",
+      "辛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34218_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085aa.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85aa.gif",
+    "uri": "https://jisho.org/search/%E8%96%AA%23kanji"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "舍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "舍",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "quán trọ, túp lều, nhà, biệt thự",
+    "kunyomi": [
+      "やど.る"
+    ],
+    "onyomi": [
+      "セキ",
+      "シャ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "舎人",
+        "reading": "シャジン",
+        "meaning": "người hầu, người hầu, người hầu, người làm việc thân cận với hoàng đế hoặc hoàng gia, quan chức cấp thấp làm việc cho hoàng gia hoặc giới quý tộc (theo hệ thống ritsuryō), người đánh xe bò, cậu bé cưỡi ngựa, quan chức danh dự cấp dưới của Ban nghi lễ của Bộ Nội vụ Hoàng gia liên quan đến các nhiệm vụ linh tinh liên quan đến nghi lễ"
+      },
+      {
+        "example": "公舎",
+        "reading": "コウシャ",
+        "meaning": "nơi ở chính thức"
+      },
+      {
+        "example": "官舎",
+        "reading": "カンシャ",
+        "meaning": "nơi ở chính thức"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "舌",
+      "meaning": "lưỡi"
+    },
+    "parts": [
+      "个",
+      "口",
+      "舌"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33293_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0820d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/820d.gif",
+    "uri": "https://jisho.org/search/%E8%88%8D%23kanji"
+  }
+}

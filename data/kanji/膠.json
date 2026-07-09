@@ -1,0 +1,81 @@
+{
+  "id": "膠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "膠",
+    "found": true,
+    "newspaperFrequencyRank": "2357",
+    "strokeCount": 15,
+    "meaning": "keo, isinglass",
+    "kunyomi": [
+      "にかわ",
+      "にべ"
+    ],
+    "onyomi": [
+      "コウ",
+      "キョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "膠原病",
+        "reading": "コウゲンビョウ",
+        "meaning": "bệnh collagen"
+      },
+      {
+        "example": "膠化",
+        "reading": "コウカ",
+        "meaning": "sự hồ hóa, sự hồ hóa"
+      },
+      {
+        "example": "神経膠",
+        "reading": "シンケイコウ",
+        "meaning": "thần kinh đệm, thần kinh đệm"
+      },
+      {
+        "example": "魚膠",
+        "reading": "ギョコウ",
+        "meaning": "keo sền sệt làm từ cá, ichthyocolla, isinglass"
+      },
+      {
+        "example": "阿膠",
+        "reading": "アキョウ",
+        "meaning": "gelatin ẩn lừa, ejiao, gelatin chất lượng cao sản xuất tại Trung Quốc từ da lừa"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "膠",
+        "reading": "にかわ",
+        "meaning": "keo sền sệt (thông thường từ xương động vật và cá, da sống, v.v.)"
+      },
+      {
+        "example": "膠質",
+        "reading": "こうしつ",
+        "meaning": "chất keo"
+      },
+      {
+        "example": "鰾膠",
+        "reading": "にべ",
+        "meaning": "keo sền sệt (làm từ ruột cá), keo trong, hòa nhã, thân thiện, nhã nhặn, xu nịnh"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "thịt"
+    },
+    "parts": [
+      "个",
+      "冫",
+      "彡",
+      "月",
+      "羽"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33184_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081a0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81a0.gif",
+    "uri": "https://jisho.org/search/%E8%86%A0%23kanji"
+  }
+}

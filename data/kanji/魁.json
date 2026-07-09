@@ -1,0 +1,69 @@
+{
+  "id": "魁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "魁",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2108",
+    "strokeCount": 14,
+    "meaning": "sạc trước người khác",
+    "kunyomi": [
+      "さきがけ",
+      "かしら"
+    ],
+    "onyomi": [
+      "カイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "魁偉",
+        "reading": "カイイ",
+        "meaning": "cơ bắp, cơ bắp, ấn tượng, khổng lồ"
+      },
+      {
+        "example": "魁星",
+        "reading": "カイセイ",
+        "meaning": "ngôi sao đầu tiên của Bắc Đẩu, ứng viên hàng đầu trong kỳ thi công chức (Đế quốc Trung Quốc)"
+      },
+      {
+        "example": "首魁",
+        "reading": "シュカイ",
+        "meaning": "người cầm đầu, người chủ mưu, người đứng đầu (của một âm mưu), người tiên phong, người tiên phong"
+      },
+      {
+        "example": "巨魁",
+        "reading": "キョカイ",
+        "meaning": "người cầm đầu, người đứng đầu"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "先駆け",
+        "reading": "さきがけ",
+        "meaning": "người tiên phong, người dẫn đầu, người tiên phong, người đi trước, người báo trước, người dẫn đầu cuộc tấn công, xông lên trước người khác (về phía kẻ thù)"
+      },
+      {
+        "example": "先駆ける",
+        "reading": "さきがける",
+        "meaning": "làm (điều gì đó) trước (điều gì đó hoặc ai đó), đi trước (người khác, thời gian, v.v.)"
+      }
+    ],
+    "radical": {
+      "symbol": "鬼",
+      "meaning": "ma, quỷ"
+    },
+    "parts": [
+      "儿",
+      "匕",
+      "厶",
+      "斗",
+      "田",
+      "鬼"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39745_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b41.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b41.gif",
+    "uri": "https://jisho.org/search/%E9%AD%81%23kanji"
+  }
+}

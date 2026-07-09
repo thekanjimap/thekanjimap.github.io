@@ -1,0 +1,41 @@
+{
+  "id": "霏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "霏",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "mưa rơi hoặc tuyết",
+    "kunyomi": [
+      "もや"
+    ],
+    "onyomi": [
+      "ヒ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "霏々",
+        "reading": "ヒヒ",
+        "meaning": "rơi không ngừng (ví dụ như mưa, tuyết), sự tiếp tục kéo dài (của một cái gì đó)"
+      },
+      {
+        "example": "霏々",
+        "reading": "ヒヒ",
+        "meaning": "rơi không ngừng (ví dụ như mưa, tuyết), sự tiếp tục kéo dài (của một cái gì đó)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "雨",
+      "meaning": "mưa"
+    },
+    "parts": [
+      "雨",
+      "非"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38671_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0970f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/970f.gif",
+    "uri": "https://jisho.org/search/%E9%9C%8F%23kanji"
+  }
+}

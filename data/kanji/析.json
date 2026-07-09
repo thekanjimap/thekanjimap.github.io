@@ -1,0 +1,47 @@
+{
+  "id": "析",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "析",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "980",
+    "strokeCount": 8,
+    "meaning": "chặt, chia, xé, phân tích",
+    "kunyomi": [],
+    "onyomi": [
+      "セキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "析出",
+        "reading": "セキシュツ",
+        "meaning": "sự tách, lắng đọng, kết tủa"
+      },
+      {
+        "example": "透析",
+        "reading": "トウセキ",
+        "meaning": "chạy thận"
+      },
+      {
+        "example": "人工透析",
+        "reading": "ジンコウトウセキ",
+        "meaning": "(nhân tạo) lọc máu"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "斤",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26512_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06790.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6790.gif",
+    "uri": "https://jisho.org/search/%E6%9E%90%23kanji"
+  }
+}

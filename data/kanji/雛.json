@@ -1,0 +1,93 @@
+{
+  "id": "雛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "雛",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2241",
+    "strokeCount": 18,
+    "meaning": "gà con, vịt con, búp bê",
+    "kunyomi": [
+      "ひな",
+      "ひよこ"
+    ],
+    "onyomi": [
+      "スウ",
+      "ス",
+      "ジュ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "雛妓",
+        "reading": "スウギ",
+        "meaning": "geisha trẻ, geisha tập sự"
+      },
+      {
+        "example": "雛僧",
+        "reading": "スウソウ",
+        "meaning": "linh mục trẻ"
+      },
+      {
+        "example": "鳳雛",
+        "reading": "ホウスウ",
+        "meaning": "người trẻ tài năng và có nhiều hứa hẹn"
+      },
+      {
+        "example": "臥竜鳳雛",
+        "reading": "ガリョウホウスウ",
+        "meaning": "người trẻ tài năng nhưng có nhiều hứa hẹn, thiên tài không được công nhận, người vĩ đại nhưng tài năng bị giấu dưới một cái thùng"
+      },
+      {
+        "example": "雛妓",
+        "reading": "スウギ",
+        "meaning": "geisha trẻ, geisha tập sự"
+      },
+      {
+        "example": "雛僧",
+        "reading": "スウソウ",
+        "meaning": "linh mục trẻ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "雛",
+        "reading": "ひな",
+        "meaning": "chim non, gà con, non nớt, búp bê hina, búp bê được trưng bày trong Lễ hội thiếu nữ"
+      },
+      {
+        "example": "ひな祭り",
+        "reading": "ひなまつり",
+        "meaning": "Hinamatsuri (3 tháng 3), Lễ hội bé gái, Lễ hội búp bê"
+      },
+      {
+        "example": "巣雛",
+        "reading": "すひな",
+        "meaning": "làm tổ"
+      },
+      {
+        "example": "雛",
+        "reading": "ひよこ",
+        "meaning": "chim non, gà, non nớt, greenhorn, non nớt, người mới, tân binh"
+      },
+      {
+        "example": "ひよこ豆",
+        "reading": "ひよこまめ",
+        "meaning": "đậu xanh (Cicer arietinum), đậu garbanzo"
+      }
+    ],
+    "radical": {
+      "symbol": "隹",
+      "meaning": "con chim nhỏ"
+    },
+    "parts": [
+      "勹",
+      "屮",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38619_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096db.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96db.gif",
+    "uri": "https://jisho.org/search/%E9%9B%9B%23kanji"
+  }
+}

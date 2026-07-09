@@ -1,0 +1,76 @@
+{
+  "id": "撚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "撚",
+    "found": true,
+    "newspaperFrequencyRank": "2398",
+    "strokeCount": 15,
+    "meaning": "xoắn, xoắn, xoắn",
+    "kunyomi": [
+      "よ.る",
+      "よ.れる",
+      "より",
+      "ひね.る"
+    ],
+    "onyomi": [
+      "ネン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "撚糸",
+        "reading": "ネンシ",
+        "meaning": "sợi hoặc sợi xoắn, sợi xe hoặc sợi"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "撚る",
+        "reading": "よる",
+        "meaning": "xoắn (sợi), buộc (sợi dây)"
+      },
+      {
+        "example": "縒れる",
+        "reading": "よれる",
+        "meaning": "bị xoắn, bị xoắn"
+      },
+      {
+        "example": "縒り",
+        "reading": "より",
+        "meaning": "xoắn, xếp"
+      },
+      {
+        "example": "撚り合わせる",
+        "reading": "よりあわせる",
+        "meaning": "xoắn vào nhau, xoắn lại với nhau"
+      },
+      {
+        "example": "紙縒り",
+        "reading": "こより",
+        "meaning": "sợi dây làm từ giấy xoắn"
+      },
+      {
+        "example": "捻る",
+        "reading": "ひねる",
+        "meaning": "vặn, vặn, vặn (vòi, công tắc, v.v.), vặn (một bộ phận cơ thể), uốn cong, bong gân, bóp cổ (đến chết), vặn (cổ động vật), đánh bại dễ dàng, đánh bại, làm (một vấn đề, thiết kế, v.v.) phức tạp, làm đặc biệt, làm phức tạp, quản lý để sáng tác (một bài haiku, bài hát, v.v.), gói (một món quà bằng tiền) trong giấy"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "夕",
+      "扎",
+      "杰",
+      "犬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25754_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0649a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/649a.gif",
+    "uri": "https://jisho.org/search/%E6%92%9A%23kanji"
+  }
+}

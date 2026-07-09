@@ -1,0 +1,53 @@
+{
+  "id": "霽",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "霽",
+    "found": true,
+    "strokeCount": 22,
+    "meaning": "dọn dẹp",
+    "kunyomi": [
+      "は.れる",
+      "は.らす"
+    ],
+    "onyomi": [
+      "セイ",
+      "サイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "霽月",
+        "reading": "セイゲツ",
+        "meaning": "vầng trăng tỏa sáng trên bầu trời đã được mưa làm sạch"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "晴れる",
+        "reading": "はれる",
+        "meaning": "làm sạch, làm sạch, có nắng, tạnh mưa, làm sảng khoái (ví dụ: linh hồn), được giải tỏa (ví dụ: nghi ngờ), được xua tan, bị trục xuất"
+      },
+      {
+        "example": "晴らす",
+        "reading": "はらす",
+        "meaning": "xua tan, xua tan, làm mới (bản thân), hoàn thành mục tiêu, làm trời nắng, làm mây tan"
+      }
+    ],
+    "radical": {
+      "symbol": "雨",
+      "meaning": "mưa"
+    },
+    "parts": [
+      "亠",
+      "刀",
+      "廾",
+      "氏",
+      "雨",
+      "齊"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38717_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0973d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/973d.gif",
+    "uri": "https://jisho.org/search/%E9%9C%BD%23kanji"
+  }
+}

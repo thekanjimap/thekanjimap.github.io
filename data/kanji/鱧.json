@@ -1,0 +1,45 @@
+{
+  "id": "鱧",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鱧",
+    "found": true,
+    "strokeCount": 24,
+    "meaning": "cá chình, cá chình biển",
+    "kunyomi": [
+      "はも"
+    ],
+    "onyomi": [
+      "レイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鱧",
+        "reading": "はも",
+        "meaning": "cá chình răng cưa (Muraenesox cinereus), cá chình conger, cá chình vườn"
+      },
+      {
+        "example": "鱧も一期、海老も一期",
+        "reading": "はももいちご、えびもいちご",
+        "meaning": "mọi người đều giống nhau, mọi cuộc đời đều giống nhau, mọi người đều sống và chết, tất cả chúng ta đều chảy máu như nhau, cá chó có một mạng sống, con tôm cũng vậy"
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "cá"
+    },
+    "parts": [
+      "日",
+      "杰",
+      "田",
+      "豆",
+      "魚",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40039_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c67.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c67.gif",
+    "uri": "https://jisho.org/search/%E9%B1%A7%23kanji"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "繡",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "繡",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "đồ thêu, đồ thêu, đồ trang trí",
+    "kunyomi": [
+      "ぬいとり"
+    ],
+    "onyomi": [
+      "シュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "繍衣",
+        "reading": "シュウイ",
+        "meaning": "quần áo thêu"
+      },
+      {
+        "example": "繍匠",
+        "reading": "シュウショウ",
+        "meaning": "thợ thêu"
+      },
+      {
+        "example": "スウェーデン刺繍",
+        "reading": "スウェーデンシシュウ",
+        "meaning": "Dệt Thụy Điển, thêu Thụy Điển, thêu huck, dệt huck"
+      },
+      {
+        "example": "錦繍",
+        "reading": "キンシュウ",
+        "meaning": "vải gấm thêu, vải đẹp, quần áo đẹp, thơ hay, chữ đẹp, lá thu đẹp, hoa đẹp"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "糸",
+      "forms": [
+        "糹"
+      ],
+      "meaning": "lụa"
+    },
+    "parts": [],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32353_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07e61.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7e61.gif",
+    "uri": "https://jisho.org/search/%E7%B9%A1%23kanji"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "巳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "巳",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2142",
+    "strokeCount": 3,
+    "meaning": "dấu hiệu của con rắn hoặc con rắn, 9-11 giờ sáng, cung hoàng đạo thứ sáu của Trung Quốc",
+    "kunyomi": [
+      "み"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "巳",
+        "reading": "ミ",
+        "meaning": "Tỵ (sáu cung hoàng đạo), Tỵ, giờ Tỵ (khoảng 10h, 9-11h hoặc 10h-12h trưa), hướng nam-đông nam, tháng 4 âm lịch"
+      },
+      {
+        "example": "丁巳",
+        "reading": "ヒノトミ",
+        "meaning": "Hỏa Xà (thuật ngữ thứ 54 của chu kỳ lục thập niên, ví dụ: 1917, 1977, 2037)"
+      },
+      {
+        "example": "上巳",
+        "reading": "ジョウシ",
+        "meaning": "Lễ hội búp bê (3/3), Lễ hội thiếu nữ, Lễ hội đào"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "巳",
+        "reading": "み",
+        "meaning": "Tỵ (sáu cung hoàng đạo), Tỵ, giờ Tỵ (khoảng 10h, 9-11h hoặc 10h-12h trưa), hướng nam-đông nam, tháng 4 âm lịch"
+      },
+      {
+        "example": "巳年",
+        "reading": "みどし",
+        "meaning": "năm con rắn"
+      },
+      {
+        "example": "上巳",
+        "reading": "じょうし",
+        "meaning": "Lễ hội búp bê (3/3), Lễ hội thiếu nữ, Lễ hội đào"
+      },
+      {
+        "example": "辰巳",
+        "reading": "たつみ",
+        "meaning": "hướng đông nam"
+      }
+    ],
+    "radical": {
+      "symbol": "己",
+      "forms": [
+        "巳",
+        "已",
+        "㔾"
+      ],
+      "meaning": "chính mình"
+    },
+    "parts": [
+      "已"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24051_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05df3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5df3.gif",
+    "uri": "https://jisho.org/search/%E5%B7%B3%23kanji"
+  }
+}

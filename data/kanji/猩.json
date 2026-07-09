@@ -1,0 +1,63 @@
+{
+  "id": "猩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "猩",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "đười ươi, màu đỏ sẫm",
+    "kunyomi": [
+      "しょうじょう"
+    ],
+    "onyomi": [
+      "ショウ",
+      "セイ",
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "猩紅熱",
+        "reading": "ショウコウネツ",
+        "meaning": "bệnh ban đỏ"
+      },
+      {
+        "example": "猩々",
+        "reading": "ショウジョウ",
+        "meaning": "đười ươi, người nghiện rượu nặng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "猩々",
+        "reading": "しょうじょう",
+        "meaning": "đười ươi, người nghiện rượu nặng"
+      },
+      {
+        "example": "猩猩蝦",
+        "reading": "しょうじょうえび",
+        "meaning": "Tôm kangaroo (Glyphus marsupialis)"
+      },
+      {
+        "example": "黒猩々",
+        "reading": "くろしょうじょう",
+        "meaning": "tinh tinh"
+      }
+    ],
+    "radical": {
+      "symbol": "犬",
+      "forms": [
+        "犭"
+      ],
+      "meaning": "con chó"
+    },
+    "parts": [
+      "日",
+      "犯",
+      "生"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/29481_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07329.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7329.gif",
+    "uri": "https://jisho.org/search/%E7%8C%A9%23kanji"
+  }
+}

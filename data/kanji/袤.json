@@ -1,0 +1,40 @@
+{
+  "id": "袤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "袤",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "chiều dài",
+    "kunyomi": [
+      "ながさ"
+    ],
+    "onyomi": [
+      "ボウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "広袤",
+        "reading": "コウボウ",
+        "meaning": "diện tích, sự mở rộng, sự lan rộng, phạm vi"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "quần áo"
+    },
+    "parts": [
+      "亠",
+      "矛",
+      "衣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34980_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088a4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88a4.gif",
+    "uri": "https://jisho.org/search/%E8%A2%A4%23kanji"
+  }
+}

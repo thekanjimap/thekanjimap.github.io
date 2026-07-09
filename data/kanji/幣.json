@@ -1,0 +1,78 @@
+{
+  "id": "幣",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "幣",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1803",
+    "strokeCount": 15,
+    "meaning": "tiền mặt, thói quen xấu, tiền tố khiêm tốn, quà tặng, lễ vật Shinto bằng vải, dây thừng, giấy cắt",
+    "kunyomi": [
+      "ぬさ"
+    ],
+    "onyomi": [
+      "ヘイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "幣",
+        "reading": "ヘイ",
+        "meaning": "nhân viên với dải giấy bện"
+      },
+      {
+        "example": "弊害",
+        "reading": "ヘイガイ",
+        "meaning": "tác hại, ảnh hưởng có hại, hành động xấu, lạm dụng, bệnh tật"
+      },
+      {
+        "example": "造幣",
+        "reading": "ゾウヘイ",
+        "meaning": "sự đúc tiền, sự đúc tiền"
+      },
+      {
+        "example": "衰幣",
+        "reading": "スイヘイ",
+        "meaning": "suy giảm"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "幣",
+        "reading": "へい",
+        "meaning": "nhân viên với dải giấy bện"
+      },
+      {
+        "example": "幣を奉る",
+        "reading": "ぬさをたてまつる",
+        "meaning": "dâng một cây đũa phép bằng sợi gai dầu và những dải giấy cho một vị thần Shinto"
+      },
+      {
+        "example": "大幣",
+        "reading": "おおぬさ",
+        "meaning": "những dải băng (làm bằng vải lanh, giấy, v.v.) gắn vào một cây sào dài (dùng làm đũa phép trong các nghi lễ thanh tẩy lớn), đang có nhu cầu lớn"
+      },
+      {
+        "example": "小幣",
+        "reading": "こぬさ",
+        "meaning": "Đũa thanh tẩy nhỏ, sợi gai dầu hoặc giấy cắt mỏng trộn với gạo (rải rác như một lễ vật dâng lên thần linh)"
+      }
+    ],
+    "radical": {
+      "symbol": "巾",
+      "meaning": "khăn xếp, khăn quàng cổ"
+    },
+    "parts": [
+      "乞",
+      "冂",
+      "巾",
+      "并",
+      "攵"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24163_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e63.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e63.gif",
+    "uri": "https://jisho.org/search/%E5%B9%A3%23kanji"
+  }
+}

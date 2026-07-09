@@ -1,0 +1,58 @@
+{
+  "id": "譏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "譏",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "vu khống, chê bai, chê bai, chỉ trích",
+    "kunyomi": [
+      "そし.る"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "機嫌",
+        "reading": "キゲン",
+        "meaning": "hài hước, hài hước, bình tĩnh, tâm trạng, tinh thần, an toàn, sức khỏe, hạnh phúc, tình huống của một người, tâm trạng tốt, tinh thần phấn chấn, vui vẻ, sảng khoái, vui vẻ, vui vẻ"
+      },
+      {
+        "example": "譏笑",
+        "reading": "キショウ",
+        "meaning": "cười khúc khích, cười khúc khích, cười nhạo"
+      },
+      {
+        "example": "誹毀",
+        "reading": "ヒキ",
+        "meaning": "sự phỉ báng, sự bôi nhọ, sự vu khống, sự vu khống"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "謗る",
+        "reading": "そしる",
+        "meaning": "nói xấu, bôi nhọ, chỉ trích, chỉ trích"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "lời nói"
+    },
+    "parts": [
+      "ノ",
+      "丶",
+      "幺",
+      "戈",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35663_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b4f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b4f.gif",
+    "uri": "https://jisho.org/search/%E8%AD%8F%23kanji"
+  }
+}

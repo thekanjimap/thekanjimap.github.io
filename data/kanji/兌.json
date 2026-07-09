@@ -1,0 +1,50 @@
+{
+  "id": "兌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "兌",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "trao đổi",
+    "kunyomi": [
+      "よろこ.ぶ"
+    ],
+    "onyomi": [
+      "ダ",
+      "エイ",
+      "エツ",
+      "タイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "兌",
+        "reading": "ダ",
+        "meaning": "dui (một trong những bát quái của Kinh Dịch: đầm lầy, phía tây)"
+      },
+      {
+        "example": "兌換",
+        "reading": "ダカン",
+        "meaning": "sự chuyển đổi (tiền giấy, đặc biệt thành tiền)"
+      },
+      {
+        "example": "発兌",
+        "reading": "ハツダ",
+        "meaning": "xuất bản, in ấn"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "儿",
+      "meaning": "chân"
+    },
+    "parts": [
+      "儿",
+      "口",
+      "并"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20812_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0514c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/514c.gif",
+    "uri": "https://jisho.org/search/%E5%85%8C%23kanji"
+  }
+}

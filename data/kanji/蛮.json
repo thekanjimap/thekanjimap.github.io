@@ -1,0 +1,54 @@
+{
+  "id": "蛮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蛮",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2339",
+    "strokeCount": 12,
+    "meaning": "man rợ",
+    "kunyomi": [
+      "えびす"
+    ],
+    "onyomi": [
+      "バン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蛮勇",
+        "reading": "バンユウ",
+        "meaning": "sự liều lĩnh, sự liều lĩnh, sự dũng cảm man rợ, sự dũng cảm man rợ, sự can đảm tàn bạo"
+      },
+      {
+        "example": "蛮行",
+        "reading": "バンコウ",
+        "meaning": "hành động man rợ, sự man rợ, sự tàn ác, sự man rợ"
+      },
+      {
+        "example": "南蛮",
+        "reading": "ナンバン",
+        "meaning": "người man rợ miền nam (tên được sử dụng ở Trung Quốc cổ đại cho các nhóm dân tộc không phải người Trung Quốc ở phía nam), các nước Đông Nam Á (vào cuối thời Muromachi và Edo), Tây Âu (đặc biệt là Tây Ban Nha và Bồ Đào Nha và các thuộc địa ở Đông Nam Á của họ; cuối thời Muromachi và Edo), nước ngoài (hàng hóa từ Đông Nam Á và Tây Âu), nước ngoài (đặc biệt theo phong cách Tây Âu hoặc Đông Nam Á), ớt, nanban, món ăn được chế biến bằng ớt và hành tây xứ Wales, đâm chân phải và phải đồng thời đưa tay về phía trước (hoặc chân trái và tay trái; trong kabuki, múa, múa rối, v.v.)"
+      },
+      {
+        "example": "生蕃",
+        "reading": "セイバン",
+        "meaning": "các bộ lạc thổ dân Đài Loan man rợ, không văn minh, không bị chinh phục nằm ngoài phạm vi quyền lực của nhà Thanh Trung Quốc"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "côn trùng"
+    },
+    "parts": [
+      "亠",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34542_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086ee.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86ee.gif",
+    "uri": "https://jisho.org/search/%E8%9B%AE%23kanji"
+  }
+}

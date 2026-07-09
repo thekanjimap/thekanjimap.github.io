@@ -1,0 +1,70 @@
+{
+  "id": "嵐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嵐",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1910",
+    "strokeCount": 12,
+    "meaning": "cơn bão, cơn bão",
+    "kunyomi": [
+      "あらし"
+    ],
+    "onyomi": [
+      "ラン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "嵐気",
+        "reading": "ランキ",
+        "meaning": "sương núi, không khí núi"
+      },
+      {
+        "example": "青嵐",
+        "reading": "アオアラシ",
+        "meaning": "gió thổi qua cây xanh trong lành, không khí núi non"
+      },
+      {
+        "example": "翠嵐",
+        "reading": "スイラン",
+        "meaning": "cảm giác được chìm đắm trong bầu không khí xanh tươi của miền núi"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "嵐",
+        "reading": "あらし",
+        "meaning": "bão, giông bão, náo động, Hullabaloo, bão (ví dụ: phản đối), gió (ví dụ: thay đổi), cọc 3 lá bài có cùng giá trị trong oicho-kabu"
+      },
+      {
+        "example": "嵐が丘",
+        "reading": "あらしがおか",
+        "meaning": "Đồi Gió Hú (tiểu thuyết của Emily Bronte)"
+      },
+      {
+        "example": "青嵐",
+        "reading": "あおあらし",
+        "meaning": "gió thổi qua cây xanh trong lành, không khí núi non"
+      },
+      {
+        "example": "太陽嵐",
+        "reading": "たいようあらし",
+        "meaning": "bão mặt trời"
+      }
+    ],
+    "radical": {
+      "symbol": "山",
+      "meaning": "núi"
+    },
+    "parts": [
+      "山",
+      "風"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23888_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05d50.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5d50.gif",
+    "uri": "https://jisho.org/search/%E5%B5%90%23kanji"
+  }
+}

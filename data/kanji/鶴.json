@@ -1,0 +1,78 @@
+{
+  "id": "鶴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鶴",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1369",
+    "strokeCount": 21,
+    "meaning": "cần cẩu, cò",
+    "kunyomi": [
+      "つる"
+    ],
+    "onyomi": [
+      "カク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鶴首",
+        "reading": "カクシュ",
+        "meaning": "mong chờ"
+      },
+      {
+        "example": "鶴首して待つ",
+        "reading": "カクシュシテマツ",
+        "meaning": "đầy trông đợi, đầy háo hức, khao khát"
+      },
+      {
+        "example": "鶏群の一鶴",
+        "reading": "ケイグンノイッカク",
+        "meaning": "một con thiên nga giữa bầy vịt, một viên kim cương giữa những viên đá, một nhân vật vĩ đại trong số những người bình thường"
+      },
+      {
+        "example": "閑雲野鶴",
+        "reading": "カンウンヤカク",
+        "meaning": "cuộc sống trong khung cảnh thiên nhiên, thoát khỏi những lo lắng trần thế"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鶴",
+        "reading": "つる",
+        "meaning": "sếu (bất kỳ loài chim nào thuộc họ Gruidae, đặc biệt là sếu đầu đỏ, Grus japonensis)"
+      },
+      {
+        "example": "鶴岡工業高等専門学校",
+        "reading": "つるおかこうぎょうこうとうせんもんがっこう",
+        "meaning": "Cao đẳng Công nghệ Quốc gia Tsuruoka"
+      },
+      {
+        "example": "白鶴",
+        "reading": "はくつる",
+        "meaning": "Hakutsuru (nhãn hiệu rượu sake)"
+      },
+      {
+        "example": "掃き溜めに鶴",
+        "reading": "はきだめにつる",
+        "meaning": "một viên ngọc trong đống phân"
+      }
+    ],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "chim"
+    },
+    "parts": [
+      "冖",
+      "宀",
+      "杰",
+      "隹",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40372_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09db4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9db4.gif",
+    "uri": "https://jisho.org/search/%E9%B6%B4%23kanji"
+  }
+}

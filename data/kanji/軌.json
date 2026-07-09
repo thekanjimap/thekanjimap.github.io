@@ -1,0 +1,52 @@
+{
+  "id": "軌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "軌",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1480",
+    "strokeCount": 9,
+    "meaning": "Đường mòn,Bánh xe,Theo dõi,mô hình,cách làm",
+    "kunyomi": [],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "軌",
+        "reading": "キ",
+        "meaning": "vết bánh xe, vết bánh xe, khoảng cách giữa hai bánh xe, thước đo"
+      },
+      {
+        "example": "軌跡",
+        "reading": "キセキ",
+        "meaning": "vết bánh xe, dấu vết của người hoặc vật, con đường đã đi, quỹ tích"
+      },
+      {
+        "example": "広軌",
+        "reading": "コウキ",
+        "meaning": "khổ rộng"
+      },
+      {
+        "example": "狭軌",
+        "reading": "キョウキ",
+        "meaning": "khổ hẹp"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "車",
+      "meaning": "xe đẩy, xe hơi"
+    },
+    "parts": [
+      "九",
+      "車"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36556_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ecc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ecc.gif",
+    "uri": "https://jisho.org/search/%E8%BB%8C%23kanji"
+  }
+}

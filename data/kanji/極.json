@@ -1,0 +1,457 @@
+{
+  "id": "極",
+  "kanjialiveData": {
+    "_id": "54317aff791eba5146ee4b8a",
+    "_rev": "11-6de30d68bd8f415ab7be4ec3ae6dc647",
+    "rad_name_ja": "きへん",
+    "grade": 4,
+    "hint_group": 1,
+    "kunyomi": "kiwa, kiwameru, kiwamaru, kiwamari, kiwami",
+    "meaning": "cực, cực",
+    "kstroke": 13,
+    "examples": [
+      {
+        "japanese": "極限（きょくげん）",
+        "meaning": {
+          "english": "giới hạn [n.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyoku-kiwa(mi)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kyoku-kiwa(mi)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kyoku-kiwa(mi)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kyoku-kiwa(mi)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "北極（ほっきょく）",
+        "meaning": {
+          "english": "cực bắc, Bắc Cực"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyoku-kiwa(mi)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kyoku-kiwa(mi)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kyoku-kiwa(mi)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kyoku-kiwa(mi)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "南極（なんきょく）",
+        "meaning": {
+          "english": "cực nam, Nam Cực"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyoku-kiwa(mi)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kyoku-kiwa(mi)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kyoku-kiwa(mi)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kyoku-kiwa(mi)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "極端な（きょくたんな）",
+        "meaning": {
+          "english": "cực đoan"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyoku-kiwa(mi)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kyoku-kiwa(mi)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kyoku-kiwa(mi)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kyoku-kiwa(mi)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "積極的な（せっきょくてきな）",
+        "meaning": {
+          "english": "tích cực, năng động, chủ động"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyoku-kiwa(mi)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kyoku-kiwa(mi)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kyoku-kiwa(mi)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kyoku-kiwa(mi)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "消極的な（しょうきょくてきな）",
+        "meaning": {
+          "english": "thụ động"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyoku-kiwa(mi)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kyoku-kiwa(mi)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kyoku-kiwa(mi)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kyoku-kiwa(mi)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "多極化する（たきょくかする）",
+        "meaning": {
+          "english": "trở nên đa cực"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyoku-kiwa(mi)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kyoku-kiwa(mi)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kyoku-kiwa(mi)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kyoku-kiwa(mi)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "極（ごく）",
+        "meaning": {
+          "english": "rất, cực kỳ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyoku-kiwa(mi)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kyoku-kiwa(mi)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kyoku-kiwa(mi)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kyoku-kiwa(mi)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "極楽（ごくらく）",
+        "meaning": {
+          "english": "thiên đường"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyoku-kiwa(mi)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kyoku-kiwa(mi)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kyoku-kiwa(mi)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kyoku-kiwa(mi)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "極める（きわめる）",
+        "meaning": {
+          "english": "mang đến cực đoan [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyoku-kiwa(mi)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kyoku-kiwa(mi)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kyoku-kiwa(mi)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kyoku-kiwa(mi)_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "極まる（きわまる）",
+        "meaning": {
+          "english": "đạt đến cực độ [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyoku-kiwa(mi)_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kyoku-kiwa(mi)_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kyoku-kiwa(mi)_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kyoku-kiwa(mi)_06_k.mp3"
+        }
+      },
+      {
+        "japanese": "極み（きわみ）",
+        "meaning": {
+          "english": "chiều cao, đỉnh cao, điểm cực trị"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kyoku-kiwa(mi)_06_l.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kyoku-kiwa(mi)_06_l.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kyoku-kiwa(mi)_06_l.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kyoku-kiwa(mi)_06_l.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "きわ、きわめる、きわまる、きわまり、きわみ",
+    "ka_utf": "極",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=極",
+    "rad_name_search": [
+      "kihen"
+    ],
+    "rad_order": 98,
+    "txt_books": [
+      {
+        "chapter": "13",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "11",
+        "txt_bk": "jtr"
+      }
+    ],
+    "kname": "kyoku-kiwa(mi)",
+    "rad_utf": "",
+    "stroketimes": [
+      0,
+      1.2,
+      2.333333,
+      3.933333,
+      4.733333,
+      6,
+      7.266667,
+      9.066667,
+      9.933333,
+      11.133333,
+      12.2,
+      13.6,
+      14.6,
+      17.2
+    ],
+    "kunyomi_ka_display": "きわ",
+    "dick": "695",
+    "rad_name": "kihen",
+    "dicn": "2305",
+    "mn_hint": "Explorer's mouth 口 shouts 丂 extreme joy as he places flag 木 by hand 又 in ground 一 at pole.",
+    "rad_stroke": 4,
+    "onyomi_ja": "キョク、ゴク",
+    "rad_meaning": "cây, gỗ",
+    "onyomi": "kyoku, goku",
+    "ka_id": "ka_681",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "kyoku",
+      "goku",
+      "kyoku, goku"
+    ],
+    "kunyomi_search": [
+      "kiwa",
+      "kiwameru",
+      "kiwamaru",
+      "kiwamari",
+      "kiwami",
+      "kiwa, kiwameru, kiwamaru, kiwamari, kiwami"
+    ],
+    "meaning_search": [
+      "extreme",
+      "pole",
+      "extreme, pole"
+    ],
+    "onyomi_ja_search": [
+      "キョク",
+      "ゴク",
+      "キョク、ゴク"
+    ],
+    "kunyomi_ja_search": [
+      "きわ",
+      "きわめる",
+      "きわまる",
+      "きわまり",
+      "きわみ",
+      "きわ、きわめる、きわまる、きわまり、きわみ"
+    ],
+    "rad_meaning_search": [
+      "tree",
+      "wood",
+      "tree, wood"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "きへん"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:13",
+      "ij:c13",
+      "jtr",
+      "jtr:11",
+      "jtr:c11"
+    ],
+    "rad_name_file": "kihen",
+    "kanji": {
+      "character": "極",
+      "meaning": {
+        "english": "extreme, pole"
+      },
+      "strokes": {
+        "count": 13,
+        "timings": [
+          0,
+          1.2,
+          2.333333,
+          3.933333,
+          4.733333,
+          6,
+          7.266667,
+          9.066667,
+          9.933333,
+          11.133333,
+          12.2,
+          13.6,
+          14.6,
+          17.2
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/kyoku-kiwa(mi)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/kyoku-kiwa(mi)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/kyoku-kiwa(mi)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/kyoku-kiwa(mi)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/kyoku-kiwa(mi)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/kyoku-kiwa(mi)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/kyoku-kiwa(mi)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/kyoku-kiwa(mi)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/kyoku-kiwa(mi)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/kyoku-kiwa(mi)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/kyoku-kiwa(mi)_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/kyoku-kiwa(mi)_12.svg",
+          "https://media.kanjialive.com/kanji_strokes/kyoku-kiwa(mi)_13.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "kyoku, goku",
+        "katakana": "キョク、ゴク"
+      },
+      "kunyomi": {
+        "romaji": "kiwa, kiwameru, kiwamaru, kiwamari, kiwami",
+        "hiragana": "きわ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/kyoku-kiwa(mi)_13.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/kyoku-kiwa(mi)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/kyoku-kiwa(mi)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/kihen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "きへん",
+        "romaji": "kihen"
+      },
+      "meaning": {
+        "english": "cây, gỗ"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/kihen0.svg",
+        "https://media.kanjialive.com/rad_frames/kihen1.svg",
+        "https://media.kanjialive.com/rad_frames/kihen2.svg"
+      ]
+    },
+    "references": {
+      "grade": 4,
+      "kodansha": "695",
+      "classic_nelson": "2305"
+    }
+  },
+  "jishoData": {
+    "query": "極",
+    "found": true,
+    "taughtIn": "lớp 4",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "460",
+    "strokeCount": 12,
+    "meaning": "cực, cực, cực kỳ, rất, cao, nhất, kết thúc, giải quyết, kết luận, thứ hạng cao nhất",
+    "kunyomi": [
+      "きわ.める",
+      "きわ.まる",
+      "きわ.まり",
+      "きわ.み",
+      "き.める",
+      "-ぎ.め",
+      "き.まる"
+    ],
+    "onyomi": [
+      "キョク",
+      "ゴク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "極",
+        "reading": "キョク",
+        "meaning": "cực, cực điểm, cực độ, cực điểm, đỉnh điểm, chiều cao, thiên đỉnh, đáy"
+      },
+      {
+        "example": "極右",
+        "reading": "キョクウ",
+        "meaning": "cực hữu (trong chính trị), cực hữu, cực đoan"
+      },
+      {
+        "example": "消極",
+        "reading": "ショウキョク",
+        "meaning": "thụ động, tiêu cực, bảo thủ, khử cực"
+      },
+      {
+        "example": "対極",
+        "reading": "タイキョク",
+        "meaning": "đối âm, cực đoan khác (ngược lại), đối nghịch, phản đề"
+      },
+      {
+        "example": "極",
+        "reading": "ゴク",
+        "meaning": "khá, rất, 10^48, quindecillion"
+      },
+      {
+        "example": "極秘",
+        "reading": "ゴクヒ",
+        "meaning": "bí mật tuyệt đối"
+      },
+      {
+        "example": "極々",
+        "reading": "ゴクゴク",
+        "meaning": "cực kỳ, rất cao"
+      },
+      {
+        "example": "失礼至極",
+        "reading": "シツレイシゴク",
+        "meaning": "cực kỳ thô lỗ, xấc xược, bất lịch sự"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "極める",
+        "reading": "きわめる",
+        "meaning": "đi đến cực đoan, đi đến tận cùng của một cái gì đó, đạt đến giới hạn của một cái gì đó, đạt đến đỉnh cao của một cái gì đó (ví dụ: sang trọng, khó khăn, v.v.), cực kỳ (ví dụ: bận rộn), kiệt sức hoàn toàn, không còn gì (ví dụ: để nói)"
+      },
+      {
+        "example": "極まる",
+        "reading": "きわまる",
+        "meaning": "đạt đến cực điểm, đạt đến giới hạn, chấm dứt, đi đến kết thúc, cực kỳ, bị mắc kẹt, rơi vào tình thế tiến thoái lưỡng nan, thua lỗ, được quyết định, được giải quyết"
+      },
+      {
+        "example": "極まり",
+        "reading": "きわまり",
+        "meaning": "cực, điểm cuối, giới hạn, giới hạn"
+      },
+      {
+        "example": "極まりない",
+        "reading": "きわまりない",
+        "meaning": "cực kỳ, cực độ, không có giới hạn (ví dụ: sự thô lỗ), vô song, vô biên (ví dụ: vũ trụ, đại dương), vô hạn"
+      },
+      {
+        "example": "極み",
+        "reading": "きわみ",
+        "meaning": "chiều cao, acme, điểm cực trị, đỉnh, điểm cuối, giới hạn"
+      },
+      {
+        "example": "決める",
+        "reading": "きめる",
+        "meaning": "quyết định, lựa chọn, xác định, quyết định, giải quyết, để tâm, giải quyết, sắp xếp, ấn định, chỉ định, sửa chữa, giành lấy (một chiến thắng), quyết định (kết quả của một trận đấu), kiên trì làm, vượt qua, luôn làm, tạo thói quen, coi như đương nhiên, giả định, ăn mặc, ăn mặc để giết, ăn mặc sang trọng, thực hiện thành công (một động tác trong thể thao, một tư thế trong khiêu vũ, v.v.), thực hiện thành công, bất động bằng khóa hai tay (trong sumo, judo, v.v.), ăn hoặc uống thứ gì đó, sử dụng ma túy bất hợp pháp"
+      },
+      {
+        "example": "決まる",
+        "reading": "きまる",
+        "meaning": "được quyết định, được giải quyết, được cố định, được sắp xếp, không thay đổi, giống nhau (như mọi khi), được cố định, được thiết lập, là một quy tắc cố định, được định sẵn, là một quy ước, là một phong tục, là kiến thức phổ biến, được thực hiện tốt (về một động tác trong một môn thể thao, trò chơi, v.v.), đi tốt, thành công, kết nối (của một cú đấm), trông đẹp (của quần áo), trông sắc sảo, có phong cách, phù hợp với một người, được giữ đúng chỗ (về kiểu tóc), bị đánh và bị giữ (về tư thế trong kabuki)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "一",
+      "又",
+      "口",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26997_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06975.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6975.gif",
+    "uri": "https://jisho.org/search/%E6%A5%B5%23kanji"
+  }
+}

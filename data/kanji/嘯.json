@@ -1,0 +1,54 @@
+{
+  "id": "嘯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嘯",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "gầm lên, hú, kể lại một cách xúc động, giả vờ thờ ơ",
+    "kunyomi": [
+      "うそぶ.く"
+    ],
+    "onyomi": [
+      "ショウ",
+      "シツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "海嘯",
+        "reading": "カイショウ",
+        "meaning": "(thủy triều) khoan, háo hức, sóng thần, sóng thủy triều"
+      },
+      {
+        "example": "虎嘯",
+        "reading": "コショウ",
+        "meaning": "tiếng hổ gầm, sự ra ngoài và hoạt động trong thế giới (của một anh hùng, v.v.)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "嘯く",
+        "reading": "うそぶく",
+        "meaning": "khoe khoang, khoe khoang, giả vờ không biết, giả vờ không biết, đọc thuộc lòng (một bài hát hoặc bài thơ cho chính mình), sủa, gầm lên, hú"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "ノ",
+      "ヨ",
+      "口",
+      "水",
+      "米",
+      "聿",
+      "隶",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22063_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0562f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/562f.gif",
+    "uri": "https://jisho.org/search/%E5%98%AF%23kanji"
+  }
+}

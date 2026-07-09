@@ -1,0 +1,46 @@
+{
+  "id": "按",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "按",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "giữ, xem xét, điều tra",
+    "kunyomi": [
+      "おさ.える",
+      "しら.べる"
+    ],
+    "onyomi": [
+      "アン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "塩梅",
+        "reading": "アンバイ",
+        "meaning": "gia vị, hương vị, hương vị, mùi vị, tình trạng, trạng thái, tình huống, (trạng thái) sức khỏe, tình trạng thể chất, sắp xếp, phân công, điều chỉnh, xử lý, xử lý"
+      },
+      {
+        "example": "案じる",
+        "reading": "アンジル",
+        "meaning": "lo lắng (về), quan tâm (về), lo lắng (về), sợ hãi, suy nghĩ (ví dụ: một kế hoạch), thực hiện, nghĩ ra, cân nhắc, cân nhắc, điều tra, vuốt ve, xoa bóp, vỗ nhẹ, nắm lấy (chuôi kiếm của một người)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "女",
+      "宀",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25353_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06309.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6309.gif",
+    "uri": "https://jisho.org/search/%E6%8C%89%23kanji"
+  }
+}

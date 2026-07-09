@@ -1,0 +1,49 @@
+{
+  "id": "僊",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "僊",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "ẩn sĩ",
+    "kunyomi": [],
+    "onyomi": [
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "仙",
+        "reading": "セン",
+        "meaning": "ẩn sĩ, phù thủy, phép thuật"
+      },
+      {
+        "example": "仙人",
+        "reading": "センニン",
+        "meaning": "pháp sư núi bất tử (trong Đạo giáo), người đàn ông miền núi (đặc biệt là một ẩn sĩ), người không bị ràng buộc bởi những ham muốn trần thế"
+      },
+      {
+        "example": "神仙",
+        "reading": "シンセン",
+        "meaning": "pháp sư núi bất tử (trong Đạo giáo), Đạo giáo bất tử, sinh vật siêu nhiên, (ở Nhật Bản) nốt thứ 11 của thang âm cổ (khoảng C)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "đàn ông, con người"
+    },
+    "parts": [
+      "化",
+      "大",
+      "已",
+      "西"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20682_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050ca.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50ca.gif",
+    "uri": "https://jisho.org/search/%E5%83%8A%23kanji"
+  }
+}

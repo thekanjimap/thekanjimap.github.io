@@ -1,0 +1,63 @@
+{
+  "id": "墜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "墜",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1466",
+    "strokeCount": 15,
+    "meaning": "va chạm, rơi (xuống)",
+    "kunyomi": [
+      "お.ちる",
+      "お.つ"
+    ],
+    "onyomi": [
+      "ツイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "墜落",
+        "reading": "ツイラク",
+        "meaning": "rơi, rơi (máy bay)"
+      },
+      {
+        "example": "墜死",
+        "reading": "ツイシ",
+        "meaning": "rơi xuống cái chết của một người"
+      },
+      {
+        "example": "人気失墜",
+        "reading": "ニンキシッツイ",
+        "meaning": "giảm sự ủng hộ của công chúng, giảm sự nổi tiếng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "落ちる",
+        "reading": "おちる",
+        "meaning": "rơi, rơi, rơi xuống, sụp đổ, sụp đổ, hang động, nhường chỗ, lặn (của mặt trời hoặc mặt trăng), chìm, nhúng, đi xuống, giảm (về mức độ phổ biến, chất lượng, tốc độ, doanh số, v.v.), rơi, rơi, đi xuống, suy giảm, xấu đi, giảm bớt (gió), kém hơn (với), không tốt bằng, thiếu hụt (của), bong ra (bụi bẩn, sơn, trang điểm, v.v.), đến hết (một vết ố), phai màu (màu sắc), bị loại bỏ (bệnh tật, tinh thần ám ảnh, v.v.), biến mất (mỡ thừa), trở nên gầy hơn, gầy hơn, bị bỏ rơi, bị bỏ qua, bị mất tích, thất bại (một kỳ thi), thua (một cuộc thi, cuộc bầu cử, v.v.), không thành công, sa sút (về đạo đức, tính cách, v.v.), trở nên thô tục (ví dụ như trong một cuộc trò chuyện), cúi xuống (đến), chìm đắm (quá thấp), bị hủy hoại, đi xuống, rơi (vào địa ngục), rơi (yêu, ngủ, v.v.), rơi (vào tay ai đó), được chấp nhận (trong một cuộc đấu thầu), được thắng (trong một cuộc đấu thầu), được vinh dự (trong một dự luật), rơi vào (một cái bẫy), rơi vào (một trò lừa), nhượng bộ, thú nhận, sở hữu, đi đến (một kết luận, chủ đề, v.v.), đi đến (cuối cùng), rời khỏi (một thành phố, lâu đài, v.v.), để (bị đánh bại và) chạy trốn, chìm vào, được chấp nhận (trong trái tim của một người), rơi (vào tay kẻ thù), bị đánh bại, đi vào (của tiền), rơi (trên; ánh sáng, cái bóng, cái nhìn của một người, v.v.), bất tỉnh (trong judo), bất tỉnh, đi xuống (của một trang web, máy chủ, v.v.), bị sập, đăng xuất (của một trò chơi trực tuyến, phòng trò chuyện, v.v.), bỏ ra, rời đi, ngoại tuyến, di chuyển đến vùng nước sâu hơn (của một con cá trong thời tiết lạnh), chết (của một con vật)"
+      },
+      {
+        "example": "落つ",
+        "reading": "おつ",
+        "meaning": "rơi, rơi"
+      }
+    ],
+    "radical": {
+      "symbol": "土",
+      "meaning": "trái đất"
+    },
+    "parts": [
+      "土",
+      "并",
+      "豕",
+      "阡"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22684_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0589c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/589c.gif",
+    "uri": "https://jisho.org/search/%E5%A2%9C%23kanji"
+  }
+}

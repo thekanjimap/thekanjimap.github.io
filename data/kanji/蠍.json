@@ -1,0 +1,55 @@
+{
+  "id": "蠍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蠍",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "bọ cạp",
+    "kunyomi": [
+      "さそり"
+    ],
+    "onyomi": [
+      "カツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蛇蠍",
+        "reading": "ダカツ",
+        "meaning": "con rắn (rắn) và bọ cạp, sự ghê tởm"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蠍",
+        "reading": "さそり",
+        "meaning": "bọ cạp (Scorpiones spp.)"
+      },
+      {
+        "example": "サソリ固め",
+        "reading": "さそりがため",
+        "meaning": "xạ thủ, bọ cạp giữ, bọ cạp tử thần"
+      },
+      {
+        "example": "海蠍",
+        "reading": "うみさそり",
+        "meaning": "eurypterid"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "côn trùng"
+    },
+    "parts": [
+      "勹",
+      "匕",
+      "日",
+      "欠",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34829_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0880d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/880d.gif",
+    "uri": "https://jisho.org/search/%E8%A0%8D%23kanji"
+  }
+}

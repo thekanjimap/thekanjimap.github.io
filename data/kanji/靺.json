@@ -1,0 +1,40 @@
+{
+  "id": "靺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "靺",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "tabi da, bộ tộc Tungusic",
+    "kunyomi": [],
+    "onyomi": [
+      "マツ",
+      "バツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "靺鞨",
+        "reading": "マッカツ",
+        "meaning": "Mohe (một trong những bộ tộc nói tiếng Tungus)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "革",
+      "meaning": "da, da thô"
+    },
+    "parts": [
+      "ハ",
+      "亠",
+      "凵",
+      "口",
+      "木",
+      "革",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38778_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0977a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/977a.gif",
+    "uri": "https://jisho.org/search/%E9%9D%BA%23kanji"
+  }
+}

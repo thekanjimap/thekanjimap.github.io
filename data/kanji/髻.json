@@ -1,0 +1,68 @@
+{
+  "id": "髻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "髻",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "búi tóc samurai",
+    "kunyomi": [
+      "たぶさ",
+      "みずら",
+      "もとどり"
+    ],
+    "onyomi": [
+      "ケイ",
+      "キツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "髻鬟",
+        "reading": "ケイカン",
+        "meaning": "búi (tóc), búi tóc"
+      },
+      {
+        "example": "鴉髻",
+        "reading": "アケイ",
+        "meaning": "mái tóc đen tuyền"
+      },
+      {
+        "example": "肉髻",
+        "reading": "ニクケイ",
+        "meaning": "ushnisha (nhô ra trên đỉnh đầu của một vị phật)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "髻",
+        "reading": "もとどり",
+        "meaning": "nơi tóc tập trung lại trên đỉnh đầu, tóc được buộc (hoặc ghim) lại với nhau ở vị trí này"
+      },
+      {
+        "example": "角髪",
+        "reading": "みずら",
+        "meaning": "kiểu tóc búi ở mỗi bên đầu"
+      },
+      {
+        "example": "髻",
+        "reading": "もとどり",
+        "meaning": "nơi tóc tập trung lại trên đỉnh đầu, tóc được buộc (hoặc ghim) lại với nhau ở vị trí này"
+      }
+    ],
+    "radical": {
+      "symbol": "髟",
+      "meaning": "tóc dài"
+    },
+    "parts": [
+      "口",
+      "士",
+      "彡",
+      "長",
+      "髟"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39675_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09afb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9afb.gif",
+    "uri": "https://jisho.org/search/%E9%AB%BB%23kanji"
+  }
+}

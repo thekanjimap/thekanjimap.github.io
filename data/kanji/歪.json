@@ -1,0 +1,75 @@
+{
+  "id": "歪",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "歪",
+    "found": true,
+    "newspaperFrequencyRank": "2348",
+    "strokeCount": 9,
+    "meaning": "làm cong, uốn cong, làm cong, làm biến dạng",
+    "kunyomi": [
+      "いが.む",
+      "いびつ",
+      "ひず.む",
+      "ゆが.む"
+    ],
+    "onyomi": [
+      "ワイ",
+      "エ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "歪曲",
+        "reading": "ワイキョク",
+        "meaning": "sự xuyên tạc, sự xuyên tạc, sự xuyên tạc"
+      },
+      {
+        "example": "歪度",
+        "reading": "ワイド",
+        "meaning": "sự lệch lạc"
+      },
+      {
+        "example": "磁歪",
+        "reading": "ジワイ",
+        "meaning": "sự co từ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "歪む",
+        "reading": "ゆがむ",
+        "meaning": "làm cong, làm cong, làm méo mó, làm sai lệch, làm sai lệch (về một quan điểm, tâm trí, v.v.), bị bóp méo, bị xuyên tạc"
+      },
+      {
+        "example": "歪",
+        "reading": "いびつ",
+        "meaning": "méo mó, cong queo, không đều, cong vênh, hình bầu dục, hình elip, hình tròn, đồ đựng cơm bằng gỗ, đồng tiền hình bầu dục"
+      },
+      {
+        "example": "歪む",
+        "reading": "ひずむ",
+        "meaning": "làm cong vênh, trở nên cong vênh, trở nên méo mó, trở nên cong vẹo"
+      },
+      {
+        "example": "歪む",
+        "reading": "ゆがむ",
+        "meaning": "làm cong, làm cong, làm méo mó, làm sai lệch, làm sai lệch (về một quan điểm, tâm trí, v.v.), bị bóp méo, bị xuyên tạc"
+      }
+    ],
+    "radical": {
+      "symbol": "止",
+      "meaning": "dừng lại"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "丶",
+      "止",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27498_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06b6a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6b6a.gif",
+    "uri": "https://jisho.org/search/%E6%AD%AA%23kanji"
+  }
+}

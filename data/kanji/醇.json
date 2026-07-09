@@ -1,0 +1,56 @@
+{
+  "id": "醇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "醇",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "rượu sake thuần khiết, sự thuần khiết, tình cảm",
+    "kunyomi": [
+      "もっぱら",
+      "こい",
+      "あつい"
+    ],
+    "onyomi": [
+      "ジュン",
+      "シュン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "醇",
+        "reading": "ジュン",
+        "meaning": "rượu sake nguyên chất, rượu sake đậm đà, nguyên chất"
+      },
+      {
+        "example": "純正",
+        "reading": "ジュンセイ",
+        "meaning": "thuần túy, chân thực, thực tế, thuần túy (của một chủ đề nghiên cứu; trái ngược với ứng dụng, thực tế, v.v.), chính hãng (bộ phận, phụ kiện, v.v.), chính thức, bên thứ nhất"
+      },
+      {
+        "example": "木糖醇",
+        "reading": "モクトウジュン",
+        "meaning": "xyloza, đường gỗ"
+      },
+      {
+        "example": "濃醇",
+        "reading": "ノウジュン",
+        "meaning": "đậm đà và mạnh mẽ (đặc biệt là rượu sake), đậm đà với hậu vị đậm đà"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "酉",
+      "meaning": "rượu vang, rượu"
+    },
+    "parts": [
+      "亠",
+      "口",
+      "子",
+      "酉"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37255_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09187.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9187.gif",
+    "uri": "https://jisho.org/search/%E9%86%87%23kanji"
+  }
+}

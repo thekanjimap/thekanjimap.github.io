@@ -1,0 +1,46 @@
+{
+  "id": "啻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "啻",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "không thể so sánh được, chỉ",
+    "kunyomi": [
+      "ただ.ならぬ",
+      "ただ.に"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "徒ならぬ",
+        "reading": "ただならぬ",
+        "meaning": "khác thường, khác thường, khác thường, khác thường, không thể so sánh được, nghiêm trọng, đáng báo động"
+      },
+      {
+        "example": "唯に",
+        "reading": "ただに",
+        "meaning": "chỉ, chỉ, đơn giản là"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "亠",
+      "冖",
+      "口",
+      "巾",
+      "并",
+      "立"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21883_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0557b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/557b.gif",
+    "uri": "https://jisho.org/search/%E5%95%BB%23kanji"
+  }
+}

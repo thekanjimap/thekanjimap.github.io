@@ -1,0 +1,64 @@
+{
+  "id": "戴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "戴",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "newspaperFrequencyRank": "2332",
+    "strokeCount": 17,
+    "meaning": "được trao vương miện, sống dưới (một người cai trị), nhận được",
+    "kunyomi": [
+      "いただ.く"
+    ],
+    "onyomi": [
+      "タイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "戴冠式",
+        "reading": "タイカンシキ",
+        "meaning": "lễ đăng quang, lễ đăng quang"
+      },
+      {
+        "example": "戴冠",
+        "reading": "タイカン",
+        "meaning": "đăng quang, đăng quang"
+      },
+      {
+        "example": "奉戴",
+        "reading": "ホウタイ",
+        "meaning": "chọn (một nhà quý tộc) làm lãnh đạo hoặc chủ tịch của một công ty hoặc tổ chức"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "頂く",
+        "reading": "いただく",
+        "meaning": "nhận, nhận, chấp nhận, lấy, mua, ăn, uống, đội vương miện, đội (trên đầu), có (trên đầu), có (với tư cách là người lãnh đạo), sống dưới (một người cai trị), cài đặt (một tổng thống), để ai đó làm điều gì đó"
+      },
+      {
+        "example": "戴くものは夏も小袖",
+        "reading": "いただくものはなつもこそで",
+        "meaning": "lấy bất cứ thứ gì có được, tham lam, nhận cả ống tay áo lụa độn ngay cả trong mùa hè"
+      }
+    ],
+    "radical": {
+      "symbol": "戈",
+      "meaning": "giáo, kích"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "二",
+      "土",
+      "戈",
+      "田",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25140_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06234.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6234.gif",
+    "uri": "https://jisho.org/search/%E6%88%B4%23kanji"
+  }
+}

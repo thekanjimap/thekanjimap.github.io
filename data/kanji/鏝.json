@@ -1,0 +1,57 @@
+{
+  "id": "鏝",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鏝",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "máy hàn, máy xoa nền, máy uốn tóc, máy ép phẳng",
+    "kunyomi": [
+      "こて"
+    ],
+    "onyomi": [
+      "マン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "泥鏝",
+        "reading": "デイマン",
+        "meaning": "bay trát"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鏝",
+        "reading": "こて",
+        "meaning": "máy là phẳng, máy hàn, máy uốn tóc, kẹp uốn tóc, bay"
+      },
+      {
+        "example": "鏝絵",
+        "reading": "こてえ",
+        "meaning": "chạm khắc phù điêu bằng thạch cao"
+      },
+      {
+        "example": "園芸用こて",
+        "reading": "えんげいようこて",
+        "meaning": "xẻng nhỏ hoặc bay dùng trong làm vườn"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "kim loại, vàng"
+    },
+    "parts": [
+      "又",
+      "日",
+      "買",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37853_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/093dd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/93dd.gif",
+    "uri": "https://jisho.org/search/%E9%8F%9D%23kanji"
+  }
+}

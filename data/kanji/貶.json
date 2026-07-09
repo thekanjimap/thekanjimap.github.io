@@ -1,0 +1,63 @@
+{
+  "id": "貶",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "貶",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "hạ thấp, hạ thấp, hạ thấp, hạ thấp",
+    "kunyomi": [
+      "けな.す",
+      "おとし.める",
+      "おと.す"
+    ],
+    "onyomi": [
+      "ヘン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "貶下",
+        "reading": "ヘンゲ",
+        "meaning": "khinh miệt, khinh thường, khinh thường"
+      },
+      {
+        "example": "褒貶",
+        "reading": "ホウヘン",
+        "meaning": "khen và chê, chê"
+      },
+      {
+        "example": "毀誉褒貶",
+        "reading": "キヨホウヘン",
+        "meaning": "khen ngợi và chỉ trích, chỉ trích công khai"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "貶す",
+        "reading": "けなす",
+        "meaning": "nói xấu, chê bai"
+      },
+      {
+        "example": "貶める",
+        "reading": "おとしめる",
+        "meaning": "tỏ ra khinh thường, coi thường, đánh giá thấp, làm sa sút, làm suy sụp"
+      }
+    ],
+    "radical": {
+      "symbol": "貝",
+      "meaning": "vỏ"
+    },
+    "parts": [
+      "ノ",
+      "ハ",
+      "乙",
+      "亠",
+      "目",
+      "貝"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36022_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cb6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cb6.gif",
+    "uri": "https://jisho.org/search/%E8%B2%B6%23kanji"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "杉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "杉",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1095",
+    "strokeCount": 7,
+    "meaning": "cây tuyết tùng, mật mã",
+    "kunyomi": [
+      "すぎ"
+    ],
+    "onyomi": [
+      "サン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "老杉",
+        "reading": "ロウサン",
+        "meaning": "mật mã cũ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "杉",
+        "reading": "すぎ",
+        "meaning": "Cây tuyết tùng Nhật Bản (Cryptomeria japonica)"
+      },
+      {
+        "example": "杉戸",
+        "reading": "すぎど",
+        "meaning": "cửa làm bằng gỗ tuyết tùng"
+      },
+      {
+        "example": "台杉",
+        "reading": "だいすぎ",
+        "meaning": "kỹ thuật giống như coppicing được sử dụng với cây tuyết tùng"
+      },
+      {
+        "example": "神代杉",
+        "reading": "じんだいすぎ",
+        "meaning": "gỗ tuyết tùng Nhật Bản được hóa gỗ, gỗ tuyết tùng Nhật Bản được hóa gỗ"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "彡",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26441_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06749.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6749.gif",
+    "uri": "https://jisho.org/search/%E6%9D%89%23kanji"
+  }
+}

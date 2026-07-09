@@ -1,0 +1,83 @@
+{
+  "id": "闇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "闇",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "newspaperFrequencyRank": "1969",
+    "strokeCount": 17,
+    "meaning": "trở nên tối tăm, u ám, rối loạn",
+    "kunyomi": [
+      "やみ",
+      "くら.い"
+    ],
+    "onyomi": [
+      "アン",
+      "オン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "暗黒",
+        "reading": "アンコク",
+        "meaning": "bóng tối"
+      },
+      {
+        "example": "暗夜",
+        "reading": "アンヤ",
+        "meaning": "đêm tối"
+      },
+      {
+        "example": "冥暗",
+        "reading": "メイアン",
+        "meaning": "sự u ám, bóng râm"
+      },
+      {
+        "example": "幽暗",
+        "reading": "ユウアン",
+        "meaning": "sự u ám, bóng tối, sự tách biệt"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "闇",
+        "reading": "やみ",
+        "meaning": "bóng tối, bóng tối, hoang mang, tuyệt vọng, vô vọng, nơi ẩn náu, bí mật, sự lãng quên, chợ đen, buôn bán mờ ám, giao dịch ngầm, các kênh bất hợp pháp"
+      },
+      {
+        "example": "闇垢",
+        "reading": "やみアカ",
+        "meaning": "tài khoản thay thế (trên mạng xã hội, v.v.), tài khoản ẩn, tài khoản phụ"
+      },
+      {
+        "example": "頻闇",
+        "reading": "しきやみ",
+        "meaning": "bóng tối hoàn toàn"
+      },
+      {
+        "example": "暁闇",
+        "reading": "あかつきやみ",
+        "meaning": "bình minh không trăng"
+      },
+      {
+        "example": "暗い",
+        "reading": "くらい",
+        "meaning": "tối tăm, ảm đạm, u ám, chán nản, chán nản, xuống bãi rác, tối tăm (tâm trạng), tối tăm (về màu sắc), buồn tẻ, u ám, tối tăm (ví dụ như quá khứ), nghi ngờ, không chắc chắn (để thành công), vô vọng, không hứa hẹn, xa lạ (với), ngu dốt (về)"
+      }
+    ],
+    "radical": {
+      "symbol": "門",
+      "meaning": "cánh cổng"
+    },
+    "parts": [
+      "日",
+      "立",
+      "門",
+      "音"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38343_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095c7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95c7.gif",
+    "uri": "https://jisho.org/search/%E9%97%87%23kanji"
+  }
+}

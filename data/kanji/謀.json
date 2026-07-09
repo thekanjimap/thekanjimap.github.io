@@ -1,0 +1,92 @@
+{
+  "id": "謀",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "謀",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1370",
+    "strokeCount": 16,
+    "meaning": "âm mưu, lừa gạt, áp đặt, lập kế hoạch, nghĩ ra, âm mưu, có ý định, lừa dối",
+    "kunyomi": [
+      "はか.る",
+      "たばか.る",
+      "はかりごと"
+    ],
+    "onyomi": [
+      "ボウ",
+      "ム"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "謀反",
+        "reading": "ムホン",
+        "meaning": "nổi dậy, nổi dậy, nổi loạn, phản quốc"
+      },
+      {
+        "example": "謀議",
+        "reading": "ボウギ",
+        "meaning": "âm mưu, âm mưu, hội nghị"
+      },
+      {
+        "example": "無謀",
+        "reading": "ムボウ",
+        "meaning": "liều lĩnh, thiếu suy nghĩ, liều lĩnh, thiếu sáng suốt, bốc đồng, điên rồ (ví dụ: âm mưu)"
+      },
+      {
+        "example": "共謀",
+        "reading": "キョウボウ",
+        "meaning": "âm mưu, sự thông đồng, sự đồng lõa"
+      },
+      {
+        "example": "謀反",
+        "reading": "ムホン",
+        "meaning": "nổi dậy, nổi dậy, nổi loạn, phản quốc"
+      },
+      {
+        "example": "謀反",
+        "reading": "ムヘン",
+        "meaning": "âm mưu lật đổ chính quyền (bằng cách ám sát hoàng đế)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "図る",
+        "reading": "はかる",
+        "meaning": "lên kế hoạch, toan tính, toan tính, âm mưu, âm mưu, âm mưu, nhằm mục đích, phấn đấu, làm việc hướng tới, tìm kiếm, lừa dối, lừa gạt, tham gia"
+      },
+      {
+        "example": "謀る",
+        "reading": "たばかる",
+        "meaning": "vạch ra một kế hoạch lừa dối, lập kế hoạch, âm mưu, lừa gạt, lừa dối, nghĩ ra một kế hoạch, nghĩ ra một kế hoạch, bàn bạc, hội ý"
+      },
+      {
+        "example": "謀",
+        "reading": "はかりごと",
+        "meaning": "kế hoạch, mưu kế, mưu kế, âm mưu, thủ đoạn"
+      },
+      {
+        "example": "謀は密なるを良しとす",
+        "reading": "はかりごとはみつなるをよしとす",
+        "meaning": "chiến lược không thể thành công trừ khi chúng được giữ bí mật"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "lời nói"
+    },
+    "parts": [
+      "木",
+      "甘",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35584_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b00.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b00.gif",
+    "uri": "https://jisho.org/search/%E8%AC%80%23kanji"
+  }
+}

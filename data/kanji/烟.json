@@ -1,0 +1,83 @@
+{
+  "id": "烟",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "烟",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "khói",
+    "kunyomi": [
+      "けむ.る",
+      "けむり",
+      "けむ.い"
+    ],
+    "onyomi": [
+      "エン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "煙突",
+        "reading": "エントツ",
+        "meaning": "ống khói, ống khói, phễu (của tàu thủy), ống khói, chở khách mà không bật đồng hồ tính thuế"
+      },
+      {
+        "example": "煙霞",
+        "reading": "エンカ",
+        "meaning": "khói và sương mù, sương mù (bao bọc), quang cảnh thiên nhiên, cảnh quan núi và thung lũng"
+      },
+      {
+        "example": "炊煙",
+        "reading": "スイエン",
+        "meaning": "khói từ bếp nấu, khói từ bếp nấu"
+      },
+      {
+        "example": "水煙",
+        "reading": "ミズケムリ",
+        "meaning": "phun sương trên mặt nước, phun nước, suien, bốn tấm kim loại trang trí ghép vuông góc tạo thành một phần của mái chùa"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "煙る",
+        "reading": "けむる",
+        "meaning": "hút thuốc (ví dụ: lửa), khói cuồn cuộn, âm ỉ, âm ỉ, mờ mịt, trông lờ mờ"
+      },
+      {
+        "example": "煙",
+        "reading": "けむり",
+        "meaning": "khói, khói"
+      },
+      {
+        "example": "煙に巻く",
+        "reading": "けむにまく",
+        "meaning": "làm bối rối (ai đó), làm bối rối, làm hoang mang, làm bối rối, ném ra một màn khói, bao quanh bởi khói"
+      },
+      {
+        "example": "水煙",
+        "reading": "みずけむり",
+        "meaning": "phun sương trên mặt nước, phun nước, suien, bốn tấm kim loại trang trí ghép vuông góc tạo thành một phần của mái chùa"
+      },
+      {
+        "example": "煙い",
+        "reading": "けむい",
+        "meaning": "có khói"
+      }
+    ],
+    "radical": {
+      "symbol": "火",
+      "forms": [
+        "灬"
+      ],
+      "meaning": "ngọn lửa"
+    },
+    "parts": [
+      "囗",
+      "大",
+      "火"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28895_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/070df.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/70df.gif",
+    "uri": "https://jisho.org/search/%E7%83%9F%23kanji"
+  }
+}

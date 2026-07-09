@@ -1,0 +1,55 @@
+{
+  "id": "又",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "又",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1874",
+    "strokeCount": 2,
+    "meaning": "hoặc một lần nữa, hơn nữa, mặt khác",
+    "kunyomi": [
+      "また",
+      "また-",
+      "また.の-"
+    ],
+    "onyomi": [
+      "ユウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "又",
+        "reading": "また",
+        "meaning": "một lần nữa, một lần nữa, một lần nữa, một lần khác, một thời điểm khác, cũng, quá, cũng, tương tự như vậy, mặt khác, trong khi, và, ngoài ra, bên cạnh đó, hơn nữa, hơn nữa, hoặc, nếu không, thực sự, làm thế nào, (cái gì, tại sao) trên trái đất, một thời gian nào đó (trong tương lai), gián tiếp"
+      },
+      {
+        "example": "又は",
+        "reading": "または",
+        "meaning": "hoặc, hoặc ... hoặc ..."
+      },
+      {
+        "example": "尚又",
+        "reading": "なおまた",
+        "meaning": "ngoài ra, hơn nữa, hơn nữa, hơn nữa, ngoài ra (với điều đó)"
+      },
+      {
+        "example": "猫又",
+        "reading": "ねこまた",
+        "meaning": "nekomata, yêu quái mèo đuôi nĩa, quái thú khổng lồ sống trên núi"
+      }
+    ],
+    "radical": {
+      "symbol": "又",
+      "meaning": "tay phải"
+    },
+    "parts": [
+      "又"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21448_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053c8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53c8.gif",
+    "uri": "https://jisho.org/search/%E5%8F%88%23kanji"
+  }
+}

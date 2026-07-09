@@ -1,0 +1,64 @@
+{
+  "id": "尻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "尻",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "newspaperFrequencyRank": "1692",
+    "strokeCount": 5,
+    "meaning": "mông, hông, mông, phía sau",
+    "kunyomi": [
+      "しり"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "後輪",
+        "reading": "コウリン",
+        "meaning": "bánh sau, can"
+      },
+      {
+        "example": "尻座",
+        "reading": "コウザ",
+        "meaning": "cúi mình"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "尻",
+        "reading": "しり",
+        "meaning": "mông, phía sau, mông, đáy, hông, mặt dưới, đáy, vị trí cuối cùng, kết thúc, hậu quả"
+      },
+      {
+        "example": "尻尾",
+        "reading": "しっぽ",
+        "meaning": "đuôi (động vật), đầu đuôi, chóp"
+      },
+      {
+        "example": "重い尻",
+        "reading": "おもいしり",
+        "meaning": "đồ lười biếng, (ai đó) hành động chậm chạp"
+      },
+      {
+        "example": "道の後",
+        "reading": "みちのしり",
+        "meaning": "một phần của tỉnh xa thủ đô"
+      }
+    ],
+    "radical": {
+      "symbol": "尸",
+      "meaning": "xác chết"
+    },
+    "parts": [
+      "九",
+      "尸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23611_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c3b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c3b.gif",
+    "uri": "https://jisho.org/search/%E5%B0%BB%23kanji"
+  }
+}

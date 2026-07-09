@@ -1,0 +1,55 @@
+{
+  "id": "恤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "恤",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "an ủi, thương xót",
+    "kunyomi": [
+      "めぐ.む",
+      "あわ.れむ",
+      "うれ.える"
+    ],
+    "onyomi": [
+      "ジュツ",
+      "シュツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "愛恤",
+        "reading": "アイジュツ",
+        "meaning": "giúp đỡ ai đó vì lòng thương hại"
+      },
+      {
+        "example": "救恤",
+        "reading": "キュウジュツ",
+        "meaning": "cứu trợ, viện trợ, cứu trợ, cứu hộ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "恵む",
+        "reading": "めぐむ",
+        "meaning": "ban phước, tỏ lòng thương xót, cho (tiền, v.v.)"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "忙",
+      "皿",
+      "血"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24676_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06064.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6064.gif",
+    "uri": "https://jisho.org/search/%E6%81%A4%23kanji"
+  }
+}

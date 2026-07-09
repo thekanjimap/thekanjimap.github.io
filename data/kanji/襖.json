@@ -1,0 +1,59 @@
+{
+  "id": "襖",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "襖",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "cửa trượt mờ đục",
+    "kunyomi": [
+      "ふすま",
+      "あお"
+    ],
+    "onyomi": [
+      "オウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "素袍",
+        "reading": "スオウ",
+        "meaning": "suō (trang phục nghi lễ của samurai tầng lớp thấp hơn)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "襖",
+        "reading": "ふすま",
+        "meaning": "fusuma, màn trượt Nhật Bản"
+      },
+      {
+        "example": "襖絵",
+        "reading": "ふすまえ",
+        "meaning": "hình ảnh được vẽ hoặc vẽ trên fusuma"
+      },
+      {
+        "example": "襖",
+        "reading": "あお",
+        "meaning": "trang phục hàng ngày của đàn ông ở Nhật Bản cổ đại"
+      }
+    ],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "quần áo"
+    },
+    "parts": [
+      "冂",
+      "初",
+      "大",
+      "米",
+      "釆"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35158_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08956.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8956.gif",
+    "uri": "https://jisho.org/search/%E8%A5%96%23kanji"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "柾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "柾",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 9,
+    "meaning": "hạt thẳng, cây trục, (kokuji)",
+    "kunyomi": [
+      "まさ",
+      "まさめ",
+      "まさき"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "正木",
+        "reading": "まさき",
+        "meaning": "Cây trục Nhật Bản (Euonymus japonicus)"
+      },
+      {
+        "example": "真拆の葛",
+        "reading": "まさきのかずら",
+        "meaning": "Hoa nhài châu Á (Trachelospermum asiaticum), hoa nhài châu Á"
+      },
+      {
+        "example": "柾目",
+        "reading": "まさめ",
+        "meaning": "hạt thẳng, hạt xẻ tư"
+      },
+      {
+        "example": "正木",
+        "reading": "まさき",
+        "meaning": "Cây trục Nhật Bản (Euonymus japonicus)"
+      },
+      {
+        "example": "真拆の葛",
+        "reading": "まさきのかずら",
+        "meaning": "Hoa nhài châu Á (Trachelospermum asiaticum), hoa nhài châu Á"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "一",
+      "木",
+      "止"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26622_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067fe.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67fe.gif",
+    "uri": "https://jisho.org/search/%E6%9F%BE%23kanji"
+  }
+}

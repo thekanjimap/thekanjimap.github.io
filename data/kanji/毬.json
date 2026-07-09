@@ -1,0 +1,77 @@
+{
+  "id": "毬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "毬",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2431",
+    "strokeCount": 11,
+    "meaning": "gờ, quả bóng",
+    "kunyomi": [
+      "いが",
+      "まり"
+    ],
+    "onyomi": [
+      "キュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "球果",
+        "reading": "キュウカ",
+        "meaning": "hình nón, strobilus, strobilus"
+      },
+      {
+        "example": "打毬",
+        "reading": "ダキュウ",
+        "meaning": "dakyū, trò chơi giống như polo"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "毬",
+        "reading": "いが",
+        "meaning": "burr (ví dụ hạt dẻ), bur, cupule, case"
+      },
+      {
+        "example": "毬栗",
+        "reading": "いがぐり",
+        "meaning": "hạt dẻ trong burr của nó"
+      },
+      {
+        "example": "鞠",
+        "reading": "まり",
+        "meaning": "bóng (dành cho thể thao, trò chơi, v.v.), kemari, loại bóng đá được chơi bởi các cận thần ở Nhật Bản cổ đại"
+      },
+      {
+        "example": "毬投げ",
+        "reading": "まりなげ",
+        "meaning": "chơi đuổi bắt"
+      },
+      {
+        "example": "手毬",
+        "reading": "てまり",
+        "meaning": "trò chơi bóng ném truyền thống của Nhật Bản"
+      },
+      {
+        "example": "大手毬",
+        "reading": "おおでまり",
+        "meaning": "Quả cầu tuyết Nhật Bản, Viburnum plicatum"
+      }
+    ],
+    "radical": {
+      "symbol": "毛",
+      "meaning": "lông, tóc"
+    },
+    "parts": [
+      "丶",
+      "亠",
+      "毛",
+      "水"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27628_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bec.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bec.gif",
+    "uri": "https://jisho.org/search/%E6%AF%AC%23kanji"
+  }
+}

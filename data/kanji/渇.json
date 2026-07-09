@@ -1,0 +1,66 @@
+{
+  "id": "渇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "渇",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1944",
+    "strokeCount": 11,
+    "meaning": "khát, khô héo, khô nẻ",
+    "kunyomi": [
+      "かわ.く"
+    ],
+    "onyomi": [
+      "カツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "渇",
+        "reading": "カツ",
+        "meaning": "khát nước"
+      },
+      {
+        "example": "渇望",
+        "reading": "カツボウ",
+        "meaning": "thèm, thèm, khát"
+      },
+      {
+        "example": "枯渇",
+        "reading": "コカツ",
+        "meaning": "cạn kiệt, cạn kiệt, cạn kiệt, kiệt sức, kiệt sức"
+      },
+      {
+        "example": "口渇",
+        "reading": "コウカツ",
+        "meaning": "khát nước, khô miệng, -dipsia"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "渇く",
+        "reading": "かわく",
+        "meaning": "cảm thấy khát, cảm thấy khát, khao khát, khao khát"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "勹",
+      "匕",
+      "日",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28167_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e07.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e07.gif",
+    "uri": "https://jisho.org/search/%E6%B8%87%23kanji"
+  }
+}

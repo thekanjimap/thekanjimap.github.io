@@ -1,0 +1,71 @@
+{
+  "id": "溺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "溺",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "strokeCount": 13,
+    "meaning": "chìm đắm, thưởng thức",
+    "kunyomi": [
+      "いばり",
+      "おぼ.れる"
+    ],
+    "onyomi": [
+      "デキ",
+      "ジョウ",
+      "ニョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "溺愛",
+        "reading": "デキアイ",
+        "meaning": "sự mê đắm, sự tôn thờ, tình yêu mù quáng, sự yêu mến (đối với một đứa trẻ)"
+      },
+      {
+        "example": "溺死",
+        "reading": "デキシ",
+        "meaning": "tử vong do đuối nước"
+      },
+      {
+        "example": "惑溺",
+        "reading": "ワクデキ",
+        "meaning": "sự mê đắm, sự nghiện ngập, sự mê đắm"
+      },
+      {
+        "example": "沈溺",
+        "reading": "チンデキ",
+        "meaning": "bị dìm trong nước, bị chết đuối, bị mê đắm, bị choáng váng, bị mù quáng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "溺れる",
+        "reading": "おぼれる",
+        "meaning": "vật lộn trong nước, chìm xuống dưới mặt nước và không thể thở, (gần) chết đuối, say mê, mất đầu vì một cái gì đó, nghiện, đắm mình trong nước"
+      },
+      {
+        "example": "溺れる者は藁をも掴む",
+        "reading": "おぼれるものはわらをもつかむ",
+        "meaning": "người sắp chết đuối sẽ bám chặt vào cọng rơm"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "冫",
+      "弓",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28346_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06eba.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6eba.gif",
+    "uri": "https://jisho.org/search/%E6%BA%BA%23kanji"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "騎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "騎",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1696",
+    "strokeCount": 18,
+    "meaning": "người cưỡi ngựa, cưỡi ngựa, quầy dành cho người cưỡi ngựa",
+    "kunyomi": [],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "騎",
+        "reading": "キ",
+        "meaning": "quầy cho kỵ sĩ"
+      },
+      {
+        "example": "騎士",
+        "reading": "キシ",
+        "meaning": "(thời trung cổ) hiệp sĩ, samurai cưỡi ngựa"
+      },
+      {
+        "example": "一騎",
+        "reading": "イッキ",
+        "meaning": "một kỵ sĩ"
+      },
+      {
+        "example": "与力",
+        "reading": "ヨリキ",
+        "meaning": "trung sĩ cảnh sát (thời Edo), samurai cấp thấp hỗ trợ daimyo hoặc chỉ huy quân sự nổi tiếng (thời Muromachi)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "馬",
+      "meaning": "con ngựa"
+    },
+    "parts": [
+      "一",
+      "亅",
+      "口",
+      "大",
+      "杰",
+      "馬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39438_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09a0e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9a0e.gif",
+    "uri": "https://jisho.org/search/%E9%A8%8E%23kanji"
+  }
+}

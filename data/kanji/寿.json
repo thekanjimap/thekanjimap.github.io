@@ -1,0 +1,105 @@
+{
+  "id": "寿",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "寿",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "newspaperFrequencyRank": "1245",
+    "strokeCount": 7,
+    "meaning": "tuổi thọ, xin chúc mừng, cuộc sống tự nhiên của một người",
+    "kunyomi": [
+      "ことぶき",
+      "ことぶ.く",
+      "ことほ.ぐ"
+    ],
+    "onyomi": [
+      "ジュ",
+      "ス",
+      "シュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "寿",
+        "reading": "ジュ",
+        "meaning": "tuổi, năm, tuổi thọ, trường thọ, chúc mừng, lễ kỷ niệm, quà chúc mừng"
+      },
+      {
+        "example": "寿命",
+        "reading": "ジュミョウ",
+        "meaning": "tuổi thọ, tuổi thọ, tuổi thọ, tuổi thọ (của pin, bóng đèn, v.v.), tuổi thọ sử dụng, hết tuổi thọ (hữu ích) của một vật thể"
+      },
+      {
+        "example": "喜寿",
+        "reading": "キジュ",
+        "meaning": "sinh nhật lần thứ 77"
+      },
+      {
+        "example": "米寿",
+        "reading": "ベイジュ",
+        "meaning": "sinh nhật lần thứ 88"
+      },
+      {
+        "example": "寿司",
+        "reading": "スシ",
+        "meaning": "sushi, các món ăn được làm từ cơm dấm kết hợp với cá, rau, trứng, v.v."
+      },
+      {
+        "example": "すき焼き",
+        "reading": "スキヤキ",
+        "meaning": "sukiyaki, thịt bò lát mỏng, nấu với nhiều loại rau khác nhau trên chảo gang để bàn"
+      },
+      {
+        "example": "恵比寿",
+        "reading": "エビス",
+        "meaning": "Ebisu, thần đánh cá và thương mại"
+      },
+      {
+        "example": "十日戎",
+        "reading": "トオカエビス",
+        "meaning": "Tōka Ebisu, lễ hội được tổ chức vào ngày 10 tháng 1 để tôn vinh Ebisu, vị thần đánh cá và thương mại"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "寿",
+        "reading": "ことぶき",
+        "meaning": "chúc mừng, chúc mừng, lời chúc tốt đẹp nhất, trường thọ, trường thọ"
+      },
+      {
+        "example": "寿教室",
+        "reading": "ことぶききょうしつ",
+        "meaning": "khóa học văn hóa cho người già"
+      },
+      {
+        "example": "新年の寿",
+        "reading": "しんねんのことぶき",
+        "meaning": "Lời chúc mừng năm mới"
+      },
+      {
+        "example": "寿く",
+        "reading": "ことぶく",
+        "meaning": "để chúc mừng, chúc ai đó tốt lành"
+      },
+      {
+        "example": "寿ぐ",
+        "reading": "ことほぐ",
+        "meaning": "chúc mừng, chúc (ai đó) tốt lành, ăn mừng"
+      }
+    ],
+    "radical": {
+      "symbol": "寸",
+      "meaning": "ngón tay cái, inch"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "二",
+      "寸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23551_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bff.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bff.gif",
+    "uri": "https://jisho.org/search/%E5%AF%BF%23kanji"
+  }
+}

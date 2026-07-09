@@ -1,0 +1,44 @@
+{
+  "id": "儚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "儚",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "thoáng qua, hay thay đổi",
+    "kunyomi": [
+      "はかな.い",
+      "くら.い"
+    ],
+    "onyomi": [
+      "ボウ",
+      "モウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "儚い",
+        "reading": "はかない",
+        "meaning": "thoáng qua, thoáng qua, ngắn ngủi, nhất thời, phù du, hay thay đổi, vô ích, trống rỗng (giấc mơ, v.v.), chỉ (hy vọng), mờ nhạt (khả năng)"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "đàn ông, con người"
+    },
+    "parts": [
+      "冖",
+      "化",
+      "夕",
+      "艾",
+      "買"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20762_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0511a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/511a.gif",
+    "uri": "https://jisho.org/search/%E5%84%9A%23kanji"
+  }
+}

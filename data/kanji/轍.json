@@ -1,0 +1,63 @@
+{
+  "id": "轍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "轍",
+    "found": true,
+    "newspaperFrequencyRank": "2484",
+    "strokeCount": 19,
+    "meaning": "vết lún, vết bánh xe",
+    "kunyomi": [
+      "わだちい",
+      "わだち"
+    ],
+    "onyomi": [
+      "テツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "轍",
+        "reading": "ワダチ",
+        "meaning": "Rãnh, vết bánh xe, cày xới, rãnh, bước chân, đánh thức"
+      },
+      {
+        "example": "轍を踏む",
+        "reading": "テツヲフム",
+        "meaning": "lặp lại sai lầm của ai đó, phạm sai lầm tương tự như người tiền nhiệm, đi theo vết xe đổ (của chiếc xe trước đó)"
+      },
+      {
+        "example": "前轍",
+        "reading": "ゼンテツ",
+        "meaning": "vết bánh xe do xe cộ đi qua để lại"
+      },
+      {
+        "example": "転轍",
+        "reading": "テンテツ",
+        "meaning": "chuyển mạch hoặc chuyển hướng (của toa tàu)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "轍",
+        "reading": "わだち",
+        "meaning": "Rãnh, vết bánh xe, cày xới, rãnh, bước chân, đánh thức"
+      }
+    ],
+    "radical": {
+      "symbol": "車",
+      "meaning": "xe đẩy, xe hơi"
+    },
+    "parts": [
+      "乞",
+      "亠",
+      "厶",
+      "攵",
+      "月",
+      "車"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36685_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f4d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f4d.gif",
+    "uri": "https://jisho.org/search/%E8%BD%8D%23kanji"
+  }
+}

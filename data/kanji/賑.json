@@ -1,0 +1,68 @@
+{
+  "id": "賑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "賑",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "hưng thịnh, nhộn nhịp, thịnh vượng",
+    "kunyomi": [
+      "にぎ.わい",
+      "にぎ.やか",
+      "にぎ.わす",
+      "にぎ.わう"
+    ],
+    "onyomi": [
+      "シン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "殷賑",
+        "reading": "インシン",
+        "meaning": "sự thịnh vượng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "賑わい",
+        "reading": "にぎわい",
+        "meaning": "sự thịnh vượng, nhộn nhịp, hoạt động, đám đông, cử tri đi bỏ phiếu"
+      },
+      {
+        "example": "賑やか",
+        "reading": "にぎやか",
+        "meaning": "nhộn nhịp, bận rộn, đông đúc, sôi động, thịnh vượng, thịnh vượng, sôi động (bữa tiệc, giọng nói, v.v.), ồn ào, ồn ào, vui vẻ, vui vẻ"
+      },
+      {
+        "example": "賑やかさ",
+        "reading": "にぎやかさ",
+        "meaning": "kinh doanh, sự sống động"
+      },
+      {
+        "example": "賑わす",
+        "reading": "にぎわす",
+        "meaning": "làm sôi động, làm sôi động, gây xôn xao (ví dụ: báo chí), gây chú ý (trang nhất, tiêu đề, v.v.), làm thịnh vượng"
+      },
+      {
+        "example": "賑わう",
+        "reading": "にぎわう",
+        "meaning": "đông đúc, nhộn nhịp, thịnh vượng, hưng thịnh, làm ăn phát đạt"
+      }
+    ],
+    "radical": {
+      "symbol": "貝",
+      "meaning": "vỏ"
+    },
+    "parts": [
+      "ハ",
+      "目",
+      "衣",
+      "貝",
+      "辰"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36049_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cd1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cd1.gif",
+    "uri": "https://jisho.org/search/%E8%B3%91%23kanji"
+  }
+}

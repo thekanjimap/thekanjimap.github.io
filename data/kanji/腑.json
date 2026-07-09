@@ -1,0 +1,56 @@
+{
+  "id": "腑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "腑",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "nội tạng, ruột",
+    "kunyomi": [
+      "はらわた"
+    ],
+    "onyomi": [
+      "フ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "腑",
+        "reading": "フ",
+        "meaning": "nội tạng, nội tạng, ruột"
+      },
+      {
+        "example": "不甲斐ない",
+        "reading": "フガイナイ",
+        "meaning": "vô tích sự, nhu nhược, nhu nhược, thiếu tinh thần, thiếu kiên nhẫn, dũng cảm, hèn nhát, thuần hóa, rụt rè, thảm hại, đáng thương, đáng thất vọng, đáng xấu hổ, vô dụng, vô giá trị"
+      },
+      {
+        "example": "肺腑",
+        "reading": "ハイフ",
+        "meaning": "phổi, đáy tim, điểm quan trọng"
+      },
+      {
+        "example": "臓腑",
+        "reading": "ゾウフ",
+        "meaning": "ruột"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "thịt"
+    },
+    "parts": [
+      "化",
+      "寸",
+      "广",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33105_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08151.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8151.gif",
+    "uri": "https://jisho.org/search/%E8%85%91%23kanji"
+  }
+}

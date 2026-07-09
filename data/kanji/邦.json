@@ -1,0 +1,64 @@
+{
+  "id": "邦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "邦",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "654",
+    "strokeCount": 7,
+    "meaning": "quê hương, đất nước, Nhật Bản",
+    "kunyomi": [
+      "くに"
+    ],
+    "onyomi": [
+      "ホウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "邦楽",
+        "reading": "ホウガク",
+        "meaning": "Âm nhạc Nhật Bản (đặc biệt là âm nhạc truyền thống Nhật Bản)"
+      },
+      {
+        "example": "邦画",
+        "reading": "ホウガ",
+        "meaning": "Phim Nhật, tranh Nhật"
+      },
+      {
+        "example": "東邦",
+        "reading": "トウホウ",
+        "meaning": "Đất nước phương đông, phương đông"
+      },
+      {
+        "example": "友邦",
+        "reading": "ユウホウ",
+        "meaning": "đất nước thân thiện"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "国",
+        "reading": "くに",
+        "meaning": "đất nước, tiểu bang, khu vực, chính quyền quốc gia, chính quyền trung ương, quê hương (tức là quê hương, quê hương), tỉnh (của Nhật Bản), đất đai, trái đất"
+      }
+    ],
+    "radical": {
+      "symbol": "邑",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "thị trấn (阝 bên phải)"
+    },
+    "parts": [
+      "ノ",
+      "二",
+      "邦"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37030_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/090a6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/90a6.gif",
+    "uri": "https://jisho.org/search/%E9%82%A6%23kanji"
+  }
+}

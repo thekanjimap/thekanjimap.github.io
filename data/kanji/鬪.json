@@ -1,0 +1,51 @@
+{
+  "id": "鬪",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鬪",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "chiến đấu",
+    "kunyomi": [
+      "たたか.う",
+      "あらそ.う"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "闘争",
+        "reading": "トウソウ",
+        "meaning": "đấu tranh, chiến đấu, chiến đấu, xung đột, đấu tranh (vì quyền lợi, mức lương cao hơn, v.v.), xung đột, tranh chấp (lao động), đình công"
+      },
+      {
+        "example": "花闘",
+        "reading": "ファトゥ",
+        "meaning": "hwatu, hanafuda Hàn Quốc"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "戦う",
+        "reading": "たたかう",
+        "meaning": "gây chiến (trên), tiến hành chiến tranh (chống lại), đi chiến tranh (với), chiến đấu (với), chiến đấu (chống lại), cạnh tranh (chống lại), đấu tranh (chống lại nghịch cảnh, v.v.), chiến đấu, tranh đấu, chống lại"
+      }
+    ],
+    "radical": {
+      "symbol": "鬥",
+      "meaning": "chiến đấu"
+    },
+    "parts": [
+      "口",
+      "寸",
+      "并",
+      "豆",
+      "鬥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39722_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b2a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b2a.gif",
+    "uri": "https://jisho.org/search/%E9%AC%AA%23kanji"
+  }
+}

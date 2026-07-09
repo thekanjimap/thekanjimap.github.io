@@ -1,0 +1,45 @@
+{
+  "id": "尸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "尸",
+    "found": true,
+    "strokeCount": 3,
+    "meaning": "thi thể, hài cốt, cờ cấp tiến (số 44)",
+    "kunyomi": [
+      "かたしろ"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "屍",
+        "reading": "シカバネ",
+        "meaning": "xác chết, kanji \"xác chết\" gốc"
+      },
+      {
+        "example": "尸位",
+        "reading": "シイ",
+        "meaning": "bỏ bê nhiệm vụ của một văn phòng trong khi nhận lương"
+      },
+      {
+        "example": "三尸",
+        "reading": "サンシ",
+        "meaning": "ba con sâu (trong Đạo giáo), những con sâu sống trong ruột con người và vào đêm trước ngày thứ 57 của chu kỳ sáu mươi tuổi, bay lên thiên đàng trong khi một người đang ngủ để báo cáo về những việc làm sai trái của một người"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "尸",
+      "meaning": "xác chết"
+    },
+    "parts": [
+      "尸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23608_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c38.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c38.gif",
+    "uri": "https://jisho.org/search/%E5%B0%B8%23kanji"
+  }
+}

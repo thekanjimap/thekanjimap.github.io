@@ -1,0 +1,79 @@
+{
+  "id": "蝗",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蝗",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "châu chấu",
+    "kunyomi": [
+      "いなご",
+      "ばった"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "稲子",
+        "reading": "イナゴ",
+        "meaning": "châu chấu lúa (thuộc chi Oxya), châu chấu, châu chấu (thuộc họ Catantopidae)"
+      },
+      {
+        "example": "蝗害",
+        "reading": "コウガイ",
+        "meaning": "châu chấu, châu chấu phá hoại mùa màng"
+      },
+      {
+        "example": "飛蝗",
+        "reading": "ヒコウ",
+        "meaning": "đàn châu chấu, đàn châu chấu, đàn châu chấu"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "稲子",
+        "reading": "いなご",
+        "meaning": "châu chấu lúa (thuộc chi Oxya), châu chấu, châu chấu (thuộc họ Catantopidae)"
+      },
+      {
+        "example": "いなご豆",
+        "reading": "いなごまめ",
+        "meaning": "carob, đậu châu chấu"
+      },
+      {
+        "example": "羽長蝗",
+        "reading": "はねながいなご",
+        "meaning": "châu chấu lúa"
+      },
+      {
+        "example": "飛蝗",
+        "reading": "ばった",
+        "meaning": "châu chấu, châu chấu (thuộc siêu họ Acridoidea)"
+      },
+      {
+        "example": "【ショウリョウバッタ】",
+        "reading": "Oriental longheaded locust (Acrida cinerea)",
+        "meaning": ""
+      },
+      {
+        "example": "【コメツキバッタ】",
+        "reading": "Oriental longheaded locust (Acrida cinerea), click beetle, skipjack (beetle of family Elateridae), obsequious person",
+        "meaning": ""
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "côn trùng"
+    },
+    "parts": [
+      "王",
+      "白",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34647_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08757.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8757.gif",
+    "uri": "https://jisho.org/search/%E8%9D%97%23kanji"
+  }
+}

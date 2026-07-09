@@ -1,0 +1,81 @@
+{
+  "id": "悔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "悔",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1460",
+    "strokeCount": 9,
+    "meaning": "ăn năn, hối hận",
+    "kunyomi": [
+      "く.いる",
+      "く.やむ",
+      "くや.しい"
+    ],
+    "onyomi": [
+      "カイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "悔恨",
+        "reading": "カイコン",
+        "meaning": "sự ăn năn, sự ăn năn, sự ăn năn, sự ăn năn"
+      },
+      {
+        "example": "悔悟",
+        "reading": "カイゴ",
+        "meaning": "sự ăn năn, ăn năn"
+      },
+      {
+        "example": "痛悔",
+        "reading": "ツウカイ",
+        "meaning": "sự ăn năn, sự ăn năn tột độ, sự ăn năn (trong Công giáo)"
+      },
+      {
+        "example": "亢龍有悔",
+        "reading": "コウリョウユウカイ",
+        "meaning": "con rồng kiêu ngạo sẽ có lý do để ăn năn, kẻ lên đến đỉnh cao sẽ thất bại nếu không thận trọng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "悔いる",
+        "reading": "くいる",
+        "meaning": "hối tiếc"
+      },
+      {
+        "example": "悔やむ",
+        "reading": "くやむ",
+        "meaning": "than khóc, than thở, tiếc nuối, ăn năn, ăn năn"
+      },
+      {
+        "example": "悔しい",
+        "reading": "くやしい",
+        "meaning": "thất vọng (vì thất bại, nhục nhã hoặc bất công), khó chịu, chán nản, thất vọng (cay đắng), cay đắng, bực tức, bực bội, khó chịu, đáng tiếc"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "乞",
+      "人",
+      "忙",
+      "毋",
+      "母"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24724_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06094.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6094.gif",
+    "uri": "https://jisho.org/search/%E6%82%94%23kanji"
+  }
+}

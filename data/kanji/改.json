@@ -1,0 +1,357 @@
+{
+  "id": "改",
+  "kanjialiveData": {
+    "_id": "54317afc791eba5146ee4b43",
+    "_rev": "11-0615cc5fb11fe92ad314e6bbf938b16a",
+    "rad_name_ja": "ぼくづくり",
+    "grade": 4,
+    "hint_group": 1,
+    "kunyomi": "arata, aratameru, aratamaru",
+    "meaning": "cải cách",
+    "kstroke": 7,
+    "examples": [
+      {
+        "japanese": "改革する（かいかくする）",
+        "meaning": {
+          "english": "cải cách"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/arata(meru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/arata(meru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/arata(meru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/arata(meru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "改良する（かいりょうする）",
+        "meaning": {
+          "english": "cải thiện"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/arata(meru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/arata(meru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/arata(meru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/arata(meru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "改正する（かいせいする）",
+        "meaning": {
+          "english": "sửa đổi (ví dụ: luật)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/arata(meru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/arata(meru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/arata(meru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/arata(meru)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "改築する（かいちくする）",
+        "meaning": {
+          "english": "xây dựng lại, xây dựng lại"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/arata(meru)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/arata(meru)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/arata(meru)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/arata(meru)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "改善する（かいぜんする）",
+        "meaning": {
+          "english": "cải thiện"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/arata(meru)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/arata(meru)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/arata(meru)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/arata(meru)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "改行する（かいぎょうする）",
+        "meaning": {
+          "english": "bắt đầu một dòng hoặc đoạn mới"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/arata(meru)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/arata(meru)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/arata(meru)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/arata(meru)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "改札口（かいさつぐち）",
+        "meaning": {
+          "english": "cổng soát vé"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/arata(meru)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/arata(meru)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/arata(meru)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/arata(meru)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "改める（あらためる）",
+        "meaning": {
+          "english": "sửa lại, thay đổi [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/arata(meru)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/arata(meru)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/arata(meru)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/arata(meru)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "改まる（あらたまる）",
+        "meaning": {
+          "english": "trở nên chính thức, được đổi mới [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/arata(meru)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/arata(meru)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/arata(meru)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/arata(meru)_06_i.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "あらた、あらためる、あらたまる",
+    "ka_utf": "改",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=改",
+    "rad_name_search": [
+      "bokuzukuri"
+    ],
+    "rad_order": 86,
+    "txt_books": [
+      {
+        "chapter": "10",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtIKB"
+      },
+      {
+        "chapter": "12",
+        "txt_bk": "jtr"
+      }
+    ],
+    "kname": "arata(meru)",
+    "rad_utf": "⺙",
+    "stroketimes": [
+      0,
+      1.466667,
+      2.4,
+      4.533333,
+      5.333333,
+      6.066667,
+      7,
+      8.133333
+    ],
+    "kunyomi_ka_display": "あらた",
+    "dick": "180",
+    "rad_name": "bokuzukuri",
+    "dicn": "1464",
+    "mn_hint": "Person working 攵 on the self 己.",
+    "rad_stroke": 4,
+    "onyomi_ja": "カイ",
+    "rad_meaning": "hoạt động, tấn công, đánh",
+    "onyomi": "kai",
+    "ka_id": "ka_617",
+    "rad_position": "tsukuri",
+    "rad_position_ja": "つくり",
+    "rad_position_search": [
+      "tsukuri",
+      "tsukuri"
+    ],
+    "onyomi_search": [
+      "kai",
+      "kai"
+    ],
+    "kunyomi_search": [
+      "arata",
+      "aratameru",
+      "aratamaru",
+      "arata, aratameru, aratamaru"
+    ],
+    "meaning_search": [
+      "reform",
+      "reform"
+    ],
+    "onyomi_ja_search": [
+      "カイ",
+      "カイ"
+    ],
+    "kunyomi_ja_search": [
+      "あらた",
+      "あらためる",
+      "あらたまる",
+      "あらた、あらためる、あらたまる"
+    ],
+    "rad_meaning_search": [
+      "activity",
+      "to strike",
+      "to",
+      "strike",
+      "hit",
+      "activity, to strike, hit"
+    ],
+    "rad_position_ja_search": [
+      "つくり",
+      "つくり"
+    ],
+    "rad_name_ja_search": [
+      "ぼくづくり"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:10",
+      "ij:c10",
+      "ik1",
+      "ik1:3",
+      "ik1:c3",
+      "jtr",
+      "jtr:12",
+      "jtr:c12"
+    ],
+    "rad_name_file": "bokuzukuri",
+    "kanji": {
+      "character": "改",
+      "meaning": {
+        "english": "reform"
+      },
+      "strokes": {
+        "count": 7,
+        "timings": [
+          0,
+          1.466667,
+          2.4,
+          4.533333,
+          5.333333,
+          6.066667,
+          7,
+          8.133333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/arata(meru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/arata(meru)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/arata(meru)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/arata(meru)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/arata(meru)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/arata(meru)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/arata(meru)_7.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "kai",
+        "katakana": "カイ"
+      },
+      "kunyomi": {
+        "romaji": "arata, aratameru, aratamaru",
+        "hiragana": "あらた"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/arata(meru)_7.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/arata(meru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/arata(meru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺙",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/bokuzukuri.svg",
+      "position": {
+        "hiragana": "つくり",
+        "romaji": "tsukuri",
+        "icon": "https://media.kanjialive.com/rad_positions/tsukuri.svg"
+      },
+      "name": {
+        "hiragana": "ぼくづくり",
+        "romaji": "bokuzukuri"
+      },
+      "meaning": {
+        "english": "hoạt động, tấn công, đánh"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/bokuzukuri0.svg",
+        "https://media.kanjialive.com/rad_frames/bokuzukuri1.svg",
+        "https://media.kanjialive.com/rad_frames/bokuzukuri2.svg"
+      ]
+    },
+    "references": {
+      "grade": 4,
+      "kodansha": "180",
+      "classic_nelson": "1464"
+    }
+  },
+  "jishoData": {
+    "query": "改",
+    "found": true,
+    "taughtIn": "lớp 4",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "147",
+    "strokeCount": 7,
+    "meaning": "cải cách, thay đổi, sửa đổi, sửa chữa, đổi mới, kiểm tra, kiểm tra, tìm kiếm",
+    "kunyomi": [
+      "あらた.める",
+      "あらた.まる"
+    ],
+    "onyomi": [
+      "カイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "改",
+        "reading": "カイ",
+        "meaning": "sửa đổi"
+      },
+      {
+        "example": "改革",
+        "reading": "カイカク",
+        "meaning": "cải cách, cải cách, tổ chức lại"
+      },
+      {
+        "example": "更改",
+        "reading": "コウカイ",
+        "meaning": "đổi mới, gia hạn, sửa đổi"
+      },
+      {
+        "example": "契約更改",
+        "reading": "ケイヤクコウカイ",
+        "meaning": "gia hạn hợp đồng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "改める",
+        "reading": "あらためる",
+        "meaning": "thay đổi, thay đổi, sửa đổi, thay thế, cải cách, sửa chữa, sửa chữa, cải thiện, kiểm tra, kiểm tra, kiểm tra, làm đúng, làm chính thức"
+      },
+      {
+        "example": "改まる",
+        "reading": "あらたまる",
+        "meaning": "được đổi mới, thay đổi, được cải thiện, được cải cách, được sửa đổi, được sửa chữa, đứng trên nghi lễ, trang trọng, chuyển sang tình trạng tồi tệ hơn (của một căn bệnh), có một bước chuyển biến nghiêm trọng"
+      }
+    ],
+    "radical": {
+      "symbol": "攴",
+      "forms": [
+        "攵"
+      ],
+      "meaning": "rap"
+    },
+    "parts": [
+      "乞",
+      "已",
+      "攵"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25913_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06539.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6539.gif",
+    "uri": "https://jisho.org/search/%E6%94%B9%23kanji"
+  }
+}

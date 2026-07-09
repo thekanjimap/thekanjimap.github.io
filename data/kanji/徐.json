@@ -1,0 +1,62 @@
+{
+  "id": "徐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "徐",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1470",
+    "strokeCount": 10,
+    "meaning": "dần dần, từ từ, cố tình, nhẹ nhàng",
+    "kunyomi": [
+      "おもむ.ろに"
+    ],
+    "onyomi": [
+      "ジョ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "徐々に",
+        "reading": "ジョジョニ",
+        "meaning": "dần dần, đều đặn, từ từ, từng chút một, từng bước một"
+      },
+      {
+        "example": "徐行",
+        "reading": "ジョコウ",
+        "meaning": "đi chậm (đặc biệt là để xe có thể dừng lại ngay lập tức), đi với tốc độ giảm, giảm tốc độ, giảm tốc độ"
+      },
+      {
+        "example": "徐々",
+        "reading": "ジョジョ",
+        "meaning": "chậm, từ từ, đều đặn, bình tĩnh, điềm tĩnh, thoải mái"
+      },
+      {
+        "example": "緩徐",
+        "reading": "カンジョ",
+        "meaning": "nhẹ nhàng và yên tĩnh"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "徐に",
+        "reading": "おもむろに",
+        "meaning": "đột ngột, đột ngột, chậm rãi, không vội vàng, bình tĩnh, nhẹ nhàng, có chủ ý"
+      }
+    ],
+    "radical": {
+      "symbol": "彳",
+      "meaning": "bước"
+    },
+    "parts": [
+      "一",
+      "个",
+      "彳",
+      "禾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24464_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f90.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f90.gif",
+    "uri": "https://jisho.org/search/%E5%BE%90%23kanji"
+  }
+}

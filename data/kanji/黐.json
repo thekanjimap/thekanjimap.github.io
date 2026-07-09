@@ -1,0 +1,67 @@
+{
+  "id": "黐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "黐",
+    "found": true,
+    "strokeCount": 23,
+    "meaning": "vôi chim",
+    "kunyomi": [
+      "もち"
+    ],
+    "onyomi": [
+      "チ",
+      "リ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鼠黐",
+        "reading": "ネズミモチ",
+        "meaning": "Cây thủy lạp Nhật Bản (Ligustrum japonicum)"
+      },
+      {
+        "example": "黒鉄黐",
+        "reading": "クロガネモチ",
+        "meaning": "cây ô rô Kurogane (Ilex rotunda)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "黐",
+        "reading": "もち",
+        "meaning": "vôi chim, nhựa ruồi Nepal (Ilex integra)"
+      },
+      {
+        "example": "黐竿",
+        "reading": "もちざお",
+        "meaning": "thanh vôi để bắt côn trùng"
+      },
+      {
+        "example": "鼠黐",
+        "reading": "ねずみもち",
+        "meaning": "Cây thủy lạp Nhật Bản (Ligustrum japonicum)"
+      },
+      {
+        "example": "黒鉄黐",
+        "reading": "くろがねもち",
+        "meaning": "cây ô rô Kurogane (Ilex rotunda)"
+      }
+    ],
+    "radical": {
+      "symbol": "黍",
+      "meaning": "hạt kê"
+    },
+    "parts": [
+      "亠",
+      "凵",
+      "水",
+      "禹",
+      "禾",
+      "黍"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40656_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ed0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ed0.gif",
+    "uri": "https://jisho.org/search/%E9%BB%90%23kanji"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "桐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "桐",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1668",
+    "strokeCount": 10,
+    "meaning": "cây paulownia",
+    "kunyomi": [
+      "きり"
+    ],
+    "onyomi": [
+      "トウ",
+      "ドウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "桐蔭学園横浜大学",
+        "reading": "トウインガクエンヨコハマダイガク",
+        "meaning": "Đại học Toin của Yokohama"
+      },
+      {
+        "example": "桐蔭横浜大学",
+        "reading": "トウインヨコハマダイガク",
+        "meaning": "Đại học Toin của Yokohama"
+      },
+      {
+        "example": "梧桐",
+        "reading": "アオギリ",
+        "meaning": "Cây dù Trung Quốc (Firmiana simplex), cây chai Trung Quốc, cây véc ni Nhật Bản, cây phượng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "桐",
+        "reading": "きり",
+        "meaning": "paulownia (Paulownia tomentosa), cây hoàng hậu, cây mao địa hoàng"
+      },
+      {
+        "example": "桐材",
+        "reading": "きりざい",
+        "meaning": "gỗ paulownia"
+      },
+      {
+        "example": "五七桐",
+        "reading": "ごしちのきり",
+        "meaning": "đỉnh cây Paulownia (ba lá với bảy bông hoa ở giữa và năm bông hoa ở mỗi lá bên)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "一",
+      "冂",
+      "口",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26704_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06850.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6850.gif",
+    "uri": "https://jisho.org/search/%E6%A1%90%23kanji"
+  }
+}

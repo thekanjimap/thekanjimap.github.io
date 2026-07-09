@@ -1,0 +1,74 @@
+{
+  "id": "錘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "錘",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 16,
+    "meaning": "trọng lượng, dây dọi, quả chìm, trục xoay",
+    "kunyomi": [
+      "つむ",
+      "おもり"
+    ],
+    "onyomi": [
+      "スイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "錘",
+        "reading": "スイ",
+        "meaning": "bộ đếm trục quay, trọng lượng (đối với cân)"
+      },
+      {
+        "example": "錘状",
+        "reading": "スイジョウ",
+        "meaning": "hình trục chính"
+      },
+      {
+        "example": "平衡錘",
+        "reading": "ヘイコウスイ",
+        "meaning": "đối trọng, đối trọng"
+      },
+      {
+        "example": "紡錘",
+        "reading": "ボウスイ",
+        "meaning": "trục quay"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "紡錘",
+        "reading": "ぼうすい",
+        "meaning": "trục quay"
+      },
+      {
+        "example": "錘形",
+        "reading": "つむがた",
+        "meaning": "hình trục chính, hình thoi"
+      },
+      {
+        "example": "重り",
+        "reading": "おもり",
+        "meaning": "trọng lượng, tàu chìm"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "kim loại, vàng"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "金",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37656_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09318.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9318.gif",
+    "uri": "https://jisho.org/search/%E9%8C%98%23kanji"
+  }
+}

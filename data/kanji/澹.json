@@ -1,0 +1,58 @@
+{
+  "id": "澹",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "澹",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "bình tĩnh, yên tĩnh, nhạt nhẽo, rung chuyển, gợn sóng, đủ",
+    "kunyomi": [
+      "あわ.い"
+    ],
+    "onyomi": [
+      "タン",
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "淡々",
+        "reading": "タンタン",
+        "meaning": "không quan tâm, không quan tâm, thờ ơ, lãnh đạm, thực tế, tách biệt, đơn giản, nhẹ nhàng, đơn giản, nhạt nhẽo, trôi chảy nhẹ nhàng"
+      },
+      {
+        "example": "淡白",
+        "reading": "タンパク",
+        "meaning": "nhẹ nhàng (hương vị, màu sắc, v.v.), đơn giản, đơn giản, thẳng thắn, thẳng thắn, dễ tính, không ích kỷ, thờ ơ (với), không cụ thể (về)"
+      },
+      {
+        "example": "暗澹",
+        "reading": "アンタン",
+        "meaning": "tối tăm, ảm đạm, ảm đạm, chán nản"
+      },
+      {
+        "example": "疾痛惨憺",
+        "reading": "シッツウサンタン",
+        "meaning": "lo lắng khủng khiếp, lo lắng cực độ"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "儿",
+      "厂",
+      "汁",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28601_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06fb9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6fb9.gif",
+    "uri": "https://jisho.org/search/%E6%BE%B9%23kanji"
+  }
+}

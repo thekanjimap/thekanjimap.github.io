@@ -1,0 +1,49 @@
+{
+  "id": "亂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "亂",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "chiến tranh, rối loạn, bạo loạn, làm phiền",
+    "kunyomi": [
+      "みだ.れる",
+      "みだ.る",
+      "みだ.す",
+      "みだ.れ",
+      "おさ.める",
+      "わた.る"
+    ],
+    "onyomi": [
+      "ラン",
+      "ロン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "乱暴",
+        "reading": "ランボウ",
+        "meaning": "bạo lực, tấn công, ồn ào, hoang dã, bạo loạn, thô bạo (cách xử lý, ngôn ngữ, v.v.), liều lĩnh, bất cẩn, thô lỗ, thô lỗ, vô lý (ví dụ: yêu cầu), hoang dã (ví dụ: tranh luận), hãm hiếp, tấn công tình dục"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "乛",
+      "forms": [
+        "乙",
+        "⺄",
+        "乚"
+      ],
+      "meaning": "thứ hai"
+    },
+    "parts": [
+      "乙",
+      "冂",
+      "厶",
+      "爪"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20098_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e82.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e82.gif",
+    "uri": "https://jisho.org/search/%E4%BA%82%23kanji"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "謗",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "謗",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "vu khống, chê bai, chê bai, chỉ trích",
+    "kunyomi": [
+      "そし.る"
+    ],
+    "onyomi": [
+      "ボウ",
+      "ホウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "謗法",
+        "reading": "ホウボウ",
+        "meaning": "vu khống Phật giáo, bôi nhọ Phật pháp, đòi hỏi vô lý, điều không thể"
+      },
+      {
+        "example": "誣謗",
+        "reading": "フボウ",
+        "meaning": "vu khống"
+      },
+      {
+        "example": "讒謗",
+        "reading": "ザンボウ",
+        "meaning": "bôi nhọ, vu khống, phỉ báng"
+      },
+      {
+        "example": "謗法",
+        "reading": "ホウボウ",
+        "meaning": "vu khống Phật giáo, bôi nhọ Phật pháp, đòi hỏi vô lý, điều không thể"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "謗る",
+        "reading": "そしる",
+        "meaning": "nói xấu, bôi nhọ, chỉ trích, chỉ trích"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "lời nói"
+    },
+    "parts": [
+      "亠",
+      "冖",
+      "并",
+      "方",
+      "立",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35607_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b17.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b17.gif",
+    "uri": "https://jisho.org/search/%E8%AC%97%23kanji"
+  }
+}

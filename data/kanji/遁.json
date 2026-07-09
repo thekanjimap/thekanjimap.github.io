@@ -1,0 +1,66 @@
+{
+  "id": "遁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "遁",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "chạy trốn, trốn tránh, trốn tránh, trốn thoát",
+    "kunyomi": [
+      "のが.れる"
+    ],
+    "onyomi": [
+      "トン",
+      "シュン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "遁甲",
+        "reading": "トンコウ",
+        "meaning": "loại chiêm tinh học"
+      },
+      {
+        "example": "遯竄",
+        "reading": "トンザン",
+        "meaning": "chạy trốn vào nơi ẩn náu"
+      },
+      {
+        "example": "水遁",
+        "reading": "スイトン",
+        "meaning": "thuật thoát nước ninjutsu"
+      },
+      {
+        "example": "隠遁",
+        "reading": "イントン",
+        "meaning": "nghỉ hưu (khỏi thế giới), ẩn dật"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "逃れる",
+        "reading": "のがれる",
+        "meaning": "trốn thoát"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "đi bộ"
+    },
+    "parts": [
+      "十",
+      "厂",
+      "斤",
+      "目",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36929_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09041.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9041.gif",
+    "uri": "https://jisho.org/search/%E9%81%81%23kanji"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "耄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "耄",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "tình trạng lão suy",
+    "kunyomi": [
+      "おいぼ.れる"
+    ],
+    "onyomi": [
+      "ボウ",
+      "モウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "耄碌",
+        "reading": "モウロク",
+        "meaning": "sự già nua, sự lụi tàn, sự suy sụp"
+      },
+      {
+        "example": "老耄",
+        "reading": "ロウモウ",
+        "meaning": "sự già nua, sự lụi tàn, sự suy sụp"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "老",
+      "forms": [
+        "耂"
+      ],
+      "meaning": "cũ"
+    },
+    "parts": [
+      "匕",
+      "毛",
+      "老"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32772_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08004.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8004.gif",
+    "uri": "https://jisho.org/search/%E8%80%84%23kanji"
+  }
+}

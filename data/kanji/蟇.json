@@ -1,0 +1,44 @@
+{
+  "id": "蟇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蟇",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "con cóc",
+    "kunyomi": [
+      "ひき"
+    ],
+    "onyomi": [
+      "バ",
+      "マ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "蟇",
+        "reading": "ひきがえる",
+        "meaning": "cóc (đặc biệt là cóc Nhật Bản, Bufo japonicus)"
+      },
+      {
+        "example": "蟇目",
+        "reading": "ひきめ",
+        "meaning": "Vỏ đầu mũi tên lớn, đục lỗ, hình củ cải làm bằng mộc lan lá to hoặc paulownia của Nhật Bản, mũi tên vô hại được dán trên vỏ như vậy (có chức năng huýt sáo khi bắn và dùng để xua đuổi tà ma)"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "côn trùng"
+    },
+    "parts": [
+      "大",
+      "日",
+      "艾",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34759_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/087c7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/87c7.gif",
+    "uri": "https://jisho.org/search/%E8%9F%87%23kanji"
+  }
+}

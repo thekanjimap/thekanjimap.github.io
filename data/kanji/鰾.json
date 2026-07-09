@@ -1,0 +1,53 @@
+{
+  "id": "鰾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鰾",
+    "found": true,
+    "strokeCount": 22,
+    "meaning": "bong bóng cá",
+    "kunyomi": [
+      "ふえ",
+      "うきぶくろ"
+    ],
+    "onyomi": [
+      "ヒョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鰾",
+        "reading": "フエ",
+        "meaning": "bàng quang bơi, bong bóng khí"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鰾",
+        "reading": "ふえ",
+        "meaning": "bàng quang bơi, bong bóng khí"
+      },
+      {
+        "example": "鰾",
+        "reading": "ふえ",
+        "meaning": "bàng quang bơi, bong bóng khí"
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "cá"
+    },
+    "parts": [
+      "二",
+      "小",
+      "杰",
+      "田",
+      "示",
+      "西",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39998_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c3e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c3e.gif",
+    "uri": "https://jisho.org/search/%E9%B0%BE%23kanji"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "拘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "拘",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1336",
+    "strokeCount": 8,
+    "meaning": "bắt giữ, thu giữ, quan tâm, tuân thủ, bất chấp",
+    "kunyomi": [
+      "かか.わる"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "拘束",
+        "reading": "コウソク",
+        "meaning": "hạn chế, hạn chế, hạn chế, hạn chế"
+      },
+      {
+        "example": "拘禁",
+        "reading": "コウキン",
+        "meaning": "sự giam giữ, sự giam giữ, sự giam giữ, sự giam giữ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "関わる",
+        "reading": "かかわる",
+        "meaning": "tham gia (vào), tham gia (vào), quan tâm đến chính mình (với), tham gia (vào), can thiệp (vào), liên quan đến (một vấn đề), liên quan đến, quan tâm, phải làm với, ảnh hưởng (nghiêm trọng), quan tâm, có ảnh hưởng nghiêm trọng (trên), dính vào (đến), tuân thủ (đến), đặc biệt (về)"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "勹",
+      "口",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25304_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062d8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62d8.gif",
+    "uri": "https://jisho.org/search/%E6%8B%98%23kanji"
+  }
+}

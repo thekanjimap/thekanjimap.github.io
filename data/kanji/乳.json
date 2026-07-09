@@ -1,0 +1,348 @@
+{
+  "id": "乳",
+  "kanjialiveData": {
+    "_id": "54317aec791eba5146ee4a21",
+    "_rev": "10-182d2781d70a7f47ca77bbe9155d9a81",
+    "rad_name_ja": "おつ",
+    "grade": 6,
+    "hint_group": 50,
+    "kunyomi": "chichi, chi",
+    "meaning": "sữa",
+    "kstroke": 8,
+    "examples": [
+      {
+        "japanese": "牛乳（ぎゅうにゅう）",
+        "meaning": {
+          "english": "(bò) sữa"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nyuu-chichi_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nyuu-chichi_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nyuu-chichi_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nyuu-chichi_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "母乳（ぼにゅう）",
+        "meaning": {
+          "english": "sữa mẹ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nyuu-chichi_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nyuu-chichi_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nyuu-chichi_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nyuu-chichi_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "乳牛（にゅうぎゅう）",
+        "meaning": {
+          "english": "bò sữa"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nyuu-chichi_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nyuu-chichi_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nyuu-chichi_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nyuu-chichi_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "乳児（にゅうじ）",
+        "meaning": {
+          "english": "trẻ sơ sinh"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nyuu-chichi_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nyuu-chichi_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nyuu-chichi_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nyuu-chichi_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "乳歯（にゅうし）",
+        "meaning": {
+          "english": "răng sữa (trẻ em)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nyuu-chichi_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nyuu-chichi_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nyuu-chichi_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nyuu-chichi_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "乳（ちち）",
+        "meaning": {
+          "english": "sữa, vú"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nyuu-chichi_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nyuu-chichi_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nyuu-chichi_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nyuu-chichi_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "乳房（ちぶさ）",
+        "meaning": {
+          "english": "nhũ hoa"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nyuu-chichi_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nyuu-chichi_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nyuu-chichi_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nyuu-chichi_06_g.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "ちち、ち",
+    "ka_utf": "乳",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=乳",
+    "rad_name_search": [
+      "otsu"
+    ],
+    "rad_order": 7,
+    "txt_books": [
+      {
+        "chapter": "1",
+        "txt_bk": "txtMimiFilm"
+      }
+    ],
+    "kname": "nyuu-chichi",
+    "rad_utf": "⺃",
+    "stroketimes": [
+      0.846,
+      1.425,
+      2.564,
+      3.368,
+      3.904,
+      5.445,
+      7.32,
+      8.123,
+      10.324022
+    ],
+    "kunyomi_ka_display": "ちち、ち",
+    "dick": "964",
+    "rad_name": "otsu",
+    "dicn": "266",
+    "mn_hint": "Mother's arm/hand [12] holding her baby 子 to her breast 乚.",
+    "rad_stroke": 1,
+    "onyomi_ja": "ニュウ",
+    "rad_meaning": "thứ hai",
+    "onyomi": "nyuu",
+    "ka_id": "ka_356",
+    "onyomi_search": [
+      "nyuu",
+      "nyuu"
+    ],
+    "kunyomi_search": [
+      "chichi",
+      "chi",
+      "chichi, chi"
+    ],
+    "meaning_search": [
+      "milk",
+      "milk"
+    ],
+    "onyomi_ja_search": [
+      "ニュウ",
+      "ニュウ"
+    ],
+    "kunyomi_ja_search": [
+      "ちち",
+      "ち",
+      "ちち、ち"
+    ],
+    "rad_meaning_search": [
+      "the second",
+      "the",
+      "second",
+      "the second"
+    ],
+    "rad_name_ja_search": [
+      "おつ"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "mos",
+      "mos:1",
+      "mos:c1"
+    ],
+    "rad_name_file": "otsu",
+    "kanji": {
+      "character": "乳",
+      "meaning": {
+        "english": "milk"
+      },
+      "strokes": {
+        "count": 8,
+        "timings": [
+          0.846,
+          1.425,
+          2.564,
+          3.368,
+          3.904,
+          5.445,
+          7.32,
+          8.123,
+          10.324022
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/nyuu-chichi_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/nyuu-chichi_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/nyuu-chichi_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/nyuu-chichi_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/nyuu-chichi_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/nyuu-chichi_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/nyuu-chichi_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/nyuu-chichi_8.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "nyuu",
+        "katakana": "ニュウ"
+      },
+      "kunyomi": {
+        "romaji": "chichi, chi",
+        "hiragana": "ちち、ち"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/nyuu-chichi_8.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/nyuu-chichi_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/nyuu-chichi_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺃",
+      "strokes": 1,
+      "image": "https://media.kanjialive.com/radical_character/otsu.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "おつ",
+        "romaji": "otsu"
+      },
+      "meaning": {
+        "english": "thứ hai"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/otsu0.svg",
+        "https://media.kanjialive.com/rad_frames/otsu1.svg",
+        "https://media.kanjialive.com/rad_frames/otsu2.svg"
+      ]
+    },
+    "references": {
+      "grade": 6,
+      "kodansha": "964",
+      "classic_nelson": "266"
+    }
+  },
+  "jishoData": {
+    "query": "乳",
+    "found": true,
+    "taughtIn": "lớp 6",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "1289",
+    "strokeCount": 8,
+    "meaning": "sữa, vú",
+    "kunyomi": [
+      "ちち",
+      "ち"
+    ],
+    "onyomi": [
+      "ニュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "乳製品",
+        "reading": "ニュウセイヒン",
+        "meaning": "sản phẩm từ sữa"
+      },
+      {
+        "example": "乳児",
+        "reading": "ニュウジ",
+        "meaning": "trẻ sơ sinh (dưới 1 tuổi), trẻ bú mẹ"
+      },
+      {
+        "example": "豆乳",
+        "reading": "トウニュウ",
+        "meaning": "sữa đậu nành"
+      },
+      {
+        "example": "生乳",
+        "reading": "セイニュウ",
+        "meaning": "sữa tươi"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "乳",
+        "reading": "ちち",
+        "meaning": "sữa, vú, vòng, vết sưng trang trí (trên chuông treo)"
+      },
+      {
+        "example": "乳首",
+        "reading": "ちくび",
+        "meaning": "núm vú, núm vú"
+      },
+      {
+        "example": "無い乳",
+        "reading": "ないちち",
+        "meaning": "ngực rất nhỏ"
+      },
+      {
+        "example": "もらい乳",
+        "reading": "もらいぢち",
+        "meaning": "cho con của mình được một người phụ nữ khác chăm sóc, cho con bú ướt, nhận sữa mẹ từ người phụ nữ khác"
+      },
+      {
+        "example": "乳",
+        "reading": "ちち",
+        "meaning": "sữa, vú, vòng, vết sưng trang trí (trên chuông treo)"
+      },
+      {
+        "example": "乳房",
+        "reading": "ちぶさ",
+        "meaning": "vú, bầu vú"
+      },
+      {
+        "example": "無い乳",
+        "reading": "ないちち",
+        "meaning": "ngực rất nhỏ"
+      },
+      {
+        "example": "もらい乳",
+        "reading": "もらいぢち",
+        "meaning": "cho con của mình được một người phụ nữ khác chăm sóc, cho con bú ướt, nhận sữa mẹ từ người phụ nữ khác"
+      }
+    ],
+    "radical": {
+      "symbol": "乛",
+      "forms": [
+        "乙",
+        "⺄",
+        "乚"
+      ],
+      "meaning": "thứ hai"
+    },
+    "parts": [
+      "乙",
+      "子",
+      "爪"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20083_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e73.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e73.gif",
+    "uri": "https://jisho.org/search/%E4%B9%B3%23kanji"
+  }
+}

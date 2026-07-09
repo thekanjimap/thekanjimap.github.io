@@ -1,0 +1,43 @@
+{
+  "id": "蝨",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蝨",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "chấy rận, sâu bọ",
+    "kunyomi": [
+      "しらみ"
+    ],
+    "onyomi": [
+      "シツ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "虱",
+        "reading": "しらみ",
+        "meaning": "rận (đặc biệt là rận hút), chấy"
+      },
+      {
+        "example": "虱潰し",
+        "reading": "しらみつぶし",
+        "meaning": "khám xét rất kỹ lưỡng (đối với hàng lậu, người bị kết án trốn thoát, v.v.), khám xét răng lược, khám xét toàn diện, lùng sục"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "côn trùng"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "乙",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34664_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08768.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8768.gif",
+    "uri": "https://jisho.org/search/%E8%9D%A8%23kanji"
+  }
+}

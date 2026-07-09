@@ -1,0 +1,86 @@
+{
+  "id": "萎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "萎",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "strokeCount": 11,
+    "meaning": "héo, héo, què",
+    "kunyomi": [
+      "な",
+      "しお.れる",
+      "しな.びる",
+      "しぼ.む",
+      "な.える"
+    ],
+    "onyomi": [
+      "イ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "萎縮",
+        "reading": "イシュク",
+        "meaning": "sự teo lại, sự teo lại, sự co lại, sự teo đi"
+      },
+      {
+        "example": "萎黄病",
+        "reading": "イオウビョウ",
+        "meaning": "bệnh vàng lá, bệnh xanh"
+      },
+      {
+        "example": "陰萎",
+        "reading": "インイ",
+        "meaning": "bất lực (tình dục), bất lực cương dương"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "萎える",
+        "reading": "なえる",
+        "meaning": "mất sức, trở nên yếu đuối, biến mất (năng lượng, động lực, v.v.), khô héo, rũ xuống, héo úa, cảm thấy mất động lực, mất hứng thú, trở nên thất vọng"
+      },
+      {
+        "example": "萎え",
+        "reading": "なえ",
+        "meaning": "suy yếu, mất sức, thất vọng, mất hứng thú, cảm giác chán nản"
+      },
+      {
+        "example": "萎れる",
+        "reading": "しおれる",
+        "meaning": "héo mòn, héo mòn, ủ rũ, héo úa, chán nản, chán nản, chán nản, chán nản"
+      },
+      {
+        "example": "萎びる",
+        "reading": "しなびる",
+        "meaning": "teo lại (ví dụ: cắt rau, da), héo, phai màu, héo, bị héo"
+      },
+      {
+        "example": "萎む",
+        "reading": "しぼむ",
+        "meaning": "héo đi (hoa, những giấc mơ, v.v.), héo rũ, rũ xuống, héo úa, héo úa, xẹp xuống, xẹp xuống"
+      },
+      {
+        "example": "萎える",
+        "reading": "なえる",
+        "meaning": "mất sức, trở nên yếu đuối, biến mất (năng lượng, động lực, v.v.), khô héo, rũ xuống, héo úa, cảm thấy mất động lực, mất hứng thú, trở nên thất vọng"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "女",
+      "禾",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33806_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0840e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/840e.gif",
+    "uri": "https://jisho.org/search/%E8%90%8E%23kanji"
+  }
+}

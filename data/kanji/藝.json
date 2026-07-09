@@ -1,0 +1,63 @@
+{
+  "id": "藝",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "藝",
+    "found": true,
+    "newspaperFrequencyRank": "2065",
+    "strokeCount": 18,
+    "meaning": "nghệ thuật, Nghề thủ công, hiệu suất, Diễn xuất, lừa, Stunt",
+    "kunyomi": [
+      "う.える",
+      "のり",
+      "わざ"
+    ],
+    "onyomi": [
+      "ゲイ",
+      "ウン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "芸",
+        "reading": "ゲイ",
+        "meaning": "nghệ thuật, Nghề thủ công, Thành tựu, Kỹ năng nghệ thuật, kỹ thuật, hiệu suất"
+      },
+      {
+        "example": "芸者",
+        "reading": "ゲイシャ",
+        "meaning": "geisha, nữ nghệ sĩ giải trí chuyên nghiệp, usu. trong các bữa tiệc truyền thống"
+      },
+      {
+        "example": "文芸",
+        "reading": "ブンゲイ",
+        "meaning": "văn học, nghệ thuật, nghệ thuật và văn học, nghệ thuật tự do"
+      },
+      {
+        "example": "射芸",
+        "reading": "シャゲイ",
+        "meaning": "bắn cung"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "丶",
+      "九",
+      "二",
+      "儿",
+      "厶",
+      "土",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34269_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085dd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85dd.gif",
+    "uri": "https://jisho.org/search/%E8%97%9D%23kanji"
+  }
+}

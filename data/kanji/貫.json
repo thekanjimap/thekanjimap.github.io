@@ -1,0 +1,85 @@
+{
+  "id": "貫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "貫",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1156",
+    "strokeCount": 11,
+    "meaning": "xuyên, 8 1/3lbs, xuyên qua, nẹp",
+    "kunyomi": [
+      "つらぬ.く",
+      "ぬ.く",
+      "ぬき"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "貫",
+        "reading": "カン",
+        "meaning": "kan (đơn vị trọng lượng obs., khoảng 3,75 kg, 8,3 lb), kan (đơn vị tiền tệ obs., tương đương với 1000 mon trong thời Edo; col. 10 mon trong thời Meiji), bộ đếm miếng sushi, 10 điểm, 12 điểm"
+      },
+      {
+        "example": "貫通",
+        "reading": "カンツウ",
+        "meaning": "đi qua (đường hầm, viên đạn, v.v.), đi (phải) xuyên qua, xuyên qua, xuyên thủng, thông thạo (trong)"
+      },
+      {
+        "example": "終始一貫",
+        "reading": "シュウシイッカン",
+        "meaning": "nhất quán, không thay đổi, xuyên suốt"
+      },
+      {
+        "example": "縦貫",
+        "reading": "ジュウカン",
+        "meaning": "chạy qua, đi ngang qua"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "貫く",
+        "reading": "つらぬく",
+        "meaning": "đi qua, đâm thủng, thâm nhập, chạy qua (ví dụ: một con sông chảy qua thành phố), đi qua, bám vào (ý kiến, nguyên tắc, v.v.), thực hiện, kiên trì, giữ vững (ví dụ: niềm tin), duy trì (ví dụ: sự độc lập)"
+      },
+      {
+        "example": "貫",
+        "reading": "ぬき",
+        "meaning": "thanh ngang (giữa các trụ, v.v.), dầm giằng xuyên"
+      },
+      {
+        "example": "貫き通す",
+        "reading": "つらぬきとおす",
+        "meaning": "xuyên qua, đâm thủng, thâm nhập, bám vào (ý kiến, nguyên tắc, v.v.), thực hiện, kiên trì, giữ vững (ví dụ: niềm tin), duy trì (ví dụ: sự độc lập)"
+      },
+      {
+        "example": "吹き抜き",
+        "reading": "ふきぬき",
+        "meaning": "cầu thang, giếng trời, cờ hiệu, cờ hiệu"
+      },
+      {
+        "example": "指貫",
+        "reading": "さしぬき",
+        "meaning": "kiểu hakama mặc thời xưa"
+      }
+    ],
+    "radical": {
+      "symbol": "貝",
+      "meaning": "vỏ"
+    },
+    "parts": [
+      "ハ",
+      "毋",
+      "母",
+      "目",
+      "貝"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36011_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cab.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cab.gif",
+    "uri": "https://jisho.org/search/%E8%B2%AB%23kanji"
+  }
+}

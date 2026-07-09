@@ -1,0 +1,42 @@
+{
+  "id": "芟",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "芟",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "cắt, tỉa, tỉa, thu hoạch, cắt cỏ",
+    "kunyomi": [
+      "か.る"
+    ],
+    "onyomi": [
+      "セン",
+      "サン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "芟除",
+        "reading": "サンジョ",
+        "meaning": "cắt đi"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "几",
+      "又",
+      "殳",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33439_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0829f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/829f.gif",
+    "uri": "https://jisho.org/search/%E8%8A%9F%23kanji"
+  }
+}

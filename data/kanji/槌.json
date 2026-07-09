@@ -1,0 +1,65 @@
+{
+  "id": "槌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "槌",
+    "found": true,
+    "newspaperFrequencyRank": "2462",
+    "strokeCount": 13,
+    "meaning": "búa, vồ",
+    "kunyomi": [
+      "つち"
+    ],
+    "onyomi": [
+      "ツイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "槌骨",
+        "reading": "ツチコツ",
+        "meaning": "malleus (xương tai), búa"
+      },
+      {
+        "example": "破城槌",
+        "reading": "ハジョウツイ",
+        "meaning": "ram đập"
+      },
+      {
+        "example": "鉄槌",
+        "reading": "テッツイ",
+        "meaning": "búa sắt, đòn nghiền nát"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "槌",
+        "reading": "つち",
+        "meaning": "búa, vồ, búa tạ, búa"
+      },
+      {
+        "example": "槌音",
+        "reading": "つちおと",
+        "meaning": "tiếng búa, tiếng búa"
+      },
+      {
+        "example": "鑿と言えば槌",
+        "reading": "のみといえばつち",
+        "meaning": "người ta nên làm nhiều hơn những gì được yêu cầu theo đúng nghĩa đen, khi được yêu cầu (mang theo) cái đục, (cũng mang theo) cái vồ"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "口",
+      "木",
+      "込",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27084_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/069cc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/69cc.gif",
+    "uri": "https://jisho.org/search/%E6%A7%8C%23kanji"
+  }
+}

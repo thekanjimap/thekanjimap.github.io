@@ -1,0 +1,35 @@
+{
+  "id": "毟",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "毟",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "nhổ, nhặt, xé, (kokuji)",
+    "kunyomi": [
+      "むし.る"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "毟る",
+        "reading": "むしる",
+        "meaning": "nhổ, hái, xé"
+      }
+    ],
+    "radical": {
+      "symbol": "毛",
+      "meaning": "lông, tóc"
+    },
+    "parts": [
+      "ノ",
+      "小",
+      "毛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27615_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bdf.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bdf.gif",
+    "uri": "https://jisho.org/search/%E6%AF%9F%23kanji"
+  }
+}

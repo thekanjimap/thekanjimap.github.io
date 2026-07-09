@@ -1,0 +1,45 @@
+{
+  "id": "麾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "麾",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "vẫy gọi, ra lệnh",
+    "kunyomi": [
+      "さしまね.く",
+      "さしずばた"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "麾下",
+        "reading": "キカ",
+        "meaning": "dưới sự chỉ huy (của), dưới biểu ngữ (của), chịu ảnh hưởng (bởi)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "差し招く",
+        "reading": "さしまねく",
+        "meaning": "vẫy gọi (đến)"
+      }
+    ],
+    "radical": {
+      "symbol": "麻",
+      "meaning": "cây gai dầu, cây lanh"
+    },
+    "parts": [
+      "广",
+      "木",
+      "毛",
+      "麻"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40638_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ebe.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ebe.gif",
+    "uri": "https://jisho.org/search/%E9%BA%BE%23kanji"
+  }
+}

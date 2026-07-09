@@ -1,0 +1,77 @@
+{
+  "id": "寓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "寓",
+    "found": true,
+    "newspaperFrequencyRank": "2330",
+    "strokeCount": 12,
+    "meaning": "nơi ở tạm thời, ngụ ý, gợi ý",
+    "kunyomi": [
+      "ぐう.する",
+      "かこつ.ける",
+      "よ.せる",
+      "よ.る",
+      "かりずまい"
+    ],
+    "onyomi": [
+      "グウ",
+      "グ",
+      "ドウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "寓話",
+        "reading": "グウワ",
+        "meaning": "truyện ngụ ngôn, ngụ ngôn"
+      },
+      {
+        "example": "寓意",
+        "reading": "グウイ",
+        "meaning": "ý nghĩa ẩn giấu, biểu tượng, đạo đức"
+      },
+      {
+        "example": "流寓",
+        "reading": "リュウグウ",
+        "meaning": "sống một cuộc đời rong ruổi, lang bạt và định cư ở nơi đất lạ"
+      },
+      {
+        "example": "仮寓",
+        "reading": "カグウ",
+        "meaning": "tạm trú"
+      },
+      {
+        "example": "寓話",
+        "reading": "グウワ",
+        "meaning": "truyện ngụ ngôn, ngụ ngôn"
+      },
+      {
+        "example": "寓意",
+        "reading": "グウイ",
+        "meaning": "ý nghĩa ẩn giấu, biểu tượng, đạo đức"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "寓する",
+        "reading": "ぐうする",
+        "meaning": "cư trú tạm thời, ngụ ý"
+      }
+    ],
+    "radical": {
+      "symbol": "宀",
+      "meaning": "mái nhà"
+    },
+    "parts": [
+      "冂",
+      "厶",
+      "宀",
+      "田",
+      "禹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23507_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bd3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bd3.gif",
+    "uri": "https://jisho.org/search/%E5%AF%93%23kanji"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "鵺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鵺",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "chim đêm tuyệt vời, chimera",
+    "kunyomi": [
+      "ぬえ"
+    ],
+    "onyomi": [
+      "コウ",
+      "ヤ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鵺",
+        "reading": "ぬえ",
+        "meaning": "Chimera Nhật Bản, sinh vật thần thoại có đầu khỉ, thân tanuki, chân hổ và đuôi rắn, chim hét trắng (Zoothera dauma), người bí ẩn, người không rõ nhân vật, bí ẩn"
+      },
+      {
+        "example": "鵺的",
+        "reading": "ぬえてき",
+        "meaning": "bí ẩn, kỳ lạ, giống nhân sư, bí ẩn, không rõ ràng"
+      }
+    ],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "chim"
+    },
+    "parts": [
+      "亠",
+      "化",
+      "夕",
+      "杰",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40314_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d7a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d7a.gif",
+    "uri": "https://jisho.org/search/%E9%B5%BA%23kanji"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "挾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "挾",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "đặt giữa, chèn, kẹt, bị bắt, bánh sandwich",
+    "kunyomi": [
+      "はさ.む",
+      "はさ.まる",
+      "わきばさ.む",
+      "さしはさ.む"
+    ],
+    "onyomi": [
+      "キョウ",
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "挟撃",
+        "reading": "キョウゲキ",
+        "meaning": "tấn công hai bên, chuyển động gọng kìm, bao bọc kép"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "挟む",
+        "reading": "はさむ",
+        "meaning": "giữ giữa (ví dụ: ngón tay, đũa), kẹp (từ cả hai phía), đặt giữa, kẹp giữa, chèn, xen vào, bắt (ví dụ: ngón tay trong cửa), bẫy, véo, chèn (ví dụ: đột nhập vào quá trình tố tụng), xen vào (ví dụ: phản đối), xen vào, ném vào (ví dụ: một trò đùa), ở hai bên (một con đường, cái bàn, v.v.), có giữa mỗi cái khác, băng qua (đường, sông, v.v.), chứa chấp (cảm xúc), vứt bỏ (ví dụ: nghi ngờ)"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "人",
+      "大",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25406_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0633e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/633e.gif",
+    "uri": "https://jisho.org/search/%E6%8C%BE%23kanji"
+  }
+}

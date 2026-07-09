@@ -1,0 +1,61 @@
+{
+  "id": "粛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "粛",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1549",
+    "strokeCount": 11,
+    "meaning": "trang trọng, lặng lẽ, nhẹ nhàng",
+    "kunyomi": [
+      "つつし.む"
+    ],
+    "onyomi": [
+      "シュク",
+      "スク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "粛",
+        "reading": "シュク",
+        "meaning": "trang trọng, tôn kính, tôn kính, im lặng, im lặng"
+      },
+      {
+        "example": "粛軍",
+        "reading": "シュクグン",
+        "meaning": "thanh trừng quân đội"
+      },
+      {
+        "example": "粛々",
+        "reading": "シュクシュク",
+        "meaning": "im lặng, trang trọng, yên tĩnh"
+      },
+      {
+        "example": "外出自粛",
+        "reading": "ガイシュツジシュク",
+        "meaning": "hạn chế đi ra ngoài, ở trong nhà"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "聿",
+      "forms": [
+        "⺻"
+      ],
+      "meaning": "bàn chải"
+    },
+    "parts": [
+      "ノ",
+      "ヨ",
+      "米",
+      "隶",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31899_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07c9b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7c9b.gif",
+    "uri": "https://jisho.org/search/%E7%B2%9B%23kanji"
+  }
+}

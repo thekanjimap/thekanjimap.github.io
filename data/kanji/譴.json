@@ -1,0 +1,47 @@
+{
+  "id": "譴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "譴",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "khiển trách",
+    "kunyomi": [
+      "せめ.る"
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "譴責",
+        "reading": "ケンセキ",
+        "meaning": "khiển trách, quở trách, khiển trách, quở trách"
+      },
+      {
+        "example": "天譴",
+        "reading": "テンケン",
+        "meaning": "sự trừng phạt của thần thánh"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "lời nói"
+    },
+    "parts": [
+      "一",
+      "口",
+      "言",
+      "込",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35700_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b74.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b74.gif",
+    "uri": "https://jisho.org/search/%E8%AD%B4%23kanji"
+  }
+}

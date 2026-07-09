@@ -1,0 +1,59 @@
+{
+  "id": "闕",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "闕",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "thiếu, kẽ hở, thất bại, hoàng cung",
+    "kunyomi": [
+      "か.ける"
+    ],
+    "onyomi": [
+      "ケツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "欠員",
+        "reading": "ケツイン",
+        "meaning": "vị trí trống, chỗ trống, chỗ trống, vị trí trống"
+      },
+      {
+        "example": "欠乏",
+        "reading": "ケツボウ",
+        "meaning": "sự thiếu hụt,sự thiếu hụt,sự thiếu hụt,sự thiếu thốn,sự khan hiếm,sự khan hiếm"
+      },
+      {
+        "example": "補欠",
+        "reading": "ホケツ",
+        "meaning": "lấp chỗ trống, bổ sung, thay thế, phó, thay thế, dự phòng"
+      },
+      {
+        "example": "帝闕",
+        "reading": "テイケツ",
+        "meaning": "cổng hoàng cung, hoàng cung"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "欠ける",
+        "reading": "かける",
+        "meaning": "sứt mẻ, bị sứt mẻ, bị đứt (tắt), bị hư hỏng, bị thiếu (từ một bộ, đội, v.v.), vắng mặt, bị lạc, bị thiếu (trong), bị thiếu (của), bị thiếu hụt, thiếu (trong), suy yếu (của mặt trăng), đi vào nhật thực"
+      }
+    ],
+    "radical": {
+      "symbol": "門",
+      "meaning": "cánh cổng"
+    },
+    "parts": [
+      "屮",
+      "并",
+      "欠",
+      "門"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38357_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095d5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95d5.gif",
+    "uri": "https://jisho.org/search/%E9%97%95%23kanji"
+  }
+}

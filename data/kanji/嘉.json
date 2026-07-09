@@ -1,0 +1,56 @@
+{
+  "id": "嘉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嘉",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1553",
+    "strokeCount": 14,
+    "meaning": "hoan nghênh, khen ngợi, quý trọng, vui mừng, tốt lành",
+    "kunyomi": [
+      "よみ.する",
+      "よい"
+    ],
+    "onyomi": [
+      "カ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "歌留多",
+        "reading": "カルタ",
+        "meaning": "karuta, bài chơi truyền thống của Nhật Bản, đặc biệt. hyakunin isshu karuta hoặc iroha karuta"
+      },
+      {
+        "example": "嘉納",
+        "reading": "カノウ",
+        "meaning": "vui vẻ chấp nhận"
+      },
+      {
+        "example": "正嘉",
+        "reading": "ショウカ",
+        "meaning": "Thời Shōka (1257.3.14-1259.3.26)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "嘉する",
+        "reading": "よみする",
+        "meaning": "khen ngợi (người có địa vị thấp hơn), khen ngợi, khen ngợi, quý trọng"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "力",
+      "口",
+      "士"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22025_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05609.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5609.gif",
+    "uri": "https://jisho.org/search/%E5%98%89%23kanji"
+  }
+}

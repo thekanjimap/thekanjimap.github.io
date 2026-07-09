@@ -1,0 +1,86 @@
+{
+  "id": "旨",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "旨",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1166",
+    "strokeCount": 6,
+    "meaning": "ngon, thưởng thức, thể hiện sự thích thú, mục đích, ý chí, thông minh, chuyên gia",
+    "kunyomi": [
+      "むね",
+      "うま.い"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "旨意",
+        "reading": "シイ",
+        "meaning": "ý đồ, mục đích, mục đích"
+      },
+      {
+        "example": "旨趣",
+        "reading": "シシュ",
+        "meaning": "mục đích, mục đích, mục đích"
+      },
+      {
+        "example": "本旨",
+        "reading": "ホンシ",
+        "meaning": "đối tượng chính, đối tượng chính, mục đích thực sự"
+      },
+      {
+        "example": "宗旨",
+        "reading": "シュウシ",
+        "meaning": "giáo lý (của một giáo phái tôn giáo), học thuyết, giáo phái (tôn giáo), giáo phái, tôn giáo, đức tin, nguyên tắc của một người, thị hiếu, sở thích của một người"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "旨",
+        "reading": "むね",
+        "meaning": "nguyên tắc, mục đích, mục đích chính, phần trung tâm, trụ cột, mục đích, ý chính, trôi dạt, ý nghĩa, hướng dẫn, mệnh lệnh, ý định, mong muốn"
+      },
+      {
+        "example": "旨とする",
+        "reading": "むねとする",
+        "meaning": "để biến nó thành một nguyên tắc để ..., nhằm mục đích làm"
+      },
+      {
+        "example": "その旨",
+        "reading": "そのむね",
+        "meaning": "(từ tới) hiệu ứng đó"
+      },
+      {
+        "example": "御旨",
+        "reading": "みむね",
+        "meaning": "ý Chúa"
+      },
+      {
+        "example": "上手い",
+        "reading": "うまい",
+        "meaning": "khéo léo, khéo léo, có tay nghề, tốt, chuyên gia, thông minh (biểu hiện, thủ thuật, v.v.), apt, thích hợp, ngon, ngon, tốt, đẹp, tốt (thỏa thuận, ý tưởng, v.v.), có lợi nhuận, đầy hứa hẹn, may mắn, may mắn, thành công, thỏa đáng, lộng lẫy"
+      },
+      {
+        "example": "うまい汁",
+        "reading": "うまいしる",
+        "meaning": "phần của sư tử, kem"
+      }
+    ],
+    "radical": {
+      "symbol": "日",
+      "meaning": "mặt trời, ngày"
+    },
+    "parts": [
+      "匕",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26088_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065e8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65e8.gif",
+    "uri": "https://jisho.org/search/%E6%97%A8%23kanji"
+  }
+}

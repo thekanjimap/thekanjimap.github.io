@@ -1,0 +1,61 @@
+{
+  "id": "喧",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "喧",
+    "found": true,
+    "newspaperFrequencyRank": "2249",
+    "strokeCount": 12,
+    "meaning": "ồn ào, huyên náo",
+    "kunyomi": [
+      "やかま.しい",
+      "かまびす.しい"
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "喧嘩",
+        "reading": "ケンカ",
+        "meaning": "cãi nhau, cãi vã, đánh nhau, cãi vã, tranh cãi, tranh luận"
+      },
+      {
+        "example": "喧騒",
+        "reading": "ケンソウ",
+        "meaning": "sự hỗn loạn, tiếng ồn lớn, tiếng ồn ào, sự hối hả và nhộn nhịp"
+      },
+      {
+        "example": "喧々",
+        "reading": "ケンケン",
+        "meaning": "ồn ào"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "喧しい",
+        "reading": "やかましい",
+        "meaning": "ồn ào, ồn ào, ồn ào, huyên náo, được nói nhiều, thảo luận nhiều, bực tức, nghiêm khắc, nghiêm khắc, nghiêm khắc, đặc biệt, cầu kỳ, khó tính, tìm lỗi, khắc phục"
+      },
+      {
+        "example": "姦しい",
+        "reading": "かしましい",
+        "meaning": "ồn ào, huyên náo"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "一",
+      "口",
+      "宀",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21927_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/055a7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/55a7.gif",
+    "uri": "https://jisho.org/search/%E5%96%A7%23kanji"
+  }
+}

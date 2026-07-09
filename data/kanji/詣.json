@@ -1,0 +1,61 @@
+{
+  "id": "詣",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "詣",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "strokeCount": 13,
+    "meaning": "viếng thăm một ngôi chùa, đến, đạt được",
+    "kunyomi": [
+      "けい.する",
+      "まい.る",
+      "いた.る",
+      "もう.でる"
+    ],
+    "onyomi": [
+      "ケイ",
+      "ゲイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "参詣",
+        "reading": "サンケイ",
+        "meaning": "viếng thăm đền chùa, thờ cúng, hành hương"
+      },
+      {
+        "example": "造詣",
+        "reading": "ゾウケイ",
+        "meaning": "kiến thức sâu sắc, thành tích, học bổng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "参る",
+        "reading": "まいる",
+        "meaning": "đi, đến, kêu gọi, bị đánh bại, sụp đổ, chết, khó chịu, bối rối, yêu điên cuồng, đến thăm (đền thờ, mộ)"
+      },
+      {
+        "example": "詣でる",
+        "reading": "もうでる",
+        "meaning": "đi hành hương"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "lời nói"
+    },
+    "parts": [
+      "匕",
+      "日",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35427_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a63.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a63.gif",
+    "uri": "https://jisho.org/search/%E8%A9%A3%23kanji"
+  }
+}

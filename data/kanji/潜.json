@@ -1,0 +1,87 @@
+{
+  "id": "潜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "潜",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1329",
+    "strokeCount": 15,
+    "meaning": "nhấn chìm, che giấu, giấu, hạ thấp (giọng nói), im lặng",
+    "kunyomi": [
+      "ひそ.む",
+      "もぐ.る",
+      "かく.れる",
+      "くぐ.る",
+      "ひそ.める"
+    ],
+    "onyomi": [
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "潜水",
+        "reading": "センスイ",
+        "meaning": "lặn, lặn, đi dưới nước"
+      },
+      {
+        "example": "潜在",
+        "reading": "センザイ",
+        "meaning": "tiềm năng, trạng thái ngủ, độ trễ"
+      },
+      {
+        "example": "原潜",
+        "reading": "ゲンセン",
+        "meaning": "tàu ngầm hạt nhân"
+      },
+      {
+        "example": "対潜",
+        "reading": "タイセン",
+        "meaning": "chống tàu ngầm"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "潜む",
+        "reading": "ひそむ",
+        "meaning": "ẩn nấp, ẩn nấp, ẩn náu, nằm im, tiềm ẩn"
+      },
+      {
+        "example": "潜る",
+        "reading": "もぐる",
+        "meaning": "lặn (xuống hoặc dưới nước), đi xuống, đi vào, đi vào, bò vào, bò xuống, chôn mình, đào hang, đào mình vào, rúc vào, ẩn mình (đặc biệt là từ chính phủ), ẩn mình, đi xuống lòng đất"
+      },
+      {
+        "example": "潜る",
+        "reading": "くぐる",
+        "meaning": "đi xuống, vượt qua, đi qua, đi xuyên qua, lặn (xuống hoặc dưới nước), trốn tránh, đi vòng quanh, trượt qua, sống sót, vượt qua"
+      },
+      {
+        "example": "潜める",
+        "reading": "ひそめる",
+        "meaning": "giấu, giấu, giảm âm lượng (âm thanh hoặc giọng nói) để không bị nghe thấy, trở nên im lặng và kín đáo"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "二",
+      "亠",
+      "人",
+      "大",
+      "日",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28508_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f5c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f5c.gif",
+    "uri": "https://jisho.org/search/%E6%BD%9C%23kanji"
+  }
+}

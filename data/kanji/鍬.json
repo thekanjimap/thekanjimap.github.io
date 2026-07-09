@@ -1,0 +1,57 @@
+{
+  "id": "鍬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鍬",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "cuốc có lưỡi dài ở góc nhọn",
+    "kunyomi": [
+      "くわ",
+      "すき"
+    ],
+    "onyomi": [
+      "ショウ",
+      "シュウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鍬",
+        "reading": "くわ",
+        "meaning": "cuốc"
+      },
+      {
+        "example": "鍬入れ",
+        "reading": "くわいれ",
+        "meaning": "động thổ, động thổ (lễ), lễ đầu năm dùng cuốc để động thổ trên một thửa ruộng nằm ở hướng may mắn"
+      },
+      {
+        "example": "鋤鍬",
+        "reading": "すきくわ",
+        "meaning": "nông cụ"
+      },
+      {
+        "example": "木鍬",
+        "reading": "こくわ",
+        "meaning": "cuốc gỗ"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "kim loại, vàng"
+    },
+    "parts": [
+      "火",
+      "禾",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37740_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0936c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/936c.gif",
+    "uri": "https://jisho.org/search/%E9%8D%AC%23kanji"
+  }
+}

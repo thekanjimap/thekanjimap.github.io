@@ -1,0 +1,100 @@
+{
+  "id": "股",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "股",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "newspaperFrequencyRank": "2212",
+    "strokeCount": 8,
+    "meaning": "đùi, háng",
+    "kunyomi": [
+      "また",
+      "もも"
+    ],
+    "onyomi": [
+      "コ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "股間",
+        "reading": "コカン",
+        "meaning": "háng, háng, vùng giữa hai đùi"
+      },
+      {
+        "example": "股関節",
+        "reading": "コカンセツ",
+        "meaning": "khớp háng, coxa"
+      },
+      {
+        "example": "控股",
+        "reading": "コウコ",
+        "meaning": "cổ phần, công ty cổ phần"
+      },
+      {
+        "example": "四股",
+        "reading": "シコ",
+        "meaning": "nghi thức giơ chân và dậm chân của đô vật"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "股",
+        "reading": "また",
+        "meaning": "háng, đùi, háng, nạng, cái nĩa (trên cây, con đường, dòng sông, v.v.), đinh (của một cái nĩa)"
+      },
+      {
+        "example": "跨る",
+        "reading": "またがる",
+        "meaning": "dang chân, ngồi trên chân, gắn kết, kéo dài ra, trải rộng ra, kéo dài, kéo dài vào"
+      },
+      {
+        "example": "お股",
+        "reading": "おまた",
+        "meaning": "âm hộ, bộ phận sinh dục nữ, vùng sinh dục nữ"
+      },
+      {
+        "example": "小股",
+        "reading": "こまた",
+        "meaning": "bước ngắn, sải bước nhỏ, đũng quần, háng, đùi"
+      },
+      {
+        "example": "腿",
+        "reading": "もも",
+        "meaning": "đùi"
+      },
+      {
+        "example": "股白蝙蝠",
+        "reading": "ももじろこうもり",
+        "meaning": "myotis chân to (Myotis macrodactylus), dơi ngón tay dài phương đông, dơi chân lớn Nhật Bản"
+      },
+      {
+        "example": "太もも",
+        "reading": "ふともも",
+        "meaning": "đùi, mông, mông, mông, mông"
+      },
+      {
+        "example": "外股",
+        "reading": "そともも",
+        "meaning": "đùi ngoài"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "thịt"
+    },
+    "parts": [
+      "几",
+      "又",
+      "月",
+      "殳"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32929_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080a1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80a1.gif",
+    "uri": "https://jisho.org/search/%E8%82%A1%23kanji"
+  }
+}

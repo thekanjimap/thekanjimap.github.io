@@ -1,0 +1,51 @@
+{
+  "id": "吞",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "吞",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "nuốt chửng, nuốt chửng, nuốt chửng, nuốt chửng",
+    "kunyomi": [
+      "のむ"
+    ],
+    "onyomi": [
+      "ドン",
+      "トン",
+      "テン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "呑酸",
+        "reading": "ドンサン",
+        "meaning": "trào ngược axit, ợ nóng"
+      },
+      {
+        "example": "呑舟",
+        "reading": "ドンシュウ",
+        "meaning": "nuốt chửng cả một chiếc thuyền"
+      },
+      {
+        "example": "併呑",
+        "reading": "ヘイドン",
+        "meaning": "sự sáp nhập, sự hấp thụ, sự sáp nhập, sự nuốt chửng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "飲む",
+        "reading": "のむ",
+        "meaning": "uống, nuốt, uống (thuốc), hút thuốc (thuốc lá), nuốt, nhấn chìm, kìm nén (sự tức giận, cảm giác cay đắng, v.v.), kiềm chế, kiềm chế, nuốt (nước mắt), nín thở, chấp nhận (một yêu cầu, điều kiện, v.v.), đồng ý, coi thường (ai đó), không nghĩ gì đến, choáng ngợp, sợ hãi, mang theo (một con dao găm giấu kín, v.v.), để giấu (lên tay áo, v.v.)"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21534_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0541e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/541e.gif",
+    "uri": "https://jisho.org/search/%E5%90%9E%23kanji"
+  }
+}

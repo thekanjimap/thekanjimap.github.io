@@ -1,0 +1,54 @@
+{
+  "id": "峠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "峠",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1941",
+    "strokeCount": 9,
+    "meaning": "đỉnh núi, đèo, đỉnh núi, đỉnh, (kokuji)",
+    "kunyomi": [
+      "とうげ"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "峠",
+        "reading": "とうげ",
+        "meaning": "(núi) đèo, điểm cao nhất trên đường núi, sườn núi, đỉnh (ví dụ: mùa hè), tệ nhất (ví dụ: bệnh tật), khủng hoảng, điểm quan trọng, phần khó khăn nhất"
+      },
+      {
+        "example": "峠越え",
+        "reading": "とうげごえ",
+        "meaning": "vượt qua đèo núi"
+      },
+      {
+        "example": "碓氷峠",
+        "reading": "うすいとうげ",
+        "meaning": "Đèo Usui"
+      },
+      {
+        "example": "大菩薩峠",
+        "reading": "だいぼさつとうげ",
+        "meaning": "Thanh kiếm diệt vong (phim 1966)"
+      }
+    ],
+    "radical": {
+      "symbol": "山",
+      "meaning": "núi"
+    },
+    "parts": [
+      "一",
+      "卜",
+      "山",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23776_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ce0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ce0.gif",
+    "uri": "https://jisho.org/search/%E5%B3%A0%23kanji"
+  }
+}

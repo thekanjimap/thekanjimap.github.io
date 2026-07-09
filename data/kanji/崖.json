@@ -1,0 +1,78 @@
+{
+  "id": "崖",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "崖",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "strokeCount": 11,
+    "meaning": "vách đá, vách đá, vách đá",
+    "kunyomi": [
+      "がけ",
+      "きし",
+      "はて"
+    ],
+    "onyomi": [
+      "ガイ",
+      "ゲ",
+      "ギ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "崖下",
+        "reading": "ガイカ",
+        "meaning": "bên dưới một vách đá"
+      },
+      {
+        "example": "崖上",
+        "reading": "ガイジョウ",
+        "meaning": "đỉnh vách đá"
+      },
+      {
+        "example": "断層崖",
+        "reading": "ダンソウガイ",
+        "meaning": "vết nứt lỗi, vết nứt lỗi"
+      },
+      {
+        "example": "崎崖",
+        "reading": "キガイ",
+        "meaning": "độ dốc của một ngọn núi"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "崖",
+        "reading": "がけ",
+        "meaning": "vách đá, vách núi, vách núi, bờ vực của một tình huống nguy hiểm"
+      },
+      {
+        "example": "崖上",
+        "reading": "がいじょう",
+        "meaning": "đỉnh vách đá"
+      },
+      {
+        "example": "財政の崖",
+        "reading": "ざいせいのがけ",
+        "meaning": "vách đá tài chính (ví dụ: cuộc khủng hoảng tài chính Mỹ năm 2013), vách đá tài chính"
+      },
+      {
+        "example": "ガラスの崖",
+        "reading": "ガラスのがけ",
+        "meaning": "vách đá thủy tinh (lãnh đạo doanh nghiệp)"
+      }
+    ],
+    "radical": {
+      "symbol": "山",
+      "meaning": "núi"
+    },
+    "parts": [
+      "厂",
+      "土",
+      "山"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23830_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05d16.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5d16.gif",
+    "uri": "https://jisho.org/search/%E5%B4%96%23kanji"
+  }
+}

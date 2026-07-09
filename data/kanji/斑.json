@@ -1,0 +1,95 @@
+{
+  "id": "斑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "斑",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "newspaperFrequencyRank": "2165",
+    "strokeCount": 12,
+    "meaning": "đốm, vết, đốm, vết vá",
+    "kunyomi": [
+      "ふ",
+      "まだら"
+    ],
+    "onyomi": [
+      "ハン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "斑",
+        "reading": "ブチ",
+        "meaning": "đốm, đốm, lốm đốm"
+      },
+      {
+        "example": "斑岩",
+        "reading": "ハンガン",
+        "meaning": "chất xốp"
+      },
+      {
+        "example": "水斑",
+        "reading": "スイハン",
+        "meaning": "vết nước (ví dụ: lau khô trên đĩa sau khi rửa)"
+      },
+      {
+        "example": "黄斑",
+        "reading": "オウハン",
+        "meaning": "macula, macula lutea, đốm vàng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "斑",
+        "reading": "ぶち",
+        "meaning": "đốm, đốm, lốm đốm"
+      },
+      {
+        "example": "斑入り",
+        "reading": "ふいり",
+        "meaning": "đa dạng, có đốm"
+      },
+      {
+        "example": "胡麻斑",
+        "reading": "ごまふ",
+        "meaning": "đốm đen, đốm đen nhỏ (như rắc vừng)"
+      },
+      {
+        "example": "白斑",
+        "reading": "はくはん",
+        "meaning": "đốm trắng, đốm sáng, mặt, bệnh bạch biến, bệnh bạch cầu, bệnh bạch cầu"
+      },
+      {
+        "example": "斑",
+        "reading": "まだら",
+        "meaning": "đốm, đốm, lốm đốm, lốm đốm, có đốm"
+      },
+      {
+        "example": "斑海豚",
+        "reading": "まだらいるか",
+        "meaning": "cá heo đốm vùng nhiệt đới (Stenella attothyata)"
+      },
+      {
+        "example": "浅葱斑",
+        "reading": "あさぎまだら",
+        "meaning": "bướm hổ hạt dẻ (Parantica sita)"
+      },
+      {
+        "example": "鹿の子斑",
+        "reading": "かのこまだら",
+        "meaning": "hoa văn đốm trắng, đốm"
+      }
+    ],
+    "radical": {
+      "symbol": "文",
+      "meaning": "kịch bản, văn học"
+    },
+    "parts": [
+      "文",
+      "王"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26001_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06591.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6591.gif",
+    "uri": "https://jisho.org/search/%E6%96%91%23kanji"
+  }
+}

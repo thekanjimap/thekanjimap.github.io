@@ -1,0 +1,73 @@
+{
+  "id": "釜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "釜",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "newspaperFrequencyRank": "1761",
+    "strokeCount": 10,
+    "meaning": "ấm đun nước, vạc, nồi sắt",
+    "kunyomi": [
+      "かま"
+    ],
+    "onyomi": [
+      "フ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "釜山",
+        "reading": "プサン",
+        "meaning": "Busan (Hàn Quốc), Pusan"
+      },
+      {
+        "example": "釜中の魚",
+        "reading": "フチュウノウオ",
+        "meaning": "cá trong nồi sắp luộc, người vui mừng không biết nguy hiểm chết người"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "釜",
+        "reading": "かま",
+        "meaning": "nồi sắt, ấm đun nước"
+      },
+      {
+        "example": "釜揚げうどん",
+        "reading": "かまあげうどん",
+        "meaning": "udon thẳng từ nồi, mì udon được kéo thẳng từ nồi và phục vụ trong nước nóng dùng để đun sôi (theo truyền thống không được ngâm trong nước lạnh), ăn bằng cách chấm với nước sốt"
+      },
+      {
+        "example": "お釜",
+        "reading": "おかま",
+        "meaning": "nồi, miệng núi lửa (núi lửa), mông, người đồng tính nam ẻo lả, người chuyển giới nam, người phụ nữ chuyển giới (trước phẫu thuật), gái mại dâm nam (đồng tính nam)"
+      },
+      {
+        "example": "一つ釜",
+        "reading": "ひとつかま",
+        "meaning": "một hoặc cùng một nồi, ăn hoặc sống cùng nhau"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "kim loại, vàng"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "丶",
+      "干",
+      "并",
+      "父",
+      "王",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37340_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091dc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91dc.gif",
+    "uri": "https://jisho.org/search/%E9%87%9C%23kanji"
+  }
+}

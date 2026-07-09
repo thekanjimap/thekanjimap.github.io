@@ -1,0 +1,46 @@
+{
+  "id": "畢",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "畢",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "sự kết thúc, kết thúc",
+    "kunyomi": [
+      "おわ.る",
+      "あみ",
+      "おわ.り",
+      "ことごとく"
+    ],
+    "onyomi": [
+      "ヒツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "畢",
+        "reading": "ヒツ",
+        "meaning": "Chòm sao “Net” Trung Hoa (một trong 28 dinh thự)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "終わる",
+        "reading": "おわる",
+        "meaning": "kết thúc, kết thúc, kết thúc, kết thúc, kết thúc, kết thúc, hoàn thành, kết thúc, làm xong, đã qua thời kỳ đỉnh cao của nó, khủng khiếp, khủng khiếp, tệ hại, vô vọng"
+      }
+    ],
+    "radical": {
+      "symbol": "田",
+      "meaning": "lĩnh vực"
+    },
+    "parts": [
+      "一",
+      "田",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30050_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07562.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7562.gif",
+    "uri": "https://jisho.org/search/%E7%95%A2%23kanji"
+  }
+}

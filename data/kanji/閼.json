@@ -1,0 +1,47 @@
+{
+  "id": "閼",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "閼",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "cản trở, che giấu",
+    "kunyomi": [
+      "とど.める",
+      "ふさ.ぐ"
+    ],
+    "onyomi": [
+      "ア",
+      "アツ",
+      "エン",
+      "ヨ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "閼伽",
+        "reading": "アカ",
+        "meaning": "nước cúng Phật, nước thánh"
+      },
+      {
+        "example": "閼伽棚",
+        "reading": "アカダナ",
+        "meaning": "kệ để đồ cúng (nước, hoa, v.v.)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "門",
+      "meaning": "cánh cổng"
+    },
+    "parts": [
+      "个",
+      "冫",
+      "方",
+      "門"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38332_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095bc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95bc.gif",
+    "uri": "https://jisho.org/search/%E9%96%BC%23kanji"
+  }
+}

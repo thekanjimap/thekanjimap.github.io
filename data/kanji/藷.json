@@ -1,0 +1,78 @@
+{
+  "id": "藷",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "藷",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "khoai tây",
+    "kunyomi": [
+      "いも"
+    ],
+    "onyomi": [
+      "ショ",
+      "ジョ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "山の芋",
+        "reading": "ヤマノイモ",
+        "meaning": "Khoai lang Nhật (Dioscorea japonica)"
+      },
+      {
+        "example": "馬鈴薯",
+        "reading": "バレイショ",
+        "meaning": "khoai tây (Solanum tuberosum)"
+      },
+      {
+        "example": "蕃薯",
+        "reading": "バンショ",
+        "meaning": "khoai lang"
+      },
+      {
+        "example": "山の芋",
+        "reading": "ヤマノイモ",
+        "meaning": "Khoai lang Nhật (Dioscorea japonica)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "芋",
+        "reading": "いも",
+        "meaning": "củ, khoai môn, khoai tây, khoai mỡ, yokel, nhàu, ngu ngốc, đồ vô giá trị"
+      },
+      {
+        "example": "芋焼酎",
+        "reading": "いもじょうちゅう",
+        "meaning": "shochu khoai lang"
+      },
+      {
+        "example": "焼き芋",
+        "reading": "やきいも",
+        "meaning": "khoai lang nướng, khoai lang nướng"
+      },
+      {
+        "example": "蘿芋",
+        "reading": "ががいも",
+        "meaning": "khoai tây thô (Metaplexis japonica)"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "日",
+      "老",
+      "艾",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34295_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085f7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85f7.gif",
+    "uri": "https://jisho.org/search/%E8%97%B7%23kanji"
+  }
+}

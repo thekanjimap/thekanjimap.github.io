@@ -1,0 +1,40 @@
+{
+  "id": "婁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "婁",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "thường xuyên, buộc",
+    "kunyomi": [
+      "つな.ぐ",
+      "ひ.く"
+    ],
+    "onyomi": [
+      "ル",
+      "ロウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "婁",
+        "reading": "ロウ",
+        "meaning": "Chòm sao \"Trái phiếu\" Trung Quốc (một trong 28 biệt thự)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "女",
+      "meaning": "phụ nữ, nữ"
+    },
+    "parts": [
+      "一",
+      "口",
+      "女",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23105_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a41.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a41.gif",
+    "uri": "https://jisho.org/search/%E5%A9%81%23kanji"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "尖",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "尖",
+    "found": true,
+    "newspaperFrequencyRank": "2133",
+    "strokeCount": 6,
+    "meaning": "nhọn, nhọn, nhọn, khó chịu, giận dữ, sắc sảo",
+    "kunyomi": [
+      "とが.る",
+      "さき",
+      "するど.い"
+    ],
+    "onyomi": [
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "先端",
+        "reading": "センタン",
+        "meaning": "đầu nhọn, chóp, điểm, đỉnh (của chiếc lá, hình trăng lưỡi liềm, v.v.), đỉnh (của một đường cong), tiền tuyến, tiên phong, mũi nhọn, cạnh dẫn đầu"
+      },
+      {
+        "example": "先鋭",
+        "reading": "センエイ",
+        "meaning": "triệt để, gay gắt, sắc bén"
+      },
+      {
+        "example": "肺尖",
+        "reading": "ハイセン",
+        "meaning": "đỉnh phổi, đỉnh phổi"
+      },
+      {
+        "example": "刀尖",
+        "reading": "トウセン",
+        "meaning": "mũi kiếm"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "尖る",
+        "reading": "とがる",
+        "meaning": "thuôn nhọn về một điểm, trở nên nhọn, trở nên sắc bén, cáu kỉnh, lo lắng, cáu kỉnh, nhạy cảm, sắc sảo (giọng nói, lời nói, v.v.), gay gắt, tức giận, có vẻ khó chịu, có vẻ chua chát, khiêu khích, cực đoan, nổi loạn"
+      },
+      {
+        "example": "切っ先",
+        "reading": "きっさき",
+        "meaning": "mũi nhọn (của một thanh kiếm, v.v.), đòn tấn công bằng lời nói"
+      },
+      {
+        "example": "雛頭",
+        "reading": "ひなさき",
+        "meaning": "phần hơi nhô ra phía trước của eboshi, âm vật"
+      },
+      {
+        "example": "鋭い",
+        "reading": "するどい",
+        "meaning": "sắc (dao, móng vuốt, v.v.), nhọn, sắc (đau, giọng điệu, v.v.), sắc bén, đâm, cắt (nhận xét, phê bình, v.v.), châm chích, cắn, dữ dội (tấn công), nhọn (câu hỏi, nhìn, v.v.), xuyên thấu (nhìn), chói tai (âm thanh), nhạy bén (trực giác, khứu giác, v.v.), sắc bén, sắc bén (mắt, tâm trí, v.v.), sắc sảo, sắc sảo, sáng suốt, xuyên thấu (cái nhìn sâu sắc, câu hỏi, v.v.), nhạy bén"
+      }
+    ],
+    "radical": {
+      "symbol": "小",
+      "meaning": "nhỏ, không đáng kể"
+    },
+    "parts": [
+      "大",
+      "小"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23574_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c16.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c16.gif",
+    "uri": "https://jisho.org/search/%E5%B0%96%23kanji"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "桎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "桎",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "xiềng xích",
+    "kunyomi": [
+      "あしかせ"
+    ],
+    "onyomi": [
+      "シツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "梏桎",
+        "reading": "コクシツ",
+        "meaning": "xiềng xích, sự ràng buộc"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "足かせ",
+        "reading": "あしかせ",
+        "meaning": "gông cùm, xiềng xích, xiềng xích, vướng víu, trở ngại, gánh nặng, bẫy"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "一",
+      "厶",
+      "土",
+      "木",
+      "至"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26702_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0684e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/684e.gif",
+    "uri": "https://jisho.org/search/%E6%A1%8E%23kanji"
+  }
+}

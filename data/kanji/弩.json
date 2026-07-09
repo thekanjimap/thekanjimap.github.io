@@ -1,0 +1,54 @@
+{
+  "id": "弩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "弩",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "cung (mũi tên)",
+    "kunyomi": [
+      "おおゆみ",
+      "いしゆみ"
+    ],
+    "onyomi": [
+      "ド"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "弩",
+        "reading": "ド",
+        "meaning": "nỏ"
+      },
+      {
+        "example": "弩級",
+        "reading": "ドキュウ",
+        "meaning": "lớp dreadnought (của tàu chiến)"
+      },
+      {
+        "example": "強弩",
+        "reading": "キョウド",
+        "meaning": "cung mạnh, cung cứng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "石弓",
+        "reading": "いしゆみ",
+        "meaning": "nỏ (bao gồm các loại nỏ lớn do nhiều người vận hành), thiết bị có lưới trên đỉnh tường chứa những viên đá lớn, được thả xuống kẻ tấn công bằng cách cắt lưới, súng cao su, máy bắn đá"
+      }
+    ],
+    "radical": {
+      "symbol": "弓",
+      "meaning": "cúi đầu"
+    },
+    "parts": [
+      "又",
+      "女",
+      "弓"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24361_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f29.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f29.gif",
+    "uri": "https://jisho.org/search/%E5%BC%A9%23kanji"
+  }
+}

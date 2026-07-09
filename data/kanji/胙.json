@@ -1,0 +1,41 @@
+{
+  "id": "胙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "胙",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "lễ vật dâng thần",
+    "kunyomi": [
+      "ひもろぎ"
+    ],
+    "onyomi": [
+      "ソ",
+      "サク"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "胙",
+        "reading": "ひもろぎ",
+        "meaning": "cúng dường thực phẩm (cho các vị thần)"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "thịt"
+    },
+    "parts": [
+      "ノ",
+      "月",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32985_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080d9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80d9.gif",
+    "uri": "https://jisho.org/search/%E8%83%99%23kanji"
+  }
+}

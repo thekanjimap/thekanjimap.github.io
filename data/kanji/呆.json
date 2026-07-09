@@ -1,0 +1,66 @@
+{
+  "id": "呆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "呆",
+    "found": true,
+    "newspaperFrequencyRank": "1848",
+    "strokeCount": 7,
+    "meaning": "làm ngạc nhiên, chán ghét, bị sốc",
+    "kunyomi": [
+      "ほけ.る",
+      "ぼ.ける",
+      "あき.れる",
+      "おろか"
+    ],
+    "onyomi": [
+      "ホウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "呆",
+        "reading": "ホウ",
+        "meaning": "(tôi) bị sốc"
+      },
+      {
+        "example": "惚ける",
+        "reading": "ホウケル",
+        "meaning": "đầu óc chậm chạp, ngơ ngác, say mê, say mê, trở nên xơ xác và rối bù (tóc, cỏ, v.v.), trở nên bồng bềnh"
+      },
+      {
+        "example": "痴呆",
+        "reading": "チホウ",
+        "meaning": "chứng mất trí, sự ngu xuẩn, sự ngu xuẩn, sự ngu ngốc, ngu ngốc"
+      },
+      {
+        "example": "踊る阿呆に見る阿呆",
+        "reading": "オドルアホウニミルアホウ",
+        "meaning": "bạn là kẻ ngốc nếu bạn nhảy múa, và là kẻ ngốc nếu bạn chỉ đứng nhìn; tất cả chúng ta đều là những kẻ ngốc, vì vậy hãy nhảy nào"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "【ボケる】",
+        "reading": "to grow senile, to be childish with age, to be mentally slow, to be befuddled, to play stupid, to say something stupid (oft. on purpose; esp. as part of a comedic routine)",
+        "meaning": ""
+      },
+      {
+        "example": "呆れる",
+        "reading": "あきれる",
+        "meaning": "làm ngạc nhiên, làm sửng sốt, làm kinh ngạc, làm kinh ngạc, làm kinh ngạc, làm kinh ngạc, làm bực tức, làm chán ngấy"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "口",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21574_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05446.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5446.gif",
+    "uri": "https://jisho.org/search/%E5%91%86%23kanji"
+  }
+}

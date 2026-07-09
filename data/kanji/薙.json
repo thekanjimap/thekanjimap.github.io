@@ -1,0 +1,54 @@
+{
+  "id": "薙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "薙",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "hạ gục (kẻ thù)",
+    "kunyomi": [
+      "な.ぐ",
+      "なぎ",
+      "か.る"
+    ],
+    "onyomi": [
+      "テイ",
+      "チ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "薙ぐ",
+        "reading": "なぐ",
+        "meaning": "chặt (cỏ, v.v.; bằng cách vung liềm, lưỡi hái, v.v.), cắt cỏ"
+      },
+      {
+        "example": "なぎ倒す",
+        "reading": "なぎたおす",
+        "meaning": "hạ gục, chặt hạ, hạ gục, đánh bại, đánh bại"
+      },
+      {
+        "example": "薙刀",
+        "reading": "なぎなた",
+        "meaning": "naginata, cây sào có lưỡi cong một lưỡi (tương tự như đao), naginata, võ thuật sử dụng naginata"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "乞",
+      "矢",
+      "艾",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34201_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08599.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8599.gif",
+    "uri": "https://jisho.org/search/%E8%96%99%23kanji"
+  }
+}

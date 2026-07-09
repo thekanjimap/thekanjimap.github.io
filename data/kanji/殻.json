@@ -1,0 +1,106 @@
+{
+  "id": "殻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "殻",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1892",
+    "strokeCount": 11,
+    "meaning": "vỏ trấu, vỏ hạt",
+    "kunyomi": [
+      "から",
+      "がら"
+    ],
+    "onyomi": [
+      "カク",
+      "コク",
+      "バイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "殻",
+        "reading": "カク",
+        "meaning": "vỏ (ví dụ vỏ electron)"
+      },
+      {
+        "example": "殻果",
+        "reading": "カクカ",
+        "meaning": "hạt có vỏ cứng (ví dụ: quả óc chó, quả hồ đào, quả hạnh nhân)"
+      },
+      {
+        "example": "地殻",
+        "reading": "チカク",
+        "meaning": "(Trái Đất) vỏ"
+      },
+      {
+        "example": "介殻",
+        "reading": "カイカク",
+        "meaning": "vỏ sò biển"
+      },
+      {
+        "example": "枸橘",
+        "reading": "カラタチ",
+        "meaning": "cam ba lá (Poncirus trifoliata), cam cứng"
+      },
+      {
+        "example": "船殻",
+        "reading": "センコク",
+        "meaning": "thân tàu"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "殻",
+        "reading": "から",
+        "meaning": "vỏ, trấu, vỏ, vỏ, trấu"
+      },
+      {
+        "example": "殻竿",
+        "reading": "からざお",
+        "meaning": "đòn đập lúa (để đập lúa)"
+      },
+      {
+        "example": "雪花菜",
+        "reading": "おから",
+        "meaning": "đậu bắp, bã đậu nành, bã đậu phụ, bã ăn được tách ra từ sữa đậu nành trong sản xuất đậu phụ"
+      },
+      {
+        "example": "もぬけの殻",
+        "reading": "もぬけのから",
+        "meaning": "hoàn toàn trống rỗng (nơi ở, v.v.), trống rỗng, hoang vắng, cơ thể mà linh hồn đã rời đi, xác chết, da lột (của rắn, côn trùng, v.v.)"
+      },
+      {
+        "example": "殻",
+        "reading": "がら",
+        "meaning": "xương gà (ví dụ để nấu súp), xác gà, than cốc (than) kém chất lượng, thức ăn thừa, thức ăn thừa"
+      },
+      {
+        "example": "灰殻",
+        "reading": "はいがら",
+        "meaning": "tro"
+      },
+      {
+        "example": "燃え殻",
+        "reading": "もえがら",
+        "meaning": "than hồng, than, cặn cháy, cặn cháy"
+      }
+    ],
+    "radical": {
+      "symbol": "殳",
+      "meaning": "vũ khí, thương"
+    },
+    "parts": [
+      "冖",
+      "几",
+      "又",
+      "士",
+      "殳"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27579_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bbb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bbb.gif",
+    "uri": "https://jisho.org/search/%E6%AE%BB%23kanji"
+  }
+}

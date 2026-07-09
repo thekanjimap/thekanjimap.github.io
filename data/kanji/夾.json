@@ -1,0 +1,42 @@
+{
+  "id": "夾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "夾",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "chèn vào giữa",
+    "kunyomi": [
+      "はさ.む"
+    ],
+    "onyomi": [
+      "キョウ",
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "夾角",
+        "reading": "キョウカク",
+        "meaning": "góc chứa, góc chứa"
+      },
+      {
+        "example": "挟撃",
+        "reading": "キョウゲキ",
+        "meaning": "tấn công hai bên, chuyển động gọng kìm, bao bọc kép"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "大",
+      "meaning": "lớn, rất"
+    },
+    "parts": [
+      "人",
+      "大"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22846_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0593e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/593e.gif",
+    "uri": "https://jisho.org/search/%E5%A4%BE%23kanji"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "洞",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "洞",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1618",
+    "strokeCount": 9,
+    "meaning": "hang động, hang động, khai quật",
+    "kunyomi": [
+      "ほら"
+    ],
+    "onyomi": [
+      "ドウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "洞",
+        "reading": "ドウ",
+        "meaning": "xoang, khoang, hang vị, khu phố (bộ phận hành chính ở Bắc Triều Tiên)"
+      },
+      {
+        "example": "洞察",
+        "reading": "ドウサツ",
+        "meaning": "sự sáng suốt, sự sáng suốt"
+      },
+      {
+        "example": "空洞",
+        "reading": "クウドウ",
+        "meaning": "khoang, rỗng, hang động, hang động, rỗng"
+      },
+      {
+        "example": "風洞",
+        "reading": "フウドウ",
+        "meaning": "hầm gió"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "洞",
+        "reading": "ほら",
+        "meaning": "rỗng, khoang, lỗ, hang động"
+      },
+      {
+        "example": "洞穴",
+        "reading": "ほらあな",
+        "meaning": "hang động, hang động, hang động"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "一",
+      "冂",
+      "口",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27934_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d1e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d1e.gif",
+    "uri": "https://jisho.org/search/%E6%B4%9E%23kanji"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "虎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "虎",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1653",
+    "strokeCount": 8,
+    "meaning": "hổ, người say rượu",
+    "kunyomi": [
+      "とら"
+    ],
+    "onyomi": [
+      "コ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "虎列刺",
+        "reading": "コレラ",
+        "meaning": "bệnh tả"
+      },
+      {
+        "example": "虎疫",
+        "reading": "コエキ",
+        "meaning": "bệnh tả"
+      },
+      {
+        "example": "猛虎",
+        "reading": "モウコ",
+        "meaning": "hổ hung dữ, hổ hung dữ, Hanshin Tigers (đội bóng chày)"
+      },
+      {
+        "example": "竜虎",
+        "reading": "リュウコ",
+        "meaning": "rồng và hổ, hai đối thủ hùng mạnh"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "虎",
+        "reading": "とら",
+        "meaning": "hổ (Panthera tigris), say rượu, say rượu, say"
+      },
+      {
+        "example": "虎葦毛",
+        "reading": "とらあしげ",
+        "meaning": "xám lốm đốm (màu lông ngựa), xám lốm đốm"
+      },
+      {
+        "example": "大虎",
+        "reading": "おおとら",
+        "meaning": "con hổ lớn, kẻ nghiện rượu, kẻ say khướt"
+      },
+      {
+        "example": "小虎",
+        "reading": "ことら",
+        "meaning": "con hổ nhỏ, người ít uống rượu, người thỉnh thoảng uống rượu"
+      }
+    ],
+    "radical": {
+      "symbol": "虍",
+      "meaning": "sọc hổ"
+    },
+    "parts": [
+      "儿",
+      "匕",
+      "卜",
+      "厂",
+      "虍"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34382_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0864e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/864e.gif",
+    "uri": "https://jisho.org/search/%E8%99%8E%23kanji"
+  }
+}

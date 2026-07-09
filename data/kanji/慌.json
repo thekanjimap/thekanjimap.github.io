@@ -1,0 +1,66 @@
+{
+  "id": "慌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "慌",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "newspaperFrequencyRank": "1826",
+    "strokeCount": 12,
+    "meaning": "bối rối, bối rối, mất đầu",
+    "kunyomi": [
+      "あわ.てる",
+      "あわ.ただしい"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "世界恐慌",
+        "reading": "セカイキョウコウ",
+        "meaning": "khủng hoảng tài chính toàn cầu, suy thoái toàn cầu"
+      },
+      {
+        "example": "経済恐慌",
+        "reading": "ケイザイキョウコウ",
+        "meaning": "hoảng loạn tài chính, khủng hoảng kinh tế, khủng hoảng kinh tế"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "慌てる",
+        "reading": "あわてる",
+        "meaning": "trở nên bối rối (bối rối, vô tổ chức, vô tổ chức), bối rối, hoảng sợ, vội vã, vội vã, vội vã"
+      },
+      {
+        "example": "慌てる乞食はもらいが少ない",
+        "reading": "あわてるこじきはもらいがすくない",
+        "meaning": "chậm và chắc sẽ thắng cuộc đua, có may mắn ở lần giúp đỡ cuối cùng"
+      },
+      {
+        "example": "慌ただしい",
+        "reading": "あわただしい",
+        "meaning": "bận rộn, vội vã, vội vã, vội vàng, nhanh chóng, đột ngột"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "亡",
+      "川",
+      "忙",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24908_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0614c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/614c.gif",
+    "uri": "https://jisho.org/search/%E6%85%8C%23kanji"
+  }
+}

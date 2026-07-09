@@ -1,0 +1,420 @@
+{
+  "id": "門",
+  "kanjialiveData": {
+    "_id": "54317afc791eba5146ee4b49",
+    "_rev": "10-ecc6dea30696bfc6d92e1898e867143a",
+    "rad_name_ja": "もんがまえ",
+    "grade": 2,
+    "hint_group": 1,
+    "kunyomi": "kado",
+    "meaning": "cánh cổng",
+    "kstroke": 8,
+    "examples": [
+      {
+        "japanese": "門（もん）",
+        "meaning": {
+          "english": "cánh cổng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)mon_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(nyuu)mon_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(nyuu)mon_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(nyuu)mon_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "正門（せいもん）",
+        "meaning": {
+          "english": "cổng chính"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)mon_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(nyuu)mon_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(nyuu)mon_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(nyuu)mon_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "校門（こうもん）",
+        "meaning": {
+          "english": "cổng trường"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)mon_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(nyuu)mon_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(nyuu)mon_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(nyuu)mon_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "専門（せんもん）",
+        "meaning": {
+          "english": "đặc sản"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)mon_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(nyuu)mon_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(nyuu)mon_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(nyuu)mon_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "部門（ぶもん）",
+        "meaning": {
+          "english": "thể loại"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)mon_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(nyuu)mon_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(nyuu)mon_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(nyuu)mon_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "名門（めいもん）",
+        "meaning": {
+          "english": "gia đình ưu tú"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)mon_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(nyuu)mon_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(nyuu)mon_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(nyuu)mon_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "入門する（にゅうもんする）",
+        "meaning": {
+          "english": "vào một học viện"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)mon_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(nyuu)mon_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(nyuu)mon_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(nyuu)mon_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "破門する（はもんする）",
+        "meaning": {
+          "english": "trục xuất"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)mon_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(nyuu)mon_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(nyuu)mon_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(nyuu)mon_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "門（かど）",
+        "meaning": {
+          "english": "cánh cổng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)mon_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(nyuu)mon_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(nyuu)mon_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(nyuu)mon_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "門出（かどで）",
+        "meaning": {
+          "english": "khởi hành, khởi hành"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(nyuu)mon_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(nyuu)mon_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(nyuu)mon_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(nyuu)mon_06_j.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "かど",
+    "ka_utf": "門",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=門",
+    "rad_name_search": [
+      "mongamae"
+    ],
+    "rad_order": 208,
+    "txt_books": [
+      {
+        "chapter": "10",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "1",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtAd2"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "19",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "6"
+      }
+    ],
+    "kname": "(nyuu)mon",
+    "rad_utf": "⾨",
+    "stroketimes": [
+      0,
+      1.6,
+      3.266667,
+      4.066667,
+      4.933333,
+      6.066667,
+      8.6,
+      9.333333,
+      10.6
+    ],
+    "kunyomi_ka_display": "かど",
+    "dick": "597",
+    "rad_name": "mongamae",
+    "dicn": "4940",
+    "mn_hint": "Please view the animation in the radical field to the left.",
+    "rad_stroke": 8,
+    "onyomi_ja": "モン",
+    "rad_meaning": "cổng, cửa",
+    "onyomi": "mon",
+    "ka_id": "ka_622",
+    "rad_position": "kamae, mongamae",
+    "rad_position_ja": "かまえ, もんがまえ",
+    "rad_position_search": [
+      "kamae",
+      "mongamae",
+      "kamae, mongamae"
+    ],
+    "onyomi_search": [
+      "mon",
+      "mon"
+    ],
+    "kunyomi_search": [
+      "kado",
+      "kado"
+    ],
+    "meaning_search": [
+      "gate",
+      "gate"
+    ],
+    "onyomi_ja_search": [
+      "モン",
+      "モン"
+    ],
+    "kunyomi_ja_search": [
+      "かど",
+      "かど"
+    ],
+    "rad_meaning_search": [
+      "gate",
+      "door",
+      "gate, door"
+    ],
+    "rad_position_ja_search": [
+      "かまえ",
+      "もんがまえ",
+      "かまえ, もんがまえ"
+    ],
+    "rad_name_ja_search": [
+      "もんがまえ"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:10",
+      "ij:c10",
+      "bk",
+      "bk:1",
+      "bk:c1",
+      "aij3",
+      "aij3:6",
+      "aij3:c6",
+      "aij3:v2",
+      "aij3:v2:6",
+      "aij3:v2:c6",
+      "ap",
+      "ap:19",
+      "ap:c19",
+      "kll",
+      "kll:3",
+      "kll:c3",
+      "cijr",
+      "cijr:6",
+      "cijr:c6"
+    ],
+    "rad_name_file": "mongamae",
+    "kanji": {
+      "character": "門",
+      "meaning": {
+        "english": "gate"
+      },
+      "strokes": {
+        "count": 8,
+        "timings": [
+          0,
+          1.6,
+          3.266667,
+          4.066667,
+          4.933333,
+          6.066667,
+          8.6,
+          9.333333,
+          10.6
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/(nyuu)mon_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/(nyuu)mon_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/(nyuu)mon_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/(nyuu)mon_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/(nyuu)mon_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/(nyuu)mon_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/(nyuu)mon_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/(nyuu)mon_8.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "mon",
+        "katakana": "モン"
+      },
+      "kunyomi": {
+        "romaji": "kado",
+        "hiragana": "かど"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/(nyuu)mon_8.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/(nyuu)mon_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/(nyuu)mon_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⾨",
+      "strokes": 8,
+      "image": "https://media.kanjialive.com/radical_character/mongamae.svg",
+      "position": {
+        "hiragana": "かまえ, もんがまえ",
+        "romaji": "kamae, mongamae",
+        "icon": "https://media.kanjialive.com/rad_positions/mongamae.svg"
+      },
+      "name": {
+        "hiragana": "もんがまえ",
+        "romaji": "mongamae"
+      },
+      "meaning": {
+        "english": "cổng, cửa"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/mongamae0.svg",
+        "https://media.kanjialive.com/rad_frames/mongamae1.svg",
+        "https://media.kanjialive.com/rad_frames/mongamae2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "597",
+      "classic_nelson": "4940"
+    }
+  },
+  "jishoData": {
+    "query": "門",
+    "found": true,
+    "taughtIn": "lớp 2",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "452",
+    "strokeCount": 8,
+    "meaning": "cổng, quầy đựng đại bác",
+    "kunyomi": [
+      "かど",
+      "と"
+    ],
+    "onyomi": [
+      "モン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "門",
+        "reading": "モン",
+        "meaning": "cổng, nhánh học tập dựa trên lời dạy của một bậc thầy duy nhất, phân chia, ngành, phản pháo"
+      },
+      {
+        "example": "門下",
+        "reading": "モンカ",
+        "meaning": "người học trò, người học trò, người đi theo"
+      },
+      {
+        "example": "入門",
+        "reading": "ニュウモン",
+        "meaning": "trở thành học trò (của), trở thành đệ tử, vào học viện, bắt đầu đào tạo, giới thiệu (đến), sơ khai, hướng dẫn, bước vào qua cổng"
+      },
+      {
+        "example": "宗門",
+        "reading": "シュウモン",
+        "meaning": "(tôn giáo) giáo phái, giáo phái"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "門",
+        "reading": "もん",
+        "meaning": "cổng, nhánh học tập dựa trên lời dạy của một bậc thầy duy nhất, phân chia, ngành, phản pháo"
+      },
+      {
+        "example": "門出",
+        "reading": "かどで",
+        "meaning": "khởi hành (trên một hành trình dài), lên đường, khởi hành (ví dụ: về phía trước), rời nhà, bắt đầu một cuộc sống mới, bắt đầu lại cuộc sống"
+      },
+      {
+        "example": "帝",
+        "reading": "みかど",
+        "meaning": "hoàng đế (của Nhật Bản), mikado, (cổng của một) nơi ở của hoàng gia"
+      },
+      {
+        "example": "口は災いの門",
+        "reading": "くちはわざわいのかど",
+        "meaning": "lời nói có thể dẫn đến tai họa, cái lưỡi là gốc rễ của tai họa, càng mở miệng càng dễ nhúng chân vào đó"
+      },
+      {
+        "example": "戸",
+        "reading": "と",
+        "meaning": "cửa (đặc biệt là kiểu Nhật), cửa chớp, cửa chớp, lối vào (vào nhà), thu hẹp"
+      },
+      {
+        "example": "門浪",
+        "reading": "となみ",
+        "meaning": "sóng ở eo biển hẹp"
+      },
+      {
+        "example": "鳴門",
+        "reading": "なると",
+        "meaning": "eo biển với thủy triều lên xuống ầm ầm, xoáy nước, xoáy nước, kamaboko với mô hình xoắn ốc giống như xoáy nước, kỹ thuật nấu ăn trong đó nguyên liệu được cắt theo mô hình xoắn ốc, Naruto (thành phố ở Tokushima), eo biển Naruto, Naruto wakame"
+      },
+      {
+        "example": "長門",
+        "reading": "ながと",
+        "meaning": "Nagato (tỉnh cũ nằm ở phía tây tỉnh Yamaguchi ngày nay)"
+      }
+    ],
+    "radical": {
+      "symbol": "門",
+      "meaning": "cánh cổng"
+    },
+    "parts": [
+      "門"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38272_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09580.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9580.gif",
+    "uri": "https://jisho.org/search/%E9%96%80%23kanji"
+  }
+}

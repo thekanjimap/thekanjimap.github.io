@@ -1,0 +1,57 @@
+{
+  "id": "杵",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "杵",
+    "found": true,
+    "newspaperFrequencyRank": "2355",
+    "strokeCount": 8,
+    "meaning": "chày gỗ",
+    "kunyomi": [
+      "きね"
+    ],
+    "onyomi": [
+      "ショ",
+      "ソ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "杵",
+        "reading": "ショ",
+        "meaning": "vajra (vũ khí thần bí trong Ấn Độ giáo và Phật giáo)"
+      },
+      {
+        "example": "金剛杵",
+        "reading": "コンゴウショ",
+        "meaning": "vajra (vũ khí thần bí trong Ấn Độ giáo và Phật giáo)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "杵",
+        "reading": "きね",
+        "meaning": "chày, chày, chày"
+      },
+      {
+        "example": "杵柄",
+        "reading": "きねづか",
+        "meaning": "tay cầm vồ"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "ノ",
+      "乞",
+      "十",
+      "干",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26485_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06775.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6775.gif",
+    "uri": "https://jisho.org/search/%E6%9D%B5%23kanji"
+  }
+}

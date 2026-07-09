@@ -1,0 +1,65 @@
+{
+  "id": "涯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "涯",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1525",
+    "strokeCount": 11,
+    "meaning": "chân trời, bờ biển, giới hạn, ràng buộc",
+    "kunyomi": [
+      "はて"
+    ],
+    "onyomi": [
+      "ガイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "際涯",
+        "reading": "サイガイ",
+        "meaning": "giới hạn, ranh giới, kết thúc"
+      },
+      {
+        "example": "水涯",
+        "reading": "スイガイ",
+        "meaning": "mép nước"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "涯",
+        "reading": "はて",
+        "meaning": "chân trời"
+      },
+      {
+        "example": "世界の果て",
+        "reading": "せかいのはて",
+        "meaning": "nơi tận cùng thế giới, nơi xa nhất của trái đất"
+      },
+      {
+        "example": "雪の果て",
+        "reading": "ゆきのはて",
+        "meaning": "trận tuyết cuối cùng, trận tuyết còn sót lại sau ngày Phật đản"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "厂",
+      "土",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28079_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06daf.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6daf.gif",
+    "uri": "https://jisho.org/search/%E6%B6%AF%23kanji"
+  }
+}

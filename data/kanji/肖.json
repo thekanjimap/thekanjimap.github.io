@@ -1,0 +1,58 @@
+{
+  "id": "肖",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "肖",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1889",
+    "strokeCount": 7,
+    "meaning": "sự giống nhau",
+    "kunyomi": [
+      "あやか.る"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "肖像",
+        "reading": "ショウゾウ",
+        "meaning": "chân dung, chân dung, hình ảnh"
+      },
+      {
+        "example": "肖像画",
+        "reading": "ショウゾウガ",
+        "meaning": "Chân dung"
+      },
+      {
+        "example": "不肖",
+        "reading": "フショウ",
+        "meaning": "không xứng đáng (với cha, thầy, v.v.), tôi, tôi, bất tài, không có kỹ năng, thiếu kinh nghiệm, ngu ngốc, bất hạnh, xui xẻo"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "肖る",
+        "reading": "あやかる",
+        "meaning": "chia sẻ sự may mắn của (ai đó), noi gương (của ai đó), tận hưởng những lợi ích tương tự (của ai đó hoặc điều gì đó), tận dụng (sự phổ biến của một cái gì đó), được đặt theo tên"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "thịt"
+    },
+    "parts": [
+      "尚",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32918_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08096.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8096.gif",
+    "uri": "https://jisho.org/search/%E8%82%96%23kanji"
+  }
+}

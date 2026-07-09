@@ -1,0 +1,50 @@
+{
+  "id": "袍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "袍",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "áo khoác",
+    "kunyomi": [
+      "わたいれ"
+    ],
+    "onyomi": [
+      "ホウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "袍",
+        "reading": "ホウ",
+        "meaning": "áo choàng cổ tròn được mặc bởi các thành viên quý tộc và triều đình"
+      },
+      {
+        "example": "縫腋の袍",
+        "reading": "ホウエキノホウ",
+        "meaning": "Áo choàng cổ tròn, có đường khâu hai bên, được hoàng đế và các quan chức cấp cao mặc"
+      },
+      {
+        "example": "闕腋の袍",
+        "reading": "ケッテキノホウ",
+        "meaning": "áo choàng được mặc bởi các quan chức quân đội có cổ tròn, hai bên hở và không có đường chạy"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "quần áo"
+    },
+    "parts": [
+      "初",
+      "勹",
+      "已"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34957_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0888d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/888d.gif",
+    "uri": "https://jisho.org/search/%E8%A2%8D%23kanji"
+  }
+}

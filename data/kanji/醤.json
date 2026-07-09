@@ -1,0 +1,60 @@
+{
+  "id": "醤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "醤",
+    "found": true,
+    "newspaperFrequencyRank": "2485",
+    "strokeCount": 17,
+    "meaning": "một loại miso",
+    "kunyomi": [
+      "ひしお"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "醤油",
+        "reading": "ショウユ",
+        "meaning": "nước tương, nước tương, nước tương"
+      },
+      {
+        "example": "醤油炒め",
+        "reading": "ショウユイタメ",
+        "meaning": "món chiên tẩm nước tương"
+      },
+      {
+        "example": "肉醤",
+        "reading": "シシビシオ",
+        "meaning": "thịt hoặc cá muối và lên men"
+      },
+      {
+        "example": "魚醤",
+        "reading": "ギョショウ",
+        "meaning": "nước mắm (làm từ cá muối lên men)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "醤",
+        "reading": "ひしお",
+        "meaning": "tương tự như miso làm từ khuôn koji và nước muối, nước nghiền còn sót lại từ quá trình làm nước tương"
+      }
+    ],
+    "radical": {
+      "symbol": "酉",
+      "meaning": "rượu vang, rượu"
+    },
+    "parts": [
+      "寸",
+      "爪",
+      "爿",
+      "酉"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37284_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091a4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91a4.gif",
+    "uri": "https://jisho.org/search/%E9%86%A4%23kanji"
+  }
+}

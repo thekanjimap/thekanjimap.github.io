@@ -1,0 +1,74 @@
+{
+  "id": "澄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "澄",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1722",
+    "strokeCount": 15,
+    "meaning": "sự sáng suốt, rõ ràng, rõ ràng, làm rõ, ổn định, căng thẳng, nhìn nghiêm trọng",
+    "kunyomi": [
+      "す.む",
+      "す.ます",
+      "-す.ます"
+    ],
+    "onyomi": [
+      "チョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "澄徹",
+        "reading": "チョウテツ",
+        "meaning": "độ rõ ràng (ví dụ bầu trời), độ trong suốt"
+      },
+      {
+        "example": "澄明",
+        "reading": "チョウメイ",
+        "meaning": "rõ ràng và tươi sáng"
+      },
+      {
+        "example": "清澄",
+        "reading": "セイチョウ",
+        "meaning": "rõ ràng, thanh thản"
+      },
+      {
+        "example": "明澄",
+        "reading": "メイチョウ",
+        "meaning": "sáng suốt, rõ ràng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "澄む",
+        "reading": "すむ",
+        "meaning": "trở nên trong suốt (nước, không khí, v.v.), trở nên trong suốt, vang vọng rõ ràng (ví dụ: giọng nói), trở nên thanh thản, trở nên yên tĩnh, không còn lo lắng, phát âm như một âm thanh vô thanh"
+      },
+      {
+        "example": "澄ます",
+        "reading": "すます",
+        "meaning": "làm rõ, làm rõ, không bối rối, tỏ ra lãnh đạm, giả vờ thờ ơ, trông đoan trang, nghiêm trang, làm ra vẻ, căng thẳng (tai), lắng nghe cẩn thận"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "口",
+      "并",
+      "汁",
+      "癶",
+      "豆"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28548_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f84.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f84.gif",
+    "uri": "https://jisho.org/search/%E6%BE%84%23kanji"
+  }
+}

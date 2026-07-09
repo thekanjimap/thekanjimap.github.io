@@ -1,0 +1,78 @@
+{
+  "id": "斜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "斜",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1504",
+    "strokeCount": 11,
+    "meaning": "chéo, xiên, xiên",
+    "kunyomi": [
+      "なな.め",
+      "はす"
+    ],
+    "onyomi": [
+      "シャ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "斜",
+        "reading": "ハス",
+        "meaning": "đường chéo"
+      },
+      {
+        "example": "斜面",
+        "reading": "シャメン",
+        "meaning": "độ dốc, bề mặt nghiêng, góc xiên"
+      },
+      {
+        "example": "急傾斜",
+        "reading": "キュウケイシャ",
+        "meaning": "độ dốc lớn, độ dốc lớn"
+      },
+      {
+        "example": "偏斜",
+        "reading": "ヘンシャ",
+        "meaning": "sự suy giảm, độ lệch"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "斜め",
+        "reading": "ななめ",
+        "meaning": "nghiêng, nghiêng, dốc, chéo, xiên, méo mó (cảm giác), nghiêng (ví dụ: quan điểm về thế giới), xấu (tâm trạng), không ổn, không ổn"
+      },
+      {
+        "example": "斜め上",
+        "reading": "ななめうえ",
+        "meaning": "theo đường chéo hướng lên trên, (đi theo a) hướng hoàn toàn bất ngờ (của một câu chuyện, kết quả, v.v.)"
+      },
+      {
+        "example": "斜",
+        "reading": "はす",
+        "meaning": "đường chéo"
+      },
+      {
+        "example": "斜交い",
+        "reading": "はすかい",
+        "meaning": "xiên, xiên, xiên, xiên, xiên, xiên"
+      }
+    ],
+    "radical": {
+      "symbol": "斗",
+      "meaning": "cái gáo"
+    },
+    "parts": [
+      "一",
+      "个",
+      "斗",
+      "禾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26012_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0659c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/659c.gif",
+    "uri": "https://jisho.org/search/%E6%96%9C%23kanji"
+  }
+}

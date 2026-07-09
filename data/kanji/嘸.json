@@ -1,0 +1,59 @@
+{
+  "id": "嘸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嘸",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "làm thế nào, thực sự, tôi dám nói",
+    "kunyomi": [
+      "さぞ",
+      "さぞや",
+      "さぞかし"
+    ],
+    "onyomi": [
+      "ブ",
+      "ム"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "嘸",
+        "reading": "さぞ",
+        "meaning": "chắc chắn, chắc chắn, chắc chắn, phải"
+      },
+      {
+        "example": "嘸かし",
+        "reading": "さぞかし",
+        "meaning": "chắc chắn, chắc chắn"
+      },
+      {
+        "example": "嘸や",
+        "reading": "さぞや",
+        "meaning": "chắc chắn, chắc chắn"
+      },
+      {
+        "example": "嘸かし",
+        "reading": "さぞかし",
+        "meaning": "chắc chắn, chắc chắn"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "乞",
+      "口",
+      "杰",
+      "無",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22072_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05638.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5638.gif",
+    "uri": "https://jisho.org/search/%E5%98%B8%23kanji"
+  }
+}

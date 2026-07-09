@@ -1,0 +1,60 @@
+{
+  "id": "楯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "楯",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "khiên, khiên, cái cớ",
+    "kunyomi": [
+      "たて"
+    ],
+    "onyomi": [
+      "ジュン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "楯鱗",
+        "reading": "ジュンリン",
+        "meaning": "vảy phẳng"
+      },
+      {
+        "example": "防楯",
+        "reading": "ボウジュン",
+        "meaning": "lá chắn súng (đặc biệt là pháo binh)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "盾",
+        "reading": "たて",
+        "meaning": "cái khiên, cái khiên, cái khiên, cái cớ"
+      },
+      {
+        "example": "楯突く",
+        "reading": "たてつく",
+        "meaning": "chống lại, chống lại, chống lại, chống lại, chống lại"
+      },
+      {
+        "example": "醜の御楯",
+        "reading": "しこのみたて",
+        "meaning": "tấm khiên khiêm tốn của Chúa tối cao của chúng ta"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "十",
+      "厂",
+      "斤",
+      "木",
+      "目"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26991_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0696f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/696f.gif",
+    "uri": "https://jisho.org/search/%E6%A5%AF%23kanji"
+  }
+}

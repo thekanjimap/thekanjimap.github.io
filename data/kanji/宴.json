@@ -1,0 +1,66 @@
+{
+  "id": "宴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "宴",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1675",
+    "strokeCount": 10,
+    "meaning": "bữa tiệc, bữa tiệc, bữa tiệc",
+    "kunyomi": [
+      "うたげ"
+    ],
+    "onyomi": [
+      "エン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "宴",
+        "reading": "ウタゲ",
+        "meaning": "bữa tiệc, bữa tiệc, bữa tiệc"
+      },
+      {
+        "example": "宴会",
+        "reading": "エンカイ",
+        "meaning": "bữa tiệc, bữa tiệc, tiệc chiêu đãi, bữa tiệc, bữa tối"
+      },
+      {
+        "example": "饗宴",
+        "reading": "キョウエン",
+        "meaning": "bữa tiệc, bữa tiệc"
+      },
+      {
+        "example": "開宴",
+        "reading": "カイエン",
+        "meaning": "khai mạc tiệc, khai mạc tiệc cưới"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "宴",
+        "reading": "うたげ",
+        "meaning": "bữa tiệc, bữa tiệc, bữa tiệc"
+      },
+      {
+        "example": "花見の宴",
+        "reading": "はなみのうたげ",
+        "meaning": "tiệc ngắm hoa anh đào"
+      }
+    ],
+    "radical": {
+      "symbol": "宀",
+      "meaning": "mái nhà"
+    },
+    "parts": [
+      "女",
+      "宀",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23476_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bb4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bb4.gif",
+    "uri": "https://jisho.org/search/%E5%AE%B4%23kanji"
+  }
+}

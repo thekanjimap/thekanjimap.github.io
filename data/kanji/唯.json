@@ -1,0 +1,71 @@
+{
+  "id": "唯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "唯",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1292",
+    "strokeCount": 11,
+    "meaning": "chỉ, chỉ, đơn thuần, đơn giản",
+    "kunyomi": [
+      "ただ"
+    ],
+    "onyomi": [
+      "ユイ",
+      "イ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "唯一",
+        "reading": "ユイイツ",
+        "meaning": "duy nhất, duy nhất, duy nhất"
+      },
+      {
+        "example": "唯物論",
+        "reading": "ユイブツロン",
+        "meaning": "chủ nghĩa duy vật"
+      },
+      {
+        "example": "唯々",
+        "reading": "イイ",
+        "meaning": "ngoan ngoãn, phục tùng, thuần hóa, nô lệ"
+      },
+      {
+        "example": "唯々諾々",
+        "reading": "イイダクダク",
+        "meaning": "ngoan ngoãn, phục tùng, thuần hóa, nô lệ"
+      },
+      {
+        "example": "唯々",
+        "reading": "イイ",
+        "meaning": "ngoan ngoãn, phục tùng, thuần hóa, nô lệ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "只",
+        "reading": "ただ",
+        "meaning": "thông thường, thông thường, thông thường, miễn phí, không bị ảnh hưởng, như là, an toàn, duy nhất, đơn thuần, công bằng, đơn giản, nhưng, tuy nhiên, tuy nhiên"
+      },
+      {
+        "example": "只今",
+        "reading": "ただいま",
+        "meaning": "Tôi về rồi!, tôi đã về rồi!, là tôi đây!, bây giờ, hiện tại, vào lúc này, ngay lúc này, một lúc trước, ngay lập tức, ngay lập tức, trong một phút, trong chốc lát, sớm thôi"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "口",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21807_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0552f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/552f.gif",
+    "uri": "https://jisho.org/search/%E5%94%AF%23kanji"
+  }
+}

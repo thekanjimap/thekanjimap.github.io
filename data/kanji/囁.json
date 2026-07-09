@@ -1,0 +1,36 @@
+{
+  "id": "囁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "囁",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "thì thầm, thì thầm",
+    "kunyomi": [
+      "ささや.く"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "囁く",
+        "reading": "ささやく",
+        "meaning": "thì thầm, thì thầm, đồn thổi, đồn thổi"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "口",
+      "耳"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22209_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/056c1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56c1.gif",
+    "uri": "https://jisho.org/search/%E5%9B%81%23kanji"
+  }
+}

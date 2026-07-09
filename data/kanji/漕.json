@@ -1,0 +1,65 @@
+{
+  "id": "漕",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "漕",
+    "found": true,
+    "newspaperFrequencyRank": "2354",
+    "strokeCount": 14,
+    "meaning": "chèo thuyền, mái chèo, mái chèo",
+    "kunyomi": [
+      "こ.ぐ",
+      "はこ.ぶ"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "漕艇",
+        "reading": "ソウテイ",
+        "meaning": "chèo thuyền, chèo thuyền"
+      },
+      {
+        "example": "漕艇場",
+        "reading": "ソウテイジョウ",
+        "meaning": "khóa học chèo thuyền, trung tâm chèo thuyền (giữa)"
+      },
+      {
+        "example": "回漕",
+        "reading": "カイソウ",
+        "meaning": "vận chuyển, vận chuyển bằng đường biển"
+      },
+      {
+        "example": "サバニ帆漕",
+        "reading": "サバニハンソウ",
+        "meaning": "Đua thuyền buồm và chèo thuyền Sabani (Okinawa)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "漕ぐ",
+        "reading": "こぐ",
+        "meaning": "chèo, chèo, chèo thuyền, kéo (mái chèo), đạp (xe đạp, v.v.), đu (trên xích đu), làm việc (bơm tay), đẩy qua (bụi cây, tuyết dày, v.v.)"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "一",
+      "日",
+      "汁",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28437_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f15.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f15.gif",
+    "uri": "https://jisho.org/search/%E6%BC%95%23kanji"
+  }
+}

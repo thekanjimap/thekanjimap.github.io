@@ -1,0 +1,54 @@
+{
+  "id": "裘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "裘",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "quần áo da",
+    "kunyomi": [
+      "かわごろも",
+      "けごろも"
+    ],
+    "onyomi": [
+      "キュウ",
+      "グ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "裘代",
+        "reading": "キュウタイ",
+        "meaning": "áo choàng tu sĩ đẹp được mặc bởi các thành viên trong gia đình hoàng gia, quý tộc, ủy viên hội đồng (hội đồng), v.v."
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "皮衣",
+        "reading": "かわごろも",
+        "meaning": "áo khoác lông"
+      },
+      {
+        "example": "毛衣",
+        "reading": "けごろも",
+        "meaning": "áo khoác lông (để chống lạnh), quần áo làm từ lông chim"
+      }
+    ],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "quần áo"
+    },
+    "parts": [
+      "丶",
+      "亠",
+      "水",
+      "衣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35032_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088d8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88d8.gif",
+    "uri": "https://jisho.org/search/%E8%A3%98%23kanji"
+  }
+}

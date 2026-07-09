@@ -1,0 +1,50 @@
+{
+  "id": "枡",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "枡",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "hộp đo, (kokuji)",
+    "kunyomi": [
+      "ます"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "升",
+        "reading": "ます",
+        "meaning": "thùng đo, hộp đo, thước, hộp (ghế ngồi trong rạp hát…), ô vuông trên lưới, ô của lưới, khối chịu lực vuông (ở đầu cột)"
+      },
+      {
+        "example": "升売り",
+        "reading": "ますうり",
+        "meaning": "bán theo số lượng (đặc biệt là sử dụng hộp masu bằng gỗ truyền thống)"
+      },
+      {
+        "example": "酒枡",
+        "reading": "さかます",
+        "meaning": "hộp đựng masu để uống hoặc đo rượu sake"
+      },
+      {
+        "example": "斗枡",
+        "reading": "とます",
+        "meaning": "bình định mức 18 lít"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "ノ",
+      "廾",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26529_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067a1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67a1.gif",
+    "uri": "https://jisho.org/search/%E6%9E%A1%23kanji"
+  }
+}

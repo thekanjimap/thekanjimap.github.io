@@ -1,0 +1,79 @@
+{
+  "id": "壁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "壁",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1037",
+    "strokeCount": 16,
+    "meaning": "tường, lớp lót (dạ dày), hàng rào",
+    "kunyomi": [
+      "かべ"
+    ],
+    "onyomi": [
+      "ヘキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "壁",
+        "reading": "カベ",
+        "meaning": "bức tường, vách ngăn, rào chắn, chướng ngại vật, trở ngại, khó khăn, chòm sao \"Bức tường\" Trung Quốc (một trong 28 biệt thự)"
+      },
+      {
+        "example": "壁画",
+        "reading": "ヘキガ",
+        "meaning": "tranh bích họa, tranh tường, tranh tường"
+      },
+      {
+        "example": "隔壁",
+        "reading": "カクヘキ",
+        "meaning": "tường chắn, vách ngăn, vách ngăn, vách ngăn, vách ngăn"
+      },
+      {
+        "example": "内壁",
+        "reading": "ナイヘキ",
+        "meaning": "bức tường bên trong"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "壁",
+        "reading": "かべ",
+        "meaning": "bức tường, vách ngăn, rào chắn, chướng ngại vật, trở ngại, khó khăn, chòm sao \"Bức tường\" Trung Quốc (một trong 28 biệt thự)"
+      },
+      {
+        "example": "壁掛け",
+        "reading": "かべかけ",
+        "meaning": "đồ trang trí treo tường, trang trí tường, treo tường, treo tường"
+      },
+      {
+        "example": "白壁",
+        "reading": "しらかべ",
+        "meaning": "tường thạch cao trắng, đậu phụ, đậu phụ"
+      },
+      {
+        "example": "厚い壁",
+        "reading": "あついかべ",
+        "meaning": "chướng ngại vật khó vượt qua, rào cản cao, tường dày"
+      }
+    ],
+    "radical": {
+      "symbol": "土",
+      "meaning": "trái đất"
+    },
+    "parts": [
+      "十",
+      "口",
+      "土",
+      "尸",
+      "立",
+      "辛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22721_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058c1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58c1.gif",
+    "uri": "https://jisho.org/search/%E5%A3%81%23kanji"
+  }
+}

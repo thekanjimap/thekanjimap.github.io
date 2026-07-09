@@ -1,0 +1,52 @@
+{
+  "id": "弧",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "弧",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2371",
+    "strokeCount": 9,
+    "meaning": "vòng cung, vòm, cung",
+    "kunyomi": [],
+    "onyomi": [
+      "コ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "弧",
+        "reading": "コ",
+        "meaning": "vòng cung"
+      },
+      {
+        "example": "弧形",
+        "reading": "コケイ",
+        "meaning": "vòng cung"
+      },
+      {
+        "example": "円弧",
+        "reading": "エンコ",
+        "meaning": "vòng cung"
+      },
+      {
+        "example": "励弧",
+        "reading": "レイコ",
+        "meaning": "sự kích thích"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "弓",
+      "meaning": "cúi đầu"
+    },
+    "parts": [
+      "弓",
+      "瓜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24359_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f27.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f27.gif",
+    "uri": "https://jisho.org/search/%E5%BC%A7%23kanji"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "尽",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "尽",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1234",
+    "strokeCount": 6,
+    "meaning": "cạn kiệt,dùng hết,cạn kiệt,làm bạn,phục vụ",
+    "kunyomi": [
+      "つ.きる",
+      "つ.くす",
+      "つ.かす",
+      "-づ.く",
+      "-ず.く",
+      "ことごと.く"
+    ],
+    "onyomi": [
+      "ジン",
+      "サン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "尽",
+        "reading": "ジン",
+        "meaning": "ngày cuối cùng (của tháng)"
+      },
+      {
+        "example": "尽力",
+        "reading": "ジンリョク",
+        "meaning": "nỗ lực, nỗ lực, nỗ lực, hỗ trợ, dịch vụ"
+      },
+      {
+        "example": "理不尽",
+        "reading": "リフジン",
+        "meaning": "vô lý, phi lý, vô lý, vô lý"
+      },
+      {
+        "example": "縦横無尽",
+        "reading": "ジュウオウムジン",
+        "meaning": "tự do, phải và trái, tùy ý"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "尽きる",
+        "reading": "つきる",
+        "meaning": "cạn kiệt, cạn kiệt, cạn kiệt, cạn kiệt, kết thúc"
+      },
+      {
+        "example": "尽くす",
+        "reading": "つくす",
+        "meaning": "dùng hết, cạn kiệt, cạn kiệt, cống hiến hết mình (cho), làm hết sức mình (cho), phục vụ, làm việc (vì một mục đích), làm đến kiệt sức, làm hoàn toàn, làm trọn vẹn"
+      },
+      {
+        "example": "尽かす",
+        "reading": "つかす",
+        "meaning": "dùng hết, dùng hết, làm cạn kiệt, làm cạn kiệt sự lịch sự của ai, từ bỏ (đối với ai)"
+      },
+      {
+        "example": "悉く",
+        "reading": "ことごとく",
+        "meaning": "hoàn toàn, hoàn toàn"
+      }
+    ],
+    "radical": {
+      "symbol": "尸",
+      "meaning": "xác chết"
+    },
+    "parts": [
+      "丶",
+      "尸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23613_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c3d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c3d.gif",
+    "uri": "https://jisho.org/search/%E5%B0%BD%23kanji"
+  }
+}

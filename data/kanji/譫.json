@@ -1,0 +1,61 @@
+{
+  "id": "譫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "譫",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "cuộc nói chuyện mê sảng",
+    "kunyomi": [
+      "うわごと",
+      "たわごと",
+      "うるさくしゃべ.る"
+    ],
+    "onyomi": [
+      "トウ",
+      "セン",
+      "タン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "譫言",
+        "reading": "センゲン",
+        "meaning": "chuyện phiếm, chuyện nhảm nhí"
+      },
+      {
+        "example": "譫語",
+        "reading": "センゴ",
+        "meaning": "nói chuyện trong cơn mê sảng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "うわ言",
+        "reading": "うわごと",
+        "meaning": "nói mê sảng, nói mê sảng, nói mê sảng, nói nhảm, nói nhảm, nói vớ vẩn"
+      },
+      {
+        "example": "戯言",
+        "reading": "たわごと",
+        "meaning": "chuyện vớ vẩn, chuyện vớ vẩn, chuyện vớ vẩn, chuyện vớ vẩn"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "lời nói"
+    },
+    "parts": [
+      "儿",
+      "勹",
+      "厂",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35691_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b6b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b6b.gif",
+    "uri": "https://jisho.org/search/%E8%AD%AB%23kanji"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "謁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "謁",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "strokeCount": 15,
+    "meaning": "khán giả, khán giả (với vua)",
+    "kunyomi": [],
+    "onyomi": [
+      "エツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "謁",
+        "reading": "エツ",
+        "meaning": "khán giả (với cấp trên, ví dụ: quý tộc), danh thiếp, danh thiếp"
+      },
+      {
+        "example": "謁を賜わる",
+        "reading": "エツヲタマワル",
+        "meaning": "được cấp khán giả"
+      },
+      {
+        "example": "請謁",
+        "reading": "セイエツ",
+        "meaning": "cầu xin, yêu cầu (khán giả)"
+      },
+      {
+        "example": "内謁",
+        "reading": "ナイエツ",
+        "meaning": "khán giả riêng"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "lời nói"
+    },
+    "parts": [
+      "勹",
+      "匕",
+      "日",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35585_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b01.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b01.gif",
+    "uri": "https://jisho.org/search/%E8%AC%81%23kanji"
+  }
+}

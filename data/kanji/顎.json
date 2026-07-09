@@ -1,0 +1,84 @@
+{
+  "id": "顎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "顎",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "strokeCount": 18,
+    "meaning": "hàm, cằm, mang",
+    "kunyomi": [
+      "あご",
+      "あぎと"
+    ],
+    "onyomi": [
+      "ガク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "顎",
+        "reading": "アゴ",
+        "meaning": "hàm, cằm, ngạnh (của lưỡi câu)"
+      },
+      {
+        "example": "顎関節",
+        "reading": "ガクカンセツ",
+        "meaning": "khớp hàm, khớp thái dương hàm, TMJ"
+      },
+      {
+        "example": "上顎",
+        "reading": "ウワアゴ",
+        "meaning": "hàm trên, vòm miệng"
+      },
+      {
+        "example": "下顎",
+        "reading": "シタアゴ",
+        "meaning": "hàm dưới, hàm dưới"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "顎",
+        "reading": "あご",
+        "meaning": "hàm, cằm, ngạnh (của lưỡi câu)"
+      },
+      {
+        "example": "顎足付き",
+        "reading": "あごあしつき",
+        "meaning": "chi phí phải trả (ăn uống và đi lại)"
+      },
+      {
+        "example": "二重顎",
+        "reading": "にじゅうあご",
+        "meaning": "cằm đôi"
+      },
+      {
+        "example": "下顎",
+        "reading": "したあご",
+        "meaning": "hàm dưới, hàm dưới"
+      },
+      {
+        "example": "顎門",
+        "reading": "あぎと",
+        "meaning": "cằm, hàm, mang, cành"
+      }
+    ],
+    "radical": {
+      "symbol": "頁",
+      "meaning": "lá"
+    },
+    "parts": [
+      "ハ",
+      "二",
+      "勹",
+      "口",
+      "目",
+      "貝",
+      "頁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38990_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0984e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/984e.gif",
+    "uri": "https://jisho.org/search/%E9%A1%8E%23kanji"
+  }
+}

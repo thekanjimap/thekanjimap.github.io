@@ -1,0 +1,45 @@
+{
+  "id": "黔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "黔",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "màu đen",
+    "kunyomi": [
+      "くろ.い"
+    ],
+    "onyomi": [
+      "ケン",
+      "キン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "黔首",
+        "reading": "ケンシュ",
+        "meaning": "nhân dân, quần chúng, công chúng, những người chưa tắm rửa"
+      },
+      {
+        "example": "黔黎",
+        "reading": "ケンレイ",
+        "meaning": "thường dân, nông dân, quần chúng"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "黑",
+      "meaning": "màu đen"
+    },
+    "parts": [
+      "一",
+      "个",
+      "杰",
+      "里",
+      "黒"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40660_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ed4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ed4.gif",
+    "uri": "https://jisho.org/search/%E9%BB%94%23kanji"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "覆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "覆",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1378",
+    "strokeCount": 18,
+    "meaning": "lật úp, che, bóng râm, lớp áo, bị hủy hoại",
+    "kunyomi": [
+      "おお.う",
+      "くつがえ.す",
+      "くつがえ.る"
+    ],
+    "onyomi": [
+      "フク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "覆",
+        "reading": "フク",
+        "meaning": "che giấu (tệ nạn của một người), che đậy, che đậy, lật đổ, lật đổ"
+      },
+      {
+        "example": "覆面",
+        "reading": "フクメン",
+        "meaning": "mặt nạ, mạng che mặt, ngụy trang, ẩn danh, không được đánh dấu, ẩn danh"
+      },
+      {
+        "example": "被覆",
+        "reading": "ヒフク",
+        "meaning": "lớp phủ, lớp phủ, lớp phủ"
+      },
+      {
+        "example": "傾覆",
+        "reading": "ケイフク",
+        "meaning": "lộn ngược"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "覆う",
+        "reading": "おおう",
+        "meaning": "che đậy, che giấu, che giấu, che đậy, ngụy trang"
+      },
+      {
+        "example": "覆す",
+        "reading": "くつがえす",
+        "meaning": "lật đổ, lật úp, đảo lộn, lật đổ (chính phủ, v.v.), đảo ngược (quyết định, v.v.), bác bỏ (một lý thuyết đã được thiết lập, v.v.), bác bỏ"
+      },
+      {
+        "example": "覆る",
+        "reading": "くつがえる",
+        "meaning": "lật đổ, bị lật đổ, bị lật úp, bị lật đổ, bị đảo ngược, bị mất uy tín"
+      }
+    ],
+    "radical": {
+      "symbol": "西",
+      "forms": [
+        "襾",
+        "覀"
+      ],
+      "meaning": "hướng tây"
+    },
+    "parts": [
+      "乞",
+      "夂",
+      "彳",
+      "日",
+      "西"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35206_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08986.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8986.gif",
+    "uri": "https://jisho.org/search/%E8%A6%86%23kanji"
+  }
+}

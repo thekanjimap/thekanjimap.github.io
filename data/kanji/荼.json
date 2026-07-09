@@ -1,0 +1,57 @@
+{
+  "id": "荼",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "荼",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "một loại cỏ dại",
+    "kunyomi": [
+      "にがな"
+    ],
+    "onyomi": [
+      "タ",
+      "ズ",
+      "ト",
+      "ダ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "荼枳尼",
+        "reading": "ダキニ",
+        "meaning": "Dakini (nữ thần tiên)"
+      },
+      {
+        "example": "荼毘",
+        "reading": "ダビ",
+        "meaning": "hỏa táng"
+      },
+      {
+        "example": "鳩槃荼",
+        "reading": "クハンダ",
+        "meaning": "Kumbhanda, con quỷ có tinh hoàn lớn được cho là sẽ hút cạn sinh lực của con người"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "个",
+      "亅",
+      "二",
+      "小",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33660_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0837c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/837c.gif",
+    "uri": "https://jisho.org/search/%E8%8D%BC%23kanji"
+  }
+}

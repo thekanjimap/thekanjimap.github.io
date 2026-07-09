@@ -1,0 +1,81 @@
+{
+  "id": "阿",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "阿",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1126",
+    "strokeCount": 8,
+    "meaning": "Châu Phi, phẳng hơn, nịnh nọt, góc, ngóc ngách, chỗ giải lao",
+    "kunyomi": [
+      "おもね.る",
+      "くま"
+    ],
+    "onyomi": [
+      "ア",
+      "オ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "阿",
+        "reading": "ア",
+        "meaning": "chữ cái đầu tiên trong bảng chữ cái tiếng Phạn, Châu Phi, Awa (tỉnh cũ của Nhật Bản), đặt trước tên để thể hiện sự thân mật"
+      },
+      {
+        "example": "【アホ】",
+        "reading": "fool, idiot, simpleton",
+        "meaning": ""
+      },
+      {
+        "example": "南ア",
+        "reading": "ナンア",
+        "meaning": "Nam Phi"
+      },
+      {
+        "example": "阿蘭陀",
+        "reading": "オランダ",
+        "meaning": "Hà Lan, Hà Lan"
+      },
+      {
+        "example": "お亀",
+        "reading": "オカメ",
+        "meaning": "người phụ nữ giản dị (đặc biệt là người có chiếc mũi thấp nhỏ, trán cao phẳng và má phồng), người phụ nữ giản dị, soba trong súp với những lát chả cá luộc, nấm shiitake, rau xanh, rong biển, v.v."
+      },
+      {
+        "example": "加加阿",
+        "reading": "カカオ",
+        "meaning": "cây cacao (Theobroma cacao), cây cacao"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "阿る",
+        "reading": "おもねる",
+        "meaning": "tâng bốc, chơi đùa (với), nịnh nọt (với), xu nịnh (trên), phục vụ (với)"
+      },
+      {
+        "example": "隈",
+        "reading": "くま",
+        "meaning": "góc, ngóc ngách, hốc, bóng râm, bóng tối, vùng tối, quầng thâm (dưới mắt), quầng thâm, khúc cua (trên đường, sông, v.v.), tạo bóng, chuyển màu, kumatori, phong cách trang điểm kabuki dùng cho các vai bạo lực"
+      }
+    ],
+    "radical": {
+      "symbol": "阜",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "gò, đập (阝 trái)"
+    },
+    "parts": [
+      "一",
+      "亅",
+      "口",
+      "阡"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38463_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0963f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/963f.gif",
+    "uri": "https://jisho.org/search/%E9%98%BF%23kanji"
+  }
+}

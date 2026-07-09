@@ -1,0 +1,61 @@
+{
+  "id": "圭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "圭",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1837",
+    "strokeCount": 6,
+    "meaning": "viên ngọc vuông, góc, góc, cạnh",
+    "kunyomi": [],
+    "onyomi": [
+      "ケイ",
+      "ケ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "圭角",
+        "reading": "ケイカク",
+        "meaning": "các cạnh thô ráp (của tính cách, lời nói, v.v.), sự mài mòn, sự khắc nghiệt, sự sắc bén, các cạnh (của một viên đá quý)"
+      },
+      {
+        "example": "圭璧",
+        "reading": "ケイヘキ",
+        "meaning": "Ngọc bích mang tính nghi lễ của các lãnh chúa phong kiến ở Trung Quốc cổ đại"
+      },
+      {
+        "example": "刀圭",
+        "reading": "トウケイ",
+        "meaning": "dược phẩm, nghệ thuật y học, bác sĩ, thìa pha chế"
+      },
+      {
+        "example": "尖形",
+        "reading": "センケイ",
+        "meaning": "nhọn, nhọn, nhọn"
+      },
+      {
+        "example": "圭角",
+        "reading": "ケイカク",
+        "meaning": "các cạnh thô ráp (của tính cách, lời nói, v.v.), sự mài mòn, sự khắc nghiệt, sự sắc bén, các cạnh (của một viên đá quý)"
+      },
+      {
+        "example": "圭璧",
+        "reading": "ケイヘキ",
+        "meaning": "Ngọc bích mang tính nghi lễ của các lãnh chúa phong kiến ở Trung Quốc cổ đại"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "土",
+      "meaning": "trái đất"
+    },
+    "parts": [
+      "土"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22317_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0572d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/572d.gif",
+    "uri": "https://jisho.org/search/%E5%9C%AD%23kanji"
+  }
+}

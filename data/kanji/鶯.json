@@ -1,0 +1,69 @@
+{
+  "id": "鶯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鶯",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "chim sơn ca",
+    "kunyomi": [
+      "うぐいす"
+    ],
+    "onyomi": [
+      "オウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鶯谷",
+        "reading": "オウコク",
+        "meaning": "chim chích ở trong một thung lũng, thung lũng nơi chim chích sinh sống, vẫn còn mù mờ và không thành công"
+      },
+      {
+        "example": "鶯遷",
+        "reading": "オウセン",
+        "meaning": "Chim chích bay từ thung lũng đến cây, tìm kiếm thành công trong cuộc sống, vượt qua kỳ thi cung điện"
+      },
+      {
+        "example": "老鶯",
+        "reading": "ロウオウ",
+        "meaning": "Chim chích bụi vẫn hót dù mùa xuân đã qua"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鶯",
+        "reading": "うぐいす",
+        "meaning": "Chim chích bụi Nhật Bản (Horornis diphone), chim sơn ca Nhật Bản, màu nâu xanh, giọng đẹp, người phụ nữ có giọng hát hay"
+      },
+      {
+        "example": "うぐいす餡",
+        "reading": "うぐいすあん",
+        "meaning": "bột màu xanh nâu ngọt làm từ đậu xanh"
+      },
+      {
+        "example": "高麗鶯",
+        "reading": "こうらいうぐいす",
+        "meaning": "chim vàng anh đầu đen (Oriolus chinensis)"
+      },
+      {
+        "example": "初鴬",
+        "reading": "はつうぐいす",
+        "meaning": "Chim chích bụi Nhật Bản đầu tiên hót líu lo trong năm nay (tức là mùa xuân)"
+      }
+    ],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "chim"
+    },
+    "parts": [
+      "冖",
+      "杰",
+      "火",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40367_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09daf.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9daf.gif",
+    "uri": "https://jisho.org/search/%E9%B6%AF%23kanji"
+  }
+}

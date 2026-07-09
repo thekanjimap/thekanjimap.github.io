@@ -1,0 +1,74 @@
+{
+  "id": "輿",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "輿",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "kiệu, quan tài, dư luận, thổ địa",
+    "kunyomi": [
+      "かご",
+      "こし"
+    ],
+    "onyomi": [
+      "ヨ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "世論",
+        "reading": "ヨロン",
+        "meaning": "dư luận, tiếng nói đại chúng, tình cảm của công chúng, sự đồng thuận"
+      },
+      {
+        "example": "輿地",
+        "reading": "ヨチ",
+        "meaning": "trái đất, thế giới"
+      },
+      {
+        "example": "神輿",
+        "reading": "ミコシ",
+        "meaning": "mikoshi, đền thờ Thần đạo di động được rước qua đường trong các lễ hội, kiệu, kiệu, lưng dưới, thắt lưng, hông"
+      },
+      {
+        "example": "坤輿",
+        "reading": "コンヨ",
+        "meaning": "Trái đất, thế giới"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "輿",
+        "reading": "こし",
+        "meaning": "kiệu, kiệu, quan tài, miếu di động"
+      },
+      {
+        "example": "輿入れ",
+        "reading": "こしいれ",
+        "meaning": "đám cưới, đám rước cô dâu, kết hôn trong một gia đình"
+      },
+      {
+        "example": "お神輿",
+        "reading": "おみこし",
+        "meaning": "mikoshi, đền thờ Thần đạo di động được mang qua đường trong các lễ hội, lưng dưới, eo, hông"
+      },
+      {
+        "example": "神輿",
+        "reading": "みこし",
+        "meaning": "mikoshi, đền thờ Thần đạo di động được rước qua đường trong các lễ hội, kiệu, kiệu, lưng dưới, thắt lưng, hông"
+      }
+    ],
+    "radical": {
+      "symbol": "車",
+      "meaning": "xe đẩy, xe hơi"
+    },
+    "parts": [
+      "ハ",
+      "臼",
+      "車"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36671_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f3f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f3f.gif",
+    "uri": "https://jisho.org/search/%E8%BC%BF%23kanji"
+  }
+}

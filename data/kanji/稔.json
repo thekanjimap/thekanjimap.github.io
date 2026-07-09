@@ -1,0 +1,74 @@
+{
+  "id": "稔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "稔",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1775",
+    "strokeCount": 13,
+    "meaning": "thu hoạch, chín",
+    "kunyomi": [
+      "みの.る",
+      "みのり"
+    ],
+    "onyomi": [
+      "ネン",
+      "ジン",
+      "ニン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "稔実不良",
+        "reading": "ネンジツフリョウ",
+        "meaning": "vụ mùa (lúa) kém"
+      },
+      {
+        "example": "稔性",
+        "reading": "ネンセイ",
+        "meaning": "khả năng sinh sản (đặc biệt là của thực vật)"
+      },
+      {
+        "example": "豊稔",
+        "reading": "ホウネン",
+        "meaning": "thu hoạch bội thu"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "実る",
+        "reading": "みのる",
+        "meaning": "kết quả, chín muồi, tạo ra kết quả (tốt), cho kết quả, kết quả"
+      },
+      {
+        "example": "実り",
+        "reading": "みのり",
+        "meaning": "sự chín (của một vụ mùa), mùa màng, vụ thu hoạch"
+      },
+      {
+        "example": "実りの秋",
+        "reading": "みのりのあき",
+        "meaning": "mùa thu, mùa thu hoạch"
+      },
+      {
+        "example": "藤稔",
+        "reading": "ふじみのり",
+        "meaning": "fujiminori (giống nho)"
+      }
+    ],
+    "radical": {
+      "symbol": "禾",
+      "meaning": "ngũ cốc"
+    },
+    "parts": [
+      "一",
+      "个",
+      "心",
+      "禾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31252_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07a14.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7a14.gif",
+    "uri": "https://jisho.org/search/%E7%A8%94%23kanji"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "崩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "崩",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "778",
+    "strokeCount": 11,
+    "meaning": "sụp đổ, chết, phá hủy, san bằng",
+    "kunyomi": [
+      "くず.れる",
+      "-くず.れ",
+      "くず.す"
+    ],
+    "onyomi": [
+      "ホウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "崩落",
+        "reading": "ホウラク",
+        "meaning": "sụp đổ,vỡ vỡ,vỡ hang,sụp đổ,thị trường suy thoái,thị trường sụp đổ"
+      },
+      {
+        "example": "崩壊",
+        "reading": "ホウカイ",
+        "meaning": "sụp đổ, sụp đổ, sụp đổ, sụp đổ, phân rã (phóng xạ), tan rã"
+      },
+      {
+        "example": "壊崩",
+        "reading": "カイホウ",
+        "meaning": "sụp đổ, sụp đổ, sụp đổ, sụp đổ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "崩れる",
+        "reading": "くずれる",
+        "meaning": "sụp đổ, sụp đổ, mất hình dạng, mất hình dạng, trở nên vô tổ chức, trở nên lộn xộn, đổ vỡ, bị ném vào tình trạng hỗn loạn, sụp đổ (thị trường chứng khoán), sụt giảm, suy giảm, biến tiền thành một đồng tiền nhỏ, trở nên tồi tệ (ví dụ: thời tiết), thay đổi theo hướng tồi tệ hơn, xấu đi"
+      },
+      {
+        "example": "崩す",
+        "reading": "くずす",
+        "meaning": "phá hủy, phá hủy, kéo xuống, phá bỏ, san bằng, làm xáo trộn, làm mất trật tự, làm mất cân bằng, làm lung lay, thư giãn (tư thế của một người), làm cho mình thoải mái, phá vỡ (một hóa đơn), thay đổi, thay đổi, viết theo kiểu chữ thảo, viết theo kiểu chạy, nở một nụ cười, nở một nụ cười, hạ thấp (một mức giá)"
+      }
+    ],
+    "radical": {
+      "symbol": "山",
+      "meaning": "núi"
+    },
+    "parts": [
+      "山",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23849_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05d29.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5d29.gif",
+    "uri": "https://jisho.org/search/%E5%B4%A9%23kanji"
+  }
+}

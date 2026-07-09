@@ -1,0 +1,42 @@
+{
+  "id": "堵",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "堵",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "hàng rào, lan can, bao vây",
+    "kunyomi": [
+      "かき"
+    ],
+    "onyomi": [
+      "ト"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "堵",
+        "reading": "ト",
+        "meaning": "hàng rào, bức tường, hàng rào"
+      },
+      {
+        "example": "屠殺",
+        "reading": "トサツ",
+        "meaning": "sự giết mổ (động vật để lấy thịt), sự giết thịt"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "土",
+      "meaning": "trái đất"
+    },
+    "parts": [
+      "土",
+      "日",
+      "老"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22581_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05835.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5835.gif",
+    "uri": "https://jisho.org/search/%E5%A0%B5%23kanji"
+  }
+}

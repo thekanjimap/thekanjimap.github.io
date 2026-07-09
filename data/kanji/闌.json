@@ -1,0 +1,57 @@
+{
+  "id": "闌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "闌",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "vươn lên cao, hòa hợp với nhau",
+    "kunyomi": [
+      "た.ける",
+      "たけなわ",
+      "てすり"
+    ],
+    "onyomi": [
+      "ラン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "欄干",
+        "reading": "ランカン",
+        "meaning": "lan can, lan can, lan can, lan can, lan can, lan can, (tỏa sáng) rực rỡ (của mặt trăng hoặc các vì sao), (chảy) không ngừng (của nước mắt)"
+      },
+      {
+        "example": "小欄",
+        "reading": "ショウラン",
+        "meaning": "lan can nhỏ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "長ける",
+        "reading": "たける",
+        "meaning": "nổi trội, thành thạo, già đi, trưởng thành, vươn lên cao (ví dụ như mặt trời)"
+      },
+      {
+        "example": "酣",
+        "reading": "たけなわ",
+        "meaning": "chiều cao (của mùa hè, bữa tiệc, v.v.), (trong) sự sôi nổi"
+      }
+    ],
+    "radical": {
+      "symbol": "門",
+      "meaning": "cánh cổng"
+    },
+    "parts": [
+      "ハ",
+      "日",
+      "木",
+      "門",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38348_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095cc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95cc.gif",
+    "uri": "https://jisho.org/search/%E9%97%8C%23kanji"
+  }
+}

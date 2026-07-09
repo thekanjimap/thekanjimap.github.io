@@ -1,0 +1,57 @@
+{
+  "id": "渺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "渺",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "nhỏ bé, vô biên",
+    "kunyomi": [
+      "びょう.たる"
+    ],
+    "onyomi": [
+      "ビョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "渺",
+        "reading": "ビョウ",
+        "meaning": "vô tận, vô tận, bao la, rộng lớn"
+      },
+      {
+        "example": "渺々",
+        "reading": "ビョウビョウ",
+        "meaning": "vô tận, vô tận, bao la, rộng lớn"
+      },
+      {
+        "example": "縹渺",
+        "reading": "ヒョウビョウ",
+        "meaning": "vô tận, rộng lớn, vô tận, mơ hồ, mơ hồ, mơ hồ, không rõ ràng"
+      },
+      {
+        "example": "神韻縹渺",
+        "reading": "シンインヒョウビョウ",
+        "meaning": "(tác phẩm nghệ thuật) cao siêu, siêu việt"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "ノ",
+      "小",
+      "汁",
+      "目"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28218_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e3a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e3a.gif",
+    "uri": "https://jisho.org/search/%E6%B8%BA%23kanji"
+  }
+}

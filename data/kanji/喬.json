@@ -1,0 +1,45 @@
+{
+  "id": "喬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "喬",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1962",
+    "strokeCount": 12,
+    "meaning": "cao, khoe khoang",
+    "kunyomi": [
+      "たか.い"
+    ],
+    "onyomi": [
+      "キョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "喬志",
+        "reading": "キョウシ",
+        "meaning": "sự kiêu hãnh, sự tự phụ"
+      },
+      {
+        "example": "喬木",
+        "reading": "キョウボク",
+        "meaning": "cây cao, cây rừng, cây thông, cây thông"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "ノ",
+      "冂",
+      "口",
+      "大"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21932_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/055ac.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/55ac.gif",
+    "uri": "https://jisho.org/search/%E5%96%AC%23kanji"
+  }
+}

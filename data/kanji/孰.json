@@ -1,0 +1,45 @@
+{
+  "id": "孰",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "孰",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "cái nào, như thế nào, ai",
+    "kunyomi": [
+      "いずれ",
+      "たれ"
+    ],
+    "onyomi": [
+      "ジュク"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "何れ",
+        "reading": "いずれ",
+        "meaning": "cái đó, ở đâu, ai, tất cả, cả hai, dù sao, dù sao đi nữa, ở mức độ nào đó, trong mọi trường hợp, sớm hay muộn, một trong những ngày này, một ngày nào đó, chẳng bao lâu nữa, vào thời điểm thích hợp, cuối cùng"
+      },
+      {
+        "example": "何れか",
+        "reading": "いずれか",
+        "meaning": "một (của), bất kỳ (một trong), hoặc (của)"
+      }
+    ],
+    "radical": {
+      "symbol": "子",
+      "meaning": "đứa trẻ, hạt giống"
+    },
+    "parts": [
+      "丶",
+      "九",
+      "亠",
+      "口",
+      "子"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23408_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b70.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b70.gif",
+    "uri": "https://jisho.org/search/%E5%AD%B0%23kanji"
+  }
+}

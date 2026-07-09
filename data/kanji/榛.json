@@ -1,0 +1,74 @@
+{
+  "id": "榛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "榛",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2205",
+    "strokeCount": 14,
+    "meaning": "hạt phỉ, filbert",
+    "kunyomi": [
+      "はしばみ",
+      "はり"
+    ],
+    "onyomi": [
+      "シン",
+      "ハン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "榛莽",
+        "reading": "シンボウ",
+        "meaning": "thảm thực vật um tùm"
+      },
+      {
+        "example": "榛の木",
+        "reading": "ハンノキ",
+        "meaning": "Alder Nhật Bản (Alnus japonica)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "榛",
+        "reading": "はしばみ",
+        "meaning": "Cây phỉ châu Á (Corylus dịphylla var. thunbergii), cây phỉ Siberia"
+      },
+      {
+        "example": "はしばみの実",
+        "reading": "はしばみのみ",
+        "meaning": "quả phỉ"
+      },
+      {
+        "example": "西洋榛",
+        "reading": "せいようはしばみ",
+        "meaning": "Cây phỉ Á-Âu (Corylus avellana)"
+      },
+      {
+        "example": "角榛",
+        "reading": "つのはしばみ",
+        "meaning": "Cây phỉ Nhật Bản (Corylus sieboldiana)"
+      },
+      {
+        "example": "榛",
+        "reading": "はり",
+        "meaning": "Alder Nhật Bản (Alnus japonica)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "一",
+      "二",
+      "人",
+      "木",
+      "禾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27035_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0699b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/699b.gif",
+    "uri": "https://jisho.org/search/%E6%A6%9B%23kanji"
+  }
+}

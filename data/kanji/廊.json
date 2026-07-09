@@ -1,0 +1,53 @@
+{
+  "id": "廊",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "廊",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1598",
+    "strokeCount": 12,
+    "meaning": "hành lang, hội trường, tháp",
+    "kunyomi": [],
+    "onyomi": [
+      "ロウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "廊",
+        "reading": "ロウ",
+        "meaning": "hành lang, hành lang, đại sảnh"
+      },
+      {
+        "example": "廊下",
+        "reading": "ロウカ",
+        "meaning": "hành lang, hành lang, hành lang"
+      },
+      {
+        "example": "回廊",
+        "reading": "カイロウ",
+        "meaning": "hành lang, phòng trưng bày, hành lang, tu viện (tức là lối đi có mái che thường đi vòng quanh một tòa nhà hoặc khu vườn, đặc biệt là trong cung điện hoặc nơi thờ cúng)"
+      },
+      {
+        "example": "人道回廊",
+        "reading": "ジンドウカイロウ",
+        "meaning": "hành lang nhân đạo"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "广",
+      "meaning": "ngôi nhà trên vách đá"
+    },
+    "parts": [
+      "广",
+      "艮",
+      "邦"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24266_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05eca.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5eca.gif",
+    "uri": "https://jisho.org/search/%E5%BB%8A%23kanji"
+  }
+}

@@ -1,0 +1,380 @@
+{
+  "id": "飛",
+  "kanjialiveData": {
+    "_id": "54317aed791eba5146ee4a2f",
+    "_rev": "10-975a11d23dd5134375b37d5e4b02c7df",
+    "rad_name_ja": "とぶ",
+    "grade": 4,
+    "hint_group": 4,
+    "kunyomi": "to, tobu, tobasu",
+    "meaning": "bay",
+    "kstroke": 9,
+    "examples": [
+      {
+        "japanese": "飛行機（ひこうき）",
+        "meaning": {
+          "english": "máy bay"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-to(bu)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hi-to(bu)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hi-to(bu)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hi-to(bu)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "飛行場（ひこうじょう）",
+        "meaning": {
+          "english": "sân bay"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-to(bu)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hi-to(bu)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hi-to(bu)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hi-to(bu)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "飛行船（ひこうせん）",
+        "meaning": {
+          "english": "khí cầu"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-to(bu)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hi-to(bu)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hi-to(bu)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hi-to(bu)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "飛躍する（ひやくする）",
+        "meaning": {
+          "english": "bước nhảy vọt [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-to(bu)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hi-to(bu)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hi-to(bu)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hi-to(bu)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "飛ぶ（とぶ）",
+        "meaning": {
+          "english": "nhảy, bay [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-to(bu)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hi-to(bu)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hi-to(bu)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hi-to(bu)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "飛び込む（とびこむ）",
+        "meaning": {
+          "english": "nhảy vào"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-to(bu)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hi-to(bu)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hi-to(bu)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hi-to(bu)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "飛び上がる（とびあがる）",
+        "meaning": {
+          "english": "nhảy lên"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-to(bu)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hi-to(bu)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hi-to(bu)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hi-to(bu)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "飛ばす（とばす）",
+        "meaning": {
+          "english": "gửi, bay [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/hi-to(bu)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/hi-to(bu)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/hi-to(bu)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/hi-to(bu)_06_h.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "と、とぶ、とばす",
+    "ka_utf": "飛",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=飛",
+    "kname": "hi-to(bu)",
+    "rad_order": 219,
+    "txt_books": [
+      {
+        "chapter": "9",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtMimiFilm"
+      },
+      {
+        "chapter": "39",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "17",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "30",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "jtr"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "13"
+      }
+    ],
+    "rad_name_search": [
+      "tobu"
+    ],
+    "rad_utf": "⾶",
+    "stroketimes": [
+      0.75,
+      2.326,
+      2.661,
+      3.53,
+      4.737,
+      6.005,
+      6.875,
+      9.019,
+      9.418,
+      9.907236
+    ],
+    "kunyomi_ka_display": "と",
+    "dick": "2222",
+    "rad_name": "tobu",
+    "dicn": "5152",
+    "mn_hint": "Rise 升 using wings [96].",
+    "rad_stroke": 9,
+    "onyomi_ja": "ヒ",
+    "rad_meaning": "bay",
+    "onyomi": "hi",
+    "ka_id": "ka_369",
+    "onyomi_search": [
+      "hi",
+      "hi"
+    ],
+    "kunyomi_search": [
+      "to",
+      "tobu",
+      "tobasu",
+      "to, tobu, tobasu"
+    ],
+    "meaning_search": [
+      "fly",
+      "fly"
+    ],
+    "onyomi_ja_search": [
+      "ヒ",
+      "ヒ"
+    ],
+    "kunyomi_ja_search": [
+      "と",
+      "とぶ",
+      "とばす",
+      "と、とぶ、とばす"
+    ],
+    "rad_meaning_search": [
+      "to fly",
+      "to",
+      "fly",
+      "to fly"
+    ],
+    "rad_name_ja_search": [
+      "とぶ"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:9",
+      "ij:c9",
+      "mos",
+      "mos:6",
+      "mos:c6",
+      "bk",
+      "bk:39",
+      "bk:c39",
+      "ap",
+      "ap:17",
+      "ap:c17",
+      "kll",
+      "kll:30",
+      "kll:c30",
+      "jtr",
+      "jtr:13",
+      "jtr:c13",
+      "cijr",
+      "cijr:13",
+      "cijr:c13"
+    ],
+    "rad_name_file": "tobu",
+    "kanji": {
+      "character": "飛",
+      "meaning": {
+        "english": "fly"
+      },
+      "strokes": {
+        "count": 9,
+        "timings": [
+          0.75,
+          2.326,
+          2.661,
+          3.53,
+          4.737,
+          6.005,
+          6.875,
+          9.019,
+          9.418,
+          9.907236
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/hi-to(bu)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/hi-to(bu)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/hi-to(bu)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/hi-to(bu)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/hi-to(bu)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/hi-to(bu)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/hi-to(bu)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/hi-to(bu)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/hi-to(bu)_9.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "hi",
+        "katakana": "ヒ"
+      },
+      "kunyomi": {
+        "romaji": "to, tobu, tobasu",
+        "hiragana": "と"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/hi-to(bu)_9.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/hi-to(bu)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/hi-to(bu)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⾶",
+      "strokes": 9,
+      "image": "https://media.kanjialive.com/radical_character/tobu.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "とぶ",
+        "romaji": "tobu"
+      },
+      "meaning": {
+        "english": "bay"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/tobu0.svg",
+        "https://media.kanjialive.com/rad_frames/tobu1.svg",
+        "https://media.kanjialive.com/rad_frames/tobu2.svg"
+      ]
+    },
+    "references": {
+      "grade": 4,
+      "kodansha": "2222",
+      "classic_nelson": "5152"
+    }
+  },
+  "jishoData": {
+    "query": "飛",
+    "found": true,
+    "taughtIn": "lớp 4",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "580",
+    "strokeCount": 9,
+    "meaning": "bay, bỏ qua (trang), rải rác",
+    "kunyomi": [
+      "と.ぶ",
+      "と.ばす",
+      "-と.ばす"
+    ],
+    "onyomi": [
+      "ヒ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "飛",
+        "reading": "ヒ",
+        "meaning": "rook, bóng bay"
+      },
+      {
+        "example": "飛球",
+        "reading": "ヒキュウ",
+        "meaning": "bay (quả bóng)"
+      },
+      {
+        "example": "犠飛",
+        "reading": "ギヒ",
+        "meaning": "bay hy sinh"
+      },
+      {
+        "example": "中飛",
+        "reading": "チュウヒ",
+        "meaning": "bay trung tâm, bay trung tâm"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "飛ぶ",
+        "reading": "とぶ",
+        "meaning": "bay, bay lên, nhảy, nhảy, lò xo, ràng buộc, nhảy, bắn tung tóe, phân tán, bắn tung tóe, bay (ví dụ như tia lửa), vội vã, lao tới, chạy trốn, chạy trốn, trốn thoát, biến mất, biến mất, mờ dần, mỏng đi, đứt ra, rơi ra, rơi ra, thổi (cầu chì), được gửi đi (theo một mệnh lệnh), bay (của những tin đồn sai lệch, những lời kêu gọi, v.v.), bay tới (của một cú đấm, một cú đá, v.v.), bị mất (của một trang, mũi khâu, v.v.), bỏ qua, nhảy (ví dụ: trong một cuộc trò chuyện)"
+      },
+      {
+        "example": "飛ぶ鳥",
+        "reading": "とぶとり",
+        "meaning": "chim bay, chim bay"
+      },
+      {
+        "example": "飛ばす",
+        "reading": "とばす",
+        "meaning": "để bay, làm cho bay, gửi bay, thổi bay (ví dụ: trong gió), phóng, bắn, ném, bắn, bỏ qua, bỏ ra, bỏ sót, thả (ví dụ: một mũi khâu), chạy nhanh, lái xe nhanh, phi nước đại, phun nước, bắn tung tóe, bắn tung tóe, nói mà không dè dặt, gọi to (ví dụ: một lời chế nhạo), kêu lạch cạch (ví dụ như một trò đùa), lan truyền (ví dụ: một trò đùa). tin đồn), lưu hành, gửi (tin nhắn), phát hành (ví dụ: kháng cáo), chuyển (đến một chức vụ ít quan trọng hơn), gửi đi (ví dụ: đến chi nhánh tỉnh), giáng chức, điều động nhanh chóng (ví dụ: phóng viên), để loại bỏ, đốt cháy (rượu), tấn công (ví dụ: bằng động tác chân), làm mạnh mẽ, làm thô bạo, làm hăng hái"
+      }
+    ],
+    "radical": {
+      "symbol": "飛",
+      "meaning": "bay"
+    },
+    "parts": [
+      "飛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39131_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/098db.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/98db.gif",
+    "uri": "https://jisho.org/search/%E9%A3%9B%23kanji"
+  }
+}

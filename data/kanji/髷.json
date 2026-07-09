@@ -1,0 +1,66 @@
+{
+  "id": "髷",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "髷",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "búi tóc trên đầu",
+    "kunyomi": [
+      "まげ",
+      "わげ"
+    ],
+    "onyomi": [
+      "キョク"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "髷",
+        "reading": "まげ",
+        "meaning": "búi tóc (kiểu tóc), búi tóc, búi tóc"
+      },
+      {
+        "example": "髷物",
+        "reading": "まげもの",
+        "meaning": "câu chuyện thời kỳ (kịch, phim, tiểu thuyết, v.v.; lấy bối cảnh thời Edo)"
+      },
+      {
+        "example": "大銀杏髷",
+        "reading": "おおいちょうまげ",
+        "meaning": "nút thắt nút lá bạch quả được các đô vật đội makuuchi và bồi thẩm đoàn đội"
+      },
+      {
+        "example": "付け髷",
+        "reading": "つけまげ",
+        "meaning": "sợi tóc, mùa thu, kiểu tóc giả"
+      },
+      {
+        "example": "笄髷",
+        "reading": "こうがいわげ",
+        "meaning": "kiểu tóc của phụ nữ Nhật Bản sử dụng kẹp tóc (thời Edo)"
+      },
+      {
+        "example": "兵庫髷",
+        "reading": "ひょうごわげ",
+        "meaning": "kiểu tóc nữ bắt đầu từ thời Keicho"
+      }
+    ],
+    "radical": {
+      "symbol": "髟",
+      "meaning": "tóc dài"
+    },
+    "parts": [
+      "厶",
+      "彡",
+      "日",
+      "長",
+      "髟",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39671_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09af7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9af7.gif",
+    "uri": "https://jisho.org/search/%E9%AB%B7%23kanji"
+  }
+}

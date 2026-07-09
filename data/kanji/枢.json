@@ -1,0 +1,62 @@
+{
+  "id": "枢",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "枢",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1791",
+    "strokeCount": 8,
+    "meaning": "bản lề, trục, cửa, trung tâm của sự vật",
+    "kunyomi": [
+      "とぼそ",
+      "からくり"
+    ],
+    "onyomi": [
+      "スウ",
+      "シュ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "枢軸",
+        "reading": "スウジク",
+        "meaning": "trục, trục, trung tâm (quyền lực, hoạt động), điểm trung tâm, Trục (liên minh WWII)"
+      },
+      {
+        "example": "枢機卿",
+        "reading": "スウキキョウ",
+        "meaning": "hồng y (nhà thờ Công giáo)"
+      },
+      {
+        "example": "神経中枢",
+        "reading": "シンケイチュウスウ",
+        "meaning": "trung tâm thần kinh, trung tâm thần kinh"
+      },
+      {
+        "example": "呼吸中枢",
+        "reading": "コキュウチュウスウ",
+        "meaning": "trung tâm hô hấp trung tâm hô hấp"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "枢",
+        "reading": "とぼそ",
+        "meaning": "các hốc trong khung cửa được sử dụng như một phần của bản lề trục, cửa"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "匚",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26530_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067a2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67a2.gif",
+    "uri": "https://jisho.org/search/%E6%9E%A2%23kanji"
+  }
+}

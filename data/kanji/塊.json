@@ -1,0 +1,81 @@
+{
+  "id": "塊",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "塊",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1800",
+    "strokeCount": 13,
+    "meaning": "cục, cục, cục, cục, khối",
+    "kunyomi": [
+      "かたまり",
+      "つちくれ"
+    ],
+    "onyomi": [
+      "カイ",
+      "ケ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "塊茎",
+        "reading": "カイケイ",
+        "meaning": "củ"
+      },
+      {
+        "example": "塊鉱",
+        "reading": "カイコウ",
+        "meaning": "quặng cục"
+      },
+      {
+        "example": "団塊",
+        "reading": "ダンカイ",
+        "meaning": "khối, cục, cục, cục, cục, thế hệ baby boom (1947-1949), babyboomer (sinh từ 1947-1949)"
+      },
+      {
+        "example": "山塊",
+        "reading": "サンカイ",
+        "meaning": "khối núi, khối núi"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "塊",
+        "reading": "かたまり",
+        "meaning": "khối, khối, bó, cụm, cục, cụm, nhóm, đám đông, hiện thân (của một ý tưởng, chất lượng, cảm giác, v.v.), nhân cách hóa"
+      },
+      {
+        "example": "塊魂",
+        "reading": "かたまりだましい",
+        "meaning": "Katamari Damacy (trò chơi điện tử năm 2004)"
+      },
+      {
+        "example": "一塊",
+        "reading": "いっかい",
+        "meaning": "một khối, một nhóm"
+      },
+      {
+        "example": "拝金主義の塊",
+        "reading": "はいきんしゅぎのかたまり",
+        "meaning": "người tôn thờ tiền bạc"
+      }
+    ],
+    "radical": {
+      "symbol": "土",
+      "meaning": "trái đất"
+    },
+    "parts": [
+      "儿",
+      "匕",
+      "厶",
+      "土",
+      "田",
+      "鬼"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22602_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0584a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/584a.gif",
+    "uri": "https://jisho.org/search/%E5%A1%8A%23kanji"
+  }
+}

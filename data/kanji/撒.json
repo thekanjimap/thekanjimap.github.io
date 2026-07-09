@@ -1,0 +1,57 @@
+{
+  "id": "撒",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "撒",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "rải, rắc, cho họ trượt",
+    "kunyomi": [
+      "ま.く"
+    ],
+    "onyomi": [
+      "サン",
+      "サツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "散布",
+        "reading": "サンプ",
+        "meaning": "sự rải, rải, rắc, phun"
+      },
+      {
+        "example": "散水",
+        "reading": "サンスイ",
+        "meaning": "rảy nước lên, rảy nước"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "撒く",
+        "reading": "まく",
+        "meaning": "rải, rắc, rải, phân phát (tờ rơi, v.v.), phát, phát, rũ bỏ (người theo đuổi, bạn đồng hành, v.v.), đưa phiếu, vứt đi, đánh mất, loại bỏ"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "乞",
+      "二",
+      "夂",
+      "廾",
+      "扎",
+      "攵",
+      "月",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25746_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06492.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6492.gif",
+    "uri": "https://jisho.org/search/%E6%92%92%23kanji"
+  }
+}

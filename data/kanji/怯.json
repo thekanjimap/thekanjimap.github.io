@@ -1,0 +1,67 @@
+{
+  "id": "怯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "怯",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "hèn nhát, nhăn nhó, nao núng, do dự, dao động",
+    "kunyomi": [
+      "ひる.む",
+      "おびえ.る",
+      "おじる",
+      "おび.える",
+      "おそ.れる"
+    ],
+    "onyomi": [
+      "キョウ",
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "怯弱",
+        "reading": "キョウジャク",
+        "meaning": "hèn nhát"
+      },
+      {
+        "example": "怯懦",
+        "reading": "キョウダ",
+        "meaning": "hèn nhát, nhu nhược, yếu đuối, yếu đuối"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "怯む",
+        "reading": "ひるむ",
+        "meaning": "chùn bước, nao núng (từ), lùi lại (từ), run rẩy (tại), bị đe dọa, cảm thấy nản lòng, nản lòng, do dự"
+      },
+      {
+        "example": "怯える",
+        "reading": "おびえる",
+        "meaning": "trở nên sợ hãi, sợ hãi (về), sợ hãi (về)"
+      },
+      {
+        "example": "怯える",
+        "reading": "おびえる",
+        "meaning": "trở nên sợ hãi, sợ hãi (về), sợ hãi (về)"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "厶",
+      "土",
+      "忙"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24623_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0602f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/602f.gif",
+    "uri": "https://jisho.org/search/%E6%80%AF%23kanji"
+  }
+}

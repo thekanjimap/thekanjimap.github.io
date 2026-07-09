@@ -1,0 +1,70 @@
+{
+  "id": "詠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "詠",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2000",
+    "strokeCount": 12,
+    "meaning": "đọc thơ, ca hát, sáng tác",
+    "kunyomi": [
+      "よ.む",
+      "うた.う"
+    ],
+    "onyomi": [
+      "エイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "詠",
+        "reading": "エイ",
+        "meaning": "đọc thuộc lòng (một bài thơ), tụng kinh, ca hát, sáng tác (một bài thơ), sáng tác bài thơ"
+      },
+      {
+        "example": "詠歌",
+        "reading": "エイカ",
+        "meaning": "bài thơ (đặc biệt là tanka), bài hát, sáng tác của một bài thơ hoặc bài hát, bài hát của người hành hương, bài thánh ca của người hành hương, hát to một bài thơ hoặc bài hát"
+      },
+      {
+        "example": "朗詠",
+        "reading": "ロウエイ",
+        "meaning": "ngâm thơ (thơ tiếng Nhật hoặc tiếng Trung)"
+      },
+      {
+        "example": "遺詠",
+        "reading": "イエイ",
+        "meaning": "bài hát hoặc bài thơ để lại"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "詠む",
+        "reading": "よむ",
+        "meaning": "sáng tác (một bài thơ tiếng Nhật), viết, dùng làm chủ đề của một bài thơ, đọc thuộc lòng (ví dụ một bài thơ), tụng kinh, ngâm nga"
+      },
+      {
+        "example": "歌う",
+        "reading": "うたう",
+        "meaning": "hát, hát về (tình yêu, vẻ đẹp, v.v.) trong một bài thơ, diễn đạt dưới hình thức một bài thơ, đọc thuộc lòng (một bài thơ)"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "lời nói"
+    },
+    "parts": [
+      "丶",
+      "水",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35424_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a60.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a60.gif",
+    "uri": "https://jisho.org/search/%E8%A9%A0%23kanji"
+  }
+}

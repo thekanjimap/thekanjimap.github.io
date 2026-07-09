@@ -1,0 +1,44 @@
+{
+  "id": "釋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "釋",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "giải thích",
+    "kunyomi": [
+      "とく",
+      "す.てる",
+      "ゆる.す"
+    ],
+    "onyomi": [
+      "シャク",
+      "セキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "釈義",
+        "reading": "シャクギ",
+        "meaning": "chú giải, giải thích một văn bản, bình luận một văn bản"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "釆",
+      "meaning": "chia, phân biệt, lựa chọn"
+    },
+    "parts": [
+      "亠",
+      "十",
+      "立",
+      "米",
+      "買",
+      "辛",
+      "釆"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37323_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091cb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91cb.gif",
+    "uri": "https://jisho.org/search/%E9%87%8B%23kanji"
+  }
+}

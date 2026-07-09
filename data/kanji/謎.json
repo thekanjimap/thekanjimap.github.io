@@ -1,0 +1,54 @@
+{
+  "id": "謎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "謎",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "newspaperFrequencyRank": "2021",
+    "strokeCount": 16,
+    "meaning": "câu đố, câu đố, điều bí ẩn, gợi ý, mẹo",
+    "kunyomi": [
+      "なぞ"
+    ],
+    "onyomi": [
+      "メイ",
+      "ベイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "謎語",
+        "reading": "メイゴ",
+        "meaning": "những từ bí ẩn, những từ khó hiểu"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "謎",
+        "reading": "なぞ",
+        "meaning": "câu đố, câu đố, điều bí ẩn, bí ẩn, bí ẩn, bí ẩn"
+      },
+      {
+        "example": "謎々",
+        "reading": "なぞなぞ",
+        "meaning": "câu đố, câu đố, điều bí ẩn"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "lời nói"
+    },
+    "parts": [
+      "米",
+      "言",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35598_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b0e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b0e.gif",
+    "uri": "https://jisho.org/search/%E8%AC%8E%23kanji"
+  }
+}

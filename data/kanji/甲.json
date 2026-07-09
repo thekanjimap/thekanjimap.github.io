@@ -1,0 +1,77 @@
+{
+  "id": "甲",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "甲",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1073",
+    "strokeCount": 5,
+    "meaning": "áo giáp, cao (giọng nói), hạng A, hạng nhất, cựu, mu bàn chân, mai",
+    "kunyomi": [
+      "きのえ"
+    ],
+    "onyomi": [
+      "コウ",
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "甲",
+        "reading": "コウ",
+        "meaning": "mai, vỏ, hạng 1, hạng A, mu bàn chân, mu bàn tay, bên A (ví dụ: trong hợp đồng), bên thứ nhất, nguyên đơn (nhãn trong văn bản pháp luật)"
+      },
+      {
+        "example": "甲状腺",
+        "reading": "コウジョウセン",
+        "meaning": "tuyến giáp (tuyến)"
+      },
+      {
+        "example": "装甲",
+        "reading": "ソウコウ",
+        "meaning": "áo giáp, áo giáp, áo giáp, áo giáp"
+      },
+      {
+        "example": "亀甲",
+        "reading": "キッコウ",
+        "meaning": "mai rùa, mai rùa, hoa văn đồi mồi, hoa văn tổ ong, hoa văn lục giác, dấu ngoặc đồi mồi (dấu chấm câu)"
+      },
+      {
+        "example": "甲",
+        "reading": "カン",
+        "meaning": "dải treble (trong nhạc Nhật), nốt cao"
+      },
+      {
+        "example": "甲板",
+        "reading": "カンパン",
+        "meaning": "boong (của một con tàu)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "甲",
+        "reading": "きのえ",
+        "meaning": "dấu hiệu đầu tiên của lịch Trung Quốc"
+      },
+      {
+        "example": "甲戌",
+        "reading": "きのえいぬ",
+        "meaning": "Tuổi Tuất (học kỳ thứ 11 của chu kỳ sáu mươi tuổi, ví dụ: 1934, 1994, 2054)"
+      }
+    ],
+    "radical": {
+      "symbol": "田",
+      "meaning": "lĩnh vực"
+    },
+    "parts": [
+      "日",
+      "田",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30002_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07532.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7532.gif",
+    "uri": "https://jisho.org/search/%E7%94%B2%23kanji"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "椒",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "椒",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "cây tiêu nhật bản",
+    "kunyomi": [
+      "はじかみ"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "花椒",
+        "reading": "カショウ",
+        "meaning": "Tro gai Trung Quốc (Zanthoxylum bungeanum), hạt tiêu Tứ Xuyên (gia vị), hạt tiêu Tứ Xuyên"
+      },
+      {
+        "example": "塩コショウ",
+        "reading": "シオコショウ",
+        "meaning": "muối và hạt tiêu, nêm muối và hạt tiêu"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "薑",
+        "reading": "はじかみ",
+        "meaning": "gừng (Zingiber officinale), hạt tiêu Nhật Bản (Zanthoxylum piperitum)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "卜",
+      "又",
+      "小",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26898_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06912.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6912.gif",
+    "uri": "https://jisho.org/search/%E6%A4%92%23kanji"
+  }
+}

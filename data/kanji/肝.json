@@ -1,0 +1,78 @@
+{
+  "id": "肝",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "肝",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1118",
+    "strokeCount": 7,
+    "meaning": "gan, nhổ, dây thần kinh, chutzpah",
+    "kunyomi": [
+      "きも"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "肝硬変",
+        "reading": "カンコウヘン",
+        "meaning": "xơ gan (ở gan)"
+      },
+      {
+        "example": "肝炎",
+        "reading": "カンエン",
+        "meaning": "viêm gan"
+      },
+      {
+        "example": "肺肝",
+        "reading": "ハイカン",
+        "meaning": "phổi và gan, sâu thẳm trái tim, trái tim sâu thẳm nhất"
+      },
+      {
+        "example": "脂肪肝",
+        "reading": "シボウカン",
+        "meaning": "gan nhiễm mỡ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "肝",
+        "reading": "きも",
+        "meaning": "gan, nội tạng, lòng dũng cảm, tinh thần, bộ lông, ruột, điểm mấu chốt, điểm thiết yếu, chìa khóa"
+      },
+      {
+        "example": "肝いり",
+        "reading": "きもいり",
+        "meaning": "văn phòng tốt, sự bảo trợ, tài trợ, giúp đỡ, giúp đỡ, quan chức làng (trong thời Edo)"
+      },
+      {
+        "example": "群肝",
+        "reading": "むらぎも",
+        "meaning": "nội tạng, ruột"
+      },
+      {
+        "example": "あん肝",
+        "reading": "あんきも",
+        "meaning": "gan cá chày, gan cá ngỗng"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "thịt"
+    },
+    "parts": [
+      "干",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32925_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0809d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/809d.gif",
+    "uri": "https://jisho.org/search/%E8%82%9D%23kanji"
+  }
+}

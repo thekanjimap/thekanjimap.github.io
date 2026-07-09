@@ -1,0 +1,89 @@
+{
+  "id": "暦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "暦",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1765",
+    "strokeCount": 14,
+    "meaning": "lịch, niên giám",
+    "kunyomi": [
+      "こよみ"
+    ],
+    "onyomi": [
+      "レキ",
+      "リャク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "暦",
+        "reading": "コヨミ",
+        "meaning": "lịch, niên giám"
+      },
+      {
+        "example": "暦年",
+        "reading": "レキネン",
+        "meaning": "năm dương lịch, năm dân sự, thời gian, năm này qua năm khác"
+      },
+      {
+        "example": "還暦",
+        "reading": "カンレキ",
+        "meaning": "kanreki, sinh nhật lần thứ 60 của một người (hoặc thứ 61 trong hệ thống tính tuổi truyền thống) khi một người đã trải qua đủ chu kỳ sáu mươi tuổi"
+      },
+      {
+        "example": "永暦",
+        "reading": "エイレキ",
+        "meaning": "Thời đại Yongli (của hoàng đế Yongli của Nam Minh; 1646-1662)"
+      },
+      {
+        "example": "暦応",
+        "reading": "リャクオウ",
+        "meaning": "Thời Ryakuō (của Bắc Triều; 1338.8.28-1342.4.27), thời Rekiō"
+      },
+      {
+        "example": "暦仁",
+        "reading": "リャクニン",
+        "meaning": "Thời đại Ryakunin (1238.11.23-1239.2.7)"
+      },
+      {
+        "example": "永暦",
+        "reading": "エイリャク",
+        "meaning": "Thời đại Eiryaku (1160.1.10-1161.9.4)"
+      },
+      {
+        "example": "康暦",
+        "reading": "コウリャク",
+        "meaning": "Thời Kōryaku (của Bắc Triều; 1379.3.22-1381.2.24)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "暦",
+        "reading": "こよみ",
+        "meaning": "lịch, niên giám"
+      },
+      {
+        "example": "暦改正",
+        "reading": "こよみかいせい",
+        "meaning": "cải cách lịch"
+      }
+    ],
+    "radical": {
+      "symbol": "日",
+      "meaning": "mặt trời, ngày"
+    },
+    "parts": [
+      "厂",
+      "广",
+      "日",
+      "木",
+      "麻"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26278_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/066a6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/66a6.gif",
+    "uri": "https://jisho.org/search/%E6%9A%A6%23kanji"
+  }
+}

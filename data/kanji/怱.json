@@ -1,0 +1,59 @@
+{
+  "id": "怱",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "怱",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "vội vàng, vội vàng, bối rối",
+    "kunyomi": [
+      "にわか",
+      "あわ.てる"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "匆々",
+        "reading": "ソウソウ",
+        "meaning": "bận rộn, vội vã, vội vã, chân thành, vội vàng, đơn giản, ngắn gọn, nhanh chóng"
+      },
+      {
+        "example": "倉卒",
+        "reading": "ソウソツ",
+        "meaning": "vội vã, vội vã, bận rộn, dồn dập, đột ngột, đột ngột"
+      },
+      {
+        "example": "匆々",
+        "reading": "ソウソウ",
+        "meaning": "bận rộn, vội vã, vội vã, chân thành, vội vàng, đơn giản, ngắn gọn, nhanh chóng"
+      },
+      {
+        "example": "烏兎匆々",
+        "reading": "ウトソウソウ",
+        "meaning": "ngày đêm trôi qua nhanh, tháng năm trôi qua, thời gian trôi nhanh"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "ノ",
+      "丶",
+      "勹",
+      "勿",
+      "心"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24625_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06031.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6031.gif",
+    "uri": "https://jisho.org/search/%E6%80%B1%23kanji"
+  }
+}

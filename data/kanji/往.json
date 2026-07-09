@@ -1,0 +1,316 @@
+{
+  "id": "往",
+  "kanjialiveData": {
+    "_id": "54317b11791eba5146ee4cc8",
+    "_rev": "15-8c8585993389407901b89260c7713456",
+    "rad_name_ja": "ぎょうにんべん",
+    "grade": 5,
+    "hint_group": 1,
+    "kunyomi": "Không có",
+    "meaning": "tiếp tục, tiếp tục",
+    "kstroke": 8,
+    "examples": [
+      {
+        "japanese": "往年（おうねん）",
+        "meaning": {
+          "english": "trước đây, một lần, nhiều năm trước"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou(fukusuru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ou(fukusuru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ou(fukusuru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ou(fukusuru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "往来（おうらい）",
+        "meaning": {
+          "english": "đến và đi, giao thông"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou(fukusuru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ou(fukusuru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ou(fukusuru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ou(fukusuru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "往復する（おうふくする）",
+        "meaning": {
+          "english": "thực hiện một chuyến đi khứ hồi"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou(fukusuru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ou(fukusuru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ou(fukusuru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ou(fukusuru)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "往診する（おうしんする）",
+        "meaning": {
+          "english": "gọi điện về nhà"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou(fukusuru)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ou(fukusuru)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ou(fukusuru)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ou(fukusuru)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "往生する（おうじょうする）",
+        "meaning": {
+          "english": "chết một cách thanh thản, được sửa chữa"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou(fukusuru)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ou(fukusuru)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ou(fukusuru)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ou(fukusuru)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "右往左往する（うおうさおうする）",
+        "meaning": {
+          "english": "đi mọi hướng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou(fukusuru)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ou(fukusuru)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ou(fukusuru)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ou(fukusuru)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "立ち往生する（たちおうじょうする）",
+        "meaning": {
+          "english": "bị đưa vào tình trạng bế tắc [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ou(fukusuru)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ou(fukusuru)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ou(fukusuru)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ou(fukusuru)_06_g.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "往",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=往",
+    "rad_name_search": [
+      "gyouninben"
+    ],
+    "rad_order": 70,
+    "txt_books": [],
+    "kname": "ou(fukusuru)",
+    "rad_utf": "⼻",
+    "stroketimes": [
+      0,
+      0.933333,
+      1.666667,
+      2.733333,
+      3.8,
+      5,
+      6.066667,
+      6.866667,
+      9.066667
+    ],
+    "kunyomi_ka_display": "Không có",
+    "dick": "217",
+    "rad_name": "gyouninben",
+    "dicn": "1605",
+    "mn_hint": "Person/master 主 proceeding 彳.",
+    "rad_stroke": 3,
+    "onyomi_ja": "オウ",
+    "rad_meaning": "bước, sải bước, đường phố, đi",
+    "onyomi": "ou",
+    "ka_id": "ka_968",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "ou",
+      "ou"
+    ],
+    "kunyomi_search": [
+      "Không có",
+      "Không có"
+    ],
+    "meaning_search": [
+      "go on",
+      "go",
+      "on",
+      "proceed",
+      "go on, proceed"
+    ],
+    "onyomi_ja_search": [
+      "オウ",
+      "オウ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "step",
+      "stride",
+      "street",
+      "to go",
+      "to",
+      "go",
+      "step, stride, street, to go"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "ぎょうにんべん"
+    ],
+    "textbook_search": [],
+    "rad_name_file": "gyouninben",
+    "kanji": {
+      "character": "往",
+      "meaning": {
+        "english": "go on, proceed"
+      },
+      "strokes": {
+        "count": 8,
+        "timings": [
+          0,
+          0.933333,
+          1.666667,
+          2.733333,
+          3.8,
+          5,
+          6.066667,
+          6.866667,
+          9.066667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/ou(fukusuru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/ou(fukusuru)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/ou(fukusuru)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/ou(fukusuru)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/ou(fukusuru)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/ou(fukusuru)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/ou(fukusuru)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/ou(fukusuru)_8.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "ou",
+        "katakana": "オウ"
+      },
+      "kunyomi": {
+        "romaji": "Không có",
+        "hiragana": "Không có"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/ou(fukusuru)_8.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/ou(fukusuru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/ou(fukusuru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼻",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/gyouninben.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "ぎょうにんべん",
+        "romaji": "gyouninben"
+      },
+      "meaning": {
+        "english": "bước, sải bước, đường phố, đi"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/gyouninben0.svg",
+        "https://media.kanjialive.com/rad_frames/gyouninben1.svg",
+        "https://media.kanjialive.com/rad_frames/gyouninben2.svg"
+      ]
+    },
+    "references": {
+      "grade": 5,
+      "kodansha": "217",
+      "classic_nelson": "1605"
+    }
+  },
+  "jishoData": {
+    "query": "往",
+    "found": true,
+    "taughtIn": "lớp 5",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1421",
+    "strokeCount": 8,
+    "meaning": "hành trình,du lịch,đuổi đi,buông ra,đi,trước,trước đây",
+    "kunyomi": [
+      "い.く",
+      "いにしえ",
+      "さき.に",
+      "ゆ.く"
+    ],
+    "onyomi": [
+      "オウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "往復",
+        "reading": "オウフク",
+        "meaning": "đi khứ hồi, đi và về, đến và đi, vé khứ hồi, vé khứ hồi, thư từ, trao đổi (thư từ), bầu bạn (với), giao lưu, thăm hỏi lẫn nhau"
+      },
+      {
+        "example": "往年",
+        "reading": "オウネン",
+        "meaning": "năm trôi qua, những năm trước, những năm trước, quá khứ"
+      },
+      {
+        "example": "右往左往",
+        "reading": "ウオウサオウ",
+        "meaning": "di chuyển trong bối rối, đi khắp nơi, đi hướng này và hướng kia"
+      },
+      {
+        "example": "以往",
+        "reading": "イオウ",
+        "meaning": "sau, ... và sau đó, trước, trước"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "行く",
+        "reading": "いく",
+        "meaning": "đi, đi (tốt, xấu, v.v.), đi (tốt, xấu, v.v.), đi (tốt, xấu, v.v.), đi (theo một cách cụ thể), đi (với; một sự lựa chọn), cố gắng, vượt qua (thời gian, mùa, v.v.), đi theo, chảy, chảy, chết, đi qua, đạt đến (một giai đoạn, mức độ, tuổi tác, v.v.), đến, đi (đến mức ...), đến (về thông tin, chỉ dẫn, gió, v.v.), đến, tiếp tục ..., đi tiếp ..., đến (tiến bộ) đều đặn, dần dần ..., dần dần ..., đạt cực khoái, đến, xuất tinh, đi vấp, lên cao, ảo giác do ma túy"
+      },
+      {
+        "example": "古",
+        "reading": "いにしえ",
+        "meaning": "thời xa xưa, thời xa xưa, ngày xưa, thời xa xưa"
+      },
+      {
+        "example": "行く",
+        "reading": "いく",
+        "meaning": "đi, đi (tốt, xấu, v.v.), đi (tốt, xấu, v.v.), đi (tốt, xấu, v.v.), đi (theo một cách cụ thể), đi (với; một sự lựa chọn), cố gắng, vượt qua (thời gian, mùa, v.v.), đi theo, chảy, chảy, chết, đi qua, đạt đến (một giai đoạn, mức độ, tuổi tác, v.v.), đến, đi (đến mức ...), đến (về thông tin, chỉ dẫn, gió, v.v.), đến, tiếp tục ..., đi tiếp ..., đến (tiến bộ) đều đặn, dần dần ..., dần dần ..., đạt cực khoái, đến, xuất tinh, đi vấp, lên cao, ảo giác do ma túy"
+      }
+    ],
+    "radical": {
+      "symbol": "彳",
+      "meaning": "bước"
+    },
+    "parts": [
+      "丶",
+      "彳",
+      "王"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24448_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f80.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f80.gif",
+    "uri": "https://jisho.org/search/%E5%BE%80%23kanji"
+  }
+}

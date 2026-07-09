@@ -1,0 +1,52 @@
+{
+  "id": "慚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "慚",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "cảm thấy xấu hổ",
+    "kunyomi": [
+      "はじ",
+      "はじ.る"
+    ],
+    "onyomi": [
+      "ザン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "慚恚",
+        "reading": "ザンイ",
+        "meaning": "xấu hổ và tức giận"
+      },
+      {
+        "example": "慙愧",
+        "reading": "ザンキ",
+        "meaning": "(cảm giác) xấu hổ"
+      },
+      {
+        "example": "冷酷無惨",
+        "reading": "レイコクムザン",
+        "meaning": "tàn nhẫn và vô tâm, tàn nhẫn, không thể tha thứ, máu lạnh"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "忙",
+      "斤",
+      "車"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24922_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0615a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/615a.gif",
+    "uri": "https://jisho.org/search/%E6%85%9A%23kanji"
+  }
+}

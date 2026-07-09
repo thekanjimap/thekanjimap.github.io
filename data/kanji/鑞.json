@@ -1,0 +1,55 @@
+{
+  "id": "鑞",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鑞",
+    "found": true,
+    "strokeCount": 23,
+    "meaning": "hàn",
+    "kunyomi": [],
+    "onyomi": [
+      "ロウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鑞",
+        "reading": "ロウ",
+        "meaning": "hàn"
+      },
+      {
+        "example": "ろう付け",
+        "reading": "ロウヅケ",
+        "meaning": "hàn"
+      },
+      {
+        "example": "硬鑞",
+        "reading": "コウロウ",
+        "meaning": "hàn cứng"
+      },
+      {
+        "example": "真鍮鑞",
+        "reading": "シンチュウロウ",
+        "meaning": "loại hợp kim của đồng và kẽm (đồng thau) với kẽm khoảng 33-67% dùng để hàn các kim loại như đồng, sắt"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "kim loại, vàng"
+    },
+    "parts": [
+      "囗",
+      "巛",
+      "臼",
+      "金",
+      "鼠"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37982_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0945e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/945e.gif",
+    "uri": "https://jisho.org/search/%E9%91%9E%23kanji"
+  }
+}

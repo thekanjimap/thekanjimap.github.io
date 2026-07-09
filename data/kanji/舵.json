@@ -1,0 +1,75 @@
+{
+  "id": "舵",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "舵",
+    "found": true,
+    "newspaperFrequencyRank": "2225",
+    "strokeCount": 11,
+    "meaning": "bánh lái, bánh lái, bánh xe",
+    "kunyomi": [
+      "かじ"
+    ],
+    "onyomi": [
+      "ダ",
+      "タ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "舵手",
+        "reading": "ダシュ",
+        "meaning": "người cầm lái, người lái tàu, người lái tàu, cox"
+      },
+      {
+        "example": "舵柄",
+        "reading": "カジヅカ",
+        "meaning": "cầm lái, ách"
+      },
+      {
+        "example": "方向舵",
+        "reading": "ホウコウダ",
+        "meaning": "bánh lái"
+      },
+      {
+        "example": "昇降舵",
+        "reading": "ショウコウダ",
+        "meaning": "thang máy"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "舵",
+        "reading": "かじ",
+        "meaning": "bánh lái, bánh lái"
+      },
+      {
+        "example": "舵付き",
+        "reading": "かじつき",
+        "meaning": "coxed (chèo thuyền), có một người chèo thuyền"
+      },
+      {
+        "example": "上げ舵",
+        "reading": "あげかじ",
+        "meaning": "kéo cần điều khiển"
+      },
+      {
+        "example": "下げ舵",
+        "reading": "さげかじ",
+        "meaning": "ấn vào cần điều khiển"
+      }
+    ],
+    "radical": {
+      "symbol": "舟",
+      "meaning": "thuyền"
+    },
+    "parts": [
+      "匕",
+      "宀",
+      "舟"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33333_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08235.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8235.gif",
+    "uri": "https://jisho.org/search/%E8%88%B5%23kanji"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "莖",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "莖",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "thân, cuống",
+    "kunyomi": [
+      "くき"
+    ],
+    "onyomi": [
+      "ケイ",
+      "キョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "包茎",
+        "reading": "ホウケイ",
+        "meaning": "bệnh hẹp bao quy đầu"
+      },
+      {
+        "example": "包茎",
+        "reading": "ホウケイ",
+        "meaning": "bệnh hẹp bao quy đầu"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "茎茶",
+        "reading": "くきちゃ",
+        "meaning": "trà cành, trà thân, kukicha, trà làm từ cành cây được cắt tỉa từ cây trà trong mùa ngủ đông của cây trà"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "一",
+      "巛",
+      "工",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33686_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08396.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8396.gif",
+    "uri": "https://jisho.org/search/%E8%8E%96%23kanji"
+  }
+}

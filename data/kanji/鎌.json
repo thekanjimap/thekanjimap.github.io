@@ -1,0 +1,63 @@
+{
+  "id": "鎌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鎌",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1587",
+    "strokeCount": 18,
+    "meaning": "liềm, lưỡi hái, lừa",
+    "kunyomi": [
+      "かま"
+    ],
+    "onyomi": [
+      "レン",
+      "ケン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鎌",
+        "reading": "かま",
+        "meaning": "liềm, câu hỏi dẫn dắt, câu hỏi đánh lừa, lưỡi liềm và dây chuyền (vũ khí), ngọn giáo có lưỡi chéo cong, mộng cổ ngỗng và khớp mộng, tiếng động, một phần của cá xung quanh mang"
+      },
+      {
+        "example": "鎌倉",
+        "reading": "かまくら",
+        "meaning": "Kamakura (thành phố)"
+      },
+      {
+        "example": "大鎌",
+        "reading": "おおがま",
+        "meaning": "lưỡi hái"
+      },
+      {
+        "example": "大脳鎌",
+        "reading": "だいのうかま",
+        "meaning": "falx não, falx não"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "kim loại, vàng"
+    },
+    "parts": [
+      "ノ",
+      "ハ",
+      "ヨ",
+      "丶",
+      "并",
+      "王",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37772_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0938c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/938c.gif",
+    "uri": "https://jisho.org/search/%E9%8E%8C%23kanji"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "隙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "隙",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "strokeCount": 13,
+    "meaning": "kẽ hở, vết nứt, bất hòa, cơ hội, nhàn hạ",
+    "kunyomi": [
+      "すき",
+      "す.く",
+      "す.かす",
+      "ひま"
+    ],
+    "onyomi": [
+      "ゲキ",
+      "キャク",
+      "ケキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "隙",
+        "reading": "ゲキ",
+        "meaning": "khoảng cách, sơ hở, không gian, cơ hội (tận dụng), cơ hội, bất hòa, bất đồng"
+      },
+      {
+        "example": "細隙",
+        "reading": "サイゲキ",
+        "meaning": "khe, kẽ, khe hẹp"
+      },
+      {
+        "example": "空隙",
+        "reading": "クウゲキ",
+        "meaning": "khoảng trống, khẩu độ, khoảng trống, sự mở ra"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "隙",
+        "reading": "すき",
+        "meaning": "khoảng trống, sự mở ra, căn phòng, không gian, sự phá vỡ, khoảng thời gian, khoảnh khắc rảnh rỗi, thời gian rảnh rỗi, khoảnh khắc không được bảo vệ, sự bất cẩn, điểm yếu, vết nứt trong áo giáp của một người, lỗ hổng, lỗi, cơ hội, cơ hội"
+      },
+      {
+        "example": "隙間",
+        "reading": "すきま",
+        "meaning": "khoảng trống, lỗ mở, khẩu độ, kẽ hở, vết nứt, kẽ hở, không gian, khoảnh khắc rảnh rỗi, khoảng cách, sự đứt gãy, khoảnh khắc không được bảo vệ, sự bất cẩn, vết nứt trên áo giáp, điểm yếu"
+      },
+      {
+        "example": "隙",
+        "reading": "ひま",
+        "meaning": "khoảng trống, sự mở cửa, không gian"
+      },
+      {
+        "example": "暇人",
+        "reading": "ひまじん",
+        "meaning": "người có nhiều thời gian rảnh rỗi, người nhàn rỗi, người lười biếng, người đi rong"
+      }
+    ],
+    "radical": {
+      "symbol": "阜",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "gò, đập (阝 trái)"
+    },
+    "parts": [
+      "小",
+      "日",
+      "阡"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38553_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09699.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9699.gif",
+    "uri": "https://jisho.org/search/%E9%9A%99%23kanji"
+  }
+}

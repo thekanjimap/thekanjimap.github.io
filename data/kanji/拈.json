@@ -1,0 +1,53 @@
+{
+  "id": "拈",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "拈",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "vặn xoắn, vặn xoắn, vặn xoắn, vặn xoắn",
+    "kunyomi": [
+      "ひね.る"
+    ],
+    "onyomi": [
+      "ネン",
+      "セン",
+      "デン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "拈華微笑",
+        "reading": "ネンゲミショウ",
+        "meaning": "giao tiếp từ trái tim đến trái tim, chuyển tải suy nghĩ, cầm một bông hoa và mỉm cười tinh tế"
+      },
+      {
+        "example": "捻出",
+        "reading": "ネンシュツ",
+        "meaning": "quản lý (để gây quỹ, tìm thời gian, v.v.), lên kế hoạch, cùng nhau kiếm tiền (tiền), tìm ra (kế hoạch, giải pháp, v.v.), suy nghĩ, nghĩ ra, trù tính"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "捻る",
+        "reading": "ひねる",
+        "meaning": "vặn, vặn, vặn (vòi, công tắc, v.v.), vặn (một bộ phận cơ thể), uốn cong, bong gân, bóp cổ (đến chết), vặn (cổ động vật), đánh bại dễ dàng, đánh bại, làm (một vấn đề, thiết kế, v.v.) phức tạp, làm đặc biệt, làm phức tạp, quản lý để sáng tác (một bài haiku, bài hát, v.v.), gói (một món quà bằng tiền) trong giấy"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "卜",
+      "口",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25288_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062c8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62c8.gif",
+    "uri": "https://jisho.org/search/%E6%8B%88%23kanji"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "兜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "兜",
+    "found": true,
+    "newspaperFrequencyRank": "2034",
+    "strokeCount": 11,
+    "meaning": "mũ bảo hiểm, mảnh đầu",
+    "kunyomi": [
+      "かぶと"
+    ],
+    "onyomi": [
+      "トウ",
+      "ト"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "兜巾",
+        "reading": "トキン",
+        "meaning": "tokin, chiếc mũ đội đầu nhỏ màu đen của yamabushi"
+      },
+      {
+        "example": "兜率",
+        "reading": "トソツ",
+        "meaning": "Tusita (thiên đường, cõi tịnh độ)"
+      },
+      {
+        "example": "【ヘラクレスオオカブト】",
+        "reading": "Hercules beetle (Dynastes hercules)",
+        "meaning": ""
+      },
+      {
+        "example": "内兜",
+        "reading": "ウチカブト",
+        "meaning": "bên trong chiếc mũ bảo hiểm, những tình tiết ẩn giấu"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "兜",
+        "reading": "かぶと",
+        "meaning": "mũ sắt (của chiến binh), mũ đội đầu"
+      },
+      {
+        "example": "兜合わせ",
+        "reading": "かぶとあわせ",
+        "meaning": "sương mù (hành vi tình dục)"
+      },
+      {
+        "example": "【ヘラクレスオオカブト】",
+        "reading": "Hercules beetle (Dynastes hercules)",
+        "meaning": ""
+      },
+      {
+        "example": "内兜",
+        "reading": "うちかぶと",
+        "meaning": "bên trong chiếc mũ bảo hiểm, những tình tiết ẩn giấu"
+      }
+    ],
+    "radical": {
+      "symbol": "儿",
+      "meaning": "chân"
+    },
+    "parts": [
+      "儿",
+      "白"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20828_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0515c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/515c.gif",
+    "uri": "https://jisho.org/search/%E5%85%9C%23kanji"
+  }
+}

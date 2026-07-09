@@ -1,0 +1,66 @@
+{
+  "id": "游",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "游",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "nổi, bơi",
+    "kunyomi": [
+      "あそ.び",
+      "あそ.ぶ",
+      "およ.ぐ"
+    ],
+    "onyomi": [
+      "ユウ",
+      "リュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "遊撃",
+        "reading": "ユウゲキ",
+        "meaning": "đột kích, tấn công quân sự bằng đơn vị di động, tấn công rồi bỏ chạy, nhiệm vụ tìm kiếm và tiêu diệt, nhiệm vụ tìm kiếm và tiêu diệt, hành động quân sự không có mục tiêu định trước, tấn công kẻ thù hoặc hỗ trợ đồng minh khi có cơ hội, đi đường tắt, đường ngắn"
+      },
+      {
+        "example": "遊泳",
+        "reading": "ユウエイ",
+        "meaning": "bơi lội, tắm rửa, bước vào thế giới"
+      },
+      {
+        "example": "浮遊",
+        "reading": "フユウ",
+        "meaning": "trôi nổi, trôi dạt, lơ lửng, lang thang (về)"
+      },
+      {
+        "example": "回遊",
+        "reading": "カイユウ",
+        "meaning": "chuyến tham quan, chuyến đi khứ hồi, di cư theo mùa (của cá, v.v.)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "泳ぐ",
+        "reading": "およぐ",
+        "meaning": "bơi lội, vượt qua (đám đông), tìm đường đi trong thế giới, hòa nhập (trong cuộc sống), loạng choạng, mất thăng bằng"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "乞",
+      "子",
+      "方",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28216_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e38.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e38.gif",
+    "uri": "https://jisho.org/search/%E6%B8%B8%23kanji"
+  }
+}

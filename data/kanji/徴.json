@@ -1,0 +1,79 @@
+{
+  "id": "徴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "徴",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "850",
+    "strokeCount": 14,
+    "meaning": "dấu hiệu, dấu hiệu, điềm báo, triệu chứng, thu thập, tìm kiếm, đề cập đến, câu hỏi",
+    "kunyomi": [
+      "しるし"
+    ],
+    "onyomi": [
+      "チョウ",
+      "チ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "徴",
+        "reading": "チョウ",
+        "meaning": "dấu hiệu,dấu hiệu,triệu chứng,gọi,triệu tập,trưng dụng,tước đoạt"
+      },
+      {
+        "example": "兆候",
+        "reading": "チョウコウ",
+        "meaning": "dấu hiệu, dấu hiệu, điềm báo, triệu chứng"
+      },
+      {
+        "example": "追徴",
+        "reading": "ツイチョウ",
+        "meaning": "phí bổ sung, thu bổ sung"
+      },
+      {
+        "example": "吉兆",
+        "reading": "キッチョウ",
+        "meaning": "điềm lành, điềm lành"
+      },
+      {
+        "example": "徴",
+        "reading": "チ",
+        "meaning": "bậc bốn (của thang âm ngũ cung Nhật Bản và Trung Quốc)"
+      },
+      {
+        "example": "徴",
+        "reading": "チョウ",
+        "meaning": "dấu hiệu,dấu hiệu,triệu chứng,gọi,triệu tập,trưng dụng,tước đoạt"
+      },
+      {
+        "example": "変徴",
+        "reading": "ヘンチ",
+        "meaning": "lưu ý nửa cung dưới bậc 4 của âm giai ngũ cung Trung Quốc và Nhật Bản"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "徴",
+        "reading": "しるし",
+        "meaning": "dấu hiệu, dấu hiệu, điềm báo"
+      }
+    ],
+    "radical": {
+      "symbol": "彳",
+      "meaning": "bước"
+    },
+    "parts": [
+      "乞",
+      "山",
+      "彳",
+      "攵",
+      "王"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24500_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fb4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fb4.gif",
+    "uri": "https://jisho.org/search/%E5%BE%B4%23kanji"
+  }
+}

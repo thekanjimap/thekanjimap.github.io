@@ -1,0 +1,59 @@
+{
+  "id": "凉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "凉",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "đẹp và mát mẻ",
+    "kunyomi": [
+      "すず.しい",
+      "すず.む",
+      "すず.やか",
+      "うす.い",
+      "ひや.す",
+      "まことに"
+    ],
+    "onyomi": [
+      "リョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "涼",
+        "reading": "リョウ",
+        "meaning": "gió mát, không khí mát mẻ, mát mẻ sảng khoái"
+      },
+      {
+        "example": "爽凉",
+        "reading": "ソウリョウ",
+        "meaning": "mát mẻ và sảng khoái"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "涼しい",
+        "reading": "すずしい",
+        "meaning": "mát mẻ, sảng khoái, trong sáng (ví dụ như mắt), sáng sủa, rõ ràng, khác biệt, điềm tĩnh (nét mặt), bình tĩnh, không quan tâm, trong sáng, ngay thẳng, ngây thơ"
+      },
+      {
+        "example": "涼む",
+        "reading": "すずむ",
+        "meaning": "làm mát, làm mát, tận hưởng không khí mát mẻ"
+      }
+    ],
+    "radical": {
+      "symbol": "冫",
+      "meaning": "băng"
+    },
+    "parts": [
+      "亠",
+      "冫",
+      "口",
+      "小"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20937_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051c9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51c9.gif",
+    "uri": "https://jisho.org/search/%E5%87%89%23kanji"
+  }
+}

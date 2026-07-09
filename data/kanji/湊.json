@@ -1,0 +1,56 @@
+{
+  "id": "湊",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "湊",
+    "found": true,
+    "newspaperFrequencyRank": "2222",
+    "strokeCount": 12,
+    "meaning": "cảng, bến cảng",
+    "kunyomi": [
+      "みなと",
+      "あつ.まる"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "輻輳",
+        "reading": "フクソウ",
+        "meaning": "tắc nghẽn (ví dụ: giao thông), quá tải, hội tụ (đặc biệt là quang học)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "港",
+        "reading": "みなと",
+        "meaning": "bến cảng, bến cảng, bến cảng"
+      },
+      {
+        "example": "春の湊",
+        "reading": "はるのみなと",
+        "meaning": "cuối mùa xuân"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "一",
+      "二",
+      "人",
+      "大",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28234_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e4a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e4a.gif",
+    "uri": "https://jisho.org/search/%E6%B9%8A%23kanji"
+  }
+}

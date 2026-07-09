@@ -1,0 +1,49 @@
+{
+  "id": "懷",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "懷",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "túi, cảm xúc, trái tim, khao khát, nhớ ai đó, gắn bó với, ngực, vú",
+    "kunyomi": [
+      "ふところ",
+      "なつ.かしい",
+      "なつ.かしむ",
+      "なつ.く",
+      "なつ.ける",
+      "いだ.く",
+      "おも.う"
+    ],
+    "onyomi": [
+      "カイ",
+      "エ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "懐",
+        "reading": "ふところ",
+        "meaning": "bên trong ngực quần áo (đặc biệt là kimono), ngực, túi (ngực), khoảng cách giữa ngực và cánh tay dang rộng, tầm tay (của một người), trái tim (ví dụ như một ngọn núi), ngực (ví dụ như tự nhiên), chiều sâu, phần bên trong, tâm trí, trái tim, suy nghĩ bên trong, tiền (một người đang mang), ví, túi tiền"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "亠",
+      "忙",
+      "衣",
+      "買"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25079_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061f7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61f7.gif",
+    "uri": "https://jisho.org/search/%E6%87%B7%23kanji"
+  }
+}

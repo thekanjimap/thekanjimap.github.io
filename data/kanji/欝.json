@@ -1,0 +1,56 @@
+{
+  "id": "欝",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "欝",
+    "found": true,
+    "strokeCount": 26,
+    "meaning": "sự u ám, trầm cảm, u sầu",
+    "kunyomi": [
+      "うっ.する",
+      "ふさ.ぐ",
+      "しげ.る"
+    ],
+    "onyomi": [
+      "ウツ",
+      "ウン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鬱",
+        "reading": "ウツ",
+        "meaning": "trầm cảm, chán nản, um tùm (thực vật)"
+      },
+      {
+        "example": "うつ病",
+        "reading": "ウツビョウ",
+        "meaning": "trầm cảm"
+      },
+      {
+        "example": "気鬱",
+        "reading": "キウツ",
+        "meaning": "u sầu, suy sụp tinh thần"
+      },
+      {
+        "example": "新型うつ",
+        "reading": "シンガタウツ",
+        "meaning": "loại trầm cảm mới, loại trầm cảm chỉ bị trầm cảm khi làm việc"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "寸",
+      "木",
+      "艮",
+      "買"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27421_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06b1d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6b1d.gif",
+    "uri": "https://jisho.org/search/%E6%AC%9D%23kanji"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": "嵬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嵬",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "cao và phẳng",
+    "kunyomi": [],
+    "onyomi": [
+      "カイ",
+      "ギ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "磊塊",
+        "reading": "ライカイ",
+        "meaning": "bất mãn, bị đè nặng về mặt cảm xúc, lòng nặng trĩu"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "山",
+      "meaning": "núi"
+    },
+    "parts": [
+      "儿",
+      "匕",
+      "厶",
+      "山",
+      "田",
+      "鬼"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23916_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05d6c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5d6c.gif",
+    "uri": "https://jisho.org/search/%E5%B5%AC%23kanji"
+  }
+}

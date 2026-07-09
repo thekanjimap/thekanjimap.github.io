@@ -1,0 +1,78 @@
+{
+  "id": "浸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "浸",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1447",
+    "strokeCount": 10,
+    "meaning": "ngâm, ngâm, nhúng, dốc, làm ẩm, ướt, ngâm",
+    "kunyomi": [
+      "ひた.す",
+      "ひた.る",
+      "つ.かる"
+    ],
+    "onyomi": [
+      "シン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "浸透",
+        "reading": "シントウ",
+        "meaning": "sự thẩm thấu (tư tưởng, hệ tư tưởng, văn hóa, v.v.), sự xâm nhập (ví dụ: ý tưởng), lan truyền, thâm nhập (ví dụ: vào thị trường), sự lan tỏa, thẩm thấu (của chất lỏng, v.v.), ngâm, thẩm thấu, thẩm thấu"
+      },
+      {
+        "example": "浸水",
+        "reading": "シンスイ",
+        "meaning": "ngập lụt, nhấn chìm, lũ lụt"
+      },
+      {
+        "example": "防浸",
+        "reading": "ボウシン",
+        "meaning": "kín nước, không thấm nước"
+      },
+      {
+        "example": "液浸",
+        "reading": "エキシン",
+        "meaning": "ngâm, nhúng, trong kính hiển vi, nhúng cả vật kính và mẫu vật vào chất lỏng để tăng khẩu độ số, trong quang khắc, lấp đầy khe hở không khí giữa thấu kính cuối cùng và bề mặt wafer bằng chất lỏng để tăng độ phân giải"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "浸す",
+        "reading": "ひたす",
+        "meaning": "ngâm, nhúng, nhúng, ngâm, làm ẩm, làm ướt"
+      },
+      {
+        "example": "浸る",
+        "reading": "ひたる",
+        "meaning": "được ngâm trong, bị ngập, bị nhấn chìm, bị đắm chìm trong (niềm vui, ký ức, rượu, v.v.), dâng mình cho, đắm mình trong"
+      },
+      {
+        "example": "浸かる",
+        "reading": "つかる",
+        "meaning": "ngâm, ngâm, ngâm, ngâm, ngâm hoàn toàn (trong một điều kiện, ví dụ như lười biếng)"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "ヨ",
+      "冖",
+      "又",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28024_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d78.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d78.gif",
+    "uri": "https://jisho.org/search/%E6%B5%B8%23kanji"
+  }
+}

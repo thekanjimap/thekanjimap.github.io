@@ -1,0 +1,62 @@
+{
+  "id": "豪",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "豪",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1104",
+    "strokeCount": 14,
+    "meaning": "áp đảo, vĩ đại, mạnh mẽ, xuất sắc, Úc",
+    "kunyomi": [
+      "えら.い"
+    ],
+    "onyomi": [
+      "ゴウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "豪",
+        "reading": "ゴウ",
+        "meaning": "Úc"
+      },
+      {
+        "example": "剛",
+        "reading": "ゴウ",
+        "meaning": "sức mạnh, sự dẻo dai, lòng dũng cảm, sự táo bạo"
+      },
+      {
+        "example": "強豪",
+        "reading": "キョウゴウ",
+        "meaning": "sức mạnh áp đảo, người cực kỳ mạnh, cường quốc, cầu thủ rất mạnh, đội rất mạnh"
+      },
+      {
+        "example": "古豪",
+        "reading": "コゴウ",
+        "meaning": "người kỳ cựu, người già, người có kinh nghiệm"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "偉い",
+        "reading": "えらい",
+        "meaning": "tuyệt vời, xuất sắc, đáng ngưỡng mộ, đáng khen ngợi, đáng khen ngợi, đáng kính, tuyệt vời, xuất sắc, phi thường, nổi bật, quan trọng, cao cấp, mạnh mẽ, nổi tiếng, nổi tiếng, khủng khiếp, khủng khiếp, nghiêm trọng, to lớn, tuyệt vời, hùng mạnh, nghiêm trọng, mệt mỏi, khó khăn, khó khăn, rất, cực kỳ"
+      }
+    ],
+    "radical": {
+      "symbol": "豕",
+      "meaning": "con lợn"
+    },
+    "parts": [
+      "亠",
+      "冖",
+      "口",
+      "豕"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35946_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08c6a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8c6a.gif",
+    "uri": "https://jisho.org/search/%E8%B1%AA%23kanji"
+  }
+}

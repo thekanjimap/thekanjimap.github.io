@@ -1,0 +1,63 @@
+{
+  "id": "捷",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "捷",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 11,
+    "meaning": "chiến thắng, nhanh chóng",
+    "kunyomi": [
+      "はや.い"
+    ],
+    "onyomi": [
+      "ショウ",
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "勝利",
+        "reading": "ショウリ",
+        "meaning": "chiến thắng, chiến thắng, chiến thắng, chinh phục, thành công"
+      },
+      {
+        "example": "捷運",
+        "reading": "ショウウン",
+        "meaning": "vận chuyển nhanh chóng (ở Đài Loan)"
+      },
+      {
+        "example": "必勝",
+        "reading": "ヒッショウ",
+        "meaning": "chiến thắng nhất định"
+      },
+      {
+        "example": "軽捷",
+        "reading": "ケイショウ",
+        "meaning": "nhanh nhẹn"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "早い",
+        "reading": "はやい",
+        "meaning": "nhanh, mau, mau, mau, mau, mau, nhanh, nhanh, sớm, sớm hơn bình thường, sớm, quá sớm, quá sớm, dễ dàng, đơn giản, nhanh chóng, nhanh chóng, ngay khi ..., khoảnh khắc ..., ngay lập tức ..."
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "ヨ",
+      "扎",
+      "疋"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25463_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06377.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6377.gif",
+    "uri": "https://jisho.org/search/%E6%8D%B7%23kanji"
+  }
+}

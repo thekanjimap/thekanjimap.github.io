@@ -1,0 +1,99 @@
+{
+  "id": "鋸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鋸",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "cưa (cắt gỗ)",
+    "kunyomi": [
+      "のこ",
+      "のこぎり"
+    ],
+    "onyomi": [
+      "キョ",
+      "コ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鋸歯",
+        "reading": "キョシ",
+        "meaning": "răng cưa, răng cưa"
+      },
+      {
+        "example": "鋸屑",
+        "reading": "ノコクズ",
+        "meaning": "mùn cưa"
+      },
+      {
+        "example": "胴付鋸",
+        "reading": "ドウツキノコ",
+        "meaning": "cưa có cột sống, cưa mộng, cưa lưng"
+      },
+      {
+        "example": "縦挽き鋸",
+        "reading": "タテビキノコ",
+        "meaning": "cưa máy"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鋸",
+        "reading": "のこぎり",
+        "meaning": "cưa, cưa âm nhạc"
+      },
+      {
+        "example": "鋸鱝",
+        "reading": "のこぎりえい",
+        "meaning": "cá đao (Pristidae spp.)"
+      },
+      {
+        "example": "胴付鋸",
+        "reading": "どうつきのこ",
+        "meaning": "cưa có cột sống, cưa mộng, cưa lưng"
+      },
+      {
+        "example": "縦挽き鋸",
+        "reading": "たてびきのこ",
+        "meaning": "cưa máy"
+      },
+      {
+        "example": "鋸",
+        "reading": "のこぎり",
+        "meaning": "cưa, cưa âm nhạc"
+      },
+      {
+        "example": "鋸鱝",
+        "reading": "のこぎりえい",
+        "meaning": "cá đao (Pristidae spp.)"
+      },
+      {
+        "example": "胴付鋸",
+        "reading": "どうつきのこぎり",
+        "meaning": "cưa có cột sống, cưa mộng, cưa lưng"
+      },
+      {
+        "example": "回し引き鋸",
+        "reading": "まわしびきのこぎり",
+        "meaning": "cưa khung, cưa kiếm, cưa kiếm"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "kim loại, vàng"
+    },
+    "parts": [
+      "十",
+      "口",
+      "尸",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37624_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/092f8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/92f8.gif",
+    "uri": "https://jisho.org/search/%E9%8B%B8%23kanji"
+  }
+}

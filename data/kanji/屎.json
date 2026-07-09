@@ -1,0 +1,58 @@
+{
+  "id": "屎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "屎",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "khốn kiếp, phân",
+    "kunyomi": [
+      "くそ"
+    ],
+    "onyomi": [
+      "シ",
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "し尿",
+        "reading": "シニョウ",
+        "meaning": "chất thải, nước thải thô, chất thải của con người, đất đêm"
+      },
+      {
+        "example": "屎尿処理",
+        "reading": "シニョウショリ",
+        "meaning": "xử lý nước thải"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "糞",
+        "reading": "くそ",
+        "meaning": "chết tiệt, chết tiệt, cứt, tào lao, phân, phân, phân, chết tiệt, chết tiệt, bị thổi bay, ngu ngốc, rất, cực kỳ, thực sự, khủng khiếp, khủng khiếp, chết tiệt, tào lao, rất nhiều, không đáng kể, không đáng kể, không quan trọng chút nào, chẳng tính gì, hầu như không đáng để xem xét, không cần bàn cãi"
+      },
+      {
+        "example": "星屎",
+        "reading": "ほしくそ",
+        "meaning": "thiên thạch"
+      },
+      {
+        "example": "金屎",
+        "reading": "かなくそ",
+        "meaning": "xỉ, cặn, gỉ sắt"
+      }
+    ],
+    "radical": {
+      "symbol": "尸",
+      "meaning": "xác chết"
+    },
+    "parts": [
+      "尸",
+      "米"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23630_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c4e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c4e.gif",
+    "uri": "https://jisho.org/search/%E5%B1%8E%23kanji"
+  }
+}

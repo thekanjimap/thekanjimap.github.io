@@ -1,0 +1,450 @@
+{
+  "id": "内",
+  "kanjialiveData": {
+    "_id": "54317ae7791eba5146ee49b4",
+    "_rev": "12-b30b74a64a82ea81ffdd1e2c024b9506",
+    "rad_name_ja": "けいがまえ",
+    "grade": 2,
+    "hint_group": 1,
+    "kunyomi": "uchi",
+    "meaning": "bên trong",
+    "kstroke": 4,
+    "examples": [
+      {
+        "japanese": "内容（ないよう）",
+        "meaning": {
+          "english": "nội dung"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nai-uchi_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nai-uchi_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nai-uchi_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nai-uchi_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "内部（ないぶ）",
+        "meaning": {
+          "english": "nội thất"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nai-uchi_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nai-uchi_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nai-uchi_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nai-uchi_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "内科（ないか）",
+        "meaning": {
+          "english": "nội khoa"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nai-uchi_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nai-uchi_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nai-uchi_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nai-uchi_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "内面（ないめん）",
+        "meaning": {
+          "english": "nội bộ (ví dụ: tính cách)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nai-uchi_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nai-uchi_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nai-uchi_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nai-uchi_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "家内（かない）",
+        "meaning": {
+          "english": "vợ tôi"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nai-uchi_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nai-uchi_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nai-uchi_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nai-uchi_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "国内（こくない）",
+        "meaning": {
+          "english": "trong nước (so với quốc tế)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nai-uchi_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nai-uchi_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nai-uchi_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nai-uchi_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "以内（いない）",
+        "meaning": {
+          "english": "bên trong"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nai-uchi_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nai-uchi_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nai-uchi_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nai-uchi_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "案内する（あんないする）",
+        "meaning": {
+          "english": "hướng dẫn"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nai-uchi_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nai-uchi_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nai-uchi_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nai-uchi_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "内側（うちがわ）",
+        "meaning": {
+          "english": "bên trong"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nai-uchi_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nai-uchi_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nai-uchi_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nai-uchi_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "内気な（うちきな）",
+        "meaning": {
+          "english": "nhút nhát"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/nai-uchi_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/nai-uchi_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/nai-uchi_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/nai-uchi_06_j.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "うち",
+    "ka_utf": "内",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=内",
+    "rad_name_search": [
+      "keigamae"
+    ],
+    "rad_order": 17,
+    "txt_books": [
+      {
+        "chapter": "24",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "18",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "20",
+        "txt_bk": "macquarie"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtAd3"
+      },
+      {
+        "chapter": "22",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "19",
+        "txt_bk": "txtSFJ3"
+      },
+      {
+        "chapter": "19",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "16",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "31",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "jtr"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "jt"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "14"
+      }
+    ],
+    "kname": "nai-uchi",
+    "rad_utf": "⼌ ",
+    "stroketimes": [
+      0,
+      1.466,
+      3.733,
+      4.866,
+      5.8
+    ],
+    "kunyomi_ka_display": "うち",
+    "dick": "2162",
+    "rad_name": "keigamae",
+    "dicn": "82",
+    "mn_hint": "Person 人 in his clothes/house 冂 <span class='note'>(orig. \"enclosure\")</span>.",
+    "rad_stroke": 2,
+    "onyomi_ja": "ナイ",
+    "rad_meaning": "để kèm theo",
+    "onyomi": "nai",
+    "ka_id": "ka_258",
+    "rad_position": "kamae, keigamae",
+    "rad_position_ja": "かまえ, けいがまえ",
+    "rad_position_search": [
+      "kamae",
+      "keigamae",
+      "kamae, keigamae"
+    ],
+    "onyomi_search": [
+      "nai",
+      "nai"
+    ],
+    "kunyomi_search": [
+      "uchi",
+      "uchi"
+    ],
+    "meaning_search": [
+      "inside",
+      "inside"
+    ],
+    "onyomi_ja_search": [
+      "ナイ",
+      "ナイ"
+    ],
+    "kunyomi_ja_search": [
+      "うち",
+      "うち"
+    ],
+    "rad_meaning_search": [
+      "to enclose",
+      "to",
+      "enclose",
+      "to enclose"
+    ],
+    "rad_position_ja_search": [
+      "かまえ",
+      "けいがまえ",
+      "かまえ, けいがまえ"
+    ],
+    "rad_name_ja_search": [
+      "けいがまえ"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:24",
+      "cij:c24",
+      "bk",
+      "bk:18",
+      "bk:c18",
+      "mac",
+      "mac:20",
+      "mac:c20",
+      "aij3",
+      "aij3:7",
+      "aij3:c7",
+      "aij3:v3",
+      "aij3:v3:7",
+      "aij3:v3:c7",
+      "gen",
+      "gen:22",
+      "gen:c22",
+      "ap",
+      "ap:16",
+      "ap:c16",
+      "kll",
+      "kll:31",
+      "kll:c31",
+      "jtr",
+      "jtr:3",
+      "jtr:c3",
+      "jt",
+      "jt:4",
+      "jt:c4",
+      "cijr",
+      "cijr:14",
+      "cijr:c14"
+    ],
+    "rad_name_file": "keigamae",
+    "kanji": {
+      "character": "内",
+      "meaning": {
+        "english": "inside"
+      },
+      "strokes": {
+        "count": 4,
+        "timings": [
+          0,
+          1.466,
+          3.733,
+          4.866,
+          5.8
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/nai-uchi_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/nai-uchi_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/nai-uchi_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/nai-uchi_4.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "nai",
+        "katakana": "ナイ"
+      },
+      "kunyomi": {
+        "romaji": "uchi",
+        "hiragana": "うち"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/nai-uchi_4.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/nai-uchi_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/nai-uchi_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼌ ",
+      "strokes": 2,
+      "image": "https://media.kanjialive.com/radical_character/keigamae.svg",
+      "position": {
+        "hiragana": "かまえ, けいがまえ",
+        "romaji": "kamae, keigamae",
+        "icon": "https://media.kanjialive.com/rad_positions/keigamae.svg"
+      },
+      "name": {
+        "hiragana": "けいがまえ",
+        "romaji": "keigamae"
+      },
+      "meaning": {
+        "english": "để kèm theo"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/keigamae0.svg",
+        "https://media.kanjialive.com/rad_frames/keigamae1.svg",
+        "https://media.kanjialive.com/rad_frames/keigamae2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "2162",
+      "classic_nelson": "82"
+    }
+  },
+  "jishoData": {
+    "query": "内",
+    "found": true,
+    "taughtIn": "lớp 2",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "44",
+    "strokeCount": 4,
+    "meaning": "bên trong, bên trong, giữa, giữa, nhà, nhà",
+    "kunyomi": [
+      "うち"
+    ],
+    "onyomi": [
+      "ナイ",
+      "ダイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "内",
+        "reading": "ナイ",
+        "meaning": "bên trong..., bên trong..."
+      },
+      {
+        "example": "内科",
+        "reading": "ナイカ",
+        "meaning": "nội khoa, khoa nội"
+      },
+      {
+        "example": "島内",
+        "reading": "トウナイ",
+        "meaning": "trên một hòn đảo, trên đảo"
+      },
+      {
+        "example": "校内",
+        "reading": "コウナイ",
+        "meaning": "trong một trường học"
+      },
+      {
+        "example": "内裏",
+        "reading": "ダイリ",
+        "meaning": "hoàng cung, búp bê lễ hội đại diện cho hoàng đế và hoàng hậu"
+      },
+      {
+        "example": "内府",
+        "reading": "ナイフ",
+        "meaning": "Bộ trưởng Bộ Nội vụ (669-1868), Người giữ Dấu ấn Cơ mật (1885-1945)"
+      },
+      {
+        "example": "境内",
+        "reading": "ケイダイ",
+        "meaning": "khuôn viên (đặc biệt là đền chùa), khuôn viên, sân nhà thờ, khuôn viên"
+      },
+      {
+        "example": "海内",
+        "reading": "カイダイ",
+        "meaning": "cả nước"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "内",
+        "reading": "うち",
+        "meaning": "bên trong, bên trong, trong khi (ví dụ: một người còn trẻ), trong, trong (ví dụ: một ngày), trong quá trình, giữa, giữa, (ngoài), giữa, trong (bí mật, hỗn loạn, nghèo đói, v.v.), giữa, với (ví dụ: thành công), trong chính mình, cảm xúc, suy nghĩ bên trong của một người, chúng tôi, công ty của chúng tôi, tổ chức của chúng tôi, nhà của một người, gia đình của một người, vợ / chồng tôi, chồng tôi, vợ tôi, được vợ anh ấy ký thay mặt (tên chồng), Tôi, tôi, sân hoàng cung, hoàng đế"
+      },
+      {
+        "example": "内々",
+        "reading": "うちうち",
+        "meaning": "riêng tư, bí mật, không chính thức, bí mật, (trong) vòng tròn gia đình, (ở) bên trong"
+      },
+      {
+        "example": "幕内",
+        "reading": "まくうち",
+        "meaning": "makuuchi, hạng đấu cao nhất (của sumo chuyên nghiệp)"
+      },
+      {
+        "example": "お家",
+        "reading": "おうち",
+        "meaning": "nhà của bạn, gia đình của bạn, nhà của họ, gia đình của họ, nhà (của tôi)"
+      }
+    ],
+    "radical": {
+      "symbol": "冂",
+      "meaning": "đất nước rộng mở"
+    },
+    "parts": [
+      "人",
+      "冂"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20869_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05185.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5185.gif",
+    "uri": "https://jisho.org/search/%E5%86%85%23kanji"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "發",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "發",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "khởi hành, xuất bản, phát ra, bắt đầu từ, tiết lộ",
+    "kunyomi": [
+      "た.つ",
+      "あば.く",
+      "おこ.る",
+      "つか.わす",
+      "はな.つ"
+    ],
+    "onyomi": [
+      "ハツ",
+      "ホツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "発",
+        "reading": "ハツ",
+        "meaning": "ngói rồng xanh, ván bài thắng bằng pung (hoặc kong) gạch rồng xanh"
+      },
+      {
+        "example": "発電",
+        "reading": "ハツデン",
+        "meaning": "sản xuất điện, phát điện, gửi điện tín, điện báo"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "癶",
+      "meaning": "bước chân"
+    },
+    "parts": [
+      "几",
+      "又",
+      "弓",
+      "殳",
+      "癶"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30332_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0767c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/767c.gif",
+    "uri": "https://jisho.org/search/%E7%99%BC%23kanji"
+  }
+}

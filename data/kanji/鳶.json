@@ -1,0 +1,74 @@
+{
+  "id": "鳶",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鳶",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "diều đen, lính cứu hỏa, móc",
+    "kunyomi": [
+      "とび",
+      "とんび"
+    ],
+    "onyomi": [
+      "エン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鳶飛魚躍",
+        "reading": "エンピギョヤク",
+        "meaning": "vạn vật theo bản chất ban đầu của mình, sống và hưởng thụ tự do, diều bay và cá nhảy, ý trời là mọi tạo vật sẽ tuân theo bản chất ban đầu của chúng và sống tự do, khi lòng nhân từ của người cai trị lan rộng, con người sẽ tìm thấy vị trí của mình trên đất dựa trên khả năng của mình"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鳶",
+        "reading": "とび",
+        "meaning": "diều đen (Milvus migrans), công nhân xây dựng, người dựng giàn giáo, lính cứu hỏa, móc lửa, màu nâu đỏ, áo choàng Inverness, kẻ trộm, kẻ trộm lén lút, kẻ ăn trộm"
+      },
+      {
+        "example": "鳶色",
+        "reading": "とびいろ",
+        "meaning": "nâu đỏ"
+      },
+      {
+        "example": "赤鳶",
+        "reading": "あかとび",
+        "meaning": "Diều đỏ (Milvus milvus)"
+      },
+      {
+        "example": "糞鳶",
+        "reading": "くそとび",
+        "meaning": "chim ó thông thường (Buteo buteo)"
+      },
+      {
+        "example": "鳶",
+        "reading": "とび",
+        "meaning": "diều đen (Milvus migrans), công nhân xây dựng, người dựng giàn giáo, lính cứu hỏa, móc lửa, màu nâu đỏ, áo choàng Inverness, kẻ trộm, kẻ trộm lén lút, kẻ ăn trộm"
+      },
+      {
+        "example": "鳶足",
+        "reading": "とんびあし",
+        "meaning": "tư thế ngồi tương tự như seiza (nhưng với cả hai chân hơi dang ra và lưng tựa thẳng xuống đất)"
+      },
+      {
+        "example": "昼鳶",
+        "reading": "ひるとんび",
+        "meaning": "kẻ trộm lén lút, kẻ đi dạo ban ngày, kẻ móc túi"
+      }
+    ],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "chim"
+    },
+    "parts": [
+      "弋",
+      "杰",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40182_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09cf6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9cf6.gif",
+    "uri": "https://jisho.org/search/%E9%B3%B6%23kanji"
+  }
+}

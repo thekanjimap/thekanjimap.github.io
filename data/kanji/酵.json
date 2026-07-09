@@ -1,0 +1,53 @@
+{
+  "id": "酵",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "酵",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1862",
+    "strokeCount": 14,
+    "meaning": "quá trình lên men",
+    "kunyomi": [],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "酵素",
+        "reading": "コウソ",
+        "meaning": "enzim"
+      },
+      {
+        "example": "酵母",
+        "reading": "コウボ",
+        "meaning": "men, men"
+      },
+      {
+        "example": "並行複発酵",
+        "reading": "ヘイコウフクハッコウ",
+        "meaning": "lên men song song nhiều lần (đặc biệt trong sản xuất rượu sake)"
+      },
+      {
+        "example": "精密発酵",
+        "reading": "セイミツハッコウ",
+        "meaning": "lên men chính xác (sử dụng vật chủ vi sinh vật, chẳng hạn như vi khuẩn và nấm men, để tạo ra các phân tử sinh học cụ thể)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "酉",
+      "meaning": "rượu vang, rượu"
+    },
+    "parts": [
+      "子",
+      "老",
+      "酉"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37237_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09175.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9175.gif",
+    "uri": "https://jisho.org/search/%E9%85%B5%23kanji"
+  }
+}

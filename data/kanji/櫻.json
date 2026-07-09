@@ -1,0 +1,51 @@
+{
+  "id": "櫻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "櫻",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "anh đào",
+    "kunyomi": [
+      "さくら"
+    ],
+    "onyomi": [
+      "オウ",
+      "ヨウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "桜花",
+        "reading": "オウカ",
+        "meaning": "hoa anh đào"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "桜",
+        "reading": "さくら",
+        "meaning": "cây anh đào, hoa anh đào, người mua giả, khán giả trả tiền, shisha, người lấp chỗ ngồi, người tán thưởng được thuê, thịt ngựa"
+      },
+      {
+        "example": "桜花",
+        "reading": "おうか",
+        "meaning": "hoa anh đào"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "ハ",
+      "女",
+      "木",
+      "目",
+      "貝"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27387_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06afb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6afb.gif",
+    "uri": "https://jisho.org/search/%E6%AB%BB%23kanji"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "棍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "棍",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "một cây gậy",
+    "kunyomi": [
+      "つえ"
+    ],
+    "onyomi": [
+      "コン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "棍",
+        "reading": "コン",
+        "meaning": "gậy, câu lạc bộ"
+      },
+      {
+        "example": "棍棒",
+        "reading": "コンボウ",
+        "meaning": "gậy, gậy, dùi cui, dùi cui"
+      },
+      {
+        "example": "三節棍",
+        "reading": "サンセツコン",
+        "meaning": "nhân viên ba phần"
+      },
+      {
+        "example": "平均棍",
+        "reading": "ヘイキンコン",
+        "meaning": "dây, dây (cơ quan giữ thăng bằng nhỏ của ruồi hai cánh)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "日",
+      "木",
+      "比"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26829_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068cd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68cd.gif",
+    "uri": "https://jisho.org/search/%E6%A3%8D%23kanji"
+  }
+}

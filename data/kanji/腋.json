@@ -1,0 +1,68 @@
+{
+  "id": "腋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "腋",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "nách, bên",
+    "kunyomi": [
+      "わき"
+    ],
+    "onyomi": [
+      "エキ",
+      "セキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "腋窩",
+        "reading": "エキカ",
+        "meaning": "nách, nách"
+      },
+      {
+        "example": "腋窩腺",
+        "reading": "エキカセン",
+        "meaning": "tuyến nách"
+      },
+      {
+        "example": "縫腋",
+        "reading": "ホウエキ",
+        "meaning": "mặt khâu của một số trang phục truyền thống Nhật Bản, quần áo có mặt khâu như vậy, áo choàng có cổ tròn, mặt khâu và đường chạy, được hoàng đế và các quan chức cấp cao mặc"
+      },
+      {
+        "example": "葉腋",
+        "reading": "ヨウエキ",
+        "meaning": "nách lá"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "脇",
+        "reading": "わき",
+        "meaning": "nách, dưới cánh tay, bên hông, sườn, bên cạnh, gần, gần, bên, sang một bên, xa, ngoài đường, lạc đề, lạc chủ đề, chủ nghĩa đối nghịch, vai phụ, câu thơ thứ hai (trong một chuỗi thơ liên kết)"
+      },
+      {
+        "example": "脇明け",
+        "reading": "わきあけ",
+        "meaning": "áo choàng được mặc bởi các quan chức quân đội có cổ tròn, hai bên hở không đường khâu và không có vải quấn dọc phía dưới, có khe hở nhỏ ở bên hông của trang phục truyền thống Nhật Bản (nơi tay áo tiếp giáp vạt áo, bên dưới nách), quần áo có lỗ hở như vậy (thường được mặc bởi phụ nữ hoặc trẻ em)"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "thịt"
+    },
+    "parts": [
+      "亠",
+      "化",
+      "夕",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33099_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0814b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/814b.gif",
+    "uri": "https://jisho.org/search/%E8%85%8B%23kanji"
+  }
+}

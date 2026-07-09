@@ -1,0 +1,56 @@
+{
+  "id": "允",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "允",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2358",
+    "strokeCount": 4,
+    "meaning": "giấy phép, sự chân thành, sự cho phép",
+    "kunyomi": [
+      "じょう",
+      "まこと.に",
+      "ゆるす"
+    ],
+    "onyomi": [
+      "イン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "允可",
+        "reading": "インカ",
+        "meaning": "sự cho phép, sự đồng ý, sự tuân thủ"
+      },
+      {
+        "example": "允許",
+        "reading": "インキョ",
+        "meaning": "sự cho phép, giấy phép, giấy phép"
+      },
+      {
+        "example": "承允",
+        "reading": "ショウイン",
+        "meaning": "sự đồng ý, sự chấp nhận, sự đồng ý"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "雅楽允",
+        "reading": "うたのじょう",
+        "meaning": "Nhạc công phụ tá thứ hai (hệ thống ritsuryō)"
+      }
+    ],
+    "radical": {
+      "symbol": "儿",
+      "meaning": "chân"
+    },
+    "parts": [
+      "儿",
+      "厶"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20801_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05141.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5141.gif",
+    "uri": "https://jisho.org/search/%E5%85%81%23kanji"
+  }
+}

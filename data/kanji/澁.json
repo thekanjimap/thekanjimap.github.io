@@ -1,0 +1,53 @@
+{
+  "id": "澁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "澁",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "làm se, khắc nghiệt, không đồng đều, thô",
+    "kunyomi": [
+      "しぶ",
+      "しぶ.い",
+      "しぶ.る"
+    ],
+    "onyomi": [
+      "ジュウ",
+      "シュウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "渋い",
+        "reading": "しぶい",
+        "meaning": "se, đắng, nhăn nheo, thô ráp, khắc nghiệt, chua chát, khắc khổ, tao nhã (và không phô trương), tinh tế, yên tĩnh (và đơn giản), tỉnh táo, u ám, dịu dàng, trang nhã (một cách yên tĩnh), nhẹ nhàng, chua chát (nhìn), ủ rũ, dữ tợn, ủ rũ, hờn dỗi, keo kiệt, chặt chẽ"
+      },
+      {
+        "example": "渋谷",
+        "reading": "しぶや",
+        "meaning": "Thành phố Shibuya (khu đặc biệt của Tokyo), Shibuya"
+      },
+      {
+        "example": "渋い",
+        "reading": "しぶい",
+        "meaning": "se, đắng, nhăn nheo, thô ráp, khắc nghiệt, chua chát, khắc khổ, tao nhã (và không phô trương), tinh tế, yên tĩnh (và đơn giản), tỉnh táo, u ám, dịu dàng, trang nhã (một cách yên tĩnh), nhẹ nhàng, chua chát (nhìn), ủ rũ, dữ tợn, ủ rũ, hờn dỗi, keo kiệt, chặt chẽ"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "止",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28545_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f81.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f81.gif",
+    "uri": "https://jisho.org/search/%E6%BE%81%23kanji"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "闥",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "闥",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "cánh cổng",
+    "kunyomi": [],
+    "onyomi": [
+      "タツ",
+      "タチ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "闥",
+        "reading": "タツ",
+        "meaning": "cổng phụ (của triều đình), triều đình, cổng, cửa"
+      },
+      {
+        "example": "紫闥",
+        "reading": "シタツ",
+        "meaning": "cổng hoàng cung, triều đình, hoàng cung"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "門",
+      "meaning": "cánh cổng"
+    },
+    "parts": [
+      "二",
+      "亠",
+      "十",
+      "土",
+      "王",
+      "立",
+      "羊",
+      "辛",
+      "込",
+      "門"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38373_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/095e5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/95e5.gif",
+    "uri": "https://jisho.org/search/%E9%97%A5%23kanji"
+  }
+}

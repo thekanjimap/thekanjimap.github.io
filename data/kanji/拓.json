@@ -1,0 +1,64 @@
+{
+  "id": "拓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "拓",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1526",
+    "strokeCount": 8,
+    "meaning": "dọn sạch (đất), mở, chia cắt (đất)",
+    "kunyomi": [
+      "ひら.く"
+    ],
+    "onyomi": [
+      "タク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "拓殖",
+        "reading": "タクショク",
+        "meaning": "thuộc địa hóa, thuộc địa hóa, phát triển, định cư, khai thác"
+      },
+      {
+        "example": "拓銀",
+        "reading": "タクギン",
+        "meaning": "Ngân hàng Takushoku"
+      },
+      {
+        "example": "干拓",
+        "reading": "カンタク",
+        "meaning": "cải tạo đất (từ biển)"
+      },
+      {
+        "example": "未開拓",
+        "reading": "ミカイタク",
+        "meaning": "chưa phát triển (khu vực), chưa được khám phá (lĩnh vực nghiên cứu), hoang dã (khu vực), khu vực chưa được khai thác"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "拓く",
+        "reading": "ひらく",
+        "meaning": "mở (ví dụ: con đường), dọn dẹp (đường đi), chia tay (ví dụ: đất)"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "口",
+      "扎",
+      "石"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25299_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062d3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62d3.gif",
+    "uri": "https://jisho.org/search/%E6%8B%93%23kanji"
+  }
+}

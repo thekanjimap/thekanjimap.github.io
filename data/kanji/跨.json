@@ -1,0 +1,67 @@
+{
+  "id": "跨",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "跨",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "được, ngồi hoặc đứng dạng chân, duỗi người, dang chân",
+    "kunyomi": [
+      "また.がる",
+      "またが.る",
+      "また.ぐ"
+    ],
+    "onyomi": [
+      "コ",
+      "カ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "跨座式",
+        "reading": "コザシキ",
+        "meaning": "loại dầm ngang"
+      },
+      {
+        "example": "跨線",
+        "reading": "コセン",
+        "meaning": "qua đường ray (của một cây cầu, v.v.), qua đường ray"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "跨る",
+        "reading": "またがる",
+        "meaning": "dang chân, ngồi trên chân, gắn kết, kéo dài ra, trải rộng ra, kéo dài, kéo dài vào"
+      },
+      {
+        "example": "跨る",
+        "reading": "またがる",
+        "meaning": "dang chân, ngồi trên chân, gắn kết, kéo dài ra, trải rộng ra, kéo dài, kéo dài vào"
+      },
+      {
+        "example": "跨ぐ",
+        "reading": "またぐ",
+        "meaning": "bước qua, bước qua, sải bước qua, sải bước qua, vượt qua, kéo dài, bắc cầu, bắc cầu, yên ngựa, cưỡi ngựa"
+      }
+    ],
+    "radical": {
+      "symbol": "足",
+      "forms": [
+        "⻊"
+      ],
+      "meaning": "chân"
+    },
+    "parts": [
+      "二",
+      "勹",
+      "口",
+      "大",
+      "止",
+      "足"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36328_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08de8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8de8.gif",
+    "uri": "https://jisho.org/search/%E8%B7%A8%23kanji"
+  }
+}

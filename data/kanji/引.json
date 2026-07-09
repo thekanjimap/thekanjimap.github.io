@@ -1,0 +1,354 @@
+{
+  "id": "引",
+  "kanjialiveData": {
+    "_id": "54317ae1791eba5146ee4934",
+    "_rev": "10-ab0ce2673bf93add77427b13fc7dd563",
+    "rad_name_ja": "ゆみへん",
+    "grade": 2,
+    "hint_group": 1,
+    "kunyomi": "hi, hiku",
+    "meaning": "vẽ, kéo",
+    "kstroke": 4,
+    "examples": [
+      {
+        "japanese": "引力（いんりょく）",
+        "meaning": {
+          "english": "trọng lực"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in-hi(ku)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/in-hi(ku)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/in-hi(ku)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/in-hi(ku)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "強引な（ごういんな）",
+        "meaning": {
+          "english": "tự đề cao"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in-hi(ku)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/in-hi(ku)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/in-hi(ku)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/in-hi(ku)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "引用する（いんようする）",
+        "meaning": {
+          "english": "trích dẫn"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in-hi(ku)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/in-hi(ku)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/in-hi(ku)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/in-hi(ku)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "引退する（いんたいする）",
+        "meaning": {
+          "english": "nghỉ hưu"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in-hi(ku)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/in-hi(ku)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/in-hi(ku)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/in-hi(ku)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "引く（ひく）",
+        "meaning": {
+          "english": "kéo"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in-hi(ku)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/in-hi(ku)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/in-hi(ku)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/in-hi(ku)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "引き出し（ひきだし）",
+        "meaning": {
+          "english": "ngăn kéo"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in-hi(ku)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/in-hi(ku)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/in-hi(ku)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/in-hi(ku)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "引っ越し（ひっこし）",
+        "meaning": {
+          "english": "di chuyển (ví dụ: nơi cư trú)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/in-hi(ku)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/in-hi(ku)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/in-hi(ku)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/in-hi(ku)_06_g.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "ひ、ひく",
+    "ka_utf": "引",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=引",
+    "kname": "in-hi(ku)",
+    "rad_order": 68,
+    "txt_books": [
+      {
+        "chapter": "15",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "33",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "18",
+        "txt_bk": "macquarie"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "1",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "16",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "chapter": "14",
+        "txt_bk": "jtr"
+      },
+      {
+        "txt_bk": "mosr",
+        "chapter": "13"
+      }
+    ],
+    "rad_name_search": [
+      "yumihen"
+    ],
+    "rad_utf": "",
+    "stroketimes": [
+      0,
+      2.266,
+      2.733,
+      5,
+      6.266667
+    ],
+    "kunyomi_ka_display": "ひ",
+    "dick": "133",
+    "rad_name": "yumihen",
+    "dicn": "1562",
+    "mn_hint": "Bow 弓 and string 丨.",
+    "rad_stroke": 3,
+    "onyomi_ja": "イン",
+    "rad_meaning": "cung (trong bắn cung)",
+    "onyomi": "in",
+    "ka_id": "ka_142",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "in",
+      "in"
+    ],
+    "kunyomi_search": [
+      "hi",
+      "hiku",
+      "hi, hiku"
+    ],
+    "meaning_search": [
+      "draw",
+      "pull",
+      "draw, pull"
+    ],
+    "onyomi_ja_search": [
+      "イン",
+      "イン"
+    ],
+    "kunyomi_ja_search": [
+      "ひ",
+      "ひく",
+      "ひ、ひく"
+    ],
+    "rad_meaning_search": [
+      "bow（in archery）",
+      "bow（in",
+      "archery）",
+      "bow（in archery）"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "ゆみへん"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:15",
+      "cij:c15",
+      "bk",
+      "bk:33",
+      "bk:c33",
+      "mac",
+      "mac:18",
+      "mac:c18",
+      "ap",
+      "ap:1",
+      "ap:c1",
+      "kll",
+      "kll:16",
+      "kll:c16",
+      "jtr",
+      "jtr:14",
+      "jtr:c14",
+      "mosr",
+      "mosr:13",
+      "mosr:c13"
+    ],
+    "rad_name_file": "yumihen",
+    "kanji": {
+      "character": "引",
+      "meaning": {
+        "english": "draw, pull"
+      },
+      "strokes": {
+        "count": 4,
+        "timings": [
+          0,
+          2.266,
+          2.733,
+          5,
+          6.266667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/in-hi(ku)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/in-hi(ku)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/in-hi(ku)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/in-hi(ku)_4.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "in",
+        "katakana": "イン"
+      },
+      "kunyomi": {
+        "romaji": "hi, hiku",
+        "hiragana": "ひ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/in-hi(ku)_4.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/in-hi(ku)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/in-hi(ku)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/yumihen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "ゆみへん",
+        "romaji": "yumihen"
+      },
+      "meaning": {
+        "english": "cung (trong bắn cung)"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/yumihen0.svg",
+        "https://media.kanjialive.com/rad_frames/yumihen1.svg",
+        "https://media.kanjialive.com/rad_frames/yumihen2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "133",
+      "classic_nelson": "1562"
+    }
+  },
+  "jishoData": {
+    "query": "引",
+    "found": true,
+    "taughtIn": "lớp 2",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "218",
+    "strokeCount": 4,
+    "meaning": "kéo, giật, giật, thừa nhận, cài đặt, trích dẫn, tham khảo",
+    "kunyomi": [
+      "ひ.く",
+      "ひ.ける"
+    ],
+    "onyomi": [
+      "イン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "引退",
+        "reading": "インタイ",
+        "meaning": "nghỉ hưu"
+      },
+      {
+        "example": "引責",
+        "reading": "インセキ",
+        "meaning": "chịu trách nhiệm"
+      },
+      {
+        "example": "誘引",
+        "reading": "ユウイン",
+        "meaning": "sự lôi kéo, sự xúi giục, sự thu hút"
+      },
+      {
+        "example": "吸引",
+        "reading": "キュウイン",
+        "meaning": "sự hấp thụ,sự hút,sự hút,sự hút,sự hút"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "引く",
+        "reading": "ひく",
+        "meaning": "kéo, kéo, dẫn (ví dụ: một con ngựa), vẽ (sự chú ý, thông cảm, v.v.), thu hút (ví dụ: sự quan tâm), kéo lại (ví dụ: bàn tay của một người), kéo vào (cằm, bụng, v.v.), kéo vào, rút (một lá bài, quân mạt chược, v.v.), vẽ (một đường, kế hoạch, v.v.), bắt (cảm lạnh), chơi (nhạc cụ có dây hoặc bàn phím), nhìn lên (trong một từ điển, danh bạ điện thoại, v.v.), để tham khảo, kiểm tra, vận chuyển, kéo (phương tiện), trừ, khấu trừ, rút lui, giảm, làm mờ dần, đi xuống, kế thừa (một đặc điểm), trích dẫn, trích dẫn, nâng cao (làm bằng chứng), đặt (điện, gas, v.v.), cài đặt (ví dụ: điện thoại), cung cấp (ví dụ: nước), giữ (ví dụ: ghi chú), áp dụng (ví dụ: son môi), để dầu (ví dụ: một cái chảo), bôi sáp (ví dụ: một cái sàn), lùi lại, lùi lại, rút lui, lùi lại, rút lui, giảm bớt, lắng xuống, sụt giảm, đi xuống (ví dụ như sưng tấy), cam chịu, rút lui, bỏ cuộc, bị trì hoãn (bởi lời nói hoặc hành vi của ai đó), bị tắt, giật lại (trong ghê tởm, v.v.), co rúm lại"
+      },
+      {
+        "example": "引く手",
+        "reading": "ひくて",
+        "meaning": "người ngưỡng mộ, người xúi giục"
+      },
+      {
+        "example": "引ける",
+        "reading": "ひける",
+        "meaning": "đóng cửa, kết thúc, chia tay (ví dụ: trường học), mất bình tĩnh, cảm thấy nản lòng"
+      }
+    ],
+    "radical": {
+      "symbol": "弓",
+      "meaning": "cúi đầu"
+    },
+    "parts": [
+      "弓",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24341_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f15.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f15.gif",
+    "uri": "https://jisho.org/search/%E5%BC%95%23kanji"
+  }
+}

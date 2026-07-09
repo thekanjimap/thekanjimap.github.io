@@ -1,0 +1,76 @@
+{
+  "id": "擲",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "擲",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "đánh, từ chức",
+    "kunyomi": [
+      "なぐ.る",
+      "なげう.つ"
+    ],
+    "onyomi": [
+      "テキ",
+      "チャク",
+      "ジャク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "擲弾",
+        "reading": "テキダン",
+        "meaning": "lựu đạn"
+      },
+      {
+        "example": "擲弾筒",
+        "reading": "テキダントウ",
+        "meaning": "súng phóng lựu"
+      },
+      {
+        "example": "窓外投擲",
+        "reading": "ソウガイトウテキ",
+        "meaning": "phá cửa (ném cái gì đó hoặc ai đó ra ngoài cửa sổ)"
+      },
+      {
+        "example": "放擲",
+        "reading": "ホウテキ",
+        "meaning": "từ bỏ, từ bỏ, bỏ cuộc"
+      },
+      {
+        "example": "打擲",
+        "reading": "チョウチャク",
+        "meaning": "đập, đập"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "殴る",
+        "reading": "なぐる",
+        "meaning": "đánh, đánh, đánh, đấm"
+      },
+      {
+        "example": "投げ打つ",
+        "reading": "なげうつ",
+        "meaning": "vứt bỏ, từ bỏ, từ bỏ, từ bỏ, từ bỏ (mạng sống)"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "大",
+      "并",
+      "扎",
+      "邦",
+      "酉"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25842_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064f2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64f2.gif",
+    "uri": "https://jisho.org/search/%E6%93%B2%23kanji"
+  }
+}

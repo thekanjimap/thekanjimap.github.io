@@ -1,0 +1,49 @@
+{
+  "id": "涛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "涛",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "sóng, cuồn cuộn",
+    "kunyomi": [
+      "なみ"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "怒涛",
+        "reading": "ドトウ",
+        "meaning": "sóng dâng cao, cuồn cuộn, hỗn loạn, hỗn loạn, hỗn loạn"
+      },
+      {
+        "example": "風濤",
+        "reading": "フウトウ",
+        "meaning": "gió và sóng, sóng bị gió khuấy động"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "ノ",
+      "二",
+      "亠",
+      "土",
+      "寸",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28059_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d9b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d9b.gif",
+    "uri": "https://jisho.org/search/%E6%B6%9B%23kanji"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "宛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "宛",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "strokeCount": 8,
+    "meaning": "địa chỉ, giống như, may mắn thay",
+    "kunyomi": [
+      "あ.てる",
+      "-あて",
+      "-づつ",
+      "あたか.も"
+    ],
+    "onyomi": [
+      "エン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鵷鶵",
+        "reading": "エンスウ",
+        "meaning": "loài chim thần thoại Trung Quốc tương tự như phượng hoàng Trung Quốc"
+      },
+      {
+        "example": "宛然",
+        "reading": "エンゼン",
+        "meaning": "như thể, chính sự việc đó"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "宛てる",
+        "reading": "あてる",
+        "meaning": "để giải quyết"
+      },
+      {
+        "example": "恰も",
+        "reading": "あたかも",
+        "meaning": "như thể, như thể, như thể, ngay lúc đó, ngay lúc đó, vào lúc đó"
+      }
+    ],
+    "radical": {
+      "symbol": "宀",
+      "meaning": "mái nhà"
+    },
+    "parts": [
+      "卩",
+      "夕",
+      "宀"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23451_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b9b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b9b.gif",
+    "uri": "https://jisho.org/search/%E5%AE%9B%23kanji"
+  }
+}

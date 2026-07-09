@@ -1,0 +1,46 @@
+{
+  "id": "癆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "癆",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "phát ban, đau đớn, suy nhược",
+    "kunyomi": [],
+    "onyomi": [
+      "ロウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "労咳",
+        "reading": "ロウガイ",
+        "meaning": "bệnh lao phổi (trong y học cổ truyền Trung Quốc)"
+      },
+      {
+        "example": "労症",
+        "reading": "ロウショウ",
+        "meaning": "bệnh lao, bệnh lao, bệnh lao phổi"
+      },
+      {
+        "example": "脊髄癆",
+        "reading": "セキズイロウ",
+        "meaning": "bệnh Tabes dorsalis, chứng mất điều hòa vận động"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "疒",
+      "meaning": "bệnh tật"
+    },
+    "parts": [
+      "冖",
+      "力",
+      "火",
+      "疔"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30278_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07646.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7646.gif",
+    "uri": "https://jisho.org/search/%E7%99%86%23kanji"
+  }
+}

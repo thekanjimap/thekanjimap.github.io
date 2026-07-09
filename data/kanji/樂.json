@@ -1,0 +1,57 @@
+{
+  "id": "樂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "樂",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "âm nhạc, sự thoải mái",
+    "kunyomi": [
+      "たの.しい",
+      "たの.しむ",
+      "この.む"
+    ],
+    "onyomi": [
+      "ガク",
+      "ラク",
+      "ゴウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "楽員",
+        "reading": "ガクイン",
+        "meaning": "người chơi nhạc cụ"
+      },
+      {
+        "example": "楽園",
+        "reading": "ラクエン",
+        "meaning": "thiên đường, Eden"
+      },
+      {
+        "example": "千秋楽",
+        "reading": "センシュウラク",
+        "meaning": "ngày cuối cùng của buổi biểu diễn, ngày kết thúc, buổi biểu diễn cuối cùng, ngày cuối cùng của một giải đấu"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "楽しい",
+        "reading": "たのしい",
+        "meaning": "thú vị, vui vẻ, vui vẻ, vui vẻ, vui vẻ"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "幺",
+      "木",
+      "白"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27138_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a02.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a02.gif",
+    "uri": "https://jisho.org/search/%E6%A8%82%23kanji"
+  }
+}

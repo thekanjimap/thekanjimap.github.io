@@ -1,0 +1,50 @@
+{
+  "id": "愴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "愴",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "buồn, thảm hại",
+    "kunyomi": [
+      "いたま.しい",
+      "いた.む"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "悲愴",
+        "reading": "ヒソウ",
+        "meaning": "đáng thương, đáng buồn, đau buồn, đau buồn"
+      },
+      {
+        "example": "悽愴",
+        "reading": "セイソウ",
+        "meaning": "thảm hại, khủng khiếp"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "一",
+      "人",
+      "口",
+      "尸",
+      "忙",
+      "戸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24884_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06134.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6134.gif",
+    "uri": "https://jisho.org/search/%E6%84%B4%23kanji"
+  }
+}

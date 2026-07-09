@@ -1,0 +1,48 @@
+{
+  "id": "挨",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "挨",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "newspaperFrequencyRank": "2258",
+    "strokeCount": 10,
+    "meaning": "đến gần, đến gần, đẩy mở",
+    "kunyomi": [
+      "ひら.く"
+    ],
+    "onyomi": [
+      "アイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "挨拶",
+        "reading": "アイサツ",
+        "meaning": "lời chào, lời chào, lời chào, lời chào, cụm từ lịch sự được sử dụng khi gặp gỡ hoặc chia tay ai đó, lời nói (chúc mừng hoặc đánh giá cao), xưng hô, trả lời, đáp lại, thăm xã giao (để chia buồn, nói lời chúc mừng, tỏ lòng kính trọng, giới thiệu bản thân, v.v.), trả thù, trả đũa, nói điều tốt đẹp, đối thoại (với một thiền giả khác để xác định mức độ giác ngộ của họ), mối quan hệ (giữa mọi người), kết nối, can thiệp, hòa giải, hòa giải"
+      },
+      {
+        "example": "挨拶代わり",
+        "reading": "アイサツガワリ",
+        "meaning": "thay thế cho một lời chào thích hợp (ví dụ: quà tặng)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "乞",
+      "厶",
+      "扎",
+      "矢"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25384_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06328.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6328.gif",
+    "uri": "https://jisho.org/search/%E6%8C%A8%23kanji"
+  }
+}

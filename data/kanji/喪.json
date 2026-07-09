@@ -1,0 +1,73 @@
+{
+  "id": "喪",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "喪",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "885",
+    "strokeCount": 12,
+    "meaning": "nhớ, than khóc",
+    "kunyomi": [
+      "も"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "喪",
+        "reading": "モ",
+        "meaning": "tang thương, tai họa, bất hạnh"
+      },
+      {
+        "example": "喪失",
+        "reading": "ソウシツ",
+        "meaning": "mất mát, bị mất"
+      },
+      {
+        "example": "大喪",
+        "reading": "タイソウ",
+        "meaning": "lễ tang của hoàng đế Nhật Bản, tang lễ của Hoàng gia"
+      },
+      {
+        "example": "国喪",
+        "reading": "コクソウ",
+        "meaning": "quốc tang"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "喪",
+        "reading": "も",
+        "meaning": "tang thương, tai họa, bất hạnh"
+      },
+      {
+        "example": "喪主",
+        "reading": "もしゅ",
+        "meaning": "người đưa tang trưởng"
+      },
+      {
+        "example": "服喪",
+        "reading": "ふくも",
+        "meaning": "đi vào tang tóc"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "一",
+      "亠",
+      "口",
+      "衣",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21930_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/055aa.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/55aa.gif",
+    "uri": "https://jisho.org/search/%E5%96%AA%23kanji"
+  }
+}

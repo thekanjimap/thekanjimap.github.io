@@ -1,0 +1,38 @@
+{
+  "id": "厶",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "厶",
+    "found": true,
+    "strokeCount": 2,
+    "meaning": "Tôi, chính tôi, katakana mu cấp tiến (số 28)",
+    "kunyomi": [
+      "わたくし",
+      "ござ.る"
+    ],
+    "onyomi": [
+      "シ",
+      "ボウ",
+      "ム"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "御座る",
+        "reading": "ござる",
+        "meaning": "tồn tại, đến, đi, ở (ở đâu đó), ở (làm)"
+      }
+    ],
+    "radical": {
+      "symbol": "厶",
+      "meaning": "riêng tư"
+    },
+    "parts": [
+      "厶"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21430_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053b6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53b6.gif",
+    "uri": "https://jisho.org/search/%E5%8E%B6%23kanji"
+  }
+}

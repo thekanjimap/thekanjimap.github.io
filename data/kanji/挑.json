@@ -1,0 +1,54 @@
+{
+  "id": "挑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "挑",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "989",
+    "strokeCount": 9,
+    "meaning": "thách thức, đấu tranh, làm tình",
+    "kunyomi": [
+      "いど.む"
+    ],
+    "onyomi": [
+      "チョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "挑発",
+        "reading": "チョウハツ",
+        "meaning": "sự khiêu khích, sự kích động, sự kích động, sự kích động, sự kích động"
+      },
+      {
+        "example": "挑戦",
+        "reading": "チョウセン",
+        "meaning": "thử thách, thách thức, thách thức, thử thách, cố gắng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "挑む",
+        "reading": "いどむ",
+        "meaning": "thách thức (một cuộc chiến, trò chơi, v.v.), ném găng xuống, tranh giành, giải quyết (ví dụ: một vấn đề), cố gắng, theo đuổi (một giải thưởng, kỷ lục, v.v.), gây áp lực (ai đó) về tình dục, tiến tới"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "儿",
+      "冫",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25361_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06311.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6311.gif",
+    "uri": "https://jisho.org/search/%E6%8C%91%23kanji"
+  }
+}

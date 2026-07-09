@@ -1,0 +1,120 @@
+{
+  "id": "懐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "懐",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1493",
+    "strokeCount": 16,
+    "meaning": "cảm xúc, trái tim, khao khát, nhớ ai đó, gắn bó với, ngực, vú, túi",
+    "kunyomi": [
+      "ふところ",
+      "なつ.かしい",
+      "なつ.かしむ",
+      "なつ.く",
+      "なつ.ける",
+      "なず.ける",
+      "いだ.く",
+      "おも.う"
+    ],
+    "onyomi": [
+      "カイ",
+      "エ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "懐疑",
+        "reading": "カイギ",
+        "meaning": "sự hoài nghi, sự hoài nghi, sự hoài nghi, sự không tin tưởng"
+      },
+      {
+        "example": "懐古",
+        "reading": "カイコ",
+        "meaning": "hoài niệm, hoài niệm, nhớ về quá khứ, nhớ lại ngày xưa"
+      },
+      {
+        "example": "述懐",
+        "reading": "ジュッカイ",
+        "meaning": "nói về (suy nghĩ, ký ức, v.v.), liên quan đến (cảm xúc, hồi tưởng, v.v.), hồi ức, hồi tưởng"
+      },
+      {
+        "example": "追懐",
+        "reading": "ツイカイ",
+        "meaning": "sự hồi tưởng, sự hồi tưởng, sự hồi tưởng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "懐",
+        "reading": "ふところ",
+        "meaning": "bên trong ngực quần áo (đặc biệt là kimono), ngực, túi (ngực), khoảng cách giữa ngực và cánh tay dang rộng, tầm tay (của một người), trái tim (ví dụ như một ngọn núi), ngực (ví dụ như tự nhiên), chiều sâu, phần bên trong, tâm trí, trái tim, suy nghĩ bên trong, tiền (một người đang mang), ví, túi tiền"
+      },
+      {
+        "example": "懐刀",
+        "reading": "ふところがたな",
+        "meaning": "dao găm, dao nhọn, người bạn tâm giao, cánh tay phải"
+      },
+      {
+        "example": "苦しい懐",
+        "reading": "くるしいふところ",
+        "meaning": "ngân sách eo hẹp"
+      },
+      {
+        "example": "谷懐",
+        "reading": "たにぶところ",
+        "meaning": "thung lũng trong núi sâu"
+      },
+      {
+        "example": "懐かしい",
+        "reading": "なつかしい",
+        "meaning": "thân yêu (cũ), đáng nhớ, yêu quý, nhớ nhung, hoài niệm"
+      },
+      {
+        "example": "懐かしむ",
+        "reading": "なつかしむ",
+        "meaning": "khao khát (ai đó, cái gì đó), nhớ nhung"
+      },
+      {
+        "example": "懐く",
+        "reading": "なつく",
+        "meaning": "trở nên gắn bó (với), lấy (với), trở nên trìu mến (với), được thuần hóa, gần gũi (ví dụ với ai đó về mặt tình cảm), trở nên thân thiết (với)"
+      },
+      {
+        "example": "懐ける",
+        "reading": "なつける",
+        "meaning": "giành được trái tim của người khác, giành được trái tim của người khác"
+      },
+      {
+        "example": "抱く",
+        "reading": "いだく",
+        "meaning": "ôm trong tay (ví dụ như một em bé), ôm, ôm, có (suy nghĩ hoặc cảm giác), giữ, nuôi dưỡng (nghi ngờ, nghi ngờ, v.v.), chứa chấp, chịu đựng (một mối hận thù, ác ý, v.v.), để giải trí (hy vọng, ảo tưởng, v.v.), ấp ủ (ví dụ: một tham vọng)"
+      },
+      {
+        "example": "思う",
+        "reading": "おもう",
+        "meaning": "suy nghĩ, cân nhắc, tin tưởng, tính toán, suy nghĩ (làm), lên kế hoạch (làm), đánh giá, đánh giá, quan tâm, tưởng tượng, cho rằng, mơ, mong đợi, mong chờ, cảm nhận, ở (trong trạng thái tâm trí), mong muốn, muốn, quan tâm (sâu sắc), khao khát, lo lắng, yêu, nhớ lại, nhớ"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "亠",
+      "十",
+      "忙",
+      "衣",
+      "買"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25040_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061d0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61d0.gif",
+    "uri": "https://jisho.org/search/%E6%87%90%23kanji"
+  }
+}

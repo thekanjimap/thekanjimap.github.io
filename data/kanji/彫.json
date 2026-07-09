@@ -1,0 +1,58 @@
+{
+  "id": "彫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "彫",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1533",
+    "strokeCount": 11,
+    "meaning": "khắc, khắc, đục",
+    "kunyomi": [
+      "ほ.る",
+      "-ぼ.り"
+    ],
+    "onyomi": [
+      "チョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "彫刻",
+        "reading": "チョウコク",
+        "meaning": "chạm khắc, chạm khắc, điêu khắc"
+      },
+      {
+        "example": "彫金",
+        "reading": "チョウキン",
+        "meaning": "truy đuổi, khắc kim loại, khắc kim loại"
+      },
+      {
+        "example": "木彫",
+        "reading": "モクチョウ",
+        "meaning": "chạm khắc gỗ, điêu khắc gỗ, đồ gỗ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "彫る",
+        "reading": "ほる",
+        "meaning": "chạm khắc, chạm khắc, điêu khắc, đục đẽo, xăm mình"
+      }
+    ],
+    "radical": {
+      "symbol": "彡",
+      "meaning": "lông, râu"
+    },
+    "parts": [
+      "冂",
+      "口",
+      "土",
+      "彡"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24427_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f6b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f6b.gif",
+    "uri": "https://jisho.org/search/%E5%BD%AB%23kanji"
+  }
+}

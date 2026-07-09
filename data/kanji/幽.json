@@ -1,0 +1,64 @@
+{
+  "id": "幽",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "幽",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1996",
+    "strokeCount": 9,
+    "meaning": "ẩn dật, nhốt trong một căn phòng, sâu, sâu thẳm, hẻo lánh, mờ nhạt, tối tăm, yên tĩnh, bình tĩnh",
+    "kunyomi": [
+      "ふか.い",
+      "かす.か",
+      "くら.い",
+      "しろ.い"
+    ],
+    "onyomi": [
+      "ユウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "幽霊",
+        "reading": "ユウレイ",
+        "meaning": "bóng ma, bóng ma, bóng ma, hiện ra, bóng ma"
+      },
+      {
+        "example": "憂鬱",
+        "reading": "ユウウツ",
+        "meaning": "sự chán nản, sự u sầu, sự chán nản, sự u ám, sự chán nản"
+      },
+      {
+        "example": "幽々",
+        "reading": "ユウユウ",
+        "meaning": "sâu, tối"
+      },
+      {
+        "example": "帰幽",
+        "reading": "キユウ",
+        "meaning": "cái chết"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "微か",
+        "reading": "かすか",
+        "meaning": "mờ nhạt, lờ mờ, yếu ớt, yếu ớt, mơ hồ, không rõ ràng, lờ mờ, nghèo nàn, khốn khổ, ít ỏi, sơ sài, ít ỏi"
+      }
+    ],
+    "radical": {
+      "symbol": "幺",
+      "meaning": "ngắn, nhỏ"
+    },
+    "parts": [
+      "凵",
+      "幺",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24189_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e7d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e7d.gif",
+    "uri": "https://jisho.org/search/%E5%B9%BD%23kanji"
+  }
+}

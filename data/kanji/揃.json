@@ -1,0 +1,66 @@
+{
+  "id": "揃",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "揃",
+    "found": true,
+    "newspaperFrequencyRank": "2412",
+    "strokeCount": 12,
+    "meaning": "đầy đủ, thống nhất, tất cả đều có mặt",
+    "kunyomi": [
+      "そろ.える",
+      "そろ.う",
+      "そろ.い",
+      "き.る"
+    ],
+    "onyomi": [
+      "セン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "揃える",
+        "reading": "そろえる",
+        "meaning": "thu thập, tập hợp, tập hợp lại, hoàn thành (một bộ sưu tập), sắp xếp, sắp xếp theo thứ tự, chuẩn bị, sẵn sàng, làm đồng phục, làm đồng đều, phù hợp"
+      },
+      {
+        "example": "揃う",
+        "reading": "そろう",
+        "meaning": "hoàn chỉnh, có mặt tất cả, tạo thành một bộ đầy đủ, thỏa mãn (về điều kiện), bình đẳng, đồng nhất, ngang bằng, phù hợp, đồng ý, tập hợp, lắp ráp, được thu thập"
+      },
+      {
+        "example": "揃い",
+        "reading": "そろい",
+        "meaning": "bộ, bộ đồ, bộ sưu tập đồng phục, đồ phù hợp, hoàn toàn, tất cả, mỗi cái, không có gì ngoài"
+      },
+      {
+        "example": "揃い踏み",
+        "reading": "そろいぶみ",
+        "meaning": "nghi lễ dập trên võ đài, đội hình, xuất hiện cùng nhau"
+      },
+      {
+        "example": "一揃い",
+        "reading": "ひとそろい",
+        "meaning": "một bộ, một bộ đồ"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "一",
+      "刈",
+      "并",
+      "扎",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25539_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063c3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63c3.gif",
+    "uri": "https://jisho.org/search/%E6%8F%83%23kanji"
+  }
+}

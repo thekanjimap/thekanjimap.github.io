@@ -1,0 +1,88 @@
+{
+  "id": "弛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "弛",
+    "found": true,
+    "newspaperFrequencyRank": "2497",
+    "strokeCount": 6,
+    "meaning": "thả lỏng, thư giãn",
+    "kunyomi": [
+      "たる.む",
+      "たる.める",
+      "たゆ.む",
+      "ゆる.む",
+      "ゆる.み"
+    ],
+    "onyomi": [
+      "チ",
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "弛緩",
+        "reading": "シカン",
+        "meaning": "thư giãn (ví dụ như cơ bắp), trở nên mềm nhũn"
+      },
+      {
+        "example": "弛張",
+        "reading": "シチョウ",
+        "meaning": "lỏng lẻo và căng thẳng, khoan dung và nghiêm khắc, cao thượng và nghiêm khắc"
+      },
+      {
+        "example": "弛緩",
+        "reading": "シカン",
+        "meaning": "thư giãn (ví dụ như cơ bắp), trở nên mềm nhũn"
+      },
+      {
+        "example": "弛緩出血",
+        "reading": "シカンシュッケツ",
+        "meaning": "xuất huyết mất trương lực, xuất huyết mất trương lực"
+      },
+      {
+        "example": "一張一弛",
+        "reading": "イッチョウイッシ",
+        "meaning": "căng thẳng và thư giãn"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "弛む",
+        "reading": "たるむ",
+        "meaning": "chùng xuống, nới lỏng, thư giãn, rũ xuống (ví dụ như da lỏng lẻo hoặc nhão), chảy xệ (trần nhà), buông lỏng (ví dụ như công việc, sự chú ý), không đặt trái tim vào"
+      },
+      {
+        "example": "弛める",
+        "reading": "たるめる",
+        "meaning": "nới lỏng, nới lỏng"
+      },
+      {
+        "example": "弛む",
+        "reading": "たるむ",
+        "meaning": "chùng xuống, nới lỏng, thư giãn, rũ xuống (ví dụ như da lỏng lẻo hoặc nhão), chảy xệ (trần nhà), buông lỏng (ví dụ như công việc, sự chú ý), không đặt trái tim vào"
+      },
+      {
+        "example": "緩む",
+        "reading": "ゆるむ",
+        "meaning": "trở nên lỏng lẻo, lỏng lẻo (ví dụ: dây thừng), trở nên ít căng thẳng hơn, thư giãn, mất cảnh giác, lỏng lẻo (ví dụ: lạnh lùng, giám sát), trở nên lỏng lẻo, trở nên mềm mại hơn (ví dụ: mặt đất, nét mặt), (băng) tan chảy một phần, giảm (ví dụ: tốc độ), (của giá thị trường) giảm nhẹ"
+      },
+      {
+        "example": "緩み",
+        "reading": "ゆるみ",
+        "meaning": "lười biếng, lỏng lẻo, chơi đùa"
+      }
+    ],
+    "radical": {
+      "symbol": "弓",
+      "meaning": "cúi đầu"
+    },
+    "parts": [
+      "也",
+      "弓"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24347_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f1b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f1b.gif",
+    "uri": "https://jisho.org/search/%E5%BC%9B%23kanji"
+  }
+}

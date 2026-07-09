@@ -1,0 +1,56 @@
+{
+  "id": "驕",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "驕",
+    "found": true,
+    "strokeCount": 22,
+    "meaning": "sự kiêu ngạo, kiêu ngạo",
+    "kunyomi": [
+      "おご.る"
+    ],
+    "onyomi": [
+      "キョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "驕傲",
+        "reading": "キョウゴウ",
+        "meaning": "sự kiêu ngạo, sự kiêu ngạo"
+      },
+      {
+        "example": "驕恣",
+        "reading": "キョウシ",
+        "meaning": "kiêu hãnh và tự nguyện"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "驕る",
+        "reading": "おごる",
+        "meaning": "kiêu ngạo, kiêu ngạo, kiêu ngạo, tự phụ, khoe khoang, khoe khoang"
+      },
+      {
+        "example": "おごる平家は久しからず",
+        "reading": "おごるへいけはひさしからず",
+        "meaning": "kiêu hãnh đi trước sa ngã, kiêu hãnh đến trước sa ngã, gia tộc Heike kiêu hãnh không tồn tại được lâu"
+      }
+    ],
+    "radical": {
+      "symbol": "馬",
+      "meaning": "con ngựa"
+    },
+    "parts": [
+      "ノ",
+      "冂",
+      "口",
+      "大",
+      "杰",
+      "馬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39509_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09a55.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9a55.gif",
+    "uri": "https://jisho.org/search/%E9%A9%95%23kanji"
+  }
+}

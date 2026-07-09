@@ -1,0 +1,90 @@
+{
+  "id": "茎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "茎",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2013",
+    "strokeCount": 8,
+    "meaning": "thân cây, thân cây",
+    "kunyomi": [
+      "くき"
+    ],
+    "onyomi": [
+      "ケイ",
+      "キョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "茎節",
+        "reading": "ケイセツ",
+        "meaning": "cladode, thân giống lá"
+      },
+      {
+        "example": "茎頂",
+        "reading": "ケイチョウ",
+        "meaning": "đầu của thân (của cây)"
+      },
+      {
+        "example": "塊茎",
+        "reading": "カイケイ",
+        "meaning": "củ"
+      },
+      {
+        "example": "包茎",
+        "reading": "ホウケイ",
+        "meaning": "bệnh hẹp bao quy đầu"
+      },
+      {
+        "example": "包茎",
+        "reading": "ホウケイ",
+        "meaning": "bệnh hẹp bao quy đầu"
+      },
+      {
+        "example": "陰茎",
+        "reading": "インケイ",
+        "meaning": "dương vật"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "茎",
+        "reading": "くき",
+        "meaning": "thân cây, thân cây"
+      },
+      {
+        "example": "茎茶",
+        "reading": "くきちゃ",
+        "meaning": "trà cành, trà thân, kukicha, trà làm từ cành cây được cắt tỉa từ cây trà trong mùa ngủ đông của cây trà"
+      },
+      {
+        "example": "水茎",
+        "reading": "みずぐき",
+        "meaning": "bàn chải viết, viết, chữ viết tay"
+      },
+      {
+        "example": "一茎",
+        "reading": "ひとくき",
+        "meaning": "một thân cây"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "又",
+      "土",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33550_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0830e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/830e.gif",
+    "uri": "https://jisho.org/search/%E8%8C%8E%23kanji"
+  }
+}

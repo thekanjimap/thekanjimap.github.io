@@ -1,0 +1,58 @@
+{
+  "id": "蓑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蓑",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "áo mưa rơm",
+    "kunyomi": [
+      "みの"
+    ],
+    "onyomi": [
+      "サ",
+      "サイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蓑笠",
+        "reading": "ミノカサ",
+        "meaning": "mũ cói và áo mưa rơm"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蓑",
+        "reading": "みの",
+        "meaning": "áo mưa rơm"
+      },
+      {
+        "example": "蓑笠",
+        "reading": "みのかさ",
+        "meaning": "mũ cói và áo mưa rơm"
+      },
+      {
+        "example": "腰蓑",
+        "reading": "こしみの",
+        "meaning": "váy rơm, váy cỏ, truyền thống được mặc bởi thợ săn và ngư dân"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "一",
+      "亠",
+      "艾",
+      "衣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34001_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084d1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84d1.gif",
+    "uri": "https://jisho.org/search/%E8%93%91%23kanji"
+  }
+}

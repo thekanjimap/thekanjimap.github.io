@@ -1,0 +1,65 @@
+{
+  "id": "桶",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "桶",
+    "found": true,
+    "newspaperFrequencyRank": "2210",
+    "strokeCount": 11,
+    "meaning": "bồn, xô",
+    "kunyomi": [
+      "おけ"
+    ],
+    "onyomi": [
+      "ヨウ",
+      "トウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "湯桶",
+        "reading": "ユトウ",
+        "meaning": "đồ đựng bằng gỗ hình thùng thường được sơn mài theo phong cách Nhật Bản, dùng để đựng và phục vụ chất lỏng nóng"
+      },
+      {
+        "example": "片手湯桶",
+        "reading": "カタテユトウ",
+        "meaning": "muỗng gỗ (dùng để tắm)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "桶",
+        "reading": "おけ",
+        "meaning": "xô, thùng, bồn tắm"
+      },
+      {
+        "example": "桶側胴",
+        "reading": "おけがわどう",
+        "meaning": "áo giáp samurai dạng ống"
+      },
+      {
+        "example": "飼い桶",
+        "reading": "かいおけ",
+        "meaning": "máng cỏ"
+      },
+      {
+        "example": "天水桶",
+        "reading": "てんすいおけ",
+        "meaning": "thùng mưa"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "マ",
+      "木",
+      "用"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26742_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06876.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6876.gif",
+    "uri": "https://jisho.org/search/%E6%A1%B6%23kanji"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "挌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "挌",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "tấn công, đánh, đánh nhau",
+    "kunyomi": [
+      "う.つ"
+    ],
+    "onyomi": [
+      "カク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "格闘",
+        "reading": "カクトウ",
+        "meaning": "(tay đôi) đánh nhau, vật lộn, ẩu đả, vật lộn, vật lộn (với một vấn đề, nhiệm vụ, v.v.), vật lộn, vật lộn, nắm bắt (với)"
+      },
+      {
+        "example": "格技",
+        "reading": "カクギ",
+        "meaning": "môn thể thao chiến đấu một chọi một (không có vũ khí), môn thể thao chiến đấu, võ thuật"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "口",
+      "夂",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25356_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0630c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/630c.gif",
+    "uri": "https://jisho.org/search/%E6%8C%8C%23kanji"
+  }
+}

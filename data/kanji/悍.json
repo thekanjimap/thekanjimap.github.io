@@ -1,0 +1,57 @@
+{
+  "id": "悍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "悍",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "thô bạo, vụng về, bạo lực",
+    "kunyomi": [
+      "たけし",
+      "あらし"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "悍馬",
+        "reading": "カンバ",
+        "meaning": "ngựa ngang ngược, ngựa không thể quản lý, ngựa không chịu khuất phục"
+      },
+      {
+        "example": "悍婦",
+        "reading": "カンプ",
+        "meaning": "người phụ nữ xấu tính, chuột chù, vixen, virago"
+      },
+      {
+        "example": "勁悍",
+        "reading": "ケイカン",
+        "meaning": "mạnh mẽ và khốc liệt"
+      },
+      {
+        "example": "精悍",
+        "reading": "セイカン",
+        "meaning": "nam tính, cứng rắn, nam tính, sắc sảo (đặc điểm, vẻ ngoài, v.v.), hung dữ, dũng cảm"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "干",
+      "忙",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24717_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0608d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/608d.gif",
+    "uri": "https://jisho.org/search/%E6%82%8D%23kanji"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "哈",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "哈",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "đàn cá, miệng cá cử động, tiếng thở ra",
+    "kunyomi": [],
+    "onyomi": [
+      "ゴウ",
+      "ハ",
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "ハミ瓜",
+        "reading": "ハミウリ",
+        "meaning": "Dưa Hami (Cucumis melo var. inodorus), dưa Hami Trung Quốc, dưa tuyết"
+      },
+      {
+        "example": "哈爾浜",
+        "reading": "ハルビン",
+        "meaning": "Cáp Nhĩ Tân (Trung Quốc)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "一",
+      "个",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21704_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/054c8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/54c8.gif",
+    "uri": "https://jisho.org/search/%E5%93%88%23kanji"
+  }
+}

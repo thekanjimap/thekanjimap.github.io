@@ -1,0 +1,56 @@
+{
+  "id": "嬰",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嬰",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "sắc nét (âm nhạc), em yêu",
+    "kunyomi": [
+      "ふ.れる",
+      "みどりご",
+      "あかご"
+    ],
+    "onyomi": [
+      "エイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "嬰",
+        "reading": "エイ",
+        "meaning": "nhọn"
+      },
+      {
+        "example": "嬰音",
+        "reading": "エイオン",
+        "meaning": "sắc nét (nốt nhạc)"
+      },
+      {
+        "example": "退嬰",
+        "reading": "タイエイ",
+        "meaning": "tính bảo thủ, tính bảo thủ, tính thụt lùi, tính thụt lùi, tính không mạo hiểm"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "嬰児",
+        "reading": "みどりご",
+        "meaning": "trẻ sơ sinh, em bé"
+      }
+    ],
+    "radical": {
+      "symbol": "女",
+      "meaning": "phụ nữ, nữ"
+    },
+    "parts": [
+      "ハ",
+      "女",
+      "目",
+      "貝"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23344_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b30.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b30.gif",
+    "uri": "https://jisho.org/search/%E5%AC%B0%23kanji"
+  }
+}

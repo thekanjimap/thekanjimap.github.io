@@ -1,0 +1,65 @@
+{
+  "id": "蒙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蒙",
+    "found": true,
+    "newspaperFrequencyRank": "2360",
+    "strokeCount": 13,
+    "meaning": "ngu dốt, bóng tối, nhận, nhận, chịu, duy trì, Mông Cổ",
+    "kunyomi": [
+      "こうむ.る",
+      "おお.う",
+      "くら.い"
+    ],
+    "onyomi": [
+      "モウ",
+      "ボウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蒙",
+        "reading": "モウ",
+        "meaning": "vô minh, che đậy, che giấu, Mông Cổ"
+      },
+      {
+        "example": "蒙古",
+        "reading": "モウコ",
+        "meaning": "Mông Cổ (vùng), Đại Mông Cổ, Cao nguyên Mông Cổ, Người Mông Cổ (bộ lạc du mục)"
+      },
+      {
+        "example": "啓蒙",
+        "reading": "ケイモウ",
+        "meaning": "sự khai sáng, sự soi sáng"
+      },
+      {
+        "example": "内蒙",
+        "reading": "ナイモウ",
+        "meaning": "Nội Mông"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "被る",
+        "reading": "こうむる",
+        "meaning": "chịu đựng, nhận (lòng tốt, quở trách, hỗ trợ), chịu đựng (thiệt hại)"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "冖",
+      "艾",
+      "豕"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33945_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08499.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8499.gif",
+    "uri": "https://jisho.org/search/%E8%92%99%23kanji"
+  }
+}

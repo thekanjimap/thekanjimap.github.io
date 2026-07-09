@@ -1,0 +1,55 @@
+{
+  "id": "艸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "艸",
+    "found": true,
+    "strokeCount": 6,
+    "meaning": "cỏ, thực vật, gốc cỏ (số 140)",
+    "kunyomi": [
+      "くさ"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "草冠",
+        "reading": "クサカンムリ",
+        "meaning": "kanji \"cỏ gốc\" (gốc 140), vương miện cỏ"
+      },
+      {
+        "example": "艸部",
+        "reading": "ソウブ",
+        "meaning": "kanji \"gốc cỏ\" (căn 140)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "草",
+        "reading": "くさ",
+        "meaning": "cỏ, cỏ dại, Cây cỏ, cây rơm, Ninja, cần sa, cần sa, không chính hãng, không đạt tiêu chuẩn, LOL, haha"
+      },
+      {
+        "example": "草冠",
+        "reading": "くさかんむり",
+        "meaning": "kanji \"cỏ gốc\" (gốc 140), vương miện cỏ"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "屮",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33400_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08278.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8278.gif",
+    "uri": "https://jisho.org/search/%E8%89%B8%23kanji"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "兎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "兎",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "thỏ, thỏ rừng",
+    "kunyomi": [
+      "うさぎ"
+    ],
+    "onyomi": [
+      "ト",
+      "ツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "兎に角",
+        "reading": "トニカク",
+        "meaning": "dù sao đi nữa, dù sao đi nữa, dù sao đi nữa, trong mọi trường hợp, ít nhất, chỉ, đặt sang một bên ..., bất kể ..., thực sự, thực sự, chắc chắn, chắc chắn, không thể phủ nhận"
+      },
+      {
+        "example": "兎角",
+        "reading": "トカク",
+        "meaning": "(làm) nhiều thứ khác nhau, (làm) cái này cái kia, có khuynh hướng, có khuynh hướng, có xu hướng, ở mức độ nào đó, dù thế nào đi nữa, đủ thứ (những điều tiêu cực), đa dạng, những thứ không tồn tại, sừng thỏ"
+      },
+      {
+        "example": "烏兎",
+        "reading": "ウト",
+        "meaning": "mặt trời, mặt trăng, thời gian, năm, tháng"
+      },
+      {
+        "example": "狡兎",
+        "reading": "コウト",
+        "meaning": "thỏ thông minh, thỏ tinh ranh, thỏ nhanh nhẹn"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "兎",
+        "reading": "うさぎ",
+        "meaning": "thỏ, thỏ rừng, coney, cony, lagomorph (đặc biệt là leporids)"
+      },
+      {
+        "example": "兎網",
+        "reading": "うさぎあみ",
+        "meaning": "lưới bắt thỏ"
+      },
+      {
+        "example": "月の兎",
+        "reading": "つきのうさぎ",
+        "meaning": "thỏ mặt trăng, thỏ mặt trăng, nhân vật thần thoại sống trên mặt trăng"
+      },
+      {
+        "example": "飼兎",
+        "reading": "かいうさぎ",
+        "meaning": "thỏ nhà (giống thỏ châu Âu, Oryctolagus cuniculus)"
+      }
+    ],
+    "radical": {
+      "symbol": "儿",
+      "meaning": "chân"
+    },
+    "parts": [
+      "ノ",
+      "丶",
+      "儿",
+      "口",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20814_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0514e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/514e.gif",
+    "uri": "https://jisho.org/search/%E5%85%8E%23kanji"
+  }
+}

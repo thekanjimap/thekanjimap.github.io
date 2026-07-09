@@ -1,0 +1,47 @@
+{
+  "id": "鰍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鰍",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "đầu bò",
+    "kunyomi": [
+      "かじか",
+      "いなだ",
+      "どじょう"
+    ],
+    "onyomi": [
+      "シュウ",
+      "シュ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鰍",
+        "reading": "かじか",
+        "meaning": "sculpin (bất kỳ loài cá nào thuộc họ Cottidae, bao gồm cá đầu bò và ngón tay cái của người xay bột), cá sculpin sông ngòi Nhật Bản (Cottus pollux)"
+      },
+      {
+        "example": "鰍",
+        "reading": "いなだ",
+        "meaning": "hổ phách Nhật Bản non (Seriola quinqueradiata)"
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "cá"
+    },
+    "parts": [
+      "杰",
+      "火",
+      "田",
+      "禾",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39949_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c0d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c0d.gif",
+    "uri": "https://jisho.org/search/%E9%B0%8D%23kanji"
+  }
+}

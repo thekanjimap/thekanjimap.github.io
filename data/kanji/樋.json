@@ -1,0 +1,65 @@
+{
+  "id": "樋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "樋",
+    "found": true,
+    "newspaperFrequencyRank": "1814",
+    "strokeCount": 14,
+    "meaning": "ống nước, máng xối, ống thoát nước, ống dẫn",
+    "kunyomi": [
+      "ひ",
+      "とい"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "樋",
+        "reading": "とい",
+        "meaning": "máng, máng xối, ống dẫn nước, máng, máng, máng xối (của lưỡi kiếm)"
+      },
+      {
+        "example": "樋川",
+        "reading": "ひがわ",
+        "meaning": "(nước) suối"
+      },
+      {
+        "example": "木樋",
+        "reading": "もくひ",
+        "meaning": "ống nước bằng gỗ, ống dẫn nước bằng gỗ"
+      },
+      {
+        "example": "筧",
+        "reading": "かけひ",
+        "meaning": "ống nước mở, ống dẫn"
+      },
+      {
+        "example": "樋",
+        "reading": "とい",
+        "meaning": "máng, máng xối, ống dẫn nước, máng, máng, máng xối (của lưỡi kiếm)"
+      },
+      {
+        "example": "鎖樋",
+        "reading": "くさりとい",
+        "meaning": "dây chuyền mưa (treo từ máng xối và hoạt động như ống thoát nước, thường được làm bằng cốc trang trí)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "マ",
+      "木",
+      "用",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27147_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a0b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a0b.gif",
+    "uri": "https://jisho.org/search/%E6%A8%8B%23kanji"
+  }
+}

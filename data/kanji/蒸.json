@@ -1,0 +1,353 @@
+{
+  "id": "蒸",
+  "kanjialiveData": {
+    "_id": "54317ad5791eba5146ee486d",
+    "_rev": "9-b0df25486af1fdaa09b32a088a6a85c7",
+    "rad_name_ja": "くさかんむり",
+    "grade": 6,
+    "hint_group": 5,
+    "kunyomi": "mu, musu, mureru, murasu",
+    "meaning": "hơi nước, bay hơi",
+    "kstroke": 13,
+    "examples": [
+      {
+        "japanese": "蒸気（じょうき）",
+        "meaning": {
+          "english": "hơi nước, hơi nước"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mu(su)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mu(su)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mu(su)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mu(su)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "蒸発する（じょうはつする）",
+        "meaning": {
+          "english": "bay hơi"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mu(su)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mu(su)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mu(su)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mu(su)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "蒸留する（じょうりゅうする）",
+        "meaning": {
+          "english": "chưng cất"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mu(su)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mu(su)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mu(su)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mu(su)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "蒸す（むす）",
+        "meaning": {
+          "english": "hơi nước, ẩm ướt"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mu(su)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mu(su)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mu(su)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mu(su)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "蒸し器（むしき）",
+        "meaning": {
+          "english": "nồi hấp"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mu(su)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mu(su)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mu(su)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mu(su)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "蒸し暑い（むしあつい）",
+        "meaning": {
+          "english": "ẩm ướt, oi bức"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mu(su)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mu(su)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mu(su)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mu(su)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "蒸らす（むらす）",
+        "meaning": {
+          "english": "hấp, nấu bằng hơi nước [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mu(su)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mu(su)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mu(su)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mu(su)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "蒸れる（むれる）",
+        "meaning": {
+          "english": "được hấp chín [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/mu(su)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/mu(su)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/mu(su)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/mu(su)_06_h.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "む、むす、むれる、むらす",
+    "ka_utf": "蒸",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=蒸",
+    "rad_name_search": [
+      "kusakanmuri"
+    ],
+    "rad_order": 71,
+    "txt_books": [],
+    "kname": "mu(su)",
+    "rad_utf": "⺾",
+    "stroketimes": [
+      0,
+      0.866667,
+      1.666667,
+      2.133333,
+      3.266667,
+      4.4,
+      5.333333,
+      6.066667,
+      6.933333,
+      7.733333,
+      8.6,
+      9.066667,
+      9.733333,
+      10.066667
+    ],
+    "kunyomi_ka_display": "む",
+    "dick": "1508",
+    "rad_name": "kusakanmuri",
+    "dicn": "4002",
+    "mn_hint": "Steam coming out [111] <span class='note'>(orig. \"sprouting\")</span> at the end 了, when water [167] is placed over 一 fire 灬.",
+    "rad_stroke": 3,
+    "onyomi_ja": "ジョウ",
+    "rad_meaning": "cỏ",
+    "onyomi": "jou",
+    "ka_id": "ka_1075",
+    "rad_position": "kanmuri",
+    "rad_position_ja": "かんむり",
+    "rad_position_search": [
+      "kanmuri",
+      "kanmuri"
+    ],
+    "onyomi_search": [
+      "jou",
+      "jou"
+    ],
+    "kunyomi_search": [
+      "mu",
+      "musu",
+      "mureru",
+      "murasu",
+      "mu, musu, mureru, murasu"
+    ],
+    "meaning_search": [
+      "steam",
+      "evaporate",
+      "steam, evaporate"
+    ],
+    "onyomi_ja_search": [
+      "ジョウ",
+      "ジョウ"
+    ],
+    "kunyomi_ja_search": [
+      "む",
+      "むす",
+      "むれる",
+      "むらす",
+      "む、むす、むれる、むらす"
+    ],
+    "rad_meaning_search": [
+      "grass",
+      "grass"
+    ],
+    "rad_position_ja_search": [
+      "かんむり",
+      "かんむり"
+    ],
+    "rad_name_ja_search": [
+      "くさかんむり"
+    ],
+    "textbook_search": [],
+    "rad_name_file": "kusakanmuri",
+    "kanji": {
+      "character": "蒸",
+      "meaning": {
+        "english": "steam, evaporate"
+      },
+      "strokes": {
+        "count": 13,
+        "timings": [
+          0,
+          0.866667,
+          1.666667,
+          2.133333,
+          3.266667,
+          4.4,
+          5.333333,
+          6.066667,
+          6.933333,
+          7.733333,
+          8.6,
+          9.066667,
+          9.733333,
+          10.066667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/mu(su)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/mu(su)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/mu(su)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/mu(su)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/mu(su)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/mu(su)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/mu(su)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/mu(su)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/mu(su)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/mu(su)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/mu(su)_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/mu(su)_12.svg",
+          "https://media.kanjialive.com/kanji_strokes/mu(su)_13.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "jou",
+        "katakana": "ジョウ"
+      },
+      "kunyomi": {
+        "romaji": "mu, musu, mureru, murasu",
+        "hiragana": "む"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/mu(su)_13.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/mu(su)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/mu(su)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺾",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/kusakanmuri.svg",
+      "position": {
+        "hiragana": "かんむり",
+        "romaji": "kanmuri",
+        "icon": "https://media.kanjialive.com/rad_positions/kanmuri.svg"
+      },
+      "name": {
+        "hiragana": "くさかんむり",
+        "romaji": "kusakanmuri"
+      },
+      "meaning": {
+        "english": "cỏ"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/kusakanmuri0.svg",
+        "https://media.kanjialive.com/rad_frames/kusakanmuri1.svg",
+        "https://media.kanjialive.com/rad_frames/kusakanmuri2.svg"
+      ]
+    },
+    "references": {
+      "grade": 6,
+      "kodansha": "1508",
+      "classic_nelson": "4002"
+    }
+  },
+  "jishoData": {
+    "query": "蒸",
+    "found": true,
+    "taughtIn": "lớp 6",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "1552",
+    "strokeCount": 13,
+    "meaning": "hơi nước, sức nóng, oi bức, kích động, bị mốc",
+    "kunyomi": [
+      "む.す",
+      "む.れる",
+      "む.らす"
+    ],
+    "onyomi": [
+      "ジョウ",
+      "セイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蒸気",
+        "reading": "ジョウキ",
+        "meaning": "hơi nước,hơi,hơi,tàu hơi nước,Đầu máy hơi nước"
+      },
+      {
+        "example": "蒸発",
+        "reading": "ジョウハツ",
+        "meaning": "bốc hơi, biến mất (của một người), biến mất không một dấu vết"
+      },
+      {
+        "example": "燻蒸",
+        "reading": "クンジョウ",
+        "meaning": "khử trùng, hút thuốc (ra)"
+      },
+      {
+        "example": "蒸籠",
+        "reading": "セイロ",
+        "meaning": "Nồi hấp tre, rổ hấp, giá đỡ khung gỗ có đế bằng sậy dùng để hấp thức ăn trên nồi, soba phục vụ trên khay đan liễu nhỏ, khay đan liễu gai (để phục vụ soba)"
+      },
+      {
+        "example": "せいろ蒸し",
+        "reading": "セイロムシ",
+        "meaning": "hấp (thức ăn) bằng nồi hấp tre"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蒸す",
+        "reading": "むす",
+        "meaning": "hấp (thức ăn, khăn tắm, v.v.), nóng và ẩm, oi bức"
+      },
+      {
+        "example": "蒸れる",
+        "reading": "むれる",
+        "meaning": "được hấp (đúng cách, ví dụ như cơm), ngột ngạt, mốc meo, gần gũi, đổ mồ hôi, cảm thấy dính, mốc meo"
+      },
+      {
+        "example": "蒸らす",
+        "reading": "むらす",
+        "meaning": "nấu bằng hơi nước"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "亅",
+      "杰",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33976_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084b8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84b8.gif",
+    "uri": "https://jisho.org/search/%E8%92%B8%23kanji"
+  }
+}

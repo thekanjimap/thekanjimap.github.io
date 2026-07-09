@@ -1,0 +1,58 @@
+{
+  "id": "昏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "昏",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "bóng tối, buổi tối, hoàng hôn",
+    "kunyomi": [
+      "くら.い",
+      "くれ"
+    ],
+    "onyomi": [
+      "コン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "昏睡",
+        "reading": "コンスイ",
+        "meaning": "hôn mê, ngủ sâu, ngủ say"
+      },
+      {
+        "example": "昏々",
+        "reading": "コンコン",
+        "meaning": "ngủ say, chết với thế giới"
+      },
+      {
+        "example": "昏々",
+        "reading": "コンコン",
+        "meaning": "ngủ say, chết với thế giới"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "暗い",
+        "reading": "くらい",
+        "meaning": "tối tăm, ảm đạm, u ám, chán nản, chán nản, xuống bãi rác, tối tăm (tâm trạng), tối tăm (về màu sắc), buồn tẻ, u ám, tối tăm (ví dụ như quá khứ), nghi ngờ, không chắc chắn (để thành công), vô vọng, không hứa hẹn, xa lạ (với), ngu dốt (về)"
+      },
+      {
+        "example": "暮れる",
+        "reading": "くれる",
+        "meaning": "trở nên tối tăm, trở nên tối tăm, kết thúc (của một ngày, năm, mùa, v.v.), kết thúc, khép lại, chìm đắm (ví dụ: tuyệt vọng), lạc lối (ví dụ: suy nghĩ), bị vượt qua bởi"
+      }
+    ],
+    "radical": {
+      "symbol": "日",
+      "meaning": "mặt trời, ngày"
+    },
+    "parts": [
+      "日",
+      "氏"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26127_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0660f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/660f.gif",
+    "uri": "https://jisho.org/search/%E6%98%8F%23kanji"
+  }
+}

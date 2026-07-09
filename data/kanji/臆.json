@@ -1,0 +1,66 @@
+{
+  "id": "臆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "臆",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "strokeCount": 17,
+    "meaning": "sự rụt rè, trái tim, tâm trí, sự sợ hãi, hèn nhát",
+    "kunyomi": [
+      "むね",
+      "おくする"
+    ],
+    "onyomi": [
+      "オク",
+      "ヨク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "憶測",
+        "reading": "オクソク",
+        "meaning": "phỏng đoán, suy đoán, giả sử"
+      },
+      {
+        "example": "臆病",
+        "reading": "オクビョウ",
+        "meaning": "hèn nhát, rụt rè, dễ sợ hãi"
+      },
+      {
+        "example": "剛臆",
+        "reading": "ゴウオク",
+        "meaning": "dũng cảm và hèn nhát"
+      },
+      {
+        "example": "胸臆",
+        "reading": "キョウオク",
+        "meaning": "những suy nghĩ (cảm xúc) sâu thẳm nhất của một người"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "臆する",
+        "reading": "おくする",
+        "meaning": "do dự, cảm thấy rụt rè"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "thịt"
+    },
+    "parts": [
+      "心",
+      "日",
+      "月",
+      "立",
+      "音"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33222_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081c6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81c6.gif",
+    "uri": "https://jisho.org/search/%E8%87%86%23kanji"
+  }
+}

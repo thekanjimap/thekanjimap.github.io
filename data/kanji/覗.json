@@ -1,0 +1,44 @@
+{
+  "id": "覗",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "覗",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "nhìn trộm, nhìn trộm, nhìn thấy",
+    "kunyomi": [
+      "のぞ.く",
+      "うかが.う"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "覗く",
+        "reading": "のぞく",
+        "meaning": "nhìn trộm (qua lỗ khóa, khe hở, v.v.), nhìn xuống (một khe núi, v.v.), nhìn trộm vào (một cửa hàng, hiệu sách, v.v.), lén nhìn, nhìn nhanh, nhìn trộm (qua kính viễn vọng, kính hiển vi, v.v.), ló ra (một chiếc khăn quàng cổ, v.v.), nhìn qua (bầu trời xuyên qua tán rừng, v.v.), để kiểm tra (một biểu hiện), nghiên cứu (một khuôn mặt), nhìn vào khuôn mặt"
+      },
+      {
+        "example": "窺う",
+        "reading": "うかがう",
+        "meaning": "nhìn trộm (thông qua), nhìn trộm, kiểm tra (đặc biệt là bí mật), chờ đợi (cơ hội của một người), đoán, suy luận, thu thập, phỏng đoán"
+      }
+    ],
+    "radical": {
+      "symbol": "見",
+      "meaning": "xem"
+    },
+    "parts": [
+      "一",
+      "亅",
+      "口",
+      "見"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35223_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08997.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8997.gif",
+    "uri": "https://jisho.org/search/%E8%A6%97%23kanji"
+  }
+}

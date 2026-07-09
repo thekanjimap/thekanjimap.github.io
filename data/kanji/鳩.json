@@ -1,0 +1,82 @@
+{
+  "id": "鳩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鳩",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1637",
+    "strokeCount": 13,
+    "meaning": "chim bồ câu, bồ câu",
+    "kunyomi": [
+      "はと",
+      "あつ.める"
+    ],
+    "onyomi": [
+      "キュウ",
+      "ク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鳩首",
+        "reading": "キュウシュ",
+        "meaning": "đi vào một cuộc trò chuyện nhóm"
+      },
+      {
+        "example": "糾合",
+        "reading": "キュウゴウ",
+        "meaning": "tập hợp, tập hợp"
+      },
+      {
+        "example": "鶚",
+        "reading": "ミサゴ",
+        "meaning": "chim ưng biển (Pandion haliaetus), diều hâu cá"
+      },
+      {
+        "example": "軍鳩",
+        "reading": "グンキュウ",
+        "meaning": "bồ câu đưa thư, bồ câu chiến"
+      },
+      {
+        "example": "鳩槃荼",
+        "reading": "クハンダ",
+        "meaning": "Kumbhanda, con quỷ có tinh hoàn lớn được cho là sẽ hút cạn sinh lực của con người"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鳩",
+        "reading": "はと",
+        "meaning": "chim bồ câu, bồ câu"
+      },
+      {
+        "example": "鳩が豆鉄砲を食ったよう",
+        "reading": "はとがまめでっぽうをくったよう",
+        "meaning": "giống như một con chim bồ câu bị bắn bởi một người bắn đậu (tức là mở to mắt vì sốc)"
+      },
+      {
+        "example": "レース鳩",
+        "reading": "レースはと",
+        "meaning": "bồ câu đua, bồ câu dẫn đường"
+      },
+      {
+        "example": "白鳩",
+        "reading": "しろはと",
+        "meaning": "chim bồ câu"
+      }
+    ],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "chim"
+    },
+    "parts": [
+      "九",
+      "杰",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40169_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ce9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ce9.gif",
+    "uri": "https://jisho.org/search/%E9%B3%A9%23kanji"
+  }
+}

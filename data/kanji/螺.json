@@ -1,0 +1,71 @@
+{
+  "id": "螺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "螺",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "nhuyễn thể nước ngọt nhỏ, ăn được, xoắn ốc",
+    "kunyomi": [
+      "にし",
+      "にな"
+    ],
+    "onyomi": [
+      "ラ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "螺",
+        "reading": "ニシ",
+        "meaning": "ốc vỏ xoắn ốc nhỏ, động vật có vỏ xoắn ốc"
+      },
+      {
+        "example": "螺旋",
+        "reading": "ラセン",
+        "meaning": "xoắn ốc, xoắn ốc, vít"
+      },
+      {
+        "example": "馬蹄螺",
+        "reading": "バテイラ",
+        "meaning": "Omphalius pfeifferi pfeifferi (phân loài vỏ trên)"
+      },
+      {
+        "example": "サラサ馬蹄螺",
+        "reading": "サラサバテイラ",
+        "meaning": "Tectus maximus (loài vỏ trên)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "螺",
+        "reading": "にし",
+        "meaning": "ốc vỏ xoắn ốc nhỏ, động vật có vỏ xoắn ốc"
+      },
+      {
+        "example": "赤螺",
+        "reading": "あかにし",
+        "meaning": "loài rapa có gân (Rapana venosa)"
+      },
+      {
+        "example": "長螺",
+        "reading": "ながにし",
+        "meaning": "trục chính phức tạp (loài ốc biển, Fusinus perplexus)"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "côn trùng"
+    },
+    "parts": [
+      "小",
+      "幺",
+      "田",
+      "糸",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34746_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/087ba.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/87ba.gif",
+    "uri": "https://jisho.org/search/%E8%9E%BA%23kanji"
+  }
+}

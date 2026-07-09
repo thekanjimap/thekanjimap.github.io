@@ -1,0 +1,57 @@
+{
+  "id": "飴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "飴",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "thạch gạo, kẹo",
+    "kunyomi": [
+      "あめ",
+      "やしな.う"
+    ],
+    "onyomi": [
+      "イ",
+      "シ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "飴",
+        "reading": "あめ",
+        "meaning": "(cứng) kẹo, kẹo bơ cứng, đường gạo, đường làm từ tinh bột gạo, khoai tây, v.v., màu hổ phách, màu nâu vàng"
+      },
+      {
+        "example": "飴色",
+        "reading": "あめいろ",
+        "meaning": "hổ phách, màu nâu vàng"
+      },
+      {
+        "example": "べっこう飴",
+        "reading": "べっこうあめ",
+        "meaning": "kẹo cứng, kẹo mút đúc trên vỉ nướng, kẹo mai rùa"
+      },
+      {
+        "example": "ぶどう飴",
+        "reading": "ぶどうあめ",
+        "meaning": "nho bọc kẹo trên que"
+      }
+    ],
+    "radical": {
+      "symbol": "食",
+      "forms": [
+        "飠"
+      ],
+      "meaning": "ăn, thức ăn"
+    },
+    "parts": [
+      "厶",
+      "口",
+      "食"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39156_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/098f4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/98f4.gif",
+    "uri": "https://jisho.org/search/%E9%A3%B4%23kanji"
+  }
+}

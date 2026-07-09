@@ -1,0 +1,56 @@
+{
+  "id": "隆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "隆",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1109",
+    "strokeCount": 11,
+    "meaning": "bướu, cao, cao quý, thịnh vượng",
+    "kunyomi": [],
+    "onyomi": [
+      "リュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "隆盛",
+        "reading": "リュウセイ",
+        "meaning": "thịnh vượng, hưng thịnh, thịnh vượng"
+      },
+      {
+        "example": "隆起",
+        "reading": "リュウキ",
+        "meaning": "sự nhô ra, sự nhô ra, sự nhô ra, sự nhô ra, sự nhô ra, sự nhô lên, sự nâng lên, sự biến động, độ cao"
+      },
+      {
+        "example": "興隆",
+        "reading": "コウリュウ",
+        "meaning": "tăng trưởng, thịnh vượng"
+      },
+      {
+        "example": "膨隆",
+        "reading": "ボウリュウ",
+        "meaning": "sưng lên"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "阜",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "gò, đập (阝 trái)"
+    },
+    "parts": [
+      "夂",
+      "生",
+      "阡"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38534_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09686.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9686.gif",
+    "uri": "https://jisho.org/search/%E9%9A%86%23kanji"
+  }
+}

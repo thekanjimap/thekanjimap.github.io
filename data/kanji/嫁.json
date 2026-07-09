@@ -1,0 +1,84 @@
+{
+  "id": "嫁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嫁",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1581",
+    "strokeCount": 13,
+    "meaning": "kết hôn với, cô dâu",
+    "kunyomi": [
+      "よめ",
+      "とつ.ぐ",
+      "い.く",
+      "ゆ.く"
+    ],
+    "onyomi": [
+      "カ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "片付ける",
+        "reading": "カタヅケル",
+        "meaning": "sắp xếp, dọn dẹp, dọn dẹp, cất đi, dọn dẹp, giải quyết (vấn đề), giải quyết, xử lý, xử lý, kết thúc, vượt qua, hoàn thành, hoàn thành (việc gì đó), kết hôn (con gái), loại bỏ (ai đó), va chạm, giết, loại bỏ"
+      },
+      {
+        "example": "嫁す",
+        "reading": "カス",
+        "meaning": "kết hôn, kết hôn, đổ lỗi cho người khác"
+      },
+      {
+        "example": "責任転嫁",
+        "reading": "セキニンテンカ",
+        "meaning": "chuyển trách nhiệm (về việc gì đó) sang (ai đó), chuyển trách nhiệm"
+      },
+      {
+        "example": "再嫁",
+        "reading": "サイカ",
+        "meaning": "tái hôn (của một người phụ nữ)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "嫁",
+        "reading": "よめ",
+        "meaning": "cô dâu, con dâu, vợ"
+      },
+      {
+        "example": "嫁入り",
+        "reading": "よめいり",
+        "meaning": "hôn nhân, đám cưới"
+      },
+      {
+        "example": "新嫁",
+        "reading": "しんよめ",
+        "meaning": "cô dâu mới cưới"
+      },
+      {
+        "example": "惣嫁",
+        "reading": "そうか",
+        "meaning": "người đi đường (thời Edo)"
+      },
+      {
+        "example": "嫁ぐ",
+        "reading": "とつぐ",
+        "meaning": "kết hôn (với một người phụ nữ), trở thành cô dâu, kết hôn với (một gia đình), quan hệ tình dục"
+      }
+    ],
+    "radical": {
+      "symbol": "女",
+      "meaning": "phụ nữ, nữ"
+    },
+    "parts": [
+      "女",
+      "宀",
+      "豕"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23233_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ac1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ac1.gif",
+    "uri": "https://jisho.org/search/%E5%AB%81%23kanji"
+  }
+}

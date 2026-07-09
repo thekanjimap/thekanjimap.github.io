@@ -1,0 +1,62 @@
+{
+  "id": "胤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "胤",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 9,
+    "meaning": "hậu duệ, con cháu, con cháu",
+    "kunyomi": [
+      "たね"
+    ],
+    "onyomi": [
+      "イン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "胤裔",
+        "reading": "インエイ",
+        "meaning": "người kế vị, hậu duệ"
+      },
+      {
+        "example": "後胤",
+        "reading": "コウイン",
+        "meaning": "hậu duệ, dòng dõi"
+      },
+      {
+        "example": "皇胤",
+        "reading": "コウイン",
+        "meaning": "Hậu duệ hoàng gia (hậu thế)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "胤",
+        "reading": "たね",
+        "meaning": "con cái, dòng máu nội"
+      },
+      {
+        "example": "種違い",
+        "reading": "たねちがい",
+        "meaning": "cùng cha khác mẹ (anh chị em cùng cha khác mẹ), tử cung, mẹ"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "thịt"
+    },
+    "parts": [
+      "儿",
+      "幺",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32996_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080e4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80e4.gif",
+    "uri": "https://jisho.org/search/%E8%83%A4%23kanji"
+  }
+}

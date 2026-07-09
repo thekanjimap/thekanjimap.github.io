@@ -1,0 +1,79 @@
+{
+  "id": "鐘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鐘",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1681",
+    "strokeCount": 20,
+    "meaning": "chuông, cồng, chuông",
+    "kunyomi": [
+      "かね"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鐘楼",
+        "reading": "ショウロウ",
+        "meaning": "tháp chuông, tháp chuông"
+      },
+      {
+        "example": "鍾乳洞",
+        "reading": "ショウニュウドウ",
+        "meaning": "hang đá vôi, hang đá vôi"
+      },
+      {
+        "example": "警鐘",
+        "reading": "ケイショウ",
+        "meaning": "chuông báo động, chuông cứu hỏa, cảnh báo, chuông báo thức"
+      },
+      {
+        "example": "鳴鐘",
+        "reading": "メイショウ",
+        "meaning": "rung chuông (ở chùa)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鐘",
+        "reading": "かね",
+        "meaning": "chuông (thường là chuông treo lớn), chuông"
+      },
+      {
+        "example": "鐘つき",
+        "reading": "かねつき",
+        "meaning": "tiếng chuông, tiếng chuông"
+      },
+      {
+        "example": "入相の鐘",
+        "reading": "いりあいのかね",
+        "meaning": "chuông buổi tối, chuông kinh chiều"
+      },
+      {
+        "example": "時の鐘",
+        "reading": "ときのかね",
+        "meaning": "chuông giờ"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "kim loại, vàng"
+    },
+    "parts": [
+      "立",
+      "里",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37912_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09418.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9418.gif",
+    "uri": "https://jisho.org/search/%E9%90%98%23kanji"
+  }
+}

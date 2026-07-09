@@ -1,0 +1,83 @@
+{
+  "id": "踵",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "踵",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "gót chân",
+    "kunyomi": [
+      "かかと",
+      "くび.す",
+      "きび.す",
+      "つ.ぐ"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "踵骨",
+        "reading": "ショウコツ",
+        "meaning": "xương gót, xương gót, xương gót"
+      },
+      {
+        "example": "延頸挙踵",
+        "reading": "エンケイキョショウ",
+        "meaning": "khao khát một ai đó hoặc một cái gì đó, chờ đợi một người có tài năng lớn đến, vươn cổ và kiễng chân"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "踵",
+        "reading": "かかと",
+        "meaning": "gót chân (bàn chân, giày, tất...)"
+      },
+      {
+        "example": "かかと落とし",
+        "reading": "かかとおとし",
+        "meaning": "cú đá rìu, cú đá rìu"
+      },
+      {
+        "example": "踵",
+        "reading": "かかと",
+        "meaning": "gót chân (bàn chân, giày, tất...)"
+      },
+      {
+        "example": "踵を返す",
+        "reading": "きびすをかえす",
+        "meaning": "quay gót, quay lại, quay lại"
+      },
+      {
+        "example": "踵",
+        "reading": "かかと",
+        "meaning": "gót chân (bàn chân, giày, tất...)"
+      },
+      {
+        "example": "踵を返す",
+        "reading": "きびすをかえす",
+        "meaning": "quay gót, quay lại, quay lại"
+      }
+    ],
+    "radical": {
+      "symbol": "足",
+      "forms": [
+        "⻊"
+      ],
+      "meaning": "chân"
+    },
+    "parts": [
+      "ノ",
+      "口",
+      "日",
+      "止",
+      "足",
+      "里",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36405_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e35.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e35.gif",
+    "uri": "https://jisho.org/search/%E8%B8%B5%23kanji"
+  }
+}

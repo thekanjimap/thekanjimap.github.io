@@ -1,0 +1,64 @@
+{
+  "id": "頌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "頌",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 13,
+    "meaning": "điếu văn",
+    "kunyomi": [
+      "かたち",
+      "たた.える",
+      "ほめ.る"
+    ],
+    "onyomi": [
+      "ショウ",
+      "ジュ",
+      "ヨウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "頌",
+        "reading": "ショウ",
+        "meaning": "ca ngợi, thánh ca (thể loại của Shi Jing)"
+      },
+      {
+        "example": "頌栄",
+        "reading": "ショウエイ",
+        "meaning": "lời khen ngợi"
+      },
+      {
+        "example": "奉献頌",
+        "reading": "ホウケンショウ",
+        "meaning": "nhạc cúng dường, nhạc cúng dường"
+      },
+      {
+        "example": "頌",
+        "reading": "ジュ",
+        "meaning": "gatha (câu thơ trong kinh thánh)"
+      },
+      {
+        "example": "頌寿",
+        "reading": "ショウジュ",
+        "meaning": "lễ mừng thọ"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "頁",
+      "meaning": "lá"
+    },
+    "parts": [
+      "ハ",
+      "厶",
+      "目",
+      "貝",
+      "頁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38924_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0980c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/980c.gif",
+    "uri": "https://jisho.org/search/%E9%A0%8C%23kanji"
+  }
+}

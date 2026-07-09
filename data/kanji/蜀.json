@@ -1,0 +1,48 @@
+{
+  "id": "蜀",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蜀",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "sâu bướm xanh, Tứ Xuyên",
+    "kunyomi": [
+      "いもむし"
+    ],
+    "onyomi": [
+      "ショク",
+      "ゾク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蜀",
+        "reading": "ショク",
+        "meaning": "Tứ Xuyên (tỉnh ở Trung Quốc), Thục (vương quốc ở Trung Quốc thời Tam Quốc; 221-263), Thục Hán, Thục (vương quốc ở Trung Quốc cổ đại; ??-316 TCN)"
+      },
+      {
+        "example": "蜀漢",
+        "reading": "ショッカン",
+        "meaning": "Thục Hán (vương quốc ở Trung Quốc thời Tam Quốc; 221-263), Thục"
+      },
+      {
+        "example": "望蜀",
+        "reading": "ボウショク",
+        "meaning": "tính không thỏa mãn"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "côn trùng"
+    },
+    "parts": [
+      "勹",
+      "虫",
+      "買"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34560_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08700.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8700.gif",
+    "uri": "https://jisho.org/search/%E8%9C%80%23kanji"
+  }
+}

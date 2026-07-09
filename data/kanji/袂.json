@@ -1,0 +1,60 @@
+{
+  "id": "袂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "袂",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "tay áo, chân (đồi), mép",
+    "kunyomi": [
+      "たまと",
+      "たもと"
+    ],
+    "onyomi": [
+      "ベイ",
+      "ケツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "分袂",
+        "reading": "ブンベイ",
+        "meaning": "chia tay (với ai)"
+      },
+      {
+        "example": "連袂",
+        "reading": "レンベイ",
+        "meaning": "làm đồng loạt, làm cùng nhau, làm tập thể"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "袂",
+        "reading": "たもと",
+        "meaning": "tay áo (đặc biệt là kimono), túi tay áo, vùng lân cận (đặc biệt là cây cầu), chân núi, chân núi"
+      },
+      {
+        "example": "袂糞",
+        "reading": "たもとくそ",
+        "meaning": "bụi, v.v. tích tụ ở đáy tay áo (đặc biệt trong trang phục truyền thống của Nhật Bản)"
+      }
+    ],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "quần áo"
+    },
+    "parts": [
+      "ユ",
+      "二",
+      "人",
+      "初",
+      "大"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34946_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08882.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8882.gif",
+    "uri": "https://jisho.org/search/%E8%A2%82%23kanji"
+  }
+}

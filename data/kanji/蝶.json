@@ -1,0 +1,52 @@
+{
+  "id": "蝶",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蝶",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2011",
+    "strokeCount": 15,
+    "meaning": "bướm",
+    "kunyomi": [],
+    "onyomi": [
+      "チョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蝶",
+        "reading": "チョウ",
+        "meaning": "bướm"
+      },
+      {
+        "example": "蝶々",
+        "reading": "チョウチョウ",
+        "meaning": "bướm"
+      },
+      {
+        "example": "太陽蝶",
+        "reading": "タイヨウチョウ",
+        "meaning": "hình thái hoàng hôn (bướm, Morpho hecuba)"
+      },
+      {
+        "example": "猪鹿蝶",
+        "reading": "イノシカチョウ",
+        "meaning": "bài lợn, hươu và bướm (kết hợp điểm cao), inoshikacho (loại trò chơi đánh bạc hanafuda)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "côn trùng"
+    },
+    "parts": [
+      "世",
+      "木",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34678_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08776.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8776.gif",
+    "uri": "https://jisho.org/search/%E8%9D%B6%23kanji"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "衫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "衫",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "kimono mỏng",
+    "kunyomi": [],
+    "onyomi": [
+      "サン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "長衫",
+        "reading": "チョウサン",
+        "meaning": "sườn xám, váy quan thoại, váy quan thoại"
+      },
+      {
+        "example": "軽衫",
+        "reading": "カルサン",
+        "meaning": "hakama được thiết kế theo phong cách quần dài của người Bồ Đào Nha"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "quần áo"
+    },
+    "parts": [
+      "初",
+      "彡"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34923_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0886b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/886b.gif",
+    "uri": "https://jisho.org/search/%E8%A1%AB%23kanji"
+  }
+}

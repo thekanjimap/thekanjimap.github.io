@@ -1,0 +1,60 @@
+{
+  "id": "鏘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鏘",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "tiếng leng keng của mặt dây chuyền bằng ngọc bích hoặc kim loại",
+    "kunyomi": [],
+    "onyomi": [
+      "ソウ",
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鏘々",
+        "reading": "ソウソウ",
+        "meaning": "sôi nổi, hoạt bát, hăng hái, nhiệt tình, leng keng (của kim loại, đồ trang sức, v.v.), reo vang rực rỡ, kêu (của phượng hoàng)"
+      },
+      {
+        "example": "鏗鏘",
+        "reading": "コウソウ",
+        "meaning": "âm vang (tiếng chuông, tiếng nhạc cụ, tiếng đá bị đập, v.v.)"
+      },
+      {
+        "example": "鏘々",
+        "reading": "ソウソウ",
+        "meaning": "sôi nổi, hoạt bát, hăng hái, nhiệt tình, leng keng (của kim loại, đồ trang sức, v.v.), reo vang rực rỡ, kêu (của phượng hoàng)"
+      },
+      {
+        "example": "鏘々",
+        "reading": "ソウソウ",
+        "meaning": "sôi nổi, hoạt bát, hăng hái, nhiệt tình, leng keng (của kim loại, đồ trang sức, v.v.), reo vang rực rỡ, kêu (của phượng hoàng)"
+      },
+      {
+        "example": "鏘々",
+        "reading": "ソウソウ",
+        "meaning": "sôi nổi, hoạt bát, hăng hái, nhiệt tình, leng keng (của kim loại, đồ trang sức, v.v.), reo vang rực rỡ, kêu (của phượng hoàng)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "kim loại, vàng"
+    },
+    "parts": [
+      "夕",
+      "寸",
+      "爿",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37848_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/093d8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/93d8.gif",
+    "uri": "https://jisho.org/search/%E9%8F%98%23kanji"
+  }
+}

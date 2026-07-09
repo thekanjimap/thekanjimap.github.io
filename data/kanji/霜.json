@@ -1,0 +1,76 @@
+{
+  "id": "霜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "霜",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2151",
+    "strokeCount": 17,
+    "meaning": "sương giá",
+    "kunyomi": [
+      "しも"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "霜害",
+        "reading": "ソウガイ",
+        "meaning": "thiệt hại do sương giá"
+      },
+      {
+        "example": "霜剣",
+        "reading": "ソウケン",
+        "meaning": "thanh kiếm sắc lạnh, lưỡi băng"
+      },
+      {
+        "example": "星霜",
+        "reading": "セイソウ",
+        "meaning": "năm, thời gian"
+      },
+      {
+        "example": "幾星霜",
+        "reading": "イクセイソウ",
+        "meaning": "nhiều tháng nhiều năm"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "霜",
+        "reading": "しも",
+        "meaning": "sương giá, tóc trắng, tóc bạc, tóc bạc"
+      },
+      {
+        "example": "霜降り",
+        "reading": "しもふり",
+        "meaning": "lốm đốm màu trắng, muối tiêu (hoa văn, vải, v.v.), vân cẩm thạch (của thịt bò), (của cá, thịt gà, động vật có vỏ, v.v.) chần bằng cách tiếp xúc với nước sôi và sau đó là nước đá, hình thành sương giá"
+      },
+      {
+        "example": "秋霜",
+        "reading": "しゅうそう",
+        "meaning": "sương mùa thu, sương rơi, khắc nghiệt, nghiêm khắc, nghiêm khắc, tóc trắng, tóc bạc, kiếm sắc"
+      },
+      {
+        "example": "朝霜",
+        "reading": "あさしも",
+        "meaning": "sương giá buổi sáng"
+      }
+    ],
+    "radical": {
+      "symbol": "雨",
+      "meaning": "mưa"
+    },
+    "parts": [
+      "木",
+      "目",
+      "雨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38684_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0971c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/971c.gif",
+    "uri": "https://jisho.org/search/%E9%9C%9C%23kanji"
+  }
+}

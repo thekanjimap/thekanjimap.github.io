@@ -1,0 +1,78 @@
+{
+  "id": "漸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "漸",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2115",
+    "strokeCount": 14,
+    "meaning": "đều đặn, dần dần tiến lên, cuối cùng, hầu như không",
+    "kunyomi": [
+      "ようや.く",
+      "やや",
+      "ようよ.う",
+      "すす.む"
+    ],
+    "onyomi": [
+      "ゼン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "漸",
+        "reading": "ゼン",
+        "meaning": "tiến bộ dần dần"
+      },
+      {
+        "example": "漸減",
+        "reading": "ゼンゲン",
+        "meaning": "giảm dần, giảm dần"
+      },
+      {
+        "example": "西漸",
+        "reading": "セイゼン",
+        "meaning": "tiến về phía tây"
+      },
+      {
+        "example": "東漸",
+        "reading": "トウゼン",
+        "meaning": "tiến về phía đông"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "漸く",
+        "reading": "ようやく",
+        "meaning": "cuối cùng, cuối cùng, hầu như không, trong gang tấc, hầu như không, chỉ, dần dần, từng chút một, theo mức độ"
+      },
+      {
+        "example": "稍",
+        "reading": "やや",
+        "meaning": "một chút, một phần, hơi, một chút, nửa, - bên cạnh, một thời gian ngắn, một lát"
+      },
+      {
+        "example": "漸う",
+        "reading": "ようよう",
+        "meaning": "cuối cùng, hầu như không, trong gang tấc, hầu như không, chỉ, dần dần, từng chút một, theo mức độ"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "斤",
+      "汁",
+      "車"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28472_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f38.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f38.gif",
+    "uri": "https://jisho.org/search/%E6%BC%B8%23kanji"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "喋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "喋",
+    "found": true,
+    "newspaperFrequencyRank": "2403",
+    "strokeCount": 12,
+    "meaning": "nói chuyện, tán gẫu, tán gẫu",
+    "kunyomi": [
+      "しゃべ.る",
+      "ついば.む"
+    ],
+    "onyomi": [
+      "チョウ",
+      "トウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "喋々",
+        "reading": "チョウチョウ",
+        "meaning": "một cách trôi chảy, một cách trôi chảy, ở độ dài lớn"
+      },
+      {
+        "example": "喋々喃々",
+        "reading": "チョウチョウナンナン",
+        "meaning": "thanh toán và thủ thỉ, tổ chức một cuộc trò chuyện thân mật, dài dòng bằng những lời thì thầm"
+      },
+      {
+        "example": "喋々",
+        "reading": "チョウチョウ",
+        "meaning": "một cách trôi chảy, một cách trôi chảy, ở độ dài lớn"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "喋る",
+        "reading": "しゃべる",
+        "meaning": "nói chuyện, tán gẫu, tán gẫu"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "世",
+      "口",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21899_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0558b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/558b.gif",
+    "uri": "https://jisho.org/search/%E5%96%8B%23kanji"
+  }
+}

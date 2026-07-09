@@ -1,0 +1,386 @@
+{
+  "id": "香",
+  "kanjialiveData": {
+    "_id": "54317ada791eba5146ee48c6",
+    "_rev": "12-0b04df0aee5fb14a2f37c29c12ef30d1",
+    "rad_name_ja": "かおり",
+    "grade": null,
+    "hint_group": 1,
+    "kunyomi": "ka, kao, kaori, kaoru",
+    "meaning": "mùi thơm, mùi thơm, hương thơm",
+    "kstroke": 9,
+    "examples": [
+      {
+        "japanese": "香水（こうすい）",
+        "meaning": {
+          "english": "nước hoa"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-kao(ri)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kou-kao(ri)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kou-kao(ri)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kou-kao(ri)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "香油（こうゆ）",
+        "meaning": {
+          "english": "dầu thơm, dầu thơm"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-kao(ri)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kou-kao(ri)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kou-kao(ri)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kou-kao(ri)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "芳香（ほうこう）",
+        "meaning": {
+          "english": "nước hoa, hương thơm, hương thơm"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-kao(ri)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kou-kao(ri)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kou-kao(ri)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kou-kao(ri)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "香ばしい（こうばしい）",
+        "meaning": {
+          "english": "thơm, thơm"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-kao(ri)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kou-kao(ri)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kou-kao(ri)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kou-kao(ri)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "香車（きょうしゃ）",
+        "meaning": {
+          "english": "thương (trò chơi shogi)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-kao(ri)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kou-kao(ri)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kou-kao(ri)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kou-kao(ri)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "香（か）",
+        "meaning": {
+          "english": "hương thơm, hương thơm, hương thơm, mùi thơm"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-kao(ri)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kou-kao(ri)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kou-kao(ri)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kou-kao(ri)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "色香（いろか）",
+        "meaning": {
+          "english": "màu sắc & hương thơm, sự quyến rũ [n.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-kao(ri)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kou-kao(ri)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kou-kao(ri)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kou-kao(ri)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "移り香（うつりが）",
+        "meaning": {
+          "english": "hương thơm đọng lại"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-kao(ri)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kou-kao(ri)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kou-kao(ri)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kou-kao(ri)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "香り（かおり）",
+        "meaning": {
+          "english": "hương thơm, hương thơm, hương thơm, mùi thơm"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kou-kao(ri)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kou-kao(ri)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kou-kao(ri)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kou-kao(ri)_06_i.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "か、かお、かおり、かおる",
+    "ka_utf": "香",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=香",
+    "kname": "kou-kao(ri)",
+    "rad_order": 223,
+    "txt_books": [],
+    "rad_name_search": [
+      "kaori"
+    ],
+    "rad_utf": "⾹",
+    "stroketimes": [
+      0,
+      1,
+      2.533333,
+      3.8,
+      5.333333,
+      6.466667,
+      7.466667,
+      8.866667,
+      10.066667,
+      11.666667
+    ],
+    "kunyomi_ka_display": "か、かお",
+    "dick": "1637",
+    "rad_name": "kaori",
+    "dicn": "5188",
+    "mn_hint": "Please view the animation in the radical field to the left.",
+    "rad_stroke": 9,
+    "onyomi_ja": "コウ、キョウ",
+    "rad_meaning": "hương thơm",
+    "onyomi": "kou, kyou",
+    "ka_id": "ka_1155",
+    "onyomi_search": [
+      "kou",
+      "kyou",
+      "kou, kyou"
+    ],
+    "kunyomi_search": [
+      "ka",
+      "kao",
+      "kaori",
+      "kaoru",
+      "ka, kao, kaori, kaoru"
+    ],
+    "meaning_search": [
+      "sweet smell",
+      "sweet",
+      "smell",
+      "fragrance",
+      "aroma",
+      "sweet smell, fragrance, aroma"
+    ],
+    "onyomi_ja_search": [
+      "コウ",
+      "キョウ",
+      "コウ、キョウ"
+    ],
+    "kunyomi_ja_search": [
+      "か",
+      "かお",
+      "かおり",
+      "かおる",
+      "か、かお、かおり、かおる"
+    ],
+    "rad_meaning_search": [
+      "scent",
+      "scent"
+    ],
+    "rad_name_ja_search": [
+      "かおり"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [],
+    "rad_name_file": "kaori",
+    "kanji": {
+      "character": "香",
+      "meaning": {
+        "english": "sweet smell, fragrance, aroma"
+      },
+      "strokes": {
+        "count": 9,
+        "timings": [
+          0,
+          1,
+          2.533333,
+          3.8,
+          5.333333,
+          6.466667,
+          7.466667,
+          8.866667,
+          10.066667,
+          11.666667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/kou-kao(ri)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/kou-kao(ri)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/kou-kao(ri)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/kou-kao(ri)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/kou-kao(ri)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/kou-kao(ri)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/kou-kao(ri)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/kou-kao(ri)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/kou-kao(ri)_9.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "kou, kyou",
+        "katakana": "コウ、キョウ"
+      },
+      "kunyomi": {
+        "romaji": "ka, kao, kaori, kaoru",
+        "hiragana": "か、かお"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/kou-kao(ri)_9.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/kou-kao(ri)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/kou-kao(ri)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⾹",
+      "strokes": 9,
+      "image": "https://media.kanjialive.com/radical_character/kaori.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "かおり",
+        "romaji": "kaori"
+      },
+      "meaning": {
+        "english": "hương thơm"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/kaori0.svg",
+        "https://media.kanjialive.com/rad_frames/kaori1.svg",
+        "https://media.kanjialive.com/rad_frames/kaori2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "1637",
+      "classic_nelson": "5188"
+    }
+  },
+  "jishoData": {
+    "query": "香",
+    "found": true,
+    "taughtIn": "lớp 4",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "859",
+    "strokeCount": 9,
+    "meaning": "hương, mùi, nước hoa",
+    "kunyomi": [
+      "か",
+      "かお.り",
+      "かお.る"
+    ],
+    "onyomi": [
+      "コウ",
+      "キョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "香",
+        "reading": "コウ",
+        "meaning": "hương"
+      },
+      {
+        "example": "香水",
+        "reading": "コウスイ",
+        "meaning": "nước hoa, hương thơm"
+      },
+      {
+        "example": "線香",
+        "reading": "センコウ",
+        "meaning": "cây nhang"
+      },
+      {
+        "example": "焼香",
+        "reading": "ショウコウ",
+        "meaning": "đốt (cúng) hương"
+      },
+      {
+        "example": "香",
+        "reading": "キョウ",
+        "meaning": "cây thương"
+      },
+      {
+        "example": "香車",
+        "reading": "キョウシャ",
+        "meaning": "cây thương"
+      },
+      {
+        "example": "異香",
+        "reading": "イキョウ",
+        "meaning": "hương thơm tuyệt vời"
+      },
+      {
+        "example": "茴香",
+        "reading": "ウイキョウ",
+        "meaning": "thì là (Foeniculum Vulgare)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "香",
+        "reading": "か",
+        "meaning": "mùi (đặc biệt là mùi thơm), hương thơm, hương thơm, hương thơm, nước hoa"
+      },
+      {
+        "example": "香り",
+        "reading": "かおり",
+        "meaning": "hương thơm, hương thơm, hương thơm, mùi thơm"
+      },
+      {
+        "example": "腸香",
+        "reading": "わたか",
+        "meaning": "Ischikauia steenackeri (loài cá chép)"
+      },
+      {
+        "example": "木の香",
+        "reading": "きのか",
+        "meaning": "mùi gỗ mới"
+      },
+      {
+        "example": "香り",
+        "reading": "かおり",
+        "meaning": "hương thơm, hương thơm, hương thơm, mùi thơm"
+      },
+      {
+        "example": "香りがする",
+        "reading": "かおりがする",
+        "meaning": "có mùi, có mùi, có mùi"
+      },
+      {
+        "example": "香る",
+        "reading": "かおる",
+        "meaning": "có mùi ngọt ngào, có mùi thơm"
+      }
+    ],
+    "radical": {
+      "symbol": "香",
+      "meaning": "hương thơm"
+    },
+    "parts": [
+      "日",
+      "禾",
+      "香"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39321_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09999.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9999.gif",
+    "uri": "https://jisho.org/search/%E9%A6%99%23kanji"
+  }
+}

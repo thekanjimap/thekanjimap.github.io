@@ -1,0 +1,43 @@
+{
+  "id": "齬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "齬",
+    "found": true,
+    "strokeCount": 22,
+    "meaning": "răng không đều",
+    "kunyomi": [],
+    "onyomi": [
+      "ゴ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "齟齬",
+        "reading": "ソゴ",
+        "meaning": "sự không nhất quán, sự bất hòa, sự xung đột, sự khác biệt, sự mâu thuẫn, sự thất bại, sự thất vọng"
+      },
+      {
+        "example": "言行齟齬",
+        "reading": "ゲンコウソゴ",
+        "meaning": "lời nói và hành động không nhất quán, không giữ đúng lời nói, không thực hành những gì mình thuyết giảng"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "齒",
+      "meaning": "răng, răng hàm"
+    },
+    "parts": [
+      "五",
+      "凵",
+      "口",
+      "止",
+      "歯",
+      "米"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40812_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f6c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f6c.gif",
+    "uri": "https://jisho.org/search/%E9%BD%AC%23kanji"
+  }
+}

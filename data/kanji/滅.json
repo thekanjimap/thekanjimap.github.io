@@ -1,0 +1,78 @@
+{
+  "id": "滅",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "滅",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1222",
+    "strokeCount": 13,
+    "meaning": "phá hủy, hủy hoại, lật đổ, diệt vong",
+    "kunyomi": [
+      "ほろ.びる",
+      "ほろ.ぶ",
+      "ほろ.ぼす"
+    ],
+    "onyomi": [
+      "メツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "滅亡",
+        "reading": "メツボウ",
+        "meaning": "sự sụp đổ, sự đổ nát, sự sụp đổ, sự phá hủy"
+      },
+      {
+        "example": "滅罪",
+        "reading": "メツザイ",
+        "meaning": "sự đền tội"
+      },
+      {
+        "example": "隠滅",
+        "reading": "インメツ",
+        "meaning": "phá hủy (đặc biệt là bằng chứng), trộm cắp, đàn áp, che giấu, che giấu"
+      },
+      {
+        "example": "衰滅",
+        "reading": "スイメツ",
+        "meaning": "sự suy tàn, sự suy sụp, sự suy sụp (ation)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "滅びる",
+        "reading": "ほろびる",
+        "meaning": "đi đến sự hủy hoại, đi xuống, rơi xuống, bị phá hủy, chết đi, tuyệt chủng, diệt vong"
+      },
+      {
+        "example": "滅ぶ",
+        "reading": "ほろぶ",
+        "meaning": "bị hủy hoại, bị chìm xuống, bị diệt vong, bị phá hủy"
+      },
+      {
+        "example": "滅ぼす",
+        "reading": "ほろぼす",
+        "meaning": "phá hủy, lật đổ, phá hủy, phá hoại"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "ノ",
+      "戈",
+      "汁",
+      "火"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28357_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ec5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ec5.gif",
+    "uri": "https://jisho.org/search/%E6%BB%85%23kanji"
+  }
+}

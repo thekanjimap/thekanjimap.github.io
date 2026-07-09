@@ -1,0 +1,56 @@
+{
+  "id": "翫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "翫",
+    "found": true,
+    "newspaperFrequencyRank": "2134",
+    "strokeCount": 15,
+    "meaning": "tận hưởng niềm vui, chơi nhạc cụ",
+    "kunyomi": [
+      "もてあそ.ぶ"
+    ],
+    "onyomi": [
+      "ガン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "玩具",
+        "reading": "ガング",
+        "meaning": "đồ chơi"
+      },
+      {
+        "example": "玩物",
+        "reading": "ガンブツ",
+        "meaning": "đồ chơi, đồ chơi"
+      },
+      {
+        "example": "賞玩",
+        "reading": "ショウガン",
+        "meaning": "sự đánh giá cao, sự ngưỡng mộ, sự thích thú"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "弄ぶ",
+        "reading": "もてあそぶ",
+        "meaning": "chơi với (một món đồ chơi, một mái tóc, v.v.), nghịch ngợm, đùa giỡn với (cảm xúc của một người, v.v.), đùa giỡn, làm điều gì đó theo ý mình, đánh giá cao"
+      }
+    ],
+    "radical": {
+      "symbol": "羽",
+      "meaning": "lông vũ"
+    },
+    "parts": [
+      "儿",
+      "元",
+      "冫",
+      "白",
+      "羽"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32747_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07feb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7feb.gif",
+    "uri": "https://jisho.org/search/%E7%BF%AB%23kanji"
+  }
+}

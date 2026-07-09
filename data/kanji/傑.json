@@ -1,0 +1,65 @@
+{
+  "id": "傑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "傑",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1926",
+    "strokeCount": 13,
+    "meaning": "sự vĩ đại, sự xuất sắc",
+    "kunyomi": [
+      "すぐ.れる"
+    ],
+    "onyomi": [
+      "ケツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "傑",
+        "reading": "ケツ",
+        "meaning": "hàng đầu (ví dụ: top 10), tốt nhất"
+      },
+      {
+        "example": "傑人",
+        "reading": "ケツジン",
+        "meaning": "người xuất sắc, người xuất sắc, người có năng lực cao"
+      },
+      {
+        "example": "豪傑",
+        "reading": "ゴウケツ",
+        "meaning": "anh hùng, người dũng cảm, người táo bạo, người vĩ đại, người phi thường"
+      },
+      {
+        "example": "英傑",
+        "reading": "エイケツ",
+        "meaning": "người vĩ đại, anh hùng, người chủ mưu, người phi thường"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "優れる",
+        "reading": "すぐれる",
+        "meaning": "tốt hơn (hơn), vượt trội hơn, vượt trội hơn, xuất sắc hơn"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "đàn ông, con người"
+    },
+    "parts": [
+      "化",
+      "夕",
+      "木",
+      "舛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20625_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05091.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5091.gif",
+    "uri": "https://jisho.org/search/%E5%82%91%23kanji"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "恍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "恍",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "không rõ ràng, già nua, ngu ngốc, trò đùa",
+    "kunyomi": [
+      "とぼ.ける",
+      "ほ.れる"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "恍惚",
+        "reading": "コウコツ",
+        "meaning": "trạng thái xuất thần, trạng thái say mê, trạng thái xuất thần, tuổi già"
+      },
+      {
+        "example": "恍惚状態",
+        "reading": "コウコツジョウタイ",
+        "meaning": "trạng thái ngây ngất, trạng thái sung sướng, trạng thái xuất thần, trạng thái mơ màng, chứng mất trí nhớ do tuổi già"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "惚ける",
+        "reading": "とぼける",
+        "meaning": "giả vờ ngu ngốc, giả vờ ngây thơ, làm bộ ngây thơ, làm bộ mặt ngơ ngác, làm trò ngốc nghếch, trở nên lẩn thẩn"
+      },
+      {
+        "example": "惚れる",
+        "reading": "ほれる",
+        "meaning": "yêu (với), yêu, trở nên say mê (với), bị thu hút (bởi), bị quyến rũ (bởi), bị quyến rũ (bởi), bị ấn tượng (bởi), ngưỡng mộ, quên đi chính mình, bị mê hoặc (bởi)"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "儿",
+      "尚",
+      "忙"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24653_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0604d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/604d.gif",
+    "uri": "https://jisho.org/search/%E6%81%8D%23kanji"
+  }
+}

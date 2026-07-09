@@ -1,0 +1,54 @@
+{
+  "id": "媚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "媚",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "tâng bốc, hài hước, tán tỉnh",
+    "kunyomi": [
+      "こ.びる"
+    ],
+    "onyomi": [
+      "ビ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "媚眼秋波",
+        "reading": "ビガンシュウハ",
+        "meaning": "ném một cái nhìn quyến rũ (vào một người đàn ông)"
+      },
+      {
+        "example": "媚笑",
+        "reading": "ビショウ",
+        "meaning": "nụ cười quyến rũ, lôi cuốn, nụ cười nhằm thu hút sự chú ý của một người đàn ông"
+      },
+      {
+        "example": "明媚",
+        "reading": "メイビ",
+        "meaning": "đẹp như tranh vẽ (phong cảnh), hoang sơ, đẹp đẽ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "媚びる",
+        "reading": "こびる",
+        "meaning": "tâng bốc, nịnh bợ (với), xu nịnh (với), tán tỉnh (với; một người đàn ông), để mắt (ở)"
+      }
+    ],
+    "radical": {
+      "symbol": "女",
+      "meaning": "phụ nữ, nữ"
+    },
+    "parts": [
+      "女",
+      "尸",
+      "目",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23194_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a9a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a9a.gif",
+    "uri": "https://jisho.org/search/%E5%AA%9A%23kanji"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "辷",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "辷",
+    "found": true,
+    "strokeCount": 5,
+    "meaning": "lướt, trượt băng, trượt, thi trượt, (kokuji)",
+    "kunyomi": [
+      "すべ.る",
+      "すべ.らす"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "滑る",
+        "reading": "すべる",
+        "meaning": "trượt, lướt, trượt băng, trượt tuyết, trượt, trượt, trơn trượt, thất bại (một kỳ thi), mất (một vị trí), bị giáng chức, đánh bom (khi kể chuyện cười), ngã bẹp"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "đi bộ"
+    },
+    "parts": [
+      "一",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36791_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08fb7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8fb7.gif",
+    "uri": "https://jisho.org/search/%E8%BE%B7%23kanji"
+  }
+}

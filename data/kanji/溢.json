@@ -1,0 +1,72 @@
+{
+  "id": "溢",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "溢",
+    "found": true,
+    "newspaperFrequencyRank": "2405",
+    "strokeCount": 13,
+    "meaning": "tràn, tràn, tràn",
+    "kunyomi": [
+      "こぼ.れる",
+      "あふ.れる",
+      "み.ちる"
+    ],
+    "onyomi": [
+      "イツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "溢乳",
+        "reading": "イツニュウ",
+        "meaning": "tiết sữa, tiết sữa, trào ngược sữa"
+      },
+      {
+        "example": "溢美",
+        "reading": "イツビ",
+        "meaning": "khen ngợi quá mức, khen ngợi không đáng có"
+      },
+      {
+        "example": "横溢",
+        "reading": "オウイツ",
+        "meaning": "tràn, ngập lụt"
+      },
+      {
+        "example": "活気横溢",
+        "reading": "カッキオウイツ",
+        "meaning": "tràn đầy sức sống (năng lượng), tinh thần phấn chấn, sôi nổi, sôi nổi"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "零れる",
+        "reading": "こぼれる",
+        "meaning": "tràn ra, rơi ra, tràn ra, nhìn xuyên qua, trở nên hữu hình (mặc dù bình thường là không), thoát ra (của một nụ cười, nước mắt, v.v.)"
+      },
+      {
+        "example": "溢れる",
+        "reading": "あふれる",
+        "meaning": "tràn ngập, tràn ngập, ngập lụt"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "ハ",
+      "尚",
+      "并",
+      "汁",
+      "皿"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28322_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ea2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ea2.gif",
+    "uri": "https://jisho.org/search/%E6%BA%A2%23kanji"
+  }
+}

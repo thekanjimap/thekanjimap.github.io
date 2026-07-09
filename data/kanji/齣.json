@@ -1,0 +1,63 @@
+{
+  "id": "齣",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "齣",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "một đoạn, phần",
+    "kunyomi": [
+      "こま"
+    ],
+    "onyomi": [
+      "シャク",
+      "シュツ",
+      "セキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "齣",
+        "reading": "セキ",
+        "meaning": "màn (trong một vở kịch Trung Quốc), cảnh, đoạn văn (đặc biệt trong tiểu thuyết thời Edo), đoạn văn, phần"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "齣",
+        "reading": "こま",
+        "meaning": "khung hình (ví dụ: phim, bảng trong truyện tranh, v.v.), cảnh, khối thời gian (ví dụ: lịch học)"
+      },
+      {
+        "example": "コマ送り",
+        "reading": "コマおくり",
+        "meaning": "phát lại từng khung hình, nâng cao khung hình, nâng cao từng khung hình, ổ đĩa phim (máy ảnh)"
+      },
+      {
+        "example": "１コマ",
+        "reading": "ひとコマ",
+        "meaning": "một cảnh, một khung hình, một cảnh quay, một phơi sáng, một ô, một bảng điều khiển (truyện tranh)"
+      },
+      {
+        "example": "一齣一齣",
+        "reading": "ひとこまひとこま",
+        "meaning": "từng khung hình, từng khung hình"
+      }
+    ],
+    "radical": {
+      "symbol": "齒",
+      "meaning": "răng, răng hàm"
+    },
+    "parts": [
+      "凵",
+      "勹",
+      "口",
+      "止",
+      "歯",
+      "米"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40803_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f63.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f63.gif",
+    "uri": "https://jisho.org/search/%E9%BD%A3%23kanji"
+  }
+}

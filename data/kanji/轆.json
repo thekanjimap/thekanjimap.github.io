@@ -1,0 +1,43 @@
+{
+  "id": "轆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "轆",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "ròng rọc, con lăn",
+    "kunyomi": [
+      "ころ"
+    ],
+    "onyomi": [
+      "ロク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "轆轤",
+        "reading": "ロクロ",
+        "meaning": "bánh xe thợ gốm, máy tiện, ròng rọc, kính chắn gió"
+      },
+      {
+        "example": "ろくろ首",
+        "reading": "ロクロクビ",
+        "meaning": "rokurokubi, người phụ nữ cổ dài, người quái dị (thường là phụ nữ) với chiếc cổ có thể giãn ra và co lại (trong văn hóa dân gian Nhật Bản)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "車",
+      "meaning": "xe đẩy, xe hơi"
+    },
+    "parts": [
+      "广",
+      "比",
+      "車",
+      "鹿"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36678_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f46.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f46.gif",
+    "uri": "https://jisho.org/search/%E8%BD%86%23kanji"
+  }
+}

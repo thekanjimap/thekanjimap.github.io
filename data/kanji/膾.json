@@ -1,0 +1,59 @@
+{
+  "id": "膾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "膾",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "gỏi cá sống",
+    "kunyomi": [
+      "なます"
+    ],
+    "onyomi": [
+      "カイ",
+      "ケ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "膾炙",
+        "reading": "カイシャ",
+        "meaning": "trở nên nổi tiếng, trở thành kiến thức phổ thông"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "膾",
+        "reading": "なます",
+        "meaning": "namasu, món cá sống và rau củ tẩm giấm"
+      },
+      {
+        "example": "菊花膾",
+        "reading": "きくかなます",
+        "meaning": "cánh hoa cúc luộc ngâm dấm"
+      },
+      {
+        "example": "菊膾",
+        "reading": "きくなます",
+        "meaning": "cánh hoa cúc luộc ngâm dấm"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "thịt"
+    },
+    "parts": [
+      "一",
+      "个",
+      "日",
+      "月",
+      "買"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33214_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081be.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81be.gif",
+    "uri": "https://jisho.org/search/%E8%86%BE%23kanji"
+  }
+}

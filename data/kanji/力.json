@@ -1,0 +1,422 @@
+{
+  "id": "力",
+  "kanjialiveData": {
+    "_id": "54317af2791eba5146ee4a84",
+    "_rev": "10-b203824c2d449e7b2094f1f453fbed88",
+    "rad_name_ja": "ちから",
+    "grade": 1,
+    "hint_group": 1,
+    "kunyomi": "chikara",
+    "meaning": "quyền lực, lực lượng",
+    "kstroke": 2,
+    "examples": [
+      {
+        "japanese": "体力（たいりょく）",
+        "meaning": {
+          "english": "sức mạnh thể chất"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chikara_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/chikara_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/chikara_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/chikara_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "能力（のうりょく）",
+        "meaning": {
+          "english": "khả năng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chikara_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/chikara_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/chikara_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/chikara_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "実力（じつりょく）",
+        "meaning": {
+          "english": "khả năng thực sự"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chikara_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/chikara_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/chikara_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/chikara_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "努力（どりょく）",
+        "meaning": {
+          "english": "nỗ lực"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chikara_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/chikara_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/chikara_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/chikara_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "暴力（ぼうりょく）",
+        "meaning": {
+          "english": "bạo lực"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chikara_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/chikara_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/chikara_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/chikara_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "権力（けんりょく）",
+        "meaning": {
+          "english": "(chính trị) quyền lực"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chikara_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/chikara_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/chikara_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/chikara_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "魅力（みりょく）",
+        "meaning": {
+          "english": "quyến rũ [n.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chikara_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/chikara_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/chikara_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/chikara_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "協力する（きょうりょくする）",
+        "meaning": {
+          "english": "hợp tác"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chikara_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/chikara_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/chikara_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/chikara_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "人力車（じんりきしゃ）",
+        "meaning": {
+          "english": "xe kéo"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chikara_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/chikara_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/chikara_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/chikara_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "力む（りきむ）",
+        "meaning": {
+          "english": "căng thẳng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chikara_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/chikara_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/chikara_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/chikara_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "力（ちから）",
+        "meaning": {
+          "english": "lực lượng [n.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chikara_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/chikara_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/chikara_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/chikara_06_k.mp3"
+        }
+      },
+      {
+        "japanese": "底力（そこぢから）",
+        "meaning": {
+          "english": "năng lượng tiềm ẩn, tiềm năng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chikara_06_l.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/chikara_06_l.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/chikara_06_l.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/chikara_06_l.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "ちから",
+    "ka_utf": "力",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=力",
+    "kname": "chikara",
+    "rad_order": 24,
+    "txt_books": [
+      {
+        "chapter": "4",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "11",
+        "txt_bk": "txtMimiFilm"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "18",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "11",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "20",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtLookLearn"
+      }
+    ],
+    "rad_name_search": [
+      "chikara"
+    ],
+    "rad_utf": "⼒",
+    "stroketimes": [
+      0.836,
+      2.658,
+      3.284916
+    ],
+    "kunyomi_ka_display": "ちから",
+    "dick": "2114",
+    "rad_name": "chikara",
+    "dicn": "715",
+    "mn_hint": "Please see the movie in the radical fields above.",
+    "rad_stroke": 2,
+    "onyomi_ja": "リョク、リキ",
+    "rad_meaning": "quyền lực",
+    "onyomi": "ryoku, riki",
+    "ka_id": "ka_445",
+    "onyomi_search": [
+      "ryoku",
+      "riki",
+      "ryoku, riki"
+    ],
+    "kunyomi_search": [
+      "chikara",
+      "chikara"
+    ],
+    "meaning_search": [
+      "power",
+      "force",
+      "power, force"
+    ],
+    "onyomi_ja_search": [
+      "リョク",
+      "リキ",
+      "リョク、リキ"
+    ],
+    "kunyomi_ja_search": [
+      "ちから",
+      "ちから"
+    ],
+    "rad_meaning_search": [
+      "power",
+      "power"
+    ],
+    "rad_name_ja_search": [
+      "ちから"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:4",
+      "ij:c4",
+      "mos",
+      "mos:11",
+      "mos:c11",
+      "bk",
+      "bk:4",
+      "bk:c4",
+      "gen",
+      "gen:18",
+      "gen:c18",
+      "ap",
+      "ap:20",
+      "ap:c20",
+      "kll",
+      "kll:4",
+      "kll:c4"
+    ],
+    "rad_name_file": "chikara",
+    "kanji": {
+      "character": "力",
+      "meaning": {
+        "english": "power, force"
+      },
+      "strokes": {
+        "count": 2,
+        "timings": [
+          0.836,
+          2.658,
+          3.284916
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/chikara_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/chikara_2.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "ryoku, riki",
+        "katakana": "リョク、リキ"
+      },
+      "kunyomi": {
+        "romaji": "chikara",
+        "hiragana": "ちから"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/chikara_2.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/chikara_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/chikara_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼒",
+      "strokes": 2,
+      "image": "https://media.kanjialive.com/radical_character/chikara.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "ちから",
+        "romaji": "chikara"
+      },
+      "meaning": {
+        "english": "quyền lực"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/chikara0.svg",
+        "https://media.kanjialive.com/rad_frames/chikara1.svg",
+        "https://media.kanjialive.com/rad_frames/chikara2.svg"
+      ]
+    },
+    "references": {
+      "grade": 1,
+      "kodansha": "2114",
+      "classic_nelson": "715"
+    }
+  },
+  "jishoData": {
+    "query": "力",
+    "found": true,
+    "taughtIn": "lớp 1",
+    "jlptLevel": "N4",
+    "newspaperFrequencyRank": "62",
+    "strokeCount": 2,
+    "meaning": "quyền lực,sức mạnh,mạnh mẽ,căng thẳng,chịu đựng,cố gắng",
+    "kunyomi": [
+      "ちから"
+    ],
+    "onyomi": [
+      "リョク",
+      "リキ",
+      "リイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "力",
+        "reading": "リョク",
+        "meaning": "sức mạnh, sức mạnh, sự thành thạo, khả năng"
+      },
+      {
+        "example": "力作",
+        "reading": "リキサク",
+        "meaning": "công việc cần cù, công việc cần nhiều nỗ lực, công việc xuất sắc, công việc vất vả, công sức, lao động"
+      },
+      {
+        "example": "水力",
+        "reading": "スイリョク",
+        "meaning": "thủy lực, điện nước"
+      },
+      {
+        "example": "威力",
+        "reading": "イリョク",
+        "meaning": "quyền lực, sức mạnh, uy quyền, ảnh hưởng"
+      },
+      {
+        "example": "力",
+        "reading": "リキ",
+        "meaning": "sức mạnh, sức mạnh, sự thành thạo, khả năng, sức mạnh của ... con người, sức mạnh của ... đàn ông"
+      },
+      {
+        "example": "力学",
+        "reading": "リキガク",
+        "meaning": "cơ học, động lực học"
+      },
+      {
+        "example": "地力",
+        "reading": "ジリキ",
+        "meaning": "tiềm năng, khả năng thực sự, sức mạnh của chính mình"
+      },
+      {
+        "example": "合力",
+        "reading": "ゴウリョク",
+        "meaning": "lực lượng kết quả, hỗ trợ, giúp đỡ, bố thí, bố thí, bố thí"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "力",
+        "reading": "ちから",
+        "meaning": "lực lượng, sức mạnh, có thể, Sức sống, Sức sống, năng lượng, Khả năng, có khả năng, trình độ, sức chứa, Giảng viên, Hiệu quả, hiệu ứng, cố gắng, Nỗ lực, Nỗ lực, Nỗ lực, quyền lực, thẩm quyền, Ảnh hưởng, văn phòng tốt, cơ quan, ủng hộ, Cứu giúp, viện trợ, hỗ trợ, nhấn mạnh, Nhấn mạnh, nghĩa là, tài nguyên"
+      },
+      {
+        "example": "力強い",
+        "reading": "ちからづよい",
+        "meaning": "mạnh mẽ, mạnh mẽ, mạnh mẽ, mạnh mẽ, yên tâm, khích lệ"
+      },
+      {
+        "example": "強い力",
+        "reading": "つよいちから",
+        "meaning": "tương tác mạnh, lực mạnh"
+      },
+      {
+        "example": "弱い力",
+        "reading": "よわいちから",
+        "meaning": "lực yếu, tương tác yếu"
+      }
+    ],
+    "radical": {
+      "symbol": "力",
+      "meaning": "quyền lực, lực lượng"
+    },
+    "parts": [
+      "力"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21147_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0529b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/529b.gif",
+    "uri": "https://jisho.org/search/%E5%8A%9B%23kanji"
+  }
+}

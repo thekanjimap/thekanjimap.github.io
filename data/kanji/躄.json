@@ -1,0 +1,55 @@
+{
+  "id": "躄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "躄",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "bò, làm tê liệt",
+    "kunyomi": [
+      "いざ.る",
+      "いざ.り"
+    ],
+    "onyomi": [
+      "ヘキ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "躄る",
+        "reading": "いざる",
+        "meaning": "lê bước (bằng mông hoặc đầu gối), bò, dịch chuyển vị trí (của một đồ vật)"
+      },
+      {
+        "example": "躄",
+        "reading": "いざり",
+        "meaning": "bò trên mặt đất, quỳ gối, què quặt"
+      },
+      {
+        "example": "躄魚",
+        "reading": "いざりうお",
+        "meaning": "cá ếch (bất kỳ loài cá nào thuộc họ Antennariidae, đặc biệt là cá ếch có vân, Antennarius striatus)"
+      }
+    ],
+    "radical": {
+      "symbol": "足",
+      "forms": [
+        "⻊"
+      ],
+      "meaning": "chân"
+    },
+    "parts": [
+      "十",
+      "口",
+      "尸",
+      "止",
+      "立",
+      "足",
+      "辛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36484_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e84.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e84.gif",
+    "uri": "https://jisho.org/search/%E8%BA%84%23kanji"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "鮨",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鮨",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "sushi, cơm dày dạn",
+    "kunyomi": [
+      "すし"
+    ],
+    "onyomi": [
+      "シ",
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "にぎり寿司",
+        "reading": "ニギリズシ",
+        "meaning": "nigirizushi, cơm dấm ép tay phủ hải sản"
+      },
+      {
+        "example": "回転寿司",
+        "reading": "カイテンズシ",
+        "meaning": "sushi băng chuyền, sushi vòng quay, sushi tàu, kaiten-zushi"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "寿司",
+        "reading": "すし",
+        "meaning": "sushi, các món ăn được làm từ cơm dấm kết hợp với cá, rau, trứng, v.v."
+      },
+      {
+        "example": "すし酢",
+        "reading": "すしず",
+        "meaning": "giấm dày dạn dùng để chế biến cơm sushi"
+      },
+      {
+        "example": "回転寿司",
+        "reading": "かいてんずし",
+        "meaning": "sushi băng chuyền, sushi vòng quay, sushi tàu, kaiten-zushi"
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "cá"
+    },
+    "parts": [
+      "匕",
+      "日",
+      "杰",
+      "田",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39848_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ba8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ba8.gif",
+    "uri": "https://jisho.org/search/%E9%AE%A8%23kanji"
+  }
+}

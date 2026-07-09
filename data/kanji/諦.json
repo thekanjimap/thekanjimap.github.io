@@ -1,0 +1,84 @@
+{
+  "id": "諦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "諦",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "newspaperFrequencyRank": "2457",
+    "strokeCount": 16,
+    "meaning": "sự thật, sự rõ ràng, từ bỏ, từ bỏ",
+    "kunyomi": [
+      "あきら.める",
+      "つまびらか",
+      "まこと"
+    ],
+    "onyomi": [
+      "テイ",
+      "タイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "諦観",
+        "reading": "テイカン",
+        "meaning": "cái nhìn sâu sắc rõ ràng, sự cam chịu (đối với số phận của một người), sự chấp nhận"
+      },
+      {
+        "example": "諦念",
+        "reading": "テイネン",
+        "meaning": "sự hiểu biết và chấp nhận, sự thức tỉnh tâm linh, một trái tim hiểu được sự thật, (cảm giác) cam chịu"
+      },
+      {
+        "example": "妙諦",
+        "reading": "ミョウテイ",
+        "meaning": "sự thật đáng ngạc nhiên, nguyên tắc cơ bản, chìa khóa (để hiểu biết)"
+      },
+      {
+        "example": "要諦",
+        "reading": "ヨウテイ",
+        "meaning": "(nhất) điểm quan trọng, điểm mấu chốt, mấu chốt, bí mật, bản chất"
+      },
+      {
+        "example": "諦",
+        "reading": "タイ",
+        "meaning": "satya, sự thật"
+      },
+      {
+        "example": "空諦",
+        "reading": "クウタイ",
+        "meaning": "chân lý về tính không (cho rằng mọi thứ đều trống rỗng)"
+      },
+      {
+        "example": "道諦",
+        "reading": "ドウタイ",
+        "meaning": "sự thật về con đường chấm dứt đau khổ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "諦める",
+        "reading": "あきらめる",
+        "meaning": "từ bỏ, từ bỏ (hy vọng, kế hoạch), cam chịu (với)"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "lời nói"
+    },
+    "parts": [
+      "亠",
+      "冖",
+      "巾",
+      "并",
+      "立",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35558_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ae6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ae6.gif",
+    "uri": "https://jisho.org/search/%E8%AB%A6%23kanji"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "尋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "尋",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1398",
+    "strokeCount": 12,
+    "meaning": "hỏi thăm, tìm hiểu, tìm kiếm",
+    "kunyomi": [
+      "たず.ねる",
+      "ひろ"
+    ],
+    "onyomi": [
+      "ジン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "尋",
+        "reading": "ヒロ",
+        "meaning": "hiểu được"
+      },
+      {
+        "example": "尋問",
+        "reading": "ジンモン",
+        "meaning": "thẩm vấn, thẩm vấn, thẩm vấn (nhân chứng)"
+      },
+      {
+        "example": "討尋",
+        "reading": "トウジン",
+        "meaning": "điều tra tỉ mỉ, điều tra kỹ lưỡng, điều tra kỹ lưỡng"
+      },
+      {
+        "example": "審尋",
+        "reading": "シンジン",
+        "meaning": "điều trần, thẩm vấn"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "尋ねる",
+        "reading": "たずねる",
+        "meaning": "hỏi, hỏi thăm, dò hỏi, tìm kiếm, tìm hiểu, điều tra"
+      },
+      {
+        "example": "尋",
+        "reading": "ひろ",
+        "meaning": "hiểu được"
+      },
+      {
+        "example": "八尋",
+        "reading": "やひろ",
+        "meaning": "chiều dài lớn, kích thước lớn"
+      }
+    ],
+    "radical": {
+      "symbol": "寸",
+      "meaning": "ngón tay cái, inch"
+    },
+    "parts": [
+      "ヨ",
+      "口",
+      "寸",
+      "工"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23563_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c0b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c0b.gif",
+    "uri": "https://jisho.org/search/%E5%B0%8B%23kanji"
+  }
+}

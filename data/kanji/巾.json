@@ -1,0 +1,56 @@
+{
+  "id": "巾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "巾",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "strokeCount": 3,
+    "meaning": "khăn, cuộn treo, chiều rộng, gốc vải (số 50)",
+    "kunyomi": [
+      "おお.い",
+      "ちきり",
+      "きれ"
+    ],
+    "onyomi": [
+      "キン",
+      "フク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "巾",
+        "reading": "キン",
+        "meaning": "khăn ăn, vải"
+      },
+      {
+        "example": "巾単",
+        "reading": "キンタン",
+        "meaning": "bất lực"
+      },
+      {
+        "example": "ボロ雑巾",
+        "reading": "ボロゾウキン",
+        "meaning": "giẻ rách bẩn"
+      },
+      {
+        "example": "三角巾",
+        "reading": "サンカクキン",
+        "meaning": "băng hình tam giác, dây đeo, khăn hình tam giác, khăn rằn, khăn rằn"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "巾",
+      "meaning": "khăn xếp, khăn quàng cổ"
+    },
+    "parts": [
+      "冂",
+      "巾",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24062_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05dfe.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5dfe.gif",
+    "uri": "https://jisho.org/search/%E5%B7%BE%23kanji"
+  }
+}

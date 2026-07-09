@@ -1,0 +1,95 @@
+{
+  "id": "仇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "仇",
+    "found": true,
+    "newspaperFrequencyRank": "2322",
+    "strokeCount": 4,
+    "meaning": "kẻ thù, kẻ thù, sự trả thù, mối hận thù, mối thù",
+    "kunyomi": [
+      "あだ",
+      "あた",
+      "かたき",
+      "つれあい"
+    ],
+    "onyomi": [
+      "キュウ",
+      "グ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "仇讎",
+        "reading": "キュウシュウ",
+        "meaning": "trả thù, kẻ thù cay đắng"
+      },
+      {
+        "example": "仇敵",
+        "reading": "キュウテキ",
+        "meaning": "kẻ thù cay đắng"
+      },
+      {
+        "example": "報仇",
+        "reading": "ホウキュウ",
+        "meaning": "trả thù, trả thù"
+      },
+      {
+        "example": "復仇",
+        "reading": "フッキュウ",
+        "meaning": "trả thù, trả thù"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "仇",
+        "reading": "あだ",
+        "meaning": "kẻ thù, kẻ thù, đối thủ, oán giận, thù hận, mối hận thù, tổn hại, tổn thương"
+      },
+      {
+        "example": "あだ名",
+        "reading": "あだな",
+        "meaning": "biệt hiệu"
+      },
+      {
+        "example": "情けが仇",
+        "reading": "なさけがあだ",
+        "meaning": "Sự tha thứ làm cho người phạm tội"
+      },
+      {
+        "example": "仇",
+        "reading": "あだ",
+        "meaning": "kẻ thù, kẻ thù, đối thủ, oán giận, thù hận, mối hận thù, tổn hại, tổn thương"
+      },
+      {
+        "example": "仇する",
+        "reading": "あだする",
+        "meaning": "làm tổn hại, làm tổn thương, làm tổn hại, xâm chiếm, tấn công, chống lại, chống lại"
+      },
+      {
+        "example": "敵",
+        "reading": "かたき",
+        "meaning": "đối thủ, đối thủ, đối thủ, đối thủ, kẻ thù (đặc biệt là kẻ có mối thù lâu đời), kẻ thù, sự trả thù, vợ/chồng"
+      },
+      {
+        "example": "敵討ち",
+        "reading": "かたきうち",
+        "meaning": "báo thù, báo thù, trả thù"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "đàn ông, con người"
+    },
+    "parts": [
+      "九",
+      "化"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20167_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04ec7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4ec7.gif",
+    "uri": "https://jisho.org/search/%E4%BB%87%23kanji"
+  }
+}

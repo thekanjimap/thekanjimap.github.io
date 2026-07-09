@@ -1,0 +1,66 @@
+{
+  "id": "櫓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "櫓",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "mái chèo, tháp",
+    "kunyomi": [
+      "やぐら",
+      "おおだて"
+    ],
+    "onyomi": [
+      "ロ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "櫓",
+        "reading": "ロ",
+        "meaning": "Mái chèo kiểu Nhật (mái chèo được gắn vào đuôi thuyền bằng khóa mái chèo truyền thống)"
+      },
+      {
+        "example": "櫓櫂",
+        "reading": "ロカイ",
+        "meaning": "mái chèo và mái chèo"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "櫓",
+        "reading": "やぐら",
+        "meaning": "tháp pháo, tháp canh, sân khấu cao bằng gỗ, giàn giáo, khung gỗ (của kotatsu), yagura, pháo đài, kho vũ khí"
+      },
+      {
+        "example": "櫓太鼓",
+        "reading": "やぐらだいこ",
+        "meaning": "trống thông báo khai mạc màn biểu diễn hoặc bắt đầu trận đấu, âm thanh do trống đó tạo ra"
+      },
+      {
+        "example": "見櫓",
+        "reading": "みせやぐら",
+        "meaning": "tháp quan sát, tháp trinh sát"
+      },
+      {
+        "example": "炬燵やぐら",
+        "reading": "こたつやぐら",
+        "meaning": "khung gỗ lưới vuông cho kotatsu"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "日",
+      "木",
+      "杰",
+      "田",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27347_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ad3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ad3.gif",
+    "uri": "https://jisho.org/search/%E6%AB%93%23kanji"
+  }
+}

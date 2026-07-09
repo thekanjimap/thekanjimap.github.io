@@ -1,0 +1,66 @@
+{
+  "id": "躍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "躍",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "900",
+    "strokeCount": 21,
+    "meaning": "nhảy, nhảy, bỏ qua",
+    "kunyomi": [
+      "おど.る"
+    ],
+    "onyomi": [
+      "ヤク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "躍動",
+        "reading": "ヤクドウ",
+        "meaning": "chuyển động sống động, rộn ràng"
+      },
+      {
+        "example": "躍進",
+        "reading": "ヤクシン",
+        "meaning": "tiến bộ nhanh chóng, tiến bộ vượt bậc, lao tới, lao tới, tấn công dữ dội"
+      },
+      {
+        "example": "勇躍",
+        "reading": "ユウヤク",
+        "meaning": "lấy lòng, có tinh thần cao"
+      },
+      {
+        "example": "時間跳躍",
+        "reading": "ジカンチョウヤク",
+        "meaning": "du hành thời gian, vượt thời gian"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "躍る",
+        "reading": "おどる",
+        "meaning": "nhảy lên, nhảy lên, nhảy lên, di chuyển xung quanh, nảy lên nhảy xuống, đập thình thịch (ví dụ như với sự phấn khích), rung động, lộn xộn (chữ viết tay), lộn xộn"
+      }
+    ],
+    "radical": {
+      "symbol": "足",
+      "forms": [
+        "⻊"
+      ],
+      "meaning": "chân"
+    },
+    "parts": [
+      "ヨ",
+      "口",
+      "止",
+      "足",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36493_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e8d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e8d.gif",
+    "uri": "https://jisho.org/search/%E8%BA%8D%23kanji"
+  }
+}

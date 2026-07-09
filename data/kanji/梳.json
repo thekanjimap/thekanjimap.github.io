@@ -1,0 +1,73 @@
+{
+  "id": "梳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "梳",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "lược (tóc)",
+    "kunyomi": [
+      "と.く",
+      "と.かす",
+      "す.く",
+      "けず.る",
+      "くしけず.る"
+    ],
+    "onyomi": [
+      "ソ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "梳綿機",
+        "reading": "ソメンキ",
+        "meaning": "máy chải thô"
+      },
+      {
+        "example": "梳毛",
+        "reading": "ソモウ",
+        "meaning": "len chải kỹ (sợi)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "解く",
+        "reading": "とく",
+        "meaning": "cởi trói, cởi trói, cởi trói, cởi trói, cởi trói, cởi gói, tháo, tháo, giải quyết, giải quyết, trả lời, xua tan (hiểu lầm, v.v.), làm sáng tỏ, loại bỏ (nghi ngờ), xoa dịu, giải tán (một hợp đồng), hủy bỏ, loại bỏ (một lệnh cấm), dỡ bỏ (một lệnh cấm), nâng cao (một cuộc bao vây), giải phóng (khỏi nhiệm vụ), giải tỏa, gạt bỏ, chải (ra), chải thẻ, để gỡ rối (tóc)"
+      },
+      {
+        "example": "梳かす",
+        "reading": "とかす",
+        "meaning": "chải, chải, gỡ rối, gỡ rối"
+      },
+      {
+        "example": "梳く",
+        "reading": "すく",
+        "meaning": "chải (ra), chải, gỡ rối (tóc), làm mỏng (tóc), giảm độ dày"
+      },
+      {
+        "example": "梳る",
+        "reading": "くしけずる",
+        "meaning": "chải đầu"
+      },
+      {
+        "example": "梳る",
+        "reading": "くしけずる",
+        "meaning": "chải đầu"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "亠",
+      "厶",
+      "川",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26803_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068b3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68b3.gif",
+    "uri": "https://jisho.org/search/%E6%A2%B3%23kanji"
+  }
+}

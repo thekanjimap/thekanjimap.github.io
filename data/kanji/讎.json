@@ -1,0 +1,45 @@
+{
+  "id": "讎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "讎",
+    "found": true,
+    "strokeCount": 23,
+    "meaning": "kẻ thù, trả thù",
+    "kunyomi": [
+      "あだ",
+      "かたき"
+    ],
+    "onyomi": [
+      "シュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "仇讎",
+        "reading": "キュウシュウ",
+        "meaning": "trả thù, kẻ thù cay đắng"
+      },
+      {
+        "example": "怨讐",
+        "reading": "オンシュウ",
+        "meaning": "sự oán hận, sự thù hận, sự thù hận, kẻ thù ghét, kẻ thù oán giận"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "lời nói"
+    },
+    "parts": [
+      "言",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35726_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b8e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b8e.gif",
+    "uri": "https://jisho.org/search/%E8%AE%8E%23kanji"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "慾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "慾",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "sự tham lam, sự tham lam, sự đam mê, sự ham muốn, sự khao khát",
+    "kunyomi": [],
+    "onyomi": [
+      "ヨク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "欲",
+        "reading": "ヨク",
+        "meaning": "tham lam, ham muốn, ham muốn, ham muốn, đói khát, hám lợi, ham muốn"
+      },
+      {
+        "example": "欲望",
+        "reading": "ヨクボウ",
+        "meaning": "ham muốn, sự thèm ăn, ham muốn"
+      },
+      {
+        "example": "私欲",
+        "reading": "シヨク",
+        "meaning": "tư lợi, ham muốn ích kỷ"
+      },
+      {
+        "example": "制欲",
+        "reading": "セイヨク",
+        "meaning": "Kiểm soát đam mê, kiểm soát sự thèm ăn"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "ハ",
+      "个",
+      "口",
+      "心",
+      "欠",
+      "谷"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24958_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0617e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/617e.gif",
+    "uri": "https://jisho.org/search/%E6%85%BE%23kanji"
+  }
+}

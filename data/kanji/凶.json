@@ -1,0 +1,53 @@
+{
+  "id": "凶",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "凶",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1673",
+    "strokeCount": 4,
+    "meaning": "nhân vật phản diện, ác quỷ, xui xẻo, thảm họa",
+    "kunyomi": [],
+    "onyomi": [
+      "キョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "凶",
+        "reading": "キョウ",
+        "meaning": "xui xẻo, xui xẻo, xui xẻo"
+      },
+      {
+        "example": "凶悪",
+        "reading": "キョウアク",
+        "meaning": "tàn bạo, tàn ác, hung ác, hung ác, hung ác"
+      },
+      {
+        "example": "元凶",
+        "reading": "ゲンキョウ",
+        "meaning": "kẻ cầm đầu, thủ phạm chính, nguyên nhân chính, nguồn gốc"
+      },
+      {
+        "example": "大凶",
+        "reading": "ダイキョウ",
+        "meaning": "cực kỳ xui xẻo, cực kỳ xui xẻo"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "凵",
+      "meaning": "hộp đựng, mở miệng"
+    },
+    "parts": [
+      "ノ",
+      "丶",
+      "凵"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20982_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051f6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51f6.gif",
+    "uri": "https://jisho.org/search/%E5%87%B6%23kanji"
+  }
+}

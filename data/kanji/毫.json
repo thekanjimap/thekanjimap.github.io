@@ -1,0 +1,61 @@
+{
+  "id": "毫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "毫",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "tóc mịn, bàn chải, không hề",
+    "kunyomi": [
+      "ごう.も",
+      "すこし"
+    ],
+    "onyomi": [
+      "ゴウ",
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "毫光",
+        "reading": "ゴウコウ",
+        "meaning": "ánh sáng được cho là phát ra từ một sợi tóc hoặc búi tóc nào đó trên trán của Đức Phật, tia sáng từ chùm tóc trắng (giữa hai lông mày)"
+      },
+      {
+        "example": "毫末",
+        "reading": "ゴウマツ",
+        "meaning": "số tiền nhỏ"
+      },
+      {
+        "example": "揮毫",
+        "reading": "キゴウ",
+        "meaning": "viết (đặc biệt là thư pháp theo yêu cầu), vẽ, hội họa"
+      },
+      {
+        "example": "白毫",
+        "reading": "ビャクゴウ",
+        "meaning": "lọn tóc trắng trên trán Đức Phật, tượng trưng bằng viên đá quý màu trắng trên tượng Phật, bình đựng tro"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "毫も",
+        "reading": "ごうも",
+        "meaning": "(không) ít nhất, (không) chút nào"
+      }
+    ],
+    "radical": {
+      "symbol": "毛",
+      "meaning": "lông, tóc"
+    },
+    "parts": [
+      "亠",
+      "冖",
+      "口",
+      "毛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27627_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06beb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6beb.gif",
+    "uri": "https://jisho.org/search/%E6%AF%AB%23kanji"
+  }
+}

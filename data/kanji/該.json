@@ -1,0 +1,53 @@
+{
+  "id": "該",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "該",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1648",
+    "strokeCount": 13,
+    "meaning": "đã nêu ở trên, đã nói, cụ thể",
+    "kunyomi": [],
+    "onyomi": [
+      "ガイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "該",
+        "reading": "ガイ",
+        "meaning": "đã nói, vấn đề đang được đề cập"
+      },
+      {
+        "example": "該当",
+        "reading": "ガイトウ",
+        "meaning": "tương ứng với, có thể áp dụng được, có liên quan đến, thuộc, thuộc, đáp ứng (yêu cầu), đáp ứng (điều kiện), đủ điều kiện cho"
+      },
+      {
+        "example": "当該",
+        "reading": "トウガイ",
+        "meaning": "thích hợp (ví dụ: cơ quan có thẩm quyền), có liên quan, có liên quan, đã nói, đã nói ở trên, có thẩm quyền, có thể áp dụng, tương ứng"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "lời nói"
+    },
+    "parts": [
+      "ノ",
+      "丶",
+      "亠",
+      "人",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35442_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a72.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a72.gif",
+    "uri": "https://jisho.org/search/%E8%A9%B2%23kanji"
+  }
+}

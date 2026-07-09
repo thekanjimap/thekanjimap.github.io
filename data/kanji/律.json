@@ -1,0 +1,350 @@
+{
+  "id": "律",
+  "kanjialiveData": {
+    "_id": "54317af8791eba5146ee4b02",
+    "_rev": "11-69f90a1a7501d6038b84bed97ac74790",
+    "rad_name_ja": "ぎょうにんべん",
+    "grade": 6,
+    "hint_group": 1,
+    "kunyomi": "Không có",
+    "meaning": "luật, nhịp điệu, quy định",
+    "kstroke": 9,
+    "examples": [
+      {
+        "japanese": "法律（ほうりつ）",
+        "meaning": {
+          "english": "pháp luật"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)ritsu_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(hou)ritsu_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(hou)ritsu_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(hou)ritsu_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "規律（きりつ）",
+        "meaning": {
+          "english": "quy tắc"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)ritsu_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(hou)ritsu_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(hou)ritsu_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(hou)ritsu_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "一律（いちりつ）",
+        "meaning": {
+          "english": "sự đồng đều, đơn điệu"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)ritsu_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(hou)ritsu_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(hou)ritsu_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(hou)ritsu_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "旋律（せんりつ）",
+        "meaning": {
+          "english": "giai điệu"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)ritsu_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(hou)ritsu_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(hou)ritsu_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(hou)ritsu_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "不文律（ふぶんりつ）",
+        "meaning": {
+          "english": "luật bất thành văn"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)ritsu_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(hou)ritsu_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(hou)ritsu_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(hou)ritsu_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "自律神経（じりつしんけい）",
+        "meaning": {
+          "english": "dây thần kinh tự chủ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)ritsu_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(hou)ritsu_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(hou)ritsu_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(hou)ritsu_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "調律する（ちょうりつする）",
+        "meaning": {
+          "english": "giai điệu (nhạc cụ)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)ritsu_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(hou)ritsu_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(hou)ritsu_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(hou)ritsu_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "律儀な（りちぎな）",
+        "meaning": {
+          "english": "tận tâm"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(hou)ritsu_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(hou)ritsu_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(hou)ritsu_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(hou)ritsu_06_h.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "律",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=律",
+    "rad_name_search": [
+      "gyouninben"
+    ],
+    "rad_order": 70,
+    "txt_books": [
+      {
+        "chapter": "9",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "25",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "chapter": "11",
+        "txt_bk": "jtr"
+      }
+    ],
+    "kname": "(hou)ritsu",
+    "rad_utf": "⼻",
+    "stroketimes": [
+      0,
+      1.2,
+      2.533333,
+      3.666667,
+      6.066667,
+      7.2,
+      8.666667,
+      9.933333,
+      11.466667,
+      14.6
+    ],
+    "kunyomi_ka_display": "Không có",
+    "dick": "268",
+    "rad_name": "gyouninben",
+    "dicn": "1608",
+    "mn_hint": "Official with brush 聿 going 彳 from place to place to write laws on notice boards.",
+    "rad_stroke": 3,
+    "onyomi_ja": "リツ、リチ",
+    "rad_meaning": "bước, sải bước, đường phố, đi",
+    "onyomi": "ritsu, richi",
+    "ka_id": "ka_559",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "ritsu",
+      "richi",
+      "ritsu, richi"
+    ],
+    "kunyomi_search": [
+      "Không có",
+      "Không có"
+    ],
+    "meaning_search": [
+      "law",
+      "rhythm",
+      "regulation",
+      "law, rhythm, regulation"
+    ],
+    "onyomi_ja_search": [
+      "リツ",
+      "リチ",
+      "リツ、リチ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "step",
+      "stride",
+      "street",
+      "to go",
+      "to",
+      "go",
+      "step, stride, street, to go"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "ぎょうにんべん"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:9",
+      "ij:c9",
+      "kll",
+      "kll:25",
+      "kll:c25",
+      "jtr",
+      "jtr:11",
+      "jtr:c11"
+    ],
+    "rad_name_file": "gyouninben",
+    "kanji": {
+      "character": "律",
+      "meaning": {
+        "english": "law, rhythm, regulation"
+      },
+      "strokes": {
+        "count": 9,
+        "timings": [
+          0,
+          1.2,
+          2.533333,
+          3.666667,
+          6.066667,
+          7.2,
+          8.666667,
+          9.933333,
+          11.466667,
+          14.6
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/(hou)ritsu_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/(hou)ritsu_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/(hou)ritsu_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/(hou)ritsu_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/(hou)ritsu_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/(hou)ritsu_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/(hou)ritsu_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/(hou)ritsu_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/(hou)ritsu_9.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "ritsu, richi",
+        "katakana": "リツ、リチ"
+      },
+      "kunyomi": {
+        "romaji": "Không có",
+        "hiragana": "Không có"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/(hou)ritsu_9.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/(hou)ritsu_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/(hou)ritsu_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼻",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/gyouninben.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "ぎょうにんべん",
+        "romaji": "gyouninben"
+      },
+      "meaning": {
+        "english": "bước, sải bước, đường phố, đi"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/gyouninben0.svg",
+        "https://media.kanjialive.com/rad_frames/gyouninben1.svg",
+        "https://media.kanjialive.com/rad_frames/gyouninben2.svg"
+      ]
+    },
+    "references": {
+      "grade": 6,
+      "kodansha": "268",
+      "classic_nelson": "1608"
+    }
+  },
+  "jishoData": {
+    "query": "律",
+    "found": true,
+    "taughtIn": "lớp 6",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "992",
+    "strokeCount": 9,
+    "meaning": "nhịp điệu, pháp luật, quy định, thước đo, điều khiển",
+    "kunyomi": [],
+    "onyomi": [
+      "リツ",
+      "リチ",
+      "レツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "律",
+        "reading": "リツ",
+        "meaning": "luật (đặc biệt là bộ luật hình sự Đông Á cổ đại), quy định, vinaya (quy tắc cho cộng đồng tu viện), Ritsu (trường phái Phật giáo), lüshi (phong cách thơ Trung Quốc), cao độ (âm nhạc), sáu nốt số lẻ của thang âm cổ, thang âm gagaku bảy âm của Nhật Bản, tương tự như chế độ Dorian (tương ứng với: re, mi, fa, so, la, ti, do), bước (trong âm nhạc truyền thống phương Đông, tương ứng với một nửa cung phương Tây)"
+      },
+      {
+        "example": "律令",
+        "reading": "リツリョウ",
+        "meaning": "ritsuryō, bộ luật hình sự, hành chính và dân sự thời Nara và Heian dựa trên mô hình Trung Quốc"
+      },
+      {
+        "example": "一律",
+        "reading": "イチリツ",
+        "meaning": "đồng đều, đồng đều, toàn diện, bằng nhau"
+      },
+      {
+        "example": "自律",
+        "reading": "ジリツ",
+        "meaning": "tự chủ (trong đạo đức Kant), tự chủ"
+      },
+      {
+        "example": "律儀",
+        "reading": "リチギ",
+        "meaning": "ngay thẳng, trung thực, trung thực, tận tâm, chân thành"
+      },
+      {
+        "example": "律義者",
+        "reading": "リチギモノ",
+        "meaning": "người trung thực, người có lương tâm"
+      },
+      {
+        "example": "呂律",
+        "reading": "ロレツ",
+        "meaning": "sự phát âm"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "彳",
+      "meaning": "bước"
+    },
+    "parts": [
+      "彳",
+      "聿"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24459_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f8b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f8b.gif",
+    "uri": "https://jisho.org/search/%E5%BE%8B%23kanji"
+  }
+}

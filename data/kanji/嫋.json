@@ -1,0 +1,47 @@
+{
+  "id": "嫋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嫋",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "mềm mại, dẻo dai, mảnh dẻ, mảnh mai",
+    "kunyomi": [
+      "なよ.やかな",
+      "しなや.か",
+      "たお.やか"
+    ],
+    "onyomi": [
+      "ジョウ",
+      "ジャク",
+      "デキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "余韻嫋々",
+        "reading": "ヨインジョウジョウ",
+        "meaning": "(âm thanh) vang vọng trong không khí, những âm thanh kéo dài (của tiếng chuông, v.v.)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "嫋やか",
+        "reading": "たおやか",
+        "meaning": "duyên dáng, yểu điệu, uyển chuyển, mềm mại và dịu dàng"
+      }
+    ],
+    "radical": {
+      "symbol": "女",
+      "meaning": "phụ nữ, nữ"
+    },
+    "parts": [
+      "冫",
+      "女",
+      "弓"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23243_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05acb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5acb.gif",
+    "uri": "https://jisho.org/search/%E5%AB%8B%23kanji"
+  }
+}

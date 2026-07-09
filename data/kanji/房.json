@@ -1,0 +1,76 @@
+{
+  "id": "房",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "房",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "808",
+    "strokeCount": 8,
+    "meaning": "tua, búi, tua, chùm, khóa (tóc), đoạn (màu cam), nhà, phòng",
+    "kunyomi": [
+      "ふさ"
+    ],
+    "onyomi": [
+      "ボウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "房",
+        "reading": "ボウ",
+        "meaning": "buồng, phòng, phòng giam (nhà tù), nhĩ, nhà của một nhà sư, tu sĩ, chòm sao \"phòng\" của Trung Quốc (một trong 28 dinh thự)"
+      },
+      {
+        "example": "坊主",
+        "reading": "ボウズ",
+        "meaning": "Tu sĩ phật giáo, tu sĩ, tóc cắt sát, cắt húi cua, người đầu trọc, trai, sonny, trai, không bắt được gì, thẻ 20 tháng 8"
+      },
+      {
+        "example": "書房",
+        "reading": "ショボウ",
+        "meaning": "học, thư viện, hiệu sách, hiệu sách, công ty xuất bản"
+      },
+      {
+        "example": "工房",
+        "reading": "コウボウ",
+        "meaning": "xưởng, studio, xưởng may"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "房",
+        "reading": "ふさ",
+        "meaning": "búi (tóc, chỉ, v.v.), tua, tua, chùm (nho, chuối, v.v.), chùm (hoa), đoạn (quả quýt, v.v.), phần"
+      },
+      {
+        "example": "房尾巻猿",
+        "reading": "ふさおまきざる",
+        "meaning": "khỉ mũ màu nâu, khỉ mũ chần (Cebus apella)"
+      },
+      {
+        "example": "一房",
+        "reading": "ひとふさ",
+        "meaning": "một chùm (tóc, chỉ, v.v.), một chùm (nho, chuối, v.v.), một chùm (ví dụ: hoa), một đoạn (quả quýt, v.v.), một phần"
+      }
+    ],
+    "radical": {
+      "symbol": "戶",
+      "forms": [
+        "户",
+        "戸"
+      ],
+      "meaning": "cửa, nhà"
+    },
+    "parts": [
+      "一",
+      "尸",
+      "戸",
+      "方"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25151_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0623f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/623f.gif",
+    "uri": "https://jisho.org/search/%E6%88%BF%23kanji"
+  }
+}

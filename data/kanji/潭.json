@@ -1,0 +1,56 @@
+{
+  "id": "潭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "潭",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "nước sâu, sâu",
+    "kunyomi": [
+      "ふち",
+      "ふか.い"
+    ],
+    "onyomi": [
+      "タン",
+      "ジン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "古潭",
+        "reading": "コタン",
+        "meaning": "vực thẳm cũ"
+      },
+      {
+        "example": "深潭",
+        "reading": "シンタン",
+        "meaning": "vực thẳm"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "淵",
+        "reading": "ふち",
+        "meaning": "vực sâu, nước sâu, vực thẳm, độ sâu (ví dụ: tuyệt vọng), sự kìm kẹp (ví dụ: cái chết)"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "十",
+      "日",
+      "曰",
+      "汁",
+      "西"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28525_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f6d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f6d.gif",
+    "uri": "https://jisho.org/search/%E6%BD%AD%23kanji"
+  }
+}

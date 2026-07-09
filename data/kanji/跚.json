@@ -1,0 +1,48 @@
+{
+  "id": "跚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "跚",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "loạng choạng, lảo đảo, vấp ngã",
+    "kunyomi": [],
+    "onyomi": [
+      "サン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蹣跚",
+        "reading": "マンサン",
+        "meaning": "lảo đảo, quay cuồng, lảo đảo"
+      },
+      {
+        "example": "酔歩蹣跚",
+        "reading": "スイホマンサン",
+        "meaning": "dáng đi lảo đảo, dáng đi lảo đảo, dáng đi loạng choạng"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "足",
+      "forms": [
+        "⻊"
+      ],
+      "meaning": "chân"
+    },
+    "parts": [
+      "一",
+      "冂",
+      "冊",
+      "口",
+      "廾",
+      "止",
+      "足",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36314_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08dda.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8dda.gif",
+    "uri": "https://jisho.org/search/%E8%B7%9A%23kanji"
+  }
+}

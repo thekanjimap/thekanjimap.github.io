@@ -1,0 +1,57 @@
+{
+  "id": "或",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "或",
+    "found": true,
+    "newspaperFrequencyRank": "2378",
+    "strokeCount": 8,
+    "meaning": "một số, một, hoặc, có thể, một điều gì đó",
+    "kunyomi": [
+      "あ.る",
+      "あるい",
+      "あるいは"
+    ],
+    "onyomi": [
+      "ワク",
+      "コク",
+      "イキ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "或る",
+        "reading": "ある",
+        "meaning": "một số ..., một số ..."
+      },
+      {
+        "example": "或いは",
+        "reading": "あるいは",
+        "meaning": "hoặc, hoặc ... hoặc, có thể, có lẽ, có thể, một số ... và những người khác ..., đôi khi ... và những lúc khác ..."
+      },
+      {
+        "example": "或いは",
+        "reading": "あるいは",
+        "meaning": "hoặc, hoặc ... hoặc, có thể, có lẽ, có thể, một số ... và những người khác ..., đôi khi ... và những lúc khác ..."
+      },
+      {
+        "example": "或いは",
+        "reading": "あるいは",
+        "meaning": "hoặc, hoặc ... hoặc, có thể, có lẽ, có thể, một số ... và những người khác ..., đôi khi ... và những lúc khác ..."
+      }
+    ],
+    "radical": {
+      "symbol": "戈",
+      "meaning": "giáo, kích"
+    },
+    "parts": [
+      "一",
+      "口",
+      "戈"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25110_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06216.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6216.gif",
+    "uri": "https://jisho.org/search/%E6%88%96%23kanji"
+  }
+}

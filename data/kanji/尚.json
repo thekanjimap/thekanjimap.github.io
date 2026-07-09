@@ -1,0 +1,76 @@
+{
+  "id": "尚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "尚",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1531",
+    "strokeCount": 8,
+    "meaning": "quý trọng, hơn nữa, vẫn, chưa",
+    "kunyomi": [
+      "なお"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "尚絅学院大学",
+        "reading": "ショウケイガクインダイガク",
+        "meaning": "Đại học Shokei Gakuin"
+      },
+      {
+        "example": "尚絅女子大学",
+        "reading": "ショウケイジョシダイガク",
+        "meaning": "Đại học nữ Shoukei"
+      },
+      {
+        "example": "好尚",
+        "reading": "コウショウ",
+        "meaning": "hương vị, lạ mắt, thời trang"
+      },
+      {
+        "example": "早尚",
+        "reading": "ソウショウ",
+        "meaning": "sinh non"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "尚",
+        "reading": "なお",
+        "meaning": "vẫn, chưa, còn hơn, còn hơn, lớn hơn, xa hơn, như ..., như ..., hơn nữa, ngoài ra, hơn nữa, lưu ý rằng ..."
+      },
+      {
+        "example": "尚更",
+        "reading": "なおさら",
+        "meaning": "vẫn nhiều hơn, thậm chí nhiều hơn, nhiều hơn, vẫn ít hơn, thậm chí ít hơn"
+      },
+      {
+        "example": "尚々",
+        "reading": "なおなお",
+        "meaning": "hơn thế nữa"
+      },
+      {
+        "example": "今なお",
+        "reading": "いまなお",
+        "meaning": "vẫn vậy, ngay cả bây giờ"
+      }
+    ],
+    "radical": {
+      "symbol": "小",
+      "meaning": "nhỏ, không đáng kể"
+    },
+    "parts": [
+      "冂",
+      "口",
+      "尚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23578_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c1a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c1a.gif",
+    "uri": "https://jisho.org/search/%E5%B0%9A%23kanji"
+  }
+}

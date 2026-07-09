@@ -1,0 +1,62 @@
+{
+  "id": "椎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "椎",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1911",
+    "strokeCount": 12,
+    "meaning": "chinquapin, vồ, cột sống",
+    "kunyomi": [
+      "つち",
+      "う.つ"
+    ],
+    "onyomi": [
+      "ツイ",
+      "スイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "椎間板",
+        "reading": "ツイカンバン",
+        "meaning": "đĩa đệm"
+      },
+      {
+        "example": "椎間孔狭窄",
+        "reading": "ツイカンコウキョウサク",
+        "meaning": "hẹp ống sống"
+      },
+      {
+        "example": "脊椎",
+        "reading": "セキツイ",
+        "meaning": "cột sống, cột sống"
+      },
+      {
+        "example": "腰椎",
+        "reading": "ヨウツイ",
+        "meaning": "đốt sống thắt lưng, đốt sống thắt lưng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "槌",
+        "reading": "つち",
+        "meaning": "búa, vồ, búa tạ, búa"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "木",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26894_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0690e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/690e.gif",
+    "uri": "https://jisho.org/search/%E6%A4%8E%23kanji"
+  }
+}

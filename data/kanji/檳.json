@@ -1,0 +1,45 @@
+{
+  "id": "檳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "檳",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "cây trầu cau",
+    "kunyomi": [],
+    "onyomi": [
+      "ビン",
+      "ヒン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "檳榔",
+        "reading": "ビンロウ",
+        "meaning": "cau cau (Areca catechu), trầu cau"
+      },
+      {
+        "example": "檳榔子",
+        "reading": "ビンロウジ",
+        "meaning": "hạt cau, hạt trầu"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "ノ",
+      "ハ",
+      "宀",
+      "小",
+      "木",
+      "目",
+      "貝"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27315_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ab3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ab3.gif",
+    "uri": "https://jisho.org/search/%E6%AA%B3%23kanji"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "晋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "晋",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1655",
+    "strokeCount": 10,
+    "meaning": "tiến lên",
+    "kunyomi": [
+      "すす.む"
+    ],
+    "onyomi": [
+      "シン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "晋",
+        "reading": "シン",
+        "meaning": "Nhà Tấn (của Trung Quốc; 265-420 CN), nhà Tần"
+      },
+      {
+        "example": "晋山",
+        "reading": "シンザン",
+        "meaning": "đảm nhận chức vụ mới là linh mục trưởng của một ngôi chùa Phật giáo"
+      },
+      {
+        "example": "西晋",
+        "reading": "セイシン",
+        "meaning": "Triều đại Tây Tấn (của Trung Quốc; 265-317 CN), triều đại Tây Tần"
+      },
+      {
+        "example": "後晋",
+        "reading": "コウシン",
+        "meaning": "Hậu Tấn (của Trung Quốc; 936-947), Hậu Tần"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "晋",
+        "reading": "しん",
+        "meaning": "Nhà Tấn (của Trung Quốc; 265-420 CN), nhà Tần"
+      }
+    ],
+    "radical": {
+      "symbol": "日",
+      "meaning": "mặt trời, ngày"
+    },
+    "parts": [
+      "一",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26187_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0664b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/664b.gif",
+    "uri": "https://jisho.org/search/%E6%99%8B%23kanji"
+  }
+}

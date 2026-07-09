@@ -1,0 +1,56 @@
+{
+  "id": "膩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "膩",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "mịn, nhờn",
+    "kunyomi": [
+      "あぶら",
+      "あぶらあか"
+    ],
+    "onyomi": [
+      "ジ",
+      "ニ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "垢膩",
+        "reading": "コウジ",
+        "meaning": "bụi bẩn, chất bẩn, vết bẩn"
+      },
+      {
+        "example": "垢膩",
+        "reading": "コウジ",
+        "meaning": "bụi bẩn, chất bẩn, vết bẩn"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "脂",
+        "reading": "あぶら",
+        "meaning": "mỡ, mỡ động vật, mỡ lợn, dầu mỡ"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "thịt"
+    },
+    "parts": [
+      "ハ",
+      "二",
+      "弋",
+      "月",
+      "目",
+      "貝"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33193_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081a9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81a9.gif",
+    "uri": "https://jisho.org/search/%E8%86%A9%23kanji"
+  }
+}

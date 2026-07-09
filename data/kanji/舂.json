@@ -1,0 +1,56 @@
+{
+  "id": "舂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "舂",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "pound (vữa), chìm, lặn (mặt trời)",
+    "kunyomi": [
+      "うすつ.く",
+      "うすづ.く",
+      "つ.く"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "舂米",
+        "reading": "ショウマイ",
+        "meaning": "gạo đánh bóng, gạo trắng, xay gạo bằng cối và chày"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "臼搗く",
+        "reading": "うすづく",
+        "meaning": "giã (gạo,...)"
+      },
+      {
+        "example": "臼搗く",
+        "reading": "うすづく",
+        "meaning": "giã (gạo,...)"
+      },
+      {
+        "example": "搗く",
+        "reading": "つく",
+        "meaning": "đóng vỏ (gạo, lúa mạch, v.v.), giã (gạo), đánh bóng (gạo), dập (quặng)"
+      }
+    ],
+    "radical": {
+      "symbol": "臼",
+      "meaning": "vữa"
+    },
+    "parts": [
+      "ノ",
+      "二",
+      "大",
+      "臼"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33282_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08202.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8202.gif",
+    "uri": "https://jisho.org/search/%E8%88%82%23kanji"
+  }
+}

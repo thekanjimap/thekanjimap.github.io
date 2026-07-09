@@ -1,0 +1,43 @@
+{
+  "id": "喊",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "喊",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "khóc, gọi",
+    "kunyomi": [
+      "さけ.ぶ"
+    ],
+    "onyomi": [
+      "カン",
+      "ヤク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "喊声",
+        "reading": "カンセイ",
+        "meaning": "tiếng kêu xung trận, tiếng kêu xung trận"
+      },
+      {
+        "example": "吶喊",
+        "reading": "トッカン",
+        "meaning": "tiếng kêu xung trận, tiếng kêu xung trận, tiếng hét tấn công (vào kẻ thù)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "ノ",
+      "口",
+      "戈"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21898_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0558a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/558a.gif",
+    "uri": "https://jisho.org/search/%E5%96%8A%23kanji"
+  }
+}

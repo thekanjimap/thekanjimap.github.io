@@ -1,0 +1,64 @@
+{
+  "id": "衰",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "衰",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1432",
+    "strokeCount": 10,
+    "meaning": "suy yếu, suy yếu, suy yếu",
+    "kunyomi": [
+      "おとろ.える"
+    ],
+    "onyomi": [
+      "スイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "衰退",
+        "reading": "スイタイ",
+        "meaning": "sự suy tàn, sự suy thoái, sự suy tàn, sự suy tàn, sự suy tàn"
+      },
+      {
+        "example": "衰弱",
+        "reading": "スイジャク",
+        "meaning": "sự yếu đuối, sự suy nhược, sự suy nhược, sự suy nhược"
+      },
+      {
+        "example": "減衰",
+        "reading": "ゲンスイ",
+        "meaning": "sự suy giảm, giảm xóc, phân rã"
+      },
+      {
+        "example": "盛衰",
+        "reading": "セイスイ",
+        "meaning": "thăng trầm, thăng trầm, phúc lợi, thăng trầm"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "衰える",
+        "reading": "おとろえる",
+        "meaning": "trở nên yếu đuối, suy tàn, hao mòn, suy yếu, suy tàn, héo mòn, hao mòn"
+      }
+    ],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "quần áo"
+    },
+    "parts": [
+      "一",
+      "亠",
+      "衣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34928_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08870.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8870.gif",
+    "uri": "https://jisho.org/search/%E8%A1%B0%23kanji"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "薀",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "薀",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "chồng chất, cửa hàng, sừng",
+    "kunyomi": [
+      "たくわ.える",
+      "つ.む"
+    ],
+    "onyomi": [
+      "ウン",
+      "オン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蘊蓄",
+        "reading": "ウンチク",
+        "meaning": "kiến thức uyên bác, kiến thức sâu rộng, kho tàng kiến thức rộng lớn"
+      },
+      {
+        "example": "蘊蓄を傾ける",
+        "reading": "ウンチクヲカタムケル",
+        "meaning": "để rút ra kiến thức sâu sắc của một người"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "人",
+      "口",
+      "汁",
+      "皿",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34176_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08580.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8580.gif",
+    "uri": "https://jisho.org/search/%E8%96%80%23kanji"
+  }
+}

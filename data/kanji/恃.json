@@ -1,0 +1,48 @@
+{
+  "id": "恃",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "恃",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "phụ thuộc vào",
+    "kunyomi": [
+      "たの.む"
+    ],
+    "onyomi": [
+      "ジ",
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "矜持",
+        "reading": "キョウジ",
+        "meaning": "niềm tự hào, nhân phẩm, lòng tự trọng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "頼む",
+        "reading": "たのむ",
+        "meaning": "yêu cầu, cầu xin, yêu cầu, gọi điện, ra lệnh, bảo lưu, giao phó, nhờ cậy, làm ơn, làm ơn"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "土",
+      "寸",
+      "忙"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24643_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06043.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6043.gif",
+    "uri": "https://jisho.org/search/%E6%81%83%23kanji"
+  }
+}

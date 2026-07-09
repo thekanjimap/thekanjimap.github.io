@@ -1,0 +1,53 @@
+{
+  "id": "耶",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "耶",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 9,
+    "meaning": "dấu chấm hỏi",
+    "kunyomi": [
+      "か"
+    ],
+    "onyomi": [
+      "ヤ",
+      "ジャ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "耶嬢",
+        "reading": "ヤジョウ",
+        "meaning": "cha và mẹ"
+      },
+      {
+        "example": "耶蘇",
+        "reading": "ヤソ",
+        "meaning": "Chúa Giêsu (Chúa Kitô), Kitô Giáo, Kitô Giáo"
+      },
+      {
+        "example": "三昧耶",
+        "reading": "サンマヤ",
+        "meaning": "thời gian, gặp gỡ, đến với nhau, bình đẳng, cảnh báo, hoặc thoát khỏi các chướng ngại (đặc biệt trong Phật giáo bí truyền như lời thề của chư phật và bồ tát)"
+      },
+      {
+        "example": "伽耶",
+        "reading": "カヤ",
+        "meaning": "Kaya (liên minh Triều Tiên cổ đại), Karak"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "耳",
+      "meaning": "tai"
+    },
+    "parts": [
+      "耳",
+      "邦"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32822_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08036.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8036.gif",
+    "uri": "https://jisho.org/search/%E8%80%B6%23kanji"
+  }
+}

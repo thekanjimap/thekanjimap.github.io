@@ -1,0 +1,55 @@
+{
+  "id": "觀",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "觀",
+    "found": true,
+    "strokeCount": 24,
+    "meaning": "cái nhìn, cái nhìn, diện mạo, tình trạng, cái nhìn",
+    "kunyomi": [
+      "み.る",
+      "しめ.す"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "観音",
+        "reading": "カンノン",
+        "meaning": "Avalokiteshvara (Bồ Tát), Quán Thế Âm, Kannon, Kwannon, Guanyin, vị thần từ bi của Phật giáo"
+      },
+      {
+        "example": "観光",
+        "reading": "カンコウ",
+        "meaning": "tham quan, du lịch"
+      },
+      {
+        "example": "偉観",
+        "reading": "イカン",
+        "meaning": "cảnh tượng hùng vĩ, cảnh tượng hùng vĩ, cảnh tượng hùng vĩ, cảnh tượng ngoạn mục"
+      },
+      {
+        "example": "理觀",
+        "reading": "リカン",
+        "meaning": "suy ngẫm về nguyên tắc"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "見",
+      "meaning": "xem"
+    },
+    "parts": [
+      "十",
+      "口",
+      "艾",
+      "見",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35264_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/089c0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/89c0.gif",
+    "uri": "https://jisho.org/search/%E8%A7%80%23kanji"
+  }
+}

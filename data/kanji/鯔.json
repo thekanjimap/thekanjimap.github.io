@@ -1,0 +1,49 @@
+{
+  "id": "鯔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鯔",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "cá đối (cá)",
+    "kunyomi": [
+      "ぼら",
+      "とど"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鯔",
+        "reading": "ぼら",
+        "meaning": "cá đối sọc (Mugil cephalus), cá đối xám đầu dẹt, cá đối đen, cá đối môi đỏ (Chelon haematocheilus)"
+      },
+      {
+        "example": "鯔",
+        "reading": "とど",
+        "meaning": "cá đối sọc trưởng thành, cuối cùng, sau tất cả đã được nói và làm"
+      },
+      {
+        "example": "とどの詰まり",
+        "reading": "とどのつまり",
+        "meaning": "cuối cùng, sau khi tất cả đã được nói và làm"
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "cá"
+    },
+    "parts": [
+      "巛",
+      "杰",
+      "田",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39892_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09bd4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9bd4.gif",
+    "uri": "https://jisho.org/search/%E9%AF%94%23kanji"
+  }
+}

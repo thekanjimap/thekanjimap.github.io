@@ -1,0 +1,66 @@
+{
+  "id": "姫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "姫",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1566",
+    "strokeCount": 10,
+    "meaning": "công chúa",
+    "kunyomi": [
+      "ひめ",
+      "ひめ-"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "舞姫",
+        "reading": "マイヒメ",
+        "meaning": "nữ vũ công, cô gái nhảy múa, danseuse"
+      },
+      {
+        "example": "寵姫",
+        "reading": "チョウキ",
+        "meaning": "tình nhân yêu thích của một người, tình nhân yêu thích của một người"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "姫",
+        "reading": "ひめ",
+        "meaning": "tiểu thư xuất thân cao quý, công chúa (đặc biệt trong bối cảnh, truyện cổ tích phương Tây, v.v.), cô gái, nhỏ bé, dễ thương, thấp kém hơn (trong tên loài), gái điếm"
+      },
+      {
+        "example": "姫君",
+        "reading": "ひめぎみ",
+        "meaning": "con gái của một người có địa vị cao (đặc biệt là con gái lớn)"
+      },
+      {
+        "example": "歌姫",
+        "reading": "うたひめ",
+        "meaning": "nữ ca sĩ, diva"
+      },
+      {
+        "example": "舞姫",
+        "reading": "まいひめ",
+        "meaning": "nữ vũ công, cô gái nhảy múa, danseuse"
+      }
+    ],
+    "radical": {
+      "symbol": "女",
+      "meaning": "phụ nữ, nữ"
+    },
+    "parts": [
+      "女",
+      "臣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23019_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/059eb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/59eb.gif",
+    "uri": "https://jisho.org/search/%E5%A7%AB%23kanji"
+  }
+}

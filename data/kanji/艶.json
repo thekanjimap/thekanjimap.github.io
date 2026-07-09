@@ -1,0 +1,99 @@
+{
+  "id": "艶",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "艶",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2207",
+    "strokeCount": 19,
+    "meaning": "bóng, độ bóng, men, đánh bóng, quyến rũ, đầy màu sắc, quyến rũ",
+    "kunyomi": [
+      "つや",
+      "なま.めかしい",
+      "あで.やか",
+      "つや.めく",
+      "なま.めく"
+    ],
+    "onyomi": [
+      "エン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "艶",
+        "reading": "エン",
+        "meaning": "quyến rũ, hấp dẫn, gợi cảm"
+      },
+      {
+        "example": "演歌",
+        "reading": "エンカ",
+        "meaning": "enka, bản ballad phổ biến theo phong cách truyền thống của Nhật Bản, người hát rong"
+      },
+      {
+        "example": "妖艶",
+        "reading": "ヨウエン",
+        "meaning": "hấp dẫn, gợi cảm, quyến rũ, lôi cuốn"
+      },
+      {
+        "example": "凄艶",
+        "reading": "セイエン",
+        "meaning": "đẹp lạ lùng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "艶",
+        "reading": "つや",
+        "meaning": "bóng, độ bóng, độ bóng, tỏa sáng, bóng, đánh bóng, êm dịu (của giọng nói), sự trẻ trung (ví dụ như làn da), sự quan tâm, hấp dẫn, quyến rũ, màu sắc, màu sắc, cảm giác, lãng mạn, tình yêu, sự gợi cảm"
+      },
+      {
+        "example": "艶々",
+        "reading": "つやつや",
+        "meaning": "bóng, sáng, trơn"
+      },
+      {
+        "example": "艶々",
+        "reading": "つやつや",
+        "meaning": "bóng, sáng, trơn"
+      },
+      {
+        "example": "艶かしい",
+        "reading": "なまめかしい",
+        "meaning": "quyến rũ, quyến rũ, quyến rũ, quyến rũ, quyến rũ"
+      },
+      {
+        "example": "艶やか",
+        "reading": "あでやか",
+        "meaning": "quyến rũ, quyến rũ, duyên dáng, quyến rũ, quyến rũ, lộng lẫy, quyến rũ, quyến rũ"
+      },
+      {
+        "example": "艶めく",
+        "reading": "つやめく",
+        "meaning": "(đối với đồ vật) sáng bóng, bóng loáng, (đối với phụ nữ) quyến rũ, trông gợi cảm"
+      },
+      {
+        "example": "艶めく",
+        "reading": "なまめく",
+        "meaning": "tràn đầy sự quyến rũ nữ tính, trông quyến rũ (của một người phụ nữ), gợi cảm, quyến rũ, lôi cuốn, trông trẻ trung và tươi mới, thanh lịch, trông tinh tế, có vẻ ngoài điềm tĩnh và điềm tĩnh"
+      }
+    ],
+    "radical": {
+      "symbol": "色",
+      "meaning": "màu sắc, vẻ đẹp"
+    },
+    "parts": [
+      "勹",
+      "口",
+      "并",
+      "日",
+      "色",
+      "豆",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33398_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08276.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8276.gif",
+    "uri": "https://jisho.org/search/%E8%89%B6%23kanji"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "箏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "箏",
+    "found": true,
+    "newspaperFrequencyRank": "2290",
+    "strokeCount": 14,
+    "meaning": "một cây đàn koto",
+    "kunyomi": [
+      "こと"
+    ],
+    "onyomi": [
+      "ソウ",
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "琴",
+        "reading": "コト",
+        "meaning": "koto (đàn tam thập lục Nhật Bản), nhạc cụ có dây, zheng (đàn tam thập lục Trung Quốc), đàn tranh"
+      },
+      {
+        "example": "箏曲",
+        "reading": "ソウキョク",
+        "meaning": "nhạc koto"
+      },
+      {
+        "example": "楽箏",
+        "reading": "ガクソウ",
+        "meaning": "loại đàn koto cổ có 13 dây được sử dụng trong âm nhạc Gagaku"
+      },
+      {
+        "example": "俗箏",
+        "reading": "ゾクソウ",
+        "meaning": "koto hiện đại (trái ngược với gagaku koto hoặc gakuso), nhạc koto hiện đại"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "琴",
+        "reading": "こと",
+        "meaning": "koto (đàn tam thập lục Nhật Bản), nhạc cụ có dây, zheng (đàn tam thập lục Trung Quốc), đàn tranh"
+      },
+      {
+        "example": "琴柱",
+        "reading": "ことじ",
+        "meaning": "cây cầu koto"
+      }
+    ],
+    "radical": {
+      "symbol": "竹",
+      "forms": [
+        "⺮"
+      ],
+      "meaning": "tre"
+    },
+    "parts": [
+      "ヨ",
+      "乞",
+      "亅",
+      "爪",
+      "竹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31631_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07b8f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7b8f.gif",
+    "uri": "https://jisho.org/search/%E7%AE%8F%23kanji"
+  }
+}

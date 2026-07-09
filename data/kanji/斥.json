@@ -1,0 +1,55 @@
+{
+  "id": "斥",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "斥",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2231",
+    "strokeCount": 5,
+    "meaning": "bác bỏ,rút lui,rút lui,rút lui,đẩy lùi,đẩy lui",
+    "kunyomi": [
+      "しりぞ.ける"
+    ],
+    "onyomi": [
+      "セキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "斥力",
+        "reading": "セキリョク",
+        "meaning": "lực đẩy, lực đẩy"
+      },
+      {
+        "example": "外国人排斥",
+        "reading": "ガイコクジンハイセキ",
+        "meaning": "bài ngoại, loại trừ (người nước ngoài)"
+      },
+      {
+        "example": "除斥",
+        "reading": "ジョセキ",
+        "meaning": "loại trừ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "退ける",
+        "reading": "しりぞける",
+        "meaning": "từ chối, từ chối, từ chối, bác bỏ, đẩy lùi, đẩy lui, xua đuổi, đánh bại, đánh bại, khiến (ai đó) rời đi, đuổi đi, quay đi, buộc (ai đó) rời khỏi vị trí của họ, lật đổ, loại bỏ, trục xuất"
+      }
+    ],
+    "radical": {
+      "symbol": "斤",
+      "meaning": "rìu"
+    },
+    "parts": [
+      "丶",
+      "斤"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26021_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065a5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65a5.gif",
+    "uri": "https://jisho.org/search/%E6%96%A5%23kanji"
+  }
+}

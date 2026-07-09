@@ -1,0 +1,54 @@
+{
+  "id": "芯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "芯",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "newspaperFrequencyRank": "2202",
+    "strokeCount": 7,
+    "meaning": "bấc đèn",
+    "kunyomi": [],
+    "onyomi": [
+      "シン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "芯",
+        "reading": "シン",
+        "meaning": "bấc, tủy, ghim (để bấm kim), chì (bút chì), nhồi, lõi, lõi, tim, trung tâm, trung tâm, nhụy hoa (của một bông hoa), nhị hoa"
+      },
+      {
+        "example": "芯が強い",
+        "reading": "シンガツヨイ",
+        "meaning": "có tinh thần mạnh mẽ, ý chí mạnh mẽ"
+      },
+      {
+        "example": "排水芯",
+        "reading": "ハイスイシン",
+        "meaning": "ổ cắm thoát nước nhà vệ sinh"
+      },
+      {
+        "example": "灯心",
+        "reading": "トウシン",
+        "meaning": "(đèn) bấc"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "心",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33455_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082af.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82af.gif",
+    "uri": "https://jisho.org/search/%E8%8A%AF%23kanji"
+  }
+}

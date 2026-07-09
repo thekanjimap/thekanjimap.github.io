@@ -1,0 +1,100 @@
+{
+  "id": "腐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "腐",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1225",
+    "strokeCount": 14,
+    "meaning": "thối, mục nát, chua",
+    "kunyomi": [
+      "くさ.る",
+      "-くさ.る",
+      "くさ.れる",
+      "くさ.れ",
+      "くさ.らす",
+      "くさ.す"
+    ],
+    "onyomi": [
+      "フ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "腐敗",
+        "reading": "フハイ",
+        "meaning": "sự phân hủy, sự thối rữa, sự thối rữa, sự hư hỏng, sự hư hỏng, sự thoái hóa, sự suy đồi, sự sa đọa"
+      },
+      {
+        "example": "腐心",
+        "reading": "フシン",
+        "meaning": "chịu nhiều đau khổ (làm), cố gắng hết sức, gặp nhiều khó khăn (làm), vắt óc"
+      },
+      {
+        "example": "防腐",
+        "reading": "ボウフ",
+        "meaning": "bảo quản khỏi thối rữa, ngăn ngừa thối rữa, ướp xác, sát trùng"
+      },
+      {
+        "example": "高野豆腐",
+        "reading": "コウヤドウフ",
+        "meaning": "đậu phụ đông khô"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "腐る",
+        "reading": "くさる",
+        "meaning": "thối rữa, hư hỏng, mục nát, hư hỏng, mưng mủ, thoái hóa, trở nên chua chát (ví dụ: sữa), ăn mòn, thời tiết, vỡ vụn, trở nên vô dụng, cùn, yếu đi (do thiếu thực hành), trở nên sa đọa, thoái hóa, phá sản về mặt đạo đức, hư hỏng, chán nản, chán nản, cảm thấy chán nản, cảm thấy thất vọng, có đủ can đảm để, đủ khốn nạn, để mất một cá cược, bị ướt sũng, trở nên ướt sũng"
+      },
+      {
+        "example": "腐るほど",
+        "reading": "くさるほど",
+        "meaning": "nhiều hơn một người có thể sử dụng, vô số (ví dụ), (tiền) để đốt, lăn vào (tiền mặt)"
+      },
+      {
+        "example": "腐れる",
+        "reading": "くされる",
+        "meaning": "làm hỏng, làm thối rữa, ăn mòn"
+      },
+      {
+        "example": "腐れ",
+        "reading": "くされ",
+        "meaning": "mục nát, mục nát, mục nát, mục nát, mục nát, vô giá trị, tầm thường, hèn hạ"
+      },
+      {
+        "example": "腐れ縁",
+        "reading": "くされえん",
+        "meaning": "(không mong muốn nhưng) mối quan hệ không thể tách rời"
+      },
+      {
+        "example": "腐らす",
+        "reading": "くさらす",
+        "meaning": "làm hư hỏng, làm thối rữa, làm mục nát, làm mục nát, làm nản lòng, làm nản lòng"
+      },
+      {
+        "example": "腐す",
+        "reading": "くさす",
+        "meaning": "nói xấu"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "thịt"
+    },
+    "parts": [
+      "化",
+      "寸",
+      "广",
+      "肉"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33104_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08150.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8150.gif",
+    "uri": "https://jisho.org/search/%E8%85%90%23kanji"
+  }
+}

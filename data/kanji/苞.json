@@ -1,0 +1,62 @@
+{
+  "id": "苞",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "苞",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "vỏ trấu, lá bắc, vỏ rơm, quà lưu niệm, hối lộ",
+    "kunyomi": [
+      "つと"
+    ],
+    "onyomi": [
+      "ホウ",
+      "ヒョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "苞",
+        "reading": "ホウ",
+        "meaning": "lá bắc"
+      },
+      {
+        "example": "苞",
+        "reading": "ツト",
+        "meaning": "vật phẩm bọc rơm, bó rơm (chứa một loại thực phẩm, v.v.), sản vật địa phương, đồ lưu niệm, quà tặng, quà tặng"
+      },
+      {
+        "example": "総苞",
+        "reading": "ソウホウ",
+        "meaning": "liên quan, liên quan"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "苞",
+        "reading": "つと",
+        "meaning": "vật phẩm bọc rơm, bó rơm (chứa một loại thực phẩm, v.v.), sản vật địa phương, đồ lưu niệm, quà tặng, quà tặng"
+      },
+      {
+        "example": "つと納豆",
+        "reading": "つとなっとう",
+        "meaning": "Natto bọc rơm"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "勹",
+      "已",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33502_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082de.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82de.gif",
+    "uri": "https://jisho.org/search/%E8%8B%9E%23kanji"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "侯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "侯",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2363",
+    "strokeCount": 9,
+    "meaning": "Hầu tước, lãnh chúa, daimyo",
+    "kunyomi": [],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "侯",
+        "reading": "コウ",
+        "meaning": "hầu tước, cấp bậc cao thứ hai trong năm cấp bậc quý tộc, daimyo"
+      },
+      {
+        "example": "候補",
+        "reading": "コウホ",
+        "meaning": "ứng cử viên, ứng cử viên, khách hàng tiềm năng, chọn, lựa chọn, danh sách, ứng cử, ứng cử, đề cử"
+      },
+      {
+        "example": "王侯",
+        "reading": "オウコウ",
+        "meaning": "nhà vua và các lãnh chúa phong kiến của ông"
+      },
+      {
+        "example": "仙台侯",
+        "reading": "センダイコウ",
+        "meaning": "Chúa tể Sendai"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "đàn ông, con người"
+    },
+    "parts": [
+      "ユ",
+      "乞",
+      "化",
+      "矢"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20399_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04faf.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4faf.gif",
+    "uri": "https://jisho.org/search/%E4%BE%AF%23kanji"
+  }
+}

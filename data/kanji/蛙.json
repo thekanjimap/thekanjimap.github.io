@@ -1,0 +1,79 @@
+{
+  "id": "蛙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蛙",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "ếch",
+    "kunyomi": [
+      "かえる",
+      "かわず"
+    ],
+    "onyomi": [
+      "ア",
+      "ワ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蛙声",
+        "reading": "アセイ",
+        "meaning": "tiếng ếch kêu"
+      },
+      {
+        "example": "蛙黽",
+        "reading": "アボウ",
+        "meaning": "ếch cây (cóc)"
+      },
+      {
+        "example": "井蛙",
+        "reading": "セイア",
+        "meaning": "ếch ngồi đáy giếng, người có tầm nhìn hạn hẹp"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蛙",
+        "reading": "かえる",
+        "meaning": "ếch, ếch kajika (Buergeria buergeri)"
+      },
+      {
+        "example": "蛙鮟鱇",
+        "reading": "かえるあんこう",
+        "meaning": "cá ếch (bất kỳ loài cá nào thuộc họ Antennariidae, đặc biệt là cá ếch có vân, Antennarius striatus)"
+      },
+      {
+        "example": "蛙の子は蛙",
+        "reading": "かえるのこはかえる",
+        "meaning": "Cha nào con nấy, quả táo không cách xa cây, con ếch là con ếch"
+      },
+      {
+        "example": "蛙",
+        "reading": "かえる",
+        "meaning": "ếch, ếch kajika (Buergeria buergeri)"
+      },
+      {
+        "example": "蛙狩神事",
+        "reading": "かわずがりしんじ",
+        "meaning": "tục lệ săn ếch"
+      },
+      {
+        "example": "井の中の蛙",
+        "reading": "いのなかのかわず",
+        "meaning": "Người không biết gì về thế giới thực, ếch ngồi đáy giếng"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "côn trùng"
+    },
+    "parts": [
+      "土",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34521_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086d9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86d9.gif",
+    "uri": "https://jisho.org/search/%E8%9B%99%23kanji"
+  }
+}

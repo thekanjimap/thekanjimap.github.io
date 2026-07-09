@@ -1,0 +1,67 @@
+{
+  "id": "廓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "廓",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "bao vây, khu phố, khu đèn đỏ",
+    "kunyomi": [
+      "くるわ",
+      "とりで"
+    ],
+    "onyomi": [
+      "カク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "廓",
+        "reading": "クルワ",
+        "meaning": "quận, khu phố, vòng vây, khu vực được bao bọc bởi công trình đất, khu đèn đỏ, rộng và vắng"
+      },
+      {
+        "example": "廓清",
+        "reading": "カクセイ",
+        "meaning": "sự thanh lọc, sự thanh lọc, sự thanh lọc"
+      },
+      {
+        "example": "外郭",
+        "reading": "ガイカク",
+        "meaning": "hàng rào bên ngoài, bao vây bên ngoài, khối bên ngoài, đề cương, đường viền"
+      },
+      {
+        "example": "遊郭",
+        "reading": "ユウカク",
+        "meaning": "(được cấp phép) khu đèn đỏ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "廓",
+        "reading": "くるわ",
+        "meaning": "quận, khu phố, vòng vây, khu vực được bao bọc bởi công trình đất, khu đèn đỏ, rộng và vắng"
+      },
+      {
+        "example": "郭言葉",
+        "reading": "くるわことば",
+        "meaning": "ngôn ngữ xã hội hoặc bí mật được sử dụng bởi gái mại dâm ở khu đèn đỏ (thời Edo), những từ thô tục được sử dụng bởi gái mại dâm (thời Edo)"
+      }
+    ],
+    "radical": {
+      "symbol": "广",
+      "meaning": "ngôi nhà trên vách đá"
+    },
+    "parts": [
+      "亅",
+      "亠",
+      "口",
+      "子",
+      "广",
+      "邦"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24275_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ed3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ed3.gif",
+    "uri": "https://jisho.org/search/%E5%BB%93%23kanji"
+  }
+}

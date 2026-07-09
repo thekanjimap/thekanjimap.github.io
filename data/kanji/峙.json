@@ -1,0 +1,44 @@
+{
+  "id": "峙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "峙",
+    "found": true,
+    "newspaperFrequencyRank": "2279",
+    "strokeCount": 9,
+    "meaning": "tháp, bay lên",
+    "kunyomi": [
+      "そばだ.つ"
+    ],
+    "onyomi": [
+      "ジ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "対峙",
+        "reading": "タイジ",
+        "meaning": "đứng đối diện nhau (ví dụ: núi, tòa nhà), đứng đối diện nhau, đối đầu, đối đầu với (kẻ thù, quân đội, lực lượng), đứng chống lại, giữ của riêng mình với"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "峙つ",
+        "reading": "そばだつ",
+        "meaning": "lên tháp, bay lên, bay lên"
+      }
+    ],
+    "radical": {
+      "symbol": "山",
+      "meaning": "núi"
+    },
+    "parts": [
+      "土",
+      "寸",
+      "山"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23769_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05cd9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5cd9.gif",
+    "uri": "https://jisho.org/search/%E5%B3%99%23kanji"
+  }
+}

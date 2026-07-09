@@ -1,0 +1,96 @@
+{
+  "id": "奴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "奴",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1932",
+    "strokeCount": 5,
+    "meaning": "chàng trai, nô lệ, người hầu, đồng nghiệp",
+    "kunyomi": [
+      "やつ",
+      "やっこ"
+    ],
+    "onyomi": [
+      "ド"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "奴隷",
+        "reading": "ドレイ",
+        "meaning": "nô lệ, đầy tớ, nô lệ"
+      },
+      {
+        "example": "【ドチザメ】",
+        "reading": "banded houndshark (Triakis scyllium)",
+        "meaning": ""
+      },
+      {
+        "example": "売国奴",
+        "reading": "バイコクド",
+        "meaning": "kẻ phản bội (tổ quốc), quisling"
+      },
+      {
+        "example": "農奴",
+        "reading": "ノウド",
+        "meaning": "nông nô"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "奴",
+        "reading": "やつ",
+        "meaning": "đồng nghiệp, chàng trai, chap, điều, đối tượng, anh ấy, cô ấy, anh ấy, cô ấy"
+      },
+      {
+        "example": "臣",
+        "reading": "やつこ",
+        "meaning": "nô lệ, người hầu, người hầu, người bị giam cầm, người phục vụ, tôi, tôi"
+      },
+      {
+        "example": "彼奴",
+        "reading": "あやつ",
+        "meaning": "anh ấy, cô ấy, anh chàng đó"
+      },
+      {
+        "example": "懲りない奴",
+        "reading": "こりないやつ",
+        "meaning": "người (nói chung là nam giới) không học được bài học của mình, một kẻ khốn nạn dai dẳng"
+      },
+      {
+        "example": "奴",
+        "reading": "やっこ",
+        "meaning": "người hầu (đặc biệt là người hầu của samurai), người đàn ông hào hiệp (thời Edo), đậu phụ cắt khối (thường được phục vụ lạnh), con diều có hình dạng giống người hầu thời Edo, kiểu tóc thời Edo mà người hầu của samurai để, sự bắt làm nô lệ (của một phụ nữ; hình phạt thời Edo cho tội ác của chính cô ấy hoặc của chồng cô ấy), anh ấy, cô ấy, anh ấy, cô ấy"
+      },
+      {
+        "example": "奴頭",
+        "reading": "やっこあたま",
+        "meaning": "Kiểu tóc thời Edo của những người hầu cận của samurai"
+      },
+      {
+        "example": "輪抜奴",
+        "reading": "わぬけやっこ",
+        "meaning": "cá thần tiên xanh (Pomacanthus annularis)"
+      },
+      {
+        "example": "三下奴",
+        "reading": "さんしたやっこ",
+        "meaning": "thuộc hạ nhỏ nhen, tiểu nhân"
+      }
+    ],
+    "radical": {
+      "symbol": "女",
+      "meaning": "phụ nữ, nữ"
+    },
+    "parts": [
+      "又",
+      "女"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22900_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05974.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5974.gif",
+    "uri": "https://jisho.org/search/%E5%A5%B4%23kanji"
+  }
+}

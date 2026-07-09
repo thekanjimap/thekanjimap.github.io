@@ -1,0 +1,65 @@
+{
+  "id": "掲",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "掲",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "899",
+    "strokeCount": 11,
+    "meaning": "đưa lên (một thông báo), đưa lên, treo, trưng bày, đi chơi, xuất bản, mô tả",
+    "kunyomi": [
+      "かか.げる"
+    ],
+    "onyomi": [
+      "ケイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "掲示",
+        "reading": "ケイジ",
+        "meaning": "thông báo, bản tin, bài đăng, đăng, bảng hiệu"
+      },
+      {
+        "example": "掲載",
+        "reading": "ケイサイ",
+        "meaning": "xuất bản (ví dụ: một bài báo trên báo), đăng tải (ví dụ: một câu chuyện), chạy (ví dụ: một loạt bài), chèn (ví dụ: một quảng cáo), in, đăng (ví dụ: trên web)"
+      },
+      {
+        "example": "再掲",
+        "reading": "サイケイ",
+        "meaning": "hiển thị lại,tái bản,tái bản,tái bản,đăng lại"
+      },
+      {
+        "example": "上掲",
+        "reading": "ジョウケイ",
+        "meaning": "những điều đã đề cập ở trên"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "掲げる",
+        "reading": "かかげる",
+        "meaning": "treo (thông báo, bảng hiệu, v.v.), đi chơi (ví dụ: biểu ngữ), bay (ví dụ: lá cờ), treo, giơ cao, trưng bày, giơ cao, giơ cao, chào hàng (một nguyên tắc, kế hoạch, v.v.), báo trước, giơ cao (một lý tưởng), diễu hành (ví dụ: khẩu hiệu), xuất bản, in, mang (ví dụ: một bài báo), nhét lên (ví dụ: tay áo), cuộn lên, đốt (lửa), thổi (ngọn lửa)"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "勹",
+      "匕",
+      "扎",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25522_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063b2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63b2.gif",
+    "uri": "https://jisho.org/search/%E6%8E%B2%23kanji"
+  }
+}

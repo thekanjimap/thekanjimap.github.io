@@ -1,0 +1,42 @@
+{
+  "id": "柝",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "柝",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "gậy phát âm",
+    "kunyomi": [
+      "ひょうしぎ"
+    ],
+    "onyomi": [
+      "タク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "柝",
+        "reading": "キ",
+        "meaning": "cái vỗ tay bằng gỗ (báo hiệu sự bắt đầu hoặc kết thúc của buổi biểu diễn)"
+      },
+      {
+        "example": "撃柝",
+        "reading": "ゲキタク",
+        "meaning": "đánh tiếng vỗ tay, canh đêm (trong khi đánh tiếng vỗ tay)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "丶",
+      "斤",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26589_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067dd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67dd.gif",
+    "uri": "https://jisho.org/search/%E6%9F%9D%23kanji"
+  }
+}

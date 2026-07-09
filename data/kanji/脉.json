@@ -1,0 +1,45 @@
+{
+  "id": "脉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "脉",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "tĩnh mạch (máu, quặng), mạch, hy vọng",
+    "kunyomi": [
+      "すじ"
+    ],
+    "onyomi": [
+      "ミャク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "脈",
+        "reading": "ミャク",
+        "meaning": "mạch, mạch, chuỗi (của núi, v.v.), hy vọng, sợi chỉ (của một cuộc tranh luận)"
+      },
+      {
+        "example": "脈診",
+        "reading": "ミャクシン",
+        "meaning": "chẩn đoán đo huyết áp (trong y học cổ truyền Trung Quốc), chẩn đoán y tế được thực hiện bằng cách bắt mạch"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "thịt"
+    },
+    "parts": [
+      "丶",
+      "月",
+      "水"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33033_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08109.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8109.gif",
+    "uri": "https://jisho.org/search/%E8%84%89%23kanji"
+  }
+}

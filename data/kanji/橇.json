@@ -1,0 +1,65 @@
+{
+  "id": "橇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "橇",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "xe trượt tuyết, xe trượt tuyết, giày trượt tuyết",
+    "kunyomi": [
+      "そり",
+      "かんじき"
+    ],
+    "onyomi": [
+      "キョウ",
+      "ゼイ",
+      "セイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "橇行",
+        "reading": "キョウコウ",
+        "meaning": "đi du lịch bằng xe trượt tuyết"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "【ソリ】",
+        "reading": "sleigh, sled, sledge",
+        "meaning": ""
+      },
+      {
+        "example": "そり滑り",
+        "reading": "そりすべり",
+        "meaning": "trượt tuyết, trượt tuyết"
+      },
+      {
+        "example": "馬そり",
+        "reading": "ばそり",
+        "meaning": "xe trượt tuyết do ngựa kéo"
+      },
+      {
+        "example": "尾橇",
+        "reading": "びそり",
+        "meaning": "trượt đuôi (máy bay)"
+      },
+      {
+        "example": "橇",
+        "reading": "かんじき",
+        "meaning": "giày đi tuyết"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "木",
+      "毛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27207_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a47.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a47.gif",
+    "uri": "https://jisho.org/search/%E6%A9%87%23kanji"
+  }
+}

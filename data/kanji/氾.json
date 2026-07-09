@@ -1,0 +1,47 @@
+{
+  "id": "氾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "氾",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "strokeCount": 5,
+    "meaning": "trải ra, rộng",
+    "kunyomi": [
+      "ひろ.がる"
+    ],
+    "onyomi": [
+      "ハン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "氾濫",
+        "reading": "ハンラン",
+        "meaning": "tràn, lũ lụt, ngập lụt, lũ lụt, cung vượt cầu, dư thừa, dư thừa (đặc biệt là một điều gì đó không mong muốn)"
+      },
+      {
+        "example": "氾濫原",
+        "reading": "ハンランゲン",
+        "meaning": "đồng bằng lũ lụt"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "乙",
+      "卩",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27710_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c3e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c3e.gif",
+    "uri": "https://jisho.org/search/%E6%B0%BE%23kanji"
+  }
+}

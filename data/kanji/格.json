@@ -1,0 +1,432 @@
+{
+  "id": "格",
+  "kanjialiveData": {
+    "_id": "54317b12791eba5146ee4ccf",
+    "_rev": "13-a059cb373f1c9b5850877fba0fe4d339",
+    "rad_name_ja": "きへん",
+    "grade": 5,
+    "hint_group": 1,
+    "kunyomi": "Không có",
+    "meaning": "tiêu chuẩn, trạng thái, cấp bậc, tiêu chuẩn",
+    "kstroke": 10,
+    "examples": [
+      {
+        "japanese": "格（かく）",
+        "meaning": {
+          "english": "trạng thái, nhân vật, trường hợp"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaku(tougi)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kaku(tougi)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kaku(tougi)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kaku(tougi)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "格好（かっこう）",
+        "meaning": {
+          "english": "hình dáng, tư thế, dáng vẻ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaku(tougi)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kaku(tougi)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kaku(tougi)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kaku(tougi)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "格闘技（かくとうぎ）",
+        "meaning": {
+          "english": "môn thể thao chiến đấu tay đôi"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaku(tougi)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kaku(tougi)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kaku(tougi)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kaku(tougi)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "性格（せいかく）",
+        "meaning": {
+          "english": "tính cách, cá tính"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaku(tougi)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kaku(tougi)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kaku(tougi)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kaku(tougi)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "体格（たいかく）",
+        "meaning": {
+          "english": "thể chất, thể chất"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaku(tougi)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kaku(tougi)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kaku(tougi)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kaku(tougi)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "品格（ひんかく）",
+        "meaning": {
+          "english": "phẩm giá, ân sủng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaku(tougi)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kaku(tougi)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kaku(tougi)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kaku(tougi)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "価格（かかく）",
+        "meaning": {
+          "english": "giá cả, giá trị, chi phí"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaku(tougi)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kaku(tougi)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kaku(tougi)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kaku(tougi)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "資格（しかく）",
+        "meaning": {
+          "english": "trình độ, yêu cầu"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaku(tougi)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kaku(tougi)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kaku(tougi)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kaku(tougi)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "格安な（かくやすな）",
+        "meaning": {
+          "english": "giá rẻ, hợp lý"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaku(tougi)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kaku(tougi)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kaku(tougi)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kaku(tougi)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "本格的な（ほんかくてきな）",
+        "meaning": {
+          "english": "đầy đủ, thường xuyên, chính hãng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaku(tougi)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kaku(tougi)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kaku(tougi)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kaku(tougi)_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "合格する（ごうかくする）",
+        "meaning": {
+          "english": "thành công, vượt qua [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaku(tougi)_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kaku(tougi)_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kaku(tougi)_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kaku(tougi)_06_k.mp3"
+        }
+      },
+      {
+        "japanese": "格子戸（こうしど）",
+        "meaning": {
+          "english": "cửa lưới"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kaku(tougi)_06_l.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kaku(tougi)_06_l.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kaku(tougi)_06_l.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kaku(tougi)_06_l.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "格",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=格",
+    "kname": "kaku(tougi)",
+    "rad_order": 98,
+    "txt_books": [
+      {
+        "chapter": "29",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "21",
+        "txt_bk": "txtSFJ3"
+      },
+      {
+        "chapter": "21",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "jtr"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "jt"
+      }
+    ],
+    "rad_name_search": [
+      "kihen"
+    ],
+    "rad_utf": "",
+    "stroketimes": [
+      0,
+      1.066667,
+      2.466667,
+      3.533333,
+      4.533333,
+      5.4,
+      6.8,
+      8.066667,
+      8.8,
+      10.266667,
+      11.466667
+    ],
+    "kunyomi_ka_display": "Không có",
+    "dick": "627",
+    "rad_name": "kihen",
+    "dicn": "2259",
+    "mn_hint": "Each 各 piece of lumber 木 ranked according to its quality.",
+    "rad_stroke": 4,
+    "onyomi_ja": "カク、コウ",
+    "rad_meaning": "cây, gỗ",
+    "onyomi": "kaku, kou",
+    "ka_id": "ka_974",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "kaku",
+      "kou",
+      "kaku, kou"
+    ],
+    "kunyomi_search": [
+      "Không có",
+      "Không có"
+    ],
+    "meaning_search": [
+      "norm",
+      "status",
+      "rank",
+      "standard",
+      "norm, status, rank, standard"
+    ],
+    "onyomi_ja_search": [
+      "カク",
+      "コウ",
+      "カク、コウ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "tree",
+      "wood",
+      "tree, wood"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "きへん"
+    ],
+    "textbook_search": [
+      "bk",
+      "bk:29",
+      "bk:c29",
+      "jtr",
+      "jtr:3",
+      "jtr:c3",
+      "jt",
+      "jt:7",
+      "jt:c7"
+    ],
+    "rad_name_file": "kihen",
+    "kanji": {
+      "character": "格",
+      "meaning": {
+        "english": "norm, status, rank, standard"
+      },
+      "strokes": {
+        "count": 10,
+        "timings": [
+          0,
+          1.066667,
+          2.466667,
+          3.533333,
+          4.533333,
+          5.4,
+          6.8,
+          8.066667,
+          8.8,
+          10.266667,
+          11.466667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/kaku(tougi)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/kaku(tougi)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/kaku(tougi)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/kaku(tougi)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/kaku(tougi)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/kaku(tougi)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/kaku(tougi)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/kaku(tougi)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/kaku(tougi)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/kaku(tougi)_10.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "kaku, kou",
+        "katakana": "カク、コウ"
+      },
+      "kunyomi": {
+        "romaji": "Không có",
+        "hiragana": "Không có"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/kaku(tougi)_10.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/kaku(tougi)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/kaku(tougi)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/kihen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "きへん",
+        "romaji": "kihen"
+      },
+      "meaning": {
+        "english": "cây, gỗ"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/kihen0.svg",
+        "https://media.kanjialive.com/rad_frames/kihen1.svg",
+        "https://media.kanjialive.com/rad_frames/kihen2.svg"
+      ]
+    },
+    "references": {
+      "grade": 5,
+      "kodansha": "627",
+      "classic_nelson": "2259"
+    }
+  },
+  "jishoData": {
+    "query": "格",
+    "found": true,
+    "taughtIn": "lớp 5",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "281",
+    "strokeCount": 10,
+    "meaning": "địa vị, cấp bậc, năng lực, tính cách, trường hợp (luật, ngữ pháp)",
+    "kunyomi": [],
+    "onyomi": [
+      "カク",
+      "コウ",
+      "キャク",
+      "ゴウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "格",
+        "reading": "カク",
+        "meaning": "trạng thái, vị trí, cấp bậc, phương pháp, cách thức, phong cách, quy tắc, quy định, luật, trường hợp, hình ảnh (dạng tam đoạn luận)"
+      },
+      {
+        "example": "格上げ",
+        "reading": "カクアゲ",
+        "meaning": "nâng cao địa vị, nâng cấp, thăng chức"
+      },
+      {
+        "example": "規格",
+        "reading": "キカク",
+        "meaning": "tiêu chuẩn, chuẩn mực"
+      },
+      {
+        "example": "低価格",
+        "reading": "テイカカク",
+        "meaning": "giá thấp"
+      },
+      {
+        "example": "格子",
+        "reading": "コウシ",
+        "meaning": "lưới, lưới, thanh cửa sổ, lưới, lưới, lưới mắt cáo, cửa lưới, mẫu séc (ed), kẻ sọc"
+      },
+      {
+        "example": "格子柄",
+        "reading": "コウシガラ",
+        "meaning": "mẫu kẻ ô, mẫu kẻ ô, mẫu ca rô, kẻ sọc, thiết kế dạng lưới"
+      },
+      {
+        "example": "格",
+        "reading": "キャク",
+        "meaning": "sửa đổi (của ritsuryō)"
+      },
+      {
+        "example": "格式",
+        "reading": "カクシキ",
+        "meaning": "hình thức, quy tắc xã hội, địa vị xã hội, địa vị xã hội, những sửa đổi và quy định thực thi (của ritsuryō)"
+      },
+      {
+        "example": "弘仁格",
+        "reading": "コウニンキャク",
+        "meaning": "Pháp lệnh thời Konin"
+      },
+      {
+        "example": "格組",
+        "reading": "ゴウグミ",
+        "meaning": "khung gỗ"
+      },
+      {
+        "example": "格天井",
+        "reading": "ゴウテンジョウ",
+        "meaning": "trần nhà"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "口",
+      "夂",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26684_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0683c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/683c.gif",
+    "uri": "https://jisho.org/search/%E6%A0%BC%23kanji"
+  }
+}

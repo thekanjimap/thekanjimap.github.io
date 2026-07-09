@@ -1,0 +1,92 @@
+{
+  "id": "餌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "餌",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "newspaperFrequencyRank": "2277",
+    "strokeCount": 14,
+    "meaning": "thức ăn, mồi, con mồi, lợi nhuận hấp dẫn",
+    "kunyomi": [
+      "え",
+      "えば",
+      "えさ",
+      "もち"
+    ],
+    "onyomi": [
+      "ジ",
+      "ニ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "採餌",
+        "reading": "サイジ",
+        "meaning": "cho ăn (bằng động vật), lấy thức ăn"
+      },
+      {
+        "example": "好餌",
+        "reading": "コウジ",
+        "meaning": "mồi, mồi nhử, dụ dỗ, con mồi dễ dàng, nạn nhân dễ dàng, kẻ hút"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "餌",
+        "reading": "えさ",
+        "meaning": "(động vật) thức ăn cho vật nuôi, thức ăn cho vật nuôi, mồi nhử, dụ dỗ, dụ dỗ"
+      },
+      {
+        "example": "餌場",
+        "reading": "えさば",
+        "meaning": "nơi kiếm ăn"
+      },
+      {
+        "example": "撒き餌",
+        "reading": "まきえ",
+        "meaning": "thức ăn chăn nuôi rải rác, mồi đất"
+      },
+      {
+        "example": "毒餌",
+        "reading": "どくえ",
+        "meaning": "mồi độc"
+      },
+      {
+        "example": "餌",
+        "reading": "えさ",
+        "meaning": "(động vật) thức ăn cho vật nuôi, thức ăn cho vật nuôi, mồi nhử, dụ dỗ, dụ dỗ"
+      },
+      {
+        "example": "餌場",
+        "reading": "えさば",
+        "meaning": "nơi kiếm ăn"
+      },
+      {
+        "example": "釣り餌",
+        "reading": "つりえ",
+        "meaning": "mồi (để câu cá)"
+      },
+      {
+        "example": "練り餌",
+        "reading": "ねりえ",
+        "meaning": "dán thức ăn cho chim, dán mồi câu cá"
+      }
+    ],
+    "radical": {
+      "symbol": "食",
+      "forms": [
+        "飠"
+      ],
+      "meaning": "ăn, thức ăn"
+    },
+    "parts": [
+      "耳",
+      "艮",
+      "食"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39180_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0990c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/990c.gif",
+    "uri": "https://jisho.org/search/%E9%A4%8C%23kanji"
+  }
+}

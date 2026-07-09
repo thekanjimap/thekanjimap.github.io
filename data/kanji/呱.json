@@ -1,0 +1,44 @@
+{
+  "id": "呱",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "呱",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "khóc",
+    "kunyomi": [],
+    "onyomi": [
+      "コ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "呱々",
+        "reading": "ココ",
+        "meaning": "tiếng khóc của trẻ sơ sinh khi chào đời"
+      },
+      {
+        "example": "呱々の声をあげる",
+        "reading": "ココノコエヲアゲル",
+        "meaning": "được sinh ra (của một em bé), đi vào thế giới"
+      },
+      {
+        "example": "呱々",
+        "reading": "ココ",
+        "meaning": "tiếng khóc của trẻ sơ sinh khi chào đời"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "口",
+      "瓜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21617_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05471.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5471.gif",
+    "uri": "https://jisho.org/search/%E5%91%B1%23kanji"
+  }
+}

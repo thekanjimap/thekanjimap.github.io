@@ -1,0 +1,46 @@
+{
+  "id": "葩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "葩",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "hoa, cánh hoa",
+    "kunyomi": [
+      "はな"
+    ],
+    "onyomi": [
+      "ハ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "花びら餅",
+        "reading": "ハナビラモチ",
+        "meaning": "cây ngưu bàng ngọt và đậu miso phủ một lớp mochi mỏng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "花びら餅",
+        "reading": "はなびらもち",
+        "meaning": "cây ngưu bàng ngọt và đậu miso phủ một lớp mochi mỏng"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "巴",
+      "白",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33897_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08469.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8469.gif",
+    "uri": "https://jisho.org/search/%E8%91%A9%23kanji"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "呑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "呑",
+    "found": true,
+    "newspaperFrequencyRank": "2362",
+    "strokeCount": 7,
+    "meaning": "uống",
+    "kunyomi": [
+      "の.む"
+    ],
+    "onyomi": [
+      "トン",
+      "ドン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "呑酸",
+        "reading": "ドンサン",
+        "meaning": "trào ngược axit, ợ nóng"
+      },
+      {
+        "example": "呑舟",
+        "reading": "ドンシュウ",
+        "meaning": "nuốt chửng cả một chiếc thuyền"
+      },
+      {
+        "example": "併呑",
+        "reading": "ヘイドン",
+        "meaning": "sự sáp nhập, sự hấp thụ, sự sáp nhập, sự nuốt chửng"
+      },
+      {
+        "example": "清濁併呑",
+        "reading": "セイダクヘイドン",
+        "meaning": "đủ rộng rãi để chấp nhận mọi thứ, cả thiện và ác, đủ rộng lượng để bao dung với mọi người thuộc mọi sắc thái"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "飲む",
+        "reading": "のむ",
+        "meaning": "uống, nuốt, uống (thuốc), hút thuốc (thuốc lá), nuốt, nhấn chìm, kìm nén (sự tức giận, cảm giác cay đắng, v.v.), kiềm chế, kiềm chế, nuốt (nước mắt), nín thở, chấp nhận (một yêu cầu, điều kiện, v.v.), đồng ý, coi thường (ai đó), không nghĩ gì đến, choáng ngợp, sợ hãi, mang theo (một con dao găm giấu kín, v.v.), để giấu (lên tay áo, v.v.)"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "ノ",
+      "口",
+      "大"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21585_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05451.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5451.gif",
+    "uri": "https://jisho.org/search/%E5%91%91%23kanji"
+  }
+}

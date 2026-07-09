@@ -1,0 +1,73 @@
+{
+  "id": "挿",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "挿",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1908",
+    "strokeCount": 10,
+    "meaning": "chèn, đưa vào, ghép, đeo (thanh kiếm)",
+    "kunyomi": [
+      "さ.す",
+      "はさ.む"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "挿入",
+        "reading": "ソウニュウ",
+        "meaning": "chèn, kết hợp, thêm vào"
+      },
+      {
+        "example": "挿話",
+        "reading": "ソウワ",
+        "meaning": "tình tiết, câu chuyện bên lề, câu chuyện trong một câu chuyện, sang một bên, giai thoại"
+      },
+      {
+        "example": "外挿",
+        "reading": "ガイソウ",
+        "meaning": "phép ngoại suy"
+      },
+      {
+        "example": "内挿",
+        "reading": "ナイソウ",
+        "meaning": "phép nội suy"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "挿す",
+        "reading": "さす",
+        "meaning": "nhét, nhét vào, trồng (cắt), tấn công, sắp xếp (hoa), đeo (một thanh kiếm) vào thắt lưng, đóng, đóng, khóa, buộc chặt"
+      },
+      {
+        "example": "挟む",
+        "reading": "はさむ",
+        "meaning": "giữ giữa (ví dụ: ngón tay, đũa), kẹp (từ cả hai phía), đặt giữa, kẹp giữa, chèn, xen vào, bắt (ví dụ: ngón tay trong cửa), bẫy, véo, chèn (ví dụ: đột nhập vào quá trình tố tụng), xen vào (ví dụ: phản đối), xen vào, ném vào (ví dụ: một trò đùa), ở hai bên (một con đường, cái bàn, v.v.), có giữa mỗi cái khác, băng qua (đường, sông, v.v.), chứa chấp (cảm xúc), vứt bỏ (ví dụ: nghi ngờ)"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "ノ",
+      "十",
+      "扎",
+      "日",
+      "田",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25407_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0633f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/633f.gif",
+    "uri": "https://jisho.org/search/%E6%8C%BF%23kanji"
+  }
+}

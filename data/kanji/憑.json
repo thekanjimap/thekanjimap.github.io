@@ -1,0 +1,71 @@
+{
+  "id": "憑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "憑",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "phụ thuộc, dựa vào, bằng chứng, bằng chứng, theo, sở hữu, ám ảnh",
+    "kunyomi": [
+      "つ.く",
+      "つか.れる",
+      "よ.る",
+      "たの.む"
+    ],
+    "onyomi": [
+      "ヒョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "憑依",
+        "reading": "ヒョウイ",
+        "meaning": "sự chiếm hữu (bởi một linh hồn, một con quỷ, v.v.), sự phụ thuộc (vào)"
+      },
+      {
+        "example": "憑拠",
+        "reading": "ヒョウキョ",
+        "meaning": "cơ sở, nền tảng, sự trông cậy"
+      },
+      {
+        "example": "証憑",
+        "reading": "ショウヒョウ",
+        "meaning": "chứng từ, giấy tờ chứng minh giao dịch"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "憑く",
+        "reading": "つく",
+        "meaning": "sở hữu, ám ảnh"
+      },
+      {
+        "example": "憑かれる",
+        "reading": "つかれる",
+        "meaning": "bị chiếm hữu"
+      },
+      {
+        "example": "頼む",
+        "reading": "たのむ",
+        "meaning": "yêu cầu, cầu xin, yêu cầu, gọi điện, ra lệnh, bảo lưu, giao phó, nhờ cậy, làm ơn, làm ơn"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "冫",
+      "心",
+      "杰",
+      "馬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24977_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06191.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6191.gif",
+    "uri": "https://jisho.org/search/%E6%86%91%23kanji"
+  }
+}

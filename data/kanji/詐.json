@@ -1,0 +1,64 @@
+{
+  "id": "詐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "詐",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1511",
+    "strokeCount": 12,
+    "meaning": "nói dối, nói dối, lừa dối, giả vờ",
+    "kunyomi": [
+      "いつわ.る"
+    ],
+    "onyomi": [
+      "サ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "詐欺",
+        "reading": "サギ",
+        "meaning": "lừa đảo, lừa đảo, ghép, gian lận, lừa gạt, lừa đảo, nói rằng bạn sẽ làm điều gì đó nhưng cuối cùng lại không làm, hứa mà không giữ lời, bỏ cuộc"
+      },
+      {
+        "example": "詐欺師",
+        "reading": "サギシ",
+        "meaning": "kẻ lừa đảo, kẻ lừa đảo, kẻ lừa đảo, kẻ lừa đảo"
+      },
+      {
+        "example": "欺詐",
+        "reading": "ギサ",
+        "meaning": "sự lừa đảo, sự lừa đảo, sự lừa bịp, trò lừa bịp"
+      },
+      {
+        "example": "譎詐",
+        "reading": "キッサ",
+        "meaning": "sự giả dối, sự bịa đặt, sự giả vờ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "偽る",
+        "reading": "いつわる",
+        "meaning": "nói dối, giả vờ, giả vờ, làm giả, lừa dối, lừa dối"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "lời nói"
+    },
+    "parts": [
+      "ノ",
+      "言",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35408_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a50.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a50.gif",
+    "uri": "https://jisho.org/search/%E8%A9%90%23kanji"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "滾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "滾",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "chảy, sôi",
+    "kunyomi": [
+      "たぎ.る",
+      "たぎ.らかす"
+    ],
+    "onyomi": [
+      "コン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "滾々",
+        "reading": "コンコン",
+        "meaning": "(chảy) dồi dào"
+      },
+      {
+        "example": "滾々",
+        "reading": "コンコン",
+        "meaning": "(chảy) dồi dào"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "滾る",
+        "reading": "たぎる",
+        "meaning": "sôi lên, sôi sục, sôi sục (ví dụ như thác nước, dòng chảy), sủi bọt, đổ xuống, trào lên (cảm xúc), tràn ra (ví dụ tinh thần chiến đấu), sôi sục (đặc biệt là máu)"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "ハ",
+      "亠",
+      "口",
+      "汁",
+      "衣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28414_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06efe.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6efe.gif",
+    "uri": "https://jisho.org/search/%E6%BB%BE%23kanji"
+  }
+}

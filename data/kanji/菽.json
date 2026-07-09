@@ -1,0 +1,41 @@
+{
+  "id": "菽",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "菽",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "đậu",
+    "kunyomi": [
+      "まめ"
+    ],
+    "onyomi": [
+      "シュク"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "豆",
+        "reading": "まめ",
+        "meaning": "cây họ đậu (đặc biệt là các loại đậu ăn được hoặc hạt của chúng, ví dụ như đậu, đậu Hà Lan, đậu), đậu, đậu Hà Lan, đậu nành (Glycine max), đậu nành, đậu nành, cơ quan sinh dục nữ (đặc biệt là âm vật), thận, nhỏ, thu nhỏ, em bé, người lùn, quy mô nhỏ, trẻ em"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "卜",
+      "又",
+      "小",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33789_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/083fd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/83fd.gif",
+    "uri": "https://jisho.org/search/%E8%8F%BD%23kanji"
+  }
+}

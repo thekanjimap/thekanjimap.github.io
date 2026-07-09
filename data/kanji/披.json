@@ -1,0 +1,56 @@
+{
+  "id": "披",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "披",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1438",
+    "strokeCount": 8,
+    "meaning": "vạch trần, mở ra",
+    "kunyomi": [],
+    "onyomi": [
+      "ヒ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "披露",
+        "reading": "ヒロウ",
+        "meaning": "thông báo,trình bày,trình bày,trình diễn,trình diễn,trình bày,trình diễn"
+      },
+      {
+        "example": "披露宴",
+        "reading": "ヒロウエン",
+        "meaning": "tiệc chiêu đãi (ví dụ: đám cưới), tiệc chiêu đãi, lễ kỷ niệm, bữa tiệc"
+      },
+      {
+        "example": "開披",
+        "reading": "カイヒ",
+        "meaning": "mở (một lá thư), mở niêm phong"
+      },
+      {
+        "example": "直披",
+        "reading": "ジキヒ",
+        "meaning": "riêng tư, bí mật (thư)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "又",
+      "扎",
+      "皮"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25259_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062ab.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62ab.gif",
+    "uri": "https://jisho.org/search/%E6%8A%AB%23kanji"
+  }
+}

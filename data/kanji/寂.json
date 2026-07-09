@@ -1,0 +1,116 @@
+{
+  "id": "寂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "寂",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1599",
+    "strokeCount": 11,
+    "meaning": "sự cô đơn, lặng lẽ, êm dịu, trưởng thành, cái chết của một linh mục",
+    "kunyomi": [
+      "さび",
+      "さび.しい",
+      "さび.れる",
+      "さみ.しい"
+    ],
+    "onyomi": [
+      "ジャク",
+      "セキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "寂",
+        "reading": "ジャク",
+        "meaning": "(đi vào) niết bàn, chết, im lặng, yên tĩnh"
+      },
+      {
+        "example": "寂然",
+        "reading": "セキゼン",
+        "meaning": "cô đơn, hoang tàn, cô đơn, hoang tàn"
+      },
+      {
+        "example": "和敬清寂",
+        "reading": "ワケイセイジャク",
+        "meaning": "Hòa hợp, tôn trọng, thuần khiết và tĩnh lặng, bốn yếu tố quan trọng nhất của trà đạo"
+      },
+      {
+        "example": "空寂",
+        "reading": "クウジャク",
+        "meaning": "sự trống rỗng hoàn toàn (tức là sự phủ nhận sự tồn tại cố hữu của vạn vật), niết bàn (nơi nhận ra sự trống rỗng này), yên tĩnh và cô đơn"
+      },
+      {
+        "example": "寂",
+        "reading": "ジャク",
+        "meaning": "(đi vào) niết bàn, chết, im lặng, yên tĩnh"
+      },
+      {
+        "example": "寂然",
+        "reading": "セキゼン",
+        "meaning": "cô đơn, hoang tàn, cô đơn, hoang tàn"
+      },
+      {
+        "example": "闃寂",
+        "reading": "ゲキセキ",
+        "meaning": "im lặng và tĩnh lặng, hoang vắng"
+      },
+      {
+        "example": "寂々",
+        "reading": "セキセキ",
+        "meaning": "buồn, cô đơn, hoang vắng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "寂",
+        "reading": "さび",
+        "meaning": "lớp gỉ, vẻ ngoài cổ kính, sự đơn giản thanh lịch, giọng nói được đào tạo bài bản"
+      },
+      {
+        "example": "寂しい",
+        "reading": "さびしい",
+        "meaning": "cô đơn, lẻ loi, đơn độc, hoang tàn"
+      },
+      {
+        "example": "侘と寂",
+        "reading": "わびとさび",
+        "meaning": "thích sự đơn giản và yên tĩnh, wabi và sabi"
+      },
+      {
+        "example": "寂々",
+        "reading": "せきせき",
+        "meaning": "buồn, cô đơn, hoang vắng"
+      },
+      {
+        "example": "寂しい",
+        "reading": "さびしい",
+        "meaning": "cô đơn, lẻ loi, đơn độc, hoang tàn"
+      },
+      {
+        "example": "寂れる",
+        "reading": "さびれる",
+        "meaning": "suy tàn (trong thịnh vượng), trở nên hoang vắng, trở nên hoang tàn, giảm dần (của một âm thanh)"
+      },
+      {
+        "example": "寂しい",
+        "reading": "さびしい",
+        "meaning": "cô đơn, lẻ loi, đơn độc, hoang tàn"
+      }
+    ],
+    "radical": {
+      "symbol": "宀",
+      "meaning": "mái nhà"
+    },
+    "parts": [
+      "卜",
+      "又",
+      "宀",
+      "小"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23490_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bc2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bc2.gif",
+    "uri": "https://jisho.org/search/%E5%AF%82%23kanji"
+  }
+}

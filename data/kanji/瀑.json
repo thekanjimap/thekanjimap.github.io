@@ -1,0 +1,66 @@
+{
+  "id": "瀑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "瀑",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "thác nước",
+    "kunyomi": [
+      "たき",
+      "にわかあめ"
+    ],
+    "onyomi": [
+      "バク",
+      "ハク",
+      "ホウ",
+      "ボウ",
+      "ホク",
+      "ボク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "瀑声",
+        "reading": "バクセイ",
+        "meaning": "âm thanh của thác nước"
+      },
+      {
+        "example": "瀑布",
+        "reading": "バクフ",
+        "meaning": "thác nước, đục thủy tinh thể, thác nước"
+      },
+      {
+        "example": "氷瀑",
+        "reading": "ヒョウバク",
+        "meaning": "thác nước đóng băng, thác nước đóng băng, thác băng"
+      },
+      {
+        "example": "飛瀑",
+        "reading": "ヒバク",
+        "meaning": "thác nước từ trên cao"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "二",
+      "日",
+      "水",
+      "汁",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28689_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07011.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7011.gif",
+    "uri": "https://jisho.org/search/%E7%80%91%23kanji"
+  }
+}

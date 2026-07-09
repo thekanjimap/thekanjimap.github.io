@@ -1,0 +1,52 @@
+{
+  "id": "朧",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "朧",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "sự mù mịt, sự mơ mộng, sự u ám",
+    "kunyomi": [
+      "おぼろ"
+    ],
+    "onyomi": [
+      "ロウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "意識朦朧",
+        "reading": "イシキモウロウ",
+        "meaning": "ở trong trạng thái mơ hồ, chỉ nửa tỉnh nửa mê, cảm thấy buồn ngủ"
+      },
+      {
+        "example": "酔眼朦朧",
+        "reading": "スイガンモウロウ",
+        "meaning": "(với) mắt mờ vì uống rượu, mắt say, choáng váng vì rượu"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "朧",
+        "reading": "おぼろ",
+        "meaning": "cá hoặc thịt băm, mờ, nhạt, mơ hồ, được tẩm gia vị và chiên"
+      },
+      {
+        "example": "おぼろ雲",
+        "reading": "おぼろぐも",
+        "meaning": "đám mây tầng cao"
+      }
+    ],
+    "radical": {
+      "symbol": "月",
+      "meaning": "mặt trăng, tháng"
+    },
+    "parts": [
+      "月",
+      "立"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26407_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06727.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6727.gif",
+    "uri": "https://jisho.org/search/%E6%9C%A7%23kanji"
+  }
+}

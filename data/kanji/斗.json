@@ -1,0 +1,67 @@
+{
+  "id": "斗",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "斗",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1885",
+    "strokeCount": 4,
+    "meaning": "Big Dipper, ten sho (vol), sake gáo, chấm và chữ thập (số 68)",
+    "kunyomi": [],
+    "onyomi": [
+      "ト",
+      "トウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "斗",
+        "reading": "ト",
+        "meaning": "đến, đơn vị thể tích truyền thống, xấp xỉ. 18 lít, khối chịu lực vuông (trên đỉnh cột), chòm sao Bắc Đẩu (một trong 28 dinh thự)"
+      },
+      {
+        "example": "斗",
+        "reading": "トマス",
+        "meaning": "gốc kanji 68 ở bên phải"
+      },
+      {
+        "example": "星斗",
+        "reading": "セイト",
+        "meaning": "ngôi sao"
+      },
+      {
+        "example": "泰斗",
+        "reading": "タイト",
+        "meaning": "quyền lực lớn, người nổi tiếng, người nổi tiếng"
+      },
+      {
+        "example": "闘争",
+        "reading": "トウソウ",
+        "meaning": "đấu tranh, chiến đấu, chiến đấu, xung đột, đấu tranh (vì quyền lợi, mức lương cao hơn, v.v.), xung đột, tranh chấp (lao động), đình công"
+      },
+      {
+        "example": "闘魂",
+        "reading": "トウコン",
+        "meaning": "tinh thần chiến đấu"
+      },
+      {
+        "example": "擬闘",
+        "reading": "ギトウ",
+        "meaning": "chiến đấu trên sân khấu, chiến đấu dàn dựng, vũ đạo chiến đấu"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "斗",
+      "meaning": "cái gáo"
+    },
+    "parts": [
+      "斗"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26007_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06597.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6597.gif",
+    "uri": "https://jisho.org/search/%E6%96%97%23kanji"
+  }
+}

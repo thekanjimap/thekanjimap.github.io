@@ -1,0 +1,75 @@
+{
+  "id": "藪",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "藪",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "bụi cây, bụi cây, bụi rậm, lùm cây",
+    "kunyomi": [
+      "やぶ"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "藪沢",
+        "reading": "ソウタク",
+        "meaning": "vùng đất ngập nước với thảm thực vật phong phú, nơi tập trung vạn vật"
+      },
+      {
+        "example": "淵叢",
+        "reading": "エンソウ",
+        "meaning": "nơi tập trung, trung tâm, trung tâm"
+      },
+      {
+        "example": "談叢",
+        "reading": "ダンソウ",
+        "meaning": "một số câu chuyện thú vị, cuốn sách chứa một số câu chuyện thú vị"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "藪",
+        "reading": "やぶ",
+        "meaning": "bụi rậm, bụi rậm, lùm cây, cây bụi, lang băm (y tế)"
+      },
+      {
+        "example": "藪医",
+        "reading": "やぶい",
+        "meaning": "(y học) lang băm"
+      },
+      {
+        "example": "竹やぶ",
+        "reading": "たけやぶ",
+        "meaning": "rừng tre"
+      },
+      {
+        "example": "草薮",
+        "reading": "くさやぶ",
+        "meaning": "bụi cây, bụi cây, bụi cây"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "一",
+      "乞",
+      "口",
+      "女",
+      "攵",
+      "艾",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34282_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085ea.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85ea.gif",
+    "uri": "https://jisho.org/search/%E8%97%AA%23kanji"
+  }
+}

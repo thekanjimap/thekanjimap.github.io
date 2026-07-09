@@ -1,0 +1,37 @@
+{
+  "id": "餤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "餤",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "ăn, cho ăn, nâng cao, thu hút, xúi giục, thức ăn nướng trong bột",
+    "kunyomi": [],
+    "onyomi": [
+      "タン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "餅餤",
+        "reading": "ベイダン",
+        "meaning": "Bánh ngọt thời Heian làm từ trứng vịt hoặc trứng ngỗng trộn với rau luộc và bọc trong mochi sau đó cắt thành hình vuông"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "食",
+      "forms": [
+        "飠"
+      ],
+      "meaning": "ăn, thức ăn"
+    },
+    "parts": [
+      "火",
+      "食"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39204_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09924.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9924.gif",
+    "uri": "https://jisho.org/search/%E9%A4%A4%23kanji"
+  }
+}

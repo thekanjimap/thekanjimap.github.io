@@ -1,0 +1,58 @@
+{
+  "id": "蘊",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蘊",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "chất đống lên",
+    "kunyomi": [
+      "つ.む"
+    ],
+    "onyomi": [
+      "ウン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蘊奥",
+        "reading": "ウンノウ",
+        "meaning": "những bí ẩn bên trong (của một lĩnh vực nghiên cứu), những bí mật"
+      },
+      {
+        "example": "蘊蓄",
+        "reading": "ウンチク",
+        "meaning": "kiến thức uyên bác, kiến thức sâu rộng, kho tàng kiến thức rộng lớn"
+      },
+      {
+        "example": "中蘊",
+        "reading": "チュウウン",
+        "meaning": "bardo, trạng thái (hoặc thời kỳ) tồn tại trung gian giữa cái chết và sự tái sinh của một người (ở Nhật Bản, 49 ngày)"
+      },
+      {
+        "example": "行蘊",
+        "reading": "ギョウウン",
+        "meaning": "sự hình thành của ý chí, sự hình thành của ý chí"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "小",
+      "幺",
+      "日",
+      "皿",
+      "糸",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34314_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0860a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/860a.gif",
+    "uri": "https://jisho.org/search/%E8%98%8A%23kanji"
+  }
+}

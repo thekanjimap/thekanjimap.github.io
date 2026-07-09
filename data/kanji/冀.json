@@ -1,0 +1,56 @@
+{
+  "id": "冀",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "冀",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "hy vọng, ước muốn, tỉnh Hà Bắc",
+    "kunyomi": [
+      "こいねが.う",
+      "こいねが.わくは"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "希望",
+        "reading": "キボウ",
+        "meaning": "hy vọng, mong muốn, khát vọng, triển vọng (tươi sáng), kỳ vọng"
+      },
+      {
+        "example": "希求",
+        "reading": "キキュウ",
+        "meaning": "khao khát, khao khát lớn lao, khát vọng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "希う",
+        "reading": "こいねがう",
+        "meaning": "cầu xin, cầu xin, van nài, cầu xin, cầu xin"
+      },
+      {
+        "example": "乞い願わくは",
+        "reading": "こいねがわくは",
+        "meaning": "Tôi tha thiết cầu nguyện điều đó, tôi cầu xin điều đó, tôi khao khát điều đó"
+      }
+    ],
+    "radical": {
+      "symbol": "八",
+      "meaning": "tám"
+    },
+    "parts": [
+      "ハ",
+      "二",
+      "匕",
+      "爿",
+      "田"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20864_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05180.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5180.gif",
+    "uri": "https://jisho.org/search/%E5%86%80%23kanji"
+  }
+}

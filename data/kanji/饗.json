@@ -1,0 +1,53 @@
+{
+  "id": "饗",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "饗",
+    "found": true,
+    "newspaperFrequencyRank": "2347",
+    "strokeCount": 22,
+    "meaning": "bữa tiệc",
+    "kunyomi": [
+      "う.ける",
+      "もてな.す"
+    ],
+    "onyomi": [
+      "キョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "饗",
+        "reading": "キョウ",
+        "meaning": "chiêu đãi ai đó (đồ ăn hoặc đồ uống), chiêu đãi ai đó (như khách của một người)"
+      },
+      {
+        "example": "饗宴",
+        "reading": "キョウエン",
+        "meaning": "bữa tiệc, bữa tiệc"
+      },
+      {
+        "example": "大饗",
+        "reading": "タイキョウ",
+        "meaning": "tiệc lớn, tiệc cung đình (thời Heian)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "食",
+      "forms": [
+        "飠"
+      ],
+      "meaning": "ăn, thức ăn"
+    },
+    "parts": [
+      "幺",
+      "艮",
+      "邦",
+      "食"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39255_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09957.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9957.gif",
+    "uri": "https://jisho.org/search/%E9%A5%97%23kanji"
+  }
+}

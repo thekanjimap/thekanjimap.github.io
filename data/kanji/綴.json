@@ -1,0 +1,99 @@
+{
+  "id": "綴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "綴",
+    "found": true,
+    "newspaperFrequencyRank": "2149",
+    "strokeCount": 14,
+    "meaning": "soạn, đánh vần, viết, đóng sách (sách)",
+    "kunyomi": [
+      "と.じる",
+      "つづ.る",
+      "つづり",
+      "すみ.やか"
+    ],
+    "onyomi": [
+      "テイ",
+      "テツ",
+      "テチ",
+      "ゲツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "綴字",
+        "reading": "テイジ",
+        "meaning": "đánh vần"
+      },
+      {
+        "example": "綴字法",
+        "reading": "テイジホウ",
+        "meaning": "quy tắc chính tả, chính tả"
+      },
+      {
+        "example": "補綴",
+        "reading": "ホテツ",
+        "meaning": "sửa chữa, chỉnh sửa, bổ sung, răng giả, bộ phận giả"
+      },
+      {
+        "example": "原綴",
+        "reading": "ゲンテツ",
+        "meaning": "đánh vần theo ngôn ngữ gốc, đánh vần theo chữ gốc"
+      },
+      {
+        "example": "綴字",
+        "reading": "テイジ",
+        "meaning": "đánh vần"
+      },
+      {
+        "example": "合綴",
+        "reading": "ガッテツ",
+        "meaning": "ràng buộc nhiều giấy tờ hoặc tập sách thành một"
+      },
+      {
+        "example": "補綴",
+        "reading": "ホテツ",
+        "meaning": "sửa chữa, chỉnh sửa, bổ sung, răng giả, bộ phận giả"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "綴じる",
+        "reading": "とじる",
+        "meaning": "buộc, giũa, hoàn thiện (món ăn) bằng cách đổ trứng đã đánh vào nước dùng, khâu lại, khâu lại với nhau"
+      },
+      {
+        "example": "綴る",
+        "reading": "つづる",
+        "meaning": "đánh vần, viết, soạn thảo, đóng khung, đóng bìa (ví dụ: tài liệu), vá, khâu lại với nhau, khâu lại với nhau"
+      },
+      {
+        "example": "綴り",
+        "reading": "つづり",
+        "meaning": "chính tả, chính tả, tập tin, tập giấy, bó, ràng buộc"
+      },
+      {
+        "example": "綴り合わせる",
+        "reading": "つづりあわせる",
+        "meaning": "gắn kết với nhau"
+      }
+    ],
+    "radical": {
+      "symbol": "糸",
+      "forms": [
+        "糹"
+      ],
+      "meaning": "lụa"
+    },
+    "parts": [
+      "又",
+      "小",
+      "幺",
+      "糸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32180_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07db4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7db4.gif",
+    "uri": "https://jisho.org/search/%E7%B6%B4%23kanji"
+  }
+}

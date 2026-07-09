@@ -1,0 +1,76 @@
+{
+  "id": "愁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "愁",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2171",
+    "strokeCount": 13,
+    "meaning": "đau khổ, đau buồn, than thở, lo lắng",
+    "kunyomi": [
+      "うれ.える",
+      "うれ.い"
+    ],
+    "onyomi": [
+      "シュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "愁傷",
+        "reading": "シュウショウ",
+        "meaning": "đau buồn, đau buồn"
+      },
+      {
+        "example": "愁色",
+        "reading": "シュウショク",
+        "meaning": "cái nhìn lo lắng"
+      },
+      {
+        "example": "哀愁",
+        "reading": "アイシュウ",
+        "meaning": "bệnh hoạn, đau buồn, đau buồn"
+      },
+      {
+        "example": "幽愁",
+        "reading": "ユウシュウ",
+        "meaning": "suy ngẫm sâu sắc, u sầu, u ám"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "憂える",
+        "reading": "うれえる",
+        "meaning": "lo lắng, lo lắng, lo lắng, than thở, đau buồn, cảm thấy buồn phiền về"
+      },
+      {
+        "example": "憂い",
+        "reading": "うれい",
+        "meaning": "nỗi buồn, sự đau buồn, nỗi thống khổ, sự đau khổ, sự lo lắng, lo lắng, rắc rối, đau khổ, sợ hãi, nghi ngờ"
+      },
+      {
+        "example": "憂い顔",
+        "reading": "うれいがお",
+        "meaning": "vẻ mặt buồn bã, vẻ mặt buồn bã, vẻ mặt lo lắng, vẻ mặt buồn bã"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "心",
+      "火",
+      "禾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24833_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06101.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6101.gif",
+    "uri": "https://jisho.org/search/%E6%84%81%23kanji"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "蒼",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蒼",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2276",
+    "strokeCount": 13,
+    "meaning": "xanh, nhạt",
+    "kunyomi": [
+      "あお.い"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蒼鉛",
+        "reading": "ソウエン",
+        "meaning": "bismuth"
+      },
+      {
+        "example": "滄海",
+        "reading": "ソウカイ",
+        "meaning": "biển xanh, nước trong xanh"
+      },
+      {
+        "example": "蒼々",
+        "reading": "ソウソウ",
+        "meaning": "xanh lam (bầu trời, đại dương, v.v.), tươi và xanh lục (của thảm thực vật), xanh tươi, tươi tốt, xám (tóc), già"
+      },
+      {
+        "example": "穹蒼",
+        "reading": "キュウソウ",
+        "meaning": "vòm trời, vòm trời"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "青い",
+        "reading": "あおい",
+        "meaning": "xanh lam, xanh da trời, xanh lục, nhạt (màu mặt), xám, xám, chưa chín, thiếu kinh nghiệm"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "个",
+      "口",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33980_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084bc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84bc.gif",
+    "uri": "https://jisho.org/search/%E8%92%BC%23kanji"
+  }
+}

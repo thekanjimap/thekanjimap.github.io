@@ -1,0 +1,346 @@
+{
+  "id": "覧",
+  "kanjialiveData": {
+    "_id": "54317ad8791eba5146ee48a2",
+    "_rev": "9-a85d1ccd0a701a5e52b8dbbddc9b4546",
+    "rad_name_ja": "みる",
+    "grade": 6,
+    "hint_group": 6,
+    "kunyomi": "Không có",
+    "meaning": "nhìn qua, thấy",
+    "kstroke": 17,
+    "examples": [
+      {
+        "japanese": "要覧（ようらん）",
+        "meaning": {
+          "english": "đề cương, khảo sát, sổ tay"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ten)ran(kai)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(ten)ran(kai)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(ten)ran(kai)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(ten)ran(kai)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "一覧表（いちらんひょう）",
+        "meaning": {
+          "english": "danh sách, bảng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ten)ran(kai)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(ten)ran(kai)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(ten)ran(kai)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(ten)ran(kai)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "観覧車（かんらんしゃ）",
+        "meaning": {
+          "english": "vòng đu quay"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ten)ran(kai)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(ten)ran(kai)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(ten)ran(kai)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(ten)ran(kai)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "展覧会（てんらんかい）",
+        "meaning": {
+          "english": "triển lãm"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ten)ran(kai)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(ten)ran(kai)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(ten)ran(kai)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(ten)ran(kai)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "博覧会（はくらんかい）",
+        "meaning": {
+          "english": "hội chợ, triển lãm, triển lãm"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ten)ran(kai)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(ten)ran(kai)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(ten)ran(kai)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(ten)ran(kai)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "一覧する（いちらんする）",
+        "meaning": {
+          "english": "nhìn qua, nhìn qua"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ten)ran(kai)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(ten)ran(kai)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(ten)ran(kai)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(ten)ran(kai)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "回覧する（かいらんする）",
+        "meaning": {
+          "english": "lưu hành (tạp chí, v.v.)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ten)ran(kai)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(ten)ran(kai)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(ten)ran(kai)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(ten)ran(kai)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "ご覧になる（ごらんになる）",
+        "meaning": {
+          "english": "nhìn này [anh yêu.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ten)ran(kai)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(ten)ran(kai)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(ten)ran(kai)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(ten)ran(kai)_06_h.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "覧",
+    "luminous": "",
+    "rad_name_search": [
+      "miru"
+    ],
+    "rad_order": 179,
+    "txt_books": [
+      {
+        "chapter": "17",
+        "txt_bk": "txtSFJ3"
+      },
+      {
+        "chapter": "17",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "30"
+      }
+    ],
+    "kname": "(ten)ran(kai)",
+    "rad_utf": "⾒",
+    "stroketimes": [
+      0,
+      1.6,
+      2.6,
+      3.6,
+      5.533333,
+      6.933333,
+      7.933333,
+      9.333333,
+      10,
+      11.133333,
+      12.533333,
+      13.866667,
+      16,
+      17,
+      18.066667,
+      19.133333,
+      20,
+      22.4
+    ],
+    "kunyomi_ka_display": "Không có",
+    "dick": "1827",
+    "rad_name": "miru",
+    "dicn": "4292",
+    "mn_hint": "Minister 臣 at a world expo; people [5] behind a rope 一 watching 見 him.",
+    "rad_stroke": 7,
+    "onyomi_ja": "ラン",
+    "rad_meaning": "để xem",
+    "onyomi": "ran",
+    "ka_id": "ka_1122",
+    "onyomi_search": [
+      "ran",
+      "ran"
+    ],
+    "kunyomi_search": [
+      "Không có",
+      "Không có"
+    ],
+    "meaning_search": [
+      "look over",
+      "look",
+      "over",
+      "see",
+      "look over, see"
+    ],
+    "onyomi_ja_search": [
+      "ラン",
+      "ラン"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "to see",
+      "to",
+      "see",
+      "to see"
+    ],
+    "rad_name_ja_search": [
+      "みる"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "cijr",
+      "cijr:30",
+      "cijr:c30"
+    ],
+    "rad_name_file": "miru",
+    "kanji": {
+      "character": "覧",
+      "meaning": {
+        "english": "look over, see"
+      },
+      "strokes": {
+        "count": 17,
+        "timings": [
+          0,
+          1.6,
+          2.6,
+          3.6,
+          5.533333,
+          6.933333,
+          7.933333,
+          9.333333,
+          10,
+          11.133333,
+          12.533333,
+          13.866667,
+          16,
+          17,
+          18.066667,
+          19.133333,
+          20,
+          22.4
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/(ten)ran(kai)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ten)ran(kai)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ten)ran(kai)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ten)ran(kai)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ten)ran(kai)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ten)ran(kai)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ten)ran(kai)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ten)ran(kai)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ten)ran(kai)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ten)ran(kai)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ten)ran(kai)_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ten)ran(kai)_12.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ten)ran(kai)_13.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ten)ran(kai)_14.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ten)ran(kai)_15.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ten)ran(kai)_16.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ten)ran(kai)_17.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "ran",
+        "katakana": "ラン"
+      },
+      "kunyomi": {
+        "romaji": "Không có",
+        "hiragana": "Không có"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/(ten)ran(kai)_17.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/(ten)ran(kai)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/(ten)ran(kai)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⾒",
+      "strokes": 7,
+      "image": "https://media.kanjialive.com/radical_character/miru.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "みる",
+        "romaji": "miru"
+      },
+      "meaning": {
+        "english": "để xem"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/miru0.svg",
+        "https://media.kanjialive.com/rad_frames/miru1.svg",
+        "https://media.kanjialive.com/rad_frames/miru2.svg"
+      ]
+    },
+    "references": {
+      "grade": 6,
+      "kodansha": "1827",
+      "classic_nelson": "4292"
+    }
+  },
+  "jishoData": {
+    "query": "覧",
+    "found": true,
+    "taughtIn": "lớp 6",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1510",
+    "strokeCount": 17,
+    "meaning": "sự nghiên cứu, xem",
+    "kunyomi": [
+      "み.る"
+    ],
+    "onyomi": [
+      "ラン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "一覧",
+        "reading": "イチラン",
+        "meaning": "nhìn, liếc nhìn, nhìn qua, nhìn qua, liếc qua, lướt qua, tóm tắt, danh sách, bảng, danh mục, danh mục"
+      },
+      {
+        "example": "遊覧",
+        "reading": "ユウラン",
+        "meaning": "tham quan"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "見る",
+        "reading": "みる",
+        "meaning": "nhìn, nhìn, quan sát, quan sát, kiểm tra, nhìn qua, đánh giá, kiểm tra, phán đoán, chăm sóc, chú ý đến, chăm sóc, để mắt tới, trải nghiệm, gặp (bất hạnh, thành công, v.v.), cố gắng ..., thử ..., thử ... thử, thấy (cái đó) ..., tìm thấy (cái đó) ..."
+      }
+    ],
+    "radical": {
+      "symbol": "見",
+      "meaning": "xem"
+    },
+    "parts": [
+      "ノ",
+      "乞",
+      "二",
+      "臣",
+      "見"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35239_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/089a7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/89a7.gif",
+    "uri": "https://jisho.org/search/%E8%A6%A7%23kanji"
+  }
+}

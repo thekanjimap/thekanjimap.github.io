@@ -1,0 +1,68 @@
+{
+  "id": "跳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "跳",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1716",
+    "strokeCount": 13,
+    "meaning": "nhảy lên, nhảy lên, lò xo, giật, chồm lên, xô, bắn tung tóe, lắp bắp, búng tay",
+    "kunyomi": [
+      "は.ねる",
+      "と.ぶ",
+      "-と.び"
+    ],
+    "onyomi": [
+      "チョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "跳躍",
+        "reading": "チョウヤク",
+        "meaning": "nhảy, nhảy, bỏ qua, ràng buộc"
+      },
+      {
+        "example": "跳馬",
+        "reading": "チョウバ",
+        "meaning": "ngựa dài (để nhảy)"
+      },
+      {
+        "example": "反跳",
+        "reading": "ハンチョウ",
+        "meaning": "(vật lý) giật lại"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "跳ねる",
+        "reading": "はねる",
+        "meaning": "nhảy, nhảy, chồm lên, chồm lên, bật lên, nhảy lên, tách ra, khép lại, kết thúc, đánh (ví dụ: bị xe tông vào cái gì đó hoặc ai đó)"
+      },
+      {
+        "example": "飛ぶ",
+        "reading": "とぶ",
+        "meaning": "bay, bay lên, nhảy, nhảy, lò xo, ràng buộc, nhảy, bắn tung tóe, phân tán, bắn tung tóe, bay (ví dụ như tia lửa), vội vã, lao tới, chạy trốn, chạy trốn, trốn thoát, biến mất, biến mất, mờ dần, mỏng đi, đứt ra, rơi ra, rơi ra, thổi (cầu chì), được gửi đi (theo một mệnh lệnh), bay (của những tin đồn sai lệch, những lời kêu gọi, v.v.), bay tới (của một cú đấm, một cú đá, v.v.), bị mất (của một trang, mũi khâu, v.v.), bỏ qua, nhảy (ví dụ: trong một cuộc trò chuyện)"
+      }
+    ],
+    "radical": {
+      "symbol": "足",
+      "forms": [
+        "⻊"
+      ],
+      "meaning": "chân"
+    },
+    "parts": [
+      "儿",
+      "冫",
+      "口",
+      "止",
+      "足"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36339_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08df3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8df3.gif",
+    "uri": "https://jisho.org/search/%E8%B7%B3%23kanji"
+  }
+}

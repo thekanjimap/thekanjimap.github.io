@@ -1,0 +1,73 @@
+{
+  "id": "卿",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "卿",
+    "found": true,
+    "newspaperFrequencyRank": "2138",
+    "strokeCount": 12,
+    "meaning": "ngài, lãnh chúa, thư ký, bộ trưởng nhà nước",
+    "kunyomi": [
+      "きみ"
+    ],
+    "onyomi": [
+      "ケイ",
+      "キョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "卿",
+        "reading": "ケイ",
+        "meaning": "bạn, bạn"
+      },
+      {
+        "example": "慶雲",
+        "reading": "ケイウン",
+        "meaning": "đám mây tốt lành, thời Keiun (704.5.10-708.1.11), thời Kyōun"
+      },
+      {
+        "example": "枢機卿",
+        "reading": "スウキキョウ",
+        "meaning": "hồng y (nhà thờ Công giáo)"
+      },
+      {
+        "example": "公卿",
+        "reading": "クギョウ",
+        "meaning": "quý tộc cấp cao, quan chức cấp cao của triều đình, kugyō, ba lãnh chúa và chín bộ trưởng (của chính phủ Trung Quốc cổ đại)"
+      },
+      {
+        "example": "卿",
+        "reading": "キョウ",
+        "meaning": "Lord, Sir, bộ trưởng nhà nước (theo hệ thống ritsuryō)"
+      },
+      {
+        "example": "慶雲",
+        "reading": "ケイウン",
+        "meaning": "đám mây tốt lành, thời Keiun (704.5.10-708.1.11), thời Kyōun"
+      },
+      {
+        "example": "枢機卿",
+        "reading": "スウキキョウ",
+        "meaning": "hồng y (nhà thờ Công giáo)"
+      },
+      {
+        "example": "三卿",
+        "reading": "サンキョウ",
+        "meaning": "ba nhánh Tokugawa thứ cấp (Tayasu, Shimizu và Hitotsubashi)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "卩",
+      "meaning": "quỳ xuống"
+    },
+    "parts": [
+      "卩",
+      "艮"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21375_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0537f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/537f.gif",
+    "uri": "https://jisho.org/search/%E5%8D%BF%23kanji"
+  }
+}

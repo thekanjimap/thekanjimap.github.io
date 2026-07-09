@@ -1,0 +1,50 @@
+{
+  "id": "肚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "肚",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "bụng, dạ dày",
+    "kunyomi": [
+      "はら"
+    ],
+    "onyomi": [
+      "ト"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "肚裏",
+        "reading": "トリ",
+        "meaning": "trong trái tim"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "腹",
+        "reading": "はら",
+        "meaning": "bụng, bụng, dạ dày, tử cung, tâm, ý định thực sự, động cơ thực sự, lòng can đảm, thần kinh, ý chí, sự rộng lượng, cao thượng, tình cảm, cảm xúc, phần giữa rộng, phần phồng, bên trong, bên trong, phần bên trong, phản nút, quầy đựng trứng cứng, quầy đựng có phần phồng ở giữa (chậu, lọ, v.v.)"
+      },
+      {
+        "example": "腹を据える",
+        "reading": "はらをすえる",
+        "meaning": "quyết định, bình tĩnh, kiên nhẫn, chịu đựng"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "thịt"
+    },
+    "parts": [
+      "土",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32922_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0809a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/809a.gif",
+    "uri": "https://jisho.org/search/%E8%82%9A%23kanji"
+  }
+}

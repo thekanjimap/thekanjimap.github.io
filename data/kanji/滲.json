@@ -1,0 +1,59 @@
+{
+  "id": "滲",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "滲",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "thấm nhuần",
+    "kunyomi": [
+      "し.みる",
+      "にじ.む"
+    ],
+    "onyomi": [
+      "シン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "浸透",
+        "reading": "シントウ",
+        "meaning": "sự thẩm thấu (tư tưởng, hệ tư tưởng, văn hóa, v.v.), sự xâm nhập (ví dụ: ý tưởng), lan truyền, thâm nhập (ví dụ: vào thị trường), sự lan tỏa, thẩm thấu (của chất lỏng, v.v.), ngâm, thẩm thấu, thẩm thấu"
+      },
+      {
+        "example": "浸出",
+        "reading": "シンシュツ",
+        "meaning": "sự thấm, sự thấm, sự tiết ra, sự thẩm thấu, sự tràn dịch, sự chiết xuất"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "染みる",
+        "reading": "しみる",
+        "meaning": "đâm, xuyên, thấm vào, thấm, chích (vết thương hoặc vùng nhạy cảm, v.v.), thông minh, vặn vẹo, bị nhiễm trùng (với phó), bị ngâm (với thành kiến), bị ảnh hưởng, cảm thấy sâu sắc, tạo ấn tượng sâu sắc"
+      },
+      {
+        "example": "滲む",
+        "reading": "にじむ",
+        "meaning": "chảy (chất lỏng), lan rộng, chảy máu, làm mờ, làm mờ, làm mờ, làm mờ, rỉ ra, trào ra (nước mắt, v.v.), thể hiện qua (cảm giác, cảm xúc, v.v.), để lộ bản thân"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "厶",
+      "大",
+      "彡",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28402_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ef2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ef2.gif",
+    "uri": "https://jisho.org/search/%E6%BB%B2%23kanji"
+  }
+}

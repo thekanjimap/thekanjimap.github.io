@@ -1,0 +1,41 @@
+{
+  "id": "騏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "騏",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "ngựa nhanh",
+    "kunyomi": [],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "麒麟",
+        "reading": "キリン",
+        "meaning": "hươu cao cổ (Giraffa camelopardalis), kỳ lân Trung Quốc, ngựa có thể cưỡi 1000 ri trong một ngày"
+      },
+      {
+        "example": "麒麟も老いぬれば駑馬に劣る",
+        "reading": "キリンモオイヌレバドバニオトル",
+        "meaning": "người xuất sắc cũng trở nên thấp kém khi về già"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "馬",
+      "meaning": "con ngựa"
+    },
+    "parts": [
+      "ハ",
+      "杰",
+      "甘",
+      "馬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39439_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09a0f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9a0f.gif",
+    "uri": "https://jisho.org/search/%E9%A8%8F%23kanji"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "鞅",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鞅",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "Martingale, dây nịt ngực, chu vi yên, cùm, cùm, đeo sau lưng",
+    "kunyomi": [
+      "むながい"
+    ],
+    "onyomi": [
+      "オウ",
+      "ヨウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "怏々",
+        "reading": "オウオウ",
+        "meaning": "bất mãn, không vui"
+      },
+      {
+        "example": "鞅掌",
+        "reading": "オウショウ",
+        "meaning": "đang bận rộn với"
+      },
+      {
+        "example": "怏々",
+        "reading": "オウオウ",
+        "meaning": "bất mãn, không vui"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鞅",
+        "reading": "むながい",
+        "meaning": "Martingale"
+      }
+    ],
+    "radical": {
+      "symbol": "革",
+      "meaning": "da, da thô"
+    },
+    "parts": [
+      "人",
+      "冂",
+      "冖",
+      "凵",
+      "口",
+      "大",
+      "革"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38789_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09785.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9785.gif",
+    "uri": "https://jisho.org/search/%E9%9E%85%23kanji"
+  }
+}

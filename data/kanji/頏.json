@@ -1,0 +1,45 @@
+{
+  "id": "頏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "頏",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "xuống xe, đất, cổ họng, cái cổ",
+    "kunyomi": [
+      "のど"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "拮抗",
+        "reading": "キッコウ",
+        "meaning": "sự cạnh tranh (giữa hai bên mạnh ngang nhau), tranh giành quyền tối cao, cạnh tranh (với), ganh đua (với), cạnh tranh (với), là một đối thủ bình đẳng (cho)"
+      },
+      {
+        "example": "頡頏",
+        "reading": "ケッコウ",
+        "meaning": "sự lên xuống (của một con chim), sự ganh đua (giữa hai bên mạnh ngang nhau), tranh giành quyền lực tối cao, cạnh tranh (với), ganh đua (với), tranh giành (với), ngang nhau (vì)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "頁",
+      "meaning": "lá"
+    },
+    "parts": [
+      "ハ",
+      "亠",
+      "儿",
+      "目",
+      "貝",
+      "頁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38927_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0980f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/980f.gif",
+    "uri": "https://jisho.org/search/%E9%A0%8F%23kanji"
+  }
+}

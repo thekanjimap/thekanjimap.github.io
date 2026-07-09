@@ -1,0 +1,45 @@
+{
+  "id": "匡",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "匡",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2176",
+    "strokeCount": 6,
+    "meaning": "sửa, lưu, hỗ trợ",
+    "kunyomi": [
+      "すく.う",
+      "ただ.す"
+    ],
+    "onyomi": [
+      "キョウ",
+      "オウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "匡救",
+        "reading": "キョウキュウ",
+        "meaning": "giải thoát khỏi tội lỗi, giúp đỡ, giúp đỡ"
+      },
+      {
+        "example": "匡正",
+        "reading": "キョウセイ",
+        "meaning": "sự sửa chữa (một lỗi lầm, sai lầm, sai sót, v.v.), biện pháp khắc phục, sự cải chính, sự sửa chữa, sự cải cách"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "匚",
+      "meaning": "cái hộp"
+    },
+    "parts": [
+      "匚",
+      "王"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21281_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05321.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5321.gif",
+    "uri": "https://jisho.org/search/%E5%8C%A1%23kanji"
+  }
+}

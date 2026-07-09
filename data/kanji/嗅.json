@@ -1,0 +1,57 @@
+{
+  "id": "嗅",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嗅",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "newspaperFrequencyRank": "2480",
+    "strokeCount": 13,
+    "meaning": "ngửi, ngửi, đánh hơi",
+    "kunyomi": [
+      "か.ぐ"
+    ],
+    "onyomi": [
+      "キュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "嗅覚",
+        "reading": "キュウカク",
+        "meaning": "khứu giác, khứu giác"
+      },
+      {
+        "example": "嗅覚器官",
+        "reading": "キュウカクキカン",
+        "meaning": "cơ quan khứu giác"
+      },
+      {
+        "example": "幻嗅",
+        "reading": "ゲンキュウ",
+        "meaning": "ảo giác, mùi ma, ảo giác khứu giác"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "嗅ぐ",
+        "reading": "かぐ",
+        "meaning": "đánh hơi, ngửi"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "口",
+      "大",
+      "犬",
+      "目",
+      "自"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21957_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/055c5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/55c5.gif",
+    "uri": "https://jisho.org/search/%E5%97%85%23kanji"
+  }
+}

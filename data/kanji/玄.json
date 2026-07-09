@@ -1,0 +1,62 @@
+{
+  "id": "玄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "玄",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1409",
+    "strokeCount": 5,
+    "meaning": "bí ẩn, huyền bí, đen, sâu sắc, thâm thúy",
+    "kunyomi": [
+      "くろ",
+      "くろ.い"
+    ],
+    "onyomi": [
+      "ゲン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "玄米",
+        "reading": "ゲンマイ",
+        "meaning": "gạo chưa xay, gạo chưa xay, gạo lứt"
+      },
+      {
+        "example": "玄関",
+        "reading": "ゲンカン",
+        "meaning": "lối vào, cửa trước, lối vào, lối vào, sảnh vào, tiền đình, hiên nhà, tiền sảnh, phòng bùn"
+      },
+      {
+        "example": "幽玄",
+        "reading": "ユウゲン",
+        "meaning": "sự sâu sắc huyền bí, vẻ đẹp trầm lặng, tinh tế và sâu sắc, yūgen"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "玄人",
+        "reading": "くろうと",
+        "meaning": "chuyên gia, chuyên nghiệp, bậc thầy, người sành sỏi, người phụ nữ trong ngành kinh doanh cuộc sống về đêm, demimondaine, geisha và gái mại dâm"
+      },
+      {
+        "example": "玄人気質",
+        "reading": "くろうとかたぎ",
+        "meaning": "tính chuyên nghiệp, khí chất của một người chuyên nghiệp"
+      }
+    ],
+    "radical": {
+      "symbol": "玄",
+      "meaning": "đen tối, sâu sắc"
+    },
+    "parts": [
+      "亠",
+      "幺",
+      "玄"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/29572_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07384.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7384.gif",
+    "uri": "https://jisho.org/search/%E7%8E%84%23kanji"
+  }
+}

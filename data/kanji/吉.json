@@ -1,0 +1,96 @@
+{
+  "id": "吉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "吉",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "711",
+    "strokeCount": 6,
+    "meaning": "chúc may mắn, vui vẻ, chúc mừng",
+    "kunyomi": [
+      "よし"
+    ],
+    "onyomi": [
+      "キチ",
+      "キツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "吉",
+        "reading": "キチ",
+        "meaning": "vận may (đặc biệt là kết quả bói omikuji), may mắn, điềm lành, ngày không xác định trong tháng (dùng để che khuất ngày viết một lá thư, lời mời, v.v.)"
+      },
+      {
+        "example": "吉祥天",
+        "reading": "キッショウテン",
+        "meaning": "Sri-mahadevi (vợ của Vaishravana)"
+      },
+      {
+        "example": "大吉",
+        "reading": "ダイキチ",
+        "meaning": "may mắn tuyệt vời"
+      },
+      {
+        "example": "中吉",
+        "reading": "チュウキチ",
+        "meaning": "may mắn vừa phải (trong bói toán)"
+      },
+      {
+        "example": "吉",
+        "reading": "キチ",
+        "meaning": "vận may (đặc biệt là kết quả bói omikuji), may mắn, điềm lành, ngày không xác định trong tháng (dùng để che khuất ngày viết một lá thư, lời mời, v.v.)"
+      },
+      {
+        "example": "吉事",
+        "reading": "キチジ",
+        "meaning": "sự kiện tốt lành"
+      },
+      {
+        "example": "嘉吉",
+        "reading": "カキツ",
+        "meaning": "Thời đại Kakitsu (1441.2.17-1444.2.5)"
+      },
+      {
+        "example": "勿吉",
+        "reading": "モッキツ",
+        "meaning": "Mohe (một trong những bộ tộc nói tiếng Tungus)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "吉川神道",
+        "reading": "よしかわしんとう",
+        "meaning": "Yoshikawa Shinto (Hình thức Nho giáo của Thần đạo, tước bỏ ảnh hưởng của Phật giáo)"
+      },
+      {
+        "example": "吉川線",
+        "reading": "よしかわせん",
+        "meaning": "vết xước trên cổ cơ thể (cho thấy nạn nhân đang vùng vẫy vì bị siết cổ)"
+      },
+      {
+        "example": "土吉",
+        "reading": "つちよし",
+        "meaning": "dạng trái đất của nhân vật \"chúc may mắn\""
+      },
+      {
+        "example": "豊臣秀吉",
+        "reading": "とよとみひでよし",
+        "meaning": "Toyotomi Hideyoshi"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "口",
+      "士"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21513_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05409.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5409.gif",
+    "uri": "https://jisho.org/search/%E5%90%89%23kanji"
+  }
+}

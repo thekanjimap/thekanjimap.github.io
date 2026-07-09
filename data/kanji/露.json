@@ -1,0 +1,94 @@
+{
+  "id": "露",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "露",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "928",
+    "strokeCount": 21,
+    "meaning": "sương, nước mắt, phơi bày, Nga",
+    "kunyomi": [
+      "つゆ"
+    ],
+    "onyomi": [
+      "ロ",
+      "ロウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "露",
+        "reading": "ロ",
+        "meaning": "Nga"
+      },
+      {
+        "example": "露骨",
+        "reading": "ロコツ",
+        "meaning": "công khai, không che giấu, không che giấu, trắng trợn, đơn giản, thẳng thắn, rộng rãi, dâm dục, không đứng đắn, thô thiển"
+      },
+      {
+        "example": "吐露",
+        "reading": "トロ",
+        "meaning": "bày tỏ tâm tư, lên tiếng"
+      },
+      {
+        "example": "発露",
+        "reading": "ハツロ",
+        "meaning": "sự xuất hiện, sự biểu hiện, sự biểu hiện"
+      },
+      {
+        "example": "露宇",
+        "reading": "ロウ",
+        "meaning": "Nga và Ukraine"
+      },
+      {
+        "example": "襲名披露",
+        "reading": "シュウメイヒロウ",
+        "meaning": "tuyên bố kế thừa nghệ danh của người khác"
+      },
+      {
+        "example": "新序出世披露",
+        "reading": "シンジョシュッセヒロウ",
+        "meaning": "giới thiệu các đô vật mới tới khán giả"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "露",
+        "reading": "つゆ",
+        "meaning": "sương, nước mắt, (không) một chút, (không) chút nào"
+      },
+      {
+        "example": "露払い",
+        "reading": "つゆはらい",
+        "meaning": "người dọn đường cho người có địa vị cao, người rước, v.v., người dẫn đường, người báo hiệu, người đi trước, người biểu diễn khai mạc, đô vật sumo dẫn yokozuna tại lễ bước vào võ đài của mình"
+      },
+      {
+        "example": "朝露",
+        "reading": "あさつゆ",
+        "meaning": "sương sớm"
+      },
+      {
+        "example": "下露",
+        "reading": "したつゆ",
+        "meaning": "sương dưới (nhỏ giọt từ) cây"
+      }
+    ],
+    "radical": {
+      "symbol": "雨",
+      "meaning": "mưa"
+    },
+    "parts": [
+      "口",
+      "夂",
+      "止",
+      "足",
+      "雨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38706_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09732.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9732.gif",
+    "uri": "https://jisho.org/search/%E9%9C%B2%23kanji"
+  }
+}

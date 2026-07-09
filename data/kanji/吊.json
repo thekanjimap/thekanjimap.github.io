@@ -1,0 +1,54 @@
+{
+  "id": "吊",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "吊",
+    "found": true,
+    "newspaperFrequencyRank": "2475",
+    "strokeCount": 6,
+    "meaning": "treo, treo, đeo (thanh kiếm)",
+    "kunyomi": [
+      "つ.る",
+      "つる.す"
+    ],
+    "onyomi": [
+      "チョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "懸吊",
+        "reading": "ケンチョウ",
+        "meaning": "treo, treo"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "吊る",
+        "reading": "つる",
+        "meaning": "treo, treo, treo, đeo (ví dụ: một thanh kiếm), treo (ví dụ: một cái kệ), treo cổ tự tử, nhấc đối thủ lên khỏi chân bằng khố của mình, quay lên trên (như thể bị kéo), nghiêng (mắt), nhăn nheo (ví dụ như một đường may), bị kéo chặt"
+      },
+      {
+        "example": "吊るす",
+        "reading": "つるす",
+        "meaning": "treo, treo lên"
+      },
+      {
+        "example": "吊るす",
+        "reading": "つるす",
+        "meaning": "treo, treo lên"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "口",
+      "巾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21514_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0540a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/540a.gif",
+    "uri": "https://jisho.org/search/%E5%90%8A%23kanji"
+  }
+}

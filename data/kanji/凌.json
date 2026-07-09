@@ -1,0 +1,51 @@
+{
+  "id": "凌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "凌",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2423",
+    "strokeCount": 10,
+    "meaning": "chịu đựng, tránh (mưa), ngăn chặn, vượt qua, thách thức, nhẹ, vượt qua",
+    "kunyomi": [
+      "しの.ぐ"
+    ],
+    "onyomi": [
+      "リョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "凌雲",
+        "reading": "リョウウン",
+        "meaning": "những tòa nhà chọc trời, rất cao, phía trên những đám mây, phía trên thế giới phàm trần này"
+      },
+      {
+        "example": "凌駕",
+        "reading": "リョウガ",
+        "meaning": "xuất sắc, vượt trội, vượt trội"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "凌ぐ",
+        "reading": "しのぐ",
+        "meaning": "chịu đựng, tránh xa (ví dụ: mưa), ngăn chặn (ví dụ: đói), vượt qua, vượt qua, sống sót, vượt qua, vượt trội, xuất sắc, làm lu mờ, thách thức, xem thường"
+      }
+    ],
+    "radical": {
+      "symbol": "冫",
+      "meaning": "băng"
+    },
+    "parts": [
+      "儿",
+      "冫",
+      "土",
+      "夂"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20940_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051cc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51cc.gif",
+    "uri": "https://jisho.org/search/%E5%87%8C%23kanji"
+  }
+}

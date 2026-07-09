@@ -1,0 +1,75 @@
+{
+  "id": "蝉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蝉",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "ve sầu",
+    "kunyomi": [
+      "せみ"
+    ],
+    "onyomi": [
+      "セン",
+      "ゼン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蝉声",
+        "reading": "センセイ",
+        "meaning": "tiếng ve sầu"
+      },
+      {
+        "example": "秋蝉",
+        "reading": "アキゼミ",
+        "meaning": "ve sầu hót khi mùa thu đến"
+      },
+      {
+        "example": "寒蝉",
+        "reading": "カンゼミ",
+        "meaning": "ve sầu hót cuối thu"
+      },
+      {
+        "example": "寒蝉",
+        "reading": "カンゼミ",
+        "meaning": "ve sầu hót cuối thu"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蝉",
+        "reading": "せみ",
+        "meaning": "ve sầu, châu chấu, ròng rọc cỡ nhỏ"
+      },
+      {
+        "example": "蝉海老",
+        "reading": "せみえび",
+        "meaning": "Tôm hùm mũi nhọn (loài tôm hùm mũi xẻng, Scyllarides squammosus)"
+      },
+      {
+        "example": "空蝉",
+        "reading": "うつせみ",
+        "meaning": "sự tồn tại hiện tại của một người, khuôn khổ phàm trần này, thế giới này, cuộc sống này, những thứ tạm bợ, vỏ ve sầu bỏ đi, ve sầu"
+      },
+      {
+        "example": "秋の蝉",
+        "reading": "あきのせみ",
+        "meaning": "ve sầu hót khi mùa thu đến, ve sầu vẫn hót ngay cả trong mùa thu"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "côn trùng"
+    },
+    "parts": [
+      "十",
+      "尚",
+      "田",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34633_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08749.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8749.gif",
+    "uri": "https://jisho.org/search/%E8%9D%89%23kanji"
+  }
+}

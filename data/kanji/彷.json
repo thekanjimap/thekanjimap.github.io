@@ -1,0 +1,47 @@
+{
+  "id": "彷",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "彷",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "đi lang thang, lang thang, lảng vảng",
+    "kunyomi": [
+      "さまよ.う"
+    ],
+    "onyomi": [
+      "ホウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "彷彿",
+        "reading": "ホウフツ",
+        "meaning": "(mang a) sự giống nhau gần gũi, lời nhắc nhở sống động (ví dụ về quá khứ), mờ nhạt, mờ nhạt, mơ hồ, mờ nhạt"
+      },
+      {
+        "example": "彷徊",
+        "reading": "ホウカイ",
+        "meaning": "đi loanh quanh không mục đích"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "彷徨う",
+        "reading": "さまよう",
+        "meaning": "lảng vảng, lảng vảng, đi lảng vảng, đi loanh quanh, đi loanh quanh, đi loanh quanh"
+      }
+    ],
+    "radical": {
+      "symbol": "彳",
+      "meaning": "bước"
+    },
+    "parts": [
+      "彳",
+      "方"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24439_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f77.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f77.gif",
+    "uri": "https://jisho.org/search/%E5%BD%B7%23kanji"
+  }
+}

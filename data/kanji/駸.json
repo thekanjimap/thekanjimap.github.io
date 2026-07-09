@@ -1,0 +1,42 @@
+{
+  "id": "駸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "駸",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "tốc độ, ngựa chạy",
+    "kunyomi": [],
+    "onyomi": [
+      "シン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "駸々",
+        "reading": "シンシン",
+        "meaning": "tiến nhanh, bay (của thời gian), nhanh chóng, với những bước tiến lớn, chạy nhanh (của một con ngựa)"
+      },
+      {
+        "example": "駸々",
+        "reading": "シンシン",
+        "meaning": "tiến nhanh, bay (của thời gian), nhanh chóng, với những bước tiến lớn, chạy nhanh (của một con ngựa)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "馬",
+      "meaning": "con ngựa"
+    },
+    "parts": [
+      "ヨ",
+      "冖",
+      "又",
+      "杰",
+      "馬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39416_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099f8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99f8.gif",
+    "uri": "https://jisho.org/search/%E9%A7%B8%23kanji"
+  }
+}

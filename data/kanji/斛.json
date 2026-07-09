@@ -1,0 +1,46 @@
+{
+  "id": "斛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "斛",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "đo, mười đến, đơn vị thể tích, khoảng 180 lít",
+    "kunyomi": [
+      "と"
+    ],
+    "onyomi": [
+      "コク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "石",
+        "reading": "コク",
+        "meaning": "koku, đơn vị thể tích truyền thống, xấp xỉ. 180,4 lít, thước đo sức chứa của thuyền kiểu Nhật (khoảng 278,26 lít)"
+      },
+      {
+        "example": "木斛",
+        "reading": "モッコク",
+        "meaning": "Bệnh nhạn biển Nhật Bản (Ternstroemia gymnanthera), cleyera"
+      },
+      {
+        "example": "万斛",
+        "reading": "バンコク",
+        "meaning": "nhiều (nước mắt)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "斗",
+      "meaning": "cái gáo"
+    },
+    "parts": [
+      "斗",
+      "角"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26011_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0659b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/659b.gif",
+    "uri": "https://jisho.org/search/%E6%96%9B%23kanji"
+  }
+}

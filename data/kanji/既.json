@@ -1,0 +1,60 @@
+{
+  "id": "既",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "既",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1081",
+    "strokeCount": 10,
+    "meaning": "trước đây, đã, từ lâu rồi",
+    "kunyomi": [
+      "すで.に"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "既成",
+        "reading": "キセイ",
+        "meaning": "được thành lập, tồn tại, hoàn thành, được chấp nhận, hoàn thành"
+      },
+      {
+        "example": "既婚",
+        "reading": "キコン",
+        "meaning": "kết hôn"
+      },
+      {
+        "example": "皆既",
+        "reading": "カイキ",
+        "meaning": "nhật thực toàn phần, nhật thực toàn phần"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "既に",
+        "reading": "すでに",
+        "meaning": "đã, trước đó, trước đây, không thể phủ nhận, không thể nhầm lẫn, ngay từ đầu"
+      },
+      {
+        "example": "既にして",
+        "reading": "すでにして",
+        "meaning": "trong khi đó, trong khi đó"
+      }
+    ],
+    "radical": {
+      "symbol": "无",
+      "meaning": "diệt vong"
+    },
+    "parts": [
+      "牙",
+      "艮"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26082_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065e2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65e2.gif",
+    "uri": "https://jisho.org/search/%E6%97%A2%23kanji"
+  }
+}

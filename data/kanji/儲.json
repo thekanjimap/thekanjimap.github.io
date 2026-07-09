@@ -1,0 +1,81 @@
+{
+  "id": "儲",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "儲",
+    "found": true,
+    "newspaperFrequencyRank": "2442",
+    "strokeCount": 17,
+    "meaning": "có lãi, mang lại lợi nhuận",
+    "kunyomi": [
+      "もう.ける",
+      "もう.かる",
+      "もうけ",
+      "たくわ.える"
+    ],
+    "onyomi": [
+      "チョ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "貯蓄",
+        "reading": "チョチク",
+        "meaning": "tiết kiệm"
+      },
+      {
+        "example": "儲位",
+        "reading": "チョイ",
+        "meaning": "quyền thừa kế"
+      },
+      {
+        "example": "嫌儲",
+        "reading": "ケンチョ",
+        "meaning": "kiếm tiền trực tuyến mờ ám"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "儲ける",
+        "reading": "もうける",
+        "meaning": "kiếm được lợi nhuận, kiếm được, kiếm được, kiếm được (sinh ra, sinh ra) một đứa con, gặp may mắn"
+      },
+      {
+        "example": "儲かる",
+        "reading": "もうかる",
+        "meaning": "mang lại lợi nhuận, mang lại lợi nhuận"
+      },
+      {
+        "example": "儲け",
+        "reading": "もうけ",
+        "meaning": "lợi nhuận, thu nhập"
+      },
+      {
+        "example": "儲ける",
+        "reading": "もうける",
+        "meaning": "kiếm được lợi nhuận, kiếm được, kiếm được, kiếm được (sinh ra, sinh ra) một đứa con, gặp may mắn"
+      },
+      {
+        "example": "嫌儲",
+        "reading": "けんちょ",
+        "meaning": "kiếm tiền trực tuyến mờ ám"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "đàn ông, con người"
+    },
+    "parts": [
+      "化",
+      "日",
+      "老",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20786_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05132.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5132.gif",
+    "uri": "https://jisho.org/search/%E5%84%B2%23kanji"
+  }
+}

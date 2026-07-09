@@ -1,0 +1,56 @@
+{
+  "id": "偈",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "偈",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "câu ca ngợi Phật ăn chay khỏe mạnh nghỉ ngơi",
+    "kunyomi": [
+      "いこ.う"
+    ],
+    "onyomi": [
+      "ゲ",
+      "ケツ",
+      "ケイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "偈",
+        "reading": "ゲ",
+        "meaning": "gatha (câu thơ trong kinh thánh)"
+      },
+      {
+        "example": "七仏通戒偈",
+        "reading": "シチブツツウカイゲ",
+        "meaning": "Bài kệ giới hạnh chung của bảy vị Phật"
+      },
+      {
+        "example": "回向偈",
+        "reading": "エコウゲ",
+        "meaning": "bài tụng kết thúc nhằm hồi hướng công đức của sự phụng sự đến một vị phật, một vị bồ tát hoặc người chết"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "đàn ông, con người"
+    },
+    "parts": [
+      "一",
+      "人",
+      "勹",
+      "匕",
+      "化",
+      "日",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20552_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05048.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5048.gif",
+    "uri": "https://jisho.org/search/%E5%81%88%23kanji"
+  }
+}

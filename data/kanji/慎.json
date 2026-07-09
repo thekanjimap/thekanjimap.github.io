@@ -1,0 +1,95 @@
+{
+  "id": "慎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "慎",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "999",
+    "strokeCount": 13,
+    "meaning": "khiêm tốn, cẩn thận, kín đáo, thận trọng",
+    "kunyomi": [
+      "つつし.む",
+      "つつ.ましい",
+      "つつし",
+      "つつし.み"
+    ],
+    "onyomi": [
+      "シン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "慎重",
+        "reading": "シンチョウ",
+        "meaning": "cẩn thận, thận trọng, thận trọng, thận trọng, thận trọng"
+      },
+      {
+        "example": "慎重吟味",
+        "reading": "シンチョウギンミ",
+        "meaning": "sự xem xét kỹ lưỡng, sự kiểm tra (điều tra) cẩn thận (điều tra), điều tra cẩn thận, lựa chọn cẩn thận"
+      },
+      {
+        "example": "謹慎",
+        "reading": "キンシン",
+        "meaning": "tự kiềm chế, tiết chế hành vi của chính mình, sám hối, kỷ luật, giam cầm (đặc biệt là ở nhà), quản thúc tại gia, đình chỉ (ở nơi làm việc hoặc trường học)"
+      },
+      {
+        "example": "不謹慎",
+        "reading": "フキンシン",
+        "meaning": "thiếu thận trọng, thiếu thận trọng, thiếu khiêm tốn, không đứng đắn, thiếu cân nhắc, không phù hợp"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "慎む",
+        "reading": "つつしむ",
+        "meaning": "cẩn thận, kín đáo, làm chừng mực, kiềm chế (không làm quá), kiêng cữ, cung kính, thanh lọc, khiết tịnh"
+      },
+      {
+        "example": "慎ましい",
+        "reading": "つつましい",
+        "meaning": "khiêm tốn, dè dặt, yên tĩnh, khiêm tốn, thanh đạm, đơn giản, đơn giản"
+      },
+      {
+        "example": "慎む",
+        "reading": "つつしむ",
+        "meaning": "cẩn thận, kín đáo, làm chừng mực, kiềm chế (không làm quá), kiêng cữ, cung kính, thanh lọc, khiết tịnh"
+      },
+      {
+        "example": "慎み",
+        "reading": "つつしみ",
+        "meaning": "khiêm tốn, tự chủ, thận trọng"
+      },
+      {
+        "example": "慎み",
+        "reading": "つつしみ",
+        "meaning": "khiêm tốn, tự chủ, thận trọng"
+      },
+      {
+        "example": "慎み深い",
+        "reading": "つつしみぶかい",
+        "meaning": "kín đáo, khiêm tốn, thận trọng"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "十",
+      "忙",
+      "目"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24910_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0614e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/614e.gif",
+    "uri": "https://jisho.org/search/%E6%85%8E%23kanji"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "裹",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "裹",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "bọc, gói lại, che đậy, che giấu",
+    "kunyomi": [
+      "つつ.む"
+    ],
+    "onyomi": [
+      "ホウ",
+      "カ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "包か",
+        "reading": "ホウカ",
+        "meaning": "sự bao bọc, sự bao bọc"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "包む",
+        "reading": "つつむ",
+        "meaning": "gói lại, gói lại, bó lại, làm lên, che đậy, bao bọc, che đậy, nhấn chìm, che giấu (một cảm giác), giấu, đưa (tiền trong phong bì; làm quà cưới, lễ tang, v.v.)"
+      }
+    ],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "quần áo"
+    },
+    "parts": [
+      "ハ",
+      "亠",
+      "木",
+      "田",
+      "衣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35065_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088f9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88f9.gif",
+    "uri": "https://jisho.org/search/%E8%A3%B9%23kanji"
+  }
+}

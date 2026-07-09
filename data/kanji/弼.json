@@ -1,0 +1,43 @@
+{
+  "id": "弼",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "弼",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "giúp đỡ",
+    "kunyomi": [
+      "たす.ける",
+      "ゆだめ"
+    ],
+    "onyomi": [
+      "ヒツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "弼馬温",
+        "reading": "ヒツバオン",
+        "meaning": "Người bảo vệ chuồng ngựa (danh hiệu được trao cho Tôn Ngộ Không trong tiểu thuyết Tây Du Ký khi ông được giao một công việc ở Thiên Đường)"
+      },
+      {
+        "example": "輔弼",
+        "reading": "ホヒツ",
+        "meaning": "đưa ra lời khuyên cho Hoàng đế về các vấn đề quốc gia, hỗ trợ, cố vấn"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "弓",
+      "meaning": "cúi đầu"
+    },
+    "parts": [
+      "ノ",
+      "弓",
+      "白"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24380_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f3c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f3c.gif",
+    "uri": "https://jisho.org/search/%E5%BC%BC%23kanji"
+  }
+}

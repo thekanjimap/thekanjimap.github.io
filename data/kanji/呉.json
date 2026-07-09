@@ -1,0 +1,71 @@
+{
+  "id": "呉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "呉",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1729",
+    "strokeCount": 7,
+    "meaning": "cho, làm điều gì đó cho vương quốc Ngô",
+    "kunyomi": [
+      "く.れる",
+      "くれ"
+    ],
+    "onyomi": [
+      "ゴ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "呉",
+        "reading": "ゴ",
+        "meaning": "Ngô (vùng ở Trung Quốc, phía nam hạ lưu sông Dương Tử), Ngô (vương quốc ở Trung Quốc trong thời Ngũ Đại Thập Quốc; 902-937 CN), Nam Ngô, Ngô (vương quốc ở Trung Quốc trong thời Tam Quốc; 222-280 CN), Đông Ngô, Tôn Ngô, Ngô (vương quốc ở Trung Quốc trong thời Xuân Thu; thế kỷ 11-473 TCN)"
+      },
+      {
+        "example": "豆汁",
+        "reading": "ゴ",
+        "meaning": "đi, đậu nành ngâm và nghiền thành hỗn hợp sệt (thành phần đậu phụ và sữa đậu nành)"
+      },
+      {
+        "example": "【アイゴ】",
+        "reading": "mottled spinefoot (Siganus fuscescens), dusky rabbitfish, sandy spinefoot",
+        "meaning": ""
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "呉れる",
+        "reading": "くれる",
+        "meaning": "cho, để (một) có, cho, làm cho một người, chịu khó làm, làm bất lợi cho ai"
+      },
+      {
+        "example": "呉れる",
+        "reading": "くれる",
+        "meaning": "cho, để (một) có, cho, làm cho một người, chịu khó làm, làm bất lợi cho ai"
+      },
+      {
+        "example": "呉れ呉れも",
+        "reading": "くれぐれも",
+        "meaning": "chân thành, tha thiết, hết lòng, hết lần này đến lần khác, hết lần này đến lần khác"
+      },
+      {
+        "example": "何くれ",
+        "reading": "なにくれ",
+        "meaning": "theo nhiều cách khác nhau"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "ハ",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21577_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05449.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5449.gif",
+    "uri": "https://jisho.org/search/%E5%91%89%23kanji"
+  }
+}

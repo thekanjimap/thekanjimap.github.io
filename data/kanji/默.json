@@ -1,0 +1,40 @@
+{
+  "id": "默",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "默",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "im lặng, yên tĩnh, tĩnh lặng, tối tăm",
+    "kunyomi": [
+      "だ.まる",
+      "もだ.す"
+    ],
+    "onyomi": [
+      "ボク",
+      "モク"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "黙す",
+        "reading": "もだす",
+        "meaning": "im lặng, giữ lưỡi, kiềm chế bản thân, coi thường, phớt lờ, bỏ qua, bỏ qua"
+      }
+    ],
+    "radical": {
+      "symbol": "黑",
+      "meaning": "màu đen"
+    },
+    "parts": [
+      "杰",
+      "犬",
+      "里",
+      "黒"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40664_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ed8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ed8.gif",
+    "uri": "https://jisho.org/search/%E9%BB%98%23kanji"
+  }
+}

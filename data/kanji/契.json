@@ -1,0 +1,63 @@
+{
+  "id": "契",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "契",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "898",
+    "strokeCount": 9,
+    "meaning": "lời cam kết, lời hứa, lời thề",
+    "kunyomi": [
+      "ちぎ.る"
+    ],
+    "onyomi": [
+      "ケイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "契約",
+        "reading": "ケイヤク",
+        "meaning": "hợp đồng, nhỏ gọn, thỏa thuận"
+      },
+      {
+        "example": "契機",
+        "reading": "ケイキ",
+        "meaning": "cơ hội, cơ hội, nguyên nhân, nguyên nhân"
+      },
+      {
+        "example": "幽契",
+        "reading": "ユウケイ",
+        "meaning": "lời hứa bí mật được thực hiện với các vị thần"
+      },
+      {
+        "example": "黙契",
+        "reading": "モッケイ",
+        "meaning": "sự thỏa thuận ngầm, sự hiểu biết ngầm"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "契る",
+        "reading": "ちぎる",
+        "meaning": "cam kết, thề, hứa, thề, quan hệ tình dục (đặc biệt là giữa vợ và chồng), ngủ chung giường"
+      }
+    ],
+    "radical": {
+      "symbol": "大",
+      "meaning": "lớn, rất"
+    },
+    "parts": [
+      "二",
+      "亠",
+      "刀",
+      "土",
+      "大"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22865_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05951.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5951.gif",
+    "uri": "https://jisho.org/search/%E5%A5%91%23kanji"
+  }
+}

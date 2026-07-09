@@ -1,0 +1,87 @@
+{
+  "id": "擦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "擦",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1485",
+    "strokeCount": 17,
+    "meaning": "nạo, chà xát, cào, cạo, chà xát, cọ rửa",
+    "kunyomi": [
+      "す.る",
+      "す.れる",
+      "-ず.れ",
+      "こす.る",
+      "こす.れる"
+    ],
+    "onyomi": [
+      "サツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "擦弦楽器",
+        "reading": "サツゲンガッキ",
+        "meaning": "nhạc cụ dây cúi"
+      },
+      {
+        "example": "擦文",
+        "reading": "サツモン",
+        "meaning": "hoa văn vết cọ (cạo vào bề mặt đất nung bằng gỗ)"
+      },
+      {
+        "example": "塗擦",
+        "reading": "トサツ",
+        "meaning": "xoa thuốc mỡ vào da"
+      },
+      {
+        "example": "冷水摩擦",
+        "reading": "レイスイマサツ",
+        "meaning": "chà xát bằng khăn ướt, chà xát bằng nước lạnh"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "擦る",
+        "reading": "する",
+        "meaning": "chà xát, chà xát, đánh (diêm), giũa, làm lạnh (kính), thua (ví dụ: một trận đấu), bị tước đoạt, phung phí tiền bạc của mình"
+      },
+      {
+        "example": "擦れる",
+        "reading": "すれる",
+        "meaning": "chà xát, chà xát, làm hao mòn, làm mòn đi, đánh mất sự hồn nhiên, trở nên ranh mãnh"
+      },
+      {
+        "example": "擦る",
+        "reading": "こする",
+        "meaning": "chà xát, chà xát, cạo"
+      },
+      {
+        "example": "擦れる",
+        "reading": "こすれる",
+        "meaning": "bị cọ xát"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "ノ",
+      "二",
+      "宀",
+      "小",
+      "扎",
+      "癶",
+      "示"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25830_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064e6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64e6.gif",
+    "uri": "https://jisho.org/search/%E6%93%A6%23kanji"
+  }
+}

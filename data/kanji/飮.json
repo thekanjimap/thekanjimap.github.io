@@ -1,0 +1,42 @@
+{
+  "id": "飮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "飮",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "uống",
+    "kunyomi": [
+      "の.む"
+    ],
+    "onyomi": [
+      "イン",
+      "オン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "飲む",
+        "reading": "のむ",
+        "meaning": "uống, nuốt, uống (thuốc), hút thuốc (thuốc lá), nuốt, nhấn chìm, kìm nén (sự tức giận, cảm giác cay đắng, v.v.), kiềm chế, kiềm chế, nuốt (nước mắt), nín thở, chấp nhận (một yêu cầu, điều kiện, v.v.), đồng ý, coi thường (ai đó), không nghĩ gì đến, choáng ngợp, sợ hãi, mang theo (một con dao găm giấu kín, v.v.), để giấu (lên tay áo, v.v.)"
+      }
+    ],
+    "radical": {
+      "symbol": "食",
+      "forms": [
+        "飠"
+      ],
+      "meaning": "ăn, thức ăn"
+    },
+    "parts": [
+      "个",
+      "欠",
+      "食",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39150_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/098ee.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/98ee.gif",
+    "uri": "https://jisho.org/search/%E9%A3%AE%23kanji"
+  }
+}

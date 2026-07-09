@@ -1,0 +1,53 @@
+{
+  "id": "攫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "攫",
+    "found": true,
+    "strokeCount": 23,
+    "meaning": "bắt cóc",
+    "kunyomi": [
+      "さら.う",
+      "つか.む"
+    ],
+    "onyomi": [
+      "カク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "一獲",
+        "reading": "イッカク",
+        "meaning": "một lần lấy"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "攫う",
+        "reading": "さらう",
+        "meaning": "mang đi, bỏ trốn, quét đi, chộp lấy, bắt cóc, bắt cóc, chiếm lấy hoàn toàn cho riêng mình, độc quyền"
+      },
+      {
+        "example": "掴む",
+        "reading": "つかむ",
+        "meaning": "nắm bắt, nắm bắt, nắm bắt, nắm chặt, nắm lấy, nắm giữ, nắm giữ, bắt giữ, đặt tay lên, có được, có được, có được, giành chiến thắng, nắm bắt, hiểu, nắm bắt, hiểu rõ"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "又",
+      "扎",
+      "目",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25899_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0652b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/652b.gif",
+    "uri": "https://jisho.org/search/%E6%94%AB%23kanji"
+  }
+}

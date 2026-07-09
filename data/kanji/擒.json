@@ -1,0 +1,49 @@
+{
+  "id": "擒",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "擒",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "bắt giữ, giam giữ",
+    "kunyomi": [
+      "とら.える",
+      "とりこ"
+    ],
+    "onyomi": [
+      "キン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "生擒",
+        "reading": "セイキン",
+        "meaning": "bắt giữ một cái gì đó còn sống"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "虜",
+        "reading": "とりこ",
+        "meaning": "bị giam cầm, tù nhân, nạn nhân (của tình yêu, v.v.), nô lệ (lòng dục vọng của ai đó, v.v.)"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "个",
+      "亠",
+      "凵",
+      "扎",
+      "禹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25810_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064d2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64d2.gif",
+    "uri": "https://jisho.org/search/%E6%93%92%23kanji"
+  }
+}

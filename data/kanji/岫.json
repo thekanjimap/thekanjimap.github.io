@@ -1,0 +1,48 @@
+{
+  "id": "岫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "岫",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "hẻm núi, khe núi, trên núi, mũi, doi đất",
+    "kunyomi": [
+      "みさき",
+      "くき",
+      "みね"
+    ],
+    "onyomi": [
+      "コウ",
+      "シュウ",
+      "ユウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "岫",
+        "reading": "クキ",
+        "meaning": "hang động, hang động, đỉnh, đỉnh"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "岫",
+        "reading": "くき",
+        "meaning": "hang động, hang động, đỉnh, đỉnh"
+      }
+    ],
+    "radical": {
+      "symbol": "山",
+      "meaning": "núi"
+    },
+    "parts": [
+      "凵",
+      "山",
+      "田",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23723_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05cab.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5cab.gif",
+    "uri": "https://jisho.org/search/%E5%B2%AB%23kanji"
+  }
+}

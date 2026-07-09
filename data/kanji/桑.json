@@ -1,0 +1,60 @@
+{
+  "id": "桑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "桑",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1650",
+    "strokeCount": 10,
+    "meaning": "dâu tằm",
+    "kunyomi": [
+      "くわ"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "桑田",
+        "reading": "ソウデン",
+        "meaning": "trồng dâu"
+      },
+      {
+        "example": "桑園",
+        "reading": "ソウエン",
+        "meaning": "trồng dâu"
+      },
+      {
+        "example": "扶桑",
+        "reading": "フソウ",
+        "meaning": "cây thần hoặc hòn đảo phía đông Trung Quốc, Fusang, Nhật Bản, dâm bụt Trung Quốc (Hibiscus rosa-sinensis)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "桑",
+        "reading": "くわ",
+        "meaning": "dâu (cây)"
+      },
+      {
+        "example": "桑原",
+        "reading": "くわばら",
+        "meaning": "ruộng dâu"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "又",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26705_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06851.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6851.gif",
+    "uri": "https://jisho.org/search/%E6%A1%91%23kanji"
+  }
+}

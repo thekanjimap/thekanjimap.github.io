@@ -1,0 +1,49 @@
+{
+  "id": "顚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "顚",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "đỉnh, đỉnh, đỉnh, khó chịu",
+    "kunyomi": [
+      "いただ.き",
+      "たお.れる"
+    ],
+    "onyomi": [
+      "テン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "転覆",
+        "reading": "テンプク",
+        "meaning": "lật đổ, lật đổ, lật đổ (ví dụ: chính phủ)"
+      },
+      {
+        "example": "転蹶",
+        "reading": "テンケツ",
+        "meaning": "vấp ngã, vấp ngã, thất bại"
+      },
+      {
+        "example": "不列顛",
+        "reading": "ブリテン",
+        "meaning": "Anh (đảo), Vương quốc Anh"
+      },
+      {
+        "example": "山巓",
+        "reading": "サンテン",
+        "meaning": "đỉnh (của một ngọn núi)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "頁",
+      "meaning": "lá"
+    },
+    "parts": [],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39002_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0985a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/985a.gif",
+    "uri": "https://jisho.org/search/%E9%A1%9A%23kanji"
+  }
+}

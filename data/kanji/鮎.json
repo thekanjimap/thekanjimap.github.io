@@ -1,0 +1,58 @@
+{
+  "id": "鮎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鮎",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2201",
+    "strokeCount": 16,
+    "meaning": "cá hồi nước ngọt, có mùi",
+    "kunyomi": [
+      "あゆ",
+      "なまず"
+    ],
+    "onyomi": [
+      "デン",
+      "ネン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鮎",
+        "reading": "あゆ",
+        "meaning": "ayu (Plecoglossus altivelis), cá ngọt"
+      },
+      {
+        "example": "鮎掛け",
+        "reading": "あゆかけ",
+        "meaning": "Sculpin bốn cột sống (Cottus kazika)"
+      },
+      {
+        "example": "琉球鮎",
+        "reading": "りゅうきゅうあゆ",
+        "meaning": "Cá hương Ryukyu (Plecoglossus altivelis ryukyuensis)"
+      },
+      {
+        "example": "若鮎",
+        "reading": "わかあゆ",
+        "meaning": "cá ngọt trẻ"
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "cá"
+    },
+    "parts": [
+      "卜",
+      "口",
+      "杰",
+      "田",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39822_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b8e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b8e.gif",
+    "uri": "https://jisho.org/search/%E9%AE%8E%23kanji"
+  }
+}

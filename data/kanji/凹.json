@@ -1,0 +1,71 @@
+{
+  "id": "凹",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "凹",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2206",
+    "strokeCount": 5,
+    "meaning": "lõm, rỗng, chìm",
+    "kunyomi": [
+      "くぼ.む",
+      "へこ.む",
+      "ぼこ"
+    ],
+    "onyomi": [
+      "オウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "凹",
+        "reading": "オウ",
+        "meaning": "lõm, rỗng, chìm"
+      },
+      {
+        "example": "凹凸",
+        "reading": "オウトツ",
+        "meaning": "sự không đồng đều, sự gồ ghề, sự gồ ghề, sự gồ ghề, sự không cân bằng, sự không đồng đều, sự chênh lệch"
+      },
+      {
+        "example": "肋凹",
+        "reading": "ロクオウ",
+        "meaning": "hố mắt"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "窪む",
+        "reading": "くぼむ",
+        "meaning": "lao vào, trở nên chán nản, chìm đắm"
+      },
+      {
+        "example": "凹む",
+        "reading": "へこむ",
+        "meaning": "bị móp, bị thụt vào, nhường, cho, chìm, sụp đổ, nhượng bộ, bị đánh đập, bị lấn át, nhượng bộ, nhượng bộ, bỏ cuộc, chán nản, cảm thấy chán nản, cảm thấy chán nản, chịu mất mát, mất mát"
+      },
+      {
+        "example": "発達凸凹",
+        "reading": "はったつでこぼこ",
+        "meaning": "rối loạn phát triển, rối loạn phát triển, đa dạng thần kinh"
+      },
+      {
+        "example": "穴ぼこ",
+        "reading": "あなぼこ",
+        "meaning": "hố, hố, ổ gà (đường, vỉa hè, v.v.)"
+      }
+    ],
+    "radical": {
+      "symbol": "凵",
+      "meaning": "hộp đựng, mở miệng"
+    },
+    "parts": [
+      "凵"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20985_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051f9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51f9.gif",
+    "uri": "https://jisho.org/search/%E5%87%B9%23kanji"
+  }
+}

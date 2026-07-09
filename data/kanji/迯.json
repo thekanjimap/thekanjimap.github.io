@@ -1,0 +1,45 @@
+{
+  "id": "迯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "迯",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "trốn, chạy trốn, trốn tránh, né tránh",
+    "kunyomi": [
+      "に.げる",
+      "に.がす",
+      "のが.す",
+      "のが.れる"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "逃げる",
+        "reading": "にげる",
+        "meaning": "bỏ chạy, chạy trốn, thoát khỏi (ví dụ: khỏi nguy hiểm), trốn thoát, thoát ra, bỏ đi (ví dụ: vợ / chồng của một người), tránh (một câu hỏi, trách nhiệm, v.v.), trốn tránh, né tránh, trốn tránh, lùi lại, giành chiến thắng mà không bị vượt qua, giữ chân các đối thủ khác (cho đến khi kết thúc), giữ vị trí dẫn đầu (và giành chiến thắng), thoát khỏi (nhiệt, khí, v.v.), rò rỉ ra ngoài (ví dụ: mùi hương), bị mất (ví dụ như hương vị), không giữ được tư thế lý tưởng"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "đi bộ"
+    },
+    "parts": [
+      "卜",
+      "夕",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36847_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08fef.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8fef.gif",
+    "uri": "https://jisho.org/search/%E8%BF%AF%23kanji"
+  }
+}

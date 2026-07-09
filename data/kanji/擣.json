@@ -1,0 +1,43 @@
+{
+  "id": "擣",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "擣",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "bảng Anh",
+    "kunyomi": [
+      "う.つ",
+      "つ.く"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "打つ",
+        "reading": "うつ",
+        "meaning": "đánh, đánh, gõ, đánh, đấm, tát, gõ, đập, vỗ tay, đập, đánh (trưa, v.v.), đánh (chũm chọe, v.v.), đánh (trống, v.v.), đánh (nhịp điệu, ví dụ như mạch, sóng, v.v.), di chuyển, gây ấn tượng, chạm, lái vào, gõ vào, đưa vào, tiêm, tiêm phòng, gõ, gửi, truyền, chèn, viết vào, đánh dấu, làm (mì, v.v.), chuẩn bị, xới (đất), rắc, ném, ném, làm, thực hiện, chơi, biểu diễn, tham gia (cờ bạc, v.v.), trả tiền (tiền đặt cọc, v.v.), đi thăm (đi hành hương), xếp hàng (áo khoác), trói (tội phạm), thả (một mảnh)"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "口",
+      "士",
+      "寸",
+      "工",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25827_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064e3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64e3.gif",
+    "uri": "https://jisho.org/search/%E6%93%A3%23kanji"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "雄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "雄",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "669",
+    "strokeCount": 12,
+    "meaning": "nam tính, nam giới, anh hùng, lãnh đạo, ưu việt, xuất sắc",
+    "kunyomi": [
+      "お-",
+      "おす",
+      "おん"
+    ],
+    "onyomi": [
+      "ユウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "雄",
+        "reading": "ユウ",
+        "meaning": "nam, người đàn ông, xuất sắc, vĩ đại, tốt nhất (của), người vĩ đại, nhân vật hàng đầu"
+      },
+      {
+        "example": "雄大",
+        "reading": "ユウダイ",
+        "meaning": "vĩ đại, tráng lệ, hùng vĩ, vĩ đại, cao siêu"
+      },
+      {
+        "example": "雌雄",
+        "reading": "シユウ",
+        "meaning": "nam và nữ (động vật), hai giới, thắng và bại, điểm mạnh và điểm yếu"
+      },
+      {
+        "example": "両雄",
+        "reading": "リョウユウ",
+        "meaning": "hai người đàn ông vĩ đại"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "雄",
+        "reading": "おす",
+        "meaning": "con đực (động vật, thực vật)"
+      },
+      {
+        "example": "オス犬",
+        "reading": "おすいぬ",
+        "meaning": "chó đực"
+      },
+      {
+        "example": "雄",
+        "reading": "おす",
+        "meaning": "con đực (động vật, thực vật)"
+      },
+      {
+        "example": "雄鶏",
+        "reading": "おんどり",
+        "meaning": "chim đực, gà trống, con gà trống"
+      }
+    ],
+    "radical": {
+      "symbol": "隹",
+      "meaning": "con chim nhỏ"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "厶",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38596_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096c4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96c4.gif",
+    "uri": "https://jisho.org/search/%E9%9B%84%23kanji"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "喃",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "喃",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "huyên thuyên, huyên thuyên",
+    "kunyomi": [
+      "の.う"
+    ],
+    "onyomi": [
+      "ナン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "喃語",
+        "reading": "ナンゴ",
+        "meaning": "lời thì thầm của người yêu, lời nói ngọt ngào, lời thì thầm thân mật, tiếng bập bẹ (của một em bé), tiếng bập bẹ"
+      },
+      {
+        "example": "喃々",
+        "reading": "ナンナン",
+        "meaning": "lảm nhảm, lảm nhảm, lảm nhảm, lảng vảng"
+      },
+      {
+        "example": "喃々",
+        "reading": "ナンナン",
+        "meaning": "lảm nhảm, lảm nhảm, lảm nhảm, lảng vảng"
+      },
+      {
+        "example": "喋々喃々",
+        "reading": "チョウチョウナンナン",
+        "meaning": "thanh toán và thủ thỉ, tổ chức một cuộc trò chuyện thân mật, dài dòng bằng những lời thì thầm"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "喃",
+        "reading": "のう",
+        "meaning": "xin lỗi! (khi gọi ai đó) phải không?, bạn có đồng ý không?"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "冂",
+      "十",
+      "口",
+      "干",
+      "并"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21891_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05583.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5583.gif",
+    "uri": "https://jisho.org/search/%E5%96%83%23kanji"
+  }
+}

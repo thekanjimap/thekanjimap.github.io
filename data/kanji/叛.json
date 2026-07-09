@@ -1,0 +1,64 @@
+{
+  "id": "叛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "叛",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "không vâng lời, thách thức, quay trở lại, nổi loạn, nổi loạn",
+    "kunyomi": [
+      "そむ.く"
+    ],
+    "onyomi": [
+      "ハン",
+      "ホン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "反逆",
+        "reading": "ハンギャク",
+        "meaning": "phản bội, phản bội, nổi loạn, nổi loạn, nổi loạn"
+      },
+      {
+        "example": "反旗",
+        "reading": "ハンキ",
+        "meaning": "cờ nổi loạn, cờ nổi dậy"
+      },
+      {
+        "example": "離反",
+        "reading": "リハン",
+        "meaning": "sự ghẻ lạnh, sự xa lánh, sự bất mãn, sự đào ngũ, sự ly khai, sự ly khai"
+      },
+      {
+        "example": "謀反",
+        "reading": "ムホン",
+        "meaning": "nổi dậy, nổi dậy, nổi loạn, phản quốc"
+      },
+      {
+        "example": "謀反",
+        "reading": "ムホン",
+        "meaning": "nổi dậy, nổi dậy, nổi loạn, phản quốc"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "背く",
+        "reading": "そむく",
+        "meaning": "đi ngược lại, đi ngược lại, không vâng lời, vi phạm"
+      }
+    ],
+    "radical": {
+      "symbol": "又",
+      "meaning": "tay phải"
+    },
+    "parts": [
+      "厂",
+      "又",
+      "并"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21467_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053db.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53db.gif",
+    "uri": "https://jisho.org/search/%E5%8F%9B%23kanji"
+  }
+}

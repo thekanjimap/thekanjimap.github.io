@@ -1,0 +1,59 @@
+{
+  "id": "雉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "雉",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "gà lôi",
+    "kunyomi": [
+      "きじ"
+    ],
+    "onyomi": [
+      "ジ",
+      "チ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "高麗雉",
+        "reading": "コウライキジ",
+        "meaning": "gà lôi thông thường (Phasianus colchicus), gà lôi cổ tròn"
+      },
+      {
+        "example": "白雉",
+        "reading": "ハクチ",
+        "meaning": "Thời đại Hakuchi (650.2.15-654.10.?)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "【キジ】",
+        "reading": "green pheasant (Phasianus versicolor), Japanese green pheasant",
+        "meaning": ""
+      },
+      {
+        "example": "キジ科",
+        "reading": "キジか",
+        "meaning": "Phasianidae (họ gà lôi)"
+      },
+      {
+        "example": "高麗雉",
+        "reading": "こうらいきじ",
+        "meaning": "gà lôi thông thường (Phasianus colchicus), gà lôi cổ tròn"
+      }
+    ],
+    "radical": {
+      "symbol": "隹",
+      "meaning": "con chim nhỏ"
+    },
+    "parts": [
+      "乞",
+      "矢",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38601_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096c9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96c9.gif",
+    "uri": "https://jisho.org/search/%E9%9B%89%23kanji"
+  }
+}

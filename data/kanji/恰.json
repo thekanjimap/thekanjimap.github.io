@@ -1,0 +1,66 @@
+{
+  "id": "恰",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "恰",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "đúng như, như thể, thật may mắn",
+    "kunyomi": [
+      "あたか.も"
+    ],
+    "onyomi": [
+      "コウ",
+      "カッ",
+      "チョウ",
+      "キョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "格好",
+        "reading": "カッコウ",
+        "meaning": "hình dáng, hình dáng, dáng người, tư thế, tư thế, dáng vẻ, trạng thái, tình huống, phù hợp, vừa vặn, hợp lý, về"
+      },
+      {
+        "example": "格好つける",
+        "reading": "カッコウツケル",
+        "meaning": "để tạo ra một không khí phong cách, để cố gắng trông đẹp, để thể hiện"
+      },
+      {
+        "example": "丁度",
+        "reading": "チョウド",
+        "meaning": "chính xác, chính xác, đúng, đúng, đúng lúc, may mắn thay, chỉ (như), như thể, như thể"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "恰も",
+        "reading": "あたかも",
+        "meaning": "như thể, như thể, như thể, ngay lúc đó, ngay lúc đó, vào lúc đó"
+      },
+      {
+        "example": "恰も好し",
+        "reading": "あたかもよし",
+        "meaning": "may mắn thay, may mắn thay"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "一",
+      "个",
+      "口",
+      "忙"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24688_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06070.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6070.gif",
+    "uri": "https://jisho.org/search/%E6%81%B0%23kanji"
+  }
+}

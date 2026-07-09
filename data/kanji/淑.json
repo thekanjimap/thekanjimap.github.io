@@ -1,0 +1,66 @@
+{
+  "id": "淑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "淑",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1922",
+    "strokeCount": 11,
+    "meaning": "duyên dáng, dịu dàng, thuần khiết",
+    "kunyomi": [
+      "しと.やか"
+    ],
+    "onyomi": [
+      "シュク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "淑徳",
+        "reading": "シュクトク",
+        "meaning": "đức tính phụ nữ"
+      },
+      {
+        "example": "淑女",
+        "reading": "シュクジョ",
+        "meaning": "quý cô, (nữ) hư hỏng"
+      },
+      {
+        "example": "貞淑",
+        "reading": "テイシュク",
+        "meaning": "khiết tịnh, đức hạnh, sự chung thủy, sự khiêm tốn của phụ nữ"
+      },
+      {
+        "example": "私淑",
+        "reading": "シシュク",
+        "meaning": "tôn trọng một người như chủ nhân hoặc hình mẫu của chính mình, bị ảnh hưởng bởi một người thông qua tác phẩm của họ, thần tượng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "淑やか",
+        "reading": "しとやか",
+        "meaning": "duyên dáng, nữ tính, khiêm tốn, dịu dàng, lịch sự, yên tĩnh, lịch sự, tinh tế (cách cư xử)"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "卜",
+      "又",
+      "小",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28113_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06dd1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6dd1.gif",
+    "uri": "https://jisho.org/search/%E6%B7%91%23kanji"
+  }
+}

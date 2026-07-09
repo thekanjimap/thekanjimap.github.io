@@ -1,0 +1,53 @@
+{
+  "id": "愕",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "愕",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "ngạc nhiên, sợ hãi",
+    "kunyomi": [
+      "おどろ.く"
+    ],
+    "onyomi": [
+      "ガク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "愕然",
+        "reading": "ガクゼン",
+        "meaning": "kinh ngạc, sửng sốt, sửng sốt, sửng sốt, sửng sốt"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "驚く",
+        "reading": "おどろく",
+        "meaning": "làm ngạc nhiên, làm sửng sốt, làm sửng sốt, làm sửng sốt, làm sửng sốt, làm kinh hoàng, làm sửng sốt, làm sửng sốt"
+      },
+      {
+        "example": "驚くなかれ",
+        "reading": "おどろくなかれ",
+        "meaning": "đừng ngạc nhiên, hãy chờ xem"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "二",
+      "勹",
+      "口",
+      "忙"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24853_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06115.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6115.gif",
+    "uri": "https://jisho.org/search/%E6%84%95%23kanji"
+  }
+}

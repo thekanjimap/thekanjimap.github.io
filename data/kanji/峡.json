@@ -1,0 +1,59 @@
+{
+  "id": "峡",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "峡",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1833",
+    "strokeCount": 9,
+    "meaning": "hẻm núi, khe núi",
+    "kunyomi": [
+      "はざま"
+    ],
+    "onyomi": [
+      "キョウ",
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "峡谷",
+        "reading": "キョウコク",
+        "meaning": "hẻm núi, khe núi, hẻm núi, glen"
+      },
+      {
+        "example": "峡間",
+        "reading": "キョウカン",
+        "meaning": "giữa những ngọn núi"
+      },
+      {
+        "example": "国際海峡",
+        "reading": "コクサイカイキョウ",
+        "meaning": "eo biển quốc tế"
+      },
+      {
+        "example": "イギリス海峡",
+        "reading": "イギリスカイキョウ",
+        "meaning": "Kênh tiếng Anh"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "山",
+      "meaning": "núi"
+    },
+    "parts": [
+      "二",
+      "亠",
+      "人",
+      "大",
+      "山",
+      "并"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23777_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ce1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ce1.gif",
+    "uri": "https://jisho.org/search/%E5%B3%A1%23kanji"
+  }
+}

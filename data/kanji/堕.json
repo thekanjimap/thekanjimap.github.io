@@ -1,0 +1,60 @@
+{
+  "id": "堕",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "堕",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2087",
+    "strokeCount": 12,
+    "meaning": "suy thoái, đi xuống, rơi vào",
+    "kunyomi": [
+      "お.ちる",
+      "くず.す",
+      "くず.れる"
+    ],
+    "onyomi": [
+      "ダ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "堕落",
+        "reading": "ダラク",
+        "meaning": "sự sa đọa, tham nhũng, suy thoái"
+      },
+      {
+        "example": "堕胎",
+        "reading": "ダタイ",
+        "meaning": "phá thai, diệt thai"
+      },
+      {
+        "example": "落堕",
+        "reading": "ラクダ",
+        "meaning": "kết hôn (của một nhà sư), trở về cuộc sống thế tục (của một nhà sư)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "堕ちる",
+        "reading": "おちる",
+        "meaning": "sa sút (về đạo đức, tính cách, v.v.), trở nên thô tục (ví dụ trong một cuộc trò chuyện), khom lưng (đến), chìm (quá thấp), bị hủy hoại, đi xuống, rơi (vào địa ngục)"
+      }
+    ],
+    "radical": {
+      "symbol": "土",
+      "meaning": "trái đất"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "土",
+      "月",
+      "阡"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22549_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05815.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5815.gif",
+    "uri": "https://jisho.org/search/%E5%A0%95%23kanji"
+  }
+}

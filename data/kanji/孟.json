@@ -1,0 +1,55 @@
+{
+  "id": "孟",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "孟",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2127",
+    "strokeCount": 8,
+    "meaning": "trưởng, bắt đầu",
+    "kunyomi": [
+      "かしら"
+    ],
+    "onyomi": [
+      "モウ",
+      "ボウ",
+      "ミョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "孟子",
+        "reading": "モウシ",
+        "meaning": "Mạnh Tử (372-289 TCN), Mạnh Tử, Mạnh Tử (một trong Tứ Thư)"
+      },
+      {
+        "example": "孟夏",
+        "reading": "モウカ",
+        "meaning": "đầu mùa hè, tháng 4 âm lịch"
+      },
+      {
+        "example": "孔孟",
+        "reading": "コウモウ",
+        "meaning": "Khổng Tử và Mạnh Tử"
+      },
+      {
+        "example": "論孟",
+        "reading": "ロンモウ",
+        "meaning": "Luận ngữ của Nho giáo và các bài giảng của Mạnh Tử"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "子",
+      "meaning": "đứa trẻ, hạt giống"
+    },
+    "parts": [
+      "子",
+      "皿"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23391_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b5f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b5f.gif",
+    "uri": "https://jisho.org/search/%E5%AD%9F%23kanji"
+  }
+}

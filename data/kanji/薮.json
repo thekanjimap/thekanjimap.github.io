@@ -1,0 +1,65 @@
+{
+  "id": "薮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "薮",
+    "found": true,
+    "newspaperFrequencyRank": "2109",
+    "strokeCount": 16,
+    "meaning": "bụi cây, bụi cây, bụi rậm, lùm cây",
+    "kunyomi": [
+      "やぶ"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "藪沢",
+        "reading": "ソウタク",
+        "meaning": "vùng đất ngập nước với thảm thực vật phong phú, nơi tập trung vạn vật"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "藪",
+        "reading": "やぶ",
+        "meaning": "bụi rậm, bụi rậm, lùm cây, cây bụi, lang băm (y tế)"
+      },
+      {
+        "example": "ヤブ医者",
+        "reading": "やぶいしゃ",
+        "meaning": "bác sĩ kém cỏi, bác sĩ tồi, bác sĩ tồi, lang băm"
+      },
+      {
+        "example": "竹やぶ",
+        "reading": "たけやぶ",
+        "meaning": "rừng tre"
+      },
+      {
+        "example": "草薮",
+        "reading": "くさやぶ",
+        "meaning": "bụi cây, bụi cây, bụi cây"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "乞",
+      "夂",
+      "女",
+      "攵",
+      "米",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34222_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085ae.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85ae.gif",
+    "uri": "https://jisho.org/search/%E8%96%AE%23kanji"
+  }
+}

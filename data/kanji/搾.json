@@ -1,0 +1,62 @@
+{
+  "id": "搾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "搾",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2046",
+    "strokeCount": 13,
+    "meaning": "bóp",
+    "kunyomi": [
+      "しぼ.る"
+    ],
+    "onyomi": [
+      "サク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "搾取",
+        "reading": "サクシュ",
+        "meaning": "bóc lột, làm khô máu, vắt khô, vắt sữa (ví dụ như vú bò), vắt (chất lỏng) bằng cách vắt"
+      },
+      {
+        "example": "搾乳",
+        "reading": "サクニュウ",
+        "meaning": "vắt sữa (bò, dê, v.v.), hút sữa, vắt sữa"
+      },
+      {
+        "example": "圧搾",
+        "reading": "アッサク",
+        "meaning": "sức ép, sự nén, sự ép"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "絞る",
+        "reading": "しぼる",
+        "meaning": "vắt (khăn, giẻ), vắt, ép (trái cây để chiết nước), ép, vắt, vắt sữa, vắt sữa, vắt (ngu óc), căng thẳng (giọng nói), tống tiền, bóc lột, nhai, khiển trách nặng nề, cào than, mắng mỏ, mắng mỏ, quở trách, khoan vào, đào tạo, thu hẹp (tập trung của một người), cắt tỉa xuống, thu lại (rèm, v.v.), thắt chặt (dây rút), dừng lại (ống kính), vặn xuống (ví dụ radio), uốn cong (cung), kéo, giữ, thắt lại, cố định"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "ノ",
+      "儿",
+      "宀",
+      "扎",
+      "穴",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25662_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0643e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/643e.gif",
+    "uri": "https://jisho.org/search/%E6%90%BE%23kanji"
+  }
+}

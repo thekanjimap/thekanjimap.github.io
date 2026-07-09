@@ -1,0 +1,45 @@
+{
+  "id": "湘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "湘",
+    "found": true,
+    "newspaperFrequencyRank": "1909",
+    "strokeCount": 12,
+    "meaning": "tên sông Trung Quốc, sông Sagami",
+    "kunyomi": [],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "湘南医療大学",
+        "reading": "ショウナンイリョウダイガク",
+        "meaning": "Đại học Khoa học Y tế Shonan"
+      },
+      {
+        "example": "湘南鎌倉医療大学",
+        "reading": "ショウナンカマクライリョウダイガク",
+        "meaning": "Đại học Khoa học Y tế Shonan Kamakura"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "木",
+      "汁",
+      "目"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28248_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e58.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e58.gif",
+    "uri": "https://jisho.org/search/%E6%B9%98%23kanji"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "嚢",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嚢",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "túi, ví, túi",
+    "kunyomi": [
+      "ふくろ"
+    ],
+    "onyomi": [
+      "ノウ",
+      "ドウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "嚢腫",
+        "reading": "ノウシュ",
+        "meaning": "u nang"
+      },
+      {
+        "example": "嚢状",
+        "reading": "ノウジョウ",
+        "meaning": "hình túi, hình túi, hình túi"
+      },
+      {
+        "example": "土嚢",
+        "reading": "ドノウ",
+        "meaning": "bao cát"
+      },
+      {
+        "example": "衣嚢",
+        "reading": "イノウ",
+        "meaning": "túi"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "袋",
+        "reading": "ふくろ",
+        "meaning": "túi, bao, túi, vỏ cam (và các loại trái cây khác), ngõ cụt, lô đất có nước bao quanh"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "亠",
+      "冖",
+      "口",
+      "衣",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22178_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/056a2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56a2.gif",
+    "uri": "https://jisho.org/search/%E5%9A%A2%23kanji"
+  }
+}

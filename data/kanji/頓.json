@@ -1,0 +1,71 @@
+{
+  "id": "頓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "頓",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "strokeCount": 13,
+    "meaning": "đột nhiên, ngay lập tức, vội vàng, sắp xếp, giữ nguyên vị trí, cúi đầu, lạy",
+    "kunyomi": [
+      "にわか.に",
+      "とん.と",
+      "つまず.く",
+      "とみ.に",
+      "ぬかずく"
+    ],
+    "onyomi": [
+      "トン",
+      "トツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "頓",
+        "reading": "トミ",
+        "meaning": "đột ngột, đột ngột, bất ngờ, ngu ngốc, ngu ngốc, đạt được giác ngộ trong một nỗ lực (không cần thực hành khổ hạnh, v.v.)"
+      },
+      {
+        "example": "頓狂",
+        "reading": "トンキョウ",
+        "meaning": "hoang dã, kỳ quặc, điên rồ, cuồng loạn"
+      },
+      {
+        "example": "整理整頓",
+        "reading": "セイリセイトン",
+        "meaning": "giữ mọi thứ gọn gàng và ngăn nắp"
+      },
+      {
+        "example": "停頓",
+        "reading": "テイトン",
+        "meaning": "sự bế tắc, sự bế tắc, sự bế tắc, sự trì hoãn, sự đình trệ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "頓と",
+        "reading": "とんと",
+        "meaning": "hoàn toàn, không hề"
+      },
+      {
+        "example": "頓に",
+        "reading": "とみに",
+        "meaning": "đột ngột, đột ngột, nhanh chóng"
+      }
+    ],
+    "radical": {
+      "symbol": "頁",
+      "meaning": "lá"
+    },
+    "parts": [
+      "ハ",
+      "屯",
+      "目",
+      "貝",
+      "頁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38931_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09813.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9813.gif",
+    "uri": "https://jisho.org/search/%E9%A0%93%23kanji"
+  }
+}

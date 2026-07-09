@@ -1,0 +1,69 @@
+{
+  "id": "淵",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "淵",
+    "found": true,
+    "newspaperFrequencyRank": "1593",
+    "strokeCount": 12,
+    "meaning": "vực thẳm, bờ vực, vực sâu, độ sâu",
+    "kunyomi": [
+      "ふち",
+      "かた.い",
+      "はなわ"
+    ],
+    "onyomi": [
+      "エン",
+      "カク",
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "淵源",
+        "reading": "エンゲン",
+        "meaning": "nguồn gốc"
+      },
+      {
+        "example": "淵酔",
+        "reading": "エンスイ",
+        "meaning": "kiểu tiệc hoàng gia được tổ chức từ thời Heian trở về sau, say khướt, say khướt"
+      },
+      {
+        "example": "深淵",
+        "reading": "シンエン",
+        "meaning": "vực thẳm, khe núi"
+      },
+      {
+        "example": "海淵",
+        "reading": "カイエン",
+        "meaning": "(đại dương) sâu, phần sâu nhất của rãnh"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "淵",
+        "reading": "ふち",
+        "meaning": "vực sâu, nước sâu, vực thẳm, độ sâu (ví dụ: tuyệt vọng), sự kìm kẹp (ví dụ: cái chết)"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "一",
+      "汁",
+      "爿",
+      "片",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28149_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06df5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6df5.gif",
+    "uri": "https://jisho.org/search/%E6%B7%B5%23kanji"
+  }
+}

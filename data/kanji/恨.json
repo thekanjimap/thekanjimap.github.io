@@ -1,0 +1,70 @@
+{
+  "id": "恨",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "恨",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1877",
+    "strokeCount": 9,
+    "meaning": "hối tiếc, mang mối hận thù, oán giận, ác ý, hận thù",
+    "kunyomi": [
+      "うら.む",
+      "うら.めしい"
+    ],
+    "onyomi": [
+      "コン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "恨事",
+        "reading": "コンジ",
+        "meaning": "vấn đề đáng tiếc"
+      },
+      {
+        "example": "痛恨",
+        "reading": "ツウコン",
+        "meaning": "sự hối tiếc sâu sắc, nỗi đau buồn lớn lao, sự đau buồn cay đắng"
+      },
+      {
+        "example": "意趣遺恨",
+        "reading": "イシュイコン",
+        "meaning": "ác ý, ác ý, ác ý, ác ý"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "恨む",
+        "reading": "うらむ",
+        "meaning": "có ác cảm với, oán giận, đổ lỗi, nguyền rủa, cảm thấy cay đắng đối với"
+      },
+      {
+        "example": "憾む",
+        "reading": "うらむ",
+        "meaning": "hối tiếc"
+      },
+      {
+        "example": "恨めしい",
+        "reading": "うらめしい",
+        "meaning": "trách móc, căm ghét, cay đắng"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "忙",
+      "艮"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24680_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06068.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6068.gif",
+    "uri": "https://jisho.org/search/%E6%81%A8%23kanji"
+  }
+}

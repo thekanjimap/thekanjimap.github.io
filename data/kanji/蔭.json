@@ -1,0 +1,71 @@
+{
+  "id": "蔭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蔭",
+    "found": true,
+    "newspaperFrequencyRank": "2166",
+    "strokeCount": 14,
+    "meaning": "bóng râm, bóng tối, hỗ trợ hỗ trợ",
+    "kunyomi": [
+      "かげ"
+    ],
+    "onyomi": [
+      "イン",
+      "オン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "大阪桐蔭",
+        "reading": "オオサカトウイン",
+        "meaning": "Trường trung học cơ sở và trung học phổ thông Osaka Tōin (viết tắt)"
+      },
+      {
+        "example": "緑陰",
+        "reading": "リョクイン",
+        "meaning": "bóng cây"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "陰",
+        "reading": "かげ",
+        "meaning": "bóng tối, bóng tối, đằng sau (cái gì đó), phía bên kia, lưng, hậu cảnh, đằng sau hậu trường, đằng sau lưng ai đó, sự u ám (trong biểu hiện, bản chất của ai đó, v.v.), bóng tối"
+      },
+      {
+        "example": "陰口",
+        "reading": "かげぐち",
+        "meaning": "nói xấu, nói xấu sau lưng người khác"
+      },
+      {
+        "example": "物陰",
+        "reading": "ものかげ",
+        "meaning": "nơi khuất tầm nhìn, nơi ẩn náu, nơi trú ẩn, nơi ẩn náu"
+      },
+      {
+        "example": "小陰",
+        "reading": "こかげ",
+        "meaning": "nơi ẩn náu nhỏ, ngóc ngách"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "一",
+      "个",
+      "二",
+      "厶",
+      "艾",
+      "阡"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34093_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0852d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/852d.gif",
+    "uri": "https://jisho.org/search/%E8%94%AD%23kanji"
+  }
+}

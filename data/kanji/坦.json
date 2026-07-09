@@ -1,0 +1,47 @@
+{
+  "id": "坦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "坦",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "mức độ, rộng",
+    "kunyomi": [
+      "たいら"
+    ],
+    "onyomi": [
+      "タン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "坦懐",
+        "reading": "タンカイ",
+        "meaning": "cảm xúc bình đẳng, thẳng thắn"
+      },
+      {
+        "example": "坦々",
+        "reading": "タンタン",
+        "meaning": "bằng phẳng, bằng phẳng, bằng phẳng, bằng phẳng, bình lặng, đơn điệu"
+      },
+      {
+        "example": "坦々",
+        "reading": "タンタン",
+        "meaning": "bằng phẳng, bằng phẳng, bằng phẳng, bằng phẳng, bình lặng, đơn điệu"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "土",
+      "meaning": "trái đất"
+    },
+    "parts": [
+      "一",
+      "土",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22374_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05766.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5766.gif",
+    "uri": "https://jisho.org/search/%E5%9D%A6%23kanji"
+  }
+}

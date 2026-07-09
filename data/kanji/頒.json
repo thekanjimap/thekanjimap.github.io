@@ -1,0 +1,54 @@
+{
+  "id": "頒",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "頒",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2287",
+    "strokeCount": 13,
+    "meaning": "phân phối, phổ biến, phân vùng, hiểu",
+    "kunyomi": [
+      "わ.かつ",
+      "わ.ける"
+    ],
+    "onyomi": [
+      "ハン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "頒布",
+        "reading": "ハンプ",
+        "meaning": "phân phối, lưu thông"
+      },
+      {
+        "example": "頒価",
+        "reading": "ハンカ",
+        "meaning": "giá phân phối"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "分ける",
+        "reading": "わける",
+        "meaning": "chia (thành), chia (thành), chia ra, phân biệt, phân chia, phân loại, sắp xếp, chia ra, chia sẻ, phân phối, giải quyết, bày ra, phân biệt, phân biệt, phân biệt (giữa), chia tay (một cuộc chiến), hòa giải, gọi một trận hòa, buộc, chen lấn qua (một đám đông), bán"
+      }
+    ],
+    "radical": {
+      "symbol": "頁",
+      "meaning": "lá"
+    },
+    "parts": [
+      "ハ",
+      "刀",
+      "目",
+      "貝",
+      "頁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38930_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09812.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9812.gif",
+    "uri": "https://jisho.org/search/%E9%A0%92%23kanji"
+  }
+}

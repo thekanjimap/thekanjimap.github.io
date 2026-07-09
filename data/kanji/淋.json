@@ -1,0 +1,62 @@
+{
+  "id": "淋",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "淋",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "cô đơn, vắng vẻ",
+    "kunyomi": [
+      "さび.しい",
+      "さみ.しい"
+    ],
+    "onyomi": [
+      "リン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "淋巴",
+        "reading": "リンパ",
+        "meaning": "bạch huyết"
+      },
+      {
+        "example": "淋菌",
+        "reading": "リンキン",
+        "meaning": "lậu cầu (Neisseria gonorrhoeae)"
+      },
+      {
+        "example": "味醂",
+        "reading": "ミリン",
+        "meaning": "mirin, loại rượu gạo ngọt dùng trong nấu ăn"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "寂しい",
+        "reading": "さびしい",
+        "meaning": "cô đơn, lẻ loi, đơn độc, hoang tàn"
+      },
+      {
+        "example": "寂しい",
+        "reading": "さびしい",
+        "meaning": "cô đơn, lẻ loi, đơn độc, hoang tàn"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "木",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28107_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06dcb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6dcb.gif",
+    "uri": "https://jisho.org/search/%E6%B7%8B%23kanji"
+  }
+}

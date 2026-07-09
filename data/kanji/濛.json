@@ -1,0 +1,52 @@
+{
+  "id": "濛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "濛",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "tối",
+    "kunyomi": [
+      "こさめ"
+    ],
+    "onyomi": [
+      "モウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "濛気",
+        "reading": "モウキ",
+        "meaning": "sương mù dày đặc, sương mù dày đặc, cảm giác chán nản"
+      },
+      {
+        "example": "濛々",
+        "reading": "モウモウ",
+        "meaning": "dày đặc (ví dụ sương mù, bụi, v.v.), dày đặc, mơ hồ (như không thể suy nghĩ rõ ràng), mờ mịt"
+      },
+      {
+        "example": "砂塵濛々",
+        "reading": "サジンモウモウ",
+        "meaning": "đám mây bụi lớn, đám bụi mù mịt"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "冖",
+      "汁",
+      "艾",
+      "豕"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28635_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06fdb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6fdb.gif",
+    "uri": "https://jisho.org/search/%E6%BF%9B%23kanji"
+  }
+}

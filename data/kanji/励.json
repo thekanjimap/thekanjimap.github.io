@@ -1,0 +1,67 @@
+{
+  "id": "励",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "励",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1254",
+    "strokeCount": 7,
+    "meaning": "khuyến khích, siêng năng, truyền cảm hứng",
+    "kunyomi": [
+      "はげ.む",
+      "はげ.ます"
+    ],
+    "onyomi": [
+      "レイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "励起",
+        "reading": "レイキ",
+        "meaning": "(điện) sự kích thích"
+      },
+      {
+        "example": "励起状態",
+        "reading": "レイキジョウタイ",
+        "meaning": "trạng thái kích thích"
+      },
+      {
+        "example": "精励",
+        "reading": "セイレイ",
+        "meaning": "siêng năng, siêng năng, siêng năng, chăm chỉ"
+      },
+      {
+        "example": "刻苦精励",
+        "reading": "コックセイレイ",
+        "meaning": "gian khổ, cần cù, chịu đựng gian khổ, nỗ lực hết mình"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "励む",
+        "reading": "はげむ",
+        "meaning": "làm việc chăm chỉ, cố gắng hết sức, phấn đấu, nỗ lực, nỗ lực, cống hiến hết mình, nỗ lực, nhiệt tình"
+      },
+      {
+        "example": "励ます",
+        "reading": "はげます",
+        "meaning": "khuyến khích, cổ vũ, cổ vũ (ai đó), nâng cao (giọng nói của ai)"
+      }
+    ],
+    "radical": {
+      "symbol": "力",
+      "meaning": "quyền lực, lực lượng"
+    },
+    "parts": [
+      "力",
+      "厂",
+      "斤"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21169_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052b1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52b1.gif",
+    "uri": "https://jisho.org/search/%E5%8A%B1%23kanji"
+  }
+}

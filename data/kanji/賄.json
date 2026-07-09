@@ -1,0 +1,54 @@
+{
+  "id": "賄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "賄",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1282",
+    "strokeCount": 13,
+    "meaning": "hối lộ,bảng,cung cấp,tài chính",
+    "kunyomi": [
+      "まかな.う"
+    ],
+    "onyomi": [
+      "ワイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "賄賂",
+        "reading": "ワイロ",
+        "meaning": "hối lộ, chất ngọt, douceur"
+      },
+      {
+        "example": "あっせん収賄",
+        "reading": "アッセンシュウワイ",
+        "meaning": "ảnh hưởng đến việc bán hàng rong"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "賄う",
+        "reading": "まかなう",
+        "meaning": "cung cấp (hàng hóa, tiền bạc, v.v.), trang trải (chi phí), thanh toán, tài trợ, duy trì (ví dụ: một gia đình), cung cấp chỗ ở, cung cấp bữa ăn"
+      }
+    ],
+    "radical": {
+      "symbol": "貝",
+      "meaning": "vỏ"
+    },
+    "parts": [
+      "ノ",
+      "ハ",
+      "一",
+      "月",
+      "目",
+      "貝"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36036_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08cc4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8cc4.gif",
+    "uri": "https://jisho.org/search/%E8%B3%84%23kanji"
+  }
+}

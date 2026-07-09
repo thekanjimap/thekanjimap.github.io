@@ -1,0 +1,54 @@
+{
+  "id": "嬌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嬌",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "hấp dẫn",
+    "kunyomi": [
+      "なまめか.しい"
+    ],
+    "onyomi": [
+      "キョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "嬌姿",
+        "reading": "キョウシ",
+        "meaning": "hình dáng đáng yêu"
+      },
+      {
+        "example": "嬌羞",
+        "reading": "キョウシュウ",
+        "meaning": "quyến rũ và nhút nhát"
+      },
+      {
+        "example": "ご愛嬌",
+        "reading": "ゴアイキョウ",
+        "meaning": "sự giải trí, sự giải trí, vui vẻ"
+      },
+      {
+        "example": "無愛嬌",
+        "reading": "ブアイキョウ",
+        "meaning": "không thân thiện, cục cằn, không thân thiện, khó gần, cộc lốc"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "女",
+      "meaning": "phụ nữ, nữ"
+    },
+    "parts": [
+      "ノ",
+      "冂",
+      "口",
+      "大",
+      "女"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23308_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b0c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b0c.gif",
+    "uri": "https://jisho.org/search/%E5%AC%8C%23kanji"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "戯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "戯",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1880",
+    "strokeCount": 15,
+    "meaning": "vui đùa, chơi, thể thao",
+    "kunyomi": [
+      "たわむ.れる",
+      "ざ.れる",
+      "じゃ.れる"
+    ],
+    "onyomi": [
+      "ギ",
+      "ゲ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "戯曲",
+        "reading": "ギキョク",
+        "meaning": "kịch, kịch, opera Trung Quốc"
+      },
+      {
+        "example": "戯画",
+        "reading": "ギガ",
+        "meaning": "tranh biếm họa, hoạt hình, truyện tranh"
+      },
+      {
+        "example": "遊戯",
+        "reading": "ユウギ",
+        "meaning": "chơi, chơi, chơi, chơi và nhảy (ở trường mẫu giáo hoặc tiểu học)"
+      },
+      {
+        "example": "性戯",
+        "reading": "セイギ",
+        "meaning": "hành động tình dục, trò chơi tình dục"
+      },
+      {
+        "example": "戯作",
+        "reading": "ゲサク",
+        "meaning": "văn học rẻ tiền, viết để giải trí, văn học nhẹ nhàng phổ biến vào cuối thời Edo"
+      },
+      {
+        "example": "戯作三昧",
+        "reading": "ゲサクザンマイ",
+        "meaning": "say mê viết tiểu thuyết nổi tiếng (tiểu thuyết rẻ tiền), say mê viết thứ gì đó để giải trí"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "戯れる",
+        "reading": "たわむれる",
+        "meaning": "vui tươi, chơi đùa, thích thú (với cái gì đó), chơi đùa, thể thao, vui đùa, đùa giỡn, tán tỉnh, có sự sang trọng, có sự tinh tế"
+      },
+      {
+        "example": "戯れる",
+        "reading": "たわむれる",
+        "meaning": "vui tươi, chơi đùa, thích thú (với cái gì đó), chơi đùa, thể thao, vui đùa, đùa giỡn, tán tỉnh, có sự sang trọng, có sự tinh tế"
+      },
+      {
+        "example": "戯れる",
+        "reading": "じゃれる",
+        "meaning": "chơi đùa (với con mèo, con chó, v.v.), vui đùa, chơi đùa, vui đùa"
+      }
+    ],
+    "radical": {
+      "symbol": "戈",
+      "meaning": "giáo, kích"
+    },
+    "parts": [
+      "匕",
+      "卜",
+      "厂",
+      "戈",
+      "虍"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25135_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0622f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/622f.gif",
+    "uri": "https://jisho.org/search/%E6%88%AF%23kanji"
+  }
+}

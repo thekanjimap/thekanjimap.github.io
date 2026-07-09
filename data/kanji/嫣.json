@@ -1,0 +1,42 @@
+{
+  "id": "嫣",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嫣",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "sắc đẹp",
+    "kunyomi": [],
+    "onyomi": [
+      "エン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "艶然",
+        "reading": "エンゼン",
+        "meaning": "nụ cười ngọt ngào, như nụ cười của một người đẹp, duyên dáng"
+      },
+      {
+        "example": "嫣然一笑",
+        "reading": "エンゼンイッショウ",
+        "meaning": "nở một nụ cười quyến rũ (mê hoặc)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "女",
+      "meaning": "phụ nữ, nữ"
+    },
+    "parts": [
+      "一",
+      "女",
+      "杰",
+      "止",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23267_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ae3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ae3.gif",
+    "uri": "https://jisho.org/search/%E5%AB%A3%23kanji"
+  }
+}

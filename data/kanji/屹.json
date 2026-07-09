@@ -1,0 +1,43 @@
+{
+  "id": "屹",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "屹",
+    "found": true,
+    "strokeCount": 6,
+    "meaning": "những ngọn núi cao chót vót",
+    "kunyomi": [
+      "そばだ.つ"
+    ],
+    "onyomi": [
+      "キツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "屹然",
+        "reading": "キツゼン",
+        "meaning": "cao chót vót, cao cả, nổi bật mà không bị ảnh hưởng bởi người khác, trong sự cô lập lộng lẫy"
+      },
+      {
+        "example": "屹立",
+        "reading": "キツリツ",
+        "meaning": "đứng cao, cao chót vót, bay cao"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "山",
+      "meaning": "núi"
+    },
+    "parts": [
+      "ノ",
+      "乙",
+      "乞",
+      "山"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23673_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c79.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c79.gif",
+    "uri": "https://jisho.org/search/%E5%B1%B9%23kanji"
+  }
+}

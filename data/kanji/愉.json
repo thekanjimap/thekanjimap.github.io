@@ -1,0 +1,63 @@
+{
+  "id": "愉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "愉",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1974",
+    "strokeCount": 12,
+    "meaning": "niềm vui, hạnh phúc, hân hoan",
+    "kunyomi": [
+      "たの.しい",
+      "たの.しむ"
+    ],
+    "onyomi": [
+      "ユ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "愉快",
+        "reading": "ユカイ",
+        "meaning": "vui vẻ, thú vị, vui vẻ, vui vẻ, vui vẻ, vui vẻ, vui vẻ"
+      },
+      {
+        "example": "愉悦",
+        "reading": "ユエツ",
+        "meaning": "niềm vui, niềm vui, sự thích thú"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "楽しい",
+        "reading": "たのしい",
+        "meaning": "thú vị, vui vẻ, vui vẻ, vui vẻ, vui vẻ"
+      },
+      {
+        "example": "楽しむ",
+        "reading": "たのしむ",
+        "meaning": "vui vẻ, thích thú, có thời gian vui vẻ, vui chơi, giải trí, mong chờ"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "一",
+      "个",
+      "刈",
+      "忙",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24841_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06109.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6109.gif",
+    "uri": "https://jisho.org/search/%E6%84%89%23kanji"
+  }
+}

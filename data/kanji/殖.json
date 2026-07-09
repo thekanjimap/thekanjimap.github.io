@@ -1,0 +1,70 @@
+{
+  "id": "殖",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "殖",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1362",
+    "strokeCount": 12,
+    "meaning": "tăng thêm, tăng thêm, nhân lên, nâng cao",
+    "kunyomi": [
+      "ふ.える",
+      "ふ.やす"
+    ],
+    "onyomi": [
+      "ショク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "植民地",
+        "reading": "ショクミンチ",
+        "meaning": "thuộc địa, khu định cư (Nhật Bản) (ở Brazil)"
+      },
+      {
+        "example": "植民",
+        "reading": "ショクミン",
+        "meaning": "sự thuộc địa hóa, thuộc địa hóa"
+      },
+      {
+        "example": "増殖",
+        "reading": "ゾウショク",
+        "meaning": "sự tăng lên, sự nhân lên, sự lan truyền, sự sinh sôi nảy nở"
+      },
+      {
+        "example": "生殖",
+        "reading": "セイショク",
+        "meaning": "sinh sản"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "増える",
+        "reading": "ふえる",
+        "meaning": "tăng lên, nhân lên"
+      },
+      {
+        "example": "増やす",
+        "reading": "ふやす",
+        "meaning": "tăng thêm, thêm vào, tăng thêm"
+      }
+    ],
+    "radical": {
+      "symbol": "歹",
+      "forms": [
+        "歺"
+      ],
+      "meaning": "cái chết, sự suy tàn"
+    },
+    "parts": [
+      "十",
+      "歹",
+      "目"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27542_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06b96.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6b96.gif",
+    "uri": "https://jisho.org/search/%E6%AE%96%23kanji"
+  }
+}

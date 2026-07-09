@@ -1,0 +1,380 @@
+{
+  "id": "勢",
+  "kanjialiveData": {
+    "_id": "54317af3791eba5146ee4aa9",
+    "_rev": "9-11d90f9c4531a07340ba54c9a48868fd",
+    "rad_name_ja": "ちから",
+    "grade": 5,
+    "hint_group": 4,
+    "kunyomi": "ikio, ikioi",
+    "meaning": "sức mạnh, sức mạnh, sức sống",
+    "kstroke": 13,
+    "examples": [
+      {
+        "japanese": "勢力（せいりょく）",
+        "meaning": {
+          "english": "sức mạnh, lực lượng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ikio(i)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ikio(i)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ikio(i)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ikio(i)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "威勢（いせい）",
+        "meaning": {
+          "english": "sức mạnh, năng lượng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ikio(i)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ikio(i)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ikio(i)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ikio(i)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "態勢（たいせい）",
+        "meaning": {
+          "english": "thái độ, tình trạng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ikio(i)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ikio(i)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ikio(i)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ikio(i)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "姿勢（しせい）",
+        "meaning": {
+          "english": "thái độ, tư thế"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ikio(i)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ikio(i)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ikio(i)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ikio(i)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "情勢（じょうせい）",
+        "meaning": {
+          "english": "tình huống"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ikio(i)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ikio(i)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ikio(i)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ikio(i)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "優勢な（ゆうせいな）",
+        "meaning": {
+          "english": "cấp trên"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ikio(i)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ikio(i)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ikio(i)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ikio(i)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "豪勢な（ごうせいな）",
+        "meaning": {
+          "english": "sang trọng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ikio(i)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ikio(i)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ikio(i)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ikio(i)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "大勢（おおぜい）",
+        "meaning": {
+          "english": "số lượng lớn người"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ikio(i)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ikio(i)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ikio(i)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ikio(i)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "勢い（いきおい）",
+        "meaning": {
+          "english": "lực lượng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ikio(i)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ikio(i)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ikio(i)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ikio(i)_06_i.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "いきお、いきおい",
+    "ka_utf": "勢",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=勢",
+    "rad_name_search": [
+      "chikara"
+    ],
+    "rad_order": 24,
+    "txt_books": [
+      {
+        "chapter": "5",
+        "txt_bk": "txtIntermJpn"
+      }
+    ],
+    "kname": "ikio(i)",
+    "rad_utf": "⼒",
+    "stroketimes": [
+      0.513,
+      1.122,
+      1.792,
+      2.529,
+      2.996,
+      4.069,
+      4.737,
+      5.274,
+      6.145,
+      7.015,
+      8.488,
+      9.092,
+      10.7,
+      11.39
+    ],
+    "kunyomi_ka_display": "いきお",
+    "dick": "1829",
+    "rad_name": "chikara",
+    "dicn": "735",
+    "mn_hint": "Round 丸 object rolling down a slope [179] picks up speed/force 力.",
+    "rad_stroke": 2,
+    "onyomi_ja": "セイ",
+    "rad_meaning": "quyền lực",
+    "onyomi": "sei",
+    "ka_id": "ka_479",
+    "onyomi_search": [
+      "sei",
+      "sei"
+    ],
+    "kunyomi_search": [
+      "ikio",
+      "ikioi",
+      "ikio, ikioi"
+    ],
+    "meaning_search": [
+      "power",
+      "force",
+      "vigor",
+      "power, force, vigor"
+    ],
+    "onyomi_ja_search": [
+      "セイ",
+      "セイ"
+    ],
+    "kunyomi_ja_search": [
+      "いきお",
+      "いきおい",
+      "いきお、いきおい"
+    ],
+    "rad_meaning_search": [
+      "power",
+      "power"
+    ],
+    "rad_name_ja_search": [
+      "ちから"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:5",
+      "ij:c5"
+    ],
+    "rad_name_file": "chikara",
+    "kanji": {
+      "character": "勢",
+      "meaning": {
+        "english": "power, force, vigor"
+      },
+      "strokes": {
+        "count": 13,
+        "timings": [
+          0.513,
+          1.122,
+          1.792,
+          2.529,
+          2.996,
+          4.069,
+          4.737,
+          5.274,
+          6.145,
+          7.015,
+          8.488,
+          9.092,
+          10.7,
+          11.39
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/ikio(i)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/ikio(i)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/ikio(i)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/ikio(i)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/ikio(i)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/ikio(i)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/ikio(i)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/ikio(i)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/ikio(i)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/ikio(i)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/ikio(i)_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/ikio(i)_12.svg",
+          "https://media.kanjialive.com/kanji_strokes/ikio(i)_13.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "sei",
+        "katakana": "セイ"
+      },
+      "kunyomi": {
+        "romaji": "ikio, ikioi",
+        "hiragana": "いきお"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/ikio(i)_13.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/ikio(i)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/ikio(i)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼒",
+      "strokes": 2,
+      "image": "https://media.kanjialive.com/radical_character/chikara.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "ちから",
+        "romaji": "chikara"
+      },
+      "meaning": {
+        "english": "quyền lực"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/chikara0.svg",
+        "https://media.kanjialive.com/rad_frames/chikara1.svg",
+        "https://media.kanjialive.com/rad_frames/chikara2.svg"
+      ]
+    },
+    "references": {
+      "grade": 5,
+      "kodansha": "1829",
+      "classic_nelson": "735"
+    }
+  },
+  "jishoData": {
+    "query": "勢",
+    "found": true,
+    "taughtIn": "lớp 5",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "260",
+    "strokeCount": 13,
+    "meaning": "lực lượng, năng lượng, sức mạnh quân sự",
+    "kunyomi": [
+      "いきお.い",
+      "はずみ"
+    ],
+    "onyomi": [
+      "セイ",
+      "ゼイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "勢",
+        "reading": "セイ",
+        "meaning": "sức mạnh, sức mạnh, năng lượng, sức mạnh quân sự, quân đội, (số lượng) quân đội"
+      },
+      {
+        "example": "勢力",
+        "reading": "セイリョク",
+        "meaning": "ảnh hưởng, quyền lực, sức mạnh, sức mạnh, hiệu lực, sức mạnh, năng lượng"
+      },
+      {
+        "example": "国勢",
+        "reading": "コクセイ",
+        "meaning": "tình trạng của một quốc gia (dân số, tài nguyên, v.v.), tình trạng của một quốc gia, sức mạnh của một quốc gia"
+      },
+      {
+        "example": "党勢",
+        "reading": "トウセイ",
+        "meaning": "sức mạnh của một đảng"
+      },
+      {
+        "example": "勢",
+        "reading": "ゼイ",
+        "meaning": "nhóm (của người, người chơi, công ty, v.v.), trại, đội"
+      },
+      {
+        "example": "同勢",
+        "reading": "ドウゼイ",
+        "meaning": "bữa tiệc, công ty"
+      },
+      {
+        "example": "猛勢",
+        "reading": "モウセイ",
+        "meaning": "sức mạnh to lớn, đội quân dũng cảm, đội quân dũng cảm"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "勢い",
+        "reading": "いきおい",
+        "meaning": "lực, sinh lực, sinh lực, năng lượng, tinh thần, cuộc sống, ảnh hưởng, thẩm quyền, sức mạnh, sức mạnh, động lực, đà, tiến trình (của sự kiện), một cách tự nhiên, nhất thiết"
+      },
+      {
+        "example": "勢い余る",
+        "reading": "いきおいあまる",
+        "meaning": "có quá nhiều đà (do đi quá nhanh, dùng quá nhiều lực, v.v.), bị cuốn đi, đi quá đà, làm quá mức (cái gì đó)"
+      },
+      {
+        "example": "弾み",
+        "reading": "はずみ",
+        "meaning": "nảy lên, lò xo, bật lại, động lượng, động lực, xung lực, kích thích, quán tính, khoảnh khắc, tức thời, xung lực, cơ hội"
+      },
+      {
+        "example": "弾車",
+        "reading": "はずみぐるま",
+        "meaning": "bánh đà"
+      }
+    ],
+    "radical": {
+      "symbol": "力",
+      "meaning": "quyền lực, lực lượng"
+    },
+    "parts": [
+      "丶",
+      "九",
+      "儿",
+      "力",
+      "土"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21218_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052e2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52e2.gif",
+    "uri": "https://jisho.org/search/%E5%8B%A2%23kanji"
+  }
+}

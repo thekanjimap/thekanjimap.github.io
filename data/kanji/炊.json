@@ -1,0 +1,64 @@
+{
+  "id": "炊",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "炊",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1777",
+    "strokeCount": 8,
+    "meaning": "nấu, luộc",
+    "kunyomi": [
+      "た.く",
+      "-だ.き"
+    ],
+    "onyomi": [
+      "スイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "炊飯器",
+        "reading": "スイハンキ",
+        "meaning": "nồi cơm điện"
+      },
+      {
+        "example": "炊事",
+        "reading": "スイジ",
+        "meaning": "nấu ăn, làm việc nhà bếp"
+      },
+      {
+        "example": "雑炊",
+        "reading": "ゾウスイ",
+        "meaning": "cháo gạo có chứa rau, cá, v.v. và được nêm với miso hoặc nước tương"
+      },
+      {
+        "example": "烹炊",
+        "reading": "ホウスイ",
+        "meaning": "nấu ăn bằng cách đun sôi"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "炊く",
+        "reading": "たく",
+        "meaning": "nấu (ngũ cốc, ví dụ: gạo), đun sôi, đun nhỏ lửa, hầm, sôi sục, nổi giận, bẻ gãy"
+      }
+    ],
+    "radical": {
+      "symbol": "火",
+      "forms": [
+        "灬"
+      ],
+      "meaning": "ngọn lửa"
+    },
+    "parts": [
+      "欠",
+      "火"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28810_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0708a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/708a.gif",
+    "uri": "https://jisho.org/search/%E7%82%8A%23kanji"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "胴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "胴",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1904",
+    "strokeCount": 10,
+    "meaning": "thân, thân, thân (tàu), trục bánh xe",
+    "kunyomi": [],
+    "onyomi": [
+      "ドウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "胴",
+        "reading": "ドウ",
+        "meaning": "thân, thân, cơ thể, bụng, thắt lưng, yếm (trong kendo), chạm vào yếm (kimari-te trong kendo), khung (của trống, v.v.), hộp âm thanh (của đàn shamisen, v.v.), thân tàu (của một con tàu), người buôn bán"
+      },
+      {
+        "example": "胴上げ",
+        "reading": "ドウアゲ",
+        "meaning": "tung (ai đó) lên không trung (để ăn mừng)"
+      },
+      {
+        "example": "空洞",
+        "reading": "クウドウ",
+        "meaning": "khoang, rỗng, hang động, hang động, rỗng"
+      },
+      {
+        "example": "台胴",
+        "reading": "ダイドウ",
+        "meaning": "dado (một phần của bệ giữa chân đế và mái hiên)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "thịt"
+    },
+    "parts": [
+      "一",
+      "冂",
+      "口",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33012_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080f4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80f4.gif",
+    "uri": "https://jisho.org/search/%E8%83%B4%23kanji"
+  }
+}

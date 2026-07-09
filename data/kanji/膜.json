@@ -1,0 +1,57 @@
+{
+  "id": "膜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "膜",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1804",
+    "strokeCount": 14,
+    "meaning": "màng",
+    "kunyomi": [],
+    "onyomi": [
+      "マク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "膜",
+        "reading": "マク",
+        "meaning": "màng, màng"
+      },
+      {
+        "example": "膜厚",
+        "reading": "マクアツ",
+        "meaning": "độ dày màng, độ dày lớp phủ"
+      },
+      {
+        "example": "角膜",
+        "reading": "カクマク",
+        "meaning": "giác mạc"
+      },
+      {
+        "example": "網膜",
+        "reading": "モウマク",
+        "meaning": "võng mạc"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "thịt"
+    },
+    "parts": [
+      "大",
+      "日",
+      "月",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33180_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0819c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/819c.gif",
+    "uri": "https://jisho.org/search/%E8%86%9C%23kanji"
+  }
+}

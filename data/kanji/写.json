@@ -1,0 +1,400 @@
+{
+  "id": "写",
+  "kanjialiveData": {
+    "_id": "54317aec791eba5146ee4a12",
+    "_rev": "11-50a15a2f452a2e32464c70d1d3314fc9",
+    "rad_name_ja": "わかんむり",
+    "grade": 3,
+    "hint_group": 1,
+    "kunyomi": "utsu, utsusu, utsuru",
+    "meaning": "sao chép",
+    "kstroke": 5,
+    "examples": [
+      {
+        "japanese": "写真（しゃしん）",
+        "meaning": {
+          "english": "bức ảnh"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-utsu(su)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sha-utsu(su)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sha-utsu(su)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sha-utsu(su)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "写実的な（しゃじつてきな）",
+        "meaning": {
+          "english": "đúng với cuộc sống"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-utsu(su)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sha-utsu(su)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sha-utsu(su)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sha-utsu(su)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "写生する（しゃせいする）",
+        "meaning": {
+          "english": "bản phác thảo (vẽ)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-utsu(su)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sha-utsu(su)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sha-utsu(su)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sha-utsu(su)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "写経する（しゃきょうする）",
+        "meaning": {
+          "english": "chép tay một cuốn kinh"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-utsu(su)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sha-utsu(su)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sha-utsu(su)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sha-utsu(su)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "写本する（しゃほんする）",
+        "meaning": {
+          "english": "chép tay một bản thảo"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-utsu(su)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sha-utsu(su)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sha-utsu(su)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sha-utsu(su)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "複写する（ふくしゃする）",
+        "meaning": {
+          "english": "sao chép"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-utsu(su)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sha-utsu(su)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sha-utsu(su)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sha-utsu(su)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "描写する（びょうしゃする）",
+        "meaning": {
+          "english": "miêu tả"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-utsu(su)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sha-utsu(su)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sha-utsu(su)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sha-utsu(su)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "写す（うつす）",
+        "meaning": {
+          "english": "phim, dự án [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-utsu(su)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sha-utsu(su)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sha-utsu(su)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sha-utsu(su)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "写る（うつる）",
+        "meaning": {
+          "english": "được chiếu [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sha-utsu(su)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sha-utsu(su)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sha-utsu(su)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sha-utsu(su)_06_i.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "うつ、うつす、うつる",
+    "ka_utf": "写",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=写",
+    "rad_name_search": [
+      "wakanmuri"
+    ],
+    "rad_order": 18,
+    "txt_books": [
+      {
+        "chapter": "30",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "23",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "17",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "txtSFJ2"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "8",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "12",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "chapter": "8",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "8",
+        "txt_bk": "jt"
+      }
+    ],
+    "kname": "sha-utsu(su)",
+    "rad_utf": "⼍",
+    "stroketimes": [
+      0,
+      1.838,
+      3.513,
+      4.385,
+      7.196,
+      7.906
+    ],
+    "kunyomi_ka_display": "うつ",
+    "dick": "1260",
+    "rad_name": "wakanmuri",
+    "dicn": "626",
+    "mn_hint": "Give 与 believers sutras under a temple roof 冖 for copying.",
+    "rad_stroke": 2,
+    "onyomi_ja": "シャ",
+    "rad_meaning": "bìa, vương miện",
+    "onyomi": "sha",
+    "ka_id": "ka_342",
+    "rad_position": "kanmuri",
+    "rad_position_ja": "かんむり",
+    "rad_position_search": [
+      "kanmuri",
+      "kanmuri"
+    ],
+    "onyomi_search": [
+      "sha",
+      "sha"
+    ],
+    "kunyomi_search": [
+      "utsu",
+      "utsusu",
+      "utsuru",
+      "utsu, utsusu, utsuru"
+    ],
+    "meaning_search": [
+      "copy",
+      "copy"
+    ],
+    "onyomi_ja_search": [
+      "シャ",
+      "シャ"
+    ],
+    "kunyomi_ja_search": [
+      "うつ",
+      "うつす",
+      "うつる",
+      "うつ、うつす、うつる"
+    ],
+    "rad_meaning_search": [
+      "cover",
+      "crown",
+      "cover, crown"
+    ],
+    "rad_position_ja_search": [
+      "かんむり",
+      "かんむり"
+    ],
+    "rad_name_ja_search": [
+      "わかんむり"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:30",
+      "cij:c30",
+      "bk",
+      "bk:23",
+      "bk:c23",
+      "gen",
+      "gen:17",
+      "gen:c17",
+      "ap",
+      "ap:8",
+      "ap:c8",
+      "kll",
+      "kll:12",
+      "kll:c12",
+      "jt",
+      "jt:8",
+      "jt:c8"
+    ],
+    "rad_name_file": "wakanmuri",
+    "kanji": {
+      "character": "写",
+      "meaning": {
+        "english": "copy"
+      },
+      "strokes": {
+        "count": 5,
+        "timings": [
+          0,
+          1.838,
+          3.513,
+          4.385,
+          7.196,
+          7.906
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/sha-utsu(su)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/sha-utsu(su)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/sha-utsu(su)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/sha-utsu(su)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/sha-utsu(su)_5.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "sha",
+        "katakana": "シャ"
+      },
+      "kunyomi": {
+        "romaji": "utsu, utsusu, utsuru",
+        "hiragana": "うつ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/sha-utsu(su)_5.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/sha-utsu(su)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/sha-utsu(su)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼍",
+      "strokes": 2,
+      "image": "https://media.kanjialive.com/radical_character/wakanmuri.svg",
+      "position": {
+        "hiragana": "かんむり",
+        "romaji": "kanmuri",
+        "icon": "https://media.kanjialive.com/rad_positions/kanmuri.svg"
+      },
+      "name": {
+        "hiragana": "わかんむり",
+        "romaji": "wakanmuri"
+      },
+      "meaning": {
+        "english": "bìa, vương miện"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/wakanmuri0.svg",
+        "https://media.kanjialive.com/rad_frames/wakanmuri1.svg",
+        "https://media.kanjialive.com/rad_frames/wakanmuri2.svg"
+      ]
+    },
+    "references": {
+      "grade": 3,
+      "kodansha": "1260",
+      "classic_nelson": "626"
+    }
+  },
+  "jishoData": {
+    "query": "写",
+    "found": true,
+    "taughtIn": "lớp 3",
+    "jlptLevel": "N4",
+    "newspaperFrequencyRank": "453",
+    "strokeCount": 5,
+    "meaning": "sao chép, được chụp ảnh, mô tả",
+    "kunyomi": [
+      "うつ.す",
+      "うつ.る",
+      "うつ-",
+      "うつ.し"
+    ],
+    "onyomi": [
+      "シャ",
+      "ジャ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "写真集",
+        "reading": "シャシンシュウ",
+        "meaning": "sách ảnh (đặc biệt là một cuốn có ảnh của các nữ ngôi sao, người mẫu), sách ảnh"
+      },
+      {
+        "example": "写真",
+        "reading": "シャシン",
+        "meaning": "ảnh chụp, hình chụp, hình ảnh, nhiếp ảnh, Hình ảnh chuyển động, bộ phim"
+      },
+      {
+        "example": "実写",
+        "reading": "ジッシャ",
+        "meaning": "hành động trực tiếp (trái ngược với hoạt hình), ảnh chụp (về một cảnh, sự kiện có thật, v.v.), hình ảnh thật, cảnh quay thực tế, mô tả cảnh thực (bằng văn bản hoặc hình ảnh), mô tả"
+      },
+      {
+        "example": "活写",
+        "reading": "カッシャ",
+        "meaning": "miêu tả sinh động, vẽ nên một bức tranh sinh động (của)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "写す",
+        "reading": "うつす",
+        "meaning": "sao chép, sao chép, sao chép, theo dõi, sao chép, mô tả, miêu tả, miêu tả, thể hiện, bắt chước, làm mẫu, chụp (một bức ảnh), chụp ảnh, quay phim, chụp"
+      },
+      {
+        "example": "写る",
+        "reading": "うつる",
+        "meaning": "được chụp ảnh, được chiếu"
+      },
+      {
+        "example": "写ルンです",
+        "reading": "うつルンです",
+        "meaning": "QuickSnap (thương hiệu máy ảnh dùng một lần do Fujifilm sản xuất)"
+      },
+      {
+        "example": "写し",
+        "reading": "うつし",
+        "meaning": "bản sao, bản sao, bản sao, bản sao, bản ghi"
+      },
+      {
+        "example": "映し出す",
+        "reading": "うつしだす",
+        "meaning": "chiếu, chiếu (trên màn hình), phản chiếu (của gương, hồ nước, v.v.), miêu tả, mô tả, mô tả, phản ánh (thời gian, tâm trạng, v.v.)"
+      }
+    ],
+    "radical": {
+      "symbol": "冖",
+      "meaning": "che"
+    },
+    "parts": [
+      "一",
+      "冖",
+      "勹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20889_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05199.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5199.gif",
+    "uri": "https://jisho.org/search/%E5%86%99%23kanji"
+  }
+}

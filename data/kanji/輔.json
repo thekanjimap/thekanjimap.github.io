@@ -1,0 +1,62 @@
+{
+  "id": "輔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "輔",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1898",
+    "strokeCount": 14,
+    "meaning": "giúp đỡ",
+    "kunyomi": [
+      "たす.ける"
+    ],
+    "onyomi": [
+      "ホ",
+      "フ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "補助",
+        "reading": "ホジョ",
+        "meaning": "hỗ trợ, hỗ trợ, giúp đỡ, viện trợ, trợ cấp, bổ sung, trợ cấp, trợ cấp, phát hiện (trong tập tạ)"
+      },
+      {
+        "example": "補佐",
+        "reading": "ホサ",
+        "meaning": "viện trợ, giúp đỡ, trợ giúp, trợ lý, cố vấn, cố vấn, cố vấn, cố vấn"
+      },
+      {
+        "example": "補す",
+        "reading": "フス",
+        "meaning": "bổ nhiệm, chỉ định"
+      },
+      {
+        "example": "大輔",
+        "reading": "タイフ",
+        "meaning": "thứ trưởng (hệ thống ritsuryō), thứ trưởng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "助ける",
+        "reading": "たすける",
+        "meaning": "tiết kiệm, giải cứu, phụ tùng, giúp đỡ, hỗ trợ, hỗ trợ (tài chính), đóng góp (để), cung cấp viện trợ, tạo điều kiện thuận lợi, kích thích, thúc đẩy, đóng góp cho"
+      }
+    ],
+    "radical": {
+      "symbol": "車",
+      "meaning": "xe đẩy, xe hơi"
+    },
+    "parts": [
+      "丶",
+      "十",
+      "用",
+      "車"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36628_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f14.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f14.gif",
+    "uri": "https://jisho.org/search/%E8%BC%94%23kanji"
+  }
+}

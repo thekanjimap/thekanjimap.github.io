@@ -1,0 +1,55 @@
+{
+  "id": "鍛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鍛",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1793",
+    "strokeCount": 17,
+    "meaning": "rèn, kỷ luật, đào tạo",
+    "kunyomi": [
+      "きた.える"
+    ],
+    "onyomi": [
+      "タン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鍛錬",
+        "reading": "タンレン",
+        "meaning": "ủ (kim loại), ủ, rèn, làm cứng, kỷ luật, đào tạo"
+      },
+      {
+        "example": "鍛金",
+        "reading": "タンキン",
+        "meaning": "sự đập búa"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鍛える",
+        "reading": "きたえる",
+        "meaning": "rèn luyện, rèn giũa, rèn luyện, rèn luyện, kỷ luật"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "kim loại, vàng"
+    },
+    "parts": [
+      "几",
+      "又",
+      "殳",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37723_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0935b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/935b.gif",
+    "uri": "https://jisho.org/search/%E9%8D%9B%23kanji"
+  }
+}

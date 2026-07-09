@@ -1,0 +1,75 @@
+{
+  "id": "丘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "丘",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1405",
+    "strokeCount": 5,
+    "meaning": "đồi, gò",
+    "kunyomi": [
+      "おか"
+    ],
+    "onyomi": [
+      "キュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "丘陵",
+        "reading": "キュウリョウ",
+        "meaning": "đồi, gò đồi, ngọn đồi thoai thoải, chân đồi"
+      },
+      {
+        "example": "丘疹",
+        "reading": "キュウシン",
+        "meaning": "mụn nhọt, mụn nhọt"
+      },
+      {
+        "example": "墳丘",
+        "reading": "フンキュウ",
+        "meaning": "gò mộ, gò mộ"
+      },
+      {
+        "example": "砂丘",
+        "reading": "サキュウ",
+        "meaning": "cồn cát, đồi cát"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "丘",
+        "reading": "おか",
+        "meaning": "đồi, độ cao, gò đất, mặt đất nhô lên, điểm thưởng được trao cho người chiến thắng khi kết thúc trò chơi"
+      },
+      {
+        "example": "岡辺",
+        "reading": "おかべ",
+        "meaning": "vùng lân cận một ngọn đồi"
+      },
+      {
+        "example": "小高い丘",
+        "reading": "こだかいおか",
+        "meaning": "đồi nhỏ, đồi thấp, gò đồi"
+      },
+      {
+        "example": "嵐が丘",
+        "reading": "あらしがおか",
+        "meaning": "Đồi Gió Hú (tiểu thuyết của Emily Bronte)"
+      }
+    ],
+    "radical": {
+      "symbol": "一",
+      "meaning": "một"
+    },
+    "parts": [
+      "一",
+      "斤"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/19992_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e18.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e18.gif",
+    "uri": "https://jisho.org/search/%E4%B8%98%23kanji"
+  }
+}

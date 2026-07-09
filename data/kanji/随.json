@@ -1,0 +1,72 @@
+{
+  "id": "随",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "随",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1396",
+    "strokeCount": 12,
+    "meaning": "tuân theo, mặc dù, mặc dù, trong khi, trong suốt, cả hai, tất cả, tuân theo, tuân theo, tuân theo, dưới sự thương xót của (sóng)",
+    "kunyomi": [
+      "まにま.に",
+      "したが.う"
+    ],
+    "onyomi": [
+      "ズイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "随意",
+        "reading": "ズイイ",
+        "meaning": "tự nguyện, tùy chọn, tự do, tự chọn"
+      },
+      {
+        "example": "随一",
+        "reading": "ズイイチ",
+        "meaning": "tốt nhất, vĩ đại nhất, đầu tiên"
+      },
+      {
+        "example": "追随",
+        "reading": "ツイズイ",
+        "meaning": "theo (theo bước chân của), bắt kịp, đến ngang hàng với"
+      },
+      {
+        "example": "付随",
+        "reading": "フズイ",
+        "meaning": "gắn liền với, đi kèm với, gắn liền với, gắn liền với"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "随に",
+        "reading": "まにまに",
+        "meaning": "phụ thuộc vào (ví dụ: sóng), với (ví dụ: gió)"
+      },
+      {
+        "example": "従う",
+        "reading": "したがう",
+        "meaning": "tuân theo (một mệnh lệnh, luật pháp, v.v.), tuân theo (một quy tắc, phong tục, v.v.), tuân theo, quan sát, tuân thủ, nhường bước, đi theo (một người), đi cùng, đi cùng, đi dọc theo (ví dụ: một dòng sông), đi theo (ví dụ: một dấu hiệu), phục vụ (như), tham gia vào (công việc)"
+      }
+    ],
+    "radical": {
+      "symbol": "阜",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "gò, đập (阝 trái)"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "月",
+      "込",
+      "阡"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38543_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0968f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/968f.gif",
+    "uri": "https://jisho.org/search/%E9%9A%8F%23kanji"
+  }
+}

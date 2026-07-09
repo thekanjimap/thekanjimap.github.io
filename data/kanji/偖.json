@@ -1,0 +1,40 @@
+{
+  "id": "偖",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "偖",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "tốt, bây giờ",
+    "kunyomi": [
+      "さて"
+    ],
+    "onyomi": [
+      "シャ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "偖",
+        "reading": "さて",
+        "meaning": "ừ, bây giờ thì"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "đàn ông, con người"
+    },
+    "parts": [
+      "化",
+      "日",
+      "老"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20566_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05056.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5056.gif",
+    "uri": "https://jisho.org/search/%E5%81%96%23kanji"
+  }
+}

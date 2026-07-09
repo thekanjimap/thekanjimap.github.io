@@ -1,0 +1,49 @@
+{
+  "id": "銷",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "銷",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "xóa, đóng (cửa)",
+    "kunyomi": [
+      "け.す",
+      "と.ける",
+      "かわ.す",
+      "とろ.かす"
+    ],
+    "onyomi": [
+      "ショウ",
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "消失",
+        "reading": "ショウシツ",
+        "meaning": "biến mất, biến mất, mất mát, chết dần, hao mòn"
+      },
+      {
+        "example": "消夏",
+        "reading": "ショウカ",
+        "meaning": "nghỉ hè, trải qua mùa hè"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "kim loại, vàng"
+    },
+    "parts": [
+      "尚",
+      "月",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37559_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/092b7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/92b7.gif",
+    "uri": "https://jisho.org/search/%E9%8A%B7%23kanji"
+  }
+}

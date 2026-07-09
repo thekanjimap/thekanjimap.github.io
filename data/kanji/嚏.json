@@ -1,0 +1,58 @@
+{
+  "id": "嚏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嚏",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "hắt hơi",
+    "kunyomi": [
+      "くしゃみ",
+      "くさめ",
+      "くさみ",
+      "はな.ひる",
+      "ひ.る"
+    ],
+    "onyomi": [
+      "テイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "嚏",
+        "reading": "くしゃみ",
+        "meaning": "hắt hơi, nói hai lần để đáp lại việc ai đó hắt hơi như một lá bùa chống lại cái chết sớm"
+      },
+      {
+        "example": "嚏",
+        "reading": "くしゃみ",
+        "meaning": "hắt hơi, nói hai lần để đáp lại việc ai đó hắt hơi như một lá bùa chống lại cái chết sớm"
+      },
+      {
+        "example": "嚔ひる",
+        "reading": "はなひる",
+        "meaning": "hắt hơi"
+      },
+      {
+        "example": "嚏る",
+        "reading": "ひる",
+        "meaning": "hắt hơi"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "冖",
+      "十",
+      "口",
+      "田",
+      "疋"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22159_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0568f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/568f.gif",
+    "uri": "https://jisho.org/search/%E5%9A%8F%23kanji"
+  }
+}

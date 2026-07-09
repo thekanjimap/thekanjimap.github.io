@@ -1,0 +1,73 @@
+{
+  "id": "唄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "唄",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2051",
+    "strokeCount": 10,
+    "meaning": "bài hát, bản ballad",
+    "kunyomi": [
+      "うた",
+      "うた.う"
+    ],
+    "onyomi": [
+      "バイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "貝葉",
+        "reading": "バイヨウ",
+        "meaning": "bản thảo lá cọ"
+      },
+      {
+        "example": "梵唄",
+        "reading": "ボンバイ",
+        "meaning": "bài ca tán dương đức Phật, tụng kinh Phật"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "歌",
+        "reading": "うた",
+        "meaning": "bài hát, ca hát, thơ cổ điển Nhật Bản (đặc biệt là tanka), thơ hiện đại"
+      },
+      {
+        "example": "歌う",
+        "reading": "うたう",
+        "meaning": "hát, hát về (tình yêu, vẻ đẹp, v.v.) trong một bài thơ, diễn đạt dưới hình thức một bài thơ, đọc thuộc lòng (một bài thơ)"
+      },
+      {
+        "example": "長唄",
+        "reading": "ながうた",
+        "meaning": "bài hát sử thi dài với nhạc đệm shamisen (được phát triển ở Edo vào đầu thế kỷ 17)"
+      },
+      {
+        "example": "紡ぎ歌",
+        "reading": "つむぎうた",
+        "meaning": "bài hát quay"
+      },
+      {
+        "example": "歌う",
+        "reading": "うたう",
+        "meaning": "hát, hát về (tình yêu, vẻ đẹp, v.v.) trong một bài thơ, diễn đạt dưới hình thức một bài thơ, đọc thuộc lòng (một bài thơ)"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "ハ",
+      "口",
+      "目",
+      "貝"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21764_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05504.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5504.gif",
+    "uri": "https://jisho.org/search/%E5%94%84%23kanji"
+  }
+}

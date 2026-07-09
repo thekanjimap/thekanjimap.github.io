@@ -1,0 +1,61 @@
+{
+  "id": "龜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "龜",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "rùa, rùa",
+    "kunyomi": [
+      "かめ"
+    ],
+    "onyomi": [
+      "キ",
+      "キュウ",
+      "キン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "亀裂",
+        "reading": "キレツ",
+        "meaning": "vết nứt, kẽ hở, vết nứt, vết nứt, vết nứt"
+      },
+      {
+        "example": "亀甲",
+        "reading": "キッコウ",
+        "meaning": "mai rùa, mai rùa, hoa văn đồi mồi, hoa văn tổ ong, hoa văn lục giác, dấu ngoặc đồi mồi (dấu chấm câu)"
+      },
+      {
+        "example": "文亀",
+        "reading": "ブンキ",
+        "meaning": "Thời đại Bunki (1501.2.29-1504.2.30)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "亀",
+        "reading": "かめ",
+        "meaning": "rùa, rùa, nghiện rượu, mào rùa, rùa mon"
+      },
+      {
+        "example": "亀卜",
+        "reading": "きぼく",
+        "meaning": "bói toán bằng mai rùa"
+      }
+    ],
+    "radical": {
+      "symbol": "龜",
+      "meaning": "rùa, rùa"
+    },
+    "parts": [
+      "乙",
+      "亀",
+      "勹",
+      "田"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40860_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f9c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f9c.gif",
+    "uri": "https://jisho.org/search/%E9%BE%9C%23kanji"
+  }
+}

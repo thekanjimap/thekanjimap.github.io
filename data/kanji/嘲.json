@@ -1,0 +1,61 @@
+{
+  "id": "嘲",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嘲",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "strokeCount": 15,
+    "meaning": "giễu cợt, xúc phạm",
+    "kunyomi": [
+      "あざけ.る"
+    ],
+    "onyomi": [
+      "チョウ",
+      "トウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "嘲笑",
+        "reading": "チョウショウ",
+        "meaning": "tiếng cười khinh bỉ, sự chế nhạo, sự chế nhạo, sự chế nhạo"
+      },
+      {
+        "example": "嘲罵",
+        "reading": "チョウバ",
+        "meaning": "(lời nói) lời nói xúc phạm, lời nói xúc phạm"
+      },
+      {
+        "example": "自嘲",
+        "reading": "ジチョウ",
+        "meaning": "tự giễu, tự giễu, tự giễu, tự giễu mình"
+      },
+      {
+        "example": "冷嘲",
+        "reading": "レイチョウ",
+        "meaning": "cười nhạo, chế nhạo, cười khinh bỉ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "嘲る",
+        "reading": "あざける",
+        "meaning": "chế nhạo, giễu cợt, chế nhạo, giễu cợt, giễu cợt"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "十",
+      "口",
+      "日",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22066_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05632.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5632.gif",
+    "uri": "https://jisho.org/search/%E5%98%B2%23kanji"
+  }
+}

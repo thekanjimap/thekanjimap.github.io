@@ -1,0 +1,63 @@
+{
+  "id": "致",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "致",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "870",
+    "strokeCount": 10,
+    "meaning": "làm, làm, gửi, chuyển tiếp, gây ra, phát huy, phát sinh, tham gia",
+    "kunyomi": [
+      "いた.す"
+    ],
+    "onyomi": [
+      "チ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "致命傷",
+        "reading": "チメイショウ",
+        "meaning": "vết thương chí mạng"
+      },
+      {
+        "example": "致死",
+        "reading": "チシ",
+        "meaning": "gây chết người, gây chết người"
+      },
+      {
+        "example": "招致",
+        "reading": "ショウチ",
+        "meaning": "mời, triệu tập, đấu thầu (ví dụ: đăng cai Thế vận hội), kêu gọi"
+      },
+      {
+        "example": "誘致",
+        "reading": "ユウチ",
+        "meaning": "sự thu hút, sự thu hút, lời mời"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "致す",
+        "reading": "いたす",
+        "meaning": "làm"
+      }
+    ],
+    "radical": {
+      "symbol": "至",
+      "meaning": "đến"
+    },
+    "parts": [
+      "乞",
+      "厶",
+      "土",
+      "攵",
+      "至"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33268_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/081f4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/81f4.gif",
+    "uri": "https://jisho.org/search/%E8%87%B4%23kanji"
+  }
+}

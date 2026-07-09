@@ -1,0 +1,85 @@
+{
+  "id": "截",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "截",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "cắt đứt, cắt đứt",
+    "kunyomi": [
+      "き.る",
+      "た.つ"
+    ],
+    "onyomi": [
+      "セツ",
+      "サイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "切断",
+        "reading": "セツダン",
+        "meaning": "cắt, cắt, cắt, cắt cụt, ngắt kết nối"
+      },
+      {
+        "example": "截然",
+        "reading": "セツゼン",
+        "meaning": "rõ ràng, sắc nét, khác biệt, đặc biệt"
+      },
+      {
+        "example": "直截",
+        "reading": "チョクセツ",
+        "meaning": "trực tiếp, thẳng thắn, thẳng thắn, rõ ràng, dứt khoát, nhanh chóng"
+      },
+      {
+        "example": "簡明直截",
+        "reading": "カンメイチョクセツ",
+        "meaning": "đơn giản và rõ ràng, thẳng thắn, trực tiếp và không mâu thuẫn, thẳng thắn"
+      },
+      {
+        "example": "細金",
+        "reading": "サイキン",
+        "meaning": "lá kim loại cắt thành dải hoặc các hình dạng khác để tạo thành các họa tiết trang trí, cắt một tấm kim loại mỏng thành các hình dạng và dán nó bằng sơn mài tạo thành các đặc điểm tự nhiên (ví dụ: đám mây)"
+      },
+      {
+        "example": "截然",
+        "reading": "セツゼン",
+        "meaning": "rõ ràng, sắc nét, khác biệt, đặc biệt"
+      },
+      {
+        "example": "直截",
+        "reading": "チョクセツ",
+        "meaning": "trực tiếp, thẳng thắn, thẳng thắn, rõ ràng, dứt khoát, nhanh chóng"
+      },
+      {
+        "example": "半裁",
+        "reading": "ハンサイ",
+        "meaning": "cắt đôi"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "截る",
+        "reading": "きる",
+        "meaning": "cắt (ví dụ: vải)"
+      },
+      {
+        "example": "裁つ",
+        "reading": "たつ",
+        "meaning": "cắt (vải)"
+      }
+    ],
+    "radical": {
+      "symbol": "戈",
+      "meaning": "giáo, kích"
+    },
+    "parts": [
+      "土",
+      "戈",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25130_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0622a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/622a.gif",
+    "uri": "https://jisho.org/search/%E6%88%AA%23kanji"
+  }
+}

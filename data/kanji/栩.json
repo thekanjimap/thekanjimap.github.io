@@ -1,0 +1,42 @@
+{
+  "id": "栩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "栩",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "loại gỗ sồi",
+    "kunyomi": [
+      "くぬぎ"
+    ],
+    "onyomi": [
+      "ク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "栩栩",
+        "reading": "クク",
+        "meaning": "vui vẻ, hạnh phúc"
+      },
+      {
+        "example": "栩栩",
+        "reading": "クク",
+        "meaning": "vui vẻ, hạnh phúc"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "冫",
+      "木",
+      "羽"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26665_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06829.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6829.gif",
+    "uri": "https://jisho.org/search/%E6%A0%A9%23kanji"
+  }
+}

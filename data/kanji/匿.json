@@ -1,0 +1,62 @@
+{
+  "id": "匿",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "匿",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2024",
+    "strokeCount": 10,
+    "meaning": "ẩn nấp, che chắn, che chắn",
+    "kunyomi": [
+      "かくま.う"
+    ],
+    "onyomi": [
+      "トク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "匿",
+        "reading": "トク",
+        "meaning": "nơi trú ẩn, lá chắn, ẩn náu"
+      },
+      {
+        "example": "匿名",
+        "reading": "トクメイ",
+        "meaning": "ẩn danh, sử dụng tên giả"
+      },
+      {
+        "example": "隠匿",
+        "reading": "イントク",
+        "meaning": "che giấu (đặc biệt là những việc làm sai trái hoặc tội phạm), che chở, chứa chấp"
+      },
+      {
+        "example": "秘匿",
+        "reading": "ヒトク",
+        "meaning": "ẩn nấp, che giấu"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "匿う",
+        "reading": "かくまう",
+        "meaning": "nơi trú ẩn (ví dụ: một kẻ chạy trốn), chứa chấp, chứa chấp, ẩn náu, làm nơi trú ẩn"
+      }
+    ],
+    "radical": {
+      "symbol": "匸",
+      "meaning": "nơi ẩn náu"
+    },
+    "parts": [
+      "ノ",
+      "匚",
+      "口",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21311_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0533f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/533f.gif",
+    "uri": "https://jisho.org/search/%E5%8C%BF%23kanji"
+  }
+}

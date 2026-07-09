@@ -1,0 +1,68 @@
+{
+  "id": "釘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "釘",
+    "found": true,
+    "newspaperFrequencyRank": "2496",
+    "strokeCount": 10,
+    "meaning": "đinh, đinh, chốt",
+    "kunyomi": [
+      "くぎ"
+    ],
+    "onyomi": [
+      "テイ",
+      "チョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "釘頭",
+        "reading": "テイトウ",
+        "meaning": "đầu đinh"
+      },
+      {
+        "example": "装丁",
+        "reading": "ソウテイ",
+        "meaning": "đóng bìa (sách), thiết kế (bìa sách)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "釘",
+        "reading": "くぎ",
+        "meaning": "đinh, đinh, đinh, đinh tán, đinh, chốt (pachinko)"
+      },
+      {
+        "example": "釘隠",
+        "reading": "くぎかくし",
+        "meaning": "miếng che đầu móng, vật trang trí che đầu móng"
+      },
+      {
+        "example": "合い釘",
+        "reading": "あいくぎ",
+        "meaning": "đinh hai cánh, chốt"
+      },
+      {
+        "example": "鋲釘",
+        "reading": "びょうくぎ",
+        "meaning": "đinh tán, đinh bấm, đinh bấm, đinh ghim, đinh hobnail"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "kim loại, vàng"
+    },
+    "parts": [
+      "一",
+      "亅",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37336_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091d8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91d8.gif",
+    "uri": "https://jisho.org/search/%E9%87%98%23kanji"
+  }
+}

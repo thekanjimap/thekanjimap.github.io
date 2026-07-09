@@ -1,0 +1,59 @@
+{
+  "id": "屠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "屠",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "sự tàn sát, đồ tể, sự giết thịt",
+    "kunyomi": [
+      "ほふ.る"
+    ],
+    "onyomi": [
+      "ト",
+      "チョ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "屠牛",
+        "reading": "トギュウ",
+        "meaning": "giết mổ gia súc (để làm thực phẩm)"
+      },
+      {
+        "example": "屠殺",
+        "reading": "トサツ",
+        "meaning": "sự giết mổ (động vật để lấy thịt), sự giết thịt"
+      },
+      {
+        "example": "狗屠",
+        "reading": "クト",
+        "meaning": "giết chó, giết chó, giết chó"
+      },
+      {
+        "example": "浮屠",
+        "reading": "フト",
+        "meaning": "Phật, bảo tháp, chùa Phật giáo, tu sĩ Phật giáo"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "屠る",
+        "reading": "ほふる",
+        "meaning": "tàn sát, tàn sát, tàn sát, đánh bại, chế ngự, đánh bại"
+      }
+    ],
+    "radical": {
+      "symbol": "尸",
+      "meaning": "xác chết"
+    },
+    "parts": [
+      "尸",
+      "日",
+      "老"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23648_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c60.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c60.gif",
+    "uri": "https://jisho.org/search/%E5%B1%A0%23kanji"
+  }
+}

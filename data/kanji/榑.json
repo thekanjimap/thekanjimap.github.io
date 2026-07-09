@@ -1,0 +1,50 @@
+{
+  "id": "榑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "榑",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "gỗ xẻ không vỏ",
+    "kunyomi": [
+      "くれ"
+    ],
+    "onyomi": [
+      "フ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "扶桑",
+        "reading": "フソウ",
+        "meaning": "cây thần hoặc hòn đảo phía đông Trung Quốc, Fusang, Nhật Bản, dâm bụt Trung Quốc (Hibiscus rosa-sinensis)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "くれ縁",
+        "reading": "くれえん",
+        "meaning": "hiên ngoài trời với những tấm ván mỏng chạy dọc theo chiều dài của nó"
+      },
+      {
+        "example": "節榑",
+        "reading": "ふしくれ",
+        "meaning": "gỗ hoặc cây có nhiều nút"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "丶",
+      "十",
+      "寸",
+      "木",
+      "田"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27025_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06991.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6991.gif",
+    "uri": "https://jisho.org/search/%E6%A6%91%23kanji"
+  }
+}

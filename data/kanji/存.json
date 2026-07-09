@@ -1,0 +1,406 @@
+{
+  "id": "存",
+  "kanjialiveData": {
+    "_id": "54317af2791eba5146ee4a91",
+    "_rev": "12-b3b439e54f33923dd139a58f5ca1d44a",
+    "rad_name_ja": "こ",
+    "grade": 6,
+    "hint_group": 1,
+    "kunyomi": "Không có",
+    "meaning": "tồn tại, biết",
+    "kstroke": 6,
+    "examples": [
+      {
+        "japanese": "存在する（そんざいする）",
+        "meaning": {
+          "english": "tồn tại"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son(zai)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/son(zai)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/son(zai)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/son(zai)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "存続する（そんぞくする）",
+        "meaning": {
+          "english": "tiếp tục tồn tại"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son(zai)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/son(zai)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/son(zai)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/son(zai)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "現存する（げんそんする）",
+        "meaning": {
+          "english": "tồn tại hiện tại"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son(zai)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/son(zai)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/son(zai)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/son(zai)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "依存する（いぞんする）",
+        "meaning": {
+          "english": "phụ thuộc vào"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son(zai)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/son(zai)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/son(zai)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/son(zai)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "生存する（せいぞんする）",
+        "meaning": {
+          "english": "tồn tại, tồn tại"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son(zai)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/son(zai)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/son(zai)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/son(zai)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "保存する（ほぞんする）",
+        "meaning": {
+          "english": "bảo quản"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son(zai)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/son(zai)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/son(zai)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/son(zai)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "実存主義（じつぞんしゅぎ）",
+        "meaning": {
+          "english": "chủ nghĩa hiện sinh"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son(zai)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/son(zai)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/son(zai)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/son(zai)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "異存（いぞん）",
+        "meaning": {
+          "english": "phản đối"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son(zai)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/son(zai)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/son(zai)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/son(zai)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "所存（しょぞん）",
+        "meaning": {
+          "english": "ý định"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son(zai)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/son(zai)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/son(zai)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/son(zai)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "存分に（ぞんぶんに）",
+        "meaning": {
+          "english": "tự do"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son(zai)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/son(zai)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/son(zai)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/son(zai)_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "御存知（ごぞんじ）",
+        "meaning": {
+          "english": "biết [anh ơi]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son(zai)_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/son(zai)_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/son(zai)_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/son(zai)_06_k.mp3"
+        }
+      },
+      {
+        "japanese": "存じる（ぞんじる）",
+        "meaning": {
+          "english": "biết [hum.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/son(zai)_06_l.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/son(zai)_06_l.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/son(zai)_06_l.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/son(zai)_06_l.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "存",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=存",
+    "kname": "son(zai)",
+    "rad_order": 46,
+    "txt_books": [
+      {
+        "chapter": "4",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtIKB"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "jtr"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "25"
+      }
+    ],
+    "rad_name_search": [
+      "ko"
+    ],
+    "rad_utf": "⼦",
+    "stroketimes": [
+      0.65,
+      1.28,
+      2.151,
+      3.222,
+      4.762,
+      6.103,
+      6.968
+    ],
+    "kunyomi_ka_display": "Không có",
+    "dick": "1894",
+    "rad_name": "ko",
+    "dicn": "1267",
+    "mn_hint": "Ancestors 一 continue to exist in the people イ and their children 子.",
+    "rad_stroke": 3,
+    "onyomi_ja": "ソン、ゾン",
+    "rad_meaning": "đứa trẻ, con trai",
+    "onyomi": "son, zon",
+    "ka_id": "ka_457",
+    "onyomi_search": [
+      "son",
+      "zon",
+      "son, zon"
+    ],
+    "kunyomi_search": [
+      "Không có",
+      "Không có"
+    ],
+    "meaning_search": [
+      "exist",
+      "know",
+      "exist, know"
+    ],
+    "onyomi_ja_search": [
+      "ソン",
+      "ゾン",
+      "ソン、ゾン"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "child",
+      "son",
+      "child, son"
+    ],
+    "rad_name_ja_search": [
+      "こ"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:4",
+      "ij:c4",
+      "ik1",
+      "ik1:7",
+      "ik1:c7",
+      "jtr",
+      "jtr:6",
+      "jtr:c6",
+      "cijr",
+      "cijr:25",
+      "cijr:c25"
+    ],
+    "rad_name_file": "ko",
+    "kanji": {
+      "character": "存",
+      "meaning": {
+        "english": "exist, know"
+      },
+      "strokes": {
+        "count": 6,
+        "timings": [
+          0.65,
+          1.28,
+          2.151,
+          3.222,
+          4.762,
+          6.103,
+          6.968
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/son(zai)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/son(zai)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/son(zai)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/son(zai)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/son(zai)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/son(zai)_6.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "son, zon",
+        "katakana": "ソン、ゾン"
+      },
+      "kunyomi": {
+        "romaji": "Không có",
+        "hiragana": "Không có"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/son(zai)_6.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/son(zai)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/son(zai)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼦",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/ko.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "こ",
+        "romaji": "ko"
+      },
+      "meaning": {
+        "english": "đứa trẻ, con trai"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/ko0.svg",
+        "https://media.kanjialive.com/rad_frames/ko1.svg",
+        "https://media.kanjialive.com/rad_frames/ko2.svg"
+      ]
+    },
+    "references": {
+      "grade": 6,
+      "kodansha": "1894",
+      "classic_nelson": "1267"
+    }
+  },
+  "jishoData": {
+    "query": "存",
+    "found": true,
+    "taughtIn": "lớp 6",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "577",
+    "strokeCount": 6,
+    "meaning": "tồn tại, giả sử, nhận thức được, tin tưởng, cảm nhận",
+    "kunyomi": [
+      "ながら.える",
+      "あ.る",
+      "たも.つ",
+      "と.う"
+    ],
+    "onyomi": [
+      "ソン",
+      "ゾン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "存続",
+        "reading": "ソンゾク",
+        "meaning": "sự tiếp tục, sự sống sót, sự kiên trì, sự duy trì, thời gian"
+      },
+      {
+        "example": "存在",
+        "reading": "ソンザイ",
+        "meaning": "sự tồn tại, sự tồn tại, sự hiện diện"
+      },
+      {
+        "example": "残存",
+        "reading": "ザンゾン",
+        "meaning": "sống sót, còn lại, còn tồn tại, bị bỏ lại"
+      },
+      {
+        "example": "共存",
+        "reading": "キョウゾン",
+        "meaning": "cùng tồn tại"
+      },
+      {
+        "example": "存分",
+        "reading": "ゾンブン",
+        "meaning": "theo ý thích của mình, bao nhiêu tùy thích, không dè dặt, tự do, hết mình"
+      },
+      {
+        "example": "存じる",
+        "reading": "ゾンジル",
+        "meaning": "biết, nhận thức được (của), làm quen (với), suy nghĩ, cân nhắc, tin tưởng, cảm nhận"
+      },
+      {
+        "example": "温存",
+        "reading": "オンゾン",
+        "meaning": "sự bảo quản, sự giữ lại, sự giữ gìn"
+      },
+      {
+        "example": "共存",
+        "reading": "キョウゾン",
+        "meaning": "cùng tồn tại"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "永らえる",
+        "reading": "ながらえる",
+        "meaning": "có một cuộc sống lâu dài, sống lâu"
+      }
+    ],
+    "radical": {
+      "symbol": "子",
+      "meaning": "đứa trẻ, hạt giống"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "子",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23384_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b58.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b58.gif",
+    "uri": "https://jisho.org/search/%E5%AD%98%23kanji"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "逼",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "逼",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "thúc giục, ép buộc, sắp xảy ra, thúc đẩy",
+    "kunyomi": [
+      "せま.る",
+      "むかばき"
+    ],
+    "onyomi": [
+      "フク",
+      "ヒツ",
+      "ヒョク",
+      "ヒキ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "迫る",
+        "reading": "せまる",
+        "meaning": "đến gần, đến gần, sắp xảy ra, ép (ai đó vì cái gì), thúc giục, ép buộc"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "đi bộ"
+    },
+    "parts": [
+      "一",
+      "口",
+      "田",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36924_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0903c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/903c.gif",
+    "uri": "https://jisho.org/search/%E9%80%BC%23kanji"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "携",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "携",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1017",
+    "strokeCount": 13,
+    "meaning": "di động, mang theo (trong tay), được trang bị, mang theo",
+    "kunyomi": [
+      "たずさ.える",
+      "たずさ.わる"
+    ],
+    "onyomi": [
+      "ケイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "携帯",
+        "reading": "ケイタイ",
+        "meaning": "mang (trên người hoặc trên tay), điện thoại di động, điện thoại di động"
+      },
+      {
+        "example": "携帯ストラップ",
+        "reading": "ケイタイストラップ",
+        "meaning": "dây đeo cho điện thoại di động"
+      },
+      {
+        "example": "連携",
+        "reading": "レンケイ",
+        "meaning": "sự hợp tác,sự phối hợp,sự hợp tác,sự liên kết,sự liên kết,sự liên kết"
+      },
+      {
+        "example": "戦略的提携",
+        "reading": "センリャクテキテイケイ",
+        "meaning": "quan hệ đối tác chiến lược"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "携える",
+        "reading": "たずさえる",
+        "meaning": "mang trong tay, mang theo, mang trên người, mang, mang theo (ai đó), mang theo (ai đó), đi cùng"
+      },
+      {
+        "example": "携わる",
+        "reading": "たずさわる",
+        "meaning": "tham gia vào, tham gia vào, tham gia vào, tham gia vào"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "ノ",
+      "乃",
+      "扎",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25658_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0643a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/643a.gif",
+    "uri": "https://jisho.org/search/%E6%90%BA%23kanji"
+  }
+}

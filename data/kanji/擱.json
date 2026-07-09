@@ -1,0 +1,52 @@
+{
+  "id": "擱",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "擱",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "nằm xuống, đặt xuống",
+    "kunyomi": [
+      "お.く"
+    ],
+    "onyomi": [
+      "カク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "擱座",
+        "reading": "カクザ",
+        "meaning": "mắc cạn, mắc cạn, bị vô hiệu hóa (xe tăng, xe lửa, v.v.), bị loại khỏi hoạt động"
+      },
+      {
+        "example": "擱筆",
+        "reading": "カクヒツ",
+        "meaning": "ngừng viết"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "措く",
+        "reading": "おく",
+        "meaning": "dừng lại (làm điều gì đó), dừng lại, gạt sang một bên, để nguyên như vậy, để yên, loại trừ, ngoại trừ"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "口",
+      "夂",
+      "扎",
+      "門"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25841_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/064f1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/64f1.gif",
+    "uri": "https://jisho.org/search/%E6%93%B1%23kanji"
+  }
+}

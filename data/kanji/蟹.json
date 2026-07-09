@@ -1,0 +1,60 @@
+{
+  "id": "蟹",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蟹",
+    "found": true,
+    "newspaperFrequencyRank": "2417",
+    "strokeCount": 19,
+    "meaning": "cua",
+    "kunyomi": [
+      "かに"
+    ],
+    "onyomi": [
+      "カイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蟹行文字",
+        "reading": "カイコウモンジ",
+        "meaning": "viết chéo, bảng chữ cái thường được viết theo chiều ngang"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蟹",
+        "reading": "かに",
+        "meaning": "cua"
+      },
+      {
+        "example": "カニ歩き",
+        "reading": "カニあるき",
+        "meaning": "đi như cua"
+      },
+      {
+        "example": "月夜の蟹",
+        "reading": "つきよのかに",
+        "meaning": "cua ít thịt, cua đêm trăng, thứ gì đó không có thịt, thứ gì đó không có thực chất"
+      },
+      {
+        "example": "渡り蟹",
+        "reading": "わたりがに",
+        "meaning": "cua bơi (Portunus trituberculatus), cua xanh Nhật Bản"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "côn trùng"
+    },
+    "parts": [
+      "刀",
+      "牛",
+      "虫",
+      "角"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34809_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/087f9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/87f9.gif",
+    "uri": "https://jisho.org/search/%E8%9F%B9%23kanji"
+  }
+}

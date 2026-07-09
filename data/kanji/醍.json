@@ -1,0 +1,43 @@
+{
+  "id": "醍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "醍",
+    "found": true,
+    "newspaperFrequencyRank": "2303",
+    "strokeCount": 16,
+    "meaning": "ôi, lời dạy phật giáo hay",
+    "kunyomi": [],
+    "onyomi": [
+      "ダイ",
+      "タイ",
+      "テイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "醍醐",
+        "reading": "ダイゴ",
+        "meaning": "ghee (được coi là hương vị tuyệt vời nhất trong tất cả các hương vị), chân lý tối thượng của Phật giáo, niết bàn"
+      },
+      {
+        "example": "醍醐味",
+        "reading": "ダイゴミ",
+        "meaning": "niềm vui thực sự (của một cái gì đó), sự hồi hộp thực sự, sự quyến rũ thực sự, hương vị của bơ sữa trâu, hương vị thơm ngon, lời dạy ân cần của Đức Phật"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "酉",
+      "meaning": "rượu vang, rượu"
+    },
+    "parts": [
+      "日",
+      "疋",
+      "酉"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37261_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0918d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/918d.gif",
+    "uri": "https://jisho.org/search/%E9%86%8D%23kanji"
+  }
+}

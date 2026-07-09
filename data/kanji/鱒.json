@@ -1,0 +1,58 @@
+{
+  "id": "鱒",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鱒",
+    "found": true,
+    "newspaperFrequencyRank": "2482",
+    "strokeCount": 23,
+    "meaning": "cá hồi cá hồi",
+    "kunyomi": [
+      "ます"
+    ],
+    "onyomi": [
+      "ソン",
+      "セン",
+      "ザン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鱒",
+        "reading": "ます",
+        "meaning": "cá hồi, cá hồi biển"
+      },
+      {
+        "example": "鱒の介",
+        "reading": "ますのすけ",
+        "meaning": "cá hồi chinook (Oncorhynchus tshawytscha), cá hồi vua, cá hồi tyee, cá hồi sông Columbia, cá hồi đen, cá hồi chub, cá hồi mỏ móc, cá hồi mùa đông, cá hồi mùa xuân, cá hồi quinat, blackmouth"
+      },
+      {
+        "example": "塩鱒",
+        "reading": "しおます",
+        "meaning": "cá thu muối"
+      },
+      {
+        "example": "小豆鱒",
+        "reading": "あずきます",
+        "meaning": "cá tuyết đá, cá mú yên đen"
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "cá"
+    },
+    "parts": [
+      "寸",
+      "并",
+      "杰",
+      "田",
+      "酉",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40018_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c52.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c52.gif",
+    "uri": "https://jisho.org/search/%E9%B1%92%23kanji"
+  }
+}

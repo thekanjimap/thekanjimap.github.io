@@ -1,0 +1,46 @@
+{
+  "id": "僑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "僑",
+    "found": true,
+    "newspaperFrequencyRank": "2044",
+    "strokeCount": 14,
+    "meaning": "người nước ngoài, người sống ở nước ngoài, nhà ở tạm thời",
+    "kunyomi": [],
+    "onyomi": [
+      "キョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "華僑",
+        "reading": "カキョウ",
+        "meaning": "người Hoa ở nước ngoài"
+      },
+      {
+        "example": "老華僑",
+        "reading": "ロウカキョウ",
+        "meaning": "Hoa kiều (đặc biệt trước 1978)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "đàn ông, con người"
+    },
+    "parts": [
+      "ノ",
+      "冂",
+      "化",
+      "口",
+      "大"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20689_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050d1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50d1.gif",
+    "uri": "https://jisho.org/search/%E5%83%91%23kanji"
+  }
+}

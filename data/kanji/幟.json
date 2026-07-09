@@ -1,0 +1,60 @@
+{
+  "id": "幟",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "幟",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "cờ, biểu ngữ, truyền phát",
+    "kunyomi": [
+      "のぼり"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "旗幟",
+        "reading": "キシ",
+        "meaning": "lá cờ, biểu ngữ, biểu tượng, biểu tượng, lập trường, vị trí, ý kiến"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "幟",
+        "reading": "のぼり",
+        "meaning": "nobori, biểu ngữ dài và hẹp gắn vào một cột ở một bên và một thanh ngang dọc theo phía trên, Ngày của các chàng trai nobori, cờ cá chép"
+      },
+      {
+        "example": "幟邑",
+        "reading": "のぼりざと",
+        "meaning": "kanji \"ngôi làng lớn\" cấp tiến"
+      },
+      {
+        "example": "鯉のぼり",
+        "reading": "こいのぼり",
+        "meaning": "koinobori, cờ cá chép, áo gió hình cá chép được treo truyền thống để chào mừng Ngày thiếu nhi vào tháng 5"
+      },
+      {
+        "example": "五月幟",
+        "reading": "ごがつのぼり",
+        "meaning": "Cờ cá chép bằng giấy ngày hội của các chàng trai"
+      }
+    ],
+    "radical": {
+      "symbol": "巾",
+      "meaning": "khăn xếp, khăn quàng cổ"
+    },
+    "parts": [
+      "巾",
+      "戈",
+      "日",
+      "立",
+      "音"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24159_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e5f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e5f.gif",
+    "uri": "https://jisho.org/search/%E5%B9%9F%23kanji"
+  }
+}

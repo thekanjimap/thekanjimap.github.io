@@ -1,0 +1,75 @@
+{
+  "id": "柳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "柳",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1169",
+    "strokeCount": 9,
+    "meaning": "liễu",
+    "kunyomi": [
+      "やなぎ"
+    ],
+    "onyomi": [
+      "リュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "柳",
+        "reading": "リュウ",
+        "meaning": "Chòm sao \"Liễu\" Trung Quốc (một trong 28 dinh thự)"
+      },
+      {
+        "example": "柳暗花明",
+        "reading": "リュウアンカメイ",
+        "meaning": "phong cảnh đẹp của mùa xuân khu đèn đỏ"
+      },
+      {
+        "example": "川柳",
+        "reading": "センリュウ",
+        "meaning": "senryū, truyện tranh haiku, bài thơ mười bảy mora hài hước"
+      },
+      {
+        "example": "花柳",
+        "reading": "カリュウ",
+        "meaning": "khu đèn đỏ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "柳",
+        "reading": "やなぎ",
+        "meaning": "liễu (bất kỳ cây nào thuộc chi Salix), liễu khóc (Salix babylonica)"
+      },
+      {
+        "example": "柳刃包丁",
+        "reading": "やなぎばぼうちょう",
+        "meaning": "dao nhà bếp cho sashimi"
+      },
+      {
+        "example": "青柳",
+        "reading": "あおやぎ",
+        "meaning": "liễu xanh (tức là cây đã chớm nở), thịt vỏ máng (Mactra chinensis)"
+      },
+      {
+        "example": "化粧柳",
+        "reading": "けしょうやなぎ",
+        "meaning": "Chooseia (Chosenia arbutifolia)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "卩",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26611_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067f3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67f3.gif",
+    "uri": "https://jisho.org/search/%E6%9F%B3%23kanji"
+  }
+}

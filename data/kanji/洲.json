@@ -1,0 +1,86 @@
+{
+  "id": "洲",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "洲",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1979",
+    "strokeCount": 9,
+    "meaning": "lục địa, bãi cát, đảo, đất nước",
+    "kunyomi": [
+      "しま"
+    ],
+    "onyomi": [
+      "シュウ",
+      "ス"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "州",
+        "reading": "シュウ",
+        "meaning": "tiểu bang (của Hoa Kỳ, Úc, Ấn Độ, Đức, v.v.), tỉnh (ví dụ: Canada), quận (ví dụ: Vương quốc Anh), khu vực (ví dụ: Ý), bang, oblast, lục địa, tỉnh (của Nhật Bản), tỉnh (của Trung Quốc cổ đại), quận, bộ phận, thân yêu"
+      },
+      {
+        "example": "大州",
+        "reading": "タイシュウ",
+        "meaning": "lục địa"
+      },
+      {
+        "example": "六大州",
+        "reading": "ロクダイシュウ",
+        "meaning": "sáu lục địa, Châu Á, Châu Phi, Bắc Mỹ, Nam Mỹ, Châu Âu và Úc"
+      },
+      {
+        "example": "州",
+        "reading": "ス",
+        "meaning": "bãi cát, bãi cát"
+      },
+      {
+        "example": "洲浜",
+        "reading": "スハマ",
+        "meaning": "bãi biển đầy cát, bãi cát nhô ra biển, đặc biệt ở dạng lượn sóng, thiết kế và đồ vật có hoa văn lượn sóng, bánh mochi ngọt ngào"
+      },
+      {
+        "example": "白州",
+        "reading": "シラス",
+        "meaning": "bãi cát trắng, bãi cát trắng, khu vực trong vườn hoặc lối vào ngôi nhà được trải bằng cát trắng hoặc sỏi, sỏi ngăn cách sân khấu noh với khán giả, tòa án thời Edo, trong đó các bên ngồi trên cát trắng"
+      },
+      {
+        "example": "中州",
+        "reading": "ナカス",
+        "meaning": "bãi cát (ở sông), bãi cát"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "秋津島",
+        "reading": "あきつしま",
+        "meaning": "Nhật Bản, tỉnh Yamato"
+      },
+      {
+        "example": "八洲",
+        "reading": "やしま",
+        "meaning": "Nhật Bản"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "丶",
+      "川",
+      "汁",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27954_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d32.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d32.gif",
+    "uri": "https://jisho.org/search/%E6%B4%B2%23kanji"
+  }
+}

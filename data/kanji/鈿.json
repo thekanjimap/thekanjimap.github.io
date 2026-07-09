@@ -1,0 +1,45 @@
+{
+  "id": "鈿",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鈿",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "sợi tóc trang trí",
+    "kunyomi": [
+      "かんざし"
+    ],
+    "onyomi": [
+      "デン",
+      "テン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "花鈿",
+        "reading": "カデン",
+        "meaning": "kẹp tóc trang trí, trang điểm có họa tiết hoa, v.v."
+      },
+      {
+        "example": "螺鈿",
+        "reading": "ラデン",
+        "meaning": "xà cừ, xà cừ"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "kim loại, vàng"
+    },
+    "parts": [
+      "田",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37439_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0923f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/923f.gif",
+    "uri": "https://jisho.org/search/%E9%88%BF%23kanji"
+  }
+}

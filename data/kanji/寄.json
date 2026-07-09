@@ -1,0 +1,350 @@
+{
+  "id": "寄",
+  "kanjialiveData": {
+    "_id": "54317aeb791eba5146ee49fc",
+    "_rev": "10-d8ecb792a5ebe6aabe0e6a8a68f19865",
+    "rad_name_ja": "うかんむり",
+    "grade": 5,
+    "hint_group": 1,
+    "kunyomi": "yo, yoru, yori, yoseru",
+    "meaning": "đóng góp, đến gần, tiếp cận",
+    "kstroke": 11,
+    "examples": [
+      {
+        "japanese": "寄付する（きふする）",
+        "meaning": {
+          "english": "quyên góp"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-yo(ru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ki-yo(ru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ki-yo(ru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ki-yo(ru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "寄生する（きせいする）",
+        "meaning": {
+          "english": "trở thành ký sinh"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-yo(ru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ki-yo(ru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ki-yo(ru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ki-yo(ru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "寄港する（きこうする）",
+        "meaning": {
+          "english": "dừng lại ở một cảng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-yo(ru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ki-yo(ru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ki-yo(ru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ki-yo(ru)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "寄る（よる）",
+        "meaning": {
+          "english": "thả vào [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-yo(ru)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ki-yo(ru)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ki-yo(ru)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ki-yo(ru)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "年寄り（としより）",
+        "meaning": {
+          "english": "người già"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-yo(ru)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ki-yo(ru)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ki-yo(ru)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ki-yo(ru)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "寄せる（よせる）",
+        "meaning": {
+          "english": "tập hợp [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ki-yo(ru)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ki-yo(ru)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ki-yo(ru)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ki-yo(ru)_06_f.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "よ、よる、より、よせる",
+    "ka_utf": "寄",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=寄",
+    "kname": "ki-yo(ru)",
+    "rad_order": 48,
+    "txt_books": [
+      {
+        "chapter": "29",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtAd4"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtSFJ4"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "jtr"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "26"
+      }
+    ],
+    "rad_name_search": [
+      "ukanmuri"
+    ],
+    "rad_utf": "⼧",
+    "stroketimes": [
+      0,
+      1.732,
+      2.465,
+      3.865,
+      4.732,
+      5.799,
+      6.732,
+      7.598,
+      8.599,
+      9.465,
+      10.265,
+      11.4
+    ],
+    "kunyomi_ka_display": "よ",
+    "dick": "1473",
+    "rad_name": "ukanmuri",
+    "dicn": "1318",
+    "mn_hint": "Rich man's exceptional 奇 house 宀; people approach to admire it.",
+    "rad_stroke": 3,
+    "onyomi_ja": "キ",
+    "rad_meaning": "mái nhà, ngôi nhà",
+    "onyomi": "ki",
+    "ka_id": "ka_322",
+    "rad_position": "kanmuri",
+    "rad_position_ja": "かんむり",
+    "rad_position_search": [
+      "kanmuri",
+      "kanmuri"
+    ],
+    "onyomi_search": [
+      "ki",
+      "ki"
+    ],
+    "kunyomi_search": [
+      "yo",
+      "yoru",
+      "yori",
+      "yoseru",
+      "yo, yoru, yori, yoseru"
+    ],
+    "meaning_search": [
+      "contribute",
+      "draw near",
+      "draw",
+      "near",
+      "approach",
+      "contribute, draw near, approach"
+    ],
+    "onyomi_ja_search": [
+      "キ",
+      "キ"
+    ],
+    "kunyomi_ja_search": [
+      "よ",
+      "よる",
+      "より",
+      "よせる",
+      "よ、よる、より、よせる"
+    ],
+    "rad_meaning_search": [
+      "roof",
+      "house",
+      "roof, house"
+    ],
+    "rad_position_ja_search": [
+      "かんむり",
+      "かんむり"
+    ],
+    "rad_name_ja_search": [
+      "うかんむり"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:29",
+      "cij:c29",
+      "aij3",
+      "aij3:9",
+      "aij3:c9",
+      "aij3:v4",
+      "aij3:v4:9",
+      "aij3:v4:c9",
+      "jtr",
+      "jtr:4",
+      "jtr:c4",
+      "cijr",
+      "cijr:26",
+      "cijr:c26"
+    ],
+    "rad_name_file": "ukanmuri",
+    "kanji": {
+      "character": "寄",
+      "meaning": {
+        "english": "contribute, draw near, approach"
+      },
+      "strokes": {
+        "count": 11,
+        "timings": [
+          0,
+          1.732,
+          2.465,
+          3.865,
+          4.732,
+          5.799,
+          6.732,
+          7.598,
+          8.599,
+          9.465,
+          10.265,
+          11.4
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/ki-yo(ru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/ki-yo(ru)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/ki-yo(ru)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/ki-yo(ru)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/ki-yo(ru)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/ki-yo(ru)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/ki-yo(ru)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/ki-yo(ru)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/ki-yo(ru)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/ki-yo(ru)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/ki-yo(ru)_11.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "ki",
+        "katakana": "キ"
+      },
+      "kunyomi": {
+        "romaji": "yo, yoru, yori, yoseru",
+        "hiragana": "よ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/ki-yo(ru)_11.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/ki-yo(ru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/ki-yo(ru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼧",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/ukanmuri.svg",
+      "position": {
+        "hiragana": "かんむり",
+        "romaji": "kanmuri",
+        "icon": "https://media.kanjialive.com/rad_positions/kanmuri.svg"
+      },
+      "name": {
+        "hiragana": "うかんむり",
+        "romaji": "ukanmuri"
+      },
+      "meaning": {
+        "english": "mái nhà, ngôi nhà"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/ukanmuri0.svg",
+        "https://media.kanjialive.com/rad_frames/ukanmuri1.svg",
+        "https://media.kanjialive.com/rad_frames/ukanmuri2.svg"
+      ]
+    },
+    "references": {
+      "grade": 5,
+      "kodansha": "1473",
+      "classic_nelson": "1318"
+    }
+  },
+  "jishoData": {
+    "query": "寄",
+    "found": true,
+    "taughtIn": "lớp 5",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "673",
+    "strokeCount": 11,
+    "meaning": "đến gần, dừng lại, mang lại gần, tập hợp, thu thập, gửi, chuyển tiếp",
+    "kunyomi": [
+      "よ.る",
+      "-よ.り",
+      "よ.せる"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "寄港",
+        "reading": "キコウ",
+        "meaning": "ghé cảng, dừng chân ở sân bay"
+      },
+      {
+        "example": "寄金",
+        "reading": "キキン",
+        "meaning": "sự đóng góp, sự quyên góp"
+      },
+      {
+        "example": "数寄",
+        "reading": "スキ",
+        "meaning": "hương vị tinh tế, theo đuổi thanh lịch"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "寄る",
+        "reading": "よる",
+        "meaning": "đến gần, đến gần, đến gần, đến gần, tụ tập (ở một nơi), đến với nhau, gặp nhau, dừng lại (trong khi đang trên đường đến một nơi khác), ghé qua, ghé thăm ngắn, già đi, tăng cao (số lượng, v.v.), tăng trưởng (nhăn nheo), tựa vào, ngả người, đẩy đối thủ trong khi giữ thắt lưng của họ, quyết định giá cả và đi đến một thỏa thuận, bị ảnh hưởng bởi (một người), nhượng bộ để"
+      },
+      {
+        "example": "寄ると触ると",
+        "reading": "よるとさわると",
+        "meaning": "bất cứ khi nào họ đến với nhau"
+      },
+      {
+        "example": "寄せる",
+        "reading": "よせる",
+        "meaning": "đến gần, để ai đó đến gần, mang lại gần, tập hợp, tập hợp, đưa ra (ý kiến, tin tức, v.v.), gửi (ví dụ: một lá thư), đóng góp, quyên góp, để ai đó ghé qua, thêm (số), có tình cảm (tình yêu, thiện chí, tin tưởng, v.v.), dựa vào một thời gian, dựa vào, dùng như một cái cớ, gạt sang một bên, nhấn, đẩy, ép buộc, bao gồm, chào đón (trong một nhóm), để cho vào"
+      }
+    ],
+    "radical": {
+      "symbol": "宀",
+      "meaning": "mái nhà"
+    },
+    "parts": [
+      "一",
+      "亅",
+      "口",
+      "大",
+      "宀"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23492_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05bc4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5bc4.gif",
+    "uri": "https://jisho.org/search/%E5%AF%84%23kanji"
+  }
+}

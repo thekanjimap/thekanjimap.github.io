@@ -1,0 +1,63 @@
+{
+  "id": "鮪",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鮪",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "cá ngừ",
+    "kunyomi": [
+      "まぐろ",
+      "しび"
+    ],
+    "onyomi": [
+      "キ",
+      "ユウ",
+      "イ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "鮪",
+        "reading": "まぐろ",
+        "meaning": "cá ngừ (cá ăn được, Thunnus spp.), cá ngừ, cá ngừ vây xanh Thái Bình Dương (cá ăn được, Thunnus Orientalis), xác chết, sao biển, người không hoạt động khi quan hệ tình dục, người bất tỉnh do rượu"
+      },
+      {
+        "example": "マグロ女",
+        "reading": "マグロおんな",
+        "meaning": "người chết, sao biển, người phụ nữ không hoạt động khi quan hệ tình dục"
+      },
+      {
+        "example": "梶木鮪",
+        "reading": "かじきまぐろ",
+        "meaning": "cá marlin"
+      },
+      {
+        "example": "磯鮪",
+        "reading": "いそまぐろ",
+        "meaning": "cá ngừ răng chó (Gymnosarda unicolor)"
+      },
+      {
+        "example": "鮪",
+        "reading": "まぐろ",
+        "meaning": "cá ngừ (cá ăn được, Thunnus spp.), cá ngừ, cá ngừ vây xanh Thái Bình Dương (cá ăn được, Thunnus Orientalis), xác chết, sao biển, người không hoạt động khi quan hệ tình dục, người bất tỉnh do rượu"
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "cá"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "月",
+      "杰",
+      "田",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39850_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09baa.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9baa.gif",
+    "uri": "https://jisho.org/search/%E9%AE%AA%23kanji"
+  }
+}

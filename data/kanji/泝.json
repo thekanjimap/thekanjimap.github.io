@@ -1,0 +1,41 @@
+{
+  "id": "泝",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "泝",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "đi ngược dòng",
+    "kunyomi": [
+      "さかのぼる"
+    ],
+    "onyomi": [
+      "ソ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "遡る",
+        "reading": "さかのぼる",
+        "meaning": "đi ngược dòng, đi lên (một dòng sông), quay trở lại (quá khứ hoặc nguồn gốc), quay ngược thời gian (đến), truy tìm lại (đến), có tính chất hồi tố (đến)"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "丶",
+      "斤",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27869_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06cdd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6cdd.gif",
+    "uri": "https://jisho.org/search/%E6%B3%9D%23kanji"
+  }
+}

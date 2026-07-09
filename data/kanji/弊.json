@@ -1,0 +1,58 @@
+{
+  "id": "弊",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "弊",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1750",
+    "strokeCount": 15,
+    "meaning": "lạm dụng, cái ác, phó, phá vỡ",
+    "kunyomi": [],
+    "onyomi": [
+      "ヘイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "弊",
+        "reading": "ヘイ",
+        "meaning": "thói quen xấu, tác hại, của tôi, của chúng tôi"
+      },
+      {
+        "example": "弊害",
+        "reading": "ヘイガイ",
+        "meaning": "tác hại, ảnh hưởng có hại, hành động xấu, lạm dụng, bệnh tật"
+      },
+      {
+        "example": "疲弊",
+        "reading": "ヒヘイ",
+        "meaning": "sự kiệt sức, sự kiệt sức, sự bần cùng, sự kiệt quệ (tài chính), sự đổ nát"
+      },
+      {
+        "example": "病弊",
+        "reading": "ビョウヘイ",
+        "meaning": "ảnh hưởng xấu, ảnh hưởng xấu"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "廾",
+      "meaning": "hai tay, hai mươi"
+    },
+    "parts": [
+      "乞",
+      "冂",
+      "尚",
+      "巾",
+      "并",
+      "廾",
+      "攵",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24330_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f0a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f0a.gif",
+    "uri": "https://jisho.org/search/%E5%BC%8A%23kanji"
+  }
+}

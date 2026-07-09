@@ -1,0 +1,64 @@
+{
+  "id": "訂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "訂",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1690",
+    "strokeCount": 9,
+    "meaning": "xem lại, sửa lại, quyết định",
+    "kunyomi": [
+      "ただ.す"
+    ],
+    "onyomi": [
+      "テイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "訂正",
+        "reading": "テイセイ",
+        "meaning": "sửa lại, sửa đổi, sửa đổi"
+      },
+      {
+        "example": "訂する",
+        "reading": "テイスル",
+        "meaning": "để sửa"
+      },
+      {
+        "example": "装丁",
+        "reading": "ソウテイ",
+        "meaning": "đóng bìa (sách), thiết kế (bìa sách)"
+      },
+      {
+        "example": "大改訂",
+        "reading": "ダイカイテイ",
+        "meaning": "sửa đổi lớn"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "訂す",
+        "reading": "ただす",
+        "meaning": "sửa (lỗi đánh máy, v.v.)"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "lời nói"
+    },
+    "parts": [
+      "一",
+      "亅",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35330_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a02.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a02.gif",
+    "uri": "https://jisho.org/search/%E8%A8%82%23kanji"
+  }
+}

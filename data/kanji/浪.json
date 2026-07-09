@@ -1,0 +1,56 @@
+{
+  "id": "浪",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "浪",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1508",
+    "strokeCount": 10,
+    "meaning": "lang thang, sóng, cuồn cuộn, liều lĩnh, không kiềm chế",
+    "kunyomi": [],
+    "onyomi": [
+      "ロウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "浪",
+        "reading": "ロウ",
+        "meaning": "người đã mất X năm sau khi tốt nghiệp trung học để cố gắng được nhận vào một trường đại học (cụ thể)"
+      },
+      {
+        "example": "浪人",
+        "reading": "ロウニン",
+        "meaning": "ronin, samurai vô chủ, tốt nghiệp trung học đang chờ cơ hội khác vào đại học sau khi trượt kỳ thi tuyển sinh hàng năm, người thất nghiệp, người thất nghiệp, kẻ lang thang, kẻ trôi dạt"
+      },
+      {
+        "example": "放浪",
+        "reading": "ホウロウ",
+        "meaning": "lang thang, lang thang, trôi dạt"
+      },
+      {
+        "example": "１浪",
+        "reading": "イチロウ",
+        "meaning": "trượt kỳ thi tuyển sinh đại học và thi lại một năm sau đó"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "汁",
+      "艮"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28010_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d6a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d6a.gif",
+    "uri": "https://jisho.org/search/%E6%B5%AA%23kanji"
+  }
+}

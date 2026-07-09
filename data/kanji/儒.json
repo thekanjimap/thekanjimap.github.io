@@ -1,0 +1,56 @@
+{
+  "id": "儒",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "儒",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2162",
+    "strokeCount": 16,
+    "meaning": "Nho giáo",
+    "kunyomi": [],
+    "onyomi": [
+      "ジュ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "儒",
+        "reading": "ジュ",
+        "meaning": "Nho giáo, Nho giáo, học giả Trung Quốc"
+      },
+      {
+        "example": "儒教",
+        "reading": "ジュキョウ",
+        "meaning": "Nho giáo"
+      },
+      {
+        "example": "大儒",
+        "reading": "タイジュ",
+        "meaning": "nhà Nho vĩ đại (học giả), học giả vĩ đại, người có học thức uyên bác"
+      },
+      {
+        "example": "坑儒",
+        "reading": "コウジュ",
+        "meaning": "chôn sống các học giả Nho giáo"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "đàn ông, con người"
+    },
+    "parts": [
+      "化",
+      "而",
+      "雨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20754_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05112.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5112.gif",
+    "uri": "https://jisho.org/search/%E5%84%92%23kanji"
+  }
+}

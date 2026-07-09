@@ -1,0 +1,75 @@
+{
+  "id": "苑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "苑",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2060",
+    "strokeCount": 8,
+    "meaning": "vườn, trang trại, công viên",
+    "kunyomi": [
+      "その",
+      "う.つ"
+    ],
+    "onyomi": [
+      "エン",
+      "オン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "園",
+        "reading": "エン",
+        "meaning": "vườn, vườn cây ăn quả, công viên, đồn điền, trường mẫu giáo, trường mẫu giáo, trường mầm non"
+      },
+      {
+        "example": "園内",
+        "reading": "エンナイ",
+        "meaning": "bên trong trường mẫu giáo, bên trong sở thú, bên trong vườn, bên trong công viên"
+      },
+      {
+        "example": "霊園",
+        "reading": "レイエン",
+        "meaning": "(vườn) nghĩa trang, nghĩa trang kiểu công viên, công viên tưởng niệm"
+      },
+      {
+        "example": "外苑",
+        "reading": "ガイエン",
+        "meaning": "khu vườn bên ngoài"
+      },
+      {
+        "example": "紫苑",
+        "reading": "シオン",
+        "meaning": "hoa cúc (Aster tataricus), hoa cúc Tartarian, hoa cúc Michaelmas"
+      },
+      {
+        "example": "鹿野苑",
+        "reading": "ロクヤオン",
+        "meaning": "Magadaava (nơi Đức Phật thuyết pháp lần đầu tiên), Vườn Nai"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "園",
+        "reading": "その",
+        "meaning": "vườn, Vườn cây, công viên, địa điểm, Thế giới, Môi trường"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "卩",
+      "夕",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33489_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082d1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82d1.gif",
+    "uri": "https://jisho.org/search/%E8%8B%91%23kanji"
+  }
+}

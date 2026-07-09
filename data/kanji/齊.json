@@ -1,0 +1,44 @@
+{
+  "id": "齊",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "齊",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "giống nhau, bằng nhau, tương tự, Saito",
+    "kunyomi": [
+      "そろ.う",
+      "ひと.しい",
+      "ひと.しく",
+      "あたる",
+      "はやい"
+    ],
+    "onyomi": [
+      "セイ",
+      "サイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "斉",
+        "reading": "セイ",
+        "meaning": "Tề (vương quốc ở Trung Quốc trong thời Xuân Thu và Thời Chiến Quốc), Ch'i"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "齊",
+      "meaning": "đồng đều, đồng đều"
+    },
+    "parts": [
+      "亠",
+      "刀",
+      "廾",
+      "氏",
+      "齊"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40778_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f4a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f4a.gif",
+    "uri": "https://jisho.org/search/%E9%BD%8A%23kanji"
+  }
+}

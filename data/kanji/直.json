@@ -1,0 +1,477 @@
+{
+  "id": "直",
+  "kanjialiveData": {
+    "_id": "54317ae0791eba5146ee492e",
+    "_rev": "12-6ebe0f3ffd7aaf641b2bc90e3948ecea",
+    "rad_name_ja": "め",
+    "grade": 2,
+    "hint_group": 2,
+    "kunyomi": "tada, tadasu, nao, naoru, naosu",
+    "meaning": "thẳng, sửa chữa, sửa chữa",
+    "kstroke": 8,
+    "examples": [
+      {
+        "japanese": "直接（ちょくせつ）",
+        "meaning": {
+          "english": "trực tiếp"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/choku-nao(ru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/choku-nao(ru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/choku-nao(ru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/choku-nao(ru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "直後（ちょくご）",
+        "meaning": {
+          "english": "ngay sau đây"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/choku-nao(ru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/choku-nao(ru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/choku-nao(ru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/choku-nao(ru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "直前（ちょくぜん）",
+        "meaning": {
+          "english": "ngay trước đó"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/choku-nao(ru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/choku-nao(ru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/choku-nao(ru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/choku-nao(ru)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "直感する（ちょっかんする）",
+        "meaning": {
+          "english": "đạt được trực giác"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/choku-nao(ru)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/choku-nao(ru)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/choku-nao(ru)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/choku-nao(ru)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "直結する（ちょっけつする）",
+        "meaning": {
+          "english": "kết nối trực tiếp"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/choku-nao(ru)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/choku-nao(ru)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/choku-nao(ru)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/choku-nao(ru)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "直行便（ちょっこうびん）",
+        "meaning": {
+          "english": "chuyến bay thẳng (không dừng)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/choku-nao(ru)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/choku-nao(ru)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/choku-nao(ru)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/choku-nao(ru)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "正直な（しょうじきな）",
+        "meaning": {
+          "english": "trung thực"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/choku-nao(ru)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/choku-nao(ru)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/choku-nao(ru)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/choku-nao(ru)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "直に（じきに/じかに）",
+        "meaning": {
+          "english": "trực tiếp"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/choku-nao(ru)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/choku-nao(ru)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/choku-nao(ru)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/choku-nao(ru)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "直す（ただす/なおす）",
+        "meaning": {
+          "english": "chữa bệnh, sửa chữa [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/choku-nao(ru)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/choku-nao(ru)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/choku-nao(ru)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/choku-nao(ru)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "書き直す（かきなおす）",
+        "meaning": {
+          "english": "viết lại"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/choku-nao(ru)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/choku-nao(ru)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/choku-nao(ru)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/choku-nao(ru)_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "直る（なおる）",
+        "meaning": {
+          "english": "được chữa khỏi, được sửa chữa [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/choku-nao(ru)_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/choku-nao(ru)_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/choku-nao(ru)_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/choku-nao(ru)_06_k.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "ただ、ただす、なお、なおる、なおす",
+    "ka_utf": "直",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=直",
+    "kname": "choku-nao(ru)",
+    "rad_order": 137,
+    "txt_books": [
+      {
+        "chapter": "15",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "44",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "31",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "jt"
+      },
+      {
+        "txt_bk": "mosr",
+        "chapter": "6"
+      },
+      {
+        "txt_bk": "mntr",
+        "chapter": "6"
+      }
+    ],
+    "rad_name_search": [
+      "me"
+    ],
+    "rad_utf": "⽬",
+    "stroketimes": [
+      0,
+      2.401,
+      3.206,
+      4.278,
+      5.886,
+      6.556,
+      7.426,
+      8.431,
+      11.128492
+    ],
+    "kunyomi_ka_display": "ただ、なお",
+    "dick": "1862",
+    "rad_name": "me",
+    "dicn": "775",
+    "mn_hint": "It takes ten 十 pairs of eyes 目 to fix a corner [21] not made at a right angle.",
+    "rad_stroke": 5,
+    "onyomi_ja": "チョク、ジキ、ジカ",
+    "rad_meaning": "mắt",
+    "onyomi": "choku, jiki, jika",
+    "ka_id": "ka_137",
+    "onyomi_search": [
+      "choku",
+      "jiki",
+      "jika",
+      "choku, jiki, jika"
+    ],
+    "kunyomi_search": [
+      "tada",
+      "tadasu",
+      "nao",
+      "naoru",
+      "naosu",
+      "tada, tadasu, nao, naoru, naosu"
+    ],
+    "meaning_search": [
+      "straight",
+      "fix",
+      "repair",
+      "straight, fix, repair"
+    ],
+    "onyomi_ja_search": [
+      "チョク",
+      "ジキ",
+      "ジカ",
+      "チョク、ジキ、ジカ"
+    ],
+    "kunyomi_ja_search": [
+      "ただ",
+      "ただす",
+      "なお",
+      "なおる",
+      "なおす",
+      "ただ、ただす、なお、なおる、なおす"
+    ],
+    "rad_meaning_search": [
+      "eye",
+      "eye"
+    ],
+    "rad_name_ja_search": [
+      "め"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:15",
+      "cij:c15",
+      "bk",
+      "bk:44",
+      "bk:c44",
+      "kll",
+      "kll:31",
+      "kll:c31",
+      "jt",
+      "jt:3",
+      "jt:c3",
+      "mosr",
+      "mosr:6",
+      "mosr:c6",
+      "mntr",
+      "mntr:6",
+      "mntr:c6"
+    ],
+    "rad_name_file": "me",
+    "kanji": {
+      "character": "直",
+      "meaning": {
+        "english": "straight, fix, repair"
+      },
+      "strokes": {
+        "count": 8,
+        "timings": [
+          0,
+          2.401,
+          3.206,
+          4.278,
+          5.886,
+          6.556,
+          7.426,
+          8.431,
+          11.128492
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/choku-nao(ru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/choku-nao(ru)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/choku-nao(ru)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/choku-nao(ru)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/choku-nao(ru)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/choku-nao(ru)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/choku-nao(ru)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/choku-nao(ru)_8.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "choku, jiki, jika",
+        "katakana": "チョク、ジキ、ジカ"
+      },
+      "kunyomi": {
+        "romaji": "tada, tadasu, nao, naoru, naosu",
+        "hiragana": "ただ、なお"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/choku-nao(ru)_8.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/choku-nao(ru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/choku-nao(ru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⽬",
+      "strokes": 5,
+      "image": "https://media.kanjialive.com/radical_character/me.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "め",
+        "romaji": "me"
+      },
+      "meaning": {
+        "english": "mắt"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/me0.svg",
+        "https://media.kanjialive.com/rad_frames/me1.svg",
+        "https://media.kanjialive.com/rad_frames/me2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "1862",
+      "classic_nelson": "775"
+    }
+  },
+  "jishoData": {
+    "query": "直",
+    "found": true,
+    "taughtIn": "lớp 2",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "246",
+    "strokeCount": 8,
+    "meaning": "ngay thẳng, trung thực, thẳng thắn, sửa chữa, sửa chữa",
+    "kunyomi": [
+      "ただ.ちに",
+      "なお.す",
+      "-なお.す",
+      "なお.る",
+      "なお.き",
+      "す.ぐ"
+    ],
+    "onyomi": [
+      "チョク",
+      "ジキ",
+      "ジカ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "直",
+        "reading": "チョク",
+        "meaning": "ngay thẳng, thật thà, thẳng thắn, thẳng thắn, thẳng thắn, dễ tính, vui vẻ, thân thiện, trực đêm, trực đêm, trực (ở nhà máy), làm ca"
+      },
+      {
+        "example": "直営",
+        "reading": "チョクエイ",
+        "meaning": "quản lý trực tiếp"
+      },
+      {
+        "example": "司直",
+        "reading": "シチョク",
+        "meaning": "thẩm phán, cơ quan xét xử, cơ quan xét xử, cơ quan xét xử"
+      },
+      {
+        "example": "愚直",
+        "reading": "グチョク",
+        "meaning": "sự trung thực đơn giản, sự thẳng thắn không khéo léo"
+      },
+      {
+        "example": "直",
+        "reading": "ジキ",
+        "meaning": "sớm, trong giây lát, chẳng bao lâu, chẳng bao lâu, gần, gần, đóng, trực tiếp, giao dịch giao ngay, giao dịch tiền mặt"
+      },
+      {
+        "example": "直に",
+        "reading": "ジキニ",
+        "meaning": "ngay lập tức, ngay lập tức, ngay lập tức, sớm, trong chốc lát, trước khi lâu, dễ dàng, sẵn sàng"
+      },
+      {
+        "example": "高直",
+        "reading": "コウジキ",
+        "meaning": "đắt tiền, có giá trị"
+      },
+      {
+        "example": "バカ正直",
+        "reading": "バカショウジキ",
+        "meaning": "thành thật khi có lỗi, thành thật một cách ngu ngốc, thành thật một cách ngây thơ"
+      },
+      {
+        "example": "直",
+        "reading": "ジカ",
+        "meaning": "trực tiếp"
+      },
+      {
+        "example": "直に",
+        "reading": "ジカニ",
+        "meaning": "trực tiếp, đích thân, trực tiếp"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "直ちに",
+        "reading": "ただちに",
+        "meaning": "ngay lập tức, ngay lập tức, không chậm trễ, trực tiếp (đối mặt, dẫn đến, v.v.), tự động (có nghĩa là, dẫn đến, v.v.)"
+      },
+      {
+        "example": "直す",
+        "reading": "なおす",
+        "meaning": "sửa chữa, sửa chữa, sửa chữa, sửa chữa (một lỗi lầm, thói quen xấu, v.v.), chỉnh sửa, phục hồi, làm thẳng (ví dụ: cà vạt), dọn dẹp (tóc, trang điểm, v.v.), làm sống lại (tinh thần của một người), thay đổi, thay đổi, chuyển đổi, dịch, đặt lại, cất đi, chữa lành, chữa lành, tiến lên, thăng tiến, làm lại, làm lại"
+      },
+      {
+        "example": "直る",
+        "reading": "なおる",
+        "meaning": "được sửa chữa, được sửa chữa, được sửa chữa, trở lại bình thường, phục hồi (ví dụ: tính khí của một người), được phục hồi, cải thiện, tập hợp, đi đúng, được sửa chữa, để làm đúng, được sửa chữa, đi đúng, chữa khỏi (chính nó), được chữa khỏi, ngồi đúng cách, được thăng chức, đứng lên, được tha thứ tội ác của mình"
+      },
+      {
+        "example": "直き",
+        "reading": "なおき",
+        "meaning": "thẳng, ngay thẳng"
+      },
+      {
+        "example": "直木三十五賞",
+        "reading": "なおきさんじゅうごしょう",
+        "meaning": "Giải thưởng Naoki (giải thưởng văn học)"
+      },
+      {
+        "example": "直ぐ",
+        "reading": "すぐ",
+        "meaning": "ngay lập tức, ngay lập tức, ngay lập tức, trực tiếp, sớm, không lâu sau, ngắn gọn, dễ dàng, sẵn sàng, không khó khăn, ngay (gần), gần, vừa phải (tiện dụng), trung thực, ngay thẳng, thẳng thắn, thẳng thắn"
+      },
+      {
+        "example": "直ぐさま",
+        "reading": "すぐさま",
+        "meaning": "ngay lập tức, kịp thời"
+      },
+      {
+        "example": "真直ぐ",
+        "reading": "ますぐ",
+        "meaning": "thẳng (phía trước), thẳng thắn, ngay thẳng, thẳng thắn, thẳng thắn, trung thực, thẳng thắn"
+      }
+    ],
+    "radical": {
+      "symbol": "目",
+      "meaning": "mắt"
+    },
+    "parts": [
+      "一",
+      "十",
+      "目",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30452_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/076f4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/76f4.gif",
+    "uri": "https://jisho.org/search/%E7%9B%B4%23kanji"
+  }
+}

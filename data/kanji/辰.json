@@ -1,0 +1,76 @@
+{
+  "id": "辰",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "辰",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1600",
+    "strokeCount": 7,
+    "meaning": "con rồng, 7-9 giờ sáng, cung hoàng đạo thứ năm của Trung Quốc, cấp tiến rồng ống chân (số 161)",
+    "kunyomi": [
+      "たつ"
+    ],
+    "onyomi": [
+      "シン",
+      "ジン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "辰砂",
+        "reading": "シンシャ",
+        "meaning": "chu sa, chu sa, sơn mài chu sa, đồ sơn mài chu sa"
+      },
+      {
+        "example": "辰星",
+        "reading": "シンセイ",
+        "meaning": "thiên thể, các ngôi sao, ngôi sao sáng dùng để đo thời gian (ví dụ: Sirius), Sao Thủy (trong thiên văn học Trung Quốc cổ đại), chòm sao \"phòng\" Trung Quốc (một trong 28 dinh thự)"
+      },
+      {
+        "example": "星辰",
+        "reading": "セイシン",
+        "meaning": "thiên thể, ngôi sao"
+      },
+      {
+        "example": "日月星辰",
+        "reading": "ジツゲツセイシン",
+        "meaning": "mặt trời, mặt trăng và các ngôi sao, các thiên thể"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "辰",
+        "reading": "たつ",
+        "meaning": "Rồng (thứ năm hoàng đạo), giờ Thìn (khoảng 8h, 7-9h hoặc 8-10h), hướng đông-đông nam, tháng 3 âm lịch"
+      },
+      {
+        "example": "辰年",
+        "reading": "たつどし",
+        "meaning": "năm con rồng"
+      },
+      {
+        "example": "庚辰",
+        "reading": "かのえたつ",
+        "meaning": "Metal Dragon (kỳ thứ 17 của chu kỳ lục thập niên, ví dụ: 1940, 2000, 2060)"
+      },
+      {
+        "example": "甲辰",
+        "reading": "きのえたつ",
+        "meaning": "Rồng Mộc (học kỳ thứ 41 của chu kỳ lục thập niên, ví dụ: 1964, 2024, 2084)"
+      }
+    ],
+    "radical": {
+      "symbol": "辰",
+      "meaning": "buổi sáng"
+    },
+    "parts": [
+      "厂",
+      "衣",
+      "辰"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36784_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08fb0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8fb0.gif",
+    "uri": "https://jisho.org/search/%E8%BE%B0%23kanji"
+  }
+}

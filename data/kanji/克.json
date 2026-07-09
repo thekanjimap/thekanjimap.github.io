@@ -1,0 +1,61 @@
+{
+  "id": "克",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "克",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1333",
+    "strokeCount": 7,
+    "meaning": "vượt qua, tử tế, khéo léo",
+    "kunyomi": [
+      "か.つ"
+    ],
+    "onyomi": [
+      "コク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "克明",
+        "reading": "コクメイ",
+        "meaning": "chi tiết, tỉ mỉ, cẩn thận, tỉ mỉ, trung thực, công phu, siêng năng, trung thực, ngay thẳng, chân thành"
+      },
+      {
+        "example": "克服",
+        "reading": "コクフク",
+        "meaning": "chinh phục (khó khăn, bệnh tật, khủng hoảng, v.v.), vượt qua, vượt qua, kiểm soát được"
+      },
+      {
+        "example": "相克",
+        "reading": "ソウコク",
+        "meaning": "sự ganh đua"
+      },
+      {
+        "example": "超克",
+        "reading": "チョウコク",
+        "meaning": "vượt qua, chinh phục, vượt qua, vượt qua"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "勝つ",
+        "reading": "かつ",
+        "meaning": "giành chiến thắng, giành được thắng lợi"
+      }
+    ],
+    "radical": {
+      "symbol": "儿",
+      "meaning": "chân"
+    },
+    "parts": [
+      "儿",
+      "十",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20811_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0514b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/514b.gif",
+    "uri": "https://jisho.org/search/%E5%85%8B%23kanji"
+  }
+}

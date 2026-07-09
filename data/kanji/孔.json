@@ -1,0 +1,86 @@
+{
+  "id": "孔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "孔",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2052",
+    "strokeCount": 4,
+    "meaning": "khoang, lỗ, khe, rất, tuyệt vời, cực kỳ",
+    "kunyomi": [
+      "あな"
+    ],
+    "onyomi": [
+      "コウ",
+      "ク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "孔子",
+        "reading": "コウシ",
+        "meaning": "Khổng Tử"
+      },
+      {
+        "example": "孔隙率",
+        "reading": "コウゲキリツ",
+        "meaning": "độ xốp"
+      },
+      {
+        "example": "瞳孔",
+        "reading": "ドウコウ",
+        "meaning": "đồng tử (của mắt)"
+      },
+      {
+        "example": "鰓孔",
+        "reading": "エラアナ",
+        "meaning": "khe mang, khe hầu"
+      },
+      {
+        "example": "孔雀",
+        "reading": "クジャク",
+        "meaning": "công (bao gồm công đực, công mái và công non)"
+      },
+      {
+        "example": "孔子",
+        "reading": "コウシ",
+        "meaning": "Khổng Tử"
+      },
+      {
+        "example": "毛孔",
+        "reading": "モウコウ",
+        "meaning": "lỗ chân lông (của da)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "穴",
+        "reading": "あな",
+        "meaning": "lỗ, lỗ mở, lỗ, lỗ thủng, hố, lỗ, khoang, lỗ (ví dụ: trong lòng đất), hang, hang, hang ổ, lỗ hổng, lỗ hổng, thâm hụt, thiếu hụt, lỗ (tài chính), mất mát, khoảng trống (do một nhân viên, thành viên nhóm mất tích để lại, v.v.), vị trí tuyển dụng, sơ hở, sai sót, lỗi, khiếm khuyết, điểm yếu, lỗ hổng (trong một lý thuyết, kế hoạch, v.v.), kẽ hở, địa điểm tốt không nhiều người biết đến, bí mật được giữ kín, chiến thắng khó chịu (với một chiến thắng lớn) tiền thưởng), cú sút xa, ngựa ô, hộp (được phân chia) (loại ghế ngồi trên sàn trong rạp hát truyền thống Nhật Bản), nơi ẩn náu, nơi ẩn náu"
+      },
+      {
+        "example": "鍵穴",
+        "reading": "かぎあな",
+        "meaning": "lỗ khóa"
+      },
+      {
+        "example": "巣穴",
+        "reading": "すあな",
+        "meaning": "hố làm tổ, hang, hang"
+      }
+    ],
+    "radical": {
+      "symbol": "子",
+      "meaning": "đứa trẻ, hạt giống"
+    },
+    "parts": [
+      "乙",
+      "子"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23380_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05b54.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5b54.gif",
+    "uri": "https://jisho.org/search/%E5%AD%94%23kanji"
+  }
+}

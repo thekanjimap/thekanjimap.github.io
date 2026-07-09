@@ -1,0 +1,71 @@
+{
+  "id": "誘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "誘",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "993",
+    "strokeCount": 14,
+    "meaning": "lôi kéo,dẫn dắt,dụ dỗ,mời gọi,yêu cầu,kêu gọi,dụ dỗ,dụ dỗ",
+    "kunyomi": [
+      "さそ.う",
+      "いざな.う"
+    ],
+    "onyomi": [
+      "ユウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "誘致",
+        "reading": "ユウチ",
+        "meaning": "sự thu hút, sự thu hút, lời mời"
+      },
+      {
+        "example": "誘拐",
+        "reading": "ユウカイ",
+        "meaning": "bắt cóc, bắt cóc, bắt cóc"
+      },
+      {
+        "example": "不招請勧誘",
+        "reading": "フショウセイカンユウ",
+        "meaning": "khuyến mãi không được yêu cầu"
+      },
+      {
+        "example": "劇場型勧誘",
+        "reading": "ゲキジョウガタカンユウ",
+        "meaning": "quảng cáo các kế hoạch đầu tư lừa đảo bằng các tài liệu quảng cáo bóng loáng, các cuộc gọi điện thoại, v.v."
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "誘う",
+        "reading": "さそう",
+        "meaning": "mời, yêu cầu (ai đó làm), gọi (cho), dẫn (ai) đi cùng, cám dỗ, dụ dỗ, dụ dỗ, quyến rũ, xúi giục (nước mắt, tiếng cười, cơn buồn ngủ, v.v.), khơi dậy (ví dụ: cảm thông), khiêu khích"
+      },
+      {
+        "example": "誘う",
+        "reading": "さそう",
+        "meaning": "mời, yêu cầu (ai đó làm), gọi (cho), dẫn (ai) đi cùng, cám dỗ, dụ dỗ, dụ dỗ, quyến rũ, xúi giục (nước mắt, tiếng cười, cơn buồn ngủ, v.v.), khơi dậy (ví dụ: cảm thông), khiêu khích"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "lời nói"
+    },
+    "parts": [
+      "ノ",
+      "乃",
+      "禾",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35480_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a98.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a98.gif",
+    "uri": "https://jisho.org/search/%E8%AA%98%23kanji"
+  }
+}

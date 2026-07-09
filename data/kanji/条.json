@@ -1,0 +1,322 @@
+{
+  "id": "条",
+  "kanjialiveData": {
+    "_id": "54317af4791eba5146ee4aaf",
+    "_rev": "11-521fadd2373db2069244c22e90366fe9",
+    "rad_name_ja": "き",
+    "grade": 5,
+    "hint_group": 1,
+    "kunyomi": "Không có",
+    "meaning": "bài viết, dòng",
+    "kstroke": 7,
+    "examples": [
+      {
+        "japanese": "条件（じょうけん）",
+        "meaning": {
+          "english": "điều kiện, điều khoản"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou(ken)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/jou(ken)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/jou(ken)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/jou(ken)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "条約（じょうやく）",
+        "meaning": {
+          "english": "hiệp ước, hiệp ước"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou(ken)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/jou(ken)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/jou(ken)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/jou(ken)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "条項（じょうこう）",
+        "meaning": {
+          "english": "bài viết, quy định"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou(ken)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/jou(ken)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/jou(ken)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/jou(ken)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "第九条（だいきゅうじょう）",
+        "meaning": {
+          "english": "bài viết số chín"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou(ken)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/jou(ken)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/jou(ken)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/jou(ken)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "信条（しんじょう）",
+        "meaning": {
+          "english": "tín ngưỡng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou(ken)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/jou(ken)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/jou(ken)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/jou(ken)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "星条旗（せいじょうき）",
+        "meaning": {
+          "english": "Ngôi sao và sọc"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/jou(ken)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/jou(ken)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/jou(ken)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/jou(ken)_06_f.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "条",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=条",
+    "rad_name_search": [
+      "ki"
+    ],
+    "rad_order": 97,
+    "txt_books": [
+      {
+        "chapter": "5",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "11",
+        "txt_bk": "txtMimiFilm"
+      },
+      {
+        "chapter": "14",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "14",
+        "txt_bk": "jt"
+      },
+      {
+        "txt_bk": "mosr",
+        "chapter": "10"
+      }
+    ],
+    "kname": "jou(ken)",
+    "rad_utf": "⽊",
+    "stroketimes": [
+      0.736,
+      1.396,
+      2.668,
+      3.673,
+      4.81,
+      5.547,
+      6.352,
+      7.035
+    ],
+    "kunyomi_ka_display": "Không có",
+    "dick": "1395",
+    "rad_name": "ki",
+    "dicn": "1164",
+    "mn_hint": "Hand holding 夂 a yardstick 木 <span class='note'>(orig. \"wood\")</span>.",
+    "rad_stroke": 4,
+    "onyomi_ja": "ジョウ",
+    "rad_meaning": "cây, gỗ",
+    "onyomi": "jou",
+    "ka_id": "ka_484",
+    "onyomi_search": [
+      "jou",
+      "jou"
+    ],
+    "kunyomi_search": [
+      "Không có",
+      "Không có"
+    ],
+    "meaning_search": [
+      "article",
+      "line",
+      "article, line"
+    ],
+    "onyomi_ja_search": [
+      "ジョウ",
+      "ジョウ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "tree",
+      "wood",
+      "tree, wood"
+    ],
+    "rad_name_ja_search": [
+      "き"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:5",
+      "ij:c5",
+      "mos",
+      "mos:11",
+      "mos:c11",
+      "jt",
+      "jt:14",
+      "jt:c14",
+      "mosr",
+      "mosr:10",
+      "mosr:c10"
+    ],
+    "rad_name_file": "ki",
+    "kanji": {
+      "character": "条",
+      "meaning": {
+        "english": "article, line"
+      },
+      "strokes": {
+        "count": 7,
+        "timings": [
+          0.736,
+          1.396,
+          2.668,
+          3.673,
+          4.81,
+          5.547,
+          6.352,
+          7.035
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/jou(ken)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/jou(ken)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/jou(ken)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/jou(ken)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/jou(ken)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/jou(ken)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/jou(ken)_7.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "jou",
+        "katakana": "ジョウ"
+      },
+      "kunyomi": {
+        "romaji": "Không có",
+        "hiragana": "Không có"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/jou(ken)_7.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/jou(ken)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/jou(ken)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⽊",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/ki.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "き",
+        "romaji": "ki"
+      },
+      "meaning": {
+        "english": "cây, gỗ"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/ki0.svg",
+        "https://media.kanjialive.com/rad_frames/ki1.svg",
+        "https://media.kanjialive.com/rad_frames/ki2.svg"
+      ]
+    },
+    "references": {
+      "grade": 5,
+      "kodansha": "1395",
+      "classic_nelson": "1164"
+    }
+  },
+  "jishoData": {
+    "query": "条",
+    "found": true,
+    "taughtIn": "lớp 5",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "363",
+    "strokeCount": 7,
+    "meaning": "mạo từ, mệnh đề, bộ đếm cho mạo từ, mệnh đề, đoạn văn, v.v., nhánh, mục, sọc, sọc",
+    "kunyomi": [
+      "えだ",
+      "すじ"
+    ],
+    "onyomi": [
+      "ジョウ",
+      "チョウ",
+      "デキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "条",
+        "reading": "ジョウ",
+        "meaning": "mạo từ (trong một tài liệu), mệnh đề, phần, điều khoản, bộ đếm cho các đường, sọc, vệt, tia, v.v., mặc dù, mặc dù, vì, như, bởi vì, inasmuch as, jō, sự phân chia bắc-nam của một thành phố đế quốc bao gồm các đường phố đông tây và các phường tương ứng của chúng (trong hệ thống jō-bō)"
+      },
+      {
+        "example": "条件",
+        "reading": "ジョウケン",
+        "meaning": "điều kiện, thời hạn, yêu cầu, trình độ, điều kiện tiên quyết"
+      },
+      {
+        "example": "別状",
+        "reading": "ベツジョウ",
+        "meaning": "điều gì đó bất thường, điều gì đó không ổn, rủi ro, tai nạn, tình trạng nghiêm trọng (ví dụ: sau một chấn thương), tình huống khác"
+      },
+      {
+        "example": "言い条",
+        "reading": "イイジョウ",
+        "meaning": "người ta nói, quan điểm của người ta, mặc dù, mặc dù"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "筋",
+        "reading": "すじ",
+        "meaning": "cơ, gân, gân, tĩnh mạch, động mạch, sợi, sợi, dây, đường, sọc, vệt, lý do, logic, cốt truyện, dòng dõi, dòng dõi, trường học (ví dụ: học thuật hoặc nghệ thuật), năng khiếu, tài năng, nguồn (thông tin, v.v.), vòng tròn, kênh, người có hiểu biết (trong một giao dịch), nước đi hợp lý (trong cờ vây, shogi, v.v.), đường thẳng thứ chín, đường may trên mũ bảo hiểm, bột cá gai (làm bằng cơ, gân, da, v.v.), xã hội vị trí, trạng thái, trên (sông, đường, v.v.), dọc theo, bộ đếm cho những thứ dài mỏng, bộ đếm cho những con đường hoặc khối nhà khi chỉ đường, đường phố (ở Osaka), (thời Edo) bộ đếm hàng trăm mon (đơn vị tiền tệ lỗi thời)"
+      },
+      {
+        "example": "条海豚",
+        "reading": "すじいるか",
+        "meaning": "cá heo sọc (Stenella coeruleoalba)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "夂",
+      "攵",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26465_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06761.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6761.gif",
+    "uri": "https://jisho.org/search/%E6%9D%A1%23kanji"
+  }
+}

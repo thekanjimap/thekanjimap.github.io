@@ -1,0 +1,399 @@
+{
+  "id": "先",
+  "kanjialiveData": {
+    "_id": "54317ae4791eba5146ee497f",
+    "_rev": "10-b22f43114a7462a31901ff514868f01d",
+    "rad_name_ja": "ひとあし",
+    "grade": 1,
+    "hint_group": 2,
+    "kunyomi": "saki",
+    "meaning": "phía trước",
+    "kstroke": 6,
+    "examples": [
+      {
+        "japanese": "先生（せんせい）",
+        "meaning": {
+          "english": "giáo viên, thạc sĩ, bác sĩ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-saki_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sen-saki_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sen-saki_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sen-saki_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "先週（せんしゅう）",
+        "meaning": {
+          "english": "tuần trước"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-saki_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sen-saki_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sen-saki_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sen-saki_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "先月（せんげつ）",
+        "meaning": {
+          "english": "tháng trước"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-saki_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sen-saki_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sen-saki_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sen-saki_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "先学期（せんがっき）",
+        "meaning": {
+          "english": "học kỳ trước"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-saki_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sen-saki_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sen-saki_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sen-saki_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "先輩（せんぱい）",
+        "meaning": {
+          "english": "cấp trên (tại nơi làm việc hoặc trường học)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-saki_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sen-saki_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sen-saki_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sen-saki_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "先（さき）",
+        "meaning": {
+          "english": "điểm, kết thúc, phía trước, dẫn đầu, trước đây"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-saki_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sen-saki_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sen-saki_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sen-saki_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "店先（みせさき）",
+        "meaning": {
+          "english": "mặt tiền cửa hàng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-saki_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sen-saki_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sen-saki_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sen-saki_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "*先ず（まず）",
+        "meaning": {
+          "english": "đầu tiên (trong tất cả)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sen-saki_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sen-saki_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sen-saki_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sen-saki_06_h.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "さき",
+    "ka_utf": "先",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=先",
+    "rad_name_search": [
+      "hitoashi"
+    ],
+    "rad_order": 13,
+    "txt_books": [
+      {
+        "chapter": "7",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "txtAd2"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtSFJ1"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "12",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "aij4",
+        "chapter": "9"
+      }
+    ],
+    "kname": "sen-saki",
+    "rad_utf": "⼉",
+    "stroketimes": [
+      1.488,
+      2.199,
+      3.133,
+      4.066,
+      5.133,
+      5.999,
+      7.466667
+    ],
+    "kunyomi_ka_display": "さき",
+    "dick": "1552",
+    "rad_name": "hitoashi",
+    "dicn": "571",
+    "mn_hint": "The cow [45] is a \"high ranking\" 儿 <span class='note'>(orig. \"high legs\")</span> animal in certain traditions.",
+    "rad_stroke": 2,
+    "onyomi_ja": "セン",
+    "rad_meaning": "chân người",
+    "onyomi": "sen",
+    "ka_id": "ka_21",
+    "rad_position": "ashi",
+    "rad_position_ja": "あし",
+    "rad_position_search": [
+      "ashi",
+      "ashi"
+    ],
+    "onyomi_search": [
+      "sen",
+      "sen"
+    ],
+    "kunyomi_search": [
+      "saki",
+      "saki"
+    ],
+    "meaning_search": [
+      "ahead",
+      "ahead"
+    ],
+    "onyomi_ja_search": [
+      "セン",
+      "セン"
+    ],
+    "kunyomi_ja_search": [
+      "さき",
+      "さき"
+    ],
+    "rad_meaning_search": [
+      "human legs",
+      "human",
+      "legs",
+      "human legs"
+    ],
+    "rad_position_ja_search": [
+      "あし",
+      "あし"
+    ],
+    "rad_name_ja_search": [
+      "ひとあし"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:7",
+      "cij:c7",
+      "bk",
+      "bk:2",
+      "bk:c2",
+      "aij3",
+      "aij3:5",
+      "aij3:c5",
+      "aij3:v2",
+      "aij3:v2:5",
+      "aij3:v2:c5",
+      "gen",
+      "gen:6",
+      "gen:c6",
+      "ap",
+      "ap:12",
+      "ap:c12",
+      "kll",
+      "kll:4",
+      "kll:c4",
+      "aij4",
+      "aij4:9",
+      "aij4:c9",
+      "aij4:v1",
+      "aij4:v1:9",
+      "aij4:v1:c9"
+    ],
+    "rad_name_file": "hitoashi",
+    "kanji": {
+      "character": "先",
+      "meaning": {
+        "english": "ahead"
+      },
+      "strokes": {
+        "count": 6,
+        "timings": [
+          1.488,
+          2.199,
+          3.133,
+          4.066,
+          5.133,
+          5.999,
+          7.466667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/sen-saki_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/sen-saki_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/sen-saki_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/sen-saki_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/sen-saki_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/sen-saki_6.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "sen",
+        "katakana": "セン"
+      },
+      "kunyomi": {
+        "romaji": "saki",
+        "hiragana": "さき"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/sen-saki_6.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/sen-saki_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/sen-saki_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼉",
+      "strokes": 2,
+      "image": "https://media.kanjialive.com/radical_character/hitoashi.svg",
+      "position": {
+        "hiragana": "あし",
+        "romaji": "ashi",
+        "icon": "https://media.kanjialive.com/rad_positions/ashi.svg"
+      },
+      "name": {
+        "hiragana": "ひとあし",
+        "romaji": "hitoashi"
+      },
+      "meaning": {
+        "english": "chân người"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/hitoashi0.svg",
+        "https://media.kanjialive.com/rad_frames/hitoashi1.svg",
+        "https://media.kanjialive.com/rad_frames/hitoashi2.svg"
+      ]
+    },
+    "references": {
+      "grade": 1,
+      "kodansha": "1552",
+      "classic_nelson": "571"
+    }
+  },
+  "jishoData": {
+    "query": "先",
+    "found": true,
+    "taughtIn": "lớp 1",
+    "jlptLevel": "N5",
+    "newspaperFrequencyRank": "173",
+    "strokeCount": 6,
+    "meaning": "trước, trước, trước, tương lai, ưu tiên",
+    "kunyomi": [
+      "さき",
+      "ま.ず"
+    ],
+    "onyomi": [
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "先",
+        "reading": "セン",
+        "meaning": "trước, trước, cũ, nước đi đầu tiên (trong cờ vây, shogi, v.v.), nước mở đầu"
+      },
+      {
+        "example": "先駆",
+        "reading": "センク",
+        "meaning": "người tiên phong, người tiên phong, người tiên phong, người dẫn đầu, người tiên phong, người dẫn đầu"
+      },
+      {
+        "example": "機先",
+        "reading": "キセン",
+        "meaning": "chặn trước"
+      },
+      {
+        "example": "互先",
+        "reading": "タガイセン",
+        "meaning": "trò chơi chẵn (đặc biệt là trong cờ vây)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "先",
+        "reading": "さき",
+        "meaning": "điểm, đầu, cuối, vòi, đầu (của một dòng), phía trước, đầu tiên, trước, phía trước (của), (con đường) phía trước, xa hơn, tương lai, trước đó, trước, trước đây, gần đây, cuối cùng, điểm đến, địa chỉ, nơi bạn làm điều gì đó, nghỉ ngơi (ví dụ: của một câu chuyện), phần tiếp theo, phần còn lại, bên kia"
+      },
+      {
+        "example": "先行き",
+        "reading": "さきゆき",
+        "meaning": "tương lai, triển vọng tương lai"
+      },
+      {
+        "example": "口先",
+        "reading": "くちさき",
+        "meaning": "dịch vụ môi, những lời nói đơn giản, Nghề nghiệp, Đôi môi, Miệng, Mõm, Ngực"
+      },
+      {
+        "example": "矛先",
+        "reading": "ほこさき",
+        "meaning": "mũi giáo, mũi nhọn, trọng tâm (tấn công, chỉ trích, v.v.), mục tiêu, mục tiêu, sức mạnh, lực lượng (của một cuộc tranh luận), cạnh"
+      },
+      {
+        "example": "先ず",
+        "reading": "まず",
+        "meaning": "đầu tiên (trong tất cả), trước hết, bắt đầu với, trước bất cứ điều gì khác, có lẽ, rất có thể, gần như chắc chắn, hầu như, ít nhiều (thỏa đáng), nói chung, hợp lý, dù sao đi nữa, ở mức nào đó, bây giờ (ít nhất), trong thời điểm hiện tại"
+      },
+      {
+        "example": "先ず隗より始めよ",
+        "reading": "まずかいよりはじめよ",
+        "meaning": "bắt đầu từ bước đầu tiên, khi bắt tay vào một dự án lớn hãy bắt đầu từ những bước ngay lập tức, người đề xuất trước tiên phải là người thực hiện đầu tiên"
+      }
+    ],
+    "radical": {
+      "symbol": "儿",
+      "meaning": "chân"
+    },
+    "parts": [
+      "ノ",
+      "儿",
+      "土"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20808_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05148.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5148.gif",
+    "uri": "https://jisho.org/search/%E5%85%88%23kanji"
+  }
+}

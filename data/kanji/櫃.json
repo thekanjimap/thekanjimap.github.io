@@ -1,0 +1,63 @@
+{
+  "id": "櫃",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "櫃",
+    "found": true,
+    "strokeCount": 18,
+    "meaning": "rương, rương, bồn tắm",
+    "kunyomi": [
+      "ひつ"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "金櫃",
+        "reading": "キンキ",
+        "meaning": "hộp kim loại, két sắt, két đựng tiền, két sắt"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "櫃",
+        "reading": "ひつ",
+        "meaning": "rương, rương, thùng đựng cơm, nắp tròn, thùng gỗ đựng cơm"
+      },
+      {
+        "example": "櫃まぶし",
+        "reading": "ひつまぶし",
+        "meaning": "Cơm lươn kabayaki cắt nhỏ, phi lê lươn nấu trên than củi với nước tương có hương vị, cắt miếng nhỏ ăn kèm cơm"
+      },
+      {
+        "example": "聖櫃",
+        "reading": "せいひつ",
+        "meaning": "Hòm giao ước (Do Thái giáo), đền tạm (Công giáo)"
+      },
+      {
+        "example": "お櫃",
+        "reading": "おひつ",
+        "meaning": "thùng gỗ tròn đựng cơm"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "匚",
+      "口",
+      "木",
+      "目",
+      "貝",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27331_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06ac3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6ac3.gif",
+    "uri": "https://jisho.org/search/%E6%AB%83%23kanji"
+  }
+}

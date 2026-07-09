@@ -1,0 +1,74 @@
+{
+  "id": "嫡",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嫡",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2130",
+    "strokeCount": 14,
+    "meaning": "vợ hợp pháp, trực hệ (không phải con hoang)",
+    "kunyomi": [],
+    "onyomi": [
+      "チャク",
+      "テキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "嫡出",
+        "reading": "チャクシュツ",
+        "meaning": "sinh hợp pháp"
+      },
+      {
+        "example": "嫡子",
+        "reading": "チャクシ",
+        "meaning": "người thừa kế, đứa con hợp pháp"
+      },
+      {
+        "example": "正嫡",
+        "reading": "セイチャク",
+        "meaning": "vợ hợp pháp, con của cô ấy, gia đình chính"
+      },
+      {
+        "example": "廃嫡",
+        "reading": "ハイチャク",
+        "meaning": "sự tước quyền thừa kế"
+      },
+      {
+        "example": "嫡出",
+        "reading": "チャクシュツ",
+        "meaning": "sinh hợp pháp"
+      },
+      {
+        "example": "嫡出子",
+        "reading": "チャクシュツシ",
+        "meaning": "đứa con hợp pháp"
+      },
+      {
+        "example": "正嫡",
+        "reading": "セイチャク",
+        "meaning": "vợ hợp pháp, con của cô ấy, gia đình chính"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "女",
+      "meaning": "phụ nữ, nữ"
+    },
+    "parts": [
+      "亠",
+      "冂",
+      "十",
+      "口",
+      "女",
+      "并",
+      "滴",
+      "立"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23265_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ae1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ae1.gif",
+    "uri": "https://jisho.org/search/%E5%AB%A1%23kanji"
+  }
+}

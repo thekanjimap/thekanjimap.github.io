@@ -1,0 +1,89 @@
+{
+  "id": "卸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "卸",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1520",
+    "strokeCount": 9,
+    "meaning": "bán buôn",
+    "kunyomi": [
+      "おろ.す",
+      "おろし",
+      "おろ.し"
+    ],
+    "onyomi": [
+      "シャ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "卸下",
+        "reading": "シャガ",
+        "meaning": "dỡ hàng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "卸す",
+        "reading": "おろす",
+        "meaning": "bán buôn, xay (ví dụ: rau), cắt cá"
+      },
+      {
+        "example": "卸",
+        "reading": "おろし",
+        "meaning": "bán buôn"
+      },
+      {
+        "example": "下ろし",
+        "reading": "おろし",
+        "meaning": "thả, dỡ, loại bỏ, bào rau, trái cây, v.v., vắt, sử dụng dụng cụ mới (hoặc quần áo, v.v.), dụng cụ mới (hoặc quần áo, v.v.)"
+      },
+      {
+        "example": "仲卸",
+        "reading": "なかおろし",
+        "meaning": "người bán buôn trung gian, người buôn bán trung gian, người trung gian, người môi giới"
+      },
+      {
+        "example": "貴金属卸",
+        "reading": "ききんぞくおろし",
+        "meaning": "bán buôn (bán buôn) kim loại quý"
+      },
+      {
+        "example": "卸",
+        "reading": "おろし",
+        "meaning": "bán buôn"
+      },
+      {
+        "example": "下ろし",
+        "reading": "おろし",
+        "meaning": "thả, dỡ, loại bỏ, bào rau, trái cây, v.v., vắt, sử dụng dụng cụ mới (hoặc quần áo, v.v.), dụng cụ mới (hoặc quần áo, v.v.)"
+      },
+      {
+        "example": "仲卸",
+        "reading": "なかおろし",
+        "meaning": "người bán buôn trung gian, người buôn bán trung gian, người trung gian, người môi giới"
+      },
+      {
+        "example": "貴金属卸",
+        "reading": "ききんぞくおろし",
+        "meaning": "bán buôn (bán buôn) kim loại quý"
+      }
+    ],
+    "radical": {
+      "symbol": "卩",
+      "meaning": "quỳ xuống"
+    },
+    "parts": [
+      "ノ",
+      "乞",
+      "卩",
+      "止"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21368_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05378.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5378.gif",
+    "uri": "https://jisho.org/search/%E5%8D%B8%23kanji"
+  }
+}

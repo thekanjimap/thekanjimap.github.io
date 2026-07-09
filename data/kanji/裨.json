@@ -1,0 +1,47 @@
+{
+  "id": "裨",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "裨",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "giúp đỡ",
+    "kunyomi": [
+      "おぎな.う",
+      "たす.ける",
+      "ます"
+    ],
+    "onyomi": [
+      "ヒ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "裨益",
+        "reading": "ヒエキ",
+        "meaning": "lợi ích, lợi nhuận, tốt, giúp đỡ, đóng góp"
+      },
+      {
+        "example": "裨補",
+        "reading": "ヒホ",
+        "meaning": "hỗ trợ, bổ sung, giúp đỡ"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "quần áo"
+    },
+    "parts": [
+      "初",
+      "十",
+      "田"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35048_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088e8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88e8.gif",
+    "uri": "https://jisho.org/search/%E8%A3%A8%23kanji"
+  }
+}

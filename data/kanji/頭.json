@@ -1,0 +1,528 @@
+{
+  "id": "頭",
+  "kanjialiveData": {
+    "_id": "54317ae3791eba5146ee4961",
+    "_rev": "12-03243888b2138d7938bcda93c14446e6",
+    "rad_name_ja": "おおがい",
+    "grade": 2,
+    "hint_group": 1,
+    "kunyomi": "atama, kashira",
+    "meaning": "cái đầu",
+    "kstroke": 16,
+    "examples": [
+      {
+        "japanese": "没頭する（ぼっとうする）",
+        "meaning": {
+          "english": "đắm mình"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atama_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/atama_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/atama_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/atama_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "頭部（とうぶ）",
+        "meaning": {
+          "english": "cái đầu"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atama_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/atama_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/atama_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/atama_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "店頭（てんとう）",
+        "meaning": {
+          "english": "mặt tiền cửa hàng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atama_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/atama_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/atama_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/atama_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "頭痛（ずつう）",
+        "meaning": {
+          "english": "đau đầu"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atama_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/atama_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/atama_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/atama_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "頭脳（ずのう）",
+        "meaning": {
+          "english": "bộ não"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atama_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/atama_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/atama_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/atama_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "音頭（おんど）",
+        "meaning": {
+          "english": "bài hát diễu hành"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atama_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/atama_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/atama_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/atama_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "頭（あたま）",
+        "meaning": {
+          "english": "cái đầu"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atama_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/atama_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/atama_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/atama_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "目頭（めがしら）",
+        "meaning": {
+          "english": "khóe mắt"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atama_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/atama_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/atama_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/atama_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "波頭（なみがしら）",
+        "meaning": {
+          "english": "mũ trắng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/atama_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/atama_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/atama_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/atama_06_i.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "あたま、かしら",
+    "ka_utf": "頭",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=頭",
+    "kname": "atama",
+    "rad_order": 217,
+    "txt_books": [
+      {
+        "chapter": "18",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "1",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "36",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "14",
+        "txt_bk": "macquarie"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtAd4"
+      },
+      {
+        "chapter": "8",
+        "txt_bk": "txtSFJ1"
+      },
+      {
+        "chapter": "8",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "12",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtSFJ4"
+      },
+      {
+        "chapter": "15",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "19",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "chapter": "12",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "12",
+        "txt_bk": "jt"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "16"
+      }
+    ],
+    "rad_name_search": [
+      "oogai"
+    ],
+    "rad_utf": "⾴",
+    "stroketimes": [
+      0,
+      1.921,
+      2.456,
+      3.663,
+      4.266,
+      5.271,
+      5.806,
+      6.946,
+      7.816,
+      8.553,
+      9.358,
+      10.698,
+      11.368,
+      12.104,
+      13.176,
+      13.913,
+      14.673
+    ],
+    "kunyomi_ka_display": "あたま、かしら",
+    "dick": "1073",
+    "rad_name": "oogai",
+    "dicn": "4469",
+    "mn_hint": "Round like a bean 豆 and full of knowledge like a book 頁 <span class='note'>(orig. \"page\")</span>.",
+    "rad_stroke": 9,
+    "onyomi_ja": "トウ、ズ、ト",
+    "rad_meaning": "đầu, trang",
+    "onyomi": "tou, zu, to",
+    "ka_id": "ka_183",
+    "rad_position": "tsukuri",
+    "rad_position_ja": "つくり",
+    "rad_position_search": [
+      "tsukuri",
+      "tsukuri"
+    ],
+    "onyomi_search": [
+      "tou",
+      "zu",
+      "to",
+      "tou, zu, to"
+    ],
+    "kunyomi_search": [
+      "atama",
+      "kashira",
+      "atama, kashira"
+    ],
+    "meaning_search": [
+      "head",
+      "head"
+    ],
+    "onyomi_ja_search": [
+      "トウ",
+      "ズ",
+      "ト",
+      "トウ、ズ、ト"
+    ],
+    "kunyomi_ja_search": [
+      "あたま",
+      "かしら",
+      "あたま、かしら"
+    ],
+    "rad_meaning_search": [
+      "head",
+      "page",
+      "head, page"
+    ],
+    "rad_position_ja_search": [
+      "つくり",
+      "つくり"
+    ],
+    "rad_name_ja_search": [
+      "おおがい"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:18",
+      "cij:c18",
+      "ij",
+      "ij:1",
+      "ij:c1",
+      "bk",
+      "bk:36",
+      "bk:c36",
+      "mac",
+      "mac:14",
+      "mac:c14",
+      "aij3",
+      "aij3:7",
+      "aij3:c7",
+      "aij3:v4",
+      "aij3:v4:7",
+      "aij3:v4:c7",
+      "ap",
+      "ap:15",
+      "ap:c15",
+      "kll",
+      "kll:19",
+      "kll:c19",
+      "jt",
+      "jt:12",
+      "jt:c12",
+      "cijr",
+      "cijr:16",
+      "cijr:c16"
+    ],
+    "rad_name_file": "oogai",
+    "kanji": {
+      "character": "頭",
+      "meaning": {
+        "english": "head"
+      },
+      "strokes": {
+        "count": 16,
+        "timings": [
+          0,
+          1.921,
+          2.456,
+          3.663,
+          4.266,
+          5.271,
+          5.806,
+          6.946,
+          7.816,
+          8.553,
+          9.358,
+          10.698,
+          11.368,
+          12.104,
+          13.176,
+          13.913,
+          14.673
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/atama_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/atama_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/atama_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/atama_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/atama_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/atama_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/atama_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/atama_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/atama_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/atama_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/atama_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/atama_12.svg",
+          "https://media.kanjialive.com/kanji_strokes/atama_13.svg",
+          "https://media.kanjialive.com/kanji_strokes/atama_14.svg",
+          "https://media.kanjialive.com/kanji_strokes/atama_15.svg",
+          "https://media.kanjialive.com/kanji_strokes/atama_16.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "tou, zu, to",
+        "katakana": "トウ、ズ、ト"
+      },
+      "kunyomi": {
+        "romaji": "atama, kashira",
+        "hiragana": "あたま、かしら"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/atama_16.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/atama_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/atama_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⾴",
+      "strokes": 9,
+      "image": "https://media.kanjialive.com/radical_character/oogai.svg",
+      "position": {
+        "hiragana": "つくり",
+        "romaji": "tsukuri",
+        "icon": "https://media.kanjialive.com/rad_positions/tsukuri.svg"
+      },
+      "name": {
+        "hiragana": "おおがい",
+        "romaji": "oogai"
+      },
+      "meaning": {
+        "english": "đầu, trang"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/oogai0.svg",
+        "https://media.kanjialive.com/rad_frames/oogai1.svg",
+        "https://media.kanjialive.com/rad_frames/oogai2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "1073",
+      "classic_nelson": "4469"
+    }
+  },
+  "jishoData": {
+    "query": "頭",
+    "found": true,
+    "taughtIn": "lớp 2",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "433",
+    "strokeCount": 16,
+    "meaning": "đầu, quầy dành cho động vật lớn",
+    "kunyomi": [
+      "あたま",
+      "かしら",
+      "-がしら",
+      "かぶり"
+    ],
+    "onyomi": [
+      "トウ",
+      "ズ",
+      "ト"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "頭",
+        "reading": "トウ",
+        "meaning": "quầy dành cho động vật lớn (ví dụ: đầu gia súc), quầy dành cho côn trùng trong bộ sưu tập, quầy dành cho mũ bảo hiểm, khẩu trang, v.v."
+      },
+      {
+        "example": "頭角",
+        "reading": "トウカク",
+        "meaning": "đỉnh đầu"
+      },
+      {
+        "example": "教頭",
+        "reading": "キョウトウ",
+        "meaning": "phó hiệu trưởng, phó hiệu trưởng"
+      },
+      {
+        "example": "会頭",
+        "reading": "カイトウ",
+        "meaning": "chủ tịch xã hội"
+      },
+      {
+        "example": "頭",
+        "reading": "ズ",
+        "meaning": "cái đầu"
+      },
+      {
+        "example": "頭打ち",
+        "reading": "アタマウチ",
+        "meaning": "đạt đến đỉnh điểm, đạt đến giới hạn, ổn định, đạt đến mức tối đa"
+      },
+      {
+        "example": "馬頭",
+        "reading": "メズ",
+        "meaning": "quỷ đầu ngựa (ở địa ngục)"
+      },
+      {
+        "example": "烏頭",
+        "reading": "ウズ",
+        "meaning": "rễ aconite khô (được sử dụng trong y học cổ truyền Trung Quốc), tu sĩ"
+      },
+      {
+        "example": "頭",
+        "reading": "トウ",
+        "meaning": "quầy dành cho động vật lớn (ví dụ: đầu gia súc), quầy dành cho côn trùng trong bộ sưu tập, quầy dành cho mũ bảo hiểm, khẩu trang, v.v."
+      },
+      {
+        "example": "頭角",
+        "reading": "トウカク",
+        "meaning": "đỉnh đầu"
+      },
+      {
+        "example": "鳥兜",
+        "reading": "トリカブト",
+        "meaning": "aconite (đặc biệt là loài Aconitum japonicum), cây sói, tu sĩ, mũ bugaku truyền thống"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "頭",
+        "reading": "あたま",
+        "meaning": "cái đầu, tóc (trên đầu), tâm trí, bộ não, trí tuệ, người lãnh đạo, người đứng đầu, ông chủ, đội trưởng, đỉnh, tiền boa, sự khởi đầu, sự khởi đầu, cái đầu, người, tiền trả trước, tiền đặt cọc, thành phần cấu trúc hàng đầu của một chữ kanji, cặp"
+      },
+      {
+        "example": "頭打ち",
+        "reading": "あたまうち",
+        "meaning": "đạt đến đỉnh điểm, đạt đến giới hạn, ổn định, đạt đến mức tối đa"
+      },
+      {
+        "example": "石頭",
+        "reading": "いしあたま",
+        "meaning": "người cố chấp, bướng bỉnh, ương ngạnh, cứng đầu (như đá)"
+      },
+      {
+        "example": "ごま塩頭",
+        "reading": "ごましおあたま",
+        "meaning": "tóc muối tiêu, tóc đen điểm bạc"
+      },
+      {
+        "example": "頭",
+        "reading": "あたま",
+        "meaning": "cái đầu, tóc (trên đầu), tâm trí, bộ não, trí tuệ, người lãnh đạo, người đứng đầu, ông chủ, đội trưởng, đỉnh, tiền boa, sự khởi đầu, sự khởi đầu, cái đầu, người, tiền trả trước, tiền đặt cọc, thành phần cấu trúc hàng đầu của một chữ kanji, cặp"
+      },
+      {
+        "example": "頭文字",
+        "reading": "かしらもじ",
+        "meaning": "chữ cái đầu tiên của một từ, chữ in hoa (ở đầu một từ hoặc câu), tên viết tắt (tên của một người)"
+      },
+      {
+        "example": "お頭",
+        "reading": "おかしら",
+        "meaning": "người đứng đầu, người đứng đầu, người đứng đầu, người đứng đầu (của người khác)"
+      },
+      {
+        "example": "鯛の尾より鰯の頭",
+        "reading": "たいのおよりいわしのかしら",
+        "meaning": "thà làm đầu chó còn hơn làm đuôi sư tử"
+      },
+      {
+        "example": "頭",
+        "reading": "かぶり",
+        "meaning": "cái đầu"
+      },
+      {
+        "example": "頭を振る",
+        "reading": "かぶりをふる",
+        "meaning": "lắc đầu (từ chối)"
+      }
+    ],
+    "radical": {
+      "symbol": "頁",
+      "meaning": "lá"
+    },
+    "parts": [
+      "ハ",
+      "口",
+      "并",
+      "目",
+      "豆",
+      "貝",
+      "頁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38957_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0982d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/982d.gif",
+    "uri": "https://jisho.org/search/%E9%A0%AD%23kanji"
+  }
+}

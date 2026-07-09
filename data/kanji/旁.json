@@ -1,0 +1,73 @@
+{
+  "id": "旁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "旁",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "RHS của nhân vật, đồng thời",
+    "kunyomi": [
+      "つくり",
+      "かたがた",
+      "かたわら"
+    ],
+    "onyomi": [
+      "ボウ",
+      "ホウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "傍若無人",
+        "reading": "ボウジャクブジン",
+        "meaning": "cư xử thái quá như thể không có ai xung quanh, hành động mà không quan tâm đến người khác, kiêu ngạo, táo bạo, xấc xược"
+      },
+      {
+        "example": "傍証",
+        "reading": "ボウショウ",
+        "meaning": "bằng chứng hỗ trợ, sự chứng thực"
+      },
+      {
+        "example": "偏旁",
+        "reading": "ヘンボウ",
+        "meaning": "gốc kanji trái và phải, vị trí gốc kanji"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "旁",
+        "reading": "つくり",
+        "meaning": "căn thức bên phải của một ký tự"
+      },
+      {
+        "example": "旁",
+        "reading": "かたがた",
+        "meaning": "tình cờ, đồng thời"
+      },
+      {
+        "example": "散歩旁",
+        "reading": "さんぽかたがた",
+        "meaning": "trong khi đi dạo"
+      },
+      {
+        "example": "傍ら",
+        "reading": "かたわら",
+        "meaning": "bên, cạnh, bên cạnh, bên cạnh, gần đó, trong khi (làm), ngoài ra, cùng một lúc"
+      }
+    ],
+    "radical": {
+      "symbol": "方",
+      "meaning": "hình vuông"
+    },
+    "parts": [
+      "亠",
+      "冖",
+      "并",
+      "方",
+      "立"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26049_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065c1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65c1.gif",
+    "uri": "https://jisho.org/search/%E6%97%81%23kanji"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "薫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "薫",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1849",
+    "strokeCount": 16,
+    "meaning": "tỏa hương thơm, tỏa hương, tỏa hương, khói (thuốc lá)",
+    "kunyomi": [
+      "かお.る"
+    ],
+    "onyomi": [
+      "クン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "薫",
+        "reading": "クン",
+        "meaning": "mùi dễ chịu, mùi thơm, hương thơm, hương thơm, thực vật có mùi dễ chịu"
+      },
+      {
+        "example": "燻蒸",
+        "reading": "クンジョウ",
+        "meaning": "khử trùng, hút thuốc (ra)"
+      },
+      {
+        "example": "余薫",
+        "reading": "ヨクン",
+        "meaning": "mùi dai dẳng, mùi dai dẳng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "香る",
+        "reading": "かおる",
+        "meaning": "có mùi ngọt ngào, có mùi thơm"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "日",
+      "杰",
+      "艾",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34219_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085ab.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85ab.gif",
+    "uri": "https://jisho.org/search/%E8%96%AB%23kanji"
+  }
+}

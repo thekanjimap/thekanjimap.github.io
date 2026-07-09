@@ -1,0 +1,42 @@
+{
+  "id": "麒",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "麒",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "Kỳ lân Trung Quốc, thiên tài, hươu cao cổ, tươi sáng, tỏa sáng",
+    "kunyomi": [],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "麒麟",
+        "reading": "キリン",
+        "meaning": "hươu cao cổ (Giraffa camelopardalis), kỳ lân Trung Quốc, ngựa có thể cưỡi 1000 ri trong một ngày"
+      },
+      {
+        "example": "麒麟血",
+        "reading": "キリンケツ",
+        "meaning": "cây huyết rồng (Daemonorops draco), nhựa màu đỏ tươi dùng trong y học, thuốc nhuộm, v.v."
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "鹿",
+      "meaning": "hươu"
+    },
+    "parts": [
+      "ハ",
+      "广",
+      "比",
+      "甘",
+      "鹿"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40594_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09e92.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9e92.gif",
+    "uri": "https://jisho.org/search/%E9%BA%92%23kanji"
+  }
+}

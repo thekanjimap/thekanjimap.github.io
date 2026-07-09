@@ -1,0 +1,355 @@
+{
+  "id": "衛",
+  "kanjialiveData": {
+    "_id": "54317b07791eba5146ee4c18",
+    "_rev": "10-9d082e6c11685b5c448da7afec370069",
+    "rad_name_ja": "ぎょうがまえ",
+    "grade": 5,
+    "hint_group": 1,
+    "kunyomi": "Không có",
+    "meaning": "bảo vệ, bảo vệ, bảo vệ",
+    "kstroke": 16,
+    "examples": [
+      {
+        "japanese": "衛星（えいせい）",
+        "meaning": {
+          "english": "vệ tinh"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(bou)ei_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(bou)ei_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(bou)ei_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(bou)ei_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "衛生（えいせい）",
+        "meaning": {
+          "english": "sức khỏe, vệ sinh, vệ sinh"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(bou)ei_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(bou)ei_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(bou)ei_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(bou)ei_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "守衛（しゅえい）",
+        "meaning": {
+          "english": "nhân viên bảo vệ, người gác cửa"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(bou)ei_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(bou)ei_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(bou)ei_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(bou)ei_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "自衛隊（じえいたい）",
+        "meaning": {
+          "english": "lực lượng tự vệ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(bou)ei_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(bou)ei_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(bou)ei_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(bou)ei_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "護衛術（ごえいじゅつ）",
+        "meaning": {
+          "english": "bảo vệ, đoàn xe, hộ tống"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(bou)ei_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(bou)ei_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(bou)ei_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(bou)ei_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "前衛的な（ぜんえいてきな）",
+        "meaning": {
+          "english": "cấp tiến, tiên phong"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(bou)ei_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(bou)ei_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(bou)ei_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(bou)ei_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "防衛する（ぼうえいする）",
+        "meaning": {
+          "english": "bảo vệ, bảo vệ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(bou)ei_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(bou)ei_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(bou)ei_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(bou)ei_06_g.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "衛",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=衛",
+    "kname": "(bou)ei",
+    "rad_order": 176,
+    "txt_books": [
+      {
+        "chapter": "19",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "15",
+        "txt_bk": "jtr"
+      }
+    ],
+    "rad_name_search": [
+      "gyougamae"
+    ],
+    "rad_utf": "⾏",
+    "stroketimes": [
+      0,
+      1.066667,
+      2.333333,
+      4,
+      5.4,
+      7.2,
+      8.333333,
+      9.266667,
+      10.466667,
+      11.733333,
+      12.866667,
+      13.666667,
+      14.6,
+      16.066667,
+      17.6,
+      18.533333,
+      22.2
+    ],
+    "kunyomi_ka_display": "Không có",
+    "dick": "526",
+    "rad_name": "gyougamae",
+    "dicn": "1639",
+    "mn_hint": "Good ノ people イ keeping gangsters 韋 out of the streets 亍.",
+    "rad_stroke": 6,
+    "onyomi_ja": "エイ",
+    "rad_meaning": "đi",
+    "onyomi": "ei",
+    "ka_id": "ka_809",
+    "rad_position": "kamae, gyougamae",
+    "rad_position_ja": "かまえ, ぎょうがまえ",
+    "rad_position_search": [
+      "kamae",
+      "gyougamae",
+      "kamae, gyougamae"
+    ],
+    "onyomi_search": [
+      "ei",
+      "ei"
+    ],
+    "kunyomi_search": [
+      "Không có",
+      "Không có"
+    ],
+    "meaning_search": [
+      "guard",
+      "defend",
+      "protect",
+      "guard, defend, protect"
+    ],
+    "onyomi_ja_search": [
+      "エイ",
+      "エイ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "to go",
+      "to",
+      "go",
+      "to go"
+    ],
+    "rad_position_ja_search": [
+      "かまえ",
+      "ぎょうがまえ",
+      "かまえ, ぎょうがまえ"
+    ],
+    "rad_name_ja_search": [
+      "ぎょうがまえ"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:19",
+      "ij:c19",
+      "jtr",
+      "jtr:15",
+      "jtr:c15"
+    ],
+    "rad_name_file": "gyougamae",
+    "kanji": {
+      "character": "衛",
+      "meaning": {
+        "english": "guard, defend, protect"
+      },
+      "strokes": {
+        "count": 16,
+        "timings": [
+          0,
+          1.066667,
+          2.333333,
+          4,
+          5.4,
+          7.2,
+          8.333333,
+          9.266667,
+          10.466667,
+          11.733333,
+          12.866667,
+          13.666667,
+          14.6,
+          16.066667,
+          17.6,
+          18.533333,
+          22.2
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/(bou)ei_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/(bou)ei_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/(bou)ei_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/(bou)ei_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/(bou)ei_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/(bou)ei_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/(bou)ei_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/(bou)ei_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/(bou)ei_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/(bou)ei_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/(bou)ei_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/(bou)ei_12.svg",
+          "https://media.kanjialive.com/kanji_strokes/(bou)ei_13.svg",
+          "https://media.kanjialive.com/kanji_strokes/(bou)ei_14.svg",
+          "https://media.kanjialive.com/kanji_strokes/(bou)ei_15.svg",
+          "https://media.kanjialive.com/kanji_strokes/(bou)ei_16.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "ei",
+        "katakana": "エイ"
+      },
+      "kunyomi": {
+        "romaji": "Không có",
+        "hiragana": "Không có"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/(bou)ei_16.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/(bou)ei_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/(bou)ei_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⾏",
+      "strokes": 6,
+      "image": "https://media.kanjialive.com/radical_character/gyougamae.svg",
+      "position": {
+        "hiragana": "かまえ, ぎょうがまえ",
+        "romaji": "kamae, gyougamae",
+        "icon": "https://media.kanjialive.com/rad_positions/gyougamae.svg"
+      },
+      "name": {
+        "hiragana": "ぎょうがまえ",
+        "romaji": "gyougamae"
+      },
+      "meaning": {
+        "english": "đi"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/gyougamae0.svg",
+        "https://media.kanjialive.com/rad_frames/gyougamae1.svg",
+        "https://media.kanjialive.com/rad_frames/gyougamae2.svg"
+      ]
+    },
+    "references": {
+      "grade": 5,
+      "kodansha": "526",
+      "classic_nelson": "1639"
+    }
+  },
+  "jishoData": {
+    "query": "衛",
+    "found": true,
+    "taughtIn": "lớp 5",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "400",
+    "strokeCount": 16,
+    "meaning": "phòng thủ, bảo vệ",
+    "kunyomi": [],
+    "onyomi": [
+      "エイ",
+      "エ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "衛星",
+        "reading": "エイセイ",
+        "meaning": "(tự nhiên) vệ tinh, mặt trăng, vệ tinh (nhân tạo)"
+      },
+      {
+        "example": "衛生",
+        "reading": "エイセイ",
+        "meaning": "vệ sinh, vệ sinh, sức khỏe"
+      },
+      {
+        "example": "自衛",
+        "reading": "ジエイ",
+        "meaning": "sự tự vệ, sự tự vệ"
+      },
+      {
+        "example": "専守防衛",
+        "reading": "センシュボウエイ",
+        "meaning": "phòng thủ không xâm lược (chính sách) (phòng thủ)"
+      },
+      {
+        "example": "衛星",
+        "reading": "エイセイ",
+        "meaning": "(tự nhiên) vệ tinh, mặt trăng, vệ tinh (nhân tạo)"
+      },
+      {
+        "example": "衛生",
+        "reading": "エイセイ",
+        "meaning": "vệ sinh, vệ sinh, sức khỏe"
+      },
+      {
+        "example": "近衛",
+        "reading": "コノエ",
+        "meaning": "Vệ binh Hoàng gia"
+      },
+      {
+        "example": "兵衛",
+        "reading": "ヒョウエ",
+        "meaning": "trung cung canh gác (hệ thống ritsuryō)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "行",
+      "meaning": "đi, làm"
+    },
+    "parts": [
+      "口",
+      "彳",
+      "行",
+      "韋"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34907_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0885b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/885b.gif",
+    "uri": "https://jisho.org/search/%E8%A1%9B%23kanji"
+  }
+}

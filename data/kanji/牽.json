@@ -1,0 +1,52 @@
+{
+  "id": "牽",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "牽",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "kéo, kéo, kéo, dẫn bằng tay",
+    "kunyomi": [
+      "ひ.く"
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "牽引",
+        "reading": "ケンイン",
+        "meaning": "lực kéo, kéo, kéo, kéo, vẽ, lái xe (ví dụ: tăng trưởng kinh tế)"
+      },
+      {
+        "example": "牽引車",
+        "reading": "ケンインシャ",
+        "meaning": "máy kéo, xe kéo, động lực, vai trò chủ đạo"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "引く",
+        "reading": "ひく",
+        "meaning": "kéo, kéo, dẫn (ví dụ: một con ngựa), vẽ (sự chú ý, thông cảm, v.v.), thu hút (ví dụ: sự quan tâm), kéo lại (ví dụ: bàn tay của một người), kéo vào (cằm, bụng, v.v.), kéo vào, rút (một lá bài, quân mạt chược, v.v.), vẽ (một đường, kế hoạch, v.v.), bắt (cảm lạnh), chơi (nhạc cụ có dây hoặc bàn phím), nhìn lên (trong một từ điển, danh bạ điện thoại, v.v.), để tham khảo, kiểm tra, vận chuyển, kéo (phương tiện), trừ, khấu trừ, rút lui, giảm, làm mờ dần, đi xuống, kế thừa (một đặc điểm), trích dẫn, trích dẫn, nâng cao (làm bằng chứng), đặt (điện, gas, v.v.), cài đặt (ví dụ: điện thoại), cung cấp (ví dụ: nước), giữ (ví dụ: ghi chú), áp dụng (ví dụ: son môi), để dầu (ví dụ: một cái chảo), bôi sáp (ví dụ: một cái sàn), lùi lại, lùi lại, rút lui, lùi lại, rút lui, giảm bớt, lắng xuống, sụt giảm, đi xuống (ví dụ như sưng tấy), cam chịu, rút lui, bỏ cuộc, bị trì hoãn (bởi lời nói hoặc hành vi của ai đó), bị tắt, giật lại (trong ghê tởm, v.v.), co rúm lại"
+      }
+    ],
+    "radical": {
+      "symbol": "牛",
+      "forms": [
+        "牜"
+      ],
+      "meaning": "con bò"
+    },
+    "parts": [
+      "亠",
+      "冖",
+      "厶",
+      "牛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/29309_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0727d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/727d.gif",
+    "uri": "https://jisho.org/search/%E7%89%BD%23kanji"
+  }
+}

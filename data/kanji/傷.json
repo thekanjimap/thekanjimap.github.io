@@ -1,0 +1,423 @@
+{
+  "id": "傷",
+  "kanjialiveData": {
+    "_id": "54317ad5791eba5146ee486c",
+    "_rev": "10-fa34943fd0ef9ef74b04b9b5c3135754",
+    "rad_name_ja": "にんべん",
+    "grade": 6,
+    "hint_group": 5,
+    "kunyomi": "kizu, ita, itamu, itameru",
+    "meaning": "vết thương, vết thương, vết thương",
+    "kstroke": 13,
+    "examples": [
+      {
+        "japanese": "傷害事件（しょうがいじけん）",
+        "meaning": {
+          "english": "tấn công [n.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-kizu_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shou-kizu_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shou-kizu_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shou-kizu_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "損傷（そんしょう）",
+        "meaning": {
+          "english": "hư hỏng, tổn thương"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-kizu_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shou-kizu_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shou-kizu_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shou-kizu_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "重傷（じゅうしょう）",
+        "meaning": {
+          "english": "vết thương hoặc chấn thương nghiêm trọng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-kizu_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shou-kizu_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shou-kizu_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shou-kizu_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "中傷する（ちゅうしょうする）",
+        "meaning": {
+          "english": "vu khống, bôi xấu"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-kizu_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shou-kizu_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shou-kizu_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shou-kizu_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "負傷する（ふしょうする）",
+        "meaning": {
+          "english": "bị thương, bị thương"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-kizu_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shou-kizu_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shou-kizu_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shou-kizu_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "傷（きず）",
+        "meaning": {
+          "english": "vết thương, vết thương, vết thương, vết cắt"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-kizu_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shou-kizu_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shou-kizu_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shou-kizu_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "傷口（きずぐち）",
+        "meaning": {
+          "english": "vết thương"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-kizu_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shou-kizu_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shou-kizu_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shou-kizu_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "傷跡（きずあと）",
+        "meaning": {
+          "english": "vết sẹo"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-kizu_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shou-kizu_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shou-kizu_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shou-kizu_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "傷つける（きずつける）",
+        "meaning": {
+          "english": "làm tổn thương, vết thương [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-kizu_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shou-kizu_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shou-kizu_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shou-kizu_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "傷める（いためる）",
+        "meaning": {
+          "english": "làm hư hỏng, làm suy yếu, làm tổn thương [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-kizu_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shou-kizu_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shou-kizu_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shou-kizu_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "傷む（いたむ）",
+        "meaning": {
+          "english": "bị hư hỏng, trở nên tồi tệ [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-kizu_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shou-kizu_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shou-kizu_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shou-kizu_06_k.mp3"
+        }
+      },
+      {
+        "japanese": "*火傷（やけど）",
+        "meaning": {
+          "english": "đốt [n.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/shou-kizu_06_l.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/shou-kizu_06_l.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/shou-kizu_06_l.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/shou-kizu_06_l.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "きず、いた、いたむ、いためる",
+    "ka_utf": "傷",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=傷",
+    "kname": "shou-kizu",
+    "rad_order": 11,
+    "txt_books": [
+      {
+        "chapter": "8",
+        "txt_bk": "txtIKB"
+      }
+    ],
+    "rad_name_search": [
+      "ninben"
+    ],
+    "rad_utf": "⺅",
+    "stroketimes": [
+      0,
+      0.666667,
+      2.2,
+      3.8,
+      4.733333,
+      5.266667,
+      6.6,
+      7.666667,
+      8.666667,
+      10,
+      11.133333,
+      12.666667,
+      13.2,
+      13.933333
+    ],
+    "kunyomi_ka_display": "きず、いた",
+    "dick": "118",
+    "rad_name": "ninben",
+    "dicn": "535",
+    "mn_hint": "Wounded people イ, [5] feeling like animals [117] under the burning sun 日.",
+    "rad_stroke": 2,
+    "onyomi_ja": "ショウ",
+    "rad_meaning": "người",
+    "onyomi": "shou",
+    "ka_id": "ka_1074",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "shou",
+      "shou"
+    ],
+    "kunyomi_search": [
+      "kizu",
+      "ita",
+      "itamu",
+      "itameru",
+      "kizu, ita, itamu, itameru"
+    ],
+    "meaning_search": [
+      "wound",
+      "injury",
+      "hurt",
+      "wound, injury, hurt"
+    ],
+    "onyomi_ja_search": [
+      "ショウ",
+      "ショウ"
+    ],
+    "kunyomi_ja_search": [
+      "きず",
+      "いた",
+      "いたむ",
+      "いためる",
+      "きず、いた、いたむ、いためる"
+    ],
+    "rad_meaning_search": [
+      "person",
+      "person "
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "にんべん"
+    ],
+    "textbook_search": [
+      "ik1",
+      "ik1:8",
+      "ik1:c8"
+    ],
+    "rad_name_file": "ninben",
+    "kanji": {
+      "character": "傷",
+      "meaning": {
+        "english": "wound, injury, hurt"
+      },
+      "strokes": {
+        "count": 13,
+        "timings": [
+          0,
+          0.666667,
+          2.2,
+          3.8,
+          4.733333,
+          5.266667,
+          6.6,
+          7.666667,
+          8.666667,
+          10,
+          11.133333,
+          12.666667,
+          13.2,
+          13.933333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/shou-kizu_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/shou-kizu_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/shou-kizu_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/shou-kizu_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/shou-kizu_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/shou-kizu_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/shou-kizu_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/shou-kizu_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/shou-kizu_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/shou-kizu_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/shou-kizu_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/shou-kizu_12.svg",
+          "https://media.kanjialive.com/kanji_strokes/shou-kizu_13.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "shou",
+        "katakana": "ショウ"
+      },
+      "kunyomi": {
+        "romaji": "kizu, ita, itamu, itameru",
+        "hiragana": "きず、いた"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/shou-kizu_13.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/shou-kizu_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/shou-kizu_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺅",
+      "strokes": 2,
+      "image": "https://media.kanjialive.com/radical_character/ninben.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "にんべん",
+        "romaji": "ninben"
+      },
+      "meaning": {
+        "english": "người"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/ninben0.svg",
+        "https://media.kanjialive.com/rad_frames/ninben1.svg",
+        "https://media.kanjialive.com/rad_frames/ninben2.svg"
+      ]
+    },
+    "references": {
+      "grade": 6,
+      "kodansha": "118",
+      "classic_nelson": "535"
+    }
+  },
+  "jishoData": {
+    "query": "傷",
+    "found": true,
+    "taughtIn": "lớp 6",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "845",
+    "strokeCount": 13,
+    "meaning": "vết thương, tổn thương, làm tổn thương, làm suy yếu, đau đớn, chấn thương, vết cắt, vết thương, vết sẹo, điểm yếu",
+    "kunyomi": [
+      "きず",
+      "いた.む",
+      "いた.める"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "傷跡",
+        "reading": "キズアト",
+        "meaning": "vết sẹo"
+      },
+      {
+        "example": "傷害",
+        "reading": "ショウガイ",
+        "meaning": "gây thương tích, gây thương tích cho cơ thể"
+      },
+      {
+        "example": "殺傷",
+        "reading": "サッショウ",
+        "meaning": "giết chóc và làm bị thương, đổ máu"
+      },
+      {
+        "example": "脳挫傷",
+        "reading": "ノウザショウ",
+        "meaning": "đụng dập não"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "傷",
+        "reading": "きず",
+        "meaning": "vết thương, vết thương, vết cắt, vết rách, vết bầm tím, vết xước, vết xước, vết sẹo, vết nứt, vết xước, vết xước, vết xước, khuyết điểm, khiếm khuyết, điểm yếu, điểm yếu, vết bẩn (danh tiếng của một người), ô nhục, nhục nhã, nhục nhã, tổn thương (tình cảm), cảm xúc bị tổn thương"
+      },
+      {
+        "example": "傷跡",
+        "reading": "きずあと",
+        "meaning": "vết sẹo"
+      },
+      {
+        "example": "無傷",
+        "reading": "むきず",
+        "meaning": "không bị tổn thương, không bị thương, không bị thương, không bị tổn thương, không hề hấn gì, hoàn hảo (ví dụ như đá quý), không tì vết, không bị hư hại, hoàn hảo (điều kiện), không tì vết (ví dụ như danh tiếng), không có lỗi (ví dụ như hiệu suất), hoàn hảo (kỷ lục), không thất bại, không bị đánh bại"
+      },
+      {
+        "example": "古傷",
+        "reading": "ふるきず",
+        "meaning": "vết thương cũ, vết sẹo, trải nghiệm khó chịu trong quá khứ, ký ức đau đớn, hành vi sai trái trong quá khứ"
+      },
+      {
+        "example": "痛む",
+        "reading": "いたむ",
+        "meaning": "làm tổn thương, đau nhức, cảm thấy đau đớn, bị tổn thương, bị hư hỏng (ví dụ như thức ăn), bị hư hỏng"
+      },
+      {
+        "example": "痛める",
+        "reading": "いためる",
+        "meaning": "làm tổn thương, làm tổn thương, gây đau đớn, làm tổn hại, làm hư hỏng, làm hư hỏng, lo lắng, làm phiền, đau buồn, đau khổ, gây tổn thất tài chính, làm tổn thương túi tiền của một người"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "đàn ông, con người"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "乞",
+      "人",
+      "勹",
+      "勿",
+      "化",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20663_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050b7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50b7.gif",
+    "uri": "https://jisho.org/search/%E5%82%B7%23kanji"
+  }
+}

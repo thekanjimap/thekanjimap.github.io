@@ -1,0 +1,67 @@
+{
+  "id": "鷺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鷺",
+    "found": true,
+    "newspaperFrequencyRank": "2172",
+    "strokeCount": 24,
+    "meaning": "diệc",
+    "kunyomi": [
+      "さぎ"
+    ],
+    "onyomi": [
+      "ロ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "白鷺",
+        "reading": "シラサギ",
+        "meaning": "diệc có bộ lông toàn màu trắng (bao gồm diệc), diệc trắng"
+      },
+      {
+        "example": "烏鷺",
+        "reading": "ウロ",
+        "meaning": "quạ và diệc, đen và trắng (đặc biệt là đá cờ), cờ vây (trò chơi)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鷺",
+        "reading": "さぎ",
+        "meaning": "diệc (Ardeidae)"
+      },
+      {
+        "example": "鷺苔",
+        "reading": "さぎごけ",
+        "meaning": "Miquel's mazus (loài thực vật có hoa nhỏ, Mazus miquelii)"
+      },
+      {
+        "example": "白鷺",
+        "reading": "しらさぎ",
+        "meaning": "diệc có bộ lông toàn màu trắng (bao gồm diệc), diệc trắng"
+      },
+      {
+        "example": "五位鷺",
+        "reading": "ごいさぎ",
+        "meaning": "diệc đêm đầu đen (Nycticorax nycticorax), diệc đêm"
+      }
+    ],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "chim"
+    },
+    "parts": [
+      "口",
+      "夂",
+      "杰",
+      "止",
+      "足",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40442_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09dfa.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9dfa.gif",
+    "uri": "https://jisho.org/search/%E9%B7%BA%23kanji"
+  }
+}

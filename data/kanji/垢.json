@@ -1,0 +1,98 @@
+{
+  "id": "垢",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "垢",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "bụi bẩn, bụi bẩn, ráy tai",
+    "kunyomi": [
+      "あか",
+      "はじ"
+    ],
+    "onyomi": [
+      "コウ",
+      "ク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "垢衣",
+        "reading": "コウイ",
+        "meaning": "quần áo bẩn, quần áo bẩn"
+      },
+      {
+        "example": "垢膩",
+        "reading": "コウジ",
+        "meaning": "bụi bẩn, chất bẩn, vết bẩn"
+      },
+      {
+        "example": "恥垢",
+        "reading": "チコウ",
+        "meaning": "mùi hôi"
+      },
+      {
+        "example": "膣垢",
+        "reading": "チツコウ",
+        "meaning": "phết âm đạo"
+      },
+      {
+        "example": "垢",
+        "reading": "ク",
+        "meaning": "klesha (những suy nghĩ ô nhiễm như tham lam, sân hận và si mê, dẫn đến đau khổ)"
+      },
+      {
+        "example": "垢膩",
+        "reading": "コウジ",
+        "meaning": "bụi bẩn, chất bẩn, vết bẩn"
+      },
+      {
+        "example": "無垢",
+        "reading": "ムク",
+        "meaning": "trong sáng, ngây thơ, không tì vết, không tì vết, không tì vết, thuần khiết, không pha trộn, không pha tạp, kimono dài được làm từ cùng một tấm vải trơn"
+      },
+      {
+        "example": "純粋無垢",
+        "reading": "ジュンスイムク",
+        "meaning": "trong sáng và ngây thơ, vô nhiễm"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "垢",
+        "reading": "あか",
+        "meaning": "bụi bẩn, sự bẩn thỉu, bụi bặm"
+      },
+      {
+        "example": "垢",
+        "reading": "アカ",
+        "meaning": "tài khoản (ví dụ: đối với một dịch vụ trực tuyến)"
+      },
+      {
+        "example": "廃垢",
+        "reading": "はいアカ",
+        "meaning": "tài khoản bị bỏ rơi (trên mạng xã hội, v.v.), tài khoản không sử dụng, tài khoản cũ"
+      },
+      {
+        "example": "鍵垢",
+        "reading": "かぎアカ",
+        "meaning": "tài khoản riêng tư (trên mạng xã hội, đặc biệt là Twitter), tài khoản chỉ những người theo dõi được phê duyệt mới có thể xem"
+      }
+    ],
+    "radical": {
+      "symbol": "土",
+      "meaning": "trái đất"
+    },
+    "parts": [
+      "ノ",
+      "亅",
+      "厂",
+      "口",
+      "土",
+      "斤"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22434_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/057a2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/57a2.gif",
+    "uri": "https://jisho.org/search/%E5%9E%A2%23kanji"
+  }
+}

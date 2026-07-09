@@ -1,0 +1,60 @@
+{
+  "id": "偸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "偸",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "ăn trộm",
+    "kunyomi": [
+      "ぬす.む"
+    ],
+    "onyomi": [
+      "ツ",
+      "トウ",
+      "チュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "偸安",
+        "reading": "トウアン",
+        "meaning": "tranh giành một giây phút nghỉ ngơi, tranh giành thời gian"
+      },
+      {
+        "example": "盗視",
+        "reading": "トウシ",
+        "meaning": "cái nhìn lén lút, cái nhìn lén lút"
+      },
+      {
+        "example": "偸盗",
+        "reading": "チュウトウ",
+        "meaning": "tên cướp, trộm cắp"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "盗む",
+        "reading": "ぬすむ",
+        "meaning": "ăn trộm, đạo văn, ăn trộm (một kỹ thuật, ý tưởng, v.v.), xem và học, làm lén lút, làm trong thời gian ít ỏi, ăn trộm một cơ sở"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "đàn ông, con người"
+    },
+    "parts": [
+      "一",
+      "个",
+      "刈",
+      "化",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20600_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05078.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5078.gif",
+    "uri": "https://jisho.org/search/%E5%81%B8%23kanji"
+  }
+}

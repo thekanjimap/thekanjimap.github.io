@@ -1,0 +1,59 @@
+{
+  "id": "勁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "勁",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 9,
+    "meaning": "mạnh mẽ",
+    "kunyomi": [
+      "つよ.い"
+    ],
+    "onyomi": [
+      "ケイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "勁悍",
+        "reading": "ケイカン",
+        "meaning": "mạnh mẽ và khốc liệt"
+      },
+      {
+        "example": "勁捷",
+        "reading": "ケイショウ",
+        "meaning": "mạnh mẽ và nhanh nhẹn"
+      },
+      {
+        "example": "雄勁",
+        "reading": "ユウケイ",
+        "meaning": "mạnh mẽ, mạnh mẽ"
+      },
+      {
+        "example": "発勁",
+        "reading": "ハッケイ",
+        "meaning": "fa jin, giải phóng nội lực một cách bùng nổ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "強い",
+        "reading": "つよい",
+        "meaning": "mạnh mẽ, mạnh mẽ, có năng lực, độc đoán, cứng rắn, mạnh mẽ, cơ bắp, mạnh mẽ, khỏe mạnh, gồ ghề, giỏi (tại), có kỹ năng, hiểu biết, có khả năng xử lý, biết cách đối phó (với), bền (chống lại), kháng cự (với), kiên cường, chắc chắn, cứng nhắc, vững chắc, mãnh liệt, mạnh mẽ, khốc liệt, cao, đáng tin cậy, đáng tin cậy"
+      }
+    ],
+    "radical": {
+      "symbol": "力",
+      "meaning": "quyền lực, lực lượng"
+    },
+    "parts": [
+      "力",
+      "巛",
+      "工"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21185_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052c1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52c1.gif",
+    "uri": "https://jisho.org/search/%E5%8B%81%23kanji"
+  }
+}

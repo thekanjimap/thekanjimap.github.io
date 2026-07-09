@@ -1,0 +1,61 @@
+{
+  "id": "亜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "亜",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1509",
+    "strokeCount": 7,
+    "meaning": "Châu Á, xếp tiếp, theo sau, -ous",
+    "kunyomi": [
+      "つ.ぐ"
+    ],
+    "onyomi": [
+      "ア"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "亜",
+        "reading": "ア",
+        "meaning": "phụ, hạng hai, kém hơn, -ous (biểu thị trạng thái oxy hóa thấp), -ite, Châu Á, Argentina, Ả Rập, Châu Mỹ, Người Mỹ"
+      },
+      {
+        "example": "亜鉛",
+        "reading": "アエン",
+        "meaning": "kẽm (Zn)"
+      },
+      {
+        "example": "東亜",
+        "reading": "トウア",
+        "meaning": "Đông Á, Phương Đông"
+      },
+      {
+        "example": "叙利亜",
+        "reading": "シリア",
+        "meaning": "Syria"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "次ぐ",
+        "reading": "つぐ",
+        "meaning": "theo sau, đến sau, đến tiếp theo (đến), xếp hạng tiếp theo (đến), xếp thứ hai (đến)"
+      }
+    ],
+    "radical": {
+      "symbol": "二",
+      "meaning": "hai"
+    },
+    "parts": [
+      "一",
+      "口",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20124_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e9c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e9c.gif",
+    "uri": "https://jisho.org/search/%E4%BA%9C%23kanji"
+  }
+}

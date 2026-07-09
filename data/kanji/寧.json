@@ -1,0 +1,64 @@
+{
+  "id": "寧",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "寧",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1697",
+    "strokeCount": 14,
+    "meaning": "đúng hơn, tốt hơn là, hòa bình, yên tĩnh, yên bình",
+    "kunyomi": [
+      "むし.ろ"
+    ],
+    "onyomi": [
+      "ネイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "寧夏回族自治区",
+        "reading": "ネイカカイゾクジチク",
+        "meaning": "Khu tự trị Hồi Ninh Hạ (Trung Quốc)"
+      },
+      {
+        "example": "寧日",
+        "reading": "ネイジツ",
+        "meaning": "ngày bình yên"
+      },
+      {
+        "example": "西寧",
+        "reading": "セイネイ",
+        "meaning": "Tây Ninh (Trung Quốc)"
+      },
+      {
+        "example": "静寧",
+        "reading": "セイネイ",
+        "meaning": "hòa bình, bình yên, bình yên"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "寧ろ",
+        "reading": "むしろ",
+        "meaning": "đúng hơn, tốt hơn, thay vào đó, nếu có gì đó"
+      }
+    ],
+    "radical": {
+      "symbol": "宀",
+      "meaning": "mái nhà"
+    },
+    "parts": [
+      "一",
+      "亅",
+      "宀",
+      "心",
+      "皿",
+      "買"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23527_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05be7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5be7.gif",
+    "uri": "https://jisho.org/search/%E5%AF%A7%23kanji"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "弐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "弐",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "strokeCount": 6,
+    "meaning": "II, hai, thứ hai",
+    "kunyomi": [
+      "ふた.つ",
+      "そえ"
+    ],
+    "onyomi": [
+      "ニ",
+      "ジ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "二",
+        "reading": "ニ",
+        "meaning": "hai, 2"
+      },
+      {
+        "example": "２０",
+        "reading": "ニジュウ",
+        "meaning": "hai mươi, 20"
+      },
+      {
+        "example": "二心",
+        "reading": "フタゴコロ",
+        "meaning": "sự dối trá, sự phản bội, sự hai mặt"
+      },
+      {
+        "example": "疑弐",
+        "reading": "ギジ",
+        "meaning": "nghi ngờ, không tin tưởng, không vâng lời"
+      },
+      {
+        "example": "副弐",
+        "reading": "フクジ",
+        "meaning": "thứ cấp (thứ), dự phòng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "弐つ",
+        "reading": "ふたつ",
+        "meaning": "hai"
+      }
+    ],
+    "radical": {
+      "symbol": "弋",
+      "meaning": "bắn, mũi tên"
+    },
+    "parts": [
+      "一",
+      "二",
+      "弋"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24336_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f10.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f10.gif",
+    "uri": "https://jisho.org/search/%E5%BC%90%23kanji"
+  }
+}

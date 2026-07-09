@@ -1,0 +1,56 @@
+{
+  "id": "獄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "獄",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1529",
+    "strokeCount": 14,
+    "meaning": "nhà tù, nhà tù",
+    "kunyomi": [],
+    "onyomi": [
+      "ゴク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "獄",
+        "reading": "ゴク",
+        "meaning": "nhà tù, nhà tù, nhà tù"
+      },
+      {
+        "example": "獄中",
+        "reading": "ゴクチュウ",
+        "meaning": "trong lúc ở tù, trong lúc ở tù"
+      },
+      {
+        "example": "監獄",
+        "reading": "カンゴク",
+        "meaning": "nhà tù"
+      },
+      {
+        "example": "疑獄",
+        "reading": "ギゴク",
+        "meaning": "vụ bê bối hối lộ, vụ án hối lộ"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "犬",
+      "forms": [
+        "犭"
+      ],
+      "meaning": "con chó"
+    },
+    "parts": [
+      "犬",
+      "犯",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/29508_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07344.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7344.gif",
+    "uri": "https://jisho.org/search/%E7%8D%84%23kanji"
+  }
+}

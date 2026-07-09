@@ -1,0 +1,73 @@
+{
+  "id": "幡",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "幡",
+    "found": true,
+    "newspaperFrequencyRank": "1948",
+    "strokeCount": 15,
+    "meaning": "cờ",
+    "kunyomi": [
+      "はた"
+    ],
+    "onyomi": [
+      "マン",
+      "ハン",
+      "バン",
+      "ホン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "八幡",
+        "reading": "ハチマン",
+        "meaning": "Hachiman (thần chiến tranh), đền thờ Hachiman, chắc chắn rồi"
+      },
+      {
+        "example": "南無八幡",
+        "reading": "ナムハチマン",
+        "meaning": "Hỡi vị thần vũ khí vĩ đại, tôi cầu xin sự giúp đỡ của bạn chống lại kẻ thù của tôi"
+      },
+      {
+        "example": "幡",
+        "reading": "バン",
+        "meaning": "pataka (biểu ngữ)"
+      },
+      {
+        "example": "黄幡",
+        "reading": "オウバン",
+        "meaning": "Ōban, một trong tám vị thần của lịch truyền thống"
+      },
+      {
+        "example": "幢幡",
+        "reading": "ドウバン",
+        "meaning": "Cờ treo dùng làm vật trang trí trong chùa Phật giáo"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "旗",
+        "reading": "はた",
+        "meaning": "cờ, pataka (biểu ngữ), biểu ngữ (phân khu hành chính Nội Mông)"
+      },
+      {
+        "example": "幢",
+        "reading": "はたほこ",
+        "meaning": "giáo Trung Quốc cán dài mang cờ nhỏ, biểu ngữ, treo"
+      }
+    ],
+    "radical": {
+      "symbol": "巾",
+      "meaning": "khăn xếp, khăn quàng cổ"
+    },
+    "parts": [
+      "巾",
+      "田",
+      "米",
+      "釆"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24161_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e61.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e61.gif",
+    "uri": "https://jisho.org/search/%E5%B9%A1%23kanji"
+  }
+}

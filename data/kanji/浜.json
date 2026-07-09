@@ -1,0 +1,76 @@
+{
+  "id": "浜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "浜",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "645",
+    "strokeCount": 10,
+    "meaning": "bờ biển, bãi biển, bờ biển",
+    "kunyomi": [
+      "はま"
+    ],
+    "onyomi": [
+      "ヒン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "浜堤",
+        "reading": "ヒンテイ",
+        "meaning": "sườn núi bãi biển"
+      },
+      {
+        "example": "海浜",
+        "reading": "カイヒン",
+        "meaning": "bờ biển, bờ biển, bờ biển"
+      },
+      {
+        "example": "京浜",
+        "reading": "ケイヒン",
+        "meaning": "Tokyo và Yokohama"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "浜",
+        "reading": "はま",
+        "meaning": "bãi biển, bờ biển, mảnh bị bắt, đá bị bắt, Yokohama, bờ sông, bờ sông"
+      },
+      {
+        "example": "浜辺",
+        "reading": "はまべ",
+        "meaning": "bãi biển, bờ biển"
+      },
+      {
+        "example": "白浜",
+        "reading": "しらはま",
+        "meaning": "bãi biển cát trắng"
+      },
+      {
+        "example": "塩浜",
+        "reading": "しおはま",
+        "meaning": "ruộng muối, ruộng phơi muối"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "斤",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27996_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d5c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d5c.gif",
+    "uri": "https://jisho.org/search/%E6%B5%9C%23kanji"
+  }
+}

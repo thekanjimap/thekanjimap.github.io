@@ -1,0 +1,50 @@
+{
+  "id": "當",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "當",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "chịu đựng, chấp nhận, đảm nhận, chỉ",
+    "kunyomi": [
+      "あ.たる",
+      "あ.てる",
+      "まさ.に"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "當十錢",
+        "reading": "トウジュウゼン",
+        "meaning": "loại đồng xu bằng đồng của Trung Quốc được phát hành lần đầu tiên dưới thời Hoàng đế Yuan của triều đại Nam Lương có giá trị bằng mười đồng tiền sắt"
+      },
+      {
+        "example": "瓦当",
+        "reading": "ガトウ",
+        "meaning": "nắp trang trí mái ngói mái hiên"
+      },
+      {
+        "example": "石敢當",
+        "reading": "イシガントウ",
+        "meaning": "ishigantō, tấm bia đá có khắc chữ \"ishigantō\" đặt ở ngã tư, trên tường đá, v.v. ở miền nam Kyūshū và Okinawa để xua đuổi tà ma; nguồn gốc. một phong tục Trung Quốc"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "田",
+      "meaning": "lĩnh vực"
+    },
+    "parts": [
+      "冖",
+      "口",
+      "尚",
+      "田"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30070_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07576.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7576.gif",
+    "uri": "https://jisho.org/search/%E7%95%B6%23kanji"
+  }
+}

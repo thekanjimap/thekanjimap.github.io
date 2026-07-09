@@ -1,0 +1,63 @@
+{
+  "id": "酉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "酉",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2468",
+    "strokeCount": 7,
+    "meaning": "hướng Tây, con chim, con chim, 5-7 giờ chiều, cung hoàng đạo thứ 10 của Trung Quốc, gốc rượu sake (số 164)",
+    "kunyomi": [
+      "とり"
+    ],
+    "onyomi": [
+      "ユウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "丁酉",
+        "reading": "ヒノトトリ",
+        "meaning": "Tuổi Dậu mệnh Hỏa (học kỳ thứ 34 của chu kỳ lục thập niên, ví dụ: 1957, 2017, 2077)"
+      },
+      {
+        "example": "癸酉",
+        "reading": "ミズノトトリ",
+        "meaning": "Tuổi Dậu Nước (học kỳ thứ 10 của chu kỳ sáu tuổi, ví dụ: 1933, 1993, 2053)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "酉",
+        "reading": "とり",
+        "meaning": "Gà trống, gà trống, gà trống, giờ Dậu (khoảng 18h, 5-7h hoặc 6-8h), hướng tây, 8 tháng âm lịch"
+      },
+      {
+        "example": "酉年",
+        "reading": "とりどし",
+        "meaning": "năm con gà, năm con gà"
+      },
+      {
+        "example": "辛酉",
+        "reading": "かのととり",
+        "meaning": "Kim Dậu (học kỳ thứ 58 của chu kỳ sáu mươi tuổi, ví dụ: 1921, 1981, 2041)"
+      },
+      {
+        "example": "乙酉",
+        "reading": "きのととり",
+        "meaning": "Tuổi Dậu Mộc (học kỳ thứ 22 của chu kỳ sáu mươi tuổi, ví dụ: 1945, 2005, 2065)"
+      }
+    ],
+    "radical": {
+      "symbol": "酉",
+      "meaning": "rượu vang, rượu"
+    },
+    "parts": [
+      "酉"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37193_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09149.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9149.gif",
+    "uri": "https://jisho.org/search/%E9%85%89%23kanji"
+  }
+}

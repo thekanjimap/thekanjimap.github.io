@@ -1,0 +1,65 @@
+{
+  "id": "裾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "裾",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "newspaperFrequencyRank": "2334",
+    "strokeCount": 13,
+    "meaning": "còng, viền, chân núi",
+    "kunyomi": [
+      "すそ"
+    ],
+    "onyomi": [
+      "キョ",
+      "コ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "裾礁",
+        "reading": "キョショウ",
+        "meaning": "rạn san hô viền"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "裾",
+        "reading": "すそ",
+        "meaning": "gấu áo, cổ tay áo (quần), đuôi áo, gấu quần (kimono), vạt áo (váy), phần dưới, mép dưới, chân (của ngọn núi), chóp (tóc), xuôi dòng"
+      },
+      {
+        "example": "裾野",
+        "reading": "すその",
+        "meaning": "chân núi, đồng bằng dưới chân núi, phạm vi, trải rộng, phạm vi, vòng tròn bao quanh"
+      },
+      {
+        "example": "山裾",
+        "reading": "やますそ",
+        "meaning": "chân núi, chân núi, chân núi"
+      },
+      {
+        "example": "裳裾",
+        "reading": "もすそ",
+        "meaning": "cổ tay áo (quần), viền (váy), vạt áo (váy), chân (của núi)"
+      }
+    ],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "quần áo"
+    },
+    "parts": [
+      "初",
+      "十",
+      "口",
+      "尸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35070_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088fe.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88fe.gif",
+    "uri": "https://jisho.org/search/%E8%A3%BE%23kanji"
+  }
+}

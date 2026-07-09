@@ -1,0 +1,75 @@
+{
+  "id": "掠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "掠",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "cướp, cướp, gặm cỏ, lướt qua, quét qua, lừa đảo, gợi ý",
+    "kunyomi": [
+      "かす.める",
+      "かす.る",
+      "かす.れる"
+    ],
+    "onyomi": [
+      "リャク",
+      "リョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "掠",
+        "reading": "リャク",
+        "meaning": "nguyên tắc thứ sáu của Bát nguyên tắc Yong, đường cong mỏng dần, thường lõm sang trái"
+      },
+      {
+        "example": "略奪",
+        "reading": "リャクダツ",
+        "meaning": "cướp bóc, cướp bóc, cướp bóc, cướp bóc"
+      },
+      {
+        "example": "劫掠",
+        "reading": "キョウリャク",
+        "meaning": "cướp bóc, cướp bóc"
+      },
+      {
+        "example": "盗掠",
+        "reading": "トウリャク",
+        "meaning": "ăn trộm, cướp bóc, cướp bóc"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "掠める",
+        "reading": "かすめる",
+        "meaning": "ăn trộm, cướp, chộp, bỏ túi, cướp bóc, lừa dối, lừa, lừa gạt, lướt qua, lướt qua, chạm nhẹ, xuất hiện và nhanh chóng biến mất (một ý nghĩ, một nụ cười, v.v.), lướt qua (trong tâm trí, qua khuôn mặt của một người), làm (điều gì đó) trong khi không có ai nhìn, gợi ý, gợi ý, bóng gió"
+      },
+      {
+        "example": "掠る",
+        "reading": "かする",
+        "meaning": "sượt qua (ví dụ: viên đạn), gãi, chạm nhẹ, lấy phần trăm, khai thác, ép"
+      },
+      {
+        "example": "掠れる",
+        "reading": "かすれる",
+        "meaning": "trở nên mờ nhạt, khàn giọng, khàn khàn, gặm nhấm, cạo, chạm vào"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "亠",
+      "口",
+      "小",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25504_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063a0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63a0.gif",
+    "uri": "https://jisho.org/search/%E6%8E%A0%23kanji"
+  }
+}

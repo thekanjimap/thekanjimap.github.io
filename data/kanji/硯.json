@@ -1,0 +1,60 @@
+{
+  "id": "硯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "硯",
+    "found": true,
+    "newspaperFrequencyRank": "2500",
+    "strokeCount": 12,
+    "meaning": "đá mực",
+    "kunyomi": [
+      "すずり"
+    ],
+    "onyomi": [
+      "ケン",
+      "ゲン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "硯池",
+        "reading": "ケンチ",
+        "meaning": "giếng mực"
+      },
+      {
+        "example": "磨穿鉄硯",
+        "reading": "マセンテッケン",
+        "meaning": "thể hiện sự siêng năng kiên cường trong học tập, làm thủng một lỗ trên tấm mực kim loại do học tập liên tục"
+      },
+      {
+        "example": "筆硯",
+        "reading": "ヒッケン",
+        "meaning": "bút và mực viết, viết, sáng tác, cuộc sống đời thường của một nhà văn"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "硯",
+        "reading": "すずり",
+        "meaning": "đá mực"
+      },
+      {
+        "example": "硯洗い",
+        "reading": "すずりあらい",
+        "meaning": "sự kiện học sinh rửa mực, bút vẽ và bàn vào đêm trước lễ Tanabata để cầu nguyện thành công trong học tập"
+      }
+    ],
+    "radical": {
+      "symbol": "石",
+      "meaning": "cục đá"
+    },
+    "parts": [
+      "口",
+      "石",
+      "見"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30831_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0786f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/786f.gif",
+    "uri": "https://jisho.org/search/%E7%A1%AF%23kanji"
+  }
+}

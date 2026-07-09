@@ -1,0 +1,90 @@
+{
+  "id": "呪",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "呪",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "newspaperFrequencyRank": "2131",
+    "strokeCount": 8,
+    "meaning": "bùa chú, lời nguyền, sự quyến rũ, sự nguyền rủa",
+    "kunyomi": [
+      "まじな.う",
+      "のろ.い",
+      "まじな.い",
+      "のろ.う"
+    ],
+    "onyomi": [
+      "ジュ",
+      "シュ",
+      "シュウ",
+      "ズ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "呪",
+        "reading": "ジュ",
+        "meaning": "đánh vần, nguyền rủa, dharani, thần chú"
+      },
+      {
+        "example": "呪術",
+        "reading": "ジュジュツ",
+        "meaning": "phép thuật, phép thuật, bùa chú"
+      },
+      {
+        "example": "消災呪",
+        "reading": "ショウサイジュ",
+        "meaning": "thần chú phòng thiên tai, bùa chú phòng thiên tai"
+      },
+      {
+        "example": "明呪",
+        "reading": "ミョウジュ",
+        "meaning": "thần chú"
+      },
+      {
+        "example": "呪詛",
+        "reading": "ジュソ",
+        "meaning": "lời nguyền, sự nguyền rủa, lời nguyền"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "呪う",
+        "reading": "まじなう",
+        "meaning": "cầu nguyện cho một người tránh được tai họa hay bệnh tật, cầu nguyện cho ai đó bị hại hoặc chết, nguyền rủa, quyến rũ, gợi lên, bỏ bùa (lên ai đó), chữa bệnh (bằng một lời cầu nguyện)"
+      },
+      {
+        "example": "呪い",
+        "reading": "のろい",
+        "meaning": "lời nguyền, lời nguyền, sự nguyền rủa"
+      },
+      {
+        "example": "呪い殺す",
+        "reading": "のろいころす",
+        "meaning": "nguyền rủa (ai đó) đến chết, nguyền rủa chết người (ai đó)"
+      },
+      {
+        "example": "呪い",
+        "reading": "まじない",
+        "meaning": "bùa chú, bùa chú, bùa chú, lời nguyền"
+      },
+      {
+        "example": "呪う",
+        "reading": "のろう",
+        "meaning": "chửi rủa, nguyền rủa, ghê tởm một cách mãnh liệt"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "儿",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21610_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0546a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/546a.gif",
+    "uri": "https://jisho.org/search/%E5%91%AA%23kanji"
+  }
+}

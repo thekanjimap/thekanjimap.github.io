@@ -1,0 +1,62 @@
+{
+  "id": "婀",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "婀",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "quyến rũ, tán tỉnh",
+    "kunyomi": [
+      "あだ",
+      "あだ.っぽい",
+      "たおやか"
+    ],
+    "onyomi": [
+      "ア"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "婀娜",
+        "reading": "アダ",
+        "meaning": "quyến rũ, duyên dáng, quyến rũ, xinh đẹp, duyên dáng"
+      },
+      {
+        "example": "婀娜っぽい",
+        "reading": "アダッポイ",
+        "meaning": "quyến rũ, gợi cảm, quyến rũ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "婀娜",
+        "reading": "あだ",
+        "meaning": "quyến rũ, duyên dáng, quyến rũ, xinh đẹp, duyên dáng"
+      },
+      {
+        "example": "婀娜っぽい",
+        "reading": "あだっぽい",
+        "meaning": "quyến rũ, gợi cảm, quyến rũ"
+      },
+      {
+        "example": "婀娜っぽい",
+        "reading": "あだっぽい",
+        "meaning": "quyến rũ, gợi cảm, quyến rũ"
+      }
+    ],
+    "radical": {
+      "symbol": "女",
+      "meaning": "phụ nữ, nữ"
+    },
+    "parts": [
+      "一",
+      "亅",
+      "口",
+      "女",
+      "阡"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23104_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a40.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a40.gif",
+    "uri": "https://jisho.org/search/%E5%A9%80%23kanji"
+  }
+}

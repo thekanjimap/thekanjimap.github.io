@@ -1,0 +1,383 @@
+{
+  "id": "総",
+  "kanjialiveData": {
+    "_id": "54317afc791eba5146ee4b41",
+    "_rev": "11-537cc5ff5e9d25e93e561d202716e6f3",
+    "rad_name_ja": "いとへん",
+    "grade": 5,
+    "hint_group": 1,
+    "kunyomi": "Không có",
+    "meaning": "toàn bộ, nói chung, tổng thể",
+    "kstroke": 14,
+    "examples": [
+      {
+        "japanese": "総長（そうちょう）",
+        "meaning": {
+          "english": "(đại học) hiệu trưởng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou(gousuru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou(gousuru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou(gousuru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou(gousuru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "総額（そうがく）",
+        "meaning": {
+          "english": "tổng cộng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou(gousuru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou(gousuru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou(gousuru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou(gousuru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "総論（そうろん）",
+        "meaning": {
+          "english": "nhận xét chung"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou(gousuru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou(gousuru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou(gousuru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou(gousuru)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "総会（そうかい）",
+        "meaning": {
+          "english": "cuộc họp chung"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou(gousuru)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou(gousuru)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou(gousuru)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou(gousuru)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "総選挙（そうせんきょ）",
+        "meaning": {
+          "english": "tổng tuyển cử"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou(gousuru)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou(gousuru)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou(gousuru)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou(gousuru)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "総理大臣（そうりだいじん）",
+        "meaning": {
+          "english": "Thủ tướng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou(gousuru)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou(gousuru)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou(gousuru)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou(gousuru)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "総括する（そうかつする）",
+        "meaning": {
+          "english": "tóm tắt, tóm tắt"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou(gousuru)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou(gousuru)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou(gousuru)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou(gousuru)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "総合する（そうごうする）",
+        "meaning": {
+          "english": "tập hợp lại, tích hợp"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou(gousuru)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou(gousuru)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou(gousuru)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou(gousuru)_06_h.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "総",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=総",
+    "rad_name_search": [
+      "itohen"
+    ],
+    "rad_order": 158,
+    "txt_books": [
+      {
+        "chapter": "10",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtIKB"
+      },
+      {
+        "chapter": "14",
+        "txt_bk": "jtr"
+      }
+    ],
+    "kname": "sou(gousuru)",
+    "rad_utf": "",
+    "stroketimes": [
+      0,
+      1.333333,
+      2.733333,
+      3.6,
+      4.8,
+      5.333333,
+      6,
+      7,
+      7.8,
+      9.066667,
+      9.866667,
+      10.666667,
+      12,
+      12.733333,
+      13.8
+    ],
+    "kunyomi_ka_display": "Không có",
+    "dick": "936",
+    "rad_name": "itohen",
+    "dicn": "3567",
+    "mn_hint": "Tie 糸 together many 八 individuals' opinions 心 <span class='note'>(orig.\"mind\")</span>.",
+    "rad_stroke": 6,
+    "onyomi_ja": "ソウ",
+    "rad_meaning": "chủ đề",
+    "onyomi": "sou",
+    "ka_id": "ka_615",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "sou",
+      "sou"
+    ],
+    "kunyomi_search": [
+      "Không có",
+      "Không có"
+    ],
+    "meaning_search": [
+      "total",
+      "general",
+      "overall",
+      "total, general, overall"
+    ],
+    "onyomi_ja_search": [
+      "ソウ",
+      "ソウ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "thread",
+      "thread"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "いとへん"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:10",
+      "ij:c10",
+      "ik1",
+      "ik1:6",
+      "ik1:c6",
+      "jtr",
+      "jtr:14",
+      "jtr:c14"
+    ],
+    "rad_name_file": "itohen",
+    "kanji": {
+      "character": "総",
+      "meaning": {
+        "english": "total, general, overall"
+      },
+      "strokes": {
+        "count": 14,
+        "timings": [
+          0,
+          1.333333,
+          2.733333,
+          3.6,
+          4.8,
+          5.333333,
+          6,
+          7,
+          7.8,
+          9.066667,
+          9.866667,
+          10.666667,
+          12,
+          12.733333,
+          13.8
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/sou(gousuru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou(gousuru)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou(gousuru)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou(gousuru)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou(gousuru)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou(gousuru)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou(gousuru)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou(gousuru)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou(gousuru)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou(gousuru)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou(gousuru)_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou(gousuru)_12.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou(gousuru)_13.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou(gousuru)_14.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "sou",
+        "katakana": "ソウ"
+      },
+      "kunyomi": {
+        "romaji": "Không có",
+        "hiragana": "Không có"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/sou(gousuru)_14.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/sou(gousuru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/sou(gousuru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "",
+      "strokes": 6,
+      "image": "https://media.kanjialive.com/radical_character/itohen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "いとへん",
+        "romaji": "itohen"
+      },
+      "meaning": {
+        "english": "chủ đề"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/itohen0.svg",
+        "https://media.kanjialive.com/rad_frames/itohen1.svg",
+        "https://media.kanjialive.com/rad_frames/itohen2.svg"
+      ]
+    },
+    "references": {
+      "grade": 5,
+      "kodansha": "936",
+      "classic_nelson": "3567"
+    }
+  },
+  "jishoData": {
+    "query": "総",
+    "found": true,
+    "taughtIn": "lớp 5",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "129",
+    "strokeCount": 14,
+    "meaning": "chung, toàn bộ, tất cả, đầy đủ, toàn bộ",
+    "kunyomi": [
+      "す.べて",
+      "すべ.て",
+      "ふさ"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "総",
+        "reading": "ソウ",
+        "meaning": "toàn bộ, toàn bộ, tổng thể, toàn bộ, tổng thể, chung (bầu cử, người quản lý, v.v.)"
+      },
+      {
+        "example": "総当たり",
+        "reading": "ソウアタリ",
+        "meaning": "quay vòng, không bị mất vé (trong xổ số), bạo lực (trong mật mã), sử dụng tất cả các kết hợp"
+      },
+      {
+        "example": "海総",
+        "reading": "カイソウ",
+        "meaning": "mệnh lệnh hải quân đế quốc"
+      },
+      {
+        "example": "全総",
+        "reading": "ゼンソウ",
+        "meaning": "Kế hoạch phát triển quốc gia tổng thể (1962-)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "全て",
+        "reading": "すべて",
+        "meaning": "tất cả, tất cả, toàn bộ, hoàn toàn, hoàn toàn, toàn bộ, tất cả"
+      },
+      {
+        "example": "すべての道はローマに通ず",
+        "reading": "すべてのみちはローマにつうず",
+        "meaning": "mọi con đường đều dẫn tới thành Rome"
+      },
+      {
+        "example": "全て",
+        "reading": "すべて",
+        "meaning": "tất cả, tất cả, toàn bộ, hoàn toàn, hoàn toàn, toàn bộ, tất cả"
+      },
+      {
+        "example": "すべての道はローマに通ず",
+        "reading": "すべてのみちはローマにつうず",
+        "meaning": "mọi con đường đều dẫn tới thành Rome"
+      },
+      {
+        "example": "房",
+        "reading": "ふさ",
+        "meaning": "búi (tóc, chỉ, v.v.), tua, tua, chùm (nho, chuối, v.v.), chùm (hoa), đoạn (quả quýt, v.v.), phần"
+      },
+      {
+        "example": "総国",
+        "reading": "ふさのくに",
+        "meaning": "Fusa (tỉnh cũ nằm ở tỉnh Chiba và Ibaraki ngày nay)"
+      }
+    ],
+    "radical": {
+      "symbol": "糸",
+      "forms": [
+        "糹"
+      ],
+      "meaning": "lụa"
+    },
+    "parts": [
+      "ハ",
+      "厶",
+      "小",
+      "幺",
+      "心",
+      "糸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32207_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07dcf.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7dcf.gif",
+    "uri": "https://jisho.org/search/%E7%B7%8F%23kanji"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "楝",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "楝",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "Cây hạt Nhật Bản",
+    "kunyomi": [
+      "おおち",
+      "おうち"
+    ],
+    "onyomi": [
+      "レン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "馬連",
+        "reading": "バレン",
+        "meaning": "Tấm chà xát hình đĩa, trần để ép giấy khi tạo bản in từ khối gỗ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "楝",
+        "reading": "おうち",
+        "meaning": "chinaberry, cây hạt Nhật Bản (Melia azedarach), bên ngoài màu tím nhạt, bên trong màu xanh lá cây, bên ngoài màu tím, bên trong màu tím nhạt, kiểu phối màu nhiều lớp quần áo, mặc vào tháng 4 và tháng 5"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "ハ",
+      "亠",
+      "巾",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26973_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0695d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/695d.gif",
+    "uri": "https://jisho.org/search/%E6%A5%9D%23kanji"
+  }
+}

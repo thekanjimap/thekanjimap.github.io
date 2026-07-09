@@ -1,0 +1,59 @@
+{
+  "id": "圏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "圏",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1216",
+    "strokeCount": 12,
+    "meaning": "hình cầu, hình tròn, bán kính, phạm vi",
+    "kunyomi": [
+      "かこ.い"
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "圏",
+        "reading": "ケン",
+        "meaning": "hình cầu, hình tròn, phạm vi, diện tích, vùng, khối, danh mục"
+      },
+      {
+        "example": "圏内",
+        "reading": "ケンナイ",
+        "meaning": "bên trong (một khu vực, khu vực, v.v.), trong phạm vi (của), trong phạm vi (ảnh hưởng, v.v.)"
+      },
+      {
+        "example": "成層圏",
+        "reading": "セイソウケン",
+        "meaning": "tầng bình lưu"
+      },
+      {
+        "example": "勢力圏",
+        "reading": "セイリョクケン",
+        "meaning": "phạm vi ảnh hưởng"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "囗",
+      "meaning": "bao vây"
+    },
+    "parts": [
+      "一",
+      "二",
+      "人",
+      "囗",
+      "大",
+      "已",
+      "并"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22287_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0570f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/570f.gif",
+    "uri": "https://jisho.org/search/%E5%9C%8F%23kanji"
+  }
+}

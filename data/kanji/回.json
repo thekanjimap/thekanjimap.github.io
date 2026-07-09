@@ -1,0 +1,433 @@
+{
+  "id": "回",
+  "kanjialiveData": {
+    "_id": "54317afc791eba5146ee4b51",
+    "_rev": "13-a6e26a1f3a65bc97eebbd0a7b720e11b",
+    "rad_name_ja": "くにがまえ",
+    "grade": 2,
+    "hint_group": 2,
+    "kunyomi": "mawa, mawaru, mawasu",
+    "meaning": "quay lại, thời gian",
+    "kstroke": 6,
+    "examples": [
+      {
+        "japanese": "回数券（かいすうけん）",
+        "meaning": {
+          "english": "sách vé"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-mawa(ru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kai-mawa(ru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kai-mawa(ru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kai-mawa(ru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "何回（なんかい）",
+        "meaning": {
+          "english": "bao nhiêu lần"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-mawa(ru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kai-mawa(ru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kai-mawa(ru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kai-mawa(ru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "三回（さんかい）",
+        "meaning": {
+          "english": "3 lần"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-mawa(ru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kai-mawa(ru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kai-mawa(ru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kai-mawa(ru)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "今回（こんかい）",
+        "meaning": {
+          "english": "lần này"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-mawa(ru)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kai-mawa(ru)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kai-mawa(ru)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kai-mawa(ru)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "最終回（さいしゅうかい）",
+        "meaning": {
+          "english": "phần cuối cùng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-mawa(ru)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kai-mawa(ru)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kai-mawa(ru)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kai-mawa(ru)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "回転する（かいてんする）",
+        "meaning": {
+          "english": "xoay"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-mawa(ru)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kai-mawa(ru)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kai-mawa(ru)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kai-mawa(ru)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "回向（えこう）",
+        "meaning": {
+          "english": "lễ tưởng niệm phật giáo"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-mawa(ru)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kai-mawa(ru)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kai-mawa(ru)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kai-mawa(ru)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "回る（まわる）",
+        "meaning": {
+          "english": "quay lại [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-mawa(ru)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kai-mawa(ru)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kai-mawa(ru)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kai-mawa(ru)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "回す（まわす）",
+        "meaning": {
+          "english": "quay lại [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kai-mawa(ru)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kai-mawa(ru)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kai-mawa(ru)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kai-mawa(ru)_06_i.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "まわ、まわる、まわす",
+    "ka_utf": "回",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=回",
+    "kname": "kai-mawa(ru)",
+    "rad_order": 36,
+    "txt_books": [
+      {
+        "chapter": "10",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "13",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "18",
+        "txt_bk": "macquarie"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtAd3"
+      },
+      {
+        "chapter": "22",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtSFJ2"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtSFJ4"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "18",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "mntr",
+        "chapter": "5"
+      }
+    ],
+    "rad_name_search": [
+      "kunigamae"
+    ],
+    "rad_utf": "⼞",
+    "stroketimes": [
+      0.835,
+      1.6,
+      3.735,
+      4.266,
+      5.466,
+      6.466,
+      7.4
+    ],
+    "kunyomi_ka_display": "まわ",
+    "dick": "1937",
+    "rad_name": "kunigamae",
+    "dicn": "1028",
+    "mn_hint": "Something turning around [50] → 回.",
+    "rad_stroke": 3,
+    "onyomi_ja": "カイ、エ",
+    "rad_meaning": "biên giới, ranh giới lãnh thổ",
+    "onyomi": "kai, e",
+    "ka_id": "ka_63",
+    "rad_position": "kamae, kunigamae",
+    "rad_position_ja": "かまえ, くにがまえ",
+    "rad_position_search": [
+      "kamae",
+      "kunigamae",
+      "kamae, kunigamae"
+    ],
+    "onyomi_search": [
+      "kai",
+      "e",
+      "kai, e"
+    ],
+    "kunyomi_search": [
+      "mawa",
+      "mawaru",
+      "mawasu",
+      "mawa, mawaru, mawasu"
+    ],
+    "meaning_search": [
+      "turn round",
+      "turn",
+      "round",
+      "time",
+      "turn round, time"
+    ],
+    "onyomi_ja_search": [
+      "カイ",
+      "エ",
+      "カイ、エ"
+    ],
+    "kunyomi_ja_search": [
+      "まわ",
+      "まわる",
+      "まわす",
+      "まわ、まわる、まわす"
+    ],
+    "rad_meaning_search": [
+      "border",
+      "territorial boundaries",
+      "territorial",
+      "boundaries",
+      "border, territorial boundaries"
+    ],
+    "rad_position_ja_search": [
+      "かまえ",
+      "くにがまえ",
+      "かまえ, くにがまえ"
+    ],
+    "rad_name_ja_search": [
+      "くにがまえ"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:10",
+      "cij:c10",
+      "bk",
+      "bk:13",
+      "bk:c13",
+      "mac",
+      "mac:18",
+      "mac:c18",
+      "aij3",
+      "aij3:4",
+      "aij3:c4",
+      "aij3:v3",
+      "aij3:v3:4",
+      "aij3:v3:c4",
+      "gen",
+      "gen:22",
+      "gen:c22",
+      "ap",
+      "ap:2",
+      "ap:c2",
+      "kll",
+      "kll:18",
+      "kll:c18",
+      "mntr",
+      "mntr:5",
+      "mntr:c5"
+    ],
+    "rad_name_file": "kunigamae",
+    "kanji": {
+      "character": "回",
+      "meaning": {
+        "english": "turn round, time"
+      },
+      "strokes": {
+        "count": 6,
+        "timings": [
+          0.835,
+          1.6,
+          3.735,
+          4.266,
+          5.466,
+          6.466,
+          7.4
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/kai-mawa(ru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/kai-mawa(ru)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/kai-mawa(ru)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/kai-mawa(ru)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/kai-mawa(ru)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/kai-mawa(ru)_6.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "kai, e",
+        "katakana": "カイ、エ"
+      },
+      "kunyomi": {
+        "romaji": "mawa, mawaru, mawasu",
+        "hiragana": "まわ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/kai-mawa(ru)_6.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/kai-mawa(ru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/kai-mawa(ru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼞",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/kunigamae.svg",
+      "position": {
+        "hiragana": "かまえ, くにがまえ",
+        "romaji": "kamae, kunigamae",
+        "icon": "https://media.kanjialive.com/rad_positions/kunigamae.svg"
+      },
+      "name": {
+        "hiragana": "くにがまえ",
+        "romaji": "kunigamae"
+      },
+      "meaning": {
+        "english": "biên giới, ranh giới lãnh thổ"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/kunigamae0.svg",
+        "https://media.kanjialive.com/rad_frames/kunigamae1.svg",
+        "https://media.kanjialive.com/rad_frames/kunigamae2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "1937",
+      "classic_nelson": "1028"
+    }
+  },
+  "jishoData": {
+    "query": "回",
+    "found": true,
+    "taughtIn": "lớp 2",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "50",
+    "strokeCount": 6,
+    "meaning": "-lần, vòng, trò chơi, vòng quay, bộ đếm số lần xuất hiện",
+    "kunyomi": [
+      "まわ.る",
+      "-まわ.る",
+      "-まわ.り",
+      "まわ.す",
+      "-まわ.す",
+      "まわ.し-",
+      "-まわ.し",
+      "もとお.る",
+      "か.える"
+    ],
+    "onyomi": [
+      "カイ",
+      "エ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "回",
+        "reading": "カイ",
+        "meaning": "bộ đếm các lần xuất hiện, một thời gian, một ví dụ, hiệp (bóng chày), vòng, trò chơi, tập, chương, đợt, Hui (người), Hồi giáo"
+      },
+      {
+        "example": "回忌",
+        "reading": "カイキ",
+        "meaning": "ngày giỗ, ngày giỗ của một người"
+      },
+      {
+        "example": "初回",
+        "reading": "ショカイ",
+        "meaning": "lần đầu tiên, hiệp đầu tiên, lần thử đầu tiên, lần đầu tiên, lần đầu tiên"
+      },
+      {
+        "example": "奪回",
+        "reading": "ダッカイ",
+        "meaning": "thu hồi, giải cứu, lấy lại"
+      },
+      {
+        "example": "回向",
+        "reading": "エコウ",
+        "meaning": "lễ tưởng niệm, cầu nguyện cho linh hồn an nghỉ, hồi hướng công đức"
+      },
+      {
+        "example": "回向偈",
+        "reading": "エコウゲ",
+        "meaning": "bài tụng kết thúc nhằm hồi hướng công đức của sự phụng sự đến một vị phật, một vị bồ tát hoặc người chết"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "回る",
+        "reading": "まわる",
+        "meaning": "quay, xoay, xoay vòng, quay, đi vòng quanh, vòng tròn, quay vòng, đi vòng quanh, đi vòng quanh (nhiều nơi), đi vòng quanh, thực hiện một chuyến tham quan, tuần tra, đi ngang qua, đi qua, dừng lại (trên đường), đi đường vòng, đi đường vòng, di chuyển xung quanh (đến một nơi hoặc vị trí khác), đi vòng quanh, đi qua (ví dụ: sang phía đối diện), vòng quanh (đến lượt của một người), được chuyển đi vòng quanh (của cốc, hình tròn, v.v.), hoạt động, hoạt động tốt, lan truyền, mở rộng (đến; ví dụ như sự chú ý của một người), tiếp cận, có hiệu lực (của rượu, thuốc độc, v.v.), vượt qua (một thời gian), quay lại (ví dụ: 5 giờ), kiếm tiền lãi, để ... xung quanh, để ... về"
+      },
+      {
+        "example": "回す",
+        "reading": "まわす",
+        "meaning": "quay, xoay, quay, xoắn, chuyển động, chuyền vòng, đưa xung quanh, đưa tay xung quanh, luân chuyển, di chuyển (ai đó hoặc cái gì đó đến nơi cần thiết), gửi, mang, chuyển, chuyển tiếp, hướng dẫn, phục tùng, chuyển (sang một mục đích sử dụng mới), sử dụng (cho việc khác), bật (thứ gì đó quay hoặc có bộ phận quay, ví dụ như máy giặt), khởi động (ví dụ: động cơ), quay (thứ gì đó), đặt (ai đó vào một vị trí), làm (ví dụ: kẻ thù của), ... xung quanh (ví dụ: đuổi theo, đánh lừa, chơi đùa), làm lại tất cả, làm mọi nơi, làm hoàn toàn, bao quanh (cái gì đó), bao bọc, vòng (vòng tay) quanh (ví dụ: thắt lưng của ai đó), vòng tay xung quanh, đầu tư (tiền), cho mượn, quay số (số điện thoại), hiếp dâm tập thể, vận hành (ví dụ: kinh doanh, cửa hàng)"
+      },
+      {
+        "example": "回る",
+        "reading": "もとおる",
+        "meaning": "đi lang thang xung quanh"
+      }
+    ],
+    "radical": {
+      "symbol": "囗",
+      "meaning": "bao vây"
+    },
+    "parts": [
+      "口",
+      "囗"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22238_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/056de.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/56de.gif",
+    "uri": "https://jisho.org/search/%E5%9B%9E%23kanji"
+  }
+}

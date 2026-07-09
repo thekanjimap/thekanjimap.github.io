@@ -1,0 +1,49 @@
+{
+  "id": "朦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "朦",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "mờ mịt, tối tăm",
+    "kunyomi": [
+      "おぼろ"
+    ],
+    "onyomi": [
+      "モウ",
+      "ボウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "濛気",
+        "reading": "モウキ",
+        "meaning": "sương mù dày đặc, sương mù dày đặc, cảm giác chán nản"
+      },
+      {
+        "example": "濛々",
+        "reading": "モウモウ",
+        "meaning": "dày đặc (ví dụ sương mù, bụi, v.v.), dày đặc, mơ hồ (như không thể suy nghĩ rõ ràng), mờ mịt"
+      },
+      {
+        "example": "砂塵濛々",
+        "reading": "サジンモウモウ",
+        "meaning": "đám mây bụi lớn, đám bụi mù mịt"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "月",
+      "meaning": "mặt trăng, tháng"
+    },
+    "parts": [
+      "冖",
+      "月",
+      "艾",
+      "豕"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26406_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06726.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6726.gif",
+    "uri": "https://jisho.org/search/%E6%9C%A6%23kanji"
+  }
+}

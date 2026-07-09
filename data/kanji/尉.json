@@ -1,0 +1,66 @@
+{
+  "id": "尉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "尉",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2007",
+    "strokeCount": 11,
+    "meaning": "sĩ quan quân đội, cai ngục, ông già, cấp bậc",
+    "kunyomi": [],
+    "onyomi": [
+      "イ",
+      "ジョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "尉官",
+        "reading": "イカン",
+        "meaning": "sĩ quan dưới cấp thiếu tá, sĩ quan đại đội"
+      },
+      {
+        "example": "中尉",
+        "reading": "チュウイ",
+        "meaning": "thiếu úy, cấp trung úy"
+      },
+      {
+        "example": "少尉",
+        "reading": "ショウイ",
+        "meaning": "thiếu úy, thiếu úy, thiếu úy"
+      },
+      {
+        "example": "尉",
+        "reading": "ジョウ",
+        "meaning": "thanh tra (cao thứ ba trong bốn cấp bậc hành chính của hệ thống ritsuryō), ông già, tro trắng (than củi)"
+      },
+      {
+        "example": "尉鶲",
+        "reading": "ジョウビタキ",
+        "meaning": "Khởi đầu đỏ Daurian (Phoenicurus auroreus)"
+      },
+      {
+        "example": "黒式尉",
+        "reading": "コクシキジョウ",
+        "meaning": "mặt nạ noh dùng cho vai ông già (usu. black)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "寸",
+      "meaning": "ngón tay cái, inch"
+    },
+    "parts": [
+      "二",
+      "寸",
+      "小",
+      "尸",
+      "示"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23561_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c09.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c09.gif",
+    "uri": "https://jisho.org/search/%E5%B0%89%23kanji"
+  }
+}

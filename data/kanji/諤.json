@@ -1,0 +1,52 @@
+{
+  "id": "諤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "諤",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "nói sự thật",
+    "kunyomi": [
+      "わめ.く",
+      "あご"
+    ],
+    "onyomi": [
+      "ガク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "諤々",
+        "reading": "ガクガク",
+        "meaning": "thẳng thắn, thẳng thắn, thẳng thắn"
+      },
+      {
+        "example": "諤々",
+        "reading": "ガクガク",
+        "meaning": "thẳng thắn, thẳng thắn, thẳng thắn"
+      },
+      {
+        "example": "喧々諤々",
+        "reading": "ケンケンガクガク",
+        "meaning": "hỗn loạn (tất cả mọi người đều bày tỏ ý kiến của mình cùng một lúc), náo động"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "lời nói"
+    },
+    "parts": [
+      "二",
+      "勹",
+      "口",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35556_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ae4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ae4.gif",
+    "uri": "https://jisho.org/search/%E8%AB%A4%23kanji"
+  }
+}

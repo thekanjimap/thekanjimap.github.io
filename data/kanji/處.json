@@ -1,0 +1,48 @@
+{
+  "id": "處",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "處",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "địa điểm, địa phương, bộ phận",
+    "kunyomi": [
+      "ところ",
+      "-こ",
+      "お.る"
+    ],
+    "onyomi": [
+      "ショ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "他所",
+        "reading": "タショ",
+        "meaning": "nơi khác, nơi khác, nơi khác, di chuyển (đến nơi khác)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "所",
+        "reading": "ところ",
+        "meaning": "địa điểm, chỗ, cảnh, địa điểm, địa chỉ, quận, khu vực, địa phương, nhà của một người, điểm, khía cạnh, bên, khía cạnh, lối đi (trong văn bản), phần, không gian, phòng, vật, vấn đề, do đó, kết quả là, sắp, sắp sửa, vừa làm, đang trong quá trình làm, vừa làm xong, vừa làm xong, xấp xỉ, xung quanh, khoảng"
+      }
+    ],
+    "radical": {
+      "symbol": "虍",
+      "meaning": "sọc hổ"
+    },
+    "parts": [
+      "几",
+      "匕",
+      "卜",
+      "厂",
+      "夂",
+      "虍"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34389_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08655.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8655.gif",
+    "uri": "https://jisho.org/search/%E8%99%95%23kanji"
+  }
+}

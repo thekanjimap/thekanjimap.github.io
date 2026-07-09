@@ -1,0 +1,41 @@
+{
+  "id": "屓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "屓",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "phát huy sức mạnh",
+    "kunyomi": [],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "贔屓",
+        "reading": "ビイキ",
+        "meaning": "thích cái gì đó, là một phần của cái gì đó, -phile"
+      },
+      {
+        "example": "贔屓贔屓",
+        "reading": "ヒイキビイキ",
+        "meaning": "mỗi người ủng hộ (bảo trợ) sở thích của mình"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "尸",
+      "meaning": "xác chết"
+    },
+    "parts": [
+      "ハ",
+      "尸",
+      "目",
+      "貝"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23635_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c53.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c53.gif",
+    "uri": "https://jisho.org/search/%E5%B1%93%23kanji"
+  }
+}

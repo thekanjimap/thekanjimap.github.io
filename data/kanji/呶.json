@@ -1,0 +1,43 @@
+{
+  "id": "呶",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "呶",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "ồn ào",
+    "kunyomi": [
+      "かまびす.しい"
+    ],
+    "onyomi": [
+      "ド",
+      "ドウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "怒鳴り込む",
+        "reading": "ドナリコム",
+        "meaning": "xông vào với một tiếng hét"
+      },
+      {
+        "example": "怒鳴る",
+        "reading": "ドナル",
+        "meaning": "hét lên (trong cơn tức giận), hét lên"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "又",
+      "口",
+      "女"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21622_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05476.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5476.gif",
+    "uri": "https://jisho.org/search/%E5%91%B6%23kanji"
+  }
+}

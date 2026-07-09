@@ -1,0 +1,53 @@
+{
+  "id": "襤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "襤",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "giẻ rách",
+    "kunyomi": [
+      "ぼろ"
+    ],
+    "onyomi": [
+      "ラン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "襤褸",
+        "reading": "ランル",
+        "meaning": "quần áo rách rưới, quần áo rách rưới, giẻ rách"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "襤褸",
+        "reading": "ぼろ",
+        "meaning": "giẻ rách, vải cũ, quần áo rách rưới, quần áo rách rưới, giẻ rách, lỗi lầm (người ta đang cố che giấu), khiếm khuyết, yếu đuối, cũ nát, xộc xệch, tồi tàn, rách rưới, rách rưới"
+      },
+      {
+        "example": "襤褸い",
+        "reading": "ぼろい",
+        "meaning": "cũ kỹ,xuống cấp,xuống cấp,tồi tàn,xuống cấp"
+      }
+    ],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "quần áo"
+    },
+    "parts": [
+      "乞",
+      "二",
+      "初",
+      "皿",
+      "臣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35172_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08964.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8964.gif",
+    "uri": "https://jisho.org/search/%E8%A5%A4%23kanji"
+  }
+}

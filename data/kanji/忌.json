@@ -1,0 +1,96 @@
+{
+  "id": "忌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "忌",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1882",
+    "strokeCount": 7,
+    "meaning": "tang chế, ghê tởm, đáng ghét, giỗ",
+    "kunyomi": [
+      "い.む",
+      "い.み",
+      "い.まわしい"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "忌",
+        "reading": "キ",
+        "meaning": "tang lễ, thời gian để tang, ngày giỗ của một người"
+      },
+      {
+        "example": "忌避",
+        "reading": "キヒ",
+        "meaning": "trốn tránh, lảng tránh, trốn tránh, từ chối (của một thẩm phán), ngoại lệ (với một thẩm phán), thách thức"
+      },
+      {
+        "example": "回忌",
+        "reading": "カイキ",
+        "meaning": "ngày giỗ, ngày giỗ của một người"
+      },
+      {
+        "example": "七回忌",
+        "reading": "シチカイキ",
+        "meaning": "kỷ niệm sáu năm ngày mất"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "忌む",
+        "reading": "いむ",
+        "meaning": "tránh xa, tránh xa, ghét bỏ"
+      },
+      {
+        "example": "忌むべき",
+        "reading": "いむべき",
+        "meaning": "đáng ghê tởm, đáng ghê tởm"
+      },
+      {
+        "example": "忌み",
+        "reading": "いみ",
+        "meaning": "tang chế, kiêng cữ, cấm kỵ, thanh lọc tôn giáo, trong sạch, thánh thiện"
+      },
+      {
+        "example": "忌明け",
+        "reading": "いみあけ",
+        "meaning": "kết thúc thời gian để tang (thông thường là 49 ngày)"
+      },
+      {
+        "example": "子忌み",
+        "reading": "ねいみ",
+        "meaning": "hái thuốc và nhổ tận gốc cây thông non (sự kiện thường niên được tổ chức vào ngày mùng 1 Tết Canh Tý)"
+      },
+      {
+        "example": "物忌み",
+        "reading": "ものいみ",
+        "meaning": "thanh lọc bằng cách nhịn ăn và kiêng cữ, nhốt mình trong nhà vào những ngày không tốt để tránh xui xẻo (thực hành Onmyōdō)"
+      },
+      {
+        "example": "忌まわしい",
+        "reading": "いまわしい",
+        "meaning": "đáng ghê tởm, đáng ghê tởm, đáng ghê tởm, đáng ghê tởm, đáng ghê tởm, đáng ghê tởm, đáng ngại, không may mắn, không may mắn"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "已",
+      "心"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24524_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fcc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fcc.gif",
+    "uri": "https://jisho.org/search/%E5%BF%8C%23kanji"
+  }
+}

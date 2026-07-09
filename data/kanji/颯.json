@@ -1,0 +1,46 @@
+{
+  "id": "颯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "颯",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 14,
+    "meaning": "tiếng gió đột ngột, nhanh chóng, nhanh chóng",
+    "kunyomi": [
+      "さっ.と"
+    ],
+    "onyomi": [
+      "サツ",
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "颯々",
+        "reading": "サッサツ",
+        "meaning": "tiếng rì rào (của gió), tiếng rì rào, tiếng rì rầm, tiếng rì rào"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "颯と",
+        "reading": "さっと",
+        "meaning": "nhanh chóng (đặc biệt là hành động), đột ngột (đặc biệt là gió, mưa, v.v.)"
+      }
+    ],
+    "radical": {
+      "symbol": "風",
+      "meaning": "gió"
+    },
+    "parts": [
+      "几",
+      "立",
+      "虫",
+      "風"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39087_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/098af.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/98af.gif",
+    "uri": "https://jisho.org/search/%E9%A2%AF%23kanji"
+  }
+}

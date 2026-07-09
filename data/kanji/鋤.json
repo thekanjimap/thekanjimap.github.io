@@ -1,0 +1,75 @@
+{
+  "id": "鋤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鋤",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "thuổng, cày",
+    "kunyomi": [
+      "す.く",
+      "すき",
+      "くわ"
+    ],
+    "onyomi": [
+      "ジョ",
+      "ショ",
+      "ソ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鋤骨",
+        "reading": "ジョコツ",
+        "meaning": "vomer (một xương sọ)"
+      },
+      {
+        "example": "鋤鼻器",
+        "reading": "ジョビキ",
+        "meaning": "cơ quan mũi họng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鋤く",
+        "reading": "すく",
+        "meaning": "cày, cày, cuốc, cày"
+      },
+      {
+        "example": "鋤",
+        "reading": "すき",
+        "meaning": "thuổng, cày, cày"
+      },
+      {
+        "example": "すき焼き",
+        "reading": "すきやき",
+        "meaning": "sukiyaki, thịt bò lát mỏng, nấu với nhiều loại rau khác nhau trên chảo gang để bàn"
+      },
+      {
+        "example": "魚すき",
+        "reading": "うおすき",
+        "meaning": "hải sản và rau nấu kiểu sukiyaki"
+      },
+      {
+        "example": "雪鋤",
+        "reading": "ゆきすき",
+        "meaning": "dọn tuyết (ví dụ: từ mái nhà)"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "kim loại, vàng"
+    },
+    "parts": [
+      "力",
+      "目",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37604_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/092e4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/92e4.gif",
+    "uri": "https://jisho.org/search/%E9%8B%A4%23kanji"
+  }
+}

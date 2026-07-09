@@ -1,0 +1,49 @@
+{
+  "id": "衍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "衍",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "tràn ngập",
+    "kunyomi": [
+      "あまり",
+      "しく",
+      "はびこ.る"
+    ],
+    "onyomi": [
+      "エン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "衍字",
+        "reading": "エンジ",
+        "meaning": "ký tự thừa, ký tự được thêm vào do nhầm lẫn"
+      },
+      {
+        "example": "衍文",
+        "reading": "エンブン",
+        "meaning": "(vô ý) sự dư thừa trong một văn bản"
+      },
+      {
+        "example": "敷衍",
+        "reading": "フエン",
+        "meaning": "diễn giải, mở rộng (ví dụ: về một điểm), xây dựng, khuếch đại, giải thích rõ ràng, diễn giải"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "行",
+      "meaning": "đi, làm"
+    },
+    "parts": [
+      "彳",
+      "汁",
+      "行"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34893_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0884d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/884d.gif",
+    "uri": "https://jisho.org/search/%E8%A1%8D%23kanji"
+  }
+}

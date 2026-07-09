@@ -1,0 +1,91 @@
+{
+  "id": "鶏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鶏",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1901",
+    "strokeCount": 19,
+    "meaning": "gà",
+    "kunyomi": [
+      "にわとり",
+      "とり"
+    ],
+    "onyomi": [
+      "ケイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鶏肉",
+        "reading": "トリニク",
+        "meaning": "thịt gà, thịt gia cầm, thịt chim"
+      },
+      {
+        "example": "鶏卵",
+        "reading": "ケイラン",
+        "meaning": "trứng gà"
+      },
+      {
+        "example": "養鶏",
+        "reading": "ヨウケイ",
+        "meaning": "chăn nuôi gia cầm, chăn nuôi gia cầm, chăn nuôi gà"
+      },
+      {
+        "example": "成鶏",
+        "reading": "セイケイ",
+        "meaning": "gà trưởng thành, gà trưởng thành"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鶏",
+        "reading": "にわとり",
+        "meaning": "gà (Gallus gallus localus), gà nhà, thịt gà"
+      },
+      {
+        "example": "鶏小屋",
+        "reading": "にわとりごや",
+        "meaning": "chuồng gà, chuồng gà"
+      },
+      {
+        "example": "鳥",
+        "reading": "とり",
+        "meaning": "chim, thịt chim (đặc biệt là thịt gà), gà, gia cầm"
+      },
+      {
+        "example": "鶏",
+        "reading": "にわとり",
+        "meaning": "gà (Gallus gallus localus), gà nhà, thịt gà"
+      },
+      {
+        "example": "焼き鳥",
+        "reading": "やきとり",
+        "meaning": "yakitori, miếng thịt gà (hoặc đôi khi là nội tạng bò hoặc lợn) nướng trên xiên, chim nướng và xiên (đặc biệt là chim sẻ), không thắng nổi một ván bài nào trong nửa ván đấu"
+      },
+      {
+        "example": "花鶏",
+        "reading": "あとり",
+        "meaning": "mâm xôi (chim) (Fringilla montifringilla)"
+      }
+    ],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "chim"
+    },
+    "parts": [
+      "二",
+      "人",
+      "土",
+      "大",
+      "杰",
+      "爪",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40335_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d8f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d8f.gif",
+    "uri": "https://jisho.org/search/%E9%B6%8F%23kanji"
+  }
+}

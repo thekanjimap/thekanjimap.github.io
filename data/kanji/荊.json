@@ -1,0 +1,54 @@
+{
+  "id": "荊",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "荊",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "gai, gai, roi",
+    "kunyomi": [
+      "いばら"
+    ],
+    "onyomi": [
+      "ケイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "荊冠",
+        "reading": "ケイカン",
+        "meaning": "vương miện gai"
+      },
+      {
+        "example": "荊棘",
+        "reading": "ケイキョク",
+        "meaning": "hoa hồng dại,mâm xôi,cây tầm xuân,chướng ngại vật,nguồn gốc của khó khăn,cái gai"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "茨",
+        "reading": "いばら",
+        "meaning": "bụi gai, hoa hồng dại, cây tầm xuân, gai, đỉnh"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "二",
+      "刈",
+      "廾",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33610_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0834a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/834a.gif",
+    "uri": "https://jisho.org/search/%E8%8D%8A%23kanji"
+  }
+}

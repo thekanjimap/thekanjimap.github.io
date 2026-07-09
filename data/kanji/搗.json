@@ -1,0 +1,57 @@
+{
+  "id": "搗",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "搗",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "bảng, vỏ trấu",
+    "kunyomi": [
+      "つ.く",
+      "か.つ"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "搗鉱機",
+        "reading": "トウコウキ",
+        "meaning": "máy nghiền tem, máy dập, pin tem"
+      },
+      {
+        "example": "搗精",
+        "reading": "トウセイ",
+        "meaning": "đánh bóng gạo (bóc vỏ gạo lứt để lại gạo trắng)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "搗く",
+        "reading": "つく",
+        "meaning": "đóng vỏ (gạo, lúa mạch, v.v.), giã (gạo), đánh bóng (gạo), dập (quặng)"
+      },
+      {
+        "example": "褐色",
+        "reading": "かちいろ",
+        "meaning": "màu chàm đậm (gần như đen)"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "山",
+      "扎",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25623_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06417.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6417.gif",
+    "uri": "https://jisho.org/search/%E6%90%97%23kanji"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "濁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "濁",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1883",
+    "strokeCount": 16,
+    "meaning": "lên tiếng, ô uế, sai trái, nigori, tạp chất",
+    "kunyomi": [
+      "にご.る",
+      "にご.す"
+    ],
+    "onyomi": [
+      "ダク",
+      "ジョク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "濁流",
+        "reading": "ダクリュウ",
+        "meaning": "suối bùn"
+      },
+      {
+        "example": "濁音",
+        "reading": "ダクオン",
+        "meaning": "âm tiết có phụ âm hữu thanh (trong tiếng Nhật), âm hữu thanh"
+      },
+      {
+        "example": "汚濁",
+        "reading": "オダク",
+        "meaning": "ô nhiễm, ô nhiễm, tham nhũng, hối lộ"
+      },
+      {
+        "example": "清濁",
+        "reading": "セイダク",
+        "meaning": "thiện và ác, thanh khiết và tạp chất, phụ âm hữu thanh và vô thanh"
+      },
+      {
+        "example": "濁酒",
+        "reading": "ドブロク",
+        "meaning": "doburoku (rượu sake chưa tinh chế)"
+      },
+      {
+        "example": "濁世",
+        "reading": "ダクセ",
+        "meaning": "thế giới bại hoại hay suy đồi này, thế giới hay cuộc sống này, thế giới của loài người"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "濁る",
+        "reading": "にごる",
+        "meaning": "trở nên đục ngầu, trở nên đục, trở nên đục, trở nên không tinh khiết (của chất lỏng hoặc khí), trở nên mờ nhạt (về âm thanh, màu sắc, v.v.), trở nên không rõ ràng, trở nên mờ nhạt, trở nên khàn khàn, trở nên ô uế (của trái tim một người, xã hội, v.v.), trở nên hư hỏng, bị ô nhiễm, trở nên có tiếng (của một phụ âm), được phát âm như một âm thanh có giọng nói"
+      },
+      {
+        "example": "濁す",
+        "reading": "にごす",
+        "meaning": "làm đục (của một chất lỏng), làm đục, làm đục, làm xáo trộn, làm cho mơ hồ, trốn tránh (ví dụ như quan điểm), không cam kết về"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "勹",
+      "汁",
+      "虫",
+      "買"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28609_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06fc1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6fc1.gif",
+    "uri": "https://jisho.org/search/%E6%BF%81%23kanji"
+  }
+}

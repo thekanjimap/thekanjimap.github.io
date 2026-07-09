@@ -1,0 +1,105 @@
+{
+  "id": "芥",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "芥",
+    "found": true,
+    "newspaperFrequencyRank": "1929",
+    "strokeCount": 7,
+    "meaning": "mù tạt, hiếp dâm, bụi, rác, rác",
+    "kunyomi": [
+      "からし",
+      "ごみ",
+      "あくた"
+    ],
+    "onyomi": [
+      "カイ",
+      "ケ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "芥子泥",
+        "reading": "カイシデイ",
+        "meaning": "thạch cao mù tạt"
+      },
+      {
+        "example": "芥藍",
+        "reading": "カイラン",
+        "meaning": "kai-lan, gai-lan, bông cải xanh Trung Quốc"
+      },
+      {
+        "example": "厨芥",
+        "reading": "チュウカイ",
+        "meaning": "chất thải nhà bếp"
+      },
+      {
+        "example": "塵芥",
+        "reading": "ジンカイ",
+        "meaning": "rác rưởi, rác rưởi, rác rưởi, thứ vô giá trị"
+      },
+      {
+        "example": "【ケシ】",
+        "reading": "opium poppy (Papaver somniferum)",
+        "meaning": ""
+      },
+      {
+        "example": "芥子粒",
+        "reading": "ケシツブ",
+        "meaning": "hạt anh túc, một thứ cực kỳ nhỏ bé"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "辛子",
+        "reading": "からし",
+        "meaning": "mù tạt"
+      },
+      {
+        "example": "からし色",
+        "reading": "からしいろ",
+        "meaning": "mù tạt (màu)"
+      },
+      {
+        "example": "【ゴミ】",
+        "reading": "rubbish, trash, garbage, refuse, litter",
+        "meaning": ""
+      },
+      {
+        "example": "ゴミ箱",
+        "reading": "ごみばこ",
+        "meaning": "thùng rác, thùng rác, thùng rác, thùng rác"
+      },
+      {
+        "example": "芥",
+        "reading": "あくた",
+        "meaning": "rác, rác, rác, rác thải, bụi bẩn"
+      },
+      {
+        "example": "芥川賞",
+        "reading": "あくたがわしょう",
+        "meaning": "Giải Akutagawa (giải thưởng văn học)"
+      },
+      {
+        "example": "塵芥",
+        "reading": "じんかい",
+        "meaning": "rác rưởi, rác rưởi, rác rưởi, thứ vô giá trị"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "个",
+      "儿",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33445_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082a5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82a5.gif",
+    "uri": "https://jisho.org/search/%E8%8A%A5%23kanji"
+  }
+}

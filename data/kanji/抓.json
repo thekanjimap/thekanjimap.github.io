@@ -1,0 +1,57 @@
+{
+  "id": "抓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "抓",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "nhặt, véo, tóm tắt",
+    "kunyomi": [
+      "つ.ねる",
+      "つ.める",
+      "つね.る",
+      "つま.む"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "抓る",
+        "reading": "つねる",
+        "meaning": "véo, véo"
+      },
+      {
+        "example": "抓る",
+        "reading": "つねる",
+        "meaning": "véo, véo"
+      },
+      {
+        "example": "抓る",
+        "reading": "つねる",
+        "meaning": "véo, véo"
+      },
+      {
+        "example": "摘む",
+        "reading": "つまむ",
+        "meaning": "véo, giữ (giữa các ngón tay), nhặt (bằng đũa, nhíp, v.v.), gắp và ăn, ăn nhẹ, nhặt ra (điểm chính), tóm tắt, tóm tắt, mê hoặc, sở hữu, mê hoặc"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "扎",
+      "爪"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25235_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06293.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6293.gif",
+    "uri": "https://jisho.org/search/%E6%8A%93%23kanji"
+  }
+}

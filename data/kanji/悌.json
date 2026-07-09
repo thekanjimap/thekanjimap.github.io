@@ -1,0 +1,54 @@
+{
+  "id": "悌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "悌",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2474",
+    "strokeCount": 10,
+    "meaning": "phục vụ người lớn tuổi của chúng tôi",
+    "kunyomi": [],
+    "onyomi": [
+      "テイ",
+      "ダイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "悌",
+        "reading": "テイ",
+        "meaning": "tôn trọng người lớn tuổi, hòa thuận giữa anh chị em"
+      },
+      {
+        "example": "悌順",
+        "reading": "テイジュン",
+        "meaning": "sự vâng lời"
+      },
+      {
+        "example": "孝弟",
+        "reading": "コウテイ",
+        "meaning": "lòng hiếu thảo, tình anh em"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "ノ",
+      "并",
+      "弓",
+      "忙",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24716_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0608c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/608c.gif",
+    "uri": "https://jisho.org/search/%E6%82%8C%23kanji"
+  }
+}

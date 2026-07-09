@@ -1,0 +1,74 @@
+{
+  "id": "籤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "籤",
+    "found": true,
+    "strokeCount": 23,
+    "meaning": "xổ số, xổ số",
+    "kunyomi": [
+      "くじ",
+      "かずとり"
+    ],
+    "onyomi": [
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "箋",
+        "reading": "セン",
+        "meaning": "phiếu (bằng giấy), thẻ (usu. tre, gỗ, ngà voi, v.v.), nhãn"
+      },
+      {
+        "example": "抽選",
+        "reading": "チュウセン",
+        "meaning": "xổ số, xổ số, xổ số (lô)"
+      },
+      {
+        "example": "当せん",
+        "reading": "トウセン",
+        "meaning": "trúng giải (trong xổ số, xổ số, v.v.)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "籤",
+        "reading": "くじ",
+        "meaning": "xổ số, lô, xổ số, rút thăm"
+      },
+      {
+        "example": "くじ引き",
+        "reading": "くじびき",
+        "meaning": "xổ số, rút thăm"
+      },
+      {
+        "example": "御神籤",
+        "reading": "おみくじ",
+        "meaning": "phiếu may mắn (thường mua ở đền thờ)"
+      },
+      {
+        "example": "貧乏くじ",
+        "reading": "びんぼうくじ",
+        "meaning": "đầu gậy ngắn, ống hút ngắn, số xui xẻo, trống rỗng, mặc cả xấu"
+      }
+    ],
+    "radical": {
+      "symbol": "竹",
+      "forms": [
+        "⺮"
+      ],
+      "meaning": "tre"
+    },
+    "parts": [
+      "乞",
+      "人",
+      "戈",
+      "竹",
+      "韭"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31844_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07c64.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7c64.gif",
+    "uri": "https://jisho.org/search/%E7%B1%A4%23kanji"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "鈔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鈔",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "lựa chọn, tóm tắt, 1/10 shaku",
+    "kunyomi": [],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "抄",
+        "reading": "ショウ",
+        "meaning": "đoạn trích, trích xuất, chú thích, shō (đơn vị thể tích, khoảng 1,8 ml), tiền giấy, tiền giấy"
+      },
+      {
+        "example": "抄本",
+        "reading": "ショウホン",
+        "meaning": "đoạn trích, sự tóm tắt, sự rút gọn, cuốn sách tuyển chọn"
+      },
+      {
+        "example": "壒嚢鈔",
+        "reading": "アイノウショウ",
+        "meaning": "Ainosho (từ điển Phật giáo, xuất bản lần đầu năm 1446)"
+      },
+      {
+        "example": "あい嚢鈔",
+        "reading": "アイノウショウ",
+        "meaning": "Ainosho (từ điển Phật giáo, xuất bản lần đầu năm 1446)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "kim loại, vàng"
+    },
+    "parts": [
+      "ノ",
+      "小",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37396_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09214.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9214.gif",
+    "uri": "https://jisho.org/search/%E9%88%94%23kanji"
+  }
+}

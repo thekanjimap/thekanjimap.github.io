@@ -1,0 +1,53 @@
+{
+  "id": "症",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "症",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1111",
+    "strokeCount": 10,
+    "meaning": "triệu chứng, bệnh tật",
+    "kunyomi": [],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "症",
+        "reading": "ショウ",
+        "meaning": "bệnh tật, tình trạng, bệnh tật"
+      },
+      {
+        "example": "症候群",
+        "reading": "ショウコウグン",
+        "meaning": "hội chứng"
+      },
+      {
+        "example": "自閉症",
+        "reading": "ジヘイショウ",
+        "meaning": "bệnh tự kỷ"
+      },
+      {
+        "example": "後遺症",
+        "reading": "コウイショウ",
+        "meaning": "triệu chứng tiên lượng, hậu quả, di chứng"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "疒",
+      "meaning": "bệnh tật"
+    },
+    "parts": [
+      "一",
+      "止",
+      "疔"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30151_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/075c7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/75c7.gif",
+    "uri": "https://jisho.org/search/%E7%97%87%23kanji"
+  }
+}

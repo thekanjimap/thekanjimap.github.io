@@ -1,0 +1,53 @@
+{
+  "id": "饑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "饑",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "đói, khát",
+    "kunyomi": [
+      "う.える"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "飢餓",
+        "reading": "キガ",
+        "meaning": "nạn đói, nạn đói, nạn đói"
+      },
+      {
+        "example": "飢饉",
+        "reading": "キキン",
+        "meaning": "nạn đói, mất mùa, thiếu hụt kinh niên (ví dụ như nước)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "飢える",
+        "reading": "うえる",
+        "meaning": "đói khát, đói khát, đói khát (ví dụ: tình yêu), khát khao (ví dụ: kiến thức), đói khát"
+      }
+    ],
+    "radical": {
+      "symbol": "食",
+      "forms": [
+        "飠"
+      ],
+      "meaning": "ăn, thức ăn"
+    },
+    "parts": [
+      "ノ",
+      "丶",
+      "幺",
+      "戈",
+      "食"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39249_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09951.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9951.gif",
+    "uri": "https://jisho.org/search/%E9%A5%91%23kanji"
+  }
+}

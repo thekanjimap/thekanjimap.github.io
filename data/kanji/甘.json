@@ -1,0 +1,322 @@
+{
+  "id": "甘",
+  "kanjialiveData": {
+    "_id": "54317b08791eba5146ee4c32",
+    "_rev": "12-35334a23a0555aa25dc5dfbdc589ed4f",
+    "rad_name_ja": "あまい",
+    "grade": null,
+    "hint_group": 1,
+    "kunyomi": "ama, amai, amasa, amaeru, amae, amayakasu",
+    "meaning": "ngọt ngào",
+    "kstroke": 5,
+    "examples": [
+      {
+        "japanese": "甘味料（かんみりょう）",
+        "meaning": {
+          "english": "chất làm ngọt, chất làm ngọt,"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ama(i)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ama(i)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ama(i)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ama(i)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "甘美な（かんびな）",
+        "meaning": {
+          "english": "ngọt ngào"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ama(i)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ama(i)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ama(i)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ama(i)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "甘い（あまい）",
+        "meaning": {
+          "english": "ngọt ngào, không khắt khe"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ama(i)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ama(i)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ama(i)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ama(i)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "甘える（あまえる）",
+        "meaning": {
+          "english": "đoán thiện chí"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ama(i)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ama(i)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ama(i)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ama(i)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "甘やかす（あまやかす）",
+        "meaning": {
+          "english": "nuông chiều, chiều chuộng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ama(i)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ama(i)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ama(i)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ama(i)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "甘んじる（あまんじる）",
+        "meaning": {
+          "english": "chịu đựng, nộp cho"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ama(i)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ama(i)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ama(i)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ama(i)_06_f.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "あま、あまい、あまさ、あまえる、あまえ、あまやかす",
+    "ka_utf": "甘",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=甘",
+    "kname": "ama(i)",
+    "rad_order": 125,
+    "txt_books": [
+      {
+        "chapter": "20",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "21",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "chapter": "8",
+        "txt_bk": "jtr"
+      }
+    ],
+    "rad_name_search": [
+      "amai"
+    ],
+    "rad_utf": "⽢",
+    "stroketimes": [
+      0,
+      0.866667,
+      2.733333,
+      3.8,
+      4.866667,
+      6.533333
+    ],
+    "kunyomi_ka_display": "あま",
+    "dick": "2176",
+    "rad_name": "amai",
+    "dicn": "2988",
+    "mn_hint": "Please view the animation in the radical field to the left.",
+    "rad_stroke": 5,
+    "onyomi_ja": "カン",
+    "rad_meaning": "ngọt ngào",
+    "onyomi": "kan",
+    "ka_id": "ka_832",
+    "onyomi_search": [
+      "kan",
+      "kan"
+    ],
+    "kunyomi_search": [
+      "ama",
+      "amai",
+      "amasa",
+      "amaeru",
+      "amae",
+      "amayakasu",
+      "ama, amai, amasa, amaeru, amae, amayakasu"
+    ],
+    "meaning_search": [
+      "sweet",
+      "sweet"
+    ],
+    "onyomi_ja_search": [
+      "カン",
+      "カン"
+    ],
+    "kunyomi_ja_search": [
+      "あま",
+      "あまい",
+      "あまさ",
+      "あまえる",
+      "あまえ",
+      "あまやかす",
+      "あま、あまい、あまさ、あまえる、あまえ、あまやかす"
+    ],
+    "rad_meaning_search": [
+      "sweet",
+      "sweet"
+    ],
+    "rad_name_ja_search": [
+      "あまい"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:20",
+      "ij:c20",
+      "kll",
+      "kll:21",
+      "kll:c21",
+      "jtr",
+      "jtr:8",
+      "jtr:c8"
+    ],
+    "rad_name_file": "amai",
+    "kanji": {
+      "character": "甘",
+      "meaning": {
+        "english": "sweet"
+      },
+      "strokes": {
+        "count": 5,
+        "timings": [
+          0,
+          0.866667,
+          2.733333,
+          3.8,
+          4.866667,
+          6.533333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/ama(i)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/ama(i)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/ama(i)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/ama(i)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/ama(i)_5.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "kan",
+        "katakana": "カン"
+      },
+      "kunyomi": {
+        "romaji": "ama, amai, amasa, amaeru, amae, amayakasu",
+        "hiragana": "あま"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/ama(i)_5.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/ama(i)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/ama(i)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⽢",
+      "strokes": 5,
+      "image": "https://media.kanjialive.com/radical_character/amai.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "あまい",
+        "romaji": "amai"
+      },
+      "meaning": {
+        "english": "ngọt ngào"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/amai0.svg",
+        "https://media.kanjialive.com/rad_frames/amai1.svg",
+        "https://media.kanjialive.com/rad_frames/amai2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "2176",
+      "classic_nelson": "2988"
+    }
+  },
+  "jishoData": {
+    "query": "甘",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "1248",
+    "strokeCount": 5,
+    "meaning": "ngọt ngào, dỗ dành, chiều chuộng, hài lòng, ngọt ngào",
+    "kunyomi": [
+      "あま.い",
+      "あま.える",
+      "あま.やかす",
+      "うま.い"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "さつま芋",
+        "reading": "サツマイモ",
+        "meaning": "khoai lang (Ipomoea batatas)"
+      },
+      {
+        "example": "甘言",
+        "reading": "カンゲン",
+        "meaning": "lời ngọt ngào, lời nói suông, lời nịnh nọt, nịnh bợ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "甘い",
+        "reading": "あまい",
+        "meaning": "vị ngọt, ngọt, có đường, có đường, thơm (có mùi), ngọt (âm nhạc), hơi mặn, nhạt trong muối, không cay, ngây thơ, quá lạc quan, mềm mỏng, rộng lượng, buông thả, dễ gần, khoan dung, nửa vời, không kết thúc đúng cách, không đủ, không thỏa đáng, không thỏa đáng, lỏng lẻo, ôn hòa, lôi cuốn, dụ dỗ, dụ dỗ"
+      },
+      {
+        "example": "甘い顔をする",
+        "reading": "あまいかおをする",
+        "meaning": "dễ dãi với ai, dễ dãi, khoan dung"
+      },
+      {
+        "example": "甘える",
+        "reading": "あまえる",
+        "meaning": "cư xử như một đứa trẻ hư hỏng, xu nịnh, lợi dụng, lạm dụng (ví dụ: lòng nhân từ của người khác), phụ thuộc vào"
+      },
+      {
+        "example": "甘やかす",
+        "reading": "あまやかす",
+        "meaning": "nuông chiều, chiều chuộng"
+      },
+      {
+        "example": "上手い",
+        "reading": "うまい",
+        "meaning": "khéo léo, khéo léo, có tay nghề, tốt, chuyên gia, thông minh (biểu hiện, thủ thuật, v.v.), apt, thích hợp, ngon, ngon, tốt, đẹp, tốt (thỏa thuận, ý tưởng, v.v.), có lợi nhuận, đầy hứa hẹn, may mắn, may mắn, thành công, thỏa đáng, lộng lẫy"
+      },
+      {
+        "example": "うまい話",
+        "reading": "うまいはなし",
+        "meaning": "những lời đề nghị quá tốt để trở thành sự thật (ví dụ: lừa đảo và gian lận), những câu chuyện quá tốt để trở thành sự thật"
+      }
+    ],
+    "radical": {
+      "symbol": "甘",
+      "meaning": "ngọt ngào"
+    },
+    "parts": [
+      "甘"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/29976_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07518.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7518.gif",
+    "uri": "https://jisho.org/search/%E7%94%98%23kanji"
+  }
+}

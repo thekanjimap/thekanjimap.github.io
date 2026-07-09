@@ -1,0 +1,49 @@
+{
+  "id": "抽",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "抽",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1437",
+    "strokeCount": 8,
+    "meaning": "nhổ, kéo, trích xuất, excel",
+    "kunyomi": [
+      "ひき-"
+    ],
+    "onyomi": [
+      "チュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "抽象",
+        "reading": "チュウショウ",
+        "meaning": "sự trừu tượng"
+      },
+      {
+        "example": "抽出",
+        "reading": "チュウシュツ",
+        "meaning": "trích xuất, trừu tượng hóa, lựa chọn (từ một nhóm), lấy mẫu"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "扎",
+      "日",
+      "田",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25277_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062bd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62bd.gif",
+    "uri": "https://jisho.org/search/%E6%8A%BD%23kanji"
+  }
+}

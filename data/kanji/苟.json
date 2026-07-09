@@ -1,0 +1,52 @@
+{
+  "id": "苟",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "苟",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "bất kỳ, chút nào, ít nhất",
+    "kunyomi": [
+      "いやしく.も"
+    ],
+    "onyomi": [
+      "コウ",
+      "ク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "苟安",
+        "reading": "コウアン",
+        "meaning": "tranh thủ giây phút nghỉ ngơi, tìm kiếm sự thoải mái tạm thời"
+      },
+      {
+        "example": "苟且",
+        "reading": "コウショ",
+        "meaning": "tạm thời, tạm thời, tạm thời"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "苟も",
+        "reading": "いやしくも",
+        "meaning": "bất kỳ, chút nào, ít nhất, thậm chí ở một mức độ nhẹ, bao giờ hết"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "勹",
+      "口",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33503_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082df.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82df.gif",
+    "uri": "https://jisho.org/search/%E8%8B%9F%23kanji"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "id": "怨",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "怨",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "newspaperFrequencyRank": "2137",
+    "strokeCount": 9,
+    "meaning": "tỏ ra oán giận, tỏ ra oán giận, ghen tị",
+    "kunyomi": [
+      "うら.む",
+      "うらみ",
+      "うら.めしい"
+    ],
+    "onyomi": [
+      "エン",
+      "オン",
+      "ウン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "怨言",
+        "reading": "エンゲン",
+        "meaning": "oán giận, phàn nàn, trách móc"
+      },
+      {
+        "example": "怨恨",
+        "reading": "エンコン",
+        "meaning": "sự thù hận, mối hận thù"
+      },
+      {
+        "example": "旧怨",
+        "reading": "キュウエン",
+        "meaning": "mối hận thù cũ"
+      },
+      {
+        "example": "宿怨",
+        "reading": "シュクエン",
+        "meaning": "mối hận cũ, điểm cũ"
+      },
+      {
+        "example": "怨霊",
+        "reading": "オンリョウ",
+        "meaning": "hồn ma báo thù, sự xuất hiện"
+      },
+      {
+        "example": "怨念",
+        "reading": "オンネン",
+        "meaning": "mối hận thù sâu sắc, hận thù"
+      },
+      {
+        "example": "呪怨",
+        "reading": "ジュウオン",
+        "meaning": "Ju-on, The Grudge (phim kinh dị Nhật Bản)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "恨む",
+        "reading": "うらむ",
+        "meaning": "có ác cảm với, oán giận, đổ lỗi, nguyền rủa, cảm thấy cay đắng đối với"
+      },
+      {
+        "example": "恨み",
+        "reading": "うらみ",
+        "meaning": "oán giận, ác ý, ác ý, cay đắng, đáng tiếc, hối tiếc"
+      },
+      {
+        "example": "恨み言",
+        "reading": "うらみごと",
+        "meaning": "oán giận, phàn nàn, trách móc"
+      },
+      {
+        "example": "恨めしい",
+        "reading": "うらめしい",
+        "meaning": "trách móc, căm ghét, cay đắng"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "卩",
+      "夕",
+      "心"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24616_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06028.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6028.gif",
+    "uri": "https://jisho.org/search/%E6%80%A8%23kanji"
+  }
+}

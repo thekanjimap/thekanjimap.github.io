@@ -1,0 +1,61 @@
+{
+  "id": "褒",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "褒",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2073",
+    "strokeCount": 15,
+    "meaning": "khen ngợi, tán dương",
+    "kunyomi": [
+      "ほ.める"
+    ],
+    "onyomi": [
+      "ホウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "報奨金",
+        "reading": "ホウショウキン",
+        "meaning": "tiền thưởng, phần thưởng, tiền thưởng"
+      },
+      {
+        "example": "褒美",
+        "reading": "ホウビ",
+        "meaning": "phần thưởng, giải thưởng"
+      },
+      {
+        "example": "過褒",
+        "reading": "カホウ",
+        "meaning": "khen ngợi quá mức, khen ngợi quá mức"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "褒める",
+        "reading": "ほめる",
+        "meaning": "khen ngợi, khen ngợi, khen ngợi, khen ngợi, nói tốt về"
+      }
+    ],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "quần áo"
+    },
+    "parts": [
+      "亠",
+      "化",
+      "口",
+      "小",
+      "衣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35090_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08912.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8912.gif",
+    "uri": "https://jisho.org/search/%E8%A4%92%23kanji"
+  }
+}

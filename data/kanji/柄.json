@@ -1,0 +1,104 @@
+{
+  "id": "柄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "柄",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1140",
+    "strokeCount": 9,
+    "meaning": "Thiết kế, mẫu, xây dựng, thiên nhiên, tính cách, xử lý, tay quay, nắm chặt, nhô lên, Trục",
+    "kunyomi": [
+      "がら",
+      "え",
+      "つか"
+    ],
+    "onyomi": [
+      "ヘイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "柄節",
+        "reading": "ヘイセツ",
+        "meaning": "hình dạng (của côn trùng)"
+      },
+      {
+        "example": "政柄",
+        "reading": "セイヘイ",
+        "meaning": "quyền lực chính trị"
+      },
+      {
+        "example": "羽柄",
+        "reading": "ウヘイ",
+        "meaning": "cây xương rồng, cây bút lông"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "柄",
+        "reading": "がら",
+        "meaning": "mẫu, Thiết kế, thể hình, nhân vật, Vóc dáng, những phẩm chất cần thiết, tính cách, thiên nhiên, thích hợp với, Lắp của, phù hợp với"
+      },
+      {
+        "example": "ガラが悪い",
+        "reading": "ガラがわるい",
+        "meaning": "thô tục, thô tục, thô lỗ"
+      },
+      {
+        "example": "土地柄",
+        "reading": "とちがら",
+        "meaning": "tính chất của địa phương, đặc điểm của một địa điểm, màu sắc địa phương, màu sắc địa phương"
+      },
+      {
+        "example": "役柄",
+        "reading": "やくがら",
+        "meaning": "vai trò"
+      },
+      {
+        "example": "柄",
+        "reading": "え",
+        "meaning": "cán, cán, cuống (của nấm, lá...)"
+      },
+      {
+        "example": "柄鏡",
+        "reading": "えかがみ",
+        "meaning": "Gương truyền thống có tay cầm, phổ biến từ thời Muromachi"
+      },
+      {
+        "example": "長柄",
+        "reading": "ながえ",
+        "meaning": "cán dài, giáo cán dài, trục dài"
+      },
+      {
+        "example": "柄",
+        "reading": "つか",
+        "meaning": "cán (của một thanh kiếm), nửa (của một con dao găm), chuôi, tay cầm"
+      },
+      {
+        "example": "柄頭",
+        "reading": "つかがしら",
+        "meaning": "chuôi kiếm"
+      },
+      {
+        "example": "鎌柄",
+        "reading": "かまつか",
+        "meaning": "pike gudgeon (Pseudogobio esocinus), photinia phương Đông (Photinia villosa), hoa ban ngày châu Á (Commelina communis), áo khoác Joseph (Amaranthus ba màu), tampala, cán liềm"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "一",
+      "人",
+      "冂",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26564_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/067c4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/67c4.gif",
+    "uri": "https://jisho.org/search/%E6%9F%84%23kanji"
+  }
+}

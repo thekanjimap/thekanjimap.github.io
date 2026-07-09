@@ -1,0 +1,54 @@
+{
+  "id": "躙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "躙",
+    "found": true,
+    "strokeCount": 23,
+    "meaning": "tiến về phía trước, chà đạp",
+    "kunyomi": [
+      "にじ.る",
+      "ふ.む"
+    ],
+    "onyomi": [
+      "リン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蹂躙",
+        "reading": "ジュウリン",
+        "meaning": "chà đạp, chà đạp, xâm phạm, vi phạm"
+      },
+      {
+        "example": "人道蹂躙",
+        "reading": "ジンドウジュウリン",
+        "meaning": "phẫn nộ chống lại loài người"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "躙る",
+        "reading": "にじる",
+        "meaning": "lê chân, dẫm dưới chân"
+      }
+    ],
+    "radical": {
+      "symbol": "足",
+      "forms": [
+        "⻊"
+      ],
+      "meaning": "chân"
+    },
+    "parts": [
+      "口",
+      "止",
+      "足",
+      "門",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36505_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08e99.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8e99.gif",
+    "uri": "https://jisho.org/search/%E8%BA%99%23kanji"
+  }
+}

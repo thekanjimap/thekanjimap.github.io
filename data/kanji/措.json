@@ -1,0 +1,66 @@
+{
+  "id": "措",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "措",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "818",
+    "strokeCount": 11,
+    "meaning": "gạt sang một bên, từ bỏ, đình chỉ, ngừng, gạt sang một bên, ngoại trừ",
+    "kunyomi": [
+      "お.く"
+    ],
+    "onyomi": [
+      "ソ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "措置",
+        "reading": "ソチ",
+        "meaning": "đo lường, bước, hành động"
+      },
+      {
+        "example": "措辞",
+        "reading": "ソジ",
+        "meaning": "cách dùng từ, ngữ pháp, cách diễn đạt"
+      },
+      {
+        "example": "特措",
+        "reading": "トクソ",
+        "meaning": "biện pháp đặc biệt, biện pháp đặc biệt"
+      },
+      {
+        "example": "挙措",
+        "reading": "キョソ",
+        "meaning": "hành vi, hành vi, cách cư xử"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "措く",
+        "reading": "おく",
+        "meaning": "dừng lại (làm điều gì đó), dừng lại, gạt sang một bên, để nguyên như vậy, để yên, loại trừ, ngoại trừ"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "一",
+      "二",
+      "扎",
+      "日",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25514_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/063aa.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/63aa.gif",
+    "uri": "https://jisho.org/search/%E6%8E%AA%23kanji"
+  }
+}

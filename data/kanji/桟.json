@@ -1,0 +1,62 @@
+{
+  "id": "桟",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "桟",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2093",
+    "strokeCount": 10,
+    "meaning": "giàn giáo, đòn chêm, khung, cầu cảng, chốt (cửa)",
+    "kunyomi": [
+      "かけはし"
+    ],
+    "onyomi": [
+      "サン",
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "桟",
+        "reading": "サン",
+        "meaning": "khung (ví dụ: cửa trượt), thanh ngang, thanh ngang, chốt gỗ trượt (để giữ cửa hoặc cửa sổ đóng), thanh ngang (của thang)"
+      },
+      {
+        "example": "桟橋",
+        "reading": "サンバシ",
+        "meaning": "cầu cảng, cầu cảng, bến tàu"
+      },
+      {
+        "example": "障子の桟",
+        "reading": "ショウジノサン",
+        "meaning": "khung Shoji (cửa trượt giấy)"
+      },
+      {
+        "example": "窓の桟",
+        "reading": "マドノサン",
+        "meaning": "window frame, window sill"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "懸け橋",
+        "reading": "かけはし",
+        "meaning": "cầu tạm (treo), cầu tạm, cầu (giữa các nền văn hóa, thế hệ, v.v.), cầu nối, đi giữa, trung gian, lối đi (xây trên mặt vách đá), đường ván"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "二",
+      "戈",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26719_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0685f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/685f.gif",
+    "uri": "https://jisho.org/search/%E6%A1%9F%23kanji"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "貘",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "貘",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "heo vòi",
+    "kunyomi": [],
+    "onyomi": [
+      "バク",
+      "ミャク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "獏",
+        "reading": "バク",
+        "meaning": "heo vòi (Tapirus spp.), mo (con chimera trong thần thoại Trung Quốc tương tự như heo vòi, được cho là chuyên nuốt những giấc mơ xấu)"
+      },
+      {
+        "example": "アメリカ貘",
+        "reading": "アメリカバク",
+        "meaning": "Lợn vòi Brazil (Tapirus terrestris), heo vòi vùng đất thấp"
+      },
+      {
+        "example": "ベアード獏",
+        "reading": "ベアードバク",
+        "meaning": "Lợn vòi Baird (Tapirus bairdii)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "豸",
+      "meaning": "con mèo, con lửng"
+    },
+    "parts": [
+      "大",
+      "日",
+      "艾",
+      "豸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35992_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08c98.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8c98.gif",
+    "uri": "https://jisho.org/search/%E8%B2%98%23kanji"
+  }
+}

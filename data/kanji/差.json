@@ -1,0 +1,385 @@
+{
+  "id": "差",
+  "kanjialiveData": {
+    "_id": "54317b00791eba5146ee4b95",
+    "_rev": "11-c785d8a0822be7bb94006affd6924b3f",
+    "rad_name_ja": "たくみ",
+    "grade": 4,
+    "hint_group": 2,
+    "kunyomi": "sa, sasu, sashi",
+    "meaning": "sự khác biệt",
+    "kstroke": 10,
+    "examples": [
+      {
+        "japanese": "差（さ）",
+        "meaning": {
+          "english": "sự khác biệt, sự khác biệt"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ji)sa_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(ji)sa_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(ji)sa_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(ji)sa_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "差額（さがく）",
+        "meaning": {
+          "english": "số dư, chênh lệch, lề"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ji)sa_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(ji)sa_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(ji)sa_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(ji)sa_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "大差（たいさ）",
+        "meaning": {
+          "english": "sự khác biệt lớn"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ji)sa_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(ji)sa_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(ji)sa_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(ji)sa_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "時差（じさ）",
+        "meaning": {
+          "english": "chênh lệch múi giờ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ji)sa_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(ji)sa_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(ji)sa_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(ji)sa_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "個人差（こじんさ）",
+        "meaning": {
+          "english": "sự khác biệt cá nhân"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ji)sa_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(ji)sa_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(ji)sa_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(ji)sa_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "交差点（こうさてん）",
+        "meaning": {
+          "english": "(đường) ngã tư"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ji)sa_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(ji)sa_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(ji)sa_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(ji)sa_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "差別する（さべつする）",
+        "meaning": {
+          "english": "phân biệt đối xử"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ji)sa_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(ji)sa_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(ji)sa_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(ji)sa_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "差す（さす）",
+        "meaning": {
+          "english": "giơ (tay, ô)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ji)sa_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(ji)sa_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(ji)sa_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(ji)sa_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "差し当たり（さしあたり）",
+        "meaning": {
+          "english": "trong lúc này, hiện tại"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ji)sa_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(ji)sa_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(ji)sa_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(ji)sa_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "差し支え（さしつかえ）",
+        "meaning": {
+          "english": "sự cản trở, trở ngại"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(ji)sa_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(ji)sa_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(ji)sa_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(ji)sa_06_j.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "さ、さす、さし",
+    "ka_utf": "差",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=差",
+    "rad_name_search": [
+      "takumi"
+    ],
+    "rad_order": 57,
+    "txt_books": [
+      {
+        "chapter": "14",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "1",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "1",
+        "txt_bk": "jt"
+      }
+    ],
+    "kname": "(ji)sa",
+    "rad_utf": "⼯",
+    "stroketimes": [
+      0,
+      0.933333,
+      1.6,
+      3.266667,
+      4,
+      4.866667,
+      6.466667,
+      7.733333,
+      8.8,
+      10,
+      11.866667
+    ],
+    "kunyomi_ka_display": "さ",
+    "dick": "2082",
+    "rad_name": "takumi",
+    "dicn": "3662",
+    "mn_hint": "Skilled ノ shepherd with a ruler 工 measuring the difference between two sheep's [14] wool length.",
+    "rad_stroke": 3,
+    "onyomi_ja": "サ",
+    "rad_meaning": "công việc, thợ mộc, kỹ năng",
+    "onyomi": "sa",
+    "ka_id": "ka_691",
+    "onyomi_search": [
+      "sa",
+      "sa"
+    ],
+    "kunyomi_search": [
+      "sa",
+      "sasu",
+      "sashi",
+      "sa, sasu, sashi"
+    ],
+    "meaning_search": [
+      "difference",
+      "difference"
+    ],
+    "onyomi_ja_search": [
+      "サ",
+      "サ"
+    ],
+    "kunyomi_ja_search": [
+      "さ",
+      "さす",
+      "さし",
+      "さ、さす、さし"
+    ],
+    "rad_meaning_search": [
+      "work",
+      "carpenter",
+      "skill",
+      "work, carpenter, skill"
+    ],
+    "rad_name_ja_search": [
+      "たくみ"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:14",
+      "ij:c14",
+      "jt",
+      "jt:1",
+      "jt:c1"
+    ],
+    "rad_name_file": "takumi",
+    "kanji": {
+      "character": "差",
+      "meaning": {
+        "english": "difference"
+      },
+      "strokes": {
+        "count": 10,
+        "timings": [
+          0,
+          0.933333,
+          1.6,
+          3.266667,
+          4,
+          4.866667,
+          6.466667,
+          7.733333,
+          8.8,
+          10,
+          11.866667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/(ji)sa_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ji)sa_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ji)sa_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ji)sa_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ji)sa_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ji)sa_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ji)sa_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ji)sa_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ji)sa_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/(ji)sa_10.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "sa",
+        "katakana": "サ"
+      },
+      "kunyomi": {
+        "romaji": "sa, sasu, sashi",
+        "hiragana": "さ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/(ji)sa_10.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/(ji)sa_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/(ji)sa_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼯",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/takumi.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "たくみ",
+        "romaji": "takumi"
+      },
+      "meaning": {
+        "english": "công việc, thợ mộc, kỹ năng"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/takumi0.svg",
+        "https://media.kanjialive.com/rad_frames/takumi1.svg",
+        "https://media.kanjialive.com/rad_frames/takumi2.svg"
+      ]
+    },
+    "references": {
+      "grade": 4,
+      "kodansha": "2082",
+      "classic_nelson": "3662"
+    }
+  },
+  "jishoData": {
+    "query": "差",
+    "found": true,
+    "taughtIn": "lớp 4",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "449",
+    "strokeCount": 10,
+    "meaning": "sự khác biệt, sự khác biệt, sự khác biệt, sự khác biệt, lề, sự cân bằng",
+    "kunyomi": [
+      "さ.す",
+      "さ.し"
+    ],
+    "onyomi": [
+      "サ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "差",
+        "reading": "サ",
+        "meaning": "sự khác biệt, sự khác biệt, sự khác biệt"
+      },
+      {
+        "example": "差し",
+        "reading": "サシ",
+        "meaning": "giữa (ví dụ: hai người), mặt đối mặt, chướng ngại vật, trở ngại, phần ngâm thơ loạn nhịp, chỉ chơi với 2 người chơi, tiền tố dùng để nhấn mạnh hoặc nhấn mạnh, đối âm cho các bài hát múa truyền thống"
+      },
+      {
+        "example": "落差",
+        "reading": "ラクサ",
+        "meaning": "sự khác biệt về độ cao (giữa hai điểm trong một vùng nước), đầu, độ rơi (ví dụ: thác nước), khoảng cách rơi, chênh lệch, khoảng cách"
+      },
+      {
+        "example": "賃金格差",
+        "reading": "チンギンカクサ",
+        "meaning": "chênh lệch lương, chênh lệch lương, chênh lệch lương"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "差す",
+        "reading": "さす",
+        "meaning": "tỏa sáng, có thể nhìn thấy, nhuốm màu, dâng lên (mực nước), chảy vào, được cảm nhận (tức là như một cảm xúc), đi qua một người, cầm (một chiếc ô, v.v.), đưa lên, nâng cao, đưa tay thẳng về phía trước (trong khiêu vũ), nhét, đưa vào, đeo (một thanh kiếm) vào thắt lưng, đeo bên hông, mang dưới cánh tay, nhét cánh tay của một người vào dưới cánh tay của đối phương cánh tay, cột (thuyền), đổ, thêm (chất lỏng), phục vụ (đồ uống), bôi (son môi, v.v.), bôi, tô màu, nhuộm, thắp sáng (lửa), đốt, đóng, đóng, khóa, buộc chặt, dừng lại giữa chừng, không làm xong"
+      },
+      {
+        "example": "差し",
+        "reading": "さし",
+        "meaning": "giữa (ví dụ: hai người), mặt đối mặt, chướng ngại vật, trở ngại, phần ngâm thơ loạn nhịp, chỉ chơi với 2 người chơi, tiền tố dùng để nhấn mạnh hoặc nhấn mạnh, đối âm cho các bài hát múa truyền thống"
+      },
+      {
+        "example": "尺",
+        "reading": "さし",
+        "meaning": "thước kẻ, thước đo"
+      },
+      {
+        "example": "旗指",
+        "reading": "はたさし",
+        "meaning": "samurai mang theo biểu ngữ của tướng quân khi cưỡi ngựa vào trận chiến, lá cờ chiến tranh nhỏ được gắn vào mặt sau áo giáp của một người trong trận chiến"
+      },
+      {
+        "example": "一差し",
+        "reading": "ひとさし",
+        "meaning": "một điệu nhảy, một trò chơi (ví dụ: cờ shogi)"
+      }
+    ],
+    "radical": {
+      "symbol": "工",
+      "meaning": "làm việc"
+    },
+    "parts": [
+      "ノ",
+      "工",
+      "并",
+      "王",
+      "羊"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24046_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05dee.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5dee.gif",
+    "uri": "https://jisho.org/search/%E5%B7%AE%23kanji"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "謳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "謳",
+    "found": true,
+    "newspaperFrequencyRank": "2492",
+    "strokeCount": 18,
+    "meaning": "tán dương, tuyên bố, bày tỏ",
+    "kunyomi": [
+      "うた.う"
+    ],
+    "onyomi": [
+      "オウ",
+      "ウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "謳歌",
+        "reading": "オウカ",
+        "meaning": "vui mừng, tôn vinh, hân hoan, ăn mừng, vui mừng, ca ngợi"
+      },
+      {
+        "example": "謳う",
+        "reading": "ウタウ",
+        "meaning": "ca ngợi, ca ngợi, ca ngợi, tuyên bố, quy định, bày tỏ, tuyên bố, nhấn mạnh"
+      },
+      {
+        "example": "歌い上げる",
+        "reading": "ウタイアゲル",
+        "meaning": "hát hết mình, hát lên một bài hát, thể hiện trọn vẹn cảm xúc của mình bằng một bài thơ, ca ngợi bằng thơ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "謳う",
+        "reading": "うたう",
+        "meaning": "ca ngợi, ca ngợi, ca ngợi, tuyên bố, quy định, bày tỏ, tuyên bố, nhấn mạnh"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "lời nói"
+    },
+    "parts": [
+      "匚",
+      "口",
+      "品",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35635_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b33.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b33.gif",
+    "uri": "https://jisho.org/search/%E8%AC%B3%23kanji"
+  }
+}

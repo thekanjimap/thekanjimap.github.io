@@ -1,0 +1,375 @@
+{
+  "id": "志",
+  "kanjialiveData": {
+    "_id": "54317b13791eba5146ee4ce7",
+    "_rev": "10-8d06d42232ed98d0fe2dca9cbcce475a",
+    "rad_name_ja": "こころ",
+    "grade": 5,
+    "hint_group": 1,
+    "kunyomi": "kokoroza, kokorozasu, kokorozashi",
+    "meaning": "tham vọng, ý chí, ý định, mục tiêu",
+    "kstroke": 7,
+    "examples": [
+      {
+        "japanese": "意志（いし）",
+        "meaning": {
+          "english": "ý chí, ý chí"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoroza(su)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kokoroza(su)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kokoroza(su)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kokoroza(su)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "大志（たいし）",
+        "meaning": {
+          "english": "tham vọng, khát vọng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoroza(su)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kokoroza(su)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kokoroza(su)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kokoroza(su)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "有志（ゆうし）",
+        "meaning": {
+          "english": "tự nguyện, tình nguyện"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoroza(su)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kokoroza(su)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kokoroza(su)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kokoroza(su)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "闘志（とうし）",
+        "meaning": {
+          "english": "tinh thần chiến đấu"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoroza(su)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kokoroza(su)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kokoroza(su)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kokoroza(su)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "遺志（いし）",
+        "meaning": {
+          "english": "điều ước sắp chết"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoroza(su)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kokoroza(su)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kokoroza(su)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kokoroza(su)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "志望する（しぼうする）",
+        "meaning": {
+          "english": "mong muốn, mong muốn [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoroza(su)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kokoroza(su)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kokoroza(su)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kokoroza(su)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "志向する（しこうする）",
+        "meaning": {
+          "english": "ủng hộ, nghiêng về [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoroza(su)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kokoroza(su)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kokoroza(su)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kokoroza(su)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "志願する（しがんする）",
+        "meaning": {
+          "english": "nộp đơn xin, tình nguyện cho"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoroza(su)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kokoroza(su)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kokoroza(su)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kokoroza(su)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "志す（こころざす）",
+        "meaning": {
+          "english": "khao khát, đặt mục tiêu"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoroza(su)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kokoroza(su)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kokoroza(su)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kokoroza(su)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "志（こころざし）",
+        "meaning": {
+          "english": "ý chí, ý định"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kokoroza(su)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kokoroza(su)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kokoroza(su)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kokoroza(su)_06_j.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "こころざ、こころざす、こころざし",
+    "ka_utf": "志",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=志",
+    "kname": "kokoroza(su)",
+    "rad_order": 80,
+    "txt_books": [
+      {
+        "chapter": "10",
+        "txt_bk": "txtIKB"
+      }
+    ],
+    "rad_name_search": [
+      "kokoro"
+    ],
+    "rad_utf": "⼼",
+    "stroketimes": [
+      0,
+      0.933333,
+      2.8,
+      3.866667,
+      5.066667,
+      6.333333,
+      7.133333,
+      8
+    ],
+    "kunyomi_ka_display": "こころざ、こころざし",
+    "dick": "1394",
+    "rad_name": "kokoro",
+    "dicn": "1064",
+    "mn_hint": "The mind and heart 心 of the professional man 士.",
+    "rad_stroke": 4,
+    "onyomi_ja": "シ",
+    "rad_meaning": "trái tim, khối óc, tinh thần",
+    "onyomi": "shi",
+    "ka_id": "ka_996",
+    "onyomi_search": [
+      "shi",
+      "shi"
+    ],
+    "kunyomi_search": [
+      "kokoroza",
+      "kokorozasu",
+      "kokorozashi",
+      "kokoroza, kokorozasu, kokorozashi"
+    ],
+    "meaning_search": [
+      "ambition",
+      "will",
+      "intention",
+      "aim",
+      "ambition, will, intention, aim"
+    ],
+    "onyomi_ja_search": [
+      "シ",
+      "シ"
+    ],
+    "kunyomi_ja_search": [
+      "こころざ",
+      "こころざす",
+      "こころざし",
+      "こころざ、こころざす、こころざし"
+    ],
+    "rad_meaning_search": [
+      "heart",
+      "mind",
+      "spirit",
+      "heart, mind, spirit"
+    ],
+    "rad_name_ja_search": [
+      "こころ"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "ik1",
+      "ik1:10",
+      "ik1:c10"
+    ],
+    "rad_name_file": "kokoro",
+    "kanji": {
+      "character": "志",
+      "meaning": {
+        "english": "ambition, will, intention, aim"
+      },
+      "strokes": {
+        "count": 7,
+        "timings": [
+          0,
+          0.933333,
+          2.8,
+          3.866667,
+          5.066667,
+          6.333333,
+          7.133333,
+          8
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/kokoroza(su)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/kokoroza(su)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/kokoroza(su)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/kokoroza(su)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/kokoroza(su)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/kokoroza(su)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/kokoroza(su)_7.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "shi",
+        "katakana": "シ"
+      },
+      "kunyomi": {
+        "romaji": "kokoroza, kokorozasu, kokorozashi",
+        "hiragana": "こころざ、こころざし"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/kokoroza(su)_7.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/kokoroza(su)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/kokoroza(su)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼼",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/kokoro.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "こころ",
+        "romaji": "kokoro"
+      },
+      "meaning": {
+        "english": "trái tim, khối óc, tinh thần"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/kokoro0.svg",
+        "https://media.kanjialive.com/rad_frames/kokoro1.svg",
+        "https://media.kanjialive.com/rad_frames/kokoro2.svg"
+      ]
+    },
+    "references": {
+      "grade": 5,
+      "kodansha": "1394",
+      "classic_nelson": "1064"
+    }
+  },
+  "jishoData": {
+    "query": "志",
+    "found": true,
+    "taughtIn": "lớp 5",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "823",
+    "strokeCount": 7,
+    "meaning": "ý định, kế hoạch, quyết tâm, khao khát, động cơ, hy vọng, shilling",
+    "kunyomi": [
+      "シリング",
+      "こころざ.す",
+      "こころざし"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "【シリング】",
+        "reading": "shilling",
+        "meaning": ""
+      },
+      {
+        "example": "志向",
+        "reading": "シコウ",
+        "meaning": "ý định, mục đích, sở thích (đối với), định hướng (hướng tới một mục tiêu)"
+      },
+      {
+        "example": "遺志",
+        "reading": "イシ",
+        "meaning": "lời chúc của người đã khuất, lời chúc khi hấp hối"
+      },
+      {
+        "example": "立志",
+        "reading": "リッシ",
+        "meaning": "xác định mục tiêu cuộc sống, quyết định mục tiêu cuộc đời"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "【シリング】",
+        "reading": "shilling",
+        "meaning": ""
+      },
+      {
+        "example": "志す",
+        "reading": "こころざす",
+        "meaning": "lên kế hoạch, có ý định, khao khát, đặt mục tiêu (nhắm vào)"
+      },
+      {
+        "example": "志",
+        "reading": "こころざし",
+        "meaning": "ý chí, quyết tâm, ý định, tham vọng, mục đích, mục tiêu, lòng tốt, thiện chí, lời đề nghị tử tế, món quà (như một dấu hiệu của lòng biết ơn)"
+      },
+      {
+        "example": "志ある者は事ついに成る",
+        "reading": "こころざしあるものはことついになる",
+        "meaning": "Ở đâu có ý chí, ở đó có con đường, có tham vọng người ta có thể đạt được mọi thứ"
+      },
+      {
+        "example": "お志",
+        "reading": "おこころざし",
+        "meaning": "lòng tốt, sự lịch sự"
+      },
+      {
+        "example": "青雲の志",
+        "reading": "せいうんのこころざし",
+        "meaning": "tham vọng cao (cao cả)"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "士",
+      "心"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24535_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fd7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fd7.gif",
+    "uri": "https://jisho.org/search/%E5%BF%97%23kanji"
+  }
+}

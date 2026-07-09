@@ -1,0 +1,65 @@
+{
+  "id": "蔽",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蔽",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "strokeCount": 15,
+    "meaning": "che, bóng râm, áo choàng, lật úp, bị hủy hoại",
+    "kunyomi": [
+      "おお.う",
+      "おお.い"
+    ],
+    "onyomi": [
+      "ヘイ",
+      "ヘツ",
+      "フツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "障屏",
+        "reading": "ショウヘイ",
+        "meaning": "vách ngăn trong ngôi nhà Nhật Bản (ví dụ: bình phong, cửa trượt, v.v.)"
+      },
+      {
+        "example": "遮蔽",
+        "reading": "シャヘイ",
+        "meaning": "che chắn, che chở, che chắn, che chắn, che chắn"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "覆う",
+        "reading": "おおう",
+        "meaning": "che đậy, che giấu, che giấu, che đậy, ngụy trang"
+      },
+      {
+        "example": "覆い",
+        "reading": "おおい",
+        "meaning": "che, áo choàng, tấm vải liệm, mũ trùm đầu"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "乞",
+      "冂",
+      "尚",
+      "巾",
+      "并",
+      "攵",
+      "艾",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34109_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0853d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/853d.gif",
+    "uri": "https://jisho.org/search/%E8%94%BD%23kanji"
+  }
+}

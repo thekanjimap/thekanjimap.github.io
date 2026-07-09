@@ -1,0 +1,72 @@
+{
+  "id": "冥",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "冥",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "newspaperFrequencyRank": "2349",
+    "strokeCount": 10,
+    "meaning": "tối",
+    "kunyomi": [
+      "くら.い"
+    ],
+    "onyomi": [
+      "メイ",
+      "ミョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "冥福",
+        "reading": "メイフク",
+        "meaning": "hạnh phúc ở thế giới bên kia, hạnh phúc thiên đường"
+      },
+      {
+        "example": "瞑想",
+        "reading": "メイソウ",
+        "meaning": "thiền (nhắm mắt), chiêm nghiệm"
+      },
+      {
+        "example": "晦冥",
+        "reading": "カイメイ",
+        "meaning": "bóng tối"
+      },
+      {
+        "example": "天地晦冥",
+        "reading": "テンチカイメイ",
+        "meaning": "thế giới chìm trong bóng tối, tất cả đều chìm trong bóng tối"
+      },
+      {
+        "example": "冥福",
+        "reading": "メイフク",
+        "meaning": "hạnh phúc ở thế giới bên kia, hạnh phúc thiên đường"
+      },
+      {
+        "example": "冥利",
+        "reading": "ミョウリ",
+        "meaning": "sự quan phòng, sự may mắn, ân huệ, ân huệ, lợi thế"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "暗い",
+        "reading": "くらい",
+        "meaning": "tối tăm, ảm đạm, u ám, chán nản, chán nản, xuống bãi rác, tối tăm (tâm trạng), tối tăm (về màu sắc), buồn tẻ, u ám, tối tăm (ví dụ như quá khứ), nghi ngờ, không chắc chắn (để thành công), vô vọng, không hứa hẹn, xa lạ (với), ngu dốt (về)"
+      }
+    ],
+    "radical": {
+      "symbol": "冖",
+      "meaning": "che"
+    },
+    "parts": [
+      "ハ",
+      "亠",
+      "冖",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20901_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051a5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51a5.gif",
+    "uri": "https://jisho.org/search/%E5%86%A5%23kanji"
+  }
+}

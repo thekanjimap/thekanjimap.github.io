@@ -1,0 +1,53 @@
+{
+  "id": "蔟",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蔟",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "tập hợp lại với nhau",
+    "kunyomi": [
+      "まぶし"
+    ],
+    "onyomi": [
+      "ゾク",
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蔟",
+        "reading": "マブシ",
+        "meaning": "người giữ kén"
+      },
+      {
+        "example": "上蔟",
+        "reading": "ジョウゾク",
+        "meaning": "quay kén, giấc ngủ cuối cùng của tằm, chuyển sang giai đoạn nhộng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蔟",
+        "reading": "まぶし",
+        "meaning": "người giữ kén"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "乞",
+      "方",
+      "矢",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34079_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0851f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/851f.gif",
+    "uri": "https://jisho.org/search/%E8%94%9F%23kanji"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "雹",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "雹",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "mưa đá",
+    "kunyomi": [
+      "ひょう"
+    ],
+    "onyomi": [
+      "ハク",
+      "ヒョク",
+      "ボク"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "雹",
+        "reading": "ひょう",
+        "meaning": "mưa đá (đặc biệt là mưa đá 5 mm hoặc lớn hơn)"
+      },
+      {
+        "example": "雹害",
+        "reading": "ひょうがい",
+        "meaning": "mưa đá thiệt hại"
+      },
+      {
+        "example": "降ひょう",
+        "reading": "こうひょう",
+        "meaning": "mưa đá, mưa đá"
+      }
+    ],
+    "radical": {
+      "symbol": "雨",
+      "meaning": "mưa"
+    },
+    "parts": [
+      "勹",
+      "已",
+      "雨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38649_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096f9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96f9.gif",
+    "uri": "https://jisho.org/search/%E9%9B%B9%23kanji"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "唾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "唾",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "strokeCount": 11,
+    "meaning": "nước bọt, đờm",
+    "kunyomi": [
+      "つば",
+      "つばき"
+    ],
+    "onyomi": [
+      "ダ",
+      "タ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "唾液",
+        "reading": "ダエキ",
+        "meaning": "nước bọt, đờm"
+      },
+      {
+        "example": "唾液腺",
+        "reading": "ダエキセン",
+        "meaning": "tuyến nước bọt"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "唾",
+        "reading": "つば",
+        "meaning": "nước bọt, nước bọt, nước miếng"
+      },
+      {
+        "example": "唾く",
+        "reading": "つばく",
+        "meaning": "nhổ"
+      },
+      {
+        "example": "生唾",
+        "reading": "なまつば",
+        "meaning": "nước bọt (trong miệng)"
+      },
+      {
+        "example": "痰唾",
+        "reading": "たんつば",
+        "meaning": "đờm, đờm"
+      },
+      {
+        "example": "唾",
+        "reading": "つば",
+        "meaning": "nước bọt, nước bọt, nước miếng"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "口",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21822_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0553e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/553e.gif",
+    "uri": "https://jisho.org/search/%E5%94%BE%23kanji"
+  }
+}

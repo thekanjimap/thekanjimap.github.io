@@ -1,0 +1,111 @@
+{
+  "id": "傍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "傍",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1660",
+    "strokeCount": 12,
+    "meaning": "người ngoài cuộc, bên cạnh, bên cạnh đó, trong khi, ở gần, người thứ ba",
+    "kunyomi": [
+      "かたわ.ら",
+      "わき",
+      "おか-",
+      "はた",
+      "そば"
+    ],
+    "onyomi": [
+      "ボウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "傍聴",
+        "reading": "ボウチョウ",
+        "meaning": "lắng nghe (một bài giảng, phiên điều trần, phiên họp quốc hội, v.v.), tham dự (không tham gia), ngồi trong (ví dụ: trong một cuộc họp), quan sát"
+      },
+      {
+        "example": "脇見",
+        "reading": "ワキミ",
+        "meaning": "nhìn từ bên cạnh, nhìn sang bên"
+      },
+      {
+        "example": "路傍",
+        "reading": "ロボウ",
+        "meaning": "ven đường"
+      },
+      {
+        "example": "道傍",
+        "reading": "ドウボウ",
+        "meaning": "bên đường, lề đường"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "傍ら",
+        "reading": "かたわら",
+        "meaning": "bên, cạnh, bên cạnh, bên cạnh, gần đó, trong khi (làm), ngoài ra, cùng một lúc"
+      },
+      {
+        "example": "傍らに",
+        "reading": "かたわらに",
+        "meaning": "bên cạnh, gần đó"
+      },
+      {
+        "example": "脇役",
+        "reading": "わきやく",
+        "meaning": "vai phụ (diễn viên), vai phụ"
+      },
+      {
+        "example": "脇見",
+        "reading": "わきみ",
+        "meaning": "nhìn từ bên cạnh, nhìn sang bên"
+      },
+      {
+        "example": "側",
+        "reading": "そば",
+        "meaning": "gần, gần, bên cạnh, vùng lân cận, sự gần gũi, bên cạnh đó, trong khi, người thứ ba"
+      },
+      {
+        "example": "端から",
+        "reading": "はたから",
+        "meaning": "từ bên ngoài, từ bên cạnh"
+      },
+      {
+        "example": "側",
+        "reading": "そば",
+        "meaning": "gần, gần, bên cạnh, vùng lân cận, sự gần gũi, bên cạnh đó, trong khi, người thứ ba"
+      },
+      {
+        "example": "側から",
+        "reading": "そばから",
+        "meaning": "ngay sau đó, ngay sau đó"
+      },
+      {
+        "example": "お側",
+        "reading": "おそば",
+        "meaning": "gần, gần, bên cạnh, vùng lân cận, sự gần gũi, bên cạnh, trong khi, người phục vụ, thuộc hạ, chư hầu"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "đàn ông, con người"
+    },
+    "parts": [
+      "亠",
+      "冖",
+      "化",
+      "并",
+      "方",
+      "立"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20621_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0508d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/508d.gif",
+    "uri": "https://jisho.org/search/%E5%82%8D%23kanji"
+  }
+}

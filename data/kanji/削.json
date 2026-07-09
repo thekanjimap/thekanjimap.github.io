@@ -1,0 +1,76 @@
+{
+  "id": "削",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "削",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "814",
+    "strokeCount": 9,
+    "meaning": "bào, gọt, gọt, gọt, cạo",
+    "kunyomi": [
+      "けず.る",
+      "はつ.る",
+      "そ.ぐ"
+    ],
+    "onyomi": [
+      "サク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "削除",
+        "reading": "サクジョ",
+        "meaning": "xóa, loại bỏ, tẩy xóa, gạch bỏ"
+      },
+      {
+        "example": "削減",
+        "reading": "サクゲン",
+        "meaning": "cắt giảm, cắt giảm, cắt bớt"
+      },
+      {
+        "example": "掘削",
+        "reading": "クッサク",
+        "meaning": "đào bới, đào bới"
+      },
+      {
+        "example": "開削",
+        "reading": "カイサク",
+        "meaning": "đào, cắt, đào"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "削る",
+        "reading": "けずる",
+        "meaning": "cạo (gỗ, da, v.v.), mài (ví dụ bút chì), bào, gọt, gọt, cạo bỏ, làm xói mòn, cắt giảm (ngân sách, chi phí, nhân viên, thời gian, v.v.), cắt bớt, giảm bớt, xóa, xóa, loại bỏ, gạch bỏ, gạch bỏ"
+      },
+      {
+        "example": "削る",
+        "reading": "はつる",
+        "meaning": "cạo bỏ (đặc biệt là bê tông), lấy phần trăm, cắt nhỏ"
+      },
+      {
+        "example": "削ぐ",
+        "reading": "そぐ",
+        "meaning": "cắt (tắt), cạo bỏ, cắt đứt, cắt đứt, mài giũa, làm suy giảm (sự nhiệt tình, hứng thú, v.v.), làm giảm, giảm bớt, làm yếu đi, làm hỏng"
+      }
+    ],
+    "radical": {
+      "symbol": "刀",
+      "forms": [
+        "刂"
+      ],
+      "meaning": "dao, kiếm"
+    },
+    "parts": [
+      "刈",
+      "尚",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21066_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0524a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/524a.gif",
+    "uri": "https://jisho.org/search/%E5%89%8A%23kanji"
+  }
+}

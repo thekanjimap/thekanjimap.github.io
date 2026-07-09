@@ -1,0 +1,55 @@
+{
+  "id": "脆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "脆",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "giòn, dễ vỡ, dễ bị đánh bại, đa cảm, dễ bị tổn thương",
+    "kunyomi": [
+      "もろ.い",
+      "よわい"
+    ],
+    "onyomi": [
+      "ゼイ",
+      "セイ",
+      "セツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "脆弱",
+        "reading": "ゼイジャク",
+        "meaning": "yếu đuối, mong manh, mong manh"
+      },
+      {
+        "example": "脆化",
+        "reading": "ゼイカ",
+        "meaning": "sự giòn"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "脆い",
+        "reading": "もろい",
+        "meaning": "mong manh, mong manh, yếu đuối, yếu đuối, dịu dàng, đa cảm, dễ lay động"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "thịt"
+    },
+    "parts": [
+      "勹",
+      "卩",
+      "厂",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33030_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08106.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8106.gif",
+    "uri": "https://jisho.org/search/%E8%84%86%23kanji"
+  }
+}

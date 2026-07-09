@@ -1,0 +1,50 @@
+{
+  "id": "駈",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "駈",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "chạy, phi nước đại, tiến lên",
+    "kunyomi": [
+      "か.ける",
+      "か.る"
+    ],
+    "onyomi": [
+      "ク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "駈歩",
+        "reading": "クホ",
+        "meaning": "canter (dáng đi của ngựa)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "駆ける",
+        "reading": "かける",
+        "meaning": "chạy, lao, chạy đua, phi nước đại (trên lưng ngựa), phi nước kiệu, tiến lên (chống lại kẻ thù), lao tới (trên lưng ngựa)"
+      },
+      {
+        "example": "駆る",
+        "reading": "かる",
+        "meaning": "thúc đẩy, thúc đẩy, thúc đẩy, lái xe với tốc độ cao (ví dụ: ô tô)"
+      }
+    ],
+    "radical": {
+      "symbol": "馬",
+      "meaning": "con ngựa"
+    },
+    "parts": [
+      "一",
+      "斤",
+      "杰",
+      "馬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39368_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099c8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99c8.gif",
+    "uri": "https://jisho.org/search/%E9%A7%88%23kanji"
+  }
+}

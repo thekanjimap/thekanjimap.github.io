@@ -1,0 +1,67 @@
+{
+  "id": "酷",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "酷",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1596",
+    "strokeCount": 14,
+    "meaning": "tàn nhẫn, khắc nghiệt, tàn ác, bất công",
+    "kunyomi": [
+      "ひど.い"
+    ],
+    "onyomi": [
+      "コク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "酷",
+        "reading": "コク",
+        "meaning": "nghiêm khắc, khắc nghiệt, nghiêm ngặt, nghiêm ngặt, nghiêm ngặt, không công bằng"
+      },
+      {
+        "example": "酷似",
+        "reading": "コクジ",
+        "meaning": "giống gần gũi, giống nhau một cách đáng kinh ngạc, mang một nét giống mạnh mẽ"
+      },
+      {
+        "example": "残忍冷酷",
+        "reading": "ザンニンレイコク",
+        "meaning": "tàn bạo và máu lạnh, tàn nhẫn, tàn bạo, tàn nhẫn"
+      },
+      {
+        "example": "厳酷",
+        "reading": "ゲンコク",
+        "meaning": "sự nghiêm khắc, sự nghiêm khắc, sự nghiêm khắc"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "酷い",
+        "reading": "ひどい",
+        "meaning": "độc ác, vô tâm, cứng rắn, khắc nghiệt, nghiêm trọng, bạo lực, dữ dội, mạnh mẽ, nặng nề, cực đoan, rất xấu, khủng khiếp, khủng khiếp, quá mức, cắt cổ, vô lý, thái quá, không công bằng, bất công"
+      },
+      {
+        "example": "ひどい風邪",
+        "reading": "ひどいかぜ",
+        "meaning": "cảm lạnh nặng"
+      }
+    ],
+    "radical": {
+      "symbol": "酉",
+      "meaning": "rượu vang, rượu"
+    },
+    "parts": [
+      "ノ",
+      "口",
+      "土",
+      "酉"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37239_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09177.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9177.gif",
+    "uri": "https://jisho.org/search/%E9%85%B7%23kanji"
+  }
+}

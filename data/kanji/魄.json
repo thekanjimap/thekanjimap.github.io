@@ -1,0 +1,57 @@
+{
+  "id": "魄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "魄",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "tâm hồn, tinh thần",
+    "kunyomi": [
+      "たましい"
+    ],
+    "onyomi": [
+      "ハク",
+      "タク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "魄",
+        "reading": "ハク",
+        "meaning": "Năng lượng âm, tinh thần"
+      },
+      {
+        "example": "落魄",
+        "reading": "ラクハク",
+        "meaning": "bị giảm nghèo, sống trong cảnh nghèo khó, đi xuống trần thế, hoàn cảnh túng thiếu (giảm bớt)"
+      },
+      {
+        "example": "死魄",
+        "reading": "シハク",
+        "meaning": "trăng khuyết"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "魂",
+        "reading": "たましい",
+        "meaning": "linh hồn, tinh thần, tâm trí, ý chí, sức sống, thứ gì đó quan trọng như mạng sống của chính mình, thứ gì đó vô giá, tinh thần vốn có của thứ gì đó, trạng thái của tâm trí"
+      }
+    ],
+    "radical": {
+      "symbol": "鬼",
+      "meaning": "ma, quỷ"
+    },
+    "parts": [
+      "儿",
+      "匕",
+      "厶",
+      "田",
+      "白",
+      "鬼"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39748_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b44.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b44.gif",
+    "uri": "https://jisho.org/search/%E9%AD%84%23kanji"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "戰",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "戰",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "chiến tranh, chiến đấu, trận chiến",
+    "kunyomi": [
+      "いくさ",
+      "たたか.う",
+      "おのの.く",
+      "そよぐ"
+    ],
+    "onyomi": [
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "戦闘",
+        "reading": "セントウ",
+        "meaning": "trận chiến, chiến đấu, chiến đấu"
+      },
+      {
+        "example": "戦隊",
+        "reading": "センタイ",
+        "meaning": "phi đội"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "戦う",
+        "reading": "たたかう",
+        "meaning": "gây chiến (trên), tiến hành chiến tranh (chống lại), đi chiến tranh (với), chiến đấu (với), chiến đấu (chống lại), cạnh tranh (chống lại), đấu tranh (chống lại nghịch cảnh, v.v.), chiến đấu, tranh đấu, chống lại"
+      }
+    ],
+    "radical": {
+      "symbol": "戈",
+      "meaning": "giáo, kích"
+    },
+    "parts": [
+      "十",
+      "口",
+      "戈",
+      "田",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25136_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06230.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6230.gif",
+    "uri": "https://jisho.org/search/%E6%88%B0%23kanji"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "朴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "朴",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1626",
+    "strokeCount": 6,
+    "meaning": "thô thiển, đơn giản, giản dị, ngoan ngoãn",
+    "kunyomi": [
+      "ほう",
+      "ほお",
+      "えのき"
+    ],
+    "onyomi": [
+      "ボク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "朴直",
+        "reading": "ボクチョク",
+        "meaning": "giản dị, trung thực, ngây thơ"
+      },
+      {
+        "example": "朴訥",
+        "reading": "ボクトツ",
+        "meaning": "không phức tạp, trung thực một cách chắc chắn, không nghệ thuật, không bị ảnh hưởng, đơn giản, ngây thơ"
+      },
+      {
+        "example": "純朴",
+        "reading": "ジュンボク",
+        "meaning": "Đơn giản và trung thực, không phức tạp, đơn giản, ngây thơ, không hư hỏng"
+      },
+      {
+        "example": "厚朴",
+        "reading": "コウボク",
+        "meaning": "Vỏ cây mộc lan lá to Nhật Bản (dùng trong y học Trung Quốc)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "朴の木",
+        "reading": "ほおのき",
+        "meaning": "mộc lan (Magnolia obovata), mộc lan lá to Nhật Bản"
+      },
+      {
+        "example": "朴",
+        "reading": "ほお",
+        "meaning": "Mộc lan lá to Nhật Bản (Magnolia obovata)"
+      },
+      {
+        "example": "朴の木",
+        "reading": "ほおのき",
+        "meaning": "mộc lan (Magnolia obovata), mộc lan lá to Nhật Bản"
+      },
+      {
+        "example": "榎",
+        "reading": "えのき",
+        "meaning": "Nấm kim châm Nhật Bản (Celtis sinensis var. japonica), cây tầm ma Trung Quốc, nấm kim châm (Flammulina velutipes), nấm mùa đông, nấm nhung, enokitake, enokitake"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "卜",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26420_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06734.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6734.gif",
+    "uri": "https://jisho.org/search/%E6%9C%B4%23kanji"
+  }
+}

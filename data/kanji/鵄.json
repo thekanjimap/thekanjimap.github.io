@@ -1,0 +1,50 @@
+{
+  "id": "鵄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鵄",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "diều, cú sừng, ly rượu",
+    "kunyomi": [
+      "とび"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鴟尾",
+        "reading": "シビ",
+        "meaning": "gạch trang trí cuối sườn núi"
+      },
+      {
+        "example": "金鵄",
+        "reading": "キンシ",
+        "meaning": "con diều vàng (đáp xuống mũi cung của Hoàng đế Jimmu sau khi ông đánh bại Nagasunehiko)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鳶",
+        "reading": "とび",
+        "meaning": "diều đen (Milvus migrans), công nhân xây dựng, người dựng giàn giáo, lính cứu hỏa, móc lửa, màu nâu đỏ, áo choàng Inverness, kẻ trộm, kẻ trộm lén lút, kẻ ăn trộm"
+      }
+    ],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "chim"
+    },
+    "parts": [
+      "厶",
+      "土",
+      "杰",
+      "至",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40260_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d44.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d44.gif",
+    "uri": "https://jisho.org/search/%E9%B5%84%23kanji"
+  }
+}

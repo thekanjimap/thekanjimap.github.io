@@ -1,0 +1,60 @@
+{
+  "id": "扶",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "扶",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1879",
+    "strokeCount": 7,
+    "meaning": "viện trợ, giúp đỡ, hỗ trợ",
+    "kunyomi": [
+      "たす.ける"
+    ],
+    "onyomi": [
+      "フ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "扶養",
+        "reading": "フヨウ",
+        "meaning": "hỗ trợ (ví dụ: người phụ thuộc của một người), bảo trì"
+      },
+      {
+        "example": "扶助",
+        "reading": "フジョ",
+        "meaning": "viện trợ, giúp đỡ, giúp đỡ, hỗ trợ"
+      },
+      {
+        "example": "家扶",
+        "reading": "カフ",
+        "meaning": "người quản lý"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "助ける",
+        "reading": "たすける",
+        "meaning": "tiết kiệm, giải cứu, phụ tùng, giúp đỡ, hỗ trợ, hỗ trợ (tài chính), đóng góp (để), cung cấp viện trợ, tạo điều kiện thuận lợi, kích thích, thúc đẩy, đóng góp cho"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "二",
+      "人",
+      "大",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25206_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06276.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6276.gif",
+    "uri": "https://jisho.org/search/%E6%89%B6%23kanji"
+  }
+}

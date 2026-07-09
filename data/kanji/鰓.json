@@ -1,0 +1,70 @@
+{
+  "id": "鰓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鰓",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "mang, khe mang",
+    "kunyomi": [
+      "えら"
+    ],
+    "onyomi": [
+      "サイ",
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鰓蓋",
+        "reading": "エラブタ",
+        "meaning": "nắp mang, nắp mang"
+      },
+      {
+        "example": "鰓弓",
+        "reading": "サイキュウ",
+        "meaning": "vòm nhánh, vòm mang"
+      },
+      {
+        "example": "外鰓",
+        "reading": "ガイサイ",
+        "meaning": "mang ngoài"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鰓",
+        "reading": "えら",
+        "meaning": "mang, nhánh, góc hàm dưới, góc hàm"
+      },
+      {
+        "example": "鰓孔",
+        "reading": "えらあな",
+        "meaning": "khe mang, khe hầu"
+      },
+      {
+        "example": "櫛鰓",
+        "reading": "くしえら",
+        "meaning": "ctenidium, mang lược"
+      },
+      {
+        "example": "海鰓",
+        "reading": "うみえら",
+        "meaning": "bút biển (bất kỳ loài nào thuộc họ Pennatulidae hoặc họ liên quan), lông biển"
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "cá"
+    },
+    "parts": [
+      "心",
+      "杰",
+      "田",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39955_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c13.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c13.gif",
+    "uri": "https://jisho.org/search/%E9%B0%93%23kanji"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "id": "蓮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蓮",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1839",
+    "strokeCount": 13,
+    "meaning": "hoa sen",
+    "kunyomi": [
+      "はす",
+      "はちす"
+    ],
+    "onyomi": [
+      "レン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蓮華",
+        "reading": "レンゲ",
+        "meaning": "hoa sen, đậu tằm sữa Trung Quốc (Astragalus sinicus), thìa sứ, bệ hình hoa sen cho bia mộ"
+      },
+      {
+        "example": "蓮角",
+        "reading": "レンカク",
+        "meaning": "jacana (đặc biệt là jacana đuôi gà lôi, Hydrophasianus chirurgus), loài hoa súng chạy lúp xúp"
+      },
+      {
+        "example": "睡蓮",
+        "reading": "スイレン",
+        "meaning": "hoa súng (bất kỳ loại cây nào thuộc chi Nymphaea), hoa súng lùn (Nymphaea tetragona)"
+      },
+      {
+        "example": "黄連",
+        "reading": "オウレン",
+        "meaning": "sợi vàng (Coptis japonica)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蓮",
+        "reading": "はす",
+        "meaning": "hoa sen thiêng (Nelumbo nucifera), hoa sen Ấn Độ, hoa sen, hoa hồng Sharon (Hibiscus syriacus)"
+      },
+      {
+        "example": "蓮池",
+        "reading": "はすいけ",
+        "meaning": "ao sen"
+      },
+      {
+        "example": "泥中の蓮",
+        "reading": "でいちゅうのはす",
+        "meaning": "Một thứ gì đó thuần khiết giữa rác rưởi, một bông hồng giữa những cây tầm ma, một bông sen trong bùn"
+      },
+      {
+        "example": "蓮",
+        "reading": "はす",
+        "meaning": "hoa sen thiêng (Nelumbo nucifera), hoa sen Ấn Độ, hoa sen, hoa hồng Sharon (Hibiscus syriacus)"
+      },
+      {
+        "example": "蓮の蔤",
+        "reading": "はちすのはい",
+        "meaning": "củ sen"
+      },
+      {
+        "example": "木蓮",
+        "reading": "きはちす",
+        "meaning": "hoa hồng Sharon (Hibiscus syriacus)"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "艾",
+      "車",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34030_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084ee.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84ee.gif",
+    "uri": "https://jisho.org/search/%E8%93%AE%23kanji"
+  }
+}

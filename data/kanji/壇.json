@@ -1,0 +1,62 @@
+{
+  "id": "壇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "壇",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1512",
+    "strokeCount": 16,
+    "meaning": "bục, sân khấu, bục giảng, sân thượng",
+    "kunyomi": [],
+    "onyomi": [
+      "ダン",
+      "タン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "壇",
+        "reading": "ダン",
+        "meaning": "bục, bục, bục, bục giảng, gò (nghi lễ), thế giới (của haiku, nghệ thuật, v.v.), vòng tròn (văn học), mandala"
+      },
+      {
+        "example": "壇上",
+        "reading": "ダンジョウ",
+        "meaning": "trên sân khấu, trên bục, trên bàn thờ"
+      },
+      {
+        "example": "仏壇",
+        "reading": "ブツダン",
+        "meaning": "Bàn thờ Phật (gia đình)"
+      },
+      {
+        "example": "教壇",
+        "reading": "キョウダン",
+        "meaning": "(giáo viên) bục, bục, bệ"
+      },
+      {
+        "example": "黒檀",
+        "reading": "コクタン",
+        "meaning": "gỗ mun"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "土",
+      "meaning": "trái đất"
+    },
+    "parts": [
+      "一",
+      "亠",
+      "口",
+      "囗",
+      "土",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22727_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/058c7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/58c7.gif",
+    "uri": "https://jisho.org/search/%E5%A3%87%23kanji"
+  }
+}

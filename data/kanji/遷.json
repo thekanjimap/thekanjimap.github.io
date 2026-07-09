@@ -1,0 +1,74 @@
+{
+  "id": "遷",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "遷",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1937",
+    "strokeCount": 15,
+    "meaning": "chuyển tiếp, di chuyển, thay đổi",
+    "kunyomi": [
+      "うつ.る",
+      "うつ.す",
+      "みやこがえ"
+    ],
+    "onyomi": [
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "遷都",
+        "reading": "セント",
+        "meaning": "di dời thủ đô, chuyển vốn"
+      },
+      {
+        "example": "遷宮",
+        "reading": "セングウ",
+        "meaning": "lắp đặt một vị thần trong một ngôi đền mới, chuyển giao một ngôi đền"
+      },
+      {
+        "example": "左遷",
+        "reading": "サセン",
+        "meaning": "giáng chức, xuống hạng, hạ bậc, tụt hạng, xuống hạng"
+      },
+      {
+        "example": "聖遷",
+        "reading": "セイセン",
+        "meaning": "Hegira, Hejira, Hijra"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "移る",
+        "reading": "うつる",
+        "meaning": "chuyển (nhà), chuyển (bộ phận), thay đổi mục tiêu quan tâm hoặc quan tâm, trôi qua (thời gian trôi qua), bị thấm bởi màu sắc hoặc mùi hương, bị lây nhiễm, lây lan, lây lan (như trong lửa)"
+      },
+      {
+        "example": "移す",
+        "reading": "うつす",
+        "meaning": "chuyển (đến một nơi, nhóm khác, v.v.), thay đổi, hoán đổi, thay thế, chuyển sang giai đoạn tiếp theo (của một kế hoạch, v.v.), chuyển hướng (sự chú ý của một người), dành (thời gian), để (thời gian) trôi qua, lây nhiễm, thấm vào một cái gì đó (với màu sắc, mùi, v.v.)"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "đi bộ"
+    },
+    "parts": [
+      "大",
+      "已",
+      "西",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36983_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09077.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9077.gif",
+    "uri": "https://jisho.org/search/%E9%81%B7%23kanji"
+  }
+}

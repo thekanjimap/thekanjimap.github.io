@@ -1,0 +1,52 @@
+{
+  "id": "恢",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "恢",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "rộng, lớn, phóng to",
+    "kunyomi": [
+      "ひろ.い"
+    ],
+    "onyomi": [
+      "カイ",
+      "ケ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "回復",
+        "reading": "カイフク",
+        "meaning": "sự hồi phục, sự phục hồi, sự hồi phục, sự hồi phục, sự hồi phục, sự hồi phục (sau một cơn bệnh), sự hồi phục, sự dưỡng bệnh"
+      },
+      {
+        "example": "恢弘",
+        "reading": "カイコウ",
+        "meaning": "lan truyền, lan rộng, mở rộng"
+      },
+      {
+        "example": "天網恢々",
+        "reading": "テンモウカイカイ",
+        "meaning": "Sự trả thù của trời chậm mà chắc, lưới trời rộng và thô nhưng không gì lọt qua được."
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "厂",
+      "忙",
+      "火"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24674_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06062.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6062.gif",
+    "uri": "https://jisho.org/search/%E6%81%A2%23kanji"
+  }
+}

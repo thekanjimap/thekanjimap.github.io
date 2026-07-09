@@ -1,0 +1,56 @@
+{
+  "id": "抄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "抄",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2328",
+    "strokeCount": 7,
+    "meaning": "trích xuất, lựa chọn, tóm tắt, sao chép, trải mỏng",
+    "kunyomi": [],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "抄",
+        "reading": "ショウ",
+        "meaning": "đoạn trích, trích xuất, chú thích, shō (đơn vị thể tích, khoảng 1,8 ml), tiền giấy, tiền giấy"
+      },
+      {
+        "example": "抄本",
+        "reading": "ショウホン",
+        "meaning": "đoạn trích, sự tóm tắt, sự rút gọn, cuốn sách tuyển chọn"
+      },
+      {
+        "example": "和名抄",
+        "reading": "ワミョウショウ",
+        "meaning": "Wamyōruijushō (Từ điển tiếng Nhật thời Heian nổi tiếng)"
+      },
+      {
+        "example": "史記抄",
+        "reading": "シキショウ",
+        "meaning": "Bình luận về Shiki"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "ノ",
+      "小",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25220_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06284.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6284.gif",
+    "uri": "https://jisho.org/search/%E6%8A%84%23kanji"
+  }
+}

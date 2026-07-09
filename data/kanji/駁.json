@@ -1,0 +1,76 @@
+{
+  "id": "駁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "駁",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "sự bác bỏ, mâu thuẫn",
+    "kunyomi": [
+      "ぶち",
+      "まじ.る",
+      "まだら"
+    ],
+    "onyomi": [
+      "ハク",
+      "バク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "駁撃",
+        "reading": "バクゲキ",
+        "meaning": "tấn công (lý lẽ của ai), tranh luận chống lại, bác bỏ, đưa ra vấn đề, mâu thuẫn"
+      },
+      {
+        "example": "駁する",
+        "reading": "バクスル",
+        "meaning": "phản đối ý kiến của ai, bác bỏ, mâu thuẫn"
+      },
+      {
+        "example": "甲論乙駁",
+        "reading": "コウロンオツバク",
+        "meaning": "lập luận ủng hộ và chống lại"
+      },
+      {
+        "example": "弁駁",
+        "reading": "ベンバク",
+        "meaning": "sự bác bỏ,sự phản bác,sự bác bỏ,sự bác bỏ,sự tranh luận"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "斑",
+        "reading": "ぶち",
+        "meaning": "đốm, đốm, lốm đốm"
+      },
+      {
+        "example": "斑毛",
+        "reading": "ぶちげ",
+        "meaning": "da báo (mẫu lông ngựa)"
+      },
+      {
+        "example": "黒斑",
+        "reading": "こくはん",
+        "meaning": "đốm đen, đốm đen"
+      },
+      {
+        "example": "黒斑",
+        "reading": "こくはん",
+        "meaning": "đốm đen, đốm đen"
+      }
+    ],
+    "radical": {
+      "symbol": "馬",
+      "meaning": "con ngựa"
+    },
+    "parts": [
+      "杰",
+      "爻",
+      "馬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39361_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099c1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99c1.gif",
+    "uri": "https://jisho.org/search/%E9%A7%81%23kanji"
+  }
+}

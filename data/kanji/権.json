@@ -1,0 +1,415 @@
+{
+  "id": "権",
+  "kanjialiveData": {
+    "_id": "54317afd791eba5146ee4b5f",
+    "_rev": "12-23bb63308b1e741e58a5d06c2f3b6c8e",
+    "rad_name_ja": "きへん",
+    "grade": 6,
+    "hint_group": 2,
+    "kunyomi": "Không có",
+    "meaning": "đúng, quyền lực, thẩm quyền",
+    "kstroke": 15,
+    "examples": [
+      {
+        "japanese": "権利（けんり）",
+        "meaning": {
+          "english": "đúng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(ri)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ken(ri)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ken(ri)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ken(ri)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "権限（けんげん）",
+        "meaning": {
+          "english": "quyền lực, thẩm quyền"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(ri)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ken(ri)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ken(ri)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ken(ri)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "権威（けんい）",
+        "meaning": {
+          "english": "thẩm quyền"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(ri)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ken(ri)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ken(ri)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ken(ri)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "権力（けんりょく）",
+        "meaning": {
+          "english": "quyền lực"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(ri)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ken(ri)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ken(ri)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ken(ri)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "特権（とっけん）",
+        "meaning": {
+          "english": "đặc quyền"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(ri)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ken(ri)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ken(ri)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ken(ri)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "人権（じんけん）",
+        "meaning": {
+          "english": "nhân quyền"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(ri)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ken(ri)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ken(ri)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ken(ri)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "政権（せいけん）",
+        "meaning": {
+          "english": "quyền lực chính trị"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(ri)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ken(ri)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ken(ri)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ken(ri)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "参政権（さんせいけん）",
+        "meaning": {
+          "english": "quyền bầu cử"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(ri)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ken(ri)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ken(ri)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ken(ri)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "所有権（しょゆうけん）",
+        "meaning": {
+          "english": "quyền sở hữu"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(ri)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ken(ri)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ken(ri)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ken(ri)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "有権者（ゆうけんしゃ）",
+        "meaning": {
+          "english": "cử tri"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(ri)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ken(ri)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ken(ri)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ken(ri)_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "三権分立（さんけんぶんりつ）",
+        "meaning": {
+          "english": "sự phân chia quyền lực"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(ri)_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ken(ri)_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ken(ri)_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ken(ri)_06_k.mp3"
+        }
+      },
+      {
+        "japanese": "権化（ごんげ）",
+        "meaning": {
+          "english": "hóa thân"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ken(ri)_06_l.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ken(ri)_06_l.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ken(ri)_06_l.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ken(ri)_06_l.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "権",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=権",
+    "kname": "ken(ri)",
+    "rad_order": 98,
+    "txt_books": [
+      {
+        "chapter": "11",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "14",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "14",
+        "txt_bk": "jt"
+      }
+    ],
+    "rad_name_search": [
+      "kihen"
+    ],
+    "rad_utf": "",
+    "stroketimes": [
+      0,
+      1.333333,
+      3.266667,
+      4.8,
+      5.4,
+      6.666667,
+      7.866667,
+      9.2,
+      10.2,
+      11.4,
+      12.466667,
+      13.533333,
+      14.466667,
+      15.6,
+      16.533333,
+      19.866667
+    ],
+    "kunyomi_ka_display": "Không có",
+    "dick": "731",
+    "rad_name": "kihen",
+    "dicn": "2360",
+    "mn_hint": "Tree 木 owner [5] with stick 一 has the right/authority to shoo birds 隹 away.",
+    "rad_stroke": 4,
+    "onyomi_ja": "ケン、ゴン",
+    "rad_meaning": "cây, gỗ",
+    "onyomi": "ken, gon",
+    "ka_id": "ka_642",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "ken",
+      "gon",
+      "ken, gon"
+    ],
+    "kunyomi_search": [
+      "Không có",
+      "Không có"
+    ],
+    "meaning_search": [
+      "right",
+      "power",
+      "authority",
+      "right, power, authority"
+    ],
+    "onyomi_ja_search": [
+      "ケン",
+      "ゴン",
+      "ケン、ゴン"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "tree",
+      "wood",
+      "tree, wood"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "きへん"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:11",
+      "ij:c11",
+      "jt",
+      "jt:14",
+      "jt:c14"
+    ],
+    "rad_name_file": "kihen",
+    "kanji": {
+      "character": "権",
+      "meaning": {
+        "english": "right, power, authority"
+      },
+      "strokes": {
+        "count": 15,
+        "timings": [
+          0,
+          1.333333,
+          3.266667,
+          4.8,
+          5.4,
+          6.666667,
+          7.866667,
+          9.2,
+          10.2,
+          11.4,
+          12.466667,
+          13.533333,
+          14.466667,
+          15.6,
+          16.533333,
+          19.866667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/ken(ri)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/ken(ri)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/ken(ri)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/ken(ri)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/ken(ri)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/ken(ri)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/ken(ri)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/ken(ri)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/ken(ri)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/ken(ri)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/ken(ri)_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/ken(ri)_12.svg",
+          "https://media.kanjialive.com/kanji_strokes/ken(ri)_13.svg",
+          "https://media.kanjialive.com/kanji_strokes/ken(ri)_14.svg",
+          "https://media.kanjialive.com/kanji_strokes/ken(ri)_15.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "ken, gon",
+        "katakana": "ケン、ゴン"
+      },
+      "kunyomi": {
+        "romaji": "Không có",
+        "hiragana": "Không có"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/ken(ri)_15.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/ken(ri)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/ken(ri)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/kihen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "きへん",
+        "romaji": "kihen"
+      },
+      "meaning": {
+        "english": "cây, gỗ"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/kihen0.svg",
+        "https://media.kanjialive.com/rad_frames/kihen1.svg",
+        "https://media.kanjialive.com/rad_frames/kihen2.svg"
+      ]
+    },
+    "references": {
+      "grade": 6,
+      "kodansha": "731",
+      "classic_nelson": "2360"
+    }
+  },
+  "jishoData": {
+    "query": "権",
+    "found": true,
+    "taughtIn": "lớp 6",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "156",
+    "strokeCount": 15,
+    "meaning": "thẩm quyền, quyền lực, quyền",
+    "kunyomi": [
+      "おもり",
+      "かり",
+      "はか.る"
+    ],
+    "onyomi": [
+      "ケン",
+      "ゴン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "権",
+        "reading": "ケン",
+        "meaning": "đúng (làm gì đó), quyền lực, quyền lực"
+      },
+      {
+        "example": "権威",
+        "reading": "ケンイ",
+        "meaning": "quyền lực, quyền lực, ảnh hưởng, uy tín, (an) thẩm quyền (trên), chuyên gia"
+      },
+      {
+        "example": "抵当権",
+        "reading": "テイトウケン",
+        "meaning": "quyền thế chấp, quyền cầm cố, quyền cầm giữ"
+      },
+      {
+        "example": "参政権",
+        "reading": "サンセイケン",
+        "meaning": "quyền bầu cử, quyền bầu cử"
+      },
+      {
+        "example": "権化",
+        "reading": "ゴンゲ",
+        "meaning": "hóa thân (của Đức Phật hoặc bồ tát), avatar, hiện thân (như \"hiện thân của cái ác\"), hóa thân, nhân cách hóa"
+      },
+      {
+        "example": "権宮司",
+        "reading": "ゴングウジ",
+        "meaning": "phó linh mục trưởng, phó linh mục trưởng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "仮殿",
+        "reading": "かりどの",
+        "meaning": "ngôi đền tạm thời (nơi chứa đồ vật mà vị thần cư trú khi ngôi đền chính đang được sửa chữa)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "乞",
+      "木",
+      "矢",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27177_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a29.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a29.gif",
+    "uri": "https://jisho.org/search/%E6%A8%A9%23kanji"
+  }
+}

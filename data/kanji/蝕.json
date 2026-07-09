@@ -1,0 +1,57 @@
+{
+  "id": "蝕",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蝕",
+    "found": true,
+    "strokeCount": 14,
+    "meaning": "nhật thực, che khuất, bị khiếm khuyết",
+    "kunyomi": [
+      "むしば.む"
+    ],
+    "onyomi": [
+      "ショク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "食",
+        "reading": "ショク",
+        "meaning": "nhật thực (mặt trời, mặt trăng, v.v.), sự huyền bí"
+      },
+      {
+        "example": "食害",
+        "reading": "ショクガイ",
+        "meaning": "thiệt hại cho cây trồng do sâu bọ (đặc biệt là côn trùng), thiệt hại do sâu bệnh"
+      },
+      {
+        "example": "浸食",
+        "reading": "シンショク",
+        "meaning": "xói mòn, ăn mòn"
+      },
+      {
+        "example": "海食",
+        "reading": "カイショク",
+        "meaning": "xói mòn biển"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蝕む",
+        "reading": "むしばむ",
+        "meaning": "bị sâu ăn, bị sâu ăn, ảnh hưởng xấu, làm hư hỏng, làm hư hỏng, làm suy yếu, gặm nhấm (trái tim, cơ thể, v.v.), ăn vào, phá hủy"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "côn trùng"
+    },
+    "parts": [
+      "虫",
+      "食"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34645_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08755.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8755.gif",
+    "uri": "https://jisho.org/search/%E8%9D%95%23kanji"
+  }
+}

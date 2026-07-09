@@ -1,0 +1,80 @@
+{
+  "id": "袴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "袴",
+    "found": true,
+    "newspaperFrequencyRank": "2175",
+    "strokeCount": 11,
+    "meaning": "váy xẻ tà chính thức dành cho nam giới",
+    "kunyomi": [
+      "はかま",
+      "ずぼん"
+    ],
+    "onyomi": [
+      "コ",
+      "ク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "袴下",
+        "reading": "コシタ",
+        "meaning": "quần dài, quần lót dài, đồ lót dài"
+      },
+      {
+        "example": "長袴",
+        "reading": "ナガバカマ",
+        "meaning": "hakama dài, hakama dài"
+      },
+      {
+        "example": "着袴",
+        "reading": "チャッコ",
+        "meaning": "nghi lễ mặc hakama cho trẻ em"
+      },
+      {
+        "example": "山袴",
+        "reading": "サンパク",
+        "meaning": "hakama lao động rộng ở phần trên và bó sát ở phần dưới"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "袴",
+        "reading": "はかま",
+        "meaning": "hakama, váy xếp ly hoặc quần ống rộng mặc bên ngoài kimono chủ yếu trong các dịp nghi lễ, bao (lá), giá đỡ (chai rượu sake)"
+      },
+      {
+        "example": "袴着",
+        "reading": "はかまぎ",
+        "meaning": "lễ mặc hakama cho trẻ em"
+      },
+      {
+        "example": "紅の袴",
+        "reading": "くれないのはかま",
+        "meaning": "hakama đỏ (được miko hoặc quý tộc mặc tại triều đình)"
+      },
+      {
+        "example": "緋の袴",
+        "reading": "ひのはかま",
+        "meaning": "hakama đỏ (được miko hoặc quý tộc mặc tại triều đình)"
+      }
+    ],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "quần áo"
+    },
+    "parts": [
+      "二",
+      "初",
+      "勹",
+      "大"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34996_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/088b4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/88b4.gif",
+    "uri": "https://jisho.org/search/%E8%A2%B4%23kanji"
+  }
+}

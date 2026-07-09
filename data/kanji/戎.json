@@ -1,0 +1,67 @@
+{
+  "id": "戎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "戎",
+    "found": true,
+    "strokeCount": 6,
+    "meaning": "chiến binh, vũ khí, man rợ, Ainu",
+    "kunyomi": [
+      "えびす",
+      "つわもの"
+    ],
+    "onyomi": [
+      "ジュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "戎葵",
+        "reading": "ジュウキ",
+        "meaning": "cây nhựa ruồi"
+      },
+      {
+        "example": "戎器",
+        "reading": "ジュウキ",
+        "meaning": "vũ khí chiến tranh, vũ khí"
+      },
+      {
+        "example": "西戎",
+        "reading": "セイジュウ",
+        "meaning": "Xirong, Rong, cư dân ở các vùng cực của Trung Quốc ngay từ thời nhà Thương (1765-1122 TCN), những kẻ man rợ ở phía tây"
+      },
+      {
+        "example": "東夷西戎",
+        "reading": "トウイセイジュウ",
+        "meaning": "man rợ ở phía đông và phía tây (theo quan điểm của Trung Quốc cũ)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "恵比寿",
+        "reading": "えびす",
+        "meaning": "Ebisu, thần đánh cá và thương mại"
+      },
+      {
+        "example": "夷",
+        "reading": "えびす",
+        "meaning": "các dân tộc trước đây ở miền bắc Nhật Bản với ngôn ngữ và văn hóa riêng biệt (ví dụ như Ainu), tỉnh lẻ (tức là một người sống xa thành phố), chiến binh tàn bạo, đơn giản (đặc biệt được samurai Kyoto sử dụng để chỉ samurai từ miền đông Nhật Bản), người nước ngoài, man rợ"
+      },
+      {
+        "example": "十日戎",
+        "reading": "とおかえびす",
+        "meaning": "Tōka Ebisu, lễ hội được tổ chức vào ngày 10 tháng 1 để tôn vinh Ebisu, vị thần đánh cá và thương mại"
+      }
+    ],
+    "radical": {
+      "symbol": "戈",
+      "meaning": "giáo, kích"
+    },
+    "parts": [
+      "戈"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25102_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0620e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/620e.gif",
+    "uri": "https://jisho.org/search/%E6%88%8E%23kanji"
+  }
+}

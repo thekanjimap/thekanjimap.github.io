@@ -1,0 +1,98 @@
+{
+  "id": "婆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "婆",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2435",
+    "strokeCount": 11,
+    "meaning": "bà già, bà, y tá ướt",
+    "kunyomi": [
+      "ばば",
+      "ばあ"
+    ],
+    "onyomi": [
+      "バ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "婆",
+        "reading": "ババ",
+        "meaning": "bà già, gã pha trò (trong old girl)"
+      },
+      {
+        "example": "婆",
+        "reading": "ババア",
+        "meaning": "bà già, bà già, túi cũ"
+      },
+      {
+        "example": "提婆",
+        "reading": "ダイバ",
+        "meaning": "deva (có đặc điểm giống thần thánh)"
+      },
+      {
+        "example": "湯婆",
+        "reading": "タンポ",
+        "meaning": "chai nước nóng, bình đựng rượu sake bằng kim loại, ấm rượu sake"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "婆",
+        "reading": "ばば",
+        "meaning": "bà già, gã pha trò (trong old girl)"
+      },
+      {
+        "example": "婆",
+        "reading": "ばばあ",
+        "meaning": "bà già, bà già, túi cũ"
+      },
+      {
+        "example": "祖父祖母",
+        "reading": "じじばば",
+        "meaning": "người già, ông bà"
+      },
+      {
+        "example": "遣り手婆",
+        "reading": "やりてばば",
+        "meaning": "bà nhà chứa"
+      },
+      {
+        "example": "婆さん",
+        "reading": "ばあさん",
+        "meaning": "bà, bà già, nữ công dân cao tuổi"
+      },
+      {
+        "example": "婆ちゃん",
+        "reading": "ばあちゃん",
+        "meaning": "bà, bà, bà, bà già, bà già"
+      },
+      {
+        "example": "【クソババア】",
+        "reading": "old hag, old woman, old bat",
+        "meaning": ""
+      },
+      {
+        "example": "鬼婆",
+        "reading": "おにばば",
+        "meaning": "mụ phù thủy, mụ phù thủy, mụ già khốn khổ hay cay nghiệt, kẻ khốn nạn, kẻ độc ác"
+      }
+    ],
+    "radical": {
+      "symbol": "女",
+      "meaning": "phụ nữ, nữ"
+    },
+    "parts": [
+      "又",
+      "女",
+      "汁",
+      "皮"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23110_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05a46.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5a46.gif",
+    "uri": "https://jisho.org/search/%E5%A9%86%23kanji"
+  }
+}

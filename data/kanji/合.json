@@ -1,0 +1,520 @@
+{
+  "id": "合",
+  "kanjialiveData": {
+    "_id": "54317aed791eba5146ee4a2a",
+    "_rev": "13-434877b59b880c4d51b4232fe471367b",
+    "rad_name_ja": "くち",
+    "grade": 2,
+    "hint_group": 50,
+    "kunyomi": "a, au, ai, awasu, awaseru",
+    "meaning": "kết hợp, khớp, khớp",
+    "kstroke": 6,
+    "examples": [
+      {
+        "japanese": "合計する（ごうけいする）",
+        "meaning": {
+          "english": "cộng lại"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gou-a(u)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gou-a(u)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gou-a(u)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gou-a(u)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "合意する（ごういする）",
+        "meaning": {
+          "english": "đồng ý"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gou-a(u)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gou-a(u)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gou-a(u)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gou-a(u)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "集合する（しゅうごうする）",
+        "meaning": {
+          "english": "tập hợp [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gou-a(u)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gou-a(u)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gou-a(u)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gou-a(u)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "都合（つごう）",
+        "meaning": {
+          "english": "tiện lợi"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gou-a(u)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gou-a(u)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gou-a(u)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gou-a(u)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "合戦（かっせん）",
+        "meaning": {
+          "english": "trận chiến"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gou-a(u)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gou-a(u)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gou-a(u)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gou-a(u)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "合唱（がっしょう）",
+        "meaning": {
+          "english": "điệp khúc"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gou-a(u)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gou-a(u)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gou-a(u)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gou-a(u)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "合衆国（がっしゅうこく）",
+        "meaning": {
+          "english": "Hoa Kỳ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gou-a(u)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gou-a(u)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gou-a(u)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gou-a(u)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "合う（あう）",
+        "meaning": {
+          "english": "trận đấu [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gou-a(u)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gou-a(u)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gou-a(u)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gou-a(u)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "助け合う（たすけあう）",
+        "meaning": {
+          "english": "giúp đỡ lẫn nhau"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gou-a(u)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gou-a(u)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gou-a(u)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gou-a(u)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "合わせる（あわせる）",
+        "meaning": {
+          "english": "tập hợp lại, tham gia, thích nghi"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gou-a(u)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gou-a(u)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gou-a(u)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gou-a(u)_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "知り合い（しりあい）",
+        "meaning": {
+          "english": "người quen"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gou-a(u)_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gou-a(u)_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gou-a(u)_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gou-a(u)_06_k.mp3"
+        }
+      },
+      {
+        "japanese": "試合（しあい）",
+        "meaning": {
+          "english": "trò chơi, trận đấu"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gou-a(u)_06_l.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gou-a(u)_06_l.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gou-a(u)_06_l.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gou-a(u)_06_l.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "あ、あう、あい、あわす、あわせる",
+    "ka_utf": "合",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=合",
+    "kname": "gou-a(u)",
+    "rad_order": 34,
+    "txt_books": [
+      {
+        "chapter": "4",
+        "txt_bk": "txtMimiFilm"
+      },
+      {
+        "chapter": "29",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "17",
+        "txt_bk": "macquarie"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtAd4"
+      },
+      {
+        "chapter": "17",
+        "txt_bk": "txtSFJ3"
+      },
+      {
+        "chapter": "17",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "10",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtSFJ4"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "19",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "jt"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "16"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "28"
+      }
+    ],
+    "rad_name_search": [
+      "kuchi"
+    ],
+    "rad_utf": "⼝",
+    "stroketimes": [
+      0.828,
+      1.554,
+      2.558,
+      3.965,
+      4.97,
+      6.71,
+      7.642458
+    ],
+    "kunyomi_ka_display": "あ、あい",
+    "dick": "1274",
+    "rad_name": "kuchi",
+    "dicn": "383",
+    "mn_hint": "A person's [9] acts 一 matching one's words 口.",
+    "rad_stroke": 3,
+    "onyomi_ja": "ゴウ、カ、ガ",
+    "rad_meaning": "miệng",
+    "onyomi": "gou, ka, ga",
+    "ka_id": "ka_364",
+    "onyomi_search": [
+      "gou",
+      "ka",
+      "ga",
+      "gou, ka, ga"
+    ],
+    "kunyomi_search": [
+      "a",
+      "au",
+      "ai",
+      "awasu",
+      "awaseru",
+      "a, au, ai, awasu, awaseru"
+    ],
+    "meaning_search": [
+      "combine",
+      "fit",
+      "match",
+      "combine, fit, match"
+    ],
+    "onyomi_ja_search": [
+      "ゴウ",
+      "カ",
+      "ガ",
+      "ゴウ、カ、ガ"
+    ],
+    "kunyomi_ja_search": [
+      "あ",
+      "あう",
+      "あい",
+      "あわす",
+      "あわせる",
+      "あ、あう、あい、あわす、あわせる"
+    ],
+    "rad_meaning_search": [
+      "mouth",
+      "mouth"
+    ],
+    "rad_name_ja_search": [
+      "くち"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "mos",
+      "mos:4",
+      "mos:c4",
+      "bk",
+      "bk:29",
+      "bk:c29",
+      "mac",
+      "mac:17",
+      "mac:c17",
+      "aij3",
+      "aij3:3",
+      "aij3:c3",
+      "aij3:v4",
+      "aij3:v4:3",
+      "aij3:v4:c3",
+      "ap",
+      "ap:6",
+      "ap:c6",
+      "kll",
+      "kll:19",
+      "kll:c19",
+      "jt",
+      "jt:2",
+      "jt:c2",
+      "cijr",
+      "cijr:16",
+      "cijr:c16",
+      "cijr",
+      "cijr:28",
+      "cijr:c28"
+    ],
+    "rad_name_file": "kuchi",
+    "kanji": {
+      "character": "合",
+      "meaning": {
+        "english": "combine, fit, match"
+      },
+      "strokes": {
+        "count": 6,
+        "timings": [
+          0.828,
+          1.554,
+          2.558,
+          3.965,
+          4.97,
+          6.71,
+          7.642458
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/gou-a(u)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/gou-a(u)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/gou-a(u)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/gou-a(u)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/gou-a(u)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/gou-a(u)_6.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "gou, ka, ga",
+        "katakana": "ゴウ、カ、ガ"
+      },
+      "kunyomi": {
+        "romaji": "a, au, ai, awasu, awaseru",
+        "hiragana": "あ、あい"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/gou-a(u)_6.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/gou-a(u)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/gou-a(u)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼝",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/kuchi.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "くち",
+        "romaji": "kuchi"
+      },
+      "meaning": {
+        "english": "miệng"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/kuchi0.svg",
+        "https://media.kanjialive.com/rad_frames/kuchi1.svg",
+        "https://media.kanjialive.com/rad_frames/kuchi2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "1274",
+      "classic_nelson": "383"
+    }
+  },
+  "jishoData": {
+    "query": "合",
+    "found": true,
+    "taughtIn": "lớp 2",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "41",
+    "strokeCount": 6,
+    "meaning": "phù hợp, phù hợp, tham gia, 0,1",
+    "kunyomi": [
+      "あ.う",
+      "-あ.う",
+      "あ.い",
+      "あい-",
+      "-あ.い",
+      "-あい",
+      "あ.わす",
+      "あ.わせる",
+      "-あ.わせる"
+    ],
+    "onyomi": [
+      "ゴウ",
+      "ガッ",
+      "カッ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "合",
+        "reading": "ゴウ",
+        "meaning": "gō, đơn vị thể tích truyền thống, xấp xỉ. 180 ml, gō, đơn vị diện tích truyền thống, khoảng 0,33 mét vuông, một phần mười khoảng cách từ chân núi đến đỉnh núi, kết hợp, tổng, tổng, tổng hợp (trong phép biện chứng), tiền đề nhỏ (trong hetuvidya), bộ đếm cho các thùng chứa có mái che, bộ đếm cho các trận đấu, trận chiến, v.v."
+      },
+      {
+        "example": "合意",
+        "reading": "ゴウイ",
+        "meaning": "(đi đến một) thỏa thuận, sự đồng ý, sự hiểu biết lẫn nhau, sự đồng ý, sự đồng thuận"
+      },
+      {
+        "example": "複合",
+        "reading": "フクゴウ",
+        "meaning": "tổng hợp, kết hợp, phức hợp"
+      },
+      {
+        "example": "整合",
+        "reading": "セイゴウ",
+        "meaning": "điều chỉnh, phối hợp, hội nhập, phù hợp"
+      },
+      {
+        "example": "合宿",
+        "reading": "ガッシュク",
+        "meaning": "ở chung, trại huấn luyện, nhà trọ"
+      },
+      {
+        "example": "合作",
+        "reading": "ガッサク",
+        "meaning": "sự hợp tác, công việc chung"
+      },
+      {
+        "example": "合戦",
+        "reading": "カッセン",
+        "meaning": "trận chiến, chiến đấu, chiến đấu, giao tranh, cuộc thi"
+      },
+      {
+        "example": "合羽",
+        "reading": "カッパ",
+        "meaning": "áo mưa"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "合う",
+        "reading": "あう",
+        "meaning": "đến với nhau, hợp nhất, đoàn kết, gặp gỡ, phù hợp, phù hợp, phù hợp, đồng ý với, đúng, có lợi nhuận, công bằng, làm ... với nhau, làm ... cùng nhau"
+      },
+      {
+        "example": "合うも不思議、合わぬも不思議",
+        "reading": "あうもふしぎ、あわぬもふしぎ",
+        "meaning": "giấc mơ và bói toán là chuyện may rủi"
+      },
+      {
+        "example": "合い",
+        "reading": "あい",
+        "meaning": "trang phục giữa mùa, trang phục mùa xuân và mùa thu, trang phục mùa xuân và mùa thu, cùng nhau, tình trạng, tình huống, trạng thái, -ish"
+      },
+      {
+        "example": "合言葉",
+        "reading": "あいことば",
+        "meaning": "mật khẩu, khẩu hiệu, khẩu hiệu, khẩu hiệu"
+      },
+      {
+        "example": "立会い",
+        "reading": "たちあい",
+        "meaning": "sự hiện diện (ví dụ: của một người quan sát), quan sát, người quan sát, nhân chứng, phiên giao dịch (tại một cuộc trao đổi), chuyển từ cúi mình sang buộc tội, buộc tội ban đầu, đối mặt"
+      },
+      {
+        "example": "地合い",
+        "reading": "じあい",
+        "meaning": "kết cấu (vải, vải, giấy), tông màu thị trường, tông màu, sự cân bằng giữa vị trí của đá trắng và đen"
+      },
+      {
+        "example": "合わす",
+        "reading": "あわす",
+        "meaning": "khớp (nhịp điệu, tốc độ, v.v.), nối với nhau, đoàn kết, kết hợp, cộng lại, đối mặt, đối lập (ai đó), so sánh, kiểm tra, gây ra sự gặp nhau (ví dụ: một số phận khó chịu), đặt cùng nhau, kết nối, chồng chéo, trộn, kết hợp, đặt lưỡi dao với lưỡi, chiến đấu"
+      },
+      {
+        "example": "合わせる",
+        "reading": "あわせる",
+        "meaning": "khớp (nhịp điệu, tốc độ, v.v.), nối với nhau, đoàn kết, kết hợp, cộng lại, đối mặt, đối lập (ai đó), so sánh, kiểm tra, gây ra sự gặp nhau (ví dụ: một số phận khó chịu), đặt cùng nhau, kết nối, chồng chéo, trộn, kết hợp, đặt lưỡi dao với lưỡi, chiến đấu"
+      },
+      {
+        "example": "合わせる顔がない",
+        "reading": "あわせるかおがない",
+        "meaning": "quá xấu hổ khi gặp"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "一",
+      "个",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21512_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05408.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5408.gif",
+    "uri": "https://jisho.org/search/%E5%90%88%23kanji"
+  }
+}

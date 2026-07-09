@@ -1,0 +1,44 @@
+{
+  "id": "衵",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "衵",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "quần áo hàng ngày, đồ lót",
+    "kunyomi": [
+      "あこめ"
+    ],
+    "onyomi": [
+      "ジツ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "衵",
+        "reading": "あこめ",
+        "meaning": "lớp quần áo được mặc bởi quý tộc (mặc bên dưới áo choàng nhưng bên ngoài áo lót)"
+      },
+      {
+        "example": "衵扇",
+        "reading": "あこめおうぎ",
+        "meaning": "quạt gấp trang trọng làm bằng cây bách hinoki (trước đây được sử dụng bởi các cung nữ)"
+      }
+    ],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "quần áo"
+    },
+    "parts": [
+      "初",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34933_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08875.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8875.gif",
+    "uri": "https://jisho.org/search/%E8%A1%B5%23kanji"
+  }
+}

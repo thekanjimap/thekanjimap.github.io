@@ -1,0 +1,76 @@
+{
+  "id": "帆",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "帆",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1923",
+    "strokeCount": 6,
+    "meaning": "cánh buồm",
+    "kunyomi": [
+      "ほ"
+    ],
+    "onyomi": [
+      "ハン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "帆船",
+        "reading": "ハンセン",
+        "meaning": "thuyền buồm, thuyền buồm, thuyền buồm"
+      },
+      {
+        "example": "帆走",
+        "reading": "ハンソウ",
+        "meaning": "chèo thuyền"
+      },
+      {
+        "example": "横帆",
+        "reading": "オウハン",
+        "meaning": "cánh buồm vuông"
+      },
+      {
+        "example": "光帆",
+        "reading": "コウハン",
+        "meaning": "cánh buồm nhẹ, cánh buồm mặt trời"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "帆",
+        "reading": "ほ",
+        "meaning": "cánh buồm"
+      },
+      {
+        "example": "帆船",
+        "reading": "はんせん",
+        "meaning": "thuyền buồm, thuyền buồm, thuyền buồm"
+      },
+      {
+        "example": "太陽帆",
+        "reading": "たいようほ",
+        "meaning": "cánh buồm mặt trời"
+      },
+      {
+        "example": "三角帆",
+        "reading": "さんかくほ",
+        "meaning": "buồm buồm"
+      }
+    ],
+    "radical": {
+      "symbol": "巾",
+      "meaning": "khăn xếp, khăn quàng cổ"
+    },
+    "parts": [
+      "丶",
+      "几",
+      "巾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24070_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e06.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e06.gif",
+    "uri": "https://jisho.org/search/%E5%B8%86%23kanji"
+  }
+}

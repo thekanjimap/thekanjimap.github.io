@@ -1,0 +1,56 @@
+{
+  "id": "苺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "苺",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "dâu tây",
+    "kunyomi": [
+      "いちご"
+    ],
+    "onyomi": [
+      "バイ",
+      "マイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "苺",
+        "reading": "いちご",
+        "meaning": "dâu tây (đặc biệt là dâu tây trong vườn, Fragaria x ananassa), 15.000 yên"
+      },
+      {
+        "example": "いちご飴",
+        "reading": "いちごあめ",
+        "meaning": "dâu tây bọc kẹo trên que"
+      },
+      {
+        "example": "幌向苺",
+        "reading": "ほろむいいちご",
+        "meaning": "mâm xôi (Rubus chamaemorus)"
+      },
+      {
+        "example": "木苺",
+        "reading": "きいちご",
+        "meaning": "quả mâm xôi (bất kỳ loại cây nào thuộc chi Rubus, đặc biệt là Rubus palmatus var. coptophyllus)"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "毋",
+      "母",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33530_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082fa.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82fa.gif",
+    "uri": "https://jisho.org/search/%E8%8B%BA%23kanji"
+  }
+}

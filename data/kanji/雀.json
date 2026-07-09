@@ -1,0 +1,97 @@
+{
+  "id": "雀",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "雀",
+    "found": true,
+    "newspaperFrequencyRank": "1856",
+    "strokeCount": 11,
+    "meaning": "chim sẻ",
+    "kunyomi": [
+      "すずめ"
+    ],
+    "onyomi": [
+      "ジャク",
+      "ジャン",
+      "サク",
+      "シャク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "雀躍",
+        "reading": "ジャクヤク",
+        "meaning": "nhảy cẫng lên vì sung sướng, hân hoan"
+      },
+      {
+        "example": "雀羅",
+        "reading": "ジャクラ",
+        "meaning": "lưới chim sẻ"
+      },
+      {
+        "example": "黄雀",
+        "reading": "コウジャク",
+        "meaning": "chim sẻ cây (Passer montanus)"
+      },
+      {
+        "example": "インド孔雀",
+        "reading": "インドクジャク",
+        "meaning": "Công Ấn Độ (Pavo cristatus), công thông thường, công xanh"
+      },
+      {
+        "example": "雀鬼",
+        "reading": "ジャンキ",
+        "meaning": "người chơi mạt chược điêu luyện"
+      },
+      {
+        "example": "雀球",
+        "reading": "ジャンキュウ",
+        "meaning": "jankyū, sự kết hợp giữa pinball và mạt chược của Nhật Bản"
+      },
+      {
+        "example": "脱衣麻雀",
+        "reading": "ダツイマージャン",
+        "meaning": "dải mạt chược"
+      },
+      {
+        "example": "賭け麻雀",
+        "reading": "カケマージャン",
+        "meaning": "đánh bạc mạt chược, chơi mạt chược ăn tiền"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "雀",
+        "reading": "すずめ",
+        "meaning": "chim sẻ cây (Passer montanus), người nói nhiều, người hiểu biết"
+      },
+      {
+        "example": "雀色",
+        "reading": "すずめいろ",
+        "meaning": "nâu đỏ nhạt"
+      },
+      {
+        "example": "入内雀",
+        "reading": "にゅうないすずめ",
+        "meaning": "chim sẻ nâu đỏ (Passer rutilans), chim sẻ quế"
+      },
+      {
+        "example": "京雀",
+        "reading": "きょうすずめ",
+        "meaning": "người Kyoto ngồi lê đôi mách"
+      }
+    ],
+    "radical": {
+      "symbol": "隹",
+      "meaning": "con chim nhỏ"
+    },
+    "parts": [
+      "ノ",
+      "小",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38592_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/096c0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/96c0.gif",
+    "uri": "https://jisho.org/search/%E9%9B%80%23kanji"
+  }
+}

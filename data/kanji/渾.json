@@ -1,0 +1,63 @@
+{
+  "id": "渾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "渾",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "tất cả, độ đục",
+    "kunyomi": [
+      "すべ.て",
+      "にご.る"
+    ],
+    "onyomi": [
+      "コン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "あだ名",
+        "reading": "アダナ",
+        "meaning": "biệt hiệu"
+      },
+      {
+        "example": "混沌",
+        "reading": "コントン",
+        "meaning": "hỗn loạn, hỗn loạn, hỗn loạn, hỗn loạn, hỗn loạn, không chắc chắn, lộn xộn"
+      },
+      {
+        "example": "雄渾",
+        "reading": "ユウコン",
+        "meaning": "tráng lệ, cao siêu, mạnh mẽ, táo bạo"
+      },
+      {
+        "example": "滾々",
+        "reading": "コンコン",
+        "meaning": "(chảy) dồi dào"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "全て",
+        "reading": "すべて",
+        "meaning": "tất cả, tất cả, toàn bộ, hoàn toàn, hoàn toàn, toàn bộ, tất cả"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "冖",
+      "汁",
+      "車"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28222_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e3e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e3e.gif",
+    "uri": "https://jisho.org/search/%E6%B8%BE%23kanji"
+  }
+}

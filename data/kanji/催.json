@@ -1,0 +1,65 @@
+{
+  "id": "催",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "催",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "536",
+    "strokeCount": 13,
+    "meaning": "tài trợ, tổ chức (một cuộc họp), tặng (một bữa tối)",
+    "kunyomi": [
+      "もよう.す",
+      "もよお.す"
+    ],
+    "onyomi": [
+      "サイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "催涙",
+        "reading": "サイルイ",
+        "meaning": "làm rơi nước mắt"
+      },
+      {
+        "example": "催促",
+        "reading": "サイソク",
+        "meaning": "bức xúc, thúc giục, đòi hỏi, đòi hỏi"
+      },
+      {
+        "example": "共催",
+        "reading": "キョウサイ",
+        "meaning": "đồng tài trợ (của một sự kiện), đồng tài trợ, đồng tổ chức"
+      },
+      {
+        "example": "併催",
+        "reading": "ヘイサイ",
+        "meaning": "kết hợp một cặp sự kiện, liên kết"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "催す",
+        "reading": "もよおす",
+        "meaning": "tổ chức (một sự kiện), tổ chức (một bữa tối, bữa tiệc, v.v.), cảm nhận (cảm giác, cảm xúc, tiếng gọi của thiên nhiên, v.v.), thể hiện dấu hiệu của"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "đàn ông, con người"
+    },
+    "parts": [
+      "化",
+      "山",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20652_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050ac.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50ac.gif",
+    "uri": "https://jisho.org/search/%E5%82%AC%23kanji"
+  }
+}

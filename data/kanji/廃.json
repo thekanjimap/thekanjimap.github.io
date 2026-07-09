@@ -1,0 +1,68 @@
+{
+  "id": "廃",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "廃",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "698",
+    "strokeCount": 12,
+    "meaning": "bãi bỏ, lỗi thời, chấm dứt, loại bỏ, từ bỏ",
+    "kunyomi": [
+      "すた.れる",
+      "すた.る"
+    ],
+    "onyomi": [
+      "ハイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "廃棄",
+        "reading": "ハイキ",
+        "meaning": "sự hủy bỏ,sự từ bỏ,sự hủy bỏ,sự hủy bỏ,sự hủy bỏ,sự hủy bỏ,sự bãi bỏ"
+      },
+      {
+        "example": "廃案",
+        "reading": "ハイアン",
+        "meaning": "hóa đơn bị từ chối (dự án)"
+      },
+      {
+        "example": "退廃",
+        "reading": "タイハイ",
+        "meaning": "(đạo đức) suy thoái, (xã hội) suy thoái, suy đồi, tham nhũng, thoái hóa, suy thoái, suy thoái (trong thịnh vượng)"
+      },
+      {
+        "example": "改廃",
+        "reading": "カイハイ",
+        "meaning": "cải cách và (hoặc) bãi bỏ, thay đổi hoặc bãi bỏ, sửa đổi, tổ chức lại, tổ chức lại"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "廃れる",
+        "reading": "すたれる",
+        "meaning": "hết giá trị sử dụng, trở nên lỗi thời, lỗi thời, lỗi thời, lỗi thời, suy thoái (ví dụ: đạo đức), bị mất, đi vào suy thoái (của một thị trấn, cơ sở kinh doanh, v.v.)"
+      },
+      {
+        "example": "廃る",
+        "reading": "すたる",
+        "meaning": "hết giá trị sử dụng, trở nên lỗi thời, lỗi thời, lỗi thời, lỗi thời, bị tổn thương (danh dự, danh tiếng, v.v.), bị tổn hại, bị hoen ố"
+      }
+    ],
+    "radical": {
+      "symbol": "广",
+      "meaning": "ngôi nhà trên vách đá"
+    },
+    "parts": [
+      "一",
+      "儿",
+      "广",
+      "癶"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24259_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ec3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ec3.gif",
+    "uri": "https://jisho.org/search/%E5%BB%83%23kanji"
+  }
+}

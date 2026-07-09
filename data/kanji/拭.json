@@ -1,0 +1,75 @@
+{
+  "id": "拭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "拭",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "newspaperFrequencyRank": "2421",
+    "strokeCount": 9,
+    "meaning": "lau, lau, lau",
+    "kunyomi": [
+      "ぬぐ.う",
+      "ふ.く"
+    ],
+    "onyomi": [
+      "ショク",
+      "シキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "拭浄",
+        "reading": "ショクジョウ",
+        "meaning": "lau và làm sạch, lau và làm sạch"
+      },
+      {
+        "example": "払拭",
+        "reading": "フッショク",
+        "meaning": "quét sạch, quét sạch, quét sạch, xua tan"
+      },
+      {
+        "example": "清拭",
+        "reading": "セイシキ",
+        "meaning": "tắm trên giường, tắm bọt biển, tắm chăn, nhà vệ sinh"
+      },
+      {
+        "example": "払拭",
+        "reading": "フッショク",
+        "meaning": "quét sạch, quét sạch, quét sạch, xua tan"
+      },
+      {
+        "example": "清拭",
+        "reading": "セイシキ",
+        "meaning": "tắm trên giường, tắm bọt biển, tắm chăn, nhà vệ sinh"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "拭う",
+        "reading": "ぬぐう",
+        "meaning": "lau, lau chùi, loại bỏ (ấn tượng, cảm giác, khuyết điểm, v.v.), xua tan (ví dụ: xấu hổ), xóa, loại bỏ"
+      },
+      {
+        "example": "拭く",
+        "reading": "ふく",
+        "meaning": "để lau, để khô"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "工",
+      "弋",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25325_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/062ed.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/62ed.gif",
+    "uri": "https://jisho.org/search/%E6%8B%AD%23kanji"
+  }
+}

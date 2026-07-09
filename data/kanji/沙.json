@@ -1,0 +1,97 @@
+{
+  "id": "沙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "沙",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1897",
+    "strokeCount": 7,
+    "meaning": "cát",
+    "kunyomi": [
+      "すな",
+      "よなげる"
+    ],
+    "onyomi": [
+      "サ",
+      "シャ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "沙",
+        "reading": "シャ",
+        "meaning": "một phần trăm triệu"
+      },
+      {
+        "example": "砂漠",
+        "reading": "サバク",
+        "meaning": "sa mạc"
+      },
+      {
+        "example": "流砂",
+        "reading": "リュウサ",
+        "meaning": "cát lún"
+      },
+      {
+        "example": "秋沙",
+        "reading": "アイサ",
+        "meaning": "người sáp nhập (bất kỳ con vịt nào thuộc chi Mergus)"
+      },
+      {
+        "example": "沙",
+        "reading": "シャ",
+        "meaning": "một phần trăm triệu"
+      },
+      {
+        "example": "砂丘",
+        "reading": "サキュウ",
+        "meaning": "cồn cát, đồi cát"
+      },
+      {
+        "example": "流砂",
+        "reading": "リュウサ",
+        "meaning": "cát lún"
+      },
+      {
+        "example": "泥砂",
+        "reading": "デイサ",
+        "meaning": "bùn và cát"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "砂",
+        "reading": "すな",
+        "meaning": "cát, sạn"
+      },
+      {
+        "example": "砂子",
+        "reading": "すなご",
+        "meaning": "bụi vàng, bụi bạc, cát, sạn"
+      },
+      {
+        "example": "白砂",
+        "reading": "はくしゃ",
+        "meaning": "cát trắng"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "ノ",
+      "小",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27801_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06c99.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6c99.gif",
+    "uri": "https://jisho.org/search/%E6%B2%99%23kanji"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "馳",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "馳",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "chạy, phi nước đại, chèo thuyền, lái (một toa xe), giành chiến thắng (danh tiếng), gửi đi",
+    "kunyomi": [
+      "は.せる"
+    ],
+    "onyomi": [
+      "チ",
+      "ジ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "馳駆",
+        "reading": "チク",
+        "meaning": "phi nước đại trên ngựa, chạy vòng quanh, cố gắng hết sức (để làm), gắng sức"
+      },
+      {
+        "example": "馳走",
+        "reading": "チソウ",
+        "meaning": "chiêu đãi ai đó (đồ ăn hoặc đồ uống), bữa tối, đồ ăn ngon, chạy nhảy"
+      },
+      {
+        "example": "背馳",
+        "reading": "ハイチ",
+        "meaning": "sự không nhất quán, sự mâu thuẫn, sự không vâng lời"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "馳せる",
+        "reading": "はせる",
+        "meaning": "chạy, vội vã (khi đi đâu đó), lái (ô tô) nhanh chóng, cưỡi nhanh (trên ngựa), giành chiến thắng (danh tiếng)"
+      }
+    ],
+    "radical": {
+      "symbol": "馬",
+      "meaning": "con ngựa"
+    },
+    "parts": [
+      "也",
+      "杰",
+      "馬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39347_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/099b3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/99b3.gif",
+    "uri": "https://jisho.org/search/%E9%A6%B3%23kanji"
+  }
+}

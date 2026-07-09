@@ -1,0 +1,82 @@
+{
+  "id": "妄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "妄",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2264",
+    "strokeCount": 6,
+    "meaning": "ảo tưởng, không cần thiết, không có thẩm quyền, liều lĩnh",
+    "kunyomi": [
+      "みだ.りに"
+    ],
+    "onyomi": [
+      "モウ",
+      "ボウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "妄想",
+        "reading": "モウソウ",
+        "meaning": "ảo tưởng, ý tưởng hoang đường, tưởng tượng (hoang dã), tưởng tượng (lố bịch)"
+      },
+      {
+        "example": "盲信",
+        "reading": "モウシン",
+        "meaning": "sự chấp nhận mù quáng, niềm tin mù quáng, cả tin"
+      },
+      {
+        "example": "迷妄",
+        "reading": "メイモウ",
+        "meaning": "ảo tưởng, sự ngụy biện, sự ảo tưởng"
+      },
+      {
+        "example": "謬妄",
+        "reading": "ビュウモウ",
+        "meaning": "sự ngụy biện, sự phỏng đoán, điều vô căn cứ, điều ngẫu nhiên"
+      },
+      {
+        "example": "妄想",
+        "reading": "モウソウ",
+        "meaning": "ảo tưởng, ý tưởng hoang đường, tưởng tượng (hoang dã), tưởng tượng (lố bịch)"
+      },
+      {
+        "example": "盲信",
+        "reading": "モウシン",
+        "meaning": "sự chấp nhận mù quáng, niềm tin mù quáng, cả tin"
+      },
+      {
+        "example": "狂妄",
+        "reading": "キョウボウ",
+        "meaning": "lập dị, hoang dã, khác thường, điên rồ"
+      },
+      {
+        "example": "誣謗",
+        "reading": "フボウ",
+        "meaning": "vu khống"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "妄りに",
+        "reading": "みだりに",
+        "meaning": "không có thẩm quyền, không có lý do, một cách không cần thiết, liều lĩnh, bừa bãi, tùy tiện"
+      }
+    ],
+    "radical": {
+      "symbol": "女",
+      "meaning": "phụ nữ, nữ"
+    },
+    "parts": [
+      "亠",
+      "亡",
+      "女"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22916_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05984.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5984.gif",
+    "uri": "https://jisho.org/search/%E5%A6%84%23kanji"
+  }
+}

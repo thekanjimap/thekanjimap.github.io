@@ -1,0 +1,64 @@
+{
+  "id": "涎",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "涎",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "nước bọt, nước dãi",
+    "kunyomi": [
+      "よだれ"
+    ],
+    "onyomi": [
+      "セン",
+      "エン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "垂涎",
+        "reading": "スイゼン",
+        "meaning": "khao khát, khao khát, khát khao, ghen tị, chảy nước miếng, chảy nước dãi"
+      },
+      {
+        "example": "垂涎",
+        "reading": "スイゼン",
+        "meaning": "khao khát, khao khát, khát khao, ghen tị, chảy nước miếng, chảy nước dãi"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "涎",
+        "reading": "よだれ",
+        "meaning": "chảy dãi"
+      },
+      {
+        "example": "涎掛け",
+        "reading": "よだれかけ",
+        "meaning": "yếm, yếm dãi"
+      },
+      {
+        "example": "商いは牛のよだれ",
+        "reading": "あきないはうしのよだれ",
+        "meaning": "người ta không nên vội vàng kiếm lợi nhuận, công việc kinh doanh (hoạt động tốt nhất khi doanh số bán hàng trôi chảy như) nước dãi bò (tức là dài và loãng)"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "ノ",
+      "廴",
+      "止",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28046_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d8e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d8e.gif",
+    "uri": "https://jisho.org/search/%E6%B6%8E%23kanji"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "嵌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嵌",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "đi vào, lao vào, khảm",
+    "kunyomi": [
+      "は.める",
+      "は.まる",
+      "あな"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "嵌合",
+        "reading": "ハメアイ",
+        "meaning": "khớp với nhau (ví dụ như đai ốc và bu lông), khớp"
+      },
+      {
+        "example": "嵌張",
+        "reading": "カンチャン",
+        "meaning": "đợi gạch ở giữa của một con chow"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "嵌める",
+        "reading": "はめる",
+        "meaning": "lắp (ví dụ: một khung vào khung), chèn (ví dụ: nút chai), buộc chặt (một nút), đeo vào (thứ gì đó bao bọc, ví dụ: một chiếc nhẫn, găng tay), đặt (vòng) xung quanh, gắn (ví dụ: một cái ống vào một cái vòi), vào chuồng (vào một danh mục cụ thể), buộc (vào một cái khuôn), đặt (hạn chế) vào, bẫy, đưa (ai đó) vào, đặt (ai đó) lên, lừa dối, ném vào, quan hệ tình dục, làm tình"
+      },
+      {
+        "example": "嵌まる",
+        "reading": "はまる",
+        "meaning": "phù hợp, đi vào, đi vào, được trang bị (ví dụ: cửa có cửa sổ), phù hợp với (một công việc, v.v.), phù hợp với, thỏa mãn (điều kiện), rơi vào, lao vào, bị mắc kẹt, bị bắt, bị lừa, bị mắc vào, rơi vào bẫy, nghiện, đi sâu vào, trở nên điên cuồng, bị mắc kẹt"
+      }
+    ],
+    "radical": {
+      "symbol": "山",
+      "meaning": "núi"
+    },
+    "parts": [
+      "山",
+      "欠",
+      "甘"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23884_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05d4c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5d4c.gif",
+    "uri": "https://jisho.org/search/%E5%B5%8C%23kanji"
+  }
+}

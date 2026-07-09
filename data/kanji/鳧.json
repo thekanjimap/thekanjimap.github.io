@@ -1,0 +1,49 @@
+{
+  "id": "鳧",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鳧",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "vịt trời, kết thúc, hậu tố",
+    "kunyomi": [
+      "けり",
+      "かも"
+    ],
+    "onyomi": [
+      "フ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鳧鐘",
+        "reading": "フショウ",
+        "meaning": "chuông chùa, (ở Nhật Bản) nốt thứ 7 của âm giai cổ (khoảng G thăng)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鳧",
+        "reading": "けり",
+        "meaning": "loài lapwing đầu xám (Microsarcops cinereus), loài lapwing đầu xám"
+      },
+      {
+        "example": "鴨",
+        "reading": "かも",
+        "meaning": "vịt, dễ đánh dấu, mút, vịt ngồi"
+      }
+    ],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "chim"
+    },
+    "parts": [
+      "几",
+      "杰",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40167_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ce7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ce7.gif",
+    "uri": "https://jisho.org/search/%E9%B3%A7%23kanji"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "溟",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "溟",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "bóng tối, đại dương",
+    "kunyomi": [
+      "うみ",
+      "くら.い"
+    ],
+    "onyomi": [
+      "メイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "滄溟",
+        "reading": "ソウメイ",
+        "meaning": "biển xanh tuyệt vời, đại dương"
+      },
+      {
+        "example": "南溟",
+        "reading": "ナンメイ",
+        "meaning": "đại dương phía nam"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "ハ",
+      "亠",
+      "冖",
+      "日",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28319_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e9f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e9f.gif",
+    "uri": "https://jisho.org/search/%E6%BA%9F%23kanji"
+  }
+}

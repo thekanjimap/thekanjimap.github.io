@@ -1,0 +1,76 @@
+{
+  "id": "襲",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "襲",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1130",
+    "strokeCount": 22,
+    "meaning": "tấn công,tiến lên,thành công,đống,đống",
+    "kunyomi": [
+      "おそ.う",
+      "かさ.ね"
+    ],
+    "onyomi": [
+      "シュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "襲名",
+        "reading": "シュウメイ",
+        "meaning": "kế thừa tên nghề nghiệp của người khác"
+      },
+      {
+        "example": "襲撃",
+        "reading": "シュウゲキ",
+        "meaning": "(ngạc nhiên) tấn công, tấn công, đột kích, tấn công"
+      },
+      {
+        "example": "奇襲",
+        "reading": "キシュウ",
+        "meaning": "tấn công bất ngờ"
+      },
+      {
+        "example": "強襲",
+        "reading": "キョウシュウ",
+        "meaning": "sự tấn công, sự tấn công bạo lực"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "襲う",
+        "reading": "おそう",
+        "meaning": "tấn công, tấn công, tấn công, tấn công, săn lùng, thành công (ai đó ở một vị trí, vai trò, v.v.), đến thăm bất ngờ"
+      },
+      {
+        "example": "重ね",
+        "reading": "かさね",
+        "meaning": "đống, đống, lớp (ví dụ: quần áo), bộ (ví dụ: hộp), khóa học (ví dụ: đá), quầy cho những thứ được xếp chồng lên nhau, xếp chồng lên nhau (hoặc xếp lớp, v.v.), các lớp quần áo mặc dưới áo khoác ngoài, sự kết hợp màu sắc được tạo ra bằng cách xếp lớp quần áo (màu sắc)"
+      },
+      {
+        "example": "かさねの色目",
+        "reading": "かさねのいろめ",
+        "meaning": "sự kết hợp màu sắc được tạo ra bằng cách xếp lớp quần áo (màu sắc)"
+      }
+    ],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "quần áo"
+    },
+    "parts": [
+      "亠",
+      "月",
+      "立",
+      "衣"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35186_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08972.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8972.gif",
+    "uri": "https://jisho.org/search/%E8%A5%B2%23kanji"
+  }
+}

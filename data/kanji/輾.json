@@ -1,0 +1,57 @@
+{
+  "id": "輾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "輾",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "rít lên",
+    "kunyomi": [
+      "きし.る",
+      "めぐ.る"
+    ],
+    "onyomi": [
+      "テン",
+      "ネン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "輾転",
+        "reading": "テンテン",
+        "meaning": "lăn lộn, trằn trọc (trên giường), rên rỉ, rên rỉ"
+      },
+      {
+        "example": "輾転反側",
+        "reading": "テンテンハンソク",
+        "meaning": "trằn trọc trên giường, trằn trọc trên giường lo lắng về điều gì đó"
+      },
+      {
+        "example": "輾転",
+        "reading": "テンテン",
+        "meaning": "lăn lộn, trằn trọc (trên giường), rên rỉ, rên rỉ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "軋る",
+        "reading": "きしる",
+        "meaning": "kêu cót két, kêu cót két, mài, xay, cọ xát"
+      }
+    ],
+    "radical": {
+      "symbol": "車",
+      "meaning": "xe đẩy, xe hơi"
+    },
+    "parts": [
+      "二",
+      "尸",
+      "衣",
+      "車",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36670_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08f3e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8f3e.gif",
+    "uri": "https://jisho.org/search/%E8%BC%BE%23kanji"
+  }
+}

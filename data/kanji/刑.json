@@ -1,0 +1,58 @@
+{
+  "id": "刑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "刑",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "864",
+    "strokeCount": 6,
+    "meaning": "trừng phạt, hình phạt, hình phạt, hình phạt",
+    "kunyomi": [],
+    "onyomi": [
+      "ケイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "刑",
+        "reading": "ケイ",
+        "meaning": "hình phạt, hình phạt, hình phạt"
+      },
+      {
+        "example": "刑事",
+        "reading": "ケイジ",
+        "meaning": "(cảnh sát) thám tử, điều tra tội phạm"
+      },
+      {
+        "example": "量刑",
+        "reading": "リョウケイ",
+        "meaning": "bản án của thẩm phán, đánh giá vụ án"
+      },
+      {
+        "example": "求刑",
+        "reading": "キュウケイ",
+        "meaning": "đề nghị mức án, yêu cầu cơ quan công tố xử phạt"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "刀",
+      "forms": [
+        "刂"
+      ],
+      "meaning": "dao, kiếm"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "二",
+      "刈",
+      "廾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21009_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05211.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5211.gif",
+    "uri": "https://jisho.org/search/%E5%88%91%23kanji"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "微",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "微",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1108",
+    "strokeCount": 13,
+    "meaning": "sự tinh tế, sự nhỏ nhặt, sự không đáng kể",
+    "kunyomi": [
+      "かす.か"
+    ],
+    "onyomi": [
+      "ビ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "微",
+        "reading": "ビ",
+        "meaning": "độ nhỏ, một phần triệu"
+      },
+      {
+        "example": "微細",
+        "reading": "ビサイ",
+        "meaning": "phút, tốt, chi tiết, tinh tế"
+      },
+      {
+        "example": "細微",
+        "reading": "サイビ",
+        "meaning": "phút, ít ỏi, ít ỏi, tầm thường"
+      },
+      {
+        "example": "翠微",
+        "reading": "スイビ",
+        "meaning": "khoảng 80% đường lên sườn núi, nhìn ra ngọn núi xanh nhạt, ngọn núi trông xanh từ xa"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "微か",
+        "reading": "かすか",
+        "meaning": "mờ nhạt, lờ mờ, yếu ớt, yếu ớt, mơ hồ, không rõ ràng, lờ mờ, nghèo nàn, khốn khổ, ít ỏi, sơ sài, ít ỏi"
+      }
+    ],
+    "radical": {
+      "symbol": "彳",
+      "meaning": "bước"
+    },
+    "parts": [
+      "乞",
+      "山",
+      "彳",
+      "攵"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24494_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05fae.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5fae.gif",
+    "uri": "https://jisho.org/search/%E5%BE%AE%23kanji"
+  }
+}

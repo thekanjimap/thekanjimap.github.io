@@ -1,0 +1,58 @@
+{
+  "id": "刈",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "刈",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1738",
+    "strokeCount": 4,
+    "meaning": "gặt, cắt, tỉa, tỉa, tỉa",
+    "kunyomi": [
+      "か.る"
+    ],
+    "onyomi": [
+      "ガイ",
+      "カイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "刈除",
+        "reading": "ガイジョ",
+        "meaning": "loại bỏ, cắt bỏ, cắt cỏ"
+      },
+      {
+        "example": "刈除",
+        "reading": "ガイジョ",
+        "meaning": "loại bỏ, cắt bỏ, cắt cỏ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "刈る",
+        "reading": "かる",
+        "meaning": "cắt (cỏ, tóc, v.v.), cắt, cắt, tỉa, tỉa, cắt, gặt, thu hoạch"
+      },
+      {
+        "example": "刈萱",
+        "reading": "かるかや",
+        "meaning": "Chủ đề triandra var. japonica (nhiều loại cỏ kangaroo), Cymbopogon tortilis var. goeringii (các loại cỏ có họ hàng gần với sả), cỏ tranh, cỏ cói"
+      }
+    ],
+    "radical": {
+      "symbol": "刀",
+      "forms": [
+        "刂"
+      ],
+      "meaning": "dao, kiếm"
+    },
+    "parts": [
+      "刈"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21000_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05208.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5208.gif",
+    "uri": "https://jisho.org/search/%E5%88%88%23kanji"
+  }
+}

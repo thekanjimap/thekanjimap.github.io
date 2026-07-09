@@ -1,0 +1,45 @@
+{
+  "id": "點",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "點",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "điểm, dấu, đốm, pt thập phân",
+    "kunyomi": [
+      "つ.ける",
+      "つ.く",
+      "た.てる",
+      "さ.す",
+      "とぼ.す",
+      "とも.す",
+      "ぼち"
+    ],
+    "onyomi": [
+      "テン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "点穴",
+        "reading": "テンケツ",
+        "meaning": "điểm áp lực (ví dụ: để áp dụng moxa), khoang cơ thể dễ bị tổn thương"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "黑",
+      "meaning": "màu đen"
+    },
+    "parts": [
+      "卜",
+      "口",
+      "杰",
+      "里",
+      "黒"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40670_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ede.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ede.gif",
+    "uri": "https://jisho.org/search/%E9%BB%9E%23kanji"
+  }
+}

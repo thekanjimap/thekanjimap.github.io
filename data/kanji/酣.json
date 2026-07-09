@@ -1,0 +1,52 @@
+{
+  "id": "酣",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "酣",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "chiều cao, độ dày, xoay hoàn toàn",
+    "kunyomi": [
+      "たけなわ"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "酣戦",
+        "reading": "カンセン",
+        "meaning": "đỉnh cao của trận chiến"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "酣",
+        "reading": "たけなわ",
+        "meaning": "chiều cao (của mùa hè, bữa tiệc, v.v.), (trong) sự sôi nổi"
+      },
+      {
+        "example": "宴もたけなわ",
+        "reading": "えんもたけなわ",
+        "meaning": "bữa tiệc sôi động, bữa tiệc đỉnh cao"
+      },
+      {
+        "example": "春たけなわ",
+        "reading": "はるたけなわ",
+        "meaning": "mùa xuân đang tràn về, độ cao của mùa xuân (đặc biệt là vào tháng 4), đỉnh cao của mùa xuân"
+      }
+    ],
+    "radical": {
+      "symbol": "酉",
+      "meaning": "rượu vang, rượu"
+    },
+    "parts": [
+      "甘",
+      "酉"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37219_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09163.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9163.gif",
+    "uri": "https://jisho.org/search/%E9%85%A3%23kanji"
+  }
+}

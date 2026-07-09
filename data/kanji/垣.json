@@ -1,0 +1,66 @@
+{
+  "id": "垣",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "垣",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1539",
+    "strokeCount": 9,
+    "meaning": "hàng rào, hàng rào, bức tường",
+    "kunyomi": [
+      "かき"
+    ],
+    "onyomi": [
+      "エン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "垣牆",
+        "reading": "エンショウ",
+        "meaning": "hàng rào, hàng rào"
+      },
+      {
+        "example": "紫微垣",
+        "reading": "シビエン",
+        "meaning": "Bao vây cấm màu tím (nhóm các chòm sao trên bầu trời phía bắc gắn liền với hoàng đế)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "垣",
+        "reading": "かき",
+        "meaning": "hàng rào, hàng rào, lan can, rào chắn, Tường"
+      },
+      {
+        "example": "垣根",
+        "reading": "かきね",
+        "meaning": "hàng rào, hàng rào, biên giới, giới hạn"
+      },
+      {
+        "example": "斎垣",
+        "reading": "いがき",
+        "meaning": "hàng rào xung quanh một ngôi đền (hoặc khu vực linh thiêng khác)"
+      },
+      {
+        "example": "築垣",
+        "reading": "ついがき",
+        "meaning": "bức tường bùn có mái"
+      }
+    ],
+    "radical": {
+      "symbol": "土",
+      "meaning": "trái đất"
+    },
+    "parts": [
+      "一",
+      "土",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22435_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/057a3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/57a3.gif",
+    "uri": "https://jisho.org/search/%E5%9E%A3%23kanji"
+  }
+}

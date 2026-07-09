@@ -1,0 +1,85 @@
+{
+  "id": "劫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "劫",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "mối đe dọa, tuổi già",
+    "kunyomi": [
+      "おびや.かす"
+    ],
+    "onyomi": [
+      "コウ",
+      "ゴウ",
+      "キョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "劫",
+        "reading": "コウ",
+        "meaning": "kalpa (eon, aeon), ko, vị trí cho phép chiếm giữ vĩnh viễn và chiếm lại những viên đá giống nhau"
+      },
+      {
+        "example": "劫火",
+        "reading": "ゴウカ",
+        "meaning": "trận hỏa hoạn hủy diệt thế giới"
+      },
+      {
+        "example": "大劫",
+        "reading": "ダイコウ",
+        "meaning": "Mahakalpa, đại kiếp"
+      },
+      {
+        "example": "空劫",
+        "reading": "クウコウ",
+        "meaning": "kalpa của hư vô (aeon cuối cùng của vũ trụ)"
+      },
+      {
+        "example": "劫",
+        "reading": "コウ",
+        "meaning": "kalpa (eon, aeon), ko, vị trí cho phép chiếm giữ vĩnh viễn và chiếm lại những viên đá giống nhau"
+      },
+      {
+        "example": "劫火",
+        "reading": "ゴウカ",
+        "meaning": "trận hỏa hoạn hủy diệt thế giới"
+      },
+      {
+        "example": "永劫",
+        "reading": "エイゴウ",
+        "meaning": "sự vĩnh cửu, sự vĩnh viễn"
+      },
+      {
+        "example": "未来永劫",
+        "reading": "ミライエイゴウ",
+        "meaning": "mãi mãi, mãi mãi"
+      },
+      {
+        "example": "劫掠",
+        "reading": "キョウリャク",
+        "meaning": "cướp bóc, cướp bóc"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "脅かす",
+        "reading": "おびやかす",
+        "meaning": "hăm dọa, làm hoảng sợ, đe dọa, đe dọa (ví dụ: hòa bình), gây nguy hiểm, gây nguy hiểm, gây nguy hiểm"
+      }
+    ],
+    "radical": {
+      "symbol": "力",
+      "meaning": "quyền lực, lực lượng"
+    },
+    "parts": [
+      "力",
+      "厶",
+      "土"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21163_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052ab.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52ab.gif",
+    "uri": "https://jisho.org/search/%E5%8A%AB%23kanji"
+  }
+}

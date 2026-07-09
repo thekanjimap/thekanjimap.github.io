@@ -1,0 +1,73 @@
+{
+  "id": "巧",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "巧",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1537",
+    "strokeCount": 5,
+    "meaning": "khéo léo, khéo léo, khéo léo",
+    "kunyomi": [
+      "たく.み",
+      "たく.む",
+      "うま.い"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "巧",
+        "reading": "コウ",
+        "meaning": "sự khéo léo, sự khéo léo, sự khéo léo"
+      },
+      {
+        "example": "巧妙",
+        "reading": "コウミョウ",
+        "meaning": "khéo léo, khéo léo, khéo léo, khéo léo"
+      },
+      {
+        "example": "不精巧",
+        "reading": "フセイコウ",
+        "meaning": "vụng về, vụng về"
+      },
+      {
+        "example": "大巧",
+        "reading": "タイコウ",
+        "meaning": "tài năng tuyệt vời"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "巧み",
+        "reading": "たくみ",
+        "meaning": "khéo léo, khéo léo, khéo léo, thành thạo, tài giỏi, khéo léo, xảo quyệt, thủ công, nghề thủ công, kỹ năng, khéo léo, Thiết kế, âm mưu, kế hoạch, giả tạo, lừa"
+      },
+      {
+        "example": "巧む",
+        "reading": "たくむ",
+        "meaning": "nghĩ ra, lên kế hoạch, lên kế hoạch"
+      },
+      {
+        "example": "上手い",
+        "reading": "うまい",
+        "meaning": "khéo léo, khéo léo, có tay nghề, tốt, chuyên gia, thông minh (biểu hiện, thủ thuật, v.v.), apt, thích hợp, ngon, ngon, tốt, đẹp, tốt (thỏa thuận, ý tưởng, v.v.), có lợi nhuận, đầy hứa hẹn, may mắn, may mắn, thành công, thỏa đáng, lộng lẫy"
+      }
+    ],
+    "radical": {
+      "symbol": "工",
+      "meaning": "làm việc"
+    },
+    "parts": [
+      "一",
+      "勹",
+      "工"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24039_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05de7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5de7.gif",
+    "uri": "https://jisho.org/search/%E5%B7%A7%23kanji"
+  }
+}

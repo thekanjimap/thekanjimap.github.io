@@ -1,0 +1,45 @@
+{
+  "id": "劾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "劾",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2085",
+    "strokeCount": 8,
+    "meaning": "khiển trách, điều tra tội phạm",
+    "kunyomi": [],
+    "onyomi": [
+      "ガイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "劾奏",
+        "reading": "ガイソウ",
+        "meaning": "báo cáo về hành vi phạm tội của một quan chức với hoàng đế (tội phạm)"
+      },
+      {
+        "example": "弾劾",
+        "reading": "ダンガイ",
+        "meaning": "sự buộc tội, sự buộc tội, sự buộc tội, sự chỉ trích, sự buộc tội"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "力",
+      "meaning": "quyền lực, lực lượng"
+    },
+    "parts": [
+      "ノ",
+      "丶",
+      "亠",
+      "人",
+      "力"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21182_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052be.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52be.gif",
+    "uri": "https://jisho.org/search/%E5%8A%BE%23kanji"
+  }
+}

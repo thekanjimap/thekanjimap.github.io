@@ -1,0 +1,50 @@
+{
+  "id": "諄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "諄",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 15,
+    "meaning": "tẻ nhạt",
+    "kunyomi": [
+      "ひちくど.い",
+      "くど.い",
+      "くどくど",
+      "ねんご.ろ"
+    ],
+    "onyomi": [
+      "シュン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "諄い",
+        "reading": "くどい",
+        "meaning": "lặp đi lặp lại, dài dòng, tẻ nhạt, dài dòng, dài dòng, khăng khăng, nài nỉ, nặng nề (hương vị), (quá) phong phú, mạnh mẽ, giả tạo, lòe loẹt (màu sắc, thiết kế, v.v.), ồn ào"
+      },
+      {
+        "example": "諄諄しい",
+        "reading": "くどくどしい",
+        "meaning": "dài dòng, dài dòng, dài dòng"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "lời nói"
+    },
+    "parts": [
+      "亠",
+      "口",
+      "子",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35524_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ac4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ac4.gif",
+    "uri": "https://jisho.org/search/%E8%AB%84%23kanji"
+  }
+}

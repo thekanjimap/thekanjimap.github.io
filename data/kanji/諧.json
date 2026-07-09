@@ -1,0 +1,57 @@
+{
+  "id": "諧",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "諧",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "strokeCount": 16,
+    "meaning": "sự hòa hợp",
+    "kunyomi": [
+      "かな.う",
+      "やわ.らぐ"
+    ],
+    "onyomi": [
+      "カイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "諧和",
+        "reading": "カイワ",
+        "meaning": "tình cảm nhẹ nhàng, hòa hợp, hòa hợp"
+      },
+      {
+        "example": "諧謔",
+        "reading": "カイギャク",
+        "meaning": "trò đùa, trò đùa, trò đùa"
+      },
+      {
+        "example": "俳諧",
+        "reading": "ハイカイ",
+        "meaning": "haikai (tên gọi chung của haiku, haibun, haiga, senryū, v.v.), haikai no renga (phong cách renga hài hước, thường thô tục xuất hiện vào thế kỷ 16), ngớ ngẩn, hài hước"
+      },
+      {
+        "example": "天狗俳諧",
+        "reading": "テングハイカイ",
+        "meaning": "trò chơi trong phòng khách trong đó ba người mỗi người viết một dòng của bài thơ 5-7-5 (không nhìn thấy các dòng khác; thường tạo ra kết quả hài hước), tengu haiku"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "lời nói"
+    },
+    "parts": [
+      "比",
+      "白",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35559_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ae7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ae7.gif",
+    "uri": "https://jisho.org/search/%E8%AB%A7%23kanji"
+  }
+}

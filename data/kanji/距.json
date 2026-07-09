@@ -1,0 +1,72 @@
+{
+  "id": "距",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "距",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1191",
+    "strokeCount": 12,
+    "meaning": "đường dài, thúc đẩy, fetlock",
+    "kunyomi": [
+      "へだ.たる",
+      "けづめ"
+    ],
+    "onyomi": [
+      "キョ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "距",
+        "reading": "キョ",
+        "meaning": "tuyến mật hình ống, thúc đẩy"
+      },
+      {
+        "example": "距離",
+        "reading": "キョリ",
+        "meaning": "khoảng cách, phạm vi, khoảng, sự khác biệt (ví dụ: theo ý kiến), khoảng cách, khoảng cách, số liệu"
+      },
+      {
+        "example": "緯距",
+        "reading": "イキョ",
+        "meaning": "vĩ độ"
+      },
+      {
+        "example": "経距",
+        "reading": "ケイキョ",
+        "meaning": "khởi hành (khảo sát, vv)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "隔たる",
+        "reading": "へだたる",
+        "meaning": "trở nên xa cách"
+      },
+      {
+        "example": "蹴爪",
+        "reading": "けづめ",
+        "meaning": "cựa (của gà, gà lôi, v.v.), gà trống, calcar, fetlock"
+      }
+    ],
+    "radical": {
+      "symbol": "足",
+      "forms": [
+        "⻊"
+      ],
+      "meaning": "chân"
+    },
+    "parts": [
+      "匚",
+      "口",
+      "巨",
+      "止",
+      "足"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36317_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ddd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ddd.gif",
+    "uri": "https://jisho.org/search/%E8%B7%9D%23kanji"
+  }
+}

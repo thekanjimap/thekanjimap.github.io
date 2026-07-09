@@ -1,0 +1,62 @@
+{
+  "id": "腓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "腓",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "bắp chân (của chân)",
+    "kunyomi": [
+      "ふくらはぎ",
+      "こむら",
+      "こぶら"
+    ],
+    "onyomi": [
+      "ヒ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "腓骨",
+        "reading": "ヒコツ",
+        "meaning": "mác, mác, mác"
+      },
+      {
+        "example": "腓骨欠損",
+        "reading": "ヒコツケッソン",
+        "meaning": "hemimelia sợi, agenesis fibula"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "腓",
+        "reading": "こむら",
+        "meaning": "bắp chân (của chân)"
+      },
+      {
+        "example": "こむら返り",
+        "reading": "こむらがえり",
+        "meaning": "chuột rút ở chân"
+      },
+      {
+        "example": "腓",
+        "reading": "こむら",
+        "meaning": "bắp chân (của chân)"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "thịt"
+    },
+    "parts": [
+      "月",
+      "非"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33107_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08153.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8153.gif",
+    "uri": "https://jisho.org/search/%E8%85%93%23kanji"
+  }
+}

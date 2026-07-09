@@ -1,0 +1,65 @@
+{
+  "id": "惑",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "惑",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "777",
+    "strokeCount": 12,
+    "meaning": "sự lừa dối, sự ảo tưởng, sự bối rối",
+    "kunyomi": [
+      "まど.う"
+    ],
+    "onyomi": [
+      "ワク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "惑",
+        "reading": "ワク",
+        "meaning": "klesha"
+      },
+      {
+        "example": "惑星",
+        "reading": "ワクセイ",
+        "meaning": "hành tinh, con ngựa đen, đối thủ bất ngờ"
+      },
+      {
+        "example": "魅惑",
+        "reading": "ミワク",
+        "meaning": "sự hấp dẫn,sự quyến rũ,sự thu hút,sự quyến rũ,sự quyến rũ"
+      },
+      {
+        "example": "不惑",
+        "reading": "フワク",
+        "meaning": "qua bốn mươi, đi đúng hướng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "惑う",
+        "reading": "まどう",
+        "meaning": "lạc lối, mất phương hướng, bối rối, bối rối, bối rối, bối rối, bị cám dỗ, bị quyến rũ, bị quyến rũ"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "口",
+      "心",
+      "戈"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24785_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060d1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60d1.gif",
+    "uri": "https://jisho.org/search/%E6%83%91%23kanji"
+  }
+}

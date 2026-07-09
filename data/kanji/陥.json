@@ -1,0 +1,71 @@
+{
+  "id": "陥",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "陥",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1154",
+    "strokeCount": 10,
+    "meaning": "sụp đổ, rơi vào, rơi vào, rơi (lâu đài), trượt vào",
+    "kunyomi": [
+      "おちい.る",
+      "おとしい.れる"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "陥落",
+        "reading": "カンラク",
+        "meaning": "sụt lún, chìm đắm, hang động, sụp đổ, rơi vào, rơi (của một thành phố, pháo đài, v.v.), đầu hàng, sa ngã (ở vị trí, cấp bậc, v.v.), giáng chức, nhượng bộ (trước sự thuyết phục của ai đó), nhường nhịn, bị thuyết phục"
+      },
+      {
+        "example": "陥没",
+        "reading": "カンボツ",
+        "meaning": "sụp đổ, sụp đổ, chìm xuống, lõm xuống (ví dụ như hộp sọ), sụt lún"
+      },
+      {
+        "example": "擠陥",
+        "reading": "セイカン",
+        "meaning": "dụ dỗ phạm tội"
+      },
+      {
+        "example": "注意欠陥",
+        "reading": "チュウイケッカン",
+        "meaning": "thiếu chú ý"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "陥る",
+        "reading": "おちいる",
+        "meaning": "rơi vào (ví dụ: một cái lỗ), rơi vào (hỗn loạn, trầm cảm, tiến thoái lưỡng nan, bệnh tật, v.v.), rơi vào (một cái bẫy, v.v.), rơi, đầu hàng, đầu hàng"
+      },
+      {
+        "example": "陥れる",
+        "reading": "おとしいれる",
+        "meaning": "bẫy (vào một tình huống khó khăn), đặt (vào một tình huống khó khăn), ném (ví dụ vào tình trạng hỗn loạn), lừa (làm), dụ dỗ (vào bẫy), gài bẫy (để phạm tội), chiếm giữ (một lâu đài, pháo đài, v.v.), lấy, giảm bớt, thả (cái gì đó) vào"
+      }
+    ],
+    "radical": {
+      "symbol": "阜",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "gò, đập (阝 trái)"
+    },
+    "parts": [
+      "勹",
+      "日",
+      "阡",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38501_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09665.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9665.gif",
+    "uri": "https://jisho.org/search/%E9%99%A5%23kanji"
+  }
+}

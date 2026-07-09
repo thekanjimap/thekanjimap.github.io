@@ -1,0 +1,71 @@
+{
+  "id": "洒",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "洒",
+    "found": true,
+    "newspaperFrequencyRank": "2440",
+    "strokeCount": 9,
+    "meaning": "rửa, rắc",
+    "kunyomi": [
+      "すす.ぐ",
+      "あら.う"
+    ],
+    "onyomi": [
+      "シャ",
+      "ソン",
+      "サイ",
+      "セン",
+      "セイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "洒落る",
+        "reading": "シャレル",
+        "meaning": "ăn mặc sành điệu, nói đùa, chơi chữ"
+      },
+      {
+        "example": "洒落",
+        "reading": "シャレ",
+        "meaning": "trò đùa, chơi chữ, đùa giỡn, hóm hỉnh, chơi chữ, ăn mặc lịch sự, phong cách, có ý thức về thời trang, tinh tế"
+      },
+      {
+        "example": "瀟洒",
+        "reading": "ショウシャ",
+        "meaning": "phong cách, thông minh, thanh lịch, sang trọng, tinh tế, trang trí, gọn gàng"
+      },
+      {
+        "example": "洒洒",
+        "reading": "シャシャ",
+        "meaning": "nhanh chóng, đơn giản, gọn gàng"
+      },
+      {
+        "example": "洒掃",
+        "reading": "サイソウ",
+        "meaning": "chà rửa (bằng nước), lau chùi"
+      },
+      {
+        "example": "洒掃",
+        "reading": "サイソウ",
+        "meaning": "chà rửa (bằng nước), lau chùi"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "汁",
+      "西"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27922_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06d12.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6d12.gif",
+    "uri": "https://jisho.org/search/%E6%B4%92%23kanji"
+  }
+}

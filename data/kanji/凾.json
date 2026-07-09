@@ -1,0 +1,38 @@
+{
+  "id": "凾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "凾",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "cái hộp",
+    "kunyomi": [
+      "はこ",
+      "い.れる"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "箱",
+        "reading": "はこ",
+        "meaning": "hộp, hòm, rương, gói, gói, thùng, toa xe (của tàu hỏa, v.v.), hộp đàn shamisen, đàn shamisen, tòa nhà công cộng, tòa nhà cộng đồng, người đàn ông mang đàn shamisen của geisha, thùng đựng chất thải của con người, phân (phân), quầy đựng hộp (hoặc đồ vật được đóng hộp)"
+      }
+    ],
+    "radical": {
+      "symbol": "凵",
+      "meaning": "hộp đựng, mở miệng"
+    },
+    "parts": [
+      "凵",
+      "又",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20990_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051fe.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51fe.gif",
+    "uri": "https://jisho.org/search/%E5%87%BE%23kanji"
+  }
+}

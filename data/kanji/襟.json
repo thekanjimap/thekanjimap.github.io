@@ -1,0 +1,81 @@
+{
+  "id": "襟",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "襟",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2030",
+    "strokeCount": 18,
+    "meaning": "cổ áo, cổ, ve áo, nội tâm",
+    "kunyomi": [
+      "えり"
+    ],
+    "onyomi": [
+      "キン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "襟懐",
+        "reading": "キンカイ",
+        "meaning": "(của) suy nghĩ, cảm xúc bên trong"
+      },
+      {
+        "example": "襟度",
+        "reading": "キンド",
+        "meaning": "tính cách cao thượng, rộng lượng, hiếu khách"
+      },
+      {
+        "example": "胸襟",
+        "reading": "キョウキン",
+        "meaning": "trái tim của một người"
+      },
+      {
+        "example": "開襟",
+        "reading": "カイキン",
+        "meaning": "cởi cúc cổ, mở (trái tim), áo hở cổ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "襟",
+        "reading": "えり",
+        "meaning": "Cổ áo, ve áo, dây đeo cổ, cái cổ, gáy, gáy"
+      },
+      {
+        "example": "襟巻き",
+        "reading": "えりまき",
+        "meaning": "khăn quàng cổ (đặc biệt là khăn choàng để giữ ấm), khăn quàng cổ"
+      },
+      {
+        "example": "台襟",
+        "reading": "だいえり",
+        "meaning": "vòng cổ (của áo sơ mi)"
+      },
+      {
+        "example": "掛け襟",
+        "reading": "かけえり",
+        "meaning": "vòng cổ bảo vệ trên kimono hoặc quần áo ngủ"
+      }
+    ],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "quần áo"
+    },
+    "parts": [
+      "二",
+      "初",
+      "小",
+      "木",
+      "示"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35167_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0895f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/895f.gif",
+    "uri": "https://jisho.org/search/%E8%A5%9F%23kanji"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "咄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "咄",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "kêu lên ngạc nhiên, kêu lên (tức giận), mắng mỏ, trò chuyện, tán gẫu",
+    "kunyomi": [
+      "はなし",
+      "しか.る"
+    ],
+    "onyomi": [
+      "トツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "咄々",
+        "reading": "トツトツ",
+        "meaning": "nhấp (lưỡi), ngạc nhiên, giận dữ, bực bội"
+      },
+      {
+        "example": "咄々",
+        "reading": "トツトツ",
+        "meaning": "nhấp (lưỡi), ngạc nhiên, giận dữ, bực bội"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "話",
+        "reading": "はなし",
+        "meaning": "nói chuyện, phát biểu, trò chuyện, cuộc hội thoại, chủ đề, môn học, Thảo luận, Đàm phán, tranh luận, Tin đồn, nói chuyện, tin đồn, Câu chuyện, câu chuyện, Ngụ ngôn, hoàn cảnh, Chi tiết"
+      },
+      {
+        "example": "噺家",
+        "reading": "はなしか",
+        "meaning": "người kể chuyện truyện tranh (rakugo) chuyên nghiệp"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "口",
+      "山",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21636_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05484.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5484.gif",
+    "uri": "https://jisho.org/search/%E5%92%84%23kanji"
+  }
+}

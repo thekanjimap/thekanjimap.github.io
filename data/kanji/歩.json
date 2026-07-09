@@ -1,0 +1,470 @@
+{
+  "id": "歩",
+  "kanjialiveData": {
+    "_id": "54317ae9791eba5146ee49e4",
+    "_rev": "10-589702bcc1dea74602ede11fcf9d1c1d",
+    "rad_name_ja": "とめる",
+    "grade": 2,
+    "hint_group": 1,
+    "kunyomi": "aru, ayu, aruku, ayumu, ayumi",
+    "meaning": "đi bộ",
+    "kstroke": 8,
+    "examples": [
+      {
+        "japanese": "歩道（ほどう）",
+        "meaning": {
+          "english": "vỉa hè"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aru(ku)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/aru(ku)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/aru(ku)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/aru(ku)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "歩調（ほちょう）",
+        "meaning": {
+          "english": "tốc độ (đi bộ)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aru(ku)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/aru(ku)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/aru(ku)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/aru(ku)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "歩行者（ほこうしゃ）",
+        "meaning": {
+          "english": "người đi bộ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aru(ku)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/aru(ku)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/aru(ku)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/aru(ku)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "徒歩（とほ）",
+        "meaning": {
+          "english": "đi bộ [n.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aru(ku)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/aru(ku)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/aru(ku)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/aru(ku)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "初歩（しょほ）",
+        "meaning": {
+          "english": "tiểu học"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aru(ku)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/aru(ku)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/aru(ku)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/aru(ku)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "散歩する（さんぽする）",
+        "meaning": {
+          "english": "đi dạo"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aru(ku)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/aru(ku)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/aru(ku)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/aru(ku)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "進歩する（しんぽする）",
+        "meaning": {
+          "english": "tiến bộ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aru(ku)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/aru(ku)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/aru(ku)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/aru(ku)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "歩合（ぶあい）",
+        "meaning": {
+          "english": "tỷ lệ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aru(ku)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/aru(ku)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/aru(ku)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/aru(ku)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "歩（ふ）",
+        "meaning": {
+          "english": "con tốt (trong cờ vua hoặc shogi)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aru(ku)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/aru(ku)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/aru(ku)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/aru(ku)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "歩く（あるく）",
+        "meaning": {
+          "english": "đi bộ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aru(ku)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/aru(ku)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/aru(ku)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/aru(ku)_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "歩む（あゆむ）",
+        "meaning": {
+          "english": "đi bộ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/aru(ku)_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/aru(ku)_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/aru(ku)_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/aru(ku)_06_k.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "ある、あゆ、あるく、あゆむ、あゆみ",
+    "ka_utf": "歩",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=歩",
+    "kname": "aru(ku)",
+    "rad_order": 100,
+    "txt_books": [
+      {
+        "chapter": "27",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "17",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtAd3"
+      },
+      {
+        "chapter": "17",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "12",
+        "txt_bk": "txtSFJ2"
+      },
+      {
+        "chapter": "12",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "18",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "16",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "13"
+      }
+    ],
+    "rad_name_search": [
+      "tomeru"
+    ],
+    "rad_utf": "⽌",
+    "stroketimes": [
+      0,
+      1.533,
+      2.533,
+      3.2,
+      4.266,
+      5.066,
+      5.866,
+      6.666,
+      7.466667
+    ],
+    "kunyomi_ka_display": "ある、あゆ",
+    "dick": "1566",
+    "rad_name": "tomeru",
+    "dicn": "2433",
+    "mn_hint": "A few 少 steps taken with the feet on the ground 止 <span class='note'>(orig. \"stop, feet\")</span>.",
+    "rad_stroke": 4,
+    "onyomi_ja": "ホ、ブ、フ",
+    "rad_meaning": "dừng lại",
+    "onyomi": "ho, bu, fu",
+    "ka_id": "ka_300",
+    "onyomi_search": [
+      "ho",
+      "bu",
+      "fu",
+      "ho, bu, fu"
+    ],
+    "kunyomi_search": [
+      "aru",
+      "ayu",
+      "aruku",
+      "ayumu",
+      "ayumi",
+      "aru, ayu, aruku, ayumu, ayumi"
+    ],
+    "meaning_search": [
+      "walk",
+      "walk"
+    ],
+    "onyomi_ja_search": [
+      "ホ",
+      "ブ",
+      "フ",
+      "ホ、ブ、フ"
+    ],
+    "kunyomi_ja_search": [
+      "ある",
+      "あゆ",
+      "あるく",
+      "あゆむ",
+      "あゆみ",
+      "ある、あゆ、あるく、あゆむ、あゆみ"
+    ],
+    "rad_meaning_search": [
+      "to stop",
+      "to",
+      "stop",
+      "to stop"
+    ],
+    "rad_name_ja_search": [
+      "とめる"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:27",
+      "cij:c27",
+      "bk",
+      "bk:17",
+      "bk:c17",
+      "aij3",
+      "aij3:9",
+      "aij3:c9",
+      "aij3:v3",
+      "aij3:v3:9",
+      "aij3:v3:c9",
+      "gen",
+      "gen:17",
+      "gen:c17",
+      "ap",
+      "ap:18",
+      "ap:c18",
+      "kll",
+      "kll:16",
+      "kll:c16",
+      "cijr",
+      "cijr:13",
+      "cijr:c13"
+    ],
+    "rad_name_file": "tomeru",
+    "kanji": {
+      "character": "歩",
+      "meaning": {
+        "english": "walk"
+      },
+      "strokes": {
+        "count": 8,
+        "timings": [
+          0,
+          1.533,
+          2.533,
+          3.2,
+          4.266,
+          5.066,
+          5.866,
+          6.666,
+          7.466667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/aru(ku)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/aru(ku)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/aru(ku)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/aru(ku)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/aru(ku)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/aru(ku)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/aru(ku)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/aru(ku)_8.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "ho, bu, fu",
+        "katakana": "ホ、ブ、フ"
+      },
+      "kunyomi": {
+        "romaji": "aru, ayu, aruku, ayumu, ayumi",
+        "hiragana": "ある、あゆ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/aru(ku)_8.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/aru(ku)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/aru(ku)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⽌",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/tomeru.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "とめる",
+        "romaji": "tomeru"
+      },
+      "meaning": {
+        "english": "dừng lại"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/tomeru0.svg",
+        "https://media.kanjialive.com/rad_frames/tomeru1.svg",
+        "https://media.kanjialive.com/rad_frames/tomeru2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "1566",
+      "classic_nelson": "2433"
+    }
+  },
+  "jishoData": {
+    "query": "歩",
+    "found": true,
+    "taughtIn": "lớp 2",
+    "jlptLevel": "N4",
+    "newspaperFrequencyRank": "554",
+    "strokeCount": 8,
+    "meaning": "bước đi, đếm bước đi",
+    "kunyomi": [
+      "ある.く",
+      "あゆ.む"
+    ],
+    "onyomi": [
+      "ホ",
+      "ブ",
+      "フ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "歩",
+        "reading": "ホ",
+        "meaning": "bước, sải bước, đếm bước"
+      },
+      {
+        "example": "歩行",
+        "reading": "ホコウ",
+        "meaning": "đi bộ, đi bộ"
+      },
+      {
+        "example": "遊歩",
+        "reading": "ユウホ",
+        "meaning": "đi dạo, đi dạo"
+      },
+      {
+        "example": "牛歩",
+        "reading": "ギュウホ",
+        "meaning": "tốc độ ốc sên, tiến độ chậm"
+      },
+      {
+        "example": "歩",
+        "reading": "ブ",
+        "meaning": "bu, đơn vị diện tích truyền thống, xấp xỉ. 3,31 mét vuông, hoa hồng, tỷ lệ phần trăm, chính xác, chính xác"
+      },
+      {
+        "example": "歩合",
+        "reading": "ブアイ",
+        "meaning": "tỷ lệ, tỷ lệ, tỷ lệ phần trăm, hoa hồng, tiền hoa hồng, tỷ lệ phần trăm"
+      },
+      {
+        "example": "町歩",
+        "reading": "チョウブ",
+        "meaning": "ha (2,471 mẫu Anh)"
+      },
+      {
+        "example": "町段畝歩",
+        "reading": "チョウタンセブ",
+        "meaning": "đơn vị đo vuông (đối với ruộng lúa, rừng, v.v.)"
+      },
+      {
+        "example": "歩",
+        "reading": "フ",
+        "meaning": "con tốt"
+      },
+      {
+        "example": "歩三兵",
+        "reading": "フサンビョウ",
+        "meaning": "chỉ bắt đầu với một quân Vua trên bàn cờ và ba con tốt trong tay (như một điểm bất lợi khi dạy người mới bắt đầu)"
+      },
+      {
+        "example": "敵歩",
+        "reading": "テキフ",
+        "meaning": "con tốt của đối thủ"
+      },
+      {
+        "example": "二歩",
+        "reading": "ニフ",
+        "meaning": "thả hai con tốt không được phong vào cùng một hàng (nước đi bất hợp pháp)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "歩く",
+        "reading": "あるく",
+        "meaning": "đi bộ"
+      },
+      {
+        "example": "歩む",
+        "reading": "あゆむ",
+        "meaning": "đi bộ, đi bộ, bước đi (một con đường tượng trưng), đi theo, dẫn dắt (một cuộc sống), trải nghiệm, tiến tới (ví dụ: một giải pháp), khởi hành (ví dụ: trên con đường dẫn đến sự hủy diệt, hủy hoại, v.v.), bắt tay (trên con đường dẫn đến ...)"
+      }
+    ],
+    "radical": {
+      "symbol": "止",
+      "meaning": "dừng lại"
+    },
+    "parts": [
+      "ノ",
+      "小",
+      "止"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27497_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06b69.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6b69.gif",
+    "uri": "https://jisho.org/search/%E6%AD%A9%23kanji"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": "佛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "佛",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "Pháp",
+    "kunyomi": [
+      "ほとけ"
+    ],
+    "onyomi": [
+      "ブツ",
+      "フツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "仏像",
+        "reading": "ブツゾウ",
+        "meaning": "tượng phật, tượng phật, tượng phật, tượng phật"
+      },
+      {
+        "example": "【ブッダ】",
+        "reading": "Buddha",
+        "meaning": ""
+      },
+      {
+        "example": "胎内仏",
+        "reading": "タイナイブツ",
+        "meaning": "hình ảnh Phật giáo nhỏ bên trong một hình ảnh Phật giáo khác"
+      },
+      {
+        "example": "写仏",
+        "reading": "シャブツ",
+        "meaning": "truy tìm hình ảnh của một hình ảnh Phật giáo"
+      },
+      {
+        "example": "仏語",
+        "reading": "フツゴ",
+        "meaning": "Tiếng Pháp (ngôn ngữ)"
+      },
+      {
+        "example": "仏国",
+        "reading": "フッコク",
+        "meaning": "Pháp"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "仏",
+        "reading": "ほとけ",
+        "meaning": "Phật, Thích Ca Mâu Ni, tượng Phật, tượng Phật, người chết, người chết, linh hồn người quá cố, người từ bi"
+      },
+      {
+        "example": "御仏",
+        "reading": "みほとけ",
+        "meaning": "Đức Phật, Đức Phật"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "đàn ông, con người"
+    },
+    "parts": [
+      "ノ",
+      "化",
+      "弓",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20315_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04f5b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4f5b.gif",
+    "uri": "https://jisho.org/search/%E4%BD%9B%23kanji"
+  }
+}

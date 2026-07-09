@@ -1,0 +1,61 @@
+{
+  "id": "梓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "梓",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2301",
+    "strokeCount": 11,
+    "meaning": "cây catalpa, in mộc bản",
+    "kunyomi": [
+      "あずさ"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "梓",
+        "reading": "アズサ",
+        "meaning": "Bạch dương anh đào Nhật Bản (Betula Grossa), catalpa vàng (Catalpa ovata), mallotus Nhật Bản (Mallotus japonicus), khối in, nơ catalpa, catalpa vừa"
+      },
+      {
+        "example": "梓宮",
+        "reading": "シキュウ",
+        "meaning": "Quan tài hoàng đế (làm bằng gỗ catalpa)"
+      },
+      {
+        "example": "上梓",
+        "reading": "ジョウシ",
+        "meaning": "in ấn, xuất bản khắc gỗ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "梓",
+        "reading": "あずさ",
+        "meaning": "Bạch dương anh đào Nhật Bản (Betula Grossa), catalpa vàng (Catalpa ovata), mallotus Nhật Bản (Mallotus japonicus), khối in, nơ catalpa, catalpa vừa"
+      },
+      {
+        "example": "梓巫女",
+        "reading": "あずさみこ",
+        "meaning": "đồng cốt nữ triệu hồi các linh hồn bằng cách rung dây cung catalpa"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "十",
+      "木",
+      "立",
+      "辛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26771_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06893.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6893.gif",
+    "uri": "https://jisho.org/search/%E6%A2%93%23kanji"
+  }
+}

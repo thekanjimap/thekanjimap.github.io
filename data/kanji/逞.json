@@ -1,0 +1,48 @@
+{
+  "id": "逞",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "逞",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "cứng cáp, rắn rỏi, dũng cảm",
+    "kunyomi": [
+      "たくま.しい"
+    ],
+    "onyomi": [
+      "テイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "不逞",
+        "reading": "フテイ",
+        "meaning": "sự không phục tùng, ngoài vòng pháp luật"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "逞しい",
+        "reading": "たくましい",
+        "meaning": "vạm vỡ, mạnh mẽ, cứng cáp, bất khuất, không mệt mỏi, ý chí mạnh mẽ, kiên quyết, táo bạo, cường tráng (sức sống, ham muốn, tăng trưởng kinh tế, v.v.), mạnh mẽ"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "đi bộ"
+    },
+    "parts": [
+      "口",
+      "王",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36894_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0901e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/901e.gif",
+    "uri": "https://jisho.org/search/%E9%80%9E%23kanji"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "吶",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "吶",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "nói lắp",
+    "kunyomi": [
+      "ども.る"
+    ],
+    "onyomi": [
+      "トツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "訥々",
+        "reading": "トツトツ",
+        "meaning": "ngập ngừng (lời nói), ấp úng, ấp úng"
+      },
+      {
+        "example": "訥々",
+        "reading": "トツトツ",
+        "meaning": "ngập ngừng (lời nói), ấp úng, ấp úng"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "人",
+      "冂",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21558_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05436.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5436.gif",
+    "uri": "https://jisho.org/search/%E5%90%B6%23kanji"
+  }
+}

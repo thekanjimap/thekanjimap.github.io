@@ -1,0 +1,61 @@
+{
+  "id": "劣",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "劣",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1620",
+    "strokeCount": 6,
+    "meaning": "kém cỏi, thua kém, tệ hơn",
+    "kunyomi": [
+      "おと.る"
+    ],
+    "onyomi": [
+      "レツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "劣",
+        "reading": "レツ",
+        "meaning": "thứ yếu, thứ yếu, thứ yếu"
+      },
+      {
+        "example": "劣悪",
+        "reading": "レツアク",
+        "meaning": "kém (chất lượng, điều kiện, v.v.), kém, kém cỏi, kém chất lượng"
+      },
+      {
+        "example": "卑劣",
+        "reading": "ヒレツ",
+        "meaning": "hèn hạ, hèn hạ, hèn hạ, bẩn thỉu, hôi hám, hèn nhát, hèn hạ"
+      },
+      {
+        "example": "拙劣",
+        "reading": "セツレツ",
+        "meaning": "vụng về, kém khéo léo"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "劣る",
+        "reading": "おとる",
+        "meaning": "kém hơn, kém hơn, tụt lại phía sau"
+      }
+    ],
+    "radical": {
+      "symbol": "力",
+      "meaning": "quyền lực, lực lượng"
+    },
+    "parts": [
+      "ノ",
+      "力",
+      "小"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21155_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052a3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52a3.gif",
+    "uri": "https://jisho.org/search/%E5%8A%A3%23kanji"
+  }
+}

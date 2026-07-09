@@ -1,0 +1,57 @@
+{
+  "id": "啄",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "啄",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2463",
+    "strokeCount": 10,
+    "meaning": "mổ, nhặt",
+    "kunyomi": [
+      "ついば.む",
+      "つつ.く"
+    ],
+    "onyomi": [
+      "タク",
+      "ツク",
+      "トク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "啄",
+        "reading": "タク",
+        "meaning": "nguyên tắc thứ bảy của Bát nguyên tắc Yong, nét vẽ hướng sang trái với một đường cong nhẹ"
+      },
+      {
+        "example": "啄木",
+        "reading": "タクボク",
+        "meaning": "chim gõ kiến"
+      },
+      {
+        "example": "啐啄",
+        "reading": "ソッタク",
+        "meaning": "cơ hội ngàn năm có một, cơ hội ngàn vàng, hoàn toàn đồng bộ (của thiền sư và đồ đệ)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "啄ばむ",
+        "reading": "ついばむ",
+        "meaning": "mổ vào, mổ vào"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "口",
+      "豕"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21828_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05544.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5544.gif",
+    "uri": "https://jisho.org/search/%E5%95%84%23kanji"
+  }
+}

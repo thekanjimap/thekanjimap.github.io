@@ -1,0 +1,67 @@
+{
+  "id": "葱",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "葱",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "tỏi tây đá, hành tây xứ Wales",
+    "kunyomi": [
+      "ねぎ"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "海葱",
+        "reading": "カイソウ",
+        "meaning": "mực trắng (Urginea maritima), hành biển"
+      },
+      {
+        "example": "鬱蒼",
+        "reading": "ウッソウ",
+        "meaning": "dày đặc, rậm rạp, um tùm"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "葱",
+        "reading": "ねぎ",
+        "meaning": "Hành tây xứ Wales (Allium fisulosum), hành tây bó Nhật, hành lá, hành lá, hành lá"
+      },
+      {
+        "example": "葱油",
+        "reading": "ねぎあぶら",
+        "meaning": "dầu hành lá"
+      },
+      {
+        "example": "万能ネギ",
+        "reading": "ばんのうねぎ",
+        "meaning": "chồi hành lá mỏng (đặc biệt là băm nhỏ làm gia vị)"
+      },
+      {
+        "example": "九条ネギ",
+        "reading": "くじょうねぎ",
+        "meaning": "Hành lá Kujō (loại phổ biến ở vùng Kansai)"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "丶",
+      "勿",
+      "心",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33905_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08471.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8471.gif",
+    "uri": "https://jisho.org/search/%E8%91%B1%23kanji"
+  }
+}

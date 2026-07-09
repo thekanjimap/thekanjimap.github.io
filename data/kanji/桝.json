@@ -1,0 +1,46 @@
+{
+  "id": "桝",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "桝",
+    "found": true,
+    "newspaperFrequencyRank": "2401",
+    "strokeCount": 11,
+    "meaning": "hộp đo, (kokuji)",
+    "kunyomi": [
+      "ます"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "升",
+        "reading": "ます",
+        "meaning": "thùng đo, hộp đo, thước, hộp (ghế ngồi trong rạp hát…), ô vuông trên lưới, ô của lưới, khối chịu lực vuông (ở đầu cột)"
+      },
+      {
+        "example": "升形",
+        "reading": "ますがた",
+        "meaning": "hình vuông (hình), khối chịu lực hình vuông (trên đỉnh cột), khoảng hình chữ nhật giữa cổng trong và cổng ngoài của lâu đài (nơi quân đội có thể tập trung)"
+      },
+      {
+        "example": "雨水桝",
+        "reading": "うすいます",
+        "meaning": "cửa nước mưa, cửa nước đường phố"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "夕",
+      "木",
+      "舛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26717_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0685d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/685d.gif",
+    "uri": "https://jisho.org/search/%E6%A1%9D%23kanji"
+  }
+}

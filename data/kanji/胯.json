@@ -1,0 +1,54 @@
+{
+  "id": "胯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "胯",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "háng",
+    "kunyomi": [
+      "また"
+    ],
+    "onyomi": [
+      "コウ",
+      "カ",
+      "コ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "股間",
+        "reading": "コカン",
+        "meaning": "háng, háng, vùng giữa hai đùi"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "股",
+        "reading": "また",
+        "meaning": "háng, đùi, háng, nạng, cái nĩa (trên cây, con đường, dòng sông, v.v.), đinh (của một cái nĩa)"
+      },
+      {
+        "example": "股ぐら",
+        "reading": "またぐら",
+        "meaning": "háng, đùi, háng, nạng"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "thịt"
+    },
+    "parts": [
+      "二",
+      "勹",
+      "大",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33007_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080ef.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80ef.gif",
+    "uri": "https://jisho.org/search/%E8%83%AF%23kanji"
+  }
+}

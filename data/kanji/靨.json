@@ -1,0 +1,47 @@
+{
+  "id": "靨",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "靨",
+    "found": true,
+    "strokeCount": 23,
+    "meaning": "lúm đồng tiền",
+    "kunyomi": [
+      "えくぼ"
+    ],
+    "onyomi": [
+      "ヨウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "笑窪",
+        "reading": "えくぼ",
+        "meaning": "lúm đồng tiền"
+      },
+      {
+        "example": "片えくぼ",
+        "reading": "かたえくぼ",
+        "meaning": "lúm đồng tiền ở một bên má"
+      }
+    ],
+    "radical": {
+      "symbol": "面",
+      "forms": [
+        "靣"
+      ],
+      "meaning": "đối mặt"
+    },
+    "parts": [
+      "厂",
+      "日",
+      "犬",
+      "目",
+      "面"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38760_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09768.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9768.gif",
+    "uri": "https://jisho.org/search/%E9%9D%A8%23kanji"
+  }
+}

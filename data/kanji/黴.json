@@ -1,0 +1,97 @@
+{
+  "id": "黴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "黴",
+    "found": true,
+    "strokeCount": 23,
+    "meaning": "nấm mốc, nấm mốc",
+    "kunyomi": [
+      "かび",
+      "かび.る",
+      "か.びる"
+    ],
+    "onyomi": [
+      "バイ",
+      "ビ",
+      "マイ",
+      "ミ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "梅雨",
+        "reading": "ツユ",
+        "meaning": "(Đông Á) mùa mưa (ở Nhật Bản, thông thường từ đầu tháng 6 đến giữa tháng 7), mưa trong mùa mưa"
+      },
+      {
+        "example": "ばい菌",
+        "reading": "バイキン",
+        "meaning": "vi trùng, vi trùng, vi khuẩn, bọ, thứ gì đó bẩn thỉu hoặc có hại, sâu bọ"
+      },
+      {
+        "example": "防カビ",
+        "reading": "ボウカビ",
+        "meaning": "ngăn ngừa nấm mốc, ngăn ngừa nấm mốc"
+      },
+      {
+        "example": "防カビ",
+        "reading": "ボウカビ",
+        "meaning": "ngăn ngừa nấm mốc, ngăn ngừa nấm mốc"
+      },
+      {
+        "example": "青カビ",
+        "reading": "アオカビ",
+        "meaning": "mốc xanh, mốc xanh, penicillium"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "【カビ】",
+        "reading": "mold, mould, mildew",
+        "meaning": ""
+      },
+      {
+        "example": "カビが生える",
+        "reading": "カビがはえる",
+        "meaning": "bị mốc, bị mốc, lỗi mốt"
+      },
+      {
+        "example": "防カビ",
+        "reading": "ぼうかび",
+        "meaning": "ngăn ngừa nấm mốc, ngăn ngừa nấm mốc"
+      },
+      {
+        "example": "青カビ",
+        "reading": "あおかび",
+        "meaning": "mốc xanh, mốc xanh, penicillium"
+      },
+      {
+        "example": "黴びる",
+        "reading": "かびる",
+        "meaning": "bị mốc (mốc), bị mốc, bị mốc"
+      },
+      {
+        "example": "黴びる",
+        "reading": "かびる",
+        "meaning": "bị mốc (mốc), bị mốc, bị mốc"
+      }
+    ],
+    "radical": {
+      "symbol": "黑",
+      "meaning": "màu đen"
+    },
+    "parts": [
+      "乞",
+      "山",
+      "彳",
+      "攵",
+      "杰",
+      "里",
+      "黒"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40692_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09ef4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9ef4.gif",
+    "uri": "https://jisho.org/search/%E9%BB%B4%23kanji"
+  }
+}

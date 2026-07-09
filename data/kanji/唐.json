@@ -1,0 +1,67 @@
+{
+  "id": "唐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "唐",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "newspaperFrequencyRank": "1727",
+    "strokeCount": 10,
+    "meaning": "Đường, Trung Quốc, nước ngoài",
+    "kunyomi": [
+      "から"
+    ],
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "唐",
+        "reading": "トウ",
+        "meaning": "Nhà Đường (của Trung Quốc; 618-907), nhà Đường, Trung Quốc, nước ngoài"
+      },
+      {
+        "example": "唐土",
+        "reading": "モロコシ",
+        "meaning": "Trung Quốc, Trung Quốc"
+      },
+      {
+        "example": "頽唐",
+        "reading": "タイトウ",
+        "meaning": "sự suy thoái, suy thoái"
+      },
+      {
+        "example": "後唐",
+        "reading": "コウトウ",
+        "meaning": "Hậu Đường (của Trung Quốc; 923-937), Hậu Đường"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "唐",
+        "reading": "から",
+        "meaning": "Trung Quốc (đôi khi cũng được sử dụng để chỉ Hàn Quốc hoặc các nước khác)"
+      },
+      {
+        "example": "空手",
+        "reading": "からて",
+        "meaning": "karate, tay trắng, không có gì trong tay"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "ヨ",
+      "一",
+      "口",
+      "广",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21776_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05510.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5510.gif",
+    "uri": "https://jisho.org/search/%E5%94%90%23kanji"
+  }
+}

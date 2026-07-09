@@ -1,0 +1,76 @@
+{
+  "id": "霞",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "霞",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1603",
+    "strokeCount": 17,
+    "meaning": "trở nên mơ hồ, mờ đi, mờ đi",
+    "kunyomi": [
+      "かすみ",
+      "かす.む"
+    ],
+    "onyomi": [
+      "カ",
+      "ゲ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "霞",
+        "reading": "カスミ",
+        "meaning": "sương mù (đặc biệt là vào mùa xuân), sương mù, sự mờ mịt (tầm nhìn)"
+      },
+      {
+        "example": "霞む",
+        "reading": "カスム",
+        "meaning": "trở nên mờ mịt, trở nên mơ hồ, trở nên mờ nhạt, trở nên mờ mịt, bị lu mờ, bị lấn át, trở nên kém sáng"
+      },
+      {
+        "example": "紅霞",
+        "reading": "コウカ",
+        "meaning": "sương mù đỏ thẫm, những đám mây màu đỏ thẫm (ví dụ: lúc hoàng hôn)"
+      },
+      {
+        "example": "朝霞",
+        "reading": "アサガスミ",
+        "meaning": "ánh sáng buổi sáng, sương mù buổi sáng (sương mù)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "霞",
+        "reading": "かすみ",
+        "meaning": "sương mù (đặc biệt là vào mùa xuân), sương mù, sự mờ mịt (tầm nhìn)"
+      },
+      {
+        "example": "かすみ網",
+        "reading": "かすみあみ",
+        "meaning": "lưới sương mù (lưới mịn để bắt chim nhỏ)"
+      },
+      {
+        "example": "雲霞",
+        "reading": "うんか",
+        "meaning": "mây và sương mù, bầy đàn (người), đông đúc, dồn dập, (chạy trốn) như gió, (chạy) khuất tầm mắt"
+      },
+      {
+        "example": "霞む",
+        "reading": "かすむ",
+        "meaning": "trở nên mờ mịt, trở nên mơ hồ, trở nên mờ nhạt, trở nên mờ mịt, bị lu mờ, bị lấn át, trở nên kém sáng"
+      }
+    ],
+    "radical": {
+      "symbol": "雨",
+      "meaning": "mưa"
+    },
+    "parts": [
+      "又",
+      "雨"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38686_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0971e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/971e.gif",
+    "uri": "https://jisho.org/search/%E9%9C%9E%23kanji"
+  }
+}

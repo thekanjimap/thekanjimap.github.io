@@ -1,0 +1,75 @@
+{
+  "id": "虹",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "虹",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2110",
+    "strokeCount": 9,
+    "meaning": "cầu vồng",
+    "kunyomi": [
+      "にじ"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "虹技",
+        "reading": "コウギ",
+        "meaning": "Tập đoàn Kogi"
+      },
+      {
+        "example": "虹霓",
+        "reading": "コウゲイ",
+        "meaning": "cầu vồng"
+      },
+      {
+        "example": "副虹",
+        "reading": "フクニジ",
+        "meaning": "cầu vồng thứ cấp"
+      },
+      {
+        "example": "月虹",
+        "reading": "ゲッコウ",
+        "meaning": "cầu vồng mặt trăng, cầu vồng mặt trăng, cầu vồng trắng do ánh trăng tạo ra, cung trăng, cầu vồng không gian"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "虹",
+        "reading": "にじ",
+        "meaning": "cầu vồng"
+      },
+      {
+        "example": "二次",
+        "reading": "にじ",
+        "meaning": "thứ hai, thứ cấp, bậc hai (hàm, phương trình, v.v.), bậc hai, hư cấu (liên quan đến anime, manga, v.v.), vẽ, hai chiều"
+      },
+      {
+        "example": "夕虹",
+        "reading": "ゆうにじ",
+        "meaning": "cầu vồng buổi tối"
+      },
+      {
+        "example": "過剰虹",
+        "reading": "かじょうにじ",
+        "meaning": "cầu vồng siêu số"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "côn trùng"
+    },
+    "parts": [
+      "工",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34425_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08679.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8679.gif",
+    "uri": "https://jisho.org/search/%E8%99%B9%23kanji"
+  }
+}

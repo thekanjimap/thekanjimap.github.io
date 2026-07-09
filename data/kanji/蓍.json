@@ -1,0 +1,46 @@
+{
+  "id": "蓍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蓍",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "cỏ thi, cây huyết thanh, thân dùng để bói toán",
+    "kunyomi": [
+      "めどぎ"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "筮",
+        "reading": "めどぎ",
+        "meaning": "gậy bói toán"
+      },
+      {
+        "example": "蓍木",
+        "reading": "めどぎ",
+        "meaning": "Lespedeza Trung Quốc (Lespedeza cuneata), sericea lespedeza"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "匕",
+      "日",
+      "老",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33997_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084cd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84cd.gif",
+    "uri": "https://jisho.org/search/%E8%93%8D%23kanji"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "稜",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "稜",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2091",
+    "strokeCount": 13,
+    "meaning": "góc, cạnh, góc, quyền lực, uy nghi",
+    "kunyomi": [
+      "いつ",
+      "かど"
+    ],
+    "onyomi": [
+      "リョウ",
+      "ロウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "稜",
+        "reading": "リョウ",
+        "meaning": "cạnh, góc, sườn núi (ví dụ: một ngọn núi)"
+      },
+      {
+        "example": "稜角",
+        "reading": "リョウカク",
+        "meaning": "góc, góc nhọn, góc nhị diện"
+      },
+      {
+        "example": "気骨稜々",
+        "reading": "キコツリョウリョウ",
+        "meaning": "(người có) đạo đức vững chắc (xương sống, quyết tâm)"
+      },
+      {
+        "example": "岩稜",
+        "reading": "ガンリョウ",
+        "meaning": "sườn núi, sườn núi đá"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "稜威言別",
+        "reading": "いつのことわき",
+        "meaning": "Ghi chú về các bài hát của Kojiki và Nihonshoki (của Tachibana Moribe, 1850)"
+      },
+      {
+        "example": "稜威道別",
+        "reading": "いつのちわき",
+        "meaning": "Những cách chia tay quyền lực (bởi Tachibana Moribe, 1844)"
+      }
+    ],
+    "radical": {
+      "symbol": "禾",
+      "meaning": "ngũ cốc"
+    },
+    "parts": [
+      "儿",
+      "土",
+      "夂",
+      "禾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31260_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07a1c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7a1c.gif",
+    "uri": "https://jisho.org/search/%E7%A8%9C%23kanji"
+  }
+}

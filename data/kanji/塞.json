@@ -1,0 +1,83 @@
+{
+  "id": "塞",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "塞",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "strokeCount": 13,
+    "meaning": "đóng, đóng, che, chặn, cản trở",
+    "kunyomi": [
+      "ふさ.ぐ",
+      "とりで",
+      "み.ちる"
+    ],
+    "onyomi": [
+      "ソク",
+      "サイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "塞源",
+        "reading": "ソクゲン",
+        "meaning": "tắc nghẽn nguồn"
+      },
+      {
+        "example": "塞栓",
+        "reading": "ソクセン",
+        "meaning": "thuyên tắc, chất bất thường (tức là không khí) lưu thông trong máu"
+      },
+      {
+        "example": "梗塞",
+        "reading": "コウソク",
+        "meaning": "tắc nghẽn, tắc nghẽn, nhồi máu, nhồi máu"
+      },
+      {
+        "example": "閉塞",
+        "reading": "ヘイソク",
+        "meaning": "sự tắc nghẽn,sự phong tỏa,sự tắc nghẽn,sự tắc nghẽn,sự tắc nghẽn,sự tắc nghẽn"
+      },
+      {
+        "example": "塞翁が馬",
+        "reading": "サイオウガウマ",
+        "meaning": "Tương lai không thể đoán trước, Thiên đường khó hiểu, Sự trớ trêu của số phận"
+      },
+      {
+        "example": "塞外",
+        "reading": "サイガイ",
+        "meaning": "bên ngoài một pháo đài, bên ngoài Vạn Lý Trường Thành của Trung Quốc"
+      },
+      {
+        "example": "防塞",
+        "reading": "ボウサイ",
+        "meaning": "pháo đài, vị trí phòng thủ"
+      },
+      {
+        "example": "城塞",
+        "reading": "ジョウサイ",
+        "meaning": "pháo đài, pháo đài, thành trì"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "塞ぐ",
+        "reading": "ふさぐ",
+        "meaning": "dừng lại, đóng lại, chặn (lên), cắm lên, im lặng, che (tai, mắt, v.v.), đóng (mắt, miệng), cản đường, cản trở, chiếm giữ, lấp đầy, đảm nhận, thực hiện vai trò của một người, làm nhiệm vụ của một người, cảm thấy chán nản, tinh thần thấp kém, mope"
+      }
+    ],
+    "radical": {
+      "symbol": "土",
+      "meaning": "trái đất"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "土",
+      "宀"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22622_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0585e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/585e.gif",
+    "uri": "https://jisho.org/search/%E5%A1%9E%23kanji"
+  }
+}

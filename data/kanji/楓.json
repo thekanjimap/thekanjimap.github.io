@@ -1,0 +1,76 @@
+{
+  "id": "楓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "楓",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 13,
+    "meaning": "cây phong",
+    "kunyomi": [
+      "かえで"
+    ],
+    "onyomi": [
+      "フウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "楓",
+        "reading": "フウ",
+        "meaning": "Kẹo cao su Formosan (Liquidambar formosana)"
+      },
+      {
+        "example": "楓子香",
+        "reading": "フウシコウ",
+        "meaning": "galbanum (nhựa cao su từ cây thì là)"
+      },
+      {
+        "example": "松楓",
+        "reading": "ショウフウ",
+        "meaning": "cây phong"
+      },
+      {
+        "example": "紅葉葉楓",
+        "reading": "モミジバフウ",
+        "meaning": "kẹo cao su (Liquidambar styraciflua), kẹo cao su đỏ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "楓",
+        "reading": "かえで",
+        "meaning": "cây phong (Acer spp.), cây phong"
+      },
+      {
+        "example": "楓鳥",
+        "reading": "かえでちょう",
+        "meaning": "mỏ sáp mông đen (Estrilda troglodytes), estrildid (bất kỳ loài chim nào thuộc họ Estrildidae), mỏ sáp"
+      },
+      {
+        "example": "唐楓",
+        "reading": "とうかえで",
+        "meaning": "cây phong đinh ba, acer buergerianum"
+      },
+      {
+        "example": "砂糖楓",
+        "reading": "さとうかえで",
+        "meaning": "cây phong đường (Acer saccharum), cây phong đá"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "ノ",
+      "几",
+      "木",
+      "虫",
+      "風"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26963_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06953.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6953.gif",
+    "uri": "https://jisho.org/search/%E6%A5%93%23kanji"
+  }
+}

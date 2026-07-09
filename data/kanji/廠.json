@@ -1,0 +1,48 @@
+{
+  "id": "廠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "廠",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "xưởng",
+    "kunyomi": [],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "廠舎",
+        "reading": "ショウシャ",
+        "meaning": "doanh trại, trại tập trung, nơi ở tạm có mái nhưng không có tường (đặc biệt dành cho các cuộc tập trận quân sự)"
+      },
+      {
+        "example": "造兵廠",
+        "reading": "ゾウヘイショウ",
+        "meaning": "kho vũ khí, kho vũ khí, nhà máy vũ khí, kho vũ khí"
+      },
+      {
+        "example": "工廠",
+        "reading": "コウショウ",
+        "meaning": "nhà máy sản xuất vũ khí, vũ khí và đạn dược"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "广",
+      "meaning": "ngôi nhà trên vách đá"
+    },
+    "parts": [
+      "乞",
+      "冂",
+      "口",
+      "尚",
+      "广",
+      "攵"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24288_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05ee0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5ee0.gif",
+    "uri": "https://jisho.org/search/%E5%BB%A0%23kanji"
+  }
+}

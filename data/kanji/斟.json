@@ -1,0 +1,38 @@
+{
+  "id": "斟",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "斟",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "nhúng nước, ước tính",
+    "kunyomi": [
+      "く.む"
+    ],
+    "onyomi": [
+      "シン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "斟酌",
+        "reading": "シンシャク",
+        "meaning": "xem xét, đưa ra các khoản phụ cấp (cho), dự trữ, kiềm chế, khoan dung, thương xót"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "斗",
+      "meaning": "cái gáo"
+    },
+    "parts": [
+      "儿",
+      "匚",
+      "斗",
+      "甘"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26015_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0659f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/659f.gif",
+    "uri": "https://jisho.org/search/%E6%96%9F%23kanji"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "芬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "芬",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "nước hoa",
+    "kunyomi": [
+      "かおり",
+      "こうば.しい"
+    ],
+    "onyomi": [
+      "フン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "芬",
+        "reading": "フン",
+        "meaning": "Phần Lan, thơm, thơm"
+      },
+      {
+        "example": "芬々",
+        "reading": "フンプン",
+        "meaning": "(của một mùi, đặc biệt là một mùi thơm) nồng nặc"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "ハ",
+      "刀",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33452_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/082ac.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/82ac.gif",
+    "uri": "https://jisho.org/search/%E8%8A%AC%23kanji"
+  }
+}

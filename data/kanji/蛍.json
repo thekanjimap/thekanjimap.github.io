@@ -1,0 +1,66 @@
+{
+  "id": "蛍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蛍",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2031",
+    "strokeCount": 11,
+    "meaning": "con đom đóm, con đom đóm",
+    "kunyomi": [
+      "ほたる"
+    ],
+    "onyomi": [
+      "ケイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蛍光灯",
+        "reading": "ケイコウトウ",
+        "meaning": "đèn huỳnh quang, đèn huỳnh quang, người phản ứng chậm, người tiếp thu chậm"
+      },
+      {
+        "example": "蛍光",
+        "reading": "ケイコウ",
+        "meaning": "huỳnh quang"
+      },
+      {
+        "example": "流蛍",
+        "reading": "リュウケイ",
+        "meaning": "đom đóm bay"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蛍",
+        "reading": "ほたる",
+        "meaning": "đom đóm (Luciola cruciata), bọ sét, đom đóm"
+      },
+      {
+        "example": "蛍藺",
+        "reading": "ほたるい",
+        "meaning": "Scirpus hotarui (loài cây bồ hoàng)"
+      },
+      {
+        "example": "海蛍",
+        "reading": "うみほたる",
+        "meaning": "đom đóm biển (Vargula hilgendorfii), tôm giống"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "côn trùng"
+    },
+    "parts": [
+      "冖",
+      "尚",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34509_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086cd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86cd.gif",
+    "uri": "https://jisho.org/search/%E8%9B%8D%23kanji"
+  }
+}

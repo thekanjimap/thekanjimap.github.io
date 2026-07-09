@@ -1,0 +1,80 @@
+{
+  "id": "紛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "紛",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "994",
+    "strokeCount": 10,
+    "meaning": "làm xao lãng, bị nhầm lẫn, lạc lối, chuyển hướng",
+    "kunyomi": [
+      "まぎ.れる",
+      "-まぎ.れ",
+      "まぎ.らす",
+      "まぎ.らわす",
+      "まぎ.らわしい"
+    ],
+    "onyomi": [
+      "フン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "紛争",
+        "reading": "フンソウ",
+        "meaning": "tranh chấp, xung đột, rắc rối, bất ổn, xung đột"
+      },
+      {
+        "example": "紛糾",
+        "reading": "フンキュウ",
+        "meaning": "sự phức tạp, sự nhầm lẫn, rối loạn, hỗn loạn, tranh chấp, xung đột, rắc rối, cãi vã"
+      },
+      {
+        "example": "人工授粉",
+        "reading": "ジンコウジュフン",
+        "meaning": "thụ phấn nhân tạo, thụ phấn tay, thụ phấn cơ học"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "紛れる",
+        "reading": "まぎれる",
+        "meaning": "biến mất vào, lạc vào, lẻn vào, lẫn vào giữa, làm điều gì đó dưới vỏ bọc của (nhầm lẫn, v.v.), gần như không thể phân biệt được, giống nhau một cách khó hiểu, bị chuyển hướng khỏi (cảm xúc tiêu cực, v.v.), quên đi, bị phân tâm, quá mải mê với"
+      },
+      {
+        "example": "紛らす",
+        "reading": "まぎらす",
+        "meaning": "chuyển hướng (ví dụ: tâm trí của một người), làm phân tâm, làm nhẹ nhõm (buồn chán, buồn bã, v.v.), nhấn chìm (nỗi buồn của một người), đánh lừa (thời gian), che giấu (ví dụ: nỗi đau của một người bằng một nụ cười), che giấu, thay đổi (cuộc trò chuyện), thay đổi (chủ đề)"
+      },
+      {
+        "example": "紛らわす",
+        "reading": "まぎらわす",
+        "meaning": "chuyển hướng (ví dụ: tâm trí của một người), làm phân tâm, làm nhẹ nhõm (buồn chán, buồn bã, v.v.), nhấn chìm (nỗi buồn của một người), đánh lừa (thời gian), che giấu (ví dụ: nỗi đau của một người bằng một nụ cười), che giấu, thay đổi (cuộc trò chuyện), thay đổi (chủ đề)"
+      },
+      {
+        "example": "紛らわしい",
+        "reading": "まぎらわしい",
+        "meaning": "dễ nhầm lẫn (ví dụ: những từ tương tự), dễ nhầm lẫn, khó hiểu, gây hiểu nhầm, lập lờ, mơ hồ"
+      }
+    ],
+    "radical": {
+      "symbol": "糸",
+      "forms": [
+        "糹"
+      ],
+      "meaning": "lụa"
+    },
+    "parts": [
+      "ハ",
+      "刀",
+      "小",
+      "幺",
+      "糸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32027_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07d1b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7d1b.gif",
+    "uri": "https://jisho.org/search/%E7%B4%9B%23kanji"
+  }
+}

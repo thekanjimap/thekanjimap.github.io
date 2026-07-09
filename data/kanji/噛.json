@@ -1,0 +1,46 @@
+{
+  "id": "噛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "噛",
+    "found": true,
+    "newspaperFrequencyRank": "2399",
+    "strokeCount": 15,
+    "meaning": "nhai, cắn, gặm",
+    "kunyomi": [
+      "か.む",
+      "か.じる"
+    ],
+    "onyomi": [
+      "コウ",
+      "ゴウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "噛む",
+        "reading": "かむ",
+        "meaning": "cắn, nhai, gặm, nhai, lóng ngóng lời nói (đặc biệt trong khi chơi, phát sóng, v.v.), ấp úng với lời nói của mình, lắp bắp, lắp bắp, va vào (ví dụ như sóng), lao vào (bờ), tham gia (của bánh răng, dây kéo, v.v.), nối với nhau, khớp với nhau, tham gia vào, thuyết phục, thuyết phục"
+      },
+      {
+        "example": "齧る",
+        "reading": "かじる",
+        "meaning": "gặm, gặm, cắn, nhai, nhai, vọc vào, biết một chút về, tìm hiểu một chút, có một ít"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "口",
+      "止",
+      "歯",
+      "米"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22107_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0565b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/565b.gif",
+    "uri": "https://jisho.org/search/%E5%99%9B%23kanji"
+  }
+}

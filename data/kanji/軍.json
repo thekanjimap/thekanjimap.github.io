@@ -1,0 +1,383 @@
+{
+  "id": "軍",
+  "kanjialiveData": {
+    "_id": "54317b0e791eba5146ee4c94",
+    "_rev": "10-d147a1488663703a3ed88e7b9fe0ce03",
+    "rad_name_ja": "くるま",
+    "grade": 4,
+    "hint_group": 1,
+    "kunyomi": "Không có",
+    "meaning": "quân đội",
+    "kstroke": 9,
+    "examples": [
+      {
+        "japanese": "軍（ぐん）",
+        "meaning": {
+          "english": "quân đội, lực lượng, binh lính"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gun(tai)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gun(tai)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gun(tai)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gun(tai)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "軍隊（ぐんたい）",
+        "meaning": {
+          "english": "quân đội, quân đội"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gun(tai)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gun(tai)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gun(tai)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gun(tai)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "軍人（ぐんじん）",
+        "meaning": {
+          "english": "quân nhân, người lính"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gun(tai)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gun(tai)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gun(tai)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gun(tai)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "軍縮（ぐんしゅく）",
+        "meaning": {
+          "english": "giảm vũ khí"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gun(tai)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gun(tai)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gun(tai)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gun(tai)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "軍事力（ぐんじりょく）",
+        "meaning": {
+          "english": "lực lượng quân sự, sức mạnh quân sự"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gun(tai)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gun(tai)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gun(tai)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gun(tai)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "軍国主義（ぐんこくしゅぎ）",
+        "meaning": {
+          "english": "chủ nghĩa quân phiệt"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gun(tai)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gun(tai)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gun(tai)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gun(tai)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "空軍（くうぐん）",
+        "meaning": {
+          "english": "lực lượng không quân"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gun(tai)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gun(tai)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gun(tai)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gun(tai)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "陸軍（りくぐん）",
+        "meaning": {
+          "english": "quân đội"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gun(tai)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gun(tai)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gun(tai)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gun(tai)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "海軍（かいぐん）",
+        "meaning": {
+          "english": "hải quân"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gun(tai)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gun(tai)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gun(tai)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gun(tai)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "敵軍（てきぐん）",
+        "meaning": {
+          "english": "quân địch"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gun(tai)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gun(tai)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gun(tai)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gun(tai)_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "一軍（いちぐん）",
+        "meaning": {
+          "english": "một đội quân, toàn bộ đội quân, đội đầu tiên"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/gun(tai)_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/gun(tai)_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/gun(tai)_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/gun(tai)_06_k.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "軍",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=軍",
+    "kname": "gun(tai)",
+    "rad_order": 195,
+    "txt_books": [
+      {
+        "chapter": "4",
+        "txt_bk": "txtAd4"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtSFJ4"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtIKB"
+      }
+    ],
+    "rad_name_search": [
+      "kuruma"
+    ],
+    "rad_utf": "⾞",
+    "stroketimes": [
+      0,
+      0.866667,
+      2,
+      3.133333,
+      4,
+      5.4,
+      6.133333,
+      7.466667,
+      9,
+      11.266667
+    ],
+    "kunyomi_ka_display": "Không có",
+    "dick": "1318",
+    "rad_name": "kuruma",
+    "dicn": "628",
+    "mn_hint": "Group of covered 冖 vehicles 車 with army supplies.",
+    "rad_stroke": 7,
+    "onyomi_ja": "グン",
+    "rad_meaning": "xe, bánh xe, xe hơi",
+    "onyomi": "gun",
+    "ka_id": "ka_920",
+    "onyomi_search": [
+      "gun",
+      "gun"
+    ],
+    "kunyomi_search": [
+      "Không có",
+      "Không có"
+    ],
+    "meaning_search": [
+      "army",
+      "army"
+    ],
+    "onyomi_ja_search": [
+      "グン",
+      "グン"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "vehicle",
+      "wheel",
+      "car",
+      "vehicle, wheel, car"
+    ],
+    "rad_name_ja_search": [
+      "くるま"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "aij3",
+      "aij3:4",
+      "aij3:c4",
+      "aij3:v4",
+      "aij3:v4:4",
+      "aij3:v4:c4",
+      "ik1",
+      "ik1:6",
+      "ik1:c6"
+    ],
+    "rad_name_file": "kuruma",
+    "kanji": {
+      "character": "軍",
+      "meaning": {
+        "english": "army"
+      },
+      "strokes": {
+        "count": 9,
+        "timings": [
+          0,
+          0.866667,
+          2,
+          3.133333,
+          4,
+          5.4,
+          6.133333,
+          7.466667,
+          9,
+          11.266667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/gun(tai)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/gun(tai)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/gun(tai)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/gun(tai)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/gun(tai)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/gun(tai)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/gun(tai)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/gun(tai)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/gun(tai)_9.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "gun",
+        "katakana": "グン"
+      },
+      "kunyomi": {
+        "romaji": "Không có",
+        "hiragana": "Không có"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/gun(tai)_9.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/gun(tai)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/gun(tai)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⾞",
+      "strokes": 7,
+      "image": "https://media.kanjialive.com/radical_character/kuruma.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "くるま",
+        "romaji": "kuruma"
+      },
+      "meaning": {
+        "english": "xe, bánh xe, xe hơi"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/kuruma0.svg",
+        "https://media.kanjialive.com/rad_frames/kuruma1.svg",
+        "https://media.kanjialive.com/rad_frames/kuruma2.svg"
+      ]
+    },
+    "references": {
+      "grade": 4,
+      "kodansha": "1318",
+      "classic_nelson": "628"
+    }
+  },
+  "jishoData": {
+    "query": "軍",
+    "found": true,
+    "taughtIn": "lớp 4",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "189",
+    "strokeCount": 9,
+    "meaning": "quân đội, lực lượng, quân đội, chiến tranh, trận chiến",
+    "kunyomi": [
+      "いくさ"
+    ],
+    "onyomi": [
+      "グン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "軍",
+        "reading": "グン",
+        "meaning": "quân đội, lực lượng vũ trang, quân đội, chính quyền quân sự, đội, nhóm, đoàn"
+      },
+      {
+        "example": "軍医",
+        "reading": "グンイ",
+        "meaning": "bác sĩ quân y hoặc bác sĩ phẫu thuật"
+      },
+      {
+        "example": "両軍",
+        "reading": "リョウグン",
+        "meaning": "cả hai quân đội, cả hai đội, cả hai bên"
+      },
+      {
+        "example": "従軍",
+        "reading": "ジュウグン",
+        "meaning": "nghĩa vụ quân sự, phục vụ trong chiến tranh, tham gia chiến dịch"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "戦",
+        "reading": "いくさ",
+        "meaning": "Chiến tranh, trận chiến, Chiến dịch, chiến đấu, Quân đội, Lực lượng"
+      },
+      {
+        "example": "軍神",
+        "reading": "ぐんしん",
+        "meaning": "thần chiến tranh, anh hùng chiến tranh (đã chết trong trận chiến)"
+      },
+      {
+        "example": "海兵遠征軍",
+        "reading": "かいへいえんせいいくさ",
+        "meaning": "Lực lượng viễn chinh thủy quân lục chiến (Mỹ)"
+      },
+      {
+        "example": "大軍",
+        "reading": "おおいくさ",
+        "meaning": "trận chiến lớn, trận chiến lớn"
+      }
+    ],
+    "radical": {
+      "symbol": "車",
+      "meaning": "xe đẩy, xe hơi"
+    },
+    "parts": [
+      "冖",
+      "車"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36557_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08ecd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8ecd.gif",
+    "uri": "https://jisho.org/search/%E8%BB%8D%23kanji"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "叶",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "叶",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2312",
+    "strokeCount": 5,
+    "meaning": "cấp, trả lời",
+    "kunyomi": [
+      "かな.える",
+      "かな.う"
+    ],
+    "onyomi": [
+      "キョウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "叶える",
+        "reading": "かなえる",
+        "meaning": "cấp (yêu cầu, mong muốn), trả lời (cầu nguyện), thực hiện (điều kiện), đáp ứng (yêu cầu)"
+      },
+      {
+        "example": "叶う",
+        "reading": "かなう",
+        "meaning": "trở thành sự thật (mong muốn, lời cầu nguyện, v.v.), được thực hiện, được thực hiện, phù hợp (ví dụ: mục đích), đáp ứng (mong muốn, lý tưởng, v.v.), tuân theo (tiêu chuẩn, quy tắc, v.v.), phù hợp với, phù hợp (ngụ ý cạnh tranh), cạnh tranh, chịu đựng (ví dụ: sức nóng)"
+      },
+      {
+        "example": "叶うことなら",
+        "reading": "かなうことなら",
+        "meaning": "nếu có thể, nếu nó nằm trong khả năng của tôi, nếu nó thực tế"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "十",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21494_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053f6.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53f6.gif",
+    "uri": "https://jisho.org/search/%E5%8F%B6%23kanji"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "鑽",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鑽",
+    "found": true,
+    "strokeCount": 27,
+    "meaning": "tạo lửa bằng cách cọ xát que củi",
+    "kunyomi": [
+      "き.る"
+    ],
+    "onyomi": [
+      "サン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鑽孔",
+        "reading": "サンコウ",
+        "meaning": "nhàm chán, đấm"
+      },
+      {
+        "example": "鑽孔機",
+        "reading": "サンコウキ",
+        "meaning": "máy khoan, máy đục lỗ, máy đục lỗ"
+      },
+      {
+        "example": "研鑽",
+        "reading": "ケンサン",
+        "meaning": "siêng năng học tập, cống hiến hết mình cho việc học"
+      },
+      {
+        "example": "試鑽",
+        "reading": "シサン",
+        "meaning": "nhàm chán, khoan"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鑽る",
+        "reading": "きる",
+        "meaning": "nhóm lửa (bằng ma sát gỗ-gỗ hoặc bằng cách đập kim loại vào đá)"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "kim loại, vàng"
+    },
+    "parts": [
+      "ノ",
+      "ハ",
+      "儿",
+      "土",
+      "目",
+      "貝",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38013_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0947d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/947d.gif",
+    "uri": "https://jisho.org/search/%E9%91%BD%23kanji"
+  }
+}

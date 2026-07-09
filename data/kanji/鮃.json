@@ -1,0 +1,46 @@
+{
+  "id": "鮃",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鮃",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "cá bơn, cá dẹt",
+    "kunyomi": [
+      "ひらめ"
+    ],
+    "onyomi": [
+      "ヒョウ",
+      "ヘイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "大鮃",
+        "reading": "オヒョウ",
+        "meaning": "cá bơn (đặc biệt là cá bơn Thái Bình Dương, Hippoglossus stenolepis)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "平目",
+        "reading": "ひらめ",
+        "meaning": "cá bơn (đặc biệt là cá bơn răng lớn thuộc họ Paralichthyidae, nhưng cũng có cá bơn mắt trái thuộc họ Bothidae), cá bơn khốn nạn, cá bơn ô liu (Paralichthys olivaceus), người ngoan ngoãn với cấp trên, cóc"
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "cá"
+    },
+    "parts": [
+      "干",
+      "并",
+      "杰",
+      "田",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39811_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b83.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b83.gif",
+    "uri": "https://jisho.org/search/%E9%AE%83%23kanji"
+  }
+}

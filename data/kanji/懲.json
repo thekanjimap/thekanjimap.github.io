@@ -1,0 +1,80 @@
+{
+  "id": "懲",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "懲",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1303",
+    "strokeCount": 18,
+    "meaning": "trừng phạt, trừng phạt, trừng phạt, kỷ luật",
+    "kunyomi": [
+      "こ.りる",
+      "こ.らす",
+      "こ.らしめる"
+    ],
+    "onyomi": [
+      "チョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "懲戒",
+        "reading": "チョウカイ",
+        "meaning": "kỷ luật, trừng phạt, khiển trách"
+      },
+      {
+        "example": "懲役",
+        "reading": "チョウエキ",
+        "meaning": "khổ sai, bỏ tù lao động khổ sai (lao động khổ sai)"
+      },
+      {
+        "example": "膺懲",
+        "reading": "ヨウチョウ",
+        "meaning": "sự trừng phạt (đối với kẻ thù), sự trừng phạt"
+      },
+      {
+        "example": "暴支膺懲",
+        "reading": "ボウシヨウチョウ",
+        "meaning": "trừng phạt Trung Quốc man rợ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "懲りる",
+        "reading": "こりる",
+        "meaning": "học bằng kinh nghiệm, học bài học của mình, học một cách khó khăn, chán nản (bởi), có đủ (của), chán ghét (với)"
+      },
+      {
+        "example": "懲らす",
+        "reading": "こらす",
+        "meaning": "trừng phạt, trừng phạt, kỷ luật"
+      },
+      {
+        "example": "懲らしめる",
+        "reading": "こらしめる",
+        "meaning": "trừng phạt, trừng phạt, kỷ luật"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "乞",
+      "山",
+      "彳",
+      "心",
+      "攵",
+      "王"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25074_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061f2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61f2.gif",
+    "uri": "https://jisho.org/search/%E6%87%B2%23kanji"
+  }
+}

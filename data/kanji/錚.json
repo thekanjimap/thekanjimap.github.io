@@ -1,0 +1,39 @@
+{
+  "id": "錚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "錚",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "chiêng",
+    "kunyomi": [],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "錚々",
+        "reading": "ソウソウ",
+        "meaning": "nổi bật, nổi bật, nổi bật, hạng nhất, dẫn đầu, vang lên (bằng kim loại), vang dội (của một nhạc cụ)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "kim loại, vàng"
+    },
+    "parts": [
+      "ヨ",
+      "亅",
+      "爪",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37658_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0931a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/931a.gif",
+    "uri": "https://jisho.org/search/%E9%8C%9A%23kanji"
+  }
+}

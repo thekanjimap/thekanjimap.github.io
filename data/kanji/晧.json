@@ -1,0 +1,41 @@
+{
+  "id": "晧",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "晧",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "trong sáng, thuần khiết",
+    "kunyomi": [],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "皓々",
+        "reading": "コウコウ",
+        "meaning": "sáng (đặc biệt là mặt trăng), rộng và trống rỗng"
+      },
+      {
+        "example": "皓々",
+        "reading": "コウコウ",
+        "meaning": "sáng (đặc biệt là mặt trăng), rộng và trống rỗng"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "日",
+      "meaning": "mặt trời, ngày"
+    },
+    "parts": [
+      "ノ",
+      "口",
+      "土",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26215_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06667.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6667.gif",
+    "uri": "https://jisho.org/search/%E6%99%A7%23kanji"
+  }
+}

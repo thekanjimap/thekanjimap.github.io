@@ -1,0 +1,55 @@
+{
+  "id": "吻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "吻",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "vòi con",
+    "kunyomi": [
+      "くちわき",
+      "くちさき"
+    ],
+    "onyomi": [
+      "フン",
+      "ブン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "吻",
+        "reading": "フン",
+        "meaning": "vòi, mõm"
+      },
+      {
+        "example": "吻殻綱",
+        "reading": "フンカクコウ",
+        "meaning": "Rostroconchia (lớp động vật thân mềm đã tuyệt chủng)"
+      },
+      {
+        "example": "黄吻",
+        "reading": "コウフン",
+        "meaning": "người trẻ và thiếu kinh nghiệm"
+      },
+      {
+        "example": "口吻",
+        "reading": "コウフン",
+        "meaning": "cách nói,sự thân mật,đôi môi,miệng,mõm,vòng"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "ノ",
+      "勹",
+      "勿",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21563_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0543b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/543b.gif",
+    "uri": "https://jisho.org/search/%E5%90%BB%23kanji"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "id": "執",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "執",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "800",
+    "strokeCount": 11,
+    "meaning": "ngoan cường, nắm giữ, nắm lấy, lấy lòng",
+    "kunyomi": [
+      "と.る"
+    ],
+    "onyomi": [
+      "シツ",
+      "シュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "執務",
+        "reading": "シツム",
+        "meaning": "thực hiện nhiệm vụ chính thức của một người"
+      },
+      {
+        "example": "執拗い",
+        "reading": "シツコイ",
+        "meaning": "khăng khăng, cố chấp, dai dẳng, ngoan cường, quá đậm đà (hương vị, v.v.), béo, nặng, béo ngậy"
+      },
+      {
+        "example": "中執",
+        "reading": "チュウシツ",
+        "meaning": "Ban chấp hành trung ương"
+      },
+      {
+        "example": "確執",
+        "reading": "カクシツ",
+        "meaning": "sự bất hòa, sự đối kháng"
+      },
+      {
+        "example": "執",
+        "reading": "シュウ",
+        "meaning": "sự gắn bó, nỗi ám ảnh, sự kiên trì"
+      },
+      {
+        "example": "執行",
+        "reading": "シッコウ",
+        "meaning": "thực hiện, thực hiện, thực hiện, thi hành, tập thể dục, dịch vụ, tiến hành, thực hiện, nhà sư dẫn đầu thực hiện các nhiệm vụ khác nhau trong một ngôi chùa"
+      },
+      {
+        "example": "確執",
+        "reading": "カクシツ",
+        "meaning": "sự bất hòa, sự đối kháng"
+      },
+      {
+        "example": "愛執",
+        "reading": "アイシュウ",
+        "meaning": "sự gắn bó, tình cảm tham lam"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "執る",
+        "reading": "とる",
+        "meaning": "giải quyết (rắc rối), tham dự (công việc), chỉ huy (quân đội)"
+      }
+    ],
+    "radical": {
+      "symbol": "土",
+      "meaning": "trái đất"
+    },
+    "parts": [
+      "ノ",
+      "丶",
+      "九",
+      "亠",
+      "十",
+      "土",
+      "立",
+      "辛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22519_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/057f7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/57f7.gif",
+    "uri": "https://jisho.org/search/%E5%9F%B7%23kanji"
+  }
+}

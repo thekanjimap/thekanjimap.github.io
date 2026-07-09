@@ -1,0 +1,555 @@
+{
+  "id": "下",
+  "kanjialiveData": {
+    "_id": "54317add791eba5146ee48f7",
+    "_rev": "10-53f1ff9d350abe198cb70bfed6ba71a7",
+    "rad_name_ja": "いち",
+    "grade": 1,
+    "hint_group": 1,
+    "kunyomi": "shita, shimo, sa, sagaru, sageru, kuda, kudaru, kudasai, o, orosu, oriru",
+    "meaning": "xuống",
+    "kstroke": 3,
+    "examples": [
+      {
+        "japanese": "地下鉄（ちかてつ）",
+        "meaning": {
+          "english": "tàu điện ngầm"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ge-shita_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ge-shita_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ge-shita_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ge-shita_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "上下する（じょうげする）",
+        "meaning": {
+          "english": "đi lên và xuống"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ge-shita_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ge-shita_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ge-shita_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ge-shita_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "下（した）",
+        "meaning": {
+          "english": "dưới, bên dưới"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ge-shita_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ge-shita_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ge-shita_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ge-shita_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "靴下（くつした）",
+        "meaning": {
+          "english": "vớ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ge-shita_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ge-shita_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ge-shita_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ge-shita_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "風下（かざしも）",
+        "meaning": {
+          "english": "dưới gió"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ge-shita_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ge-shita_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ge-shita_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ge-shita_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "下がる（さがる）",
+        "meaning": {
+          "english": "cúi xuống, ngã, lùi lại [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ge-shita_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ge-shita_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ge-shita_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ge-shita_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "下げる（さげる）",
+        "meaning": {
+          "english": "treo, hạ [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ge-shita_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ge-shita_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ge-shita_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ge-shita_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "下る（くだる）",
+        "meaning": {
+          "english": "đi xuống"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ge-shita_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ge-shita_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ge-shita_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ge-shita_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "下ろす（おろす）",
+        "meaning": {
+          "english": "hạ xuống, hạ thấp [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ge-shita_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ge-shita_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ge-shita_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ge-shita_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "下りる（おりる）",
+        "meaning": {
+          "english": "xuống xe [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ge-shita_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ge-shita_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ge-shita_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ge-shita_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "*下手（へた）",
+        "meaning": {
+          "english": "không khéo léo"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ge-shita_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ge-shita_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ge-shita_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ge-shita_06_k.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "した、しも、さ、さがる、さげる、くだ、くだる、ください、お、おろす、おりる",
+    "ka_utf": "下",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=下",
+    "kname": "ge-shita",
+    "rad_order": 1,
+    "txt_books": [
+      {
+        "chapter": "7",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtAd2"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtAd3"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtSFJ1"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "19"
+      }
+    ],
+    "rad_name_search": [
+      "ichi"
+    ],
+    "rad_utf": "⼀",
+    "stroketimes": [
+      1.038,
+      1.799,
+      2.866,
+      4
+    ],
+    "kunyomi_ka_display": "した、しも、さ、くだ、お",
+    "dick": "2115",
+    "rad_name": "ichi",
+    "dicn": "9",
+    "mn_hint": "The fortuneteller ト knows everything under the heavens 一.",
+    "rad_stroke": 1,
+    "onyomi_ja": "カ、ゲ",
+    "rad_meaning": "một, nét ngang",
+    "onyomi": "ka, ge",
+    "ka_id": "ka_12",
+    "onyomi_search": [
+      "ka",
+      "ge",
+      "ka, ge"
+    ],
+    "kunyomi_search": [
+      "shita",
+      "shimo",
+      "sa",
+      "sagaru",
+      "sageru",
+      "kuda",
+      "kudaru",
+      "kudasai",
+      "o",
+      "orosu",
+      "oriru",
+      "shita, shimo, sa, sagaru, sageru, kuda, kudaru, kudasai, o, orosu, oriru"
+    ],
+    "meaning_search": [
+      "down",
+      "down"
+    ],
+    "onyomi_ja_search": [
+      "カ",
+      "ゲ",
+      "カ、ゲ"
+    ],
+    "kunyomi_ja_search": [
+      "した",
+      "しも",
+      "さ",
+      "さがる",
+      "さげる",
+      "くだ",
+      "くだる",
+      "ください",
+      "お",
+      "おろす",
+      "おりる",
+      "した、しも、さ、さがる、さげる、くだ、くだる、ください、お、おろす、おりる"
+    ],
+    "rad_meaning_search": [
+      "one",
+      "horizontal stroke",
+      "horizontal",
+      "stroke",
+      "one, horizontal stroke"
+    ],
+    "rad_name_ja_search": [
+      "いち"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:7",
+      "cij:c7",
+      "bk",
+      "bk:4",
+      "bk:c4",
+      "aij3",
+      "aij3:3",
+      "aij3:c3",
+      "aij3:v2",
+      "aij3:v2:3",
+      "aij3:v2:c3",
+      "aij3",
+      "aij3:7",
+      "aij3:c7",
+      "aij3:v3",
+      "aij3:v3:7",
+      "aij3:v3:c7",
+      "gen",
+      "gen:4",
+      "gen:c4",
+      "ap",
+      "ap:2",
+      "ap:c2",
+      "kll",
+      "kll:3",
+      "kll:c3",
+      "cijr",
+      "cijr:19",
+      "cijr:c19"
+    ],
+    "rad_name_file": "ichi",
+    "kanji": {
+      "character": "下",
+      "meaning": {
+        "english": "down"
+      },
+      "strokes": {
+        "count": 3,
+        "timings": [
+          1.038,
+          1.799,
+          2.866,
+          4
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/ge-shita_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/ge-shita_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/ge-shita_3.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "ka, ge",
+        "katakana": "カ、ゲ"
+      },
+      "kunyomi": {
+        "romaji": "shita, shimo, sa, sagaru, sageru, kuda, kudaru, kudasai, o, orosu, oriru",
+        "hiragana": "した、しも、さ、くだ、お"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/ge-shita_3.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/ge-shita_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/ge-shita_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼀",
+      "strokes": 1,
+      "image": "https://media.kanjialive.com/radical_character/ichi.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "いち",
+        "romaji": "ichi"
+      },
+      "meaning": {
+        "english": "một, nét ngang"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/ichi0.svg",
+        "https://media.kanjialive.com/rad_frames/ichi1.svg",
+        "https://media.kanjialive.com/rad_frames/ichi2.svg"
+      ]
+    },
+    "references": {
+      "grade": 1,
+      "kodansha": "2115",
+      "classic_nelson": "9"
+    }
+  },
+  "jishoData": {
+    "query": "下",
+    "found": true,
+    "taughtIn": "lớp 1",
+    "jlptLevel": "N5",
+    "newspaperFrequencyRank": "97",
+    "strokeCount": 3,
+    "meaning": "bên dưới, xuống, hạ xuống, cho, thấp, thấp kém",
+    "kunyomi": [
+      "した",
+      "しも",
+      "もと",
+      "さ.げる",
+      "さ.がる",
+      "くだ.る",
+      "くだ.り",
+      "くだ.す",
+      "-くだ.す",
+      "くだ.さる",
+      "お.ろす",
+      "お.りる"
+    ],
+    "onyomi": [
+      "カ",
+      "ゲ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "下",
+        "reading": "カ",
+        "meaning": "dưới (ảnh hưởng, kiểm soát, điều kiện, v.v. của), trong (chiến tranh, chiếm đóng, v.v.)"
+      },
+      {
+        "example": "下位",
+        "reading": "カイ",
+        "meaning": "thứ hạng thấp, vị trí thấp hơn, vị trí cấp dưới, thứ tự thấp hơn (ví dụ: byte)"
+      },
+      {
+        "example": "陛下",
+        "reading": "ヘイカ",
+        "meaning": "Bệ hạ, Bệ hạ, Bệ hạ"
+      },
+      {
+        "example": "最下",
+        "reading": "サイカ",
+        "meaning": "thấp nhất, tệ nhất"
+      },
+      {
+        "example": "下",
+        "reading": "ゲ",
+        "meaning": "sự thấp hèn (về mức độ, giá trị, v.v.), sự thấp kém, thể tích thứ hai (của hai), thể tích thứ ba (của ba)"
+      },
+      {
+        "example": "下山",
+        "reading": "ゲザン",
+        "meaning": "xuống núi, đi xuống"
+      },
+      {
+        "example": "取り下げ",
+        "reading": "トリサゲ",
+        "meaning": "sự rút lui, sự ngừng lại, sự từ bỏ, sự bỏ rơi"
+      },
+      {
+        "example": "高下",
+        "reading": "コウゲ",
+        "meaning": "tăng và giảm (ví dụ: giá cả), biến động, chênh lệch (thứ hạng, cấp độ, chất lượng, v.v.), biến thể"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "下",
+        "reading": "した",
+        "meaning": "bên dưới, xuống, dưới, trẻ hơn (ví dụ: con gái), phía dưới, bên dưới, bên dưới, ngay sau, ngay sau, thấp kém, kém hơn (tức là đàn em của một người), trao đổi, sơ bộ, chuẩn bị"
+      },
+      {
+        "example": "下請け",
+        "reading": "したうけ",
+        "meaning": "nhà thầu phụ, nhà thầu phụ (cá nhân hoặc công ty)"
+      },
+      {
+        "example": "幕下",
+        "reading": "まくした",
+        "meaning": "hạng ba cao nhất, đô vật hạng ba cao nhất"
+      },
+      {
+        "example": "上下",
+        "reading": "うえした",
+        "meaning": "trên và dưới, lên và xuống, cao và thấp, trên và dưới, đầu trên và đầu dưới, lộn ngược"
+      },
+      {
+        "example": "下",
+        "reading": "しも",
+        "meaning": "hạ lưu (của một dòng sông), đáy, phần dưới, nửa dưới (của cơ thể, đặc biệt là bộ phận sinh dục), phân (phân), nước tiểu, kinh nguyệt, phần cuối, xa hoàng cung (tức là xa Kyoto, đặc biệt là phía tây Nhật Bản), bẩn thỉu (ví dụ: những trò đùa bẩn thỉu, v.v.)"
+      },
+      {
+        "example": "下期",
+        "reading": "しもき",
+        "meaning": "nửa sau của năm (tài chính)"
+      },
+      {
+        "example": "風下",
+        "reading": "かざしも",
+        "meaning": "leeward, lee, xuôi gió"
+      },
+      {
+        "example": "裃",
+        "reading": "かみしも",
+        "meaning": "trang phục samurai, trang phục nghi lễ cũ, trên và dưới, trên và dưới, cao và thấp, trên và dưới, đầu trên và dưới"
+      },
+      {
+        "example": "下",
+        "reading": "もと",
+        "meaning": "dưới (hướng dẫn, giám sát, quy tắc, luật pháp, v.v.), dưới (lá cờ, mặt trời, v.v.), bên dưới, với (ví dụ: một cú đánh), trên (lời hứa, điều kiện, giả định, v.v. rằng ...), ở (ví dụ: tên của ...), phía (của ai đó), vị trí (của ai đó)"
+      },
+      {
+        "example": "山元",
+        "reading": "やまもと",
+        "meaning": "chân núi, chân núi, mỏ, mỏ than, chủ núi, người điều hành mỏ"
+      },
+      {
+        "example": "お膝元",
+        "reading": "おひざもと",
+        "meaning": "bên cạnh một nhà quý tộc, sự giúp đỡ thân thiết (của một nhà quý tộc, v.v.), nơi ở của một người có cấp bậc cao, thành phố của một người (của một tướng quân, lãnh chúa, v.v.), thủ đô của Hoàng gia, triều đình, trụ sở của (tướng quân), nơi dưới sự kiểm soát trực tiếp của một người, sân cỏ của chính mình, sân sau của chính mình"
+      },
+      {
+        "example": "下げる",
+        "reading": "さげる",
+        "meaning": "treo, đình chỉ, đeo (ví dụ: trang trí), hạ thấp, giảm bớt, hạ xuống, giáng cấp, lùi lại, kéo lại, dọn (đĩa), dọn (thức ăn, v.v. khỏi bàn hoặc bàn thờ), tiếp tục chơi sau khi một người đã hình thành tổ hợp tính điểm với các quân bài đã bắt được"
+      },
+      {
+        "example": "下がる",
+        "reading": "さがる",
+        "meaning": "đi xuống, đi xuống, rơi, rơi, chìm, xuống thấp hơn, treo, lủng lẳng, lùi lại, lùi lại, rút lui, nghỉ hưu, xuống cấp, rơi ra, bị hạ cấp, đến gần hơn với ngày nay, bên dưới, phía nam của"
+      },
+      {
+        "example": "下る",
+        "reading": "くだる",
+        "meaning": "đi xuống, đi xuống, đi xuống, được truyền lại (lệnh, sự phán xét, v.v.), vượt qua (thời gian), đầu hàng, đầu hàng, kém hơn, thua kém, chạy trốn, tiêu chảy, đại tiện (trong phân), được thải ra khỏi cơ thể, tự ti, khiêm tốn"
+      },
+      {
+        "example": "下り",
+        "reading": "くだり",
+        "meaning": "down-train, tàu hướng tới điểm cuối của tuyến đường, down-dốc, đi xuống, đi xuống (đặc biệt là từ Tokyo), xuôi dòng, xuống dốc"
+      },
+      {
+        "example": "下り坂",
+        "reading": "くだりざか",
+        "meaning": "xuống dốc, dốc xuống, đi xuống, suy tàn, suy yếu, xuống dốc, (đi) xuống dốc"
+      },
+      {
+        "example": "下す",
+        "reading": "くだす",
+        "meaning": "quyết định, đưa ra kết luận, phán xét, tuyên án, tuyên án, ra lệnh, buông xuống, hạ thấp, tự làm, tự mình làm, đánh đập, đánh bại, đi tiêu lỏng, tiêu chảy, đại tiện, thải ra khỏi cơ thể, làm một lần, làm đến cùng không ngừng"
+      },
+      {
+        "example": "下さる",
+        "reading": "くださる",
+        "meaning": "ban cho, ban cho, ban cho, làm ơn cho ai, bắt buộc, ân huệ, ân huệ"
+      },
+      {
+        "example": "下ろす",
+        "reading": "おろす",
+        "meaning": "hạ, hạ, hạ (tay, cờ, màn trập, v.v.), thả (mỏ neo, rèm, v.v.), thả (tóc), hạ thủy (thuyền), thả (một hành khách), thả ra, dỡ hàng (hàng hóa, xe tải, v.v.), dỡ hàng, xả, rút (tiền), sử dụng lần đầu tiên, mặc lần đầu tiên, cắt ra, phi lê (cá), nạo (ví dụ củ cải), để cắt tỉa (cành cây), loại bỏ (ai đó khỏi một vị trí), lật đổ, thả, dọn dẹp (bàn), loại bỏ (lễ vật từ bàn thờ), truyền xuống (ví dụ: quần áo cũ), từ bỏ, trục xuất khỏi cơ thể (ví dụ: giun), phá thai (bào thai), cầu khẩn (linh hồn), gọi xuống"
+      },
+      {
+        "example": "降りる",
+        "reading": "おりる",
+        "meaning": "đi xuống (ví dụ: một ngọn núi), đi xuống, đi xuống, xuống xe (ví dụ: từ xe buýt), xuống, xuống xe, xuống ngựa, bước xuống, nghỉ hưu, từ bỏ, bỏ, gấp, được cấp, được ban hành, được cho, hình thành (sương, sương, sương mù, v.v.), được truyền qua (từ cơ thể, ví dụ như một con giun tròn)"
+      }
+    ],
+    "radical": {
+      "symbol": "一",
+      "meaning": "một"
+    },
+    "parts": [
+      "一",
+      "卜",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/19979_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e0b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e0b.gif",
+    "uri": "https://jisho.org/search/%E4%B8%8B%23kanji"
+  }
+}

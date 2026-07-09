@@ -1,0 +1,353 @@
+{
+  "id": "角",
+  "kanjialiveData": {
+    "_id": "54317ae8791eba5146ee49cd",
+    "_rev": "12-a004c9a03da140f38f2066aef54bce24",
+    "rad_name_ja": "つの",
+    "grade": 2,
+    "hint_group": 1,
+    "kunyomi": "kado, tsuno",
+    "meaning": "góc, sừng, góc",
+    "kstroke": 7,
+    "examples": [
+      {
+        "japanese": "角度（かくど）",
+        "meaning": {
+          "english": "góc"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuno_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tsuno_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tsuno_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tsuno_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "三角（さんかく）",
+        "meaning": {
+          "english": "tam giác"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuno_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tsuno_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tsuno_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tsuno_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "四角形（しかくけい）",
+        "meaning": {
+          "english": "hình vuông"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuno_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tsuno_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tsuno_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tsuno_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "角（かど）",
+        "meaning": {
+          "english": "góc"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuno_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tsuno_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tsuno_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tsuno_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "曲り角（まがりかど）",
+        "meaning": {
+          "english": "góc, bước ngoặt"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuno_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tsuno_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tsuno_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tsuno_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "四つ角（よつかど）",
+        "meaning": {
+          "english": "ngã tư"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuno_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tsuno_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tsuno_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tsuno_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "角（つの）",
+        "meaning": {
+          "english": "sừng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsuno_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tsuno_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tsuno_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tsuno_06_g.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "かど、つの",
+    "ka_utf": "角",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=角",
+    "rad_name_search": [
+      "tsuno"
+    ],
+    "rad_order": 180,
+    "txt_books": [
+      {
+        "chapter": "25",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "12",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "12",
+        "txt_bk": "jt"
+      }
+    ],
+    "kname": "tsuno",
+    "rad_utf": "⾓",
+    "stroketimes": [
+      0,
+      2.065,
+      3.065,
+      3.932,
+      6.065,
+      6.665,
+      7.999,
+      8.666667
+    ],
+    "kunyomi_ka_display": "かど、つの",
+    "dick": "1293",
+    "rad_name": "tsuno",
+    "dicn": "4301",
+    "mn_hint": "Please view the animation in the radical field to the left.",
+    "rad_stroke": 7,
+    "onyomi_ja": "カク",
+    "rad_meaning": "sừng, góc",
+    "onyomi": "kaku",
+    "ka_id": "ka_280",
+    "onyomi_search": [
+      "kaku",
+      "kaku"
+    ],
+    "kunyomi_search": [
+      "kado",
+      "tsuno",
+      "kado, tsuno"
+    ],
+    "meaning_search": [
+      "angle",
+      "horn",
+      "corner",
+      "angle, horn, corner"
+    ],
+    "onyomi_ja_search": [
+      "カク",
+      "カク"
+    ],
+    "kunyomi_ja_search": [
+      "かど",
+      "つの",
+      "かど、つの"
+    ],
+    "rad_meaning_search": [
+      "horn",
+      "corner",
+      "horn, corner"
+    ],
+    "rad_name_ja_search": [
+      "つの"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:25",
+      "cij:c25",
+      "jt",
+      "jt:12",
+      "jt:c12"
+    ],
+    "rad_name_file": "tsuno",
+    "kanji": {
+      "character": "角",
+      "meaning": {
+        "english": "angle, horn, corner"
+      },
+      "strokes": {
+        "count": 7,
+        "timings": [
+          0,
+          2.065,
+          3.065,
+          3.932,
+          6.065,
+          6.665,
+          7.999,
+          8.666667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/tsuno_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/tsuno_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/tsuno_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/tsuno_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/tsuno_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/tsuno_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/tsuno_7.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "kaku",
+        "katakana": "カク"
+      },
+      "kunyomi": {
+        "romaji": "kado, tsuno",
+        "hiragana": "かど、つの"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/tsuno_7.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/tsuno_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/tsuno_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⾓",
+      "strokes": 7,
+      "image": "https://media.kanjialive.com/radical_character/tsuno.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "つの",
+        "romaji": "tsuno"
+      },
+      "meaning": {
+        "english": "sừng, góc"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/tsuno0.svg",
+        "https://media.kanjialive.com/rad_frames/tsuno1.svg",
+        "https://media.kanjialive.com/rad_frames/tsuno2.svg"
+      ]
+    },
+    "references": {
+      "grade": 2,
+      "kodansha": "1293",
+      "classic_nelson": "4301"
+    }
+  },
+  "jishoData": {
+    "query": "角",
+    "found": true,
+    "taughtIn": "lớp 2",
+    "jlptLevel": "N2",
+    "newspaperFrequencyRank": "805",
+    "strokeCount": 7,
+    "meaning": "góc, góc, hình vuông, sừng, gạc",
+    "kunyomi": [
+      "かど",
+      "つの"
+    ],
+    "onyomi": [
+      "カク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "角",
+        "reading": "カク",
+        "meaning": "góc, hình vuông, hình lập phương, giám mục, bậc ba (theo thang ngũ cung của Nhật Bản và Trung Quốc), chòm sao \"sừng\" Trung Quốc (một trong 28 biệt thự), jiao (đơn vị tiền tệ của Trung Quốc; một phần mười nhân dân tệ)"
+      },
+      {
+        "example": "角界",
+        "reading": "カクカイ",
+        "meaning": "thế giới sumo"
+      },
+      {
+        "example": "内角",
+        "reading": "ナイカク",
+        "meaning": "góc trong, góc trong, góc trong"
+      },
+      {
+        "example": "外角",
+        "reading": "ガイカク",
+        "meaning": "góc ngoài, góc ngoài, góc ngoài"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "角",
+        "reading": "かど",
+        "meaning": "góc, cạnh, góc (đường phố), khúc cua, góc cạnh thô ráp (của tính cách, lời nói, v.v.), sự mài mòn, sự khắc nghiệt, sự sắc bén"
+      },
+      {
+        "example": "角地",
+        "reading": "かどち",
+        "meaning": "lô góc"
+      },
+      {
+        "example": "四つ角",
+        "reading": "よつかど",
+        "meaning": "bốn góc, ngã tư, đường giao nhau, góc phố"
+      },
+      {
+        "example": "塩角",
+        "reading": "しおかど",
+        "meaning": "vị đậm đà của muối (tinh luyện)"
+      },
+      {
+        "example": "角",
+        "reading": "つの",
+        "meaning": "sừng, gạc, ăng-ten, râu, xúc tu (ví dụ như ốc sên), hình chiếu giống sừng (ví dụ: đỉnh kem)"
+      },
+      {
+        "example": "角隠し",
+        "reading": "つのかくし",
+        "meaning": "váy đội đầu cô dâu"
+      },
+      {
+        "example": "枝角",
+        "reading": "えだづの",
+        "meaning": "gạc"
+      },
+      {
+        "example": "豊穣の角",
+        "reading": "ほうじょうのつの",
+        "meaning": "dồi dào, sừng dồi dào"
+      }
+    ],
+    "radical": {
+      "symbol": "角",
+      "meaning": "sừng"
+    },
+    "parts": [
+      "勹",
+      "月",
+      "角",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35282_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/089d2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/89d2.gif",
+    "uri": "https://jisho.org/search/%E8%A7%92%23kanji"
+  }
+}

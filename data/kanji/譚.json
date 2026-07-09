@@ -1,0 +1,57 @@
+{
+  "id": "譚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "譚",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "nói chuyện",
+    "kunyomi": [
+      "はなし"
+    ],
+    "onyomi": [
+      "タン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "譚",
+        "reading": "タン",
+        "meaning": "câu chuyện, câu chuyện"
+      },
+      {
+        "example": "譚歌",
+        "reading": "タンカ",
+        "meaning": "bản ballad"
+      },
+      {
+        "example": "英雄譚",
+        "reading": "エイユウタン",
+        "meaning": "câu chuyện sử thi, anh hùng"
+      },
+      {
+        "example": "綺譚",
+        "reading": "キタン",
+        "meaning": "câu chuyện hay"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "lời nói"
+    },
+    "parts": [
+      "十",
+      "日",
+      "曰",
+      "西",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35674_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08b5a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8b5a.gif",
+    "uri": "https://jisho.org/search/%E8%AD%9A%23kanji"
+  }
+}

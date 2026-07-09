@@ -1,0 +1,51 @@
+{
+  "id": "勒",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "勒",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "dây và bit",
+    "kunyomi": [
+      "くつわ"
+    ],
+    "onyomi": [
+      "ロク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "勒",
+        "reading": "ロク",
+        "meaning": "mũi (ống ngậm ngựa), nét thứ hai trong Bát nguyên tắc Ung, nét phải"
+      },
+      {
+        "example": "勒する",
+        "reading": "ロクスル",
+        "meaning": "quản lý, khắc, viết (cho hậu thế)"
+      },
+      {
+        "example": "弥勒",
+        "reading": "ミロク",
+        "meaning": "Di Lặc (Bồ Tát), Miroku"
+      },
+      {
+        "example": "鉄勒",
+        "reading": "テツロク",
+        "meaning": "Người Tiele, một dân tộc Thổ Nhĩ Kỳ Trung Á"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "力",
+      "meaning": "quyền lực, lực lượng"
+    },
+    "parts": [
+      "力",
+      "革"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21202_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/052d2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/52d2.gif",
+    "uri": "https://jisho.org/search/%E5%8B%92%23kanji"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "惟",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "惟",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2246",
+    "strokeCount": 11,
+    "meaning": "cân nhắc, suy ngẫm, suy nghĩ",
+    "kunyomi": [
+      "おも.んみる",
+      "これ",
+      "おも.うに"
+    ],
+    "onyomi": [
+      "イ",
+      "ユイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "惟神",
+        "reading": "カンナガラ",
+        "meaning": "với tư cách là một vị thần, như đã được thực hiện trong thời đại của các vị thần"
+      },
+      {
+        "example": "思惟",
+        "reading": "シイ",
+        "meaning": "suy nghĩ, suy nghĩ, chiêm nghiệm, cân nhắc, dùng trí tuệ để hiểu tận cùng sự việc, tập trung tâm trí, trầm tư sâu sắc, tập trung suy nghĩ, cân nhắc, cân nhắc, suy ngẫm"
+      },
+      {
+        "example": "思惟",
+        "reading": "シイ",
+        "meaning": "suy nghĩ, suy nghĩ, chiêm nghiệm, cân nhắc, dùng trí tuệ để hiểu tận cùng sự việc, tập trung tâm trí, trầm tư sâu sắc, tập trung suy nghĩ, cân nhắc, cân nhắc, suy ngẫm"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "思い見る",
+        "reading": "おもいみる",
+        "meaning": "phản ánh cẩn thận"
+      },
+      {
+        "example": "此れ",
+        "reading": "これ",
+        "meaning": "cái này, cái này, người này, bây giờ, thời điểm này (trong thời gian), ở đây, dùng để nhấn mạnh chủ ngữ của câu, tôi, tôi"
+      },
+      {
+        "example": "思うに",
+        "reading": "おもうに",
+        "meaning": "có lẽ, có thể hình dung được, theo quan điểm của tôi, theo quan điểm của tôi, tôi nghĩ (rằng), theo suy nghĩ, theo suy nghĩ"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "忙",
+      "隹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24799_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060df.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60df.gif",
+    "uri": "https://jisho.org/search/%E6%83%9F%23kanji"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "蕊",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蕊",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "nhụy hoa, nhị hoa",
+    "kunyomi": [
+      "しべ"
+    ],
+    "onyomi": [
+      "ズイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蕊",
+        "reading": "シベ",
+        "meaning": "nhụy hoa, nhị hoa"
+      },
+      {
+        "example": "雄しべ",
+        "reading": "オシベ",
+        "meaning": "nhị hoa"
+      },
+      {
+        "example": "四強雄蕊",
+        "reading": "シキョウユウズイ",
+        "meaning": "nhị hoa tứ động"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蕊",
+        "reading": "しべ",
+        "meaning": "nhụy hoa, nhị hoa"
+      },
+      {
+        "example": "雄しべ",
+        "reading": "おしべ",
+        "meaning": "nhị hoa"
+      },
+      {
+        "example": "雌しべ",
+        "reading": "めしべ",
+        "meaning": "nhụy hoa"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "心",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34122_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0854a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/854a.gif",
+    "uri": "https://jisho.org/search/%E8%95%8A%23kanji"
+  }
+}

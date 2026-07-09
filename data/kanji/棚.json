@@ -1,0 +1,56 @@
+{
+  "id": "棚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "棚",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1594",
+    "strokeCount": 12,
+    "meaning": "kệ, gờ, giá đỡ, giá đỡ, lớp phủ, lưới mắt cáo",
+    "kunyomi": [
+      "たな",
+      "-だな"
+    ],
+    "onyomi": [
+      "ホウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "氷棚",
+        "reading": "ヒョウホウ",
+        "meaning": "thềm băng"
+      },
+      {
+        "example": "陸棚",
+        "reading": "リクダナ",
+        "meaning": "thềm lục địa"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "棚",
+        "reading": "たな",
+        "meaning": "kệ, gờ, giá đỡ, lưới mắt cáo"
+      },
+      {
+        "example": "棚上げ",
+        "reading": "たなあげ",
+        "meaning": "xếp giá (vấn đề, kế hoạch, v.v.), xếp hàng, xếp bàn, đặt sang một bên, tạm dừng, giữ (hàng hóa) ngoài thị trường (để điều chỉnh cân bằng cung cầu)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "月",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26842_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068da.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68da.gif",
+    "uri": "https://jisho.org/search/%E6%A3%9A%23kanji"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": "噺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "噺",
+    "found": true,
+    "newspaperFrequencyRank": "2308",
+    "strokeCount": 16,
+    "meaning": "nói chuyện, (kokuji)",
+    "kunyomi": [
+      "はなし"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "話",
+        "reading": "はなし",
+        "meaning": "nói chuyện, phát biểu, trò chuyện, cuộc hội thoại, chủ đề, môn học, Thảo luận, Đàm phán, tranh luận, Tin đồn, nói chuyện, tin đồn, Câu chuyện, câu chuyện, Ngụ ngôn, hoàn cảnh, Chi tiết"
+      },
+      {
+        "example": "噺家",
+        "reading": "はなしか",
+        "meaning": "người kể chuyện truyện tranh (rakugo) chuyên nghiệp"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "亠",
+      "口",
+      "并",
+      "斤",
+      "木",
+      "立",
+      "辛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22138_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0567a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/567a.gif",
+    "uri": "https://jisho.org/search/%E5%99%BA%23kanji"
+  }
+}

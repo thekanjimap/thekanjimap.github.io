@@ -1,0 +1,55 @@
+{
+  "id": "寡",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "寡",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2035",
+    "strokeCount": 14,
+    "meaning": "góa phụ, thiểu số, số ít",
+    "kunyomi": [],
+    "onyomi": [
+      "カ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "寡",
+        "reading": "カ",
+        "meaning": "thiểu số, số ít, người chưa lập gia đình, góa phụ, góa phụ"
+      },
+      {
+        "example": "寡婦",
+        "reading": "カフ",
+        "meaning": "góa phụ, phụ nữ đã ly hôn, chưa tái hôn, phụ nữ chưa chồng"
+      },
+      {
+        "example": "多寡",
+        "reading": "タカ",
+        "meaning": "mức độ (của cái gì đó), sự vĩ đại hay nhỏ bé (của cái gì đó), số lượng, số lượng, số lượng, kích thước"
+      },
+      {
+        "example": "鰥寡",
+        "reading": "カンカ",
+        "meaning": "góa phụ và góa phụ, những người cô đơn"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "宀",
+      "meaning": "mái nhà"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "刀",
+      "宀",
+      "自"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23521_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05be1.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5be1.gif",
+    "uri": "https://jisho.org/search/%E5%AF%A1%23kanji"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "梨",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "梨",
+    "found": true,
+    "taughtIn": "lớp 4",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1331",
+    "strokeCount": 11,
+    "meaning": "cây lê",
+    "kunyomi": [
+      "なし"
+    ],
+    "onyomi": [
+      "リ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "梨園",
+        "reading": "リエン",
+        "meaning": "thế giới sân khấu"
+      },
+      {
+        "example": "梨花",
+        "reading": "リカ",
+        "meaning": "hoa lê"
+      },
+      {
+        "example": "鳳梨",
+        "reading": "ホウリ",
+        "meaning": "dứa"
+      },
+      {
+        "example": "阿闍梨",
+        "reading": "アジャリ",
+        "meaning": "nhà sư cao cấp (đặc biệt là một người có hành vi đúng đắn, người đóng vai trò là hình mẫu cho học sinh của mình), linh mục cao cấp, đồng tu (đặc biệt là cấp bậc chính thức ở Tendai và Shingon), nhà sư tiến hành các dịch vụ tôn giáo"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "梨",
+        "reading": "なし",
+        "meaning": "nashi (đặc biệt là Pyrus pyrifolia), lê Nhật Bản, lê châu Á"
+      },
+      {
+        "example": "梨狩り",
+        "reading": "なしがり",
+        "meaning": "hái lê, thu hoạch lê"
+      },
+      {
+        "example": "西洋梨",
+        "reading": "せいようなし",
+        "meaning": "Lê châu Âu (Pyrus communis), lê thông thường"
+      },
+      {
+        "example": "青梨",
+        "reading": "あおなし",
+        "meaning": "Lê Cáp Nhĩ Tân (Pyrus ussuriensis var. hondoensis), lê Ussurian, lê Trung Quốc"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "刈",
+      "木",
+      "禾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26792_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068a8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68a8.gif",
+    "uri": "https://jisho.org/search/%E6%A2%A8%23kanji"
+  }
+}

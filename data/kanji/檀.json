@@ -1,0 +1,73 @@
+{
+  "id": "檀",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "檀",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2291",
+    "strokeCount": 17,
+    "meaning": "gỗ tuyết tùng, gỗ đàn hương, cây trục chính",
+    "kunyomi": [
+      "まゆみ"
+    ],
+    "onyomi": [
+      "ダン",
+      "タン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "旦那",
+        "reading": "ダンナ",
+        "meaning": "chủ (của một ngôi nhà, cửa hàng, v.v.), chồng, thưa ông, ông chủ, ông chủ, thống đốc, người bảo trợ của tình nhân, geisha, nữ tiếp viên quán bar hoặc hộp đêm, bố nuôi, bố thí, bố thí, người bố thí"
+      },
+      {
+        "example": "檀越",
+        "reading": "ダンオツ",
+        "meaning": "người bố thí, người cúng dường cho một tu sĩ hay một ngôi chùa, dana-pati"
+      },
+      {
+        "example": "仏壇",
+        "reading": "ブツダン",
+        "meaning": "Bàn thờ Phật (gia đình)"
+      },
+      {
+        "example": "阿檀",
+        "reading": "アダン",
+        "meaning": "cây dù (Pandanusodorifer), thông vít thơm, kewda"
+      },
+      {
+        "example": "黒檀",
+        "reading": "コクタン",
+        "meaning": "gỗ mun"
+      },
+      {
+        "example": "紫檀",
+        "reading": "シタン",
+        "meaning": "gỗ hồng sắc, gỗ đàn hương đỏ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "小檀",
+        "reading": "こまゆみ",
+        "meaning": "cây trục chính (Euonymus alatus f. ciliatodentatus)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "一",
+      "亠",
+      "口",
+      "日",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27264_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a80.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a80.gif",
+    "uri": "https://jisho.org/search/%E6%AA%80%23kanji"
+  }
+}

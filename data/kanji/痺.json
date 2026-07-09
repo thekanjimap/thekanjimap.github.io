@@ -1,0 +1,48 @@
+{
+  "id": "痺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "痺",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "bị liệt, trở nên tê liệt, tê liệt",
+    "kunyomi": [
+      "しび.れる"
+    ],
+    "onyomi": [
+      "ヒ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "反回神経麻痺",
+        "reading": "ハンカイシンケイマヒ",
+        "meaning": "liệt dây thần kinh tái phát"
+      },
+      {
+        "example": "顔面神経麻痺",
+        "reading": "ガンメンシンケイマヒ",
+        "meaning": "liệt mặt, liệt dây thần kinh mặt"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "痺れる",
+        "reading": "しびれる",
+        "meaning": "trở nên tê liệt, đi ngủ (ví dụ như một chi), bị điện giật, ngứa ran (do điện giật), bị kích động, bị kích thích, bị mê hoặc, bị mê hoặc"
+      }
+    ],
+    "radical": {
+      "symbol": "疒",
+      "meaning": "bệnh tật"
+    },
+    "parts": [
+      "十",
+      "田",
+      "疔"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30202_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/075fa.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/75fa.gif",
+    "uri": "https://jisho.org/search/%E7%97%BA%23kanji"
+  }
+}

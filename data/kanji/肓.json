@@ -1,0 +1,38 @@
+{
+  "id": "肓",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "肓",
+    "found": true,
+    "strokeCount": 7,
+    "meaning": "vùng bên trong cơ thể quá sâu để châm cứu có thể tiếp cận được",
+    "kunyomi": [],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "膏肓",
+        "reading": "コウコウ",
+        "meaning": "phần trong cùng của cơ thể (nơi không thể điều trị được bệnh)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "thịt"
+    },
+    "parts": [
+      "亠",
+      "亡",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32915_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08093.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8093.gif",
+    "uri": "https://jisho.org/search/%E8%82%93%23kanji"
+  }
+}

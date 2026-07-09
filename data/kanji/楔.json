@@ -1,0 +1,78 @@
+{
+  "id": "楔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "楔",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "nêm, đầu mũi tên",
+    "kunyomi": [
+      "くさび",
+      "ほうだて"
+    ],
+    "onyomi": [
+      "ケツ",
+      "セツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "楔状",
+        "reading": "ケツジョウ",
+        "meaning": "hình nêm, hình nêm, hình nêm"
+      },
+      {
+        "example": "楔状骨",
+        "reading": "ケツジョウコツ",
+        "meaning": "hình nêm (xương), xương bướm (xương)"
+      },
+      {
+        "example": "楔状骨",
+        "reading": "ケツジョウコツ",
+        "meaning": "hình nêm (xương), xương bướm (xương)"
+      },
+      {
+        "example": "氷楔",
+        "reading": "ヒョウセツ",
+        "meaning": "nêm đá"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "楔",
+        "reading": "くさび",
+        "meaning": "nêm, chock, chốt, chốt, buộc, trái phiếu"
+      },
+      {
+        "example": "くさび石",
+        "reading": "くさびいし",
+        "meaning": "đá đỉnh vòm, sphene, titanite"
+      },
+      {
+        "example": "間の楔",
+        "reading": "あいのくさび",
+        "meaning": "nêm (để cố định các đồ vật lại với nhau), buộc, kết dính"
+      },
+      {
+        "example": "割り楔",
+        "reading": "わりくさび",
+        "meaning": "chia nêm"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "二",
+      "亠",
+      "刀",
+      "土",
+      "大",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26964_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06954.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6954.gif",
+    "uri": "https://jisho.org/search/%E6%A5%94%23kanji"
+  }
+}

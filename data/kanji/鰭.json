@@ -1,0 +1,67 @@
+{
+  "id": "鰭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鰭",
+    "found": true,
+    "strokeCount": 21,
+    "meaning": "vây",
+    "kunyomi": [
+      "ひれ"
+    ],
+    "onyomi": [
+      "キ",
+      "ギ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鰭脚類",
+        "reading": "キキャクルイ",
+        "meaning": "động vật chân màng (hải cẩu và hải mã)"
+      },
+      {
+        "example": "鰭条",
+        "reading": "キジョウ",
+        "meaning": "tia vây"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鰭",
+        "reading": "ひれ",
+        "meaning": "vây (ví dụ của một con cá)"
+      },
+      {
+        "example": "鰭足鷸",
+        "reading": "ひれあししぎ",
+        "meaning": "Phalarope (bất kỳ loài sáo nào thuộc họ Phalaropodidae)"
+      },
+      {
+        "example": "赤鰭",
+        "reading": "あかひれ",
+        "meaning": "tuế mây trắng (Tanichthys albonubes), Canton danio"
+      },
+      {
+        "example": "鱶鰭",
+        "reading": "ふかひれ",
+        "meaning": "vây cá mập"
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "cá"
+    },
+    "parts": [
+      "匕",
+      "日",
+      "杰",
+      "田",
+      "老",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39981_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c2d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c2d.gif",
+    "uri": "https://jisho.org/search/%E9%B0%AD%23kanji"
+  }
+}

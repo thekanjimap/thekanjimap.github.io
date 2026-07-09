@@ -1,0 +1,55 @@
+{
+  "id": "茫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "茫",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "rộng, rộng rãi",
+    "kunyomi": [
+      "とお.い"
+    ],
+    "onyomi": [
+      "ボウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "茫",
+        "reading": "ボウ",
+        "meaning": "rộng rãi, rộng mở, rộng lớn, mơ hồ, mơ hồ, không rõ ràng"
+      },
+      {
+        "example": "茫然",
+        "reading": "ボウゼン",
+        "meaning": "mơ hồ"
+      },
+      {
+        "example": "蒼茫",
+        "reading": "ソウボウ",
+        "meaning": "rộng lớn và xanh lam (ví dụ: đại dương), tối tăm, tối tăm"
+      },
+      {
+        "example": "草ぼうぼう",
+        "reading": "クサボウボウ",
+        "meaning": "phủ đầy cỏ dại"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "亡",
+      "汁",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33579_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0832b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/832b.gif",
+    "uri": "https://jisho.org/search/%E8%8C%AB%23kanji"
+  }
+}

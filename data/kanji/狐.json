@@ -1,0 +1,76 @@
+{
+  "id": "狐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "狐",
+    "found": true,
+    "newspaperFrequencyRank": "2185",
+    "strokeCount": 9,
+    "meaning": "cáo",
+    "kunyomi": [
+      "きつね"
+    ],
+    "onyomi": [
+      "コ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "狐疑",
+        "reading": "コギ",
+        "meaning": "nghi ngờ, nghi ngờ, do dự, do dự"
+      },
+      {
+        "example": "狐疑逡巡",
+        "reading": "コギシュンジュン",
+        "meaning": "nghi ngờ và không thể quyết định, do dự và thiếu quyết đoán"
+      },
+      {
+        "example": "霊狐",
+        "reading": "レイコ",
+        "meaning": "cáo có sức mạnh siêu nhiên"
+      },
+      {
+        "example": "空狐",
+        "reading": "クウコ",
+        "meaning": "cáo có sức mạnh siêu nhiên"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "狐",
+        "reading": "きつね",
+        "meaning": "cáo (đặc biệt là cáo đỏ, Vulpes vulpes), cáo (tức là người ranh mãnh), soba hoặc udon phủ đậu phụ chiên giòn, nâu nhạt, nâu vàng"
+      },
+      {
+        "example": "狐薊",
+        "reading": "きつねあざみ",
+        "meaning": "bán cầu lyrata"
+      },
+      {
+        "example": "北狐",
+        "reading": "きたきつね",
+        "meaning": "Cáo đỏ Ezo (Vulpes vulpes schrencki)"
+      },
+      {
+        "example": "雌の狐",
+        "reading": "めすのきつね",
+        "meaning": "con cáo cái, vixen"
+      }
+    ],
+    "radical": {
+      "symbol": "犬",
+      "forms": [
+        "犭"
+      ],
+      "meaning": "con chó"
+    },
+    "parts": [
+      "犯",
+      "瓜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/29392_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/072d0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/72d0.gif",
+    "uri": "https://jisho.org/search/%E7%8B%90%23kanji"
+  }
+}

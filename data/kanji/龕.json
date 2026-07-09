@@ -1,0 +1,55 @@
+{
+  "id": "龕",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "龕",
+    "found": true,
+    "strokeCount": 22,
+    "meaning": "hẻm cho một hình ảnh",
+    "kunyomi": [
+      "れい"
+    ],
+    "onyomi": [
+      "カン",
+      "ガン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "龕",
+        "reading": "ガン",
+        "meaning": "hốc để tượng Phật, góc tường, miếu thu nhỏ để tượng Phật, miếu di động dùng để di chuyển người đã khuất từ nhà đến nghĩa địa (ở Okinawa)"
+      },
+      {
+        "example": "龕像",
+        "reading": "ガンゾウ",
+        "meaning": "Tượng phật khắc vào đá, tượng phật trong tủ"
+      },
+      {
+        "example": "起龕",
+        "reading": "キガン",
+        "meaning": "nghi lễ đưa quan tài ra khỏi nhà (người cư sĩ) hoặc chùa (linh mục) (Thiền Phật giáo)"
+      },
+      {
+        "example": "壁龕",
+        "reading": "ヘキガン",
+        "meaning": "hốc tường (trong kiến trúc phương Tây)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "龍",
+      "meaning": "rồng"
+    },
+    "parts": [
+      "一",
+      "个",
+      "口",
+      "月",
+      "立"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40853_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f95.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f95.gif",
+    "uri": "https://jisho.org/search/%E9%BE%95%23kanji"
+  }
+}

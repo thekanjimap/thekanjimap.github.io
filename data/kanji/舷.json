@@ -1,0 +1,66 @@
+{
+  "id": "舷",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "舷",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "strokeCount": 11,
+    "meaning": "lối đi có súng",
+    "kunyomi": [
+      "ふなばた",
+      "ふなべり"
+    ],
+    "onyomi": [
+      "ゲン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "舷",
+        "reading": "ゲン",
+        "meaning": "mạn thuyền, mạn thuyền"
+      },
+      {
+        "example": "舷窓",
+        "reading": "ゲンソウ",
+        "meaning": "lỗ cửa sổ"
+      },
+      {
+        "example": "左舷",
+        "reading": "サゲン",
+        "meaning": "cảng (phía bên trái tàu)"
+      },
+      {
+        "example": "右舷",
+        "reading": "ウゲン",
+        "meaning": "mạn phải"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "船端",
+        "reading": "ふなばた",
+        "meaning": "mạn thuyền, mạn thuyền"
+      },
+      {
+        "example": "船縁",
+        "reading": "ふなべり",
+        "meaning": "mạn thuyền, mạn thuyền"
+      }
+    ],
+    "radical": {
+      "symbol": "舟",
+      "meaning": "thuyền"
+    },
+    "parts": [
+      "亠",
+      "幺",
+      "玄",
+      "舟"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33335_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08237.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8237.gif",
+    "uri": "https://jisho.org/search/%E8%88%B7%23kanji"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "梗",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "梗",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "strokeCount": 11,
+    "meaning": "phần lớn, cận cảnh, cuống hoa",
+    "kunyomi": [
+      "ふさぐ",
+      "やまにれ",
+      "おおむね"
+    ],
+    "onyomi": [
+      "コウ",
+      "キョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "梗塞",
+        "reading": "コウソク",
+        "meaning": "tắc nghẽn, tắc nghẽn, nhồi máu, nhồi máu"
+      },
+      {
+        "example": "梗概",
+        "reading": "コウガイ",
+        "meaning": "đề cương, tóm tắt, trừu tượng"
+      },
+      {
+        "example": "花梗",
+        "reading": "カコウ",
+        "meaning": "cuống, cuống hoa"
+      },
+      {
+        "example": "小花梗",
+        "reading": "ショウカコウ",
+        "meaning": "xích lô"
+      },
+      {
+        "example": "桔梗",
+        "reading": "キキョウ",
+        "meaning": "Hoa chuông Trung Quốc (Platycodon grandiflorus)"
+      },
+      {
+        "example": "捻じ桔梗",
+        "reading": "ネジキキョウ",
+        "meaning": "đỉnh hoa chuông Trung Quốc xoắn"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "日",
+      "木",
+      "田"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26775_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06897.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6897.gif",
+    "uri": "https://jisho.org/search/%E6%A2%97%23kanji"
+  }
+}

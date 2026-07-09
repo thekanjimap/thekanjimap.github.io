@@ -1,0 +1,89 @@
+{
+  "id": "厨",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "厨",
+    "found": true,
+    "newspaperFrequencyRank": "2425",
+    "strokeCount": 12,
+    "meaning": "phòng bếp",
+    "kunyomi": [
+      "くりや"
+    ],
+    "onyomi": [
+      "シュウ",
+      "ズ",
+      "チュ",
+      "チュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "厨子",
+        "reading": "ズシ",
+        "meaning": "Ngôi đền thu nhỏ có cửa đôi (dùng để cất giữ các vật phẩm quan trọng của Phật giáo như kinh, v.v.), tủ có cửa đôi (được giới quý tộc sử dụng để đựng sách, v.v.), hộp đựng bằng đá được chạm khắc và trang trí để lưu giữ xương cốt của tổ tiên (ở Okinawa)"
+      },
+      {
+        "example": "厨子甕",
+        "reading": "ズシガメ",
+        "meaning": "đồ gốm trang trí để đựng xương cốt của tổ tiên (Okinawa)"
+      },
+      {
+        "example": "厨",
+        "reading": "チュウ",
+        "meaning": "(Internet) troll, mọt sách, lập dị, nghiện, fag"
+      },
+      {
+        "example": "厨房",
+        "reading": "チュウボウ",
+        "meaning": "nhà bếp, bếp, (Internet) troll"
+      },
+      {
+        "example": "厨",
+        "reading": "チュウ",
+        "meaning": "(Internet) troll, mọt sách, lập dị, nghiện, fag"
+      },
+      {
+        "example": "厨房",
+        "reading": "チュウボウ",
+        "meaning": "nhà bếp, bếp, (Internet) troll"
+      },
+      {
+        "example": "出会い厨",
+        "reading": "デアイチュウ",
+        "meaning": "người tham dự các cuộc gặp gỡ hoặc sử dụng mạng xã hội để gạ gẫm mọi người quan hệ tình dục"
+      },
+      {
+        "example": "海外厨",
+        "reading": "カイガイチュウ",
+        "meaning": "người cho rằng mọi thứ ở nước ngoài đều tốt hơn (đặc biệt là bóng đá), người Nhật tự ghét mình"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "厨",
+        "reading": "くりや",
+        "meaning": "phòng bếp"
+      },
+      {
+        "example": "厨人",
+        "reading": "ちゅうじん",
+        "meaning": "đầu bếp, đầu bếp"
+      }
+    ],
+    "radical": {
+      "symbol": "厂",
+      "meaning": "vách đá"
+    },
+    "parts": [
+      "厂",
+      "口",
+      "寸",
+      "并",
+      "豆"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21416_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053a8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53a8.gif",
+    "uri": "https://jisho.org/search/%E5%8E%A8%23kanji"
+  }
+}

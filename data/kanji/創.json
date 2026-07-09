@@ -1,0 +1,388 @@
+{
+  "id": "創",
+  "kanjialiveData": {
+    "_id": "54317b01791eba5146ee4ba4",
+    "_rev": "10-748fcab939b59a1840d5afd50205a793",
+    "rad_name_ja": "りっとう",
+    "grade": 6,
+    "hint_group": 1,
+    "kunyomi": "Không có",
+    "meaning": "tạo ra",
+    "kstroke": 12,
+    "examples": [
+      {
+        "japanese": "創意（そうい）",
+        "meaning": {
+          "english": "ý tưởng độc đáo, độc đáo"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou(ritsu)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou(ritsu)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou(ritsu)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou(ritsu)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "創世記（そうせいき）",
+        "meaning": {
+          "english": "Sáng Thế Ký"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou(ritsu)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou(ritsu)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou(ritsu)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou(ritsu)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "創設者（そうせつしゃ）",
+        "meaning": {
+          "english": "người sáng lập"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou(ritsu)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou(ritsu)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou(ritsu)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou(ritsu)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "創始者（そうししゃ）",
+        "meaning": {
+          "english": "người khởi xướng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou(ritsu)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou(ritsu)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou(ritsu)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou(ritsu)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "独創的な（どくそうてきな）",
+        "meaning": {
+          "english": "sáng tạo, độc đáo"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou(ritsu)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou(ritsu)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou(ritsu)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou(ritsu)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "創造する（そうぞうする）",
+        "meaning": {
+          "english": "tạo ra"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou(ritsu)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou(ritsu)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou(ritsu)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou(ritsu)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "創作する（そうさくする）",
+        "meaning": {
+          "english": "sáng tạo, viết tiểu thuyết"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou(ritsu)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou(ritsu)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou(ritsu)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou(ritsu)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "創立する（そうりつする）",
+        "meaning": {
+          "english": "thành lập, tìm thấy"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou(ritsu)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou(ritsu)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou(ritsu)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou(ritsu)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "創刊する（そうかんする）",
+        "meaning": {
+          "english": "ra mắt (tạp chí)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou(ritsu)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou(ritsu)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou(ritsu)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou(ritsu)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "創業する（そうぎょうする）",
+        "meaning": {
+          "english": "thành lập (một công ty)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sou(ritsu)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sou(ritsu)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sou(ritsu)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sou(ritsu)_06_j.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "",
+    "ka_utf": "創",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=創",
+    "kname": "sou(ritsu)",
+    "rad_order": 23,
+    "txt_books": [
+      {
+        "chapter": "14",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtIKB"
+      }
+    ],
+    "rad_name_search": [
+      "rittou"
+    ],
+    "rad_utf": "⺉",
+    "stroketimes": [
+      0,
+      1.2,
+      2.133333,
+      2.866667,
+      4.4,
+      5.333333,
+      6.4,
+      7.6,
+      8.466667,
+      10.066667,
+      10.866667,
+      12.133333,
+      14.733333
+    ],
+    "kunyomi_ka_display": "Không có",
+    "dick": "1179",
+    "rad_name": "rittou",
+    "dicn": "702",
+    "mn_hint": "Creative chef 刂 <span class='note'>(orig. \"knife\")</span> with a storehouse 倉 of ideas.",
+    "rad_stroke": 2,
+    "onyomi_ja": "ソウ",
+    "rad_meaning": "dao, kiếm",
+    "onyomi": "sou",
+    "ka_id": "ka_704",
+    "rad_position": "tsukuri",
+    "rad_position_ja": "つくり",
+    "rad_position_search": [
+      "tsukuri",
+      "tsukuri"
+    ],
+    "onyomi_search": [
+      "sou",
+      "sou"
+    ],
+    "kunyomi_search": [
+      "Không có",
+      "Không có"
+    ],
+    "meaning_search": [
+      "create",
+      "create"
+    ],
+    "onyomi_ja_search": [
+      "ソウ",
+      "ソウ"
+    ],
+    "kunyomi_ja_search": [
+      ""
+    ],
+    "rad_meaning_search": [
+      "knife",
+      "sword",
+      "knife, sword"
+    ],
+    "rad_position_ja_search": [
+      "つくり",
+      "つくり"
+    ],
+    "rad_name_ja_search": [
+      "りっとう"
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:14",
+      "ij:c14",
+      "ik1",
+      "ik1:3",
+      "ik1:c3"
+    ],
+    "rad_name_file": "rittou",
+    "kanji": {
+      "character": "創",
+      "meaning": {
+        "english": "create"
+      },
+      "strokes": {
+        "count": 12,
+        "timings": [
+          0,
+          1.2,
+          2.133333,
+          2.866667,
+          4.4,
+          5.333333,
+          6.4,
+          7.6,
+          8.466667,
+          10.066667,
+          10.866667,
+          12.133333,
+          14.733333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/sou(ritsu)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou(ritsu)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou(ritsu)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou(ritsu)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou(ritsu)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou(ritsu)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou(ritsu)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou(ritsu)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou(ritsu)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou(ritsu)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou(ritsu)_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/sou(ritsu)_12.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "sou",
+        "katakana": "ソウ"
+      },
+      "kunyomi": {
+        "romaji": "Không có",
+        "hiragana": "Không có"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/sou(ritsu)_12.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/sou(ritsu)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/sou(ritsu)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺉",
+      "strokes": 2,
+      "image": "https://media.kanjialive.com/radical_character/rittou.svg",
+      "position": {
+        "hiragana": "つくり",
+        "romaji": "tsukuri",
+        "icon": "https://media.kanjialive.com/rad_positions/tsukuri.svg"
+      },
+      "name": {
+        "hiragana": "りっとう",
+        "romaji": "rittou"
+      },
+      "meaning": {
+        "english": "dao, kiếm"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/rittou0.svg",
+        "https://media.kanjialive.com/rad_frames/rittou1.svg",
+        "https://media.kanjialive.com/rad_frames/rittou2.svg"
+      ]
+    },
+    "references": {
+      "grade": 6,
+      "kodansha": "1179",
+      "classic_nelson": "702"
+    }
+  },
+  "jishoData": {
+    "query": "創",
+    "found": true,
+    "taughtIn": "lớp 6",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "741",
+    "strokeCount": 12,
+    "meaning": "nguồn gốc, vết thương, vết thương, tổn thương, bắt đầu, bắt nguồn",
+    "kunyomi": [
+      "つく.る",
+      "はじ.める",
+      "きず",
+      "けず.しける"
+    ],
+    "onyomi": [
+      "ソウ",
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "創価学会",
+        "reading": "ソウカガッカイ",
+        "meaning": "Soka Gakkai (tổ chức giáo dân dựa trên Phật giáo Nichiren)"
+      },
+      {
+        "example": "創意",
+        "reading": "ソウイ",
+        "meaning": "ý tưởng độc đáo, độc đáo"
+      },
+      {
+        "example": "独創",
+        "reading": "ドクソウ",
+        "meaning": "tính độc đáo"
+      },
+      {
+        "example": "草創",
+        "reading": "ソウソウ",
+        "meaning": "khai mạc, khánh thành"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "作る",
+        "reading": "つくる",
+        "meaning": "làm, sản xuất, chế tạo, xây dựng, xây dựng, chuẩn bị (thức ăn), pha (rượu), nuôi dưỡng, trồng trọt, trồng trọt, đào tạo, cày xới, vẽ ra (một tài liệu), làm ra, chuẩn bị, viết, tạo ra (một tác phẩm nghệ thuật, v.v.), sáng tác, kiếm tiền (một cụm từ), tổ chức, tổ chức, thành lập, tìm thấy, có (một đứa trẻ), trang điểm (khuôn mặt của một người, v.v.), bịa đặt (một cái cớ, v.v.), thể hiện (giả), giả vờ (cười, v.v.), thể hiện cảm xúc, hình thành (một dòng, v.v.), lập (kỷ lục), phạm tội (tội lỗi, v.v.)"
+      },
+      {
+        "example": "始める",
+        "reading": "はじめる",
+        "meaning": "bắt đầu, bắt đầu, bắt đầu, bắt đầu, bắt nguồn, bắt đầu (một doanh nghiệp, xã hội, v.v.), mở (ví dụ: một cửa hàng), thành lập, bắt đầu ..., bắt đầu ..."
+      },
+      {
+        "example": "傷",
+        "reading": "きず",
+        "meaning": "vết thương, vết thương, vết cắt, vết rách, vết bầm tím, vết xước, vết xước, vết sẹo, vết nứt, vết xước, vết xước, vết xước, khuyết điểm, khiếm khuyết, điểm yếu, điểm yếu, vết bẩn (danh tiếng của một người), ô nhục, nhục nhã, nhục nhã, tổn thương (tình cảm), cảm xúc bị tổn thương"
+      },
+      {
+        "example": "古傷",
+        "reading": "ふるきず",
+        "meaning": "vết thương cũ, vết sẹo, trải nghiệm khó chịu trong quá khứ, ký ức đau đớn, hành vi sai trái trong quá khứ"
+      },
+      {
+        "example": "手傷",
+        "reading": "てきず",
+        "meaning": "vết thương (bị trong một cuộc chiến)"
+      }
+    ],
+    "radical": {
+      "symbol": "刀",
+      "forms": [
+        "刂"
+      ],
+      "meaning": "dao, kiếm"
+    },
+    "parts": [
+      "一",
+      "个",
+      "刈",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21109_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05275.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5275.gif",
+    "uri": "https://jisho.org/search/%E5%89%B5%23kanji"
+  }
+}

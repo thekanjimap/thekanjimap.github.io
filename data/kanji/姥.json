@@ -1,0 +1,53 @@
+{
+  "id": "姥",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "姥",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "bà già",
+    "kunyomi": [
+      "うば"
+    ],
+    "onyomi": [
+      "ボ",
+      "モ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "姥",
+        "reading": "うば",
+        "meaning": "bà già, mặt nạ noh của bà già"
+      },
+      {
+        "example": "姥魚",
+        "reading": "うばうお",
+        "meaning": "Aspasma minima (loài cá bám)"
+      },
+      {
+        "example": "山姥",
+        "reading": "やまうば",
+        "meaning": "phù thủy núi, yamauba"
+      },
+      {
+        "example": "高砂の尉と姥",
+        "reading": "たかさごのじょうとうば",
+        "meaning": "(Tiếng Nhật) Darby và Joan"
+      }
+    ],
+    "radical": {
+      "symbol": "女",
+      "meaning": "phụ nữ, nữ"
+    },
+    "parts": [
+      "匕",
+      "女",
+      "老"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23013_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/059e5.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/59e5.gif",
+    "uri": "https://jisho.org/search/%E5%A7%A5%23kanji"
+  }
+}

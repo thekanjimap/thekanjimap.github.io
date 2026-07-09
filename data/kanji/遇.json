@@ -1,0 +1,68 @@
+{
+  "id": "遇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "遇",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1343",
+    "strokeCount": 12,
+    "meaning": "gặp gỡ, gặp gỡ, phỏng vấn, chiêu đãi, giải trí, tiếp nhận, giải quyết",
+    "kunyomi": [
+      "あ.う"
+    ],
+    "onyomi": [
+      "グウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "偶然",
+        "reading": "グウゼン",
+        "meaning": "ngẫu nhiên, tình cờ, tình cờ, tình cờ, tình cờ, tình cờ, ngẫu nhiên, ngẫu nhiên"
+      },
+      {
+        "example": "遇す",
+        "reading": "グウス",
+        "meaning": "để giải trí, để chữa trị"
+      },
+      {
+        "example": "最優遇",
+        "reading": "サイユウグウ",
+        "meaning": "sự đối xử thuận lợi nhất, sự đối xử thuận lợi nhất, sự đón tiếp rất nồng hậu"
+      },
+      {
+        "example": "優遇",
+        "reading": "ユウグウ",
+        "meaning": "đãi ngộ, đãi ngộ, chiêu đãi, đón tiếp nồng nhiệt, đãi ngộ tốt, đón tiếp nồng nhiệt"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "会う",
+        "reading": "あう",
+        "meaning": "gặp, chạm trán, gặp, gặp tai nạn, có trải nghiệm tồi tệ"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "đi bộ"
+    },
+    "parts": [
+      "冂",
+      "厶",
+      "田",
+      "禹",
+      "込"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36935_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09047.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9047.gif",
+    "uri": "https://jisho.org/search/%E9%81%87%23kanji"
+  }
+}

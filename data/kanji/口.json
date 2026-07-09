@@ -1,0 +1,432 @@
+{
+  "id": "口",
+  "kanjialiveData": {
+    "_id": "54317aea791eba5146ee49e7",
+    "_rev": "11-c21c98eb7e32ba5620375ce92a19c646",
+    "rad_name_ja": "くち",
+    "grade": 1,
+    "hint_group": 1,
+    "kunyomi": "kuchi",
+    "meaning": "miệng",
+    "kstroke": 3,
+    "examples": [
+      {
+        "japanese": "人口（じんこう）",
+        "meaning": {
+          "english": "dân số"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuchi_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kuchi_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kuchi_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kuchi_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "利口な（りこうな）",
+        "meaning": {
+          "english": "thông minh"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuchi_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kuchi_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kuchi_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kuchi_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "口調（くちょう）",
+        "meaning": {
+          "english": "giọng điệu"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuchi_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kuchi_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kuchi_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kuchi_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "異口同音（いくどうおん）",
+        "meaning": {
+          "english": "đồng thanh nói điều gì đó"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuchi_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kuchi_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kuchi_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kuchi_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "口（くち）",
+        "meaning": {
+          "english": "miệng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuchi_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kuchi_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kuchi_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kuchi_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "入り口（いりぐち）",
+        "meaning": {
+          "english": "cổng vào"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuchi_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kuchi_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kuchi_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kuchi_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "出口（でぐち）",
+        "meaning": {
+          "english": "thoát [n.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuchi_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kuchi_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kuchi_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kuchi_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "窓口（まどぐち）",
+        "meaning": {
+          "english": "cửa sổ dịch vụ (ví dụ: tại ngân hàng)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuchi_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kuchi_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kuchi_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kuchi_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "悪口（わるぐち）",
+        "meaning": {
+          "english": "vu khống, lạm dụng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuchi_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kuchi_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kuchi_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kuchi_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "無口な（むくちな）",
+        "meaning": {
+          "english": "kín đáo"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/kuchi_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/kuchi_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/kuchi_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/kuchi_06_j.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "くち",
+    "ka_utf": "口",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=口",
+    "kname": "kuchi",
+    "rad_order": 34,
+    "txt_books": [
+      {
+        "chapter": "27",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "7",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "1",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtAd2"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtSFJ2"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtSFJ4"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "1",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "aij4",
+        "chapter": "6"
+      }
+    ],
+    "rad_name_search": [
+      "kuchi"
+    ],
+    "rad_utf": "⼝",
+    "stroketimes": [
+      0,
+      1.6,
+      3.533,
+      4.333333
+    ],
+    "kunyomi_ka_display": "くち",
+    "dick": "2119",
+    "rad_name": "kuchi",
+    "dicn": "868",
+    "mn_hint": "Please view the animation in the radical field to the left.",
+    "rad_stroke": 3,
+    "onyomi_ja": "コウ、ク",
+    "rad_meaning": "miệng",
+    "onyomi": "kou, ku",
+    "ka_id": "ka_303",
+    "onyomi_search": [
+      "kou",
+      "ku",
+      "kou, ku"
+    ],
+    "kunyomi_search": [
+      "kuchi",
+      "kuchi"
+    ],
+    "meaning_search": [
+      "mouth",
+      "mouth"
+    ],
+    "onyomi_ja_search": [
+      "コウ",
+      "ク",
+      "コウ、ク"
+    ],
+    "kunyomi_ja_search": [
+      "くち",
+      "くち"
+    ],
+    "rad_meaning_search": [
+      "mouth",
+      "mouth"
+    ],
+    "rad_name_ja_search": [
+      "くち"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:27",
+      "cij:c27",
+      "ij",
+      "ij:7",
+      "ij:c7",
+      "bk",
+      "bk:1",
+      "bk:c1",
+      "aij3",
+      "aij3:2",
+      "aij3:c2",
+      "aij3:v2",
+      "aij3:v2:2",
+      "aij3:v2:c2",
+      "gen",
+      "gen:6",
+      "gen:c6",
+      "ap",
+      "ap:6",
+      "ap:c6",
+      "kll",
+      "kll:1",
+      "kll:c1",
+      "aij4",
+      "aij4:6",
+      "aij4:c6",
+      "aij4:v1",
+      "aij4:v1:6",
+      "aij4:v1:c6"
+    ],
+    "rad_name_file": "kuchi",
+    "kanji": {
+      "character": "口",
+      "meaning": {
+        "english": "mouth"
+      },
+      "strokes": {
+        "count": 3,
+        "timings": [
+          0,
+          1.6,
+          3.533,
+          4.333333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/kuchi_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/kuchi_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/kuchi_3.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "kou, ku",
+        "katakana": "コウ、ク"
+      },
+      "kunyomi": {
+        "romaji": "kuchi",
+        "hiragana": "くち"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/kuchi_3.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/kuchi_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/kuchi_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼝",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/kuchi.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "くち",
+        "romaji": "kuchi"
+      },
+      "meaning": {
+        "english": "miệng"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/kuchi0.svg",
+        "https://media.kanjialive.com/rad_frames/kuchi1.svg",
+        "https://media.kanjialive.com/rad_frames/kuchi2.svg"
+      ]
+    },
+    "references": {
+      "grade": 1,
+      "kodansha": "2119",
+      "classic_nelson": "868"
+    }
+  },
+  "jishoData": {
+    "query": "口",
+    "found": true,
+    "taughtIn": "lớp 1",
+    "jlptLevel": "N4",
+    "newspaperFrequencyRank": "284",
+    "strokeCount": 3,
+    "meaning": "miệng",
+    "kunyomi": [
+      "くち"
+    ],
+    "onyomi": [
+      "コウ",
+      "ク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "口",
+        "reading": "ク",
+        "meaning": "miệng, lời nói, bộ đếm cho người hoặc dụng cụ"
+      },
+      {
+        "example": "口径",
+        "reading": "コウケイ",
+        "meaning": "khẩu độ, lỗ khoan, cỡ nòng, cỡ nòng"
+      },
+      {
+        "example": "開口",
+        "reading": "カイコウ",
+        "meaning": "mở, khẩu độ (ví dụ: máy ảnh), mở miệng, bắt đầu nói, mở, rộng"
+      },
+      {
+        "example": "悪口",
+        "reading": "アッコウ",
+        "meaning": "(bằng lời nói) lăng mạ, chửi bới, chửi bới, xúc phạm"
+      },
+      {
+        "example": "口",
+        "reading": "ク",
+        "meaning": "miệng, lời nói, bộ đếm cho người hoặc dụng cụ"
+      },
+      {
+        "example": "口",
+        "reading": "クチ",
+        "meaning": "miệng, lỗ mở, lỗ, khe hở, lỗ, miệng (của chai), vòi, vòi phun, ống ngậm, cổng, cửa, lối vào, lối ra, nói, lời nói, nói chuyện (tức là tin đồn), vị giác, vòm miệng, miệng (để cho ăn), mở (tức là chỗ trống), vị trí có sẵn, lời mời, lệnh triệu tập, loại, sắp xếp, loại, mở (tức là bắt đầu), bộ đếm cho từng ngụm, cổ phiếu (tiền), đầu đốt bếp và thanh kiếm"
+      },
+      {
+        "example": "猪口",
+        "reading": "チョコ",
+        "meaning": "cốc đựng rượu sake, bát sứ nhỏ sâu lòng để phục vụ thức ăn"
+      },
+      {
+        "example": "赤口",
+        "reading": "シャッコウ",
+        "meaning": "ngày không may mắn trừ khoảng thời gian tốt từ 11 giờ sáng đến 1 giờ chiều (theo lịch truyền thống)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "口",
+        "reading": "くち",
+        "meaning": "miệng, lỗ mở, lỗ, khe hở, lỗ, miệng (của chai), vòi, vòi phun, ống ngậm, cổng, cửa, lối vào, lối ra, nói, lời nói, nói chuyện (tức là tin đồn), vị giác, vòm miệng, miệng (để cho ăn), mở (tức là chỗ trống), vị trí có sẵn, lời mời, lệnh triệu tập, loại, sắp xếp, loại, mở (tức là bắt đầu), bộ đếm cho từng ngụm, cổ phiếu (tiền), đầu đốt bếp và thanh kiếm"
+      },
+      {
+        "example": "口利き",
+        "reading": "くちきき",
+        "meaning": "hòa giải, văn phòng tốt, can thiệp, người hòa giải, người trung gian, người có ảnh hưởng, người có ảnh hưởng, tài hùng biện, người có tài hùng biện, cách nói chuyện"
+      },
+      {
+        "example": "切り口",
+        "reading": "きりくち",
+        "meaning": "cắt cuối, mặt cắt, lỗ mở, khe, góc nhìn, phối cảnh (khác biệt), cách tiếp cận mới"
+      },
+      {
+        "example": "大口",
+        "reading": "おおぐち",
+        "meaning": "miệng rộng, mồm há rộng, nói khoác lác, nói khoác lác, khoe khoang, khoe khoang, số lượng lớn, số lượng lớn"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "口",
+      "囗"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21475_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/053e3.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/53e3.gif",
+    "uri": "https://jisho.org/search/%E5%8F%A3%23kanji"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "妖",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "妖",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "newspaperFrequencyRank": "1964",
+    "strokeCount": 7,
+    "meaning": "hấp dẫn, mê hoặc, tai họa",
+    "kunyomi": [
+      "あや.しい",
+      "なま.めく",
+      "わざわ.い"
+    ],
+    "onyomi": [
+      "ヨウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "妖精",
+        "reading": "ヨウセイ",
+        "meaning": "cổ tích, ma, yêu tinh"
+      },
+      {
+        "example": "妖怪",
+        "reading": "ヨウカイ",
+        "meaning": "bóng ma, sự xuất hiện, bóng ma, bóng ma, bóng ma, con quỷ, quái vật, yêu tinh, yêu quái"
+      },
+      {
+        "example": "大妖",
+        "reading": "タイヨウ",
+        "meaning": "đại quỷ, người khổng lồ ma quái"
+      },
+      {
+        "example": "天変地夭",
+        "reading": "テンペンチヨウ",
+        "meaning": "thiên tai"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "妖しい",
+        "reading": "あやしい",
+        "meaning": "bí ẩn, quyến rũ, lôi cuốn, hấp dẫn, mê hoặc"
+      }
+    ],
+    "radical": {
+      "symbol": "女",
+      "meaning": "phụ nữ, nữ"
+    },
+    "parts": [
+      "ノ",
+      "大",
+      "女"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22934_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05996.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5996.gif",
+    "uri": "https://jisho.org/search/%E5%A6%96%23kanji"
+  }
+}

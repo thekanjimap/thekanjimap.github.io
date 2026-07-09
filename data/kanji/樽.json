@@ -1,0 +1,65 @@
+{
+  "id": "樽",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "樽",
+    "found": true,
+    "newspaperFrequencyRank": "1981",
+    "strokeCount": 16,
+    "meaning": "thùng, thùng, thùng",
+    "kunyomi": [
+      "たる"
+    ],
+    "onyomi": [
+      "ソン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "樽酒",
+        "reading": "タルザケ",
+        "meaning": "rượu sake được đựng trong thùng gỗ, rượu sake thùng, rượu sake đóng thùng"
+      },
+      {
+        "example": "樽俎",
+        "reading": "ソンソ",
+        "meaning": "(ăn hoặc uống) bữa tiệc"
+      },
+      {
+        "example": "油樽",
+        "reading": "アブラタル",
+        "meaning": "thùng dầu, thùng dầu"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "樽",
+        "reading": "たる",
+        "meaning": "thùng, thùng"
+      },
+      {
+        "example": "樽柿",
+        "reading": "たるがき",
+        "meaning": "quả hồng ngâm trong thùng rượu sake"
+      },
+      {
+        "example": "油樽",
+        "reading": "あぶらたる",
+        "meaning": "thùng dầu, thùng dầu"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "寸",
+      "并",
+      "木",
+      "酉"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27197_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06a3d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6a3d.gif",
+    "uri": "https://jisho.org/search/%E6%A8%BD%23kanji"
+  }
+}

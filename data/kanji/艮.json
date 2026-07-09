@@ -1,0 +1,57 @@
+{
+  "id": "艮",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "艮",
+    "found": true,
+    "strokeCount": 6,
+    "meaning": "hướng đông bắc (Hoàng đạo phương Đông), dừng lại, thiện căn (số 138)",
+    "kunyomi": [
+      "うしとら"
+    ],
+    "onyomi": [
+      "コン",
+      "ゴン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "艮",
+        "reading": "ゴン",
+        "meaning": "gen (một trong các bát quái của Kinh Dịch: núi, đông bắc)"
+      },
+      {
+        "example": "艮",
+        "reading": "ゴン",
+        "meaning": "gen (một trong các bát quái của Kinh Dịch: núi, đông bắc)"
+      },
+      {
+        "example": "艮下艮上",
+        "reading": "ゴンカゴンショウ",
+        "meaning": "một trong 64 bát quái"
+      },
+      {
+        "example": "【ジュゴン】",
+        "reading": "dugong (Dugong dugon), sea pig",
+        "meaning": ""
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "丑寅",
+        "reading": "うしとら",
+        "meaning": "hướng đông bắc"
+      }
+    ],
+    "radical": {
+      "symbol": "艮",
+      "meaning": "dừng lại"
+    },
+    "parts": [
+      "艮"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33390_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0826e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/826e.gif",
+    "uri": "https://jisho.org/search/%E8%89%AE%23kanji"
+  }
+}

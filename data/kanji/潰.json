@@ -1,0 +1,81 @@
+{
+  "id": "潰",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "潰",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "strokeCount": 15,
+    "meaning": "đè bẹp, nghiền nát, phá vỡ, tiêu tan",
+    "kunyomi": [
+      "つぶ.す",
+      "つぶ.れる",
+      "つい.える"
+    ],
+    "onyomi": [
+      "カイ",
+      "エ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "壊滅",
+        "reading": "カイメツ",
+        "meaning": "(hoàn toàn) sự hủy diệt, sự hủy diệt, sự tàn phá"
+      },
+      {
+        "example": "潰瘍",
+        "reading": "カイヨウ",
+        "meaning": "vết loét"
+      },
+      {
+        "example": "全壊",
+        "reading": "ゼンカイ",
+        "meaning": "phá hủy hoàn toàn"
+      },
+      {
+        "example": "擂潰",
+        "reading": "ライカイ",
+        "meaning": "mài"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "潰す",
+        "reading": "つぶす",
+        "meaning": "đập phá, đè bẹp, san phẳng, đóng cửa, phá sản, buộc (một công ty) đóng cửa cửa hàng, phá hoại, phá vỡ, ngăn chặn, cản trở, đồ tể, giết mổ, giết (gia súc, để lấy thức ăn), giết (thời gian), giết thời gian (thời gian), sử dụng hết (thời gian của một người), lãng phí (ví dụ: tài năng)"
+      },
+      {
+        "example": "潰れる",
+        "reading": "つぶれる",
+        "meaning": "bị nghiền nát, bị đè bẹp, bị đập vỡ, bị phá hủy, bị phá vỡ, sụp đổ, bị phá sản, bị phá sản, bị phá sản, bị phá sản, bị sụp đổ, bị hủy hoại (một kế hoạch), bị hủy bỏ, sụp đổ (ví dụ: một dự án), bị rơi, bị nổ tung, bị mất (giọng nói, thị lực, khứu giác, v.v.), ngừng hoạt động, bị chiếm dụng (thời gian của một người), bị mất, bị lãng phí, bị bỏ lỡ (về một cơ hội), bị mất, bị mất (mặt, sự điềm tĩnh, v.v.), bị suy sụp (ví dụ: lòng dũng cảm của một người), bị tan vỡ (trái tim của một người), bị mòn (ngòi bút, răng cưa, v.v.), hao mòn, trở nên buồn tẻ, say khướt"
+      },
+      {
+        "example": "潰える",
+        "reading": "ついえる",
+        "meaning": "sụp đổ (của một tòa nhà, giấc mơ, kế hoạch, v.v.), bị phá hủy, rơi qua, bị phá vỡ, bị đánh bại hoàn toàn (trong trận chiến), bị xóa sổ, bị đánh tan tác"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "十",
+      "口",
+      "汁",
+      "目",
+      "貝",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28528_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06f70.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6f70.gif",
+    "uri": "https://jisho.org/search/%E6%BD%B0%23kanji"
+  }
+}

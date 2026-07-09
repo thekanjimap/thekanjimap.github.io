@@ -1,0 +1,50 @@
+{
+  "id": "禪",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "禪",
+    "found": true,
+    "strokeCount": 17,
+    "meaning": "Thiền tông, thiền im lặng",
+    "kunyomi": [
+      "しずか",
+      "ゆず.る"
+    ],
+    "onyomi": [
+      "ゼン",
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "禅",
+        "reading": "ゼン",
+        "meaning": "dhyana (thiền sâu), Zen (Phật giáo)"
+      },
+      {
+        "example": "五門禅",
+        "reading": "ゴモンゼン",
+        "meaning": "năm phương pháp thiền, năm đối tượng thiền"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "示",
+      "forms": [
+        "礻"
+      ],
+      "meaning": "ký tên"
+    },
+    "parts": [
+      "一",
+      "口",
+      "日",
+      "田",
+      "礼",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31146_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/079aa.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/79aa.gif",
+    "uri": "https://jisho.org/search/%E7%A6%AA%23kanji"
+  }
+}

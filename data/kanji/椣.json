@@ -1,0 +1,37 @@
+{
+  "id": "椣",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "椣",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "loại cây bạch dương rụng lá, (kokuji)",
+    "kunyomi": [
+      "しで"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "四手",
+        "reading": "しで",
+        "meaning": "Dây giấy có hình ngoằn ngoèo thường dùng để trang trí các đồ vật liên quan đến Thần đạo, cây trăn (cây rụng lá thuộc họ bạch dương)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "ハ",
+      "一",
+      "日",
+      "木",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26915_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06923.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6923.gif",
+    "uri": "https://jisho.org/search/%E6%A4%A3%23kanji"
+  }
+}

@@ -1,0 +1,492 @@
+{
+  "id": "中",
+  "kanjialiveData": {
+    "_id": "54317ae0791eba5146ee4926",
+    "_rev": "9-1d5b215df8d243ba794f1308dac5cc25",
+    "rad_name_ja": "たてぼう",
+    "grade": 1,
+    "hint_group": 1,
+    "kunyomi": "naka",
+    "meaning": "ở giữa, trong",
+    "kstroke": 4,
+    "examples": [
+      {
+        "japanese": "中国（ちゅうごく）",
+        "meaning": {
+          "english": "Trung Quốc"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chuu-naka_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/chuu-naka_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/chuu-naka_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/chuu-naka_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "中年（ちゅうねん）",
+        "meaning": {
+          "english": "tuổi trung niên"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chuu-naka_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/chuu-naka_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/chuu-naka_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/chuu-naka_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "中学校（ちゅうがっこう）",
+        "meaning": {
+          "english": "trường trung học cơ sở"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chuu-naka_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/chuu-naka_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/chuu-naka_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/chuu-naka_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "中華料理（ちゅうかりょうり）",
+        "meaning": {
+          "english": "đồ ăn Trung Quốc"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chuu-naka_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/chuu-naka_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/chuu-naka_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/chuu-naka_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "途中（とちゅう）",
+        "meaning": {
+          "english": "trên đường"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chuu-naka_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/chuu-naka_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/chuu-naka_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/chuu-naka_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "工事中（こうじちゅう）",
+        "meaning": {
+          "english": "đang được xây dựng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chuu-naka_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/chuu-naka_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/chuu-naka_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/chuu-naka_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "中（なか）",
+        "meaning": {
+          "english": "bên trong"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chuu-naka_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/chuu-naka_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/chuu-naka_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/chuu-naka_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "中村（なかむら）",
+        "meaning": {
+          "english": "Nakamura (họ)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chuu-naka_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/chuu-naka_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/chuu-naka_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/chuu-naka_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "中川（なかがわ）",
+        "meaning": {
+          "english": "Nakagawa (họ)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chuu-naka_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/chuu-naka_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/chuu-naka_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/chuu-naka_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "田中（たなか）",
+        "meaning": {
+          "english": "Tanaka (họ)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chuu-naka_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/chuu-naka_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/chuu-naka_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/chuu-naka_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "*体中（からだじゅう）",
+        "meaning": {
+          "english": "khắp cơ thể"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chuu-naka_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/chuu-naka_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/chuu-naka_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/chuu-naka_06_k.mp3"
+        }
+      },
+      {
+        "japanese": "*今年中 に（ことしじゅうに）",
+        "meaning": {
+          "english": "trong năm nay"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chuu-naka_06_l.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/chuu-naka_06_l.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/chuu-naka_06_l.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/chuu-naka_06_l.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "なか",
+    "ka_utf": "中",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=中",
+    "rad_name_search": [
+      "tatebou"
+    ],
+    "rad_order": 2,
+    "txt_books": [
+      {
+        "chapter": "7",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtAd2"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtSFJ1"
+      },
+      {
+        "chapter": "4",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "6",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "14",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "3",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "mosr",
+        "chapter": "3"
+      },
+      {
+        "txt_bk": "mosr",
+        "chapter": "12"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "16"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "24"
+      },
+      {
+        "txt_bk": "mntr",
+        "chapter": "4"
+      },
+      {
+        "txt_bk": "mntr",
+        "chapter": "5"
+      },
+      {
+        "txt_bk": "aij4",
+        "chapter": "10"
+      }
+    ],
+    "kname": "chuu-naka",
+    "rad_utf": "⼁",
+    "stroketimes": [
+      0,
+      0.863,
+      2.438,
+      3.508,
+      4.893855
+    ],
+    "kunyomi_ka_display": "なか",
+    "dick": "2150",
+    "rad_name": "tatebou",
+    "dicn": "81",
+    "mn_hint": "Something 丨 inside a hole 口.",
+    "rad_stroke": 1,
+    "onyomi_ja": "チュウ",
+    "rad_meaning": "nét dọc",
+    "onyomi": "chuu",
+    "ka_id": "ka_13",
+    "onyomi_search": [
+      "chuu",
+      "chuu"
+    ],
+    "kunyomi_search": [
+      "naka",
+      "naka"
+    ],
+    "meaning_search": [
+      "middle",
+      "in",
+      "middle, in"
+    ],
+    "onyomi_ja_search": [
+      "チュウ",
+      "チュウ"
+    ],
+    "kunyomi_ja_search": [
+      "なか",
+      "なか"
+    ],
+    "rad_meaning_search": [
+      "vertical stroke",
+      "vertical",
+      "stroke",
+      "vertical stroke"
+    ],
+    "rad_name_ja_search": [
+      "たてぼう"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:7",
+      "cij:c7",
+      "bk",
+      "bk:4",
+      "bk:c4",
+      "aij3",
+      "aij3:3",
+      "aij3:c3",
+      "aij3:v2",
+      "aij3:v2:3",
+      "aij3:v2:c3",
+      "gen",
+      "gen:4",
+      "gen:c4",
+      "ap",
+      "ap:14",
+      "ap:c14",
+      "kll",
+      "kll:3",
+      "kll:c3",
+      "mosr",
+      "mosr:3",
+      "mosr:c3",
+      "mosr",
+      "mosr:12",
+      "mosr:c12",
+      "cijr",
+      "cijr:16",
+      "cijr:c16",
+      "cijr",
+      "cijr:24",
+      "cijr:c24",
+      "mntr",
+      "mntr:4",
+      "mntr:c4",
+      "mntr",
+      "mntr:5",
+      "mntr:c5",
+      "aij4",
+      "aij4:10",
+      "aij4:c10",
+      "aij4:v1",
+      "aij4:v1:10",
+      "aij4:v1:c10"
+    ],
+    "rad_name_file": "tatebou",
+    "kanji": {
+      "character": "中",
+      "meaning": {
+        "english": "middle, in"
+      },
+      "strokes": {
+        "count": 4,
+        "timings": [
+          0,
+          0.863,
+          2.438,
+          3.508,
+          4.893855
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/chuu-naka_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/chuu-naka_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/chuu-naka_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/chuu-naka_4.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "chuu",
+        "katakana": "チュウ"
+      },
+      "kunyomi": {
+        "romaji": "naka",
+        "hiragana": "なか"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/chuu-naka_4.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/chuu-naka_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/chuu-naka_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼁",
+      "strokes": 1,
+      "image": "https://media.kanjialive.com/radical_character/tatebou.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "たてぼう",
+        "romaji": "tatebou"
+      },
+      "meaning": {
+        "english": "nét dọc"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/tatebou0.svg",
+        "https://media.kanjialive.com/rad_frames/tatebou1.svg",
+        "https://media.kanjialive.com/rad_frames/tatebou2.svg"
+      ]
+    },
+    "references": {
+      "grade": 1,
+      "kodansha": "2150",
+      "classic_nelson": "81"
+    }
+  },
+  "jishoData": {
+    "query": "中",
+    "found": true,
+    "taughtIn": "lớp 1",
+    "jlptLevel": "N5",
+    "newspaperFrequencyRank": "11",
+    "strokeCount": 4,
+    "meaning": "trong, bên trong, giữa, trung bình, trung tâm",
+    "kunyomi": [
+      "なか",
+      "うち",
+      "あた.る"
+    ],
+    "onyomi": [
+      "チュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "中",
+        "reading": "チュウ",
+        "meaning": "trung bình (kích thước), trung bình (lớp, cấp độ, v.v.), trung bình, trong, trong, ngoài (ví dụ: mười người), trong số, trong khi, trong (quá trình), trong (một khoảng thời gian), trong suốt, hiện tại (làm), trong quá trình, ở giữa, dưới (ví dụ: xây dựng, điều tra), trung bình, kiểm duyệt, tập thứ hai (của ba), trường trung học cơ sở, trường trung học cơ sở, Trung Quốc"
+      },
+      {
+        "example": "中尉",
+        "reading": "チュウイ",
+        "meaning": "thiếu úy, cấp trung úy"
+      },
+      {
+        "example": "宮中",
+        "reading": "キュウチュウ",
+        "meaning": "triều đình"
+      },
+      {
+        "example": "訪中",
+        "reading": "ホウチュウ",
+        "meaning": "chuyến thăm Trung Quốc"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "中",
+        "reading": "なか",
+        "meaning": "bên trong, bên trong, giữa, bên trong, giữa, trung tâm, trung tâm, trong khi, trong khi, giữa, giữa, giữa, khoảng, khoảng cách, trung bình, trung bình, thứ hai (của ba, ví dụ như con trai, tập), trung bình, cấp trung bình, chất lượng trung bình, khu đèn đỏ"
+      },
+      {
+        "example": "中島",
+        "reading": "なかじま",
+        "meaning": "hòn đảo trong ao hoặc sông"
+      },
+      {
+        "example": "野中",
+        "reading": "のなか",
+        "meaning": "ở giữa một cánh đồng"
+      },
+      {
+        "example": "そんな中",
+        "reading": "そんななか",
+        "meaning": "trong đó, trong đó, trong đó"
+      },
+      {
+        "example": "内",
+        "reading": "うち",
+        "meaning": "bên trong, bên trong, trong khi (ví dụ: một người còn trẻ), trong, trong (ví dụ: một ngày), trong quá trình, giữa, giữa, (ngoài), giữa, trong (bí mật, hỗn loạn, nghèo đói, v.v.), giữa, với (ví dụ: thành công), trong chính mình, cảm xúc, suy nghĩ bên trong của một người, chúng tôi, công ty của chúng tôi, tổ chức của chúng tôi, nhà của một người, gia đình của một người, vợ / chồng tôi, chồng tôi, vợ tôi, được vợ anh ấy ký thay mặt (tên chồng), Tôi, tôi, sân hoàng cung, hoàng đế"
+      },
+      {
+        "example": "碁打ち鳥飼い馬鹿の中",
+        "reading": "ごうちとりかいばかのうち",
+        "meaning": "Người chơi cờ vây và người nuôi chim đều là những kẻ ngốc (cả hai hoạt động đều đòi hỏi nhiều thời gian)"
+      },
+      {
+        "example": "此の内",
+        "reading": "このうち",
+        "meaning": "trong khi đó, ngày nọ, gần đây"
+      },
+      {
+        "example": "当たる",
+        "reading": "あたる",
+        "meaning": "bị đánh, bị đánh, chạm, được tiếp xúc, được gắn vào, tương đương với, được áp dụng, áp dụng cho, đúng với số tiền (dự đoán, phê bình, v.v.), được chọn (trong xổ số, v.v.), thắng, thành công, đi tốt, bị đánh, đối mặt, đối đầu, nói dối (theo hướng), đảm nhận, được phân công, bị ảnh hưởng (do ngộ độc thực phẩm, nhiệt, v.v.), bị ảnh hưởng (do ngộ độc thực phẩm, nhiệt, v.v.). bị đau khổ, được kêu gọi (ví dụ bởi một giáo viên), đối xử (đặc biệt là khắc nghiệt), đả kích, không cần thiết, đánh tốt, bị đánh trúng, cảm thấy bị cắn (khi câu cá), (trái cây, v.v.) bị bầm tím, hư hỏng, cảm thấy (cái gì đó), thăm dò, kiểm tra (tức là so sánh), cạo râu, là họ hàng của một người, là một ... trong mối quan hệ với ..., đứng trong một mối quan hệ"
+      }
+    ],
+    "radical": {
+      "symbol": "丨",
+      "meaning": "dòng"
+    },
+    "parts": [
+      "口",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20013_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/04e2d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/4e2d.gif",
+    "uri": "https://jisho.org/search/%E4%B8%AD%23kanji"
+  }
+}

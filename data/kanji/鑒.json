@@ -1,0 +1,69 @@
+{
+  "id": "鑒",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鑒",
+    "found": true,
+    "strokeCount": 23,
+    "meaning": "nhận cảnh báo từ, học hỏi từ, mẫu mực, ví dụ",
+    "kunyomi": [
+      "かんが.みる",
+      "かがみ"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鑑識",
+        "reading": "カンシキ",
+        "meaning": "phán đoán, phán xét, phân biệt, phân biệt đối xử, để mắt, đánh giá (ví dụ: đồ cổ), đánh giá, đánh giá, pháp y, nhận dạng (tội phạm), phòng thí nghiệm tội phạm"
+      },
+      {
+        "example": "鑑みる",
+        "reading": "カンガミル",
+        "meaning": "tính đến, ghi nhớ, cân nhắc, rút kinh nghiệm, nhận cảnh báo từ"
+      },
+      {
+        "example": "清鑑",
+        "reading": "セイカン",
+        "meaning": "phán đoán xuất sắc"
+      },
+      {
+        "example": "降鑒",
+        "reading": "コウカン",
+        "meaning": "các vị thần đang dõi theo con người từ thiên đường"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鑑みる",
+        "reading": "かんがみる",
+        "meaning": "tính đến, ghi nhớ, xem xét, rút kinh nghiệm, lấy làm bài học"
+      },
+      {
+        "example": "鑑",
+        "reading": "かがみ",
+        "meaning": "kiểu mẫu, kiểu mẫu, mẫu mực, mẫu mực"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "kim loại, vàng"
+    },
+    "parts": [
+      "乞",
+      "二",
+      "臣",
+      "買",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37970_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09452.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9452.gif",
+    "uri": "https://jisho.org/search/%E9%91%92%23kanji"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": "專",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "專",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "đặc sản, độc quyền, chủ yếu, duy nhất",
+    "kunyomi": [
+      "もっぱ.ら"
+    ],
+    "onyomi": [
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "専門",
+        "reading": "センモン",
+        "meaning": "chuyên môn, chuyên ngành, chủ đề nghiên cứu đặc biệt, lĩnh vực chuyên môn, lĩnh vực (của một người), chuyên ngành của (một người), mối quan tâm duy nhất, trọng tâm duy nhất, tập trung hoàn toàn vào, làm độc quyền, gắn bó với"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "寸",
+      "meaning": "ngón tay cái, inch"
+    },
+    "parts": [
+      "一",
+      "十",
+      "厶",
+      "寸",
+      "田",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23560_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c08.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c08.gif",
+    "uri": "https://jisho.org/search/%E5%B0%88%23kanji"
+  }
+}

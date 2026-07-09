@@ -1,0 +1,78 @@
+{
+  "id": "誅",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "誅",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "án tử hình",
+    "kunyomi": [
+      "ちゅう.する",
+      "ころ.す",
+      "せ.める"
+    ],
+    "onyomi": [
+      "チュウ",
+      "チュ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "誅",
+        "reading": "チュウ",
+        "meaning": "án tử hình"
+      },
+      {
+        "example": "誅求",
+        "reading": "チュウキュウ",
+        "meaning": "sự áp bức áp bức (thuế, v.v.)"
+      },
+      {
+        "example": "筆誅",
+        "reading": "ヒッチュウ",
+        "meaning": "đơn tố cáo"
+      },
+      {
+        "example": "天誅",
+        "reading": "テンチュウ",
+        "meaning": "sự trừng phạt của trời, sự trừng phạt của Chúa, sự trừng phạt xứng đáng, sự trừng phạt công bằng"
+      },
+      {
+        "example": "誅",
+        "reading": "チュウ",
+        "meaning": "án tử hình"
+      },
+      {
+        "example": "誅求",
+        "reading": "チュウキュウ",
+        "meaning": "sự áp bức áp bức (thuế, v.v.)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "誅する",
+        "reading": "ちゅうする",
+        "meaning": "xử tử (ví dụ: kẻ có tội, kẻ phản bội, v.v.), trừng phạt ai đó bằng cái chết"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "lời nói"
+    },
+    "parts": [
+      "ノ",
+      "ハ",
+      "二",
+      "木",
+      "牛",
+      "言",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35461_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08a85.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8a85.gif",
+    "uri": "https://jisho.org/search/%E8%AA%85%23kanji"
+  }
+}

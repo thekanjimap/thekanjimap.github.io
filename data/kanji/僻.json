@@ -1,0 +1,72 @@
+{
+  "id": "僻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "僻",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "định kiến, thành kiến, khu vực nông thôn",
+    "kunyomi": [
+      "へき.する",
+      "ひが.む"
+    ],
+    "onyomi": [
+      "ヘキ",
+      "ヒ",
+      "ヘイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "僻",
+        "reading": "ヘキ",
+        "meaning": "hẻo lánh, nghiêng về một bên"
+      },
+      {
+        "example": "僻遠",
+        "reading": "ヘキエン",
+        "meaning": "xa xôi, xa xôi"
+      },
+      {
+        "example": "僻",
+        "reading": "ヒガ",
+        "meaning": "xấu xa, không đúng sự thật, sai lầm"
+      },
+      {
+        "example": "僻み",
+        "reading": "ヒガミ",
+        "meaning": "thành kiến, thành kiến, quan điểm lệch lạc, ghen tị, mặc cảm tự ti"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "僻する",
+        "reading": "へきする",
+        "meaning": "nghiêng sang một bên, bị cong vênh"
+      },
+      {
+        "example": "僻む",
+        "reading": "ひがむ",
+        "meaning": "có cái nhìn lệch lạc, bị vàng da, có thành kiến, cảm thấy mình bị đối xử bất công, ghen tị, đố kỵ, có mặc cảm tự ti"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "đàn ông, con người"
+    },
+    "parts": [
+      "化",
+      "十",
+      "口",
+      "尸",
+      "立",
+      "辛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20731_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050fb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50fb.gif",
+    "uri": "https://jisho.org/search/%E5%83%BB%23kanji"
+  }
+}

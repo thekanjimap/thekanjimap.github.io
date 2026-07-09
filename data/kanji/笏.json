@@ -1,0 +1,53 @@
+{
+  "id": "笏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "笏",
+    "found": true,
+    "newspaperFrequencyRank": "2306",
+    "strokeCount": 10,
+    "meaning": "chùy, dùi cui, vương trượng",
+    "kunyomi": [
+      "しゃく"
+    ],
+    "onyomi": [
+      "コツ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "笏",
+        "reading": "しゃく",
+        "meaning": "shaku, dùi cui bằng gỗ hoặc ngà voi được cầm ở tay phải khi mặc trang phục nghi lễ hoàng gia hoặc Thần đạo"
+      },
+      {
+        "example": "笏拍子",
+        "reading": "しゃくびょうし",
+        "meaning": "cái vỗ tay (hai miếng gỗ dài được vỗ vào nhau; được sử dụng trong gagaku, v.v.)"
+      },
+      {
+        "example": "王笏",
+        "reading": "おうしゃく",
+        "meaning": "sceptre, scepter"
+      }
+    ],
+    "radical": {
+      "symbol": "竹",
+      "forms": [
+        "⺮"
+      ],
+      "meaning": "tre"
+    },
+    "parts": [
+      "ノ",
+      "乞",
+      "勹",
+      "勿",
+      "竹"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31503_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07b0f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7b0f.gif",
+    "uri": "https://jisho.org/search/%E7%AC%8F%23kanji"
+  }
+}

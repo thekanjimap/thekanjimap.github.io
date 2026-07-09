@@ -1,0 +1,59 @@
+{
+  "id": "挽",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "挽",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "cưa, tiện (tiện), mài",
+    "kunyomi": [
+      "ひ.く"
+    ],
+    "onyomi": [
+      "バン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "挽歌",
+        "reading": "バンカ",
+        "meaning": "bài hát bi thương, tang lễ"
+      },
+      {
+        "example": "挽回",
+        "reading": "バンカイ",
+        "meaning": "phục hồi,lấy lại,lấy lại,phục hồi,phục hồi,hồi sinh"
+      },
+      {
+        "example": "推輓",
+        "reading": "スイバン",
+        "meaning": "sự tiến cử (của ai đó vào một chức vụ), sự đề cử"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "挽く",
+        "reading": "ひく",
+        "meaning": "cưa, xay (ví dụ: hạt cà phê), xay"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "一",
+      "儿",
+      "免",
+      "勹",
+      "扎",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25405_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0633d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/633d.gif",
+    "uri": "https://jisho.org/search/%E6%8C%BD%23kanji"
+  }
+}

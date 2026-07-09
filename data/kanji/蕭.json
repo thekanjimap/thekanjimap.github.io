@@ -1,0 +1,59 @@
+{
+  "id": "蕭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蕭",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "một loại cỏ dại, ngải cứu, cô đơn, im lặng, bình tĩnh",
+    "kunyomi": [
+      "よもぎ"
+    ],
+    "onyomi": [
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "瀟洒",
+        "reading": "ショウシャ",
+        "meaning": "phong cách, thông minh, thanh lịch, sang trọng, tinh tế, trang trí, gọn gàng"
+      },
+      {
+        "example": "蕭索",
+        "reading": "ショウサク",
+        "meaning": "cô đơn"
+      },
+      {
+        "example": "蕭々",
+        "reading": "ショウショウ",
+        "meaning": "ảm đạm, ảm đạm, cô đơn, buồn bã, ai oán, buồn thảm"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蓬",
+        "reading": "よもぎ",
+        "meaning": "Ngải cứu Nhật Bản (Artemisia Princeps), Ngải cứu (bất kỳ loại cây nào thuộc chi Artemisia), ngải cứu, ngải đắng"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "ノ",
+      "ヨ",
+      "米",
+      "聿",
+      "艾",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34157_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0856d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/856d.gif",
+    "uri": "https://jisho.org/search/%E8%95%AD%23kanji"
+  }
+}

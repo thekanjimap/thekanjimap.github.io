@@ -1,0 +1,60 @@
+{
+  "id": "鵬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鵬",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1707",
+    "strokeCount": 19,
+    "meaning": "phượng hoàng",
+    "kunyomi": [
+      "おおとり"
+    ],
+    "onyomi": [
+      "ホウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鵬",
+        "reading": "ホウ",
+        "meaning": "peng (con chim khổng lồ được cho là biến hình từ một con cá)"
+      },
+      {
+        "example": "鵬程",
+        "reading": "ホウテイ",
+        "meaning": "hành trình dài, khoảng cách lớn"
+      },
+      {
+        "example": "大鵬",
+        "reading": "タイホウ",
+        "meaning": "dapeng (con chim khổng lồ trong thần thoại Trung Quốc, tương tự như roc hoặc Garuda)"
+      },
+      {
+        "example": "柏鵬",
+        "reading": "ハクホウ",
+        "meaning": "kỷ nguyên trong những năm 1960 bị thống trị bởi các nhà vô địch lớn Taiho và Kashiwado"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "大鳥",
+        "reading": "おおとり",
+        "meaning": "chim lớn, peng (chim khổng lồ được cho là biến hình từ cá), fenghuang (phượng hoàng Trung Quốc)"
+      }
+    ],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "chim"
+    },
+    "parts": [
+      "月",
+      "杰",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40300_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d6c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d6c.gif",
+    "uri": "https://jisho.org/search/%E9%B5%AC%23kanji"
+  }
+}

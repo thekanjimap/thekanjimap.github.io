@@ -1,0 +1,64 @@
+{
+  "id": "諫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "諫",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "khuyên răn, can ngăn",
+    "kunyomi": [
+      "いさ.める"
+    ],
+    "onyomi": [
+      "カン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "諫言",
+        "reading": "カンゲン",
+        "meaning": "lời khuyên răn, lời khiển trách, lời biện hộ"
+      },
+      {
+        "example": "諫死",
+        "reading": "カンシ",
+        "meaning": "tự sát (để can ngăn hoặc can ngăn chúa), chuẩn bị chết trong nỗ lực khuyên can chúa"
+      },
+      {
+        "example": "諷諫",
+        "reading": "フウカン",
+        "meaning": "lời khiển trách gián tiếp, lời khuyên nhủ bóng gió"
+      },
+      {
+        "example": "直諫",
+        "reading": "チョッカン",
+        "meaning": "lời khuyên cá nhân, sự khiển trách"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "諌める",
+        "reading": "いさめる",
+        "meaning": "khiển trách, khuyên răn (ai đó), khuyên (ai đó) không nên, cảnh báo chống lại"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "lời nói"
+    },
+    "parts": [
+      "ハ",
+      "口",
+      "木",
+      "言",
+      "買",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35563_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08aeb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8aeb.gif",
+    "uri": "https://jisho.org/search/%E8%AB%AB%23kanji"
+  }
+}

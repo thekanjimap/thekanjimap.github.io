@@ -1,0 +1,70 @@
+{
+  "id": "附",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "附",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2396",
+    "strokeCount": 8,
+    "meaning": "gắn vào, gắn vào, tham khảo, nối thêm",
+    "kunyomi": [
+      "つ.ける",
+      "つ.く"
+    ],
+    "onyomi": [
+      "フ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "付近",
+        "reading": "フキン",
+        "meaning": "vùng lân cận, vùng phụ cận, vùng phụ cận, khu vực xung quanh, khu vực lân cận, quận"
+      },
+      {
+        "example": "付加",
+        "reading": "フカ",
+        "meaning": "sự bổ sung, sự bổ sung, sự bổ sung"
+      },
+      {
+        "example": "交附",
+        "reading": "コウフ",
+        "meaning": "giao, cấp, giao (một vé) cho (một người)"
+      },
+      {
+        "example": "筑附",
+        "reading": "ツクフ",
+        "meaning": "Trường trung học cơ sở và trung học phổ thông tại Otsuka, Đại học Tsukuba (abbr)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "付ける",
+        "reading": "つける",
+        "meaning": "gắn, nối, kết nối, thêm, nối, gắn, dán, dán, buộc chặt, khâu, bôi (thuốc mỡ), chống lại, trang bị (một ngôi nhà với), mặc, đeo vào, ghi nhật ký, ghi chép, thẩm định, ấn định (giá cả), phân bổ, lập ngân sách, phân công, mang theo, đặt (dưới sự bảo vệ hoặc bác sĩ), theo dõi (ai đó), theo dõi, theo đuôi, theo dõi, theo dõi tải, cho (can đảm), giữ (để mắt), thiết lập (mối quan hệ hoặc sự hiểu biết), bật (ánh sáng), tạo ra hoa (của cây), tạo ra trái cây, làm mạnh mẽ, làm quyết liệt, làm mạnh mẽ, quen (làm), quen với"
+      },
+      {
+        "example": "付く",
+        "reading": "つく",
+        "meaning": "được gắn vào, được kết nối với, tuân thủ, dính vào, bám vào, để lại dấu vết, để lại vết sẹo, nhuộm màu, mang (kết quả, sở thích, v.v.), được mua lại (của một thói quen, khả năng, v.v.), để tăng lên (sức mạnh, v.v.), để bén rễ, đồng hành, tham dự, đi theo, học tập, sát cánh, thuộc về, sở hữu, ám ảnh, được thắp sáng, bắt lửa, đốt cháy, được bật (của một ngọn đèn, thiết bị, v.v.), được giải quyết, được giải quyết, được quyết định, được đưa ra (tên, giá cả, v.v.), được cảm nhận, được nhận thức, may mắn, trở thành (trạng thái, điều kiện, v.v.)"
+      }
+    ],
+    "radical": {
+      "symbol": "阜",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "gò, đập (阝 trái)"
+    },
+    "parts": [
+      "化",
+      "寸",
+      "阡"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38468_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09644.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9644.gif",
+    "uri": "https://jisho.org/search/%E9%99%84%23kanji"
+  }
+}

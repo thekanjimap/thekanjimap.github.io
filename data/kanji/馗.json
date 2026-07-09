@@ -1,0 +1,37 @@
+{
+  "id": "馗",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "馗",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "đường",
+    "kunyomi": [],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鍾馗",
+        "reading": "ショウキ",
+        "meaning": "Shōki the Plague-Queller, Zhong Kui, vị thần truyền thống của Trung Quốc cho biết có thể ngăn chặn bệnh dịch và xua đuổi tà ác và được cho là có khả năng chỉ huy 80.000 con quỷ, Shōki (máy bay chiến đấu Thế chiến II)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "首",
+      "meaning": "cái đầu"
+    },
+    "parts": [
+      "九",
+      "并",
+      "目",
+      "自",
+      "首"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39319_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09997.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9997.gif",
+    "uri": "https://jisho.org/search/%E9%A6%97%23kanji"
+  }
+}

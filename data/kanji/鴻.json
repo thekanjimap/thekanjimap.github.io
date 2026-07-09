@@ -1,0 +1,59 @@
+{
+  "id": "鴻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鴻",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2111",
+    "strokeCount": 17,
+    "meaning": "chim lớn, ngỗng hoang dã, to lớn, vĩ đại, mạnh mẽ, thịnh vượng",
+    "kunyomi": [
+      "おおとり",
+      "ひしくい",
+      "おおがり"
+    ],
+    "onyomi": [
+      "コウ",
+      "ゴウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "洪恩",
+        "reading": "コウオン",
+        "meaning": "món nợ lớn của lòng biết ơn, nghĩa vụ lớn lao"
+      },
+      {
+        "example": "鴻雁",
+        "reading": "コウガン",
+        "meaning": "ngỗng hoang dã, ngỗng lớn và ngỗng nhỏ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "大鳥",
+        "reading": "おおとり",
+        "meaning": "chim lớn, peng (chim khổng lồ được cho là biến hình từ cá), fenghuang (phượng hoàng Trung Quốc)"
+      },
+      {
+        "example": "鴻",
+        "reading": "ひしくい",
+        "meaning": "Ngỗng đậu (Anser fabalis)"
+      }
+    ],
+    "radical": {
+      "symbol": "鳥",
+      "meaning": "chim"
+    },
+    "parts": [
+      "工",
+      "杰",
+      "汁",
+      "鳥"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40251_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09d3b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9d3b.gif",
+    "uri": "https://jisho.org/search/%E9%B4%BB%23kanji"
+  }
+}

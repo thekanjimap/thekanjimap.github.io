@@ -1,0 +1,51 @@
+{
+  "id": "諍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "諍",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "cãi nhau",
+    "kunyomi": [
+      "いさか.う",
+      "あらそ.う",
+      "いさ.める",
+      "うった.える"
+    ],
+    "onyomi": [
+      "ソウ",
+      "ショウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "争友",
+        "reading": "ソウユウ",
+        "meaning": "người bạn cho lời khuyên thẳng thắn, người bạn phê phán"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "諍う",
+        "reading": "いさかう",
+        "meaning": "cãi vã, tranh chấp"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "lời nói"
+    },
+    "parts": [
+      "ヨ",
+      "亅",
+      "爪",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35533_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08acd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8acd.gif",
+    "uri": "https://jisho.org/search/%E8%AB%8D%23kanji"
+  }
+}

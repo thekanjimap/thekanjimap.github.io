@@ -1,0 +1,55 @@
+{
+  "id": "蘚",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蘚",
+    "found": true,
+    "strokeCount": 20,
+    "meaning": "rêu",
+    "kunyomi": [
+      "こけ"
+    ],
+    "onyomi": [
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蘚苔",
+        "reading": "センタイ",
+        "meaning": "rêu, rêu"
+      },
+      {
+        "example": "蘚苔学",
+        "reading": "センタイガク",
+        "meaning": "khoa học về sinh vật học"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "苔",
+        "reading": "こけ",
+        "meaning": "rêu, thực vật ngắn giống rêu (bao gồm các loài rêu khác, địa y, các loài thực vật có tinh trùng rất nhỏ, v.v.)"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "并",
+      "杰",
+      "王",
+      "田",
+      "羊",
+      "艾",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34330_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0861a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/861a.gif",
+    "uri": "https://jisho.org/search/%E8%98%9A%23kanji"
+  }
+}

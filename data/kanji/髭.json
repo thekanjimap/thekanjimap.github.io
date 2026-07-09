@@ -1,0 +1,55 @@
+{
+  "id": "髭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "髭",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "râu, ria mép",
+    "kunyomi": [
+      "ひげ",
+      "くちひげ"
+    ],
+    "onyomi": [
+      "シ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "髭",
+        "reading": "ひげ",
+        "meaning": "ria mép, ria mép, râu, râu ria, tóc mai, râu ria (trên mèo, v.v.), râu (trên côn trùng, v.v.), (cằm) búi, bóng (trên biểu đồ nến)"
+      },
+      {
+        "example": "ひげ結晶",
+        "reading": "ひげけっしょう",
+        "meaning": "(tinh thể) râu ria"
+      },
+      {
+        "example": "濃いヒゲ",
+        "reading": "こいヒゲ",
+        "meaning": "râu rậm, râu rậm"
+      },
+      {
+        "example": "無精ひげ",
+        "reading": "ぶしょうひげ",
+        "meaning": "râu ria, mặt không cạo, có râu vì lười cạo, bóng 5h"
+      }
+    ],
+    "radical": {
+      "symbol": "髟",
+      "meaning": "tóc dài"
+    },
+    "parts": [
+      "匕",
+      "彡",
+      "止",
+      "長",
+      "髟"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39661_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09aed.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9aed.gif",
+    "uri": "https://jisho.org/search/%E9%AB%AD%23kanji"
+  }
+}

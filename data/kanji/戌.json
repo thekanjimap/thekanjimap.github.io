@@ -1,0 +1,64 @@
+{
+  "id": "戌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "戌",
+    "found": true,
+    "strokeCount": 6,
+    "meaning": "con chó, 7-9 giờ tối, cung hoàng đạo thứ 11 của Trung Quốc",
+    "kunyomi": [
+      "いぬ"
+    ],
+    "onyomi": [
+      "ジュツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "丙戌",
+        "reading": "ヒノエイヌ",
+        "meaning": "Hỏa Tuất (học kỳ thứ 23 của chu kỳ lục thập niên, ví dụ: 1946, 2006, 2066)"
+      },
+      {
+        "example": "甲戌",
+        "reading": "キノエイヌ",
+        "meaning": "Tuổi Tuất (học kỳ thứ 11 của chu kỳ sáu mươi tuổi, ví dụ: 1934, 1994, 2054)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "戌",
+        "reading": "いぬ",
+        "meaning": "Tuất (cung hoàng đạo thứ 11), giờ Tuất (khoảng 8 giờ tối, 7-9 giờ tối hoặc 8-10 giờ tối), hướng tây-tây bắc, tháng 9 âm lịch"
+      },
+      {
+        "example": "戌亥",
+        "reading": "いぬい",
+        "meaning": "tây bắc"
+      },
+      {
+        "example": "庚戌",
+        "reading": "かのえいぬ",
+        "meaning": "Metal Dog (thuật ngữ thứ 47 của chu kỳ sáu mươi tuổi, ví dụ: 1910, 1970, 2030)"
+      },
+      {
+        "example": "甲戌",
+        "reading": "きのえいぬ",
+        "meaning": "Tuổi Tuất (học kỳ thứ 11 của chu kỳ sáu mươi tuổi, ví dụ: 1934, 1994, 2054)"
+      }
+    ],
+    "radical": {
+      "symbol": "戈",
+      "meaning": "giáo, kích"
+    },
+    "parts": [
+      "ノ",
+      "丶",
+      "厂",
+      "戈"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25100_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0620c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/620c.gif",
+    "uri": "https://jisho.org/search/%E6%88%8C%23kanji"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "慈",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "慈",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1811",
+    "strokeCount": 13,
+    "meaning": "lòng thương xót",
+    "kunyomi": [
+      "いつく.しむ"
+    ],
+    "onyomi": [
+      "ジ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "慈善",
+        "reading": "ジゼン",
+        "meaning": "từ thiện, lòng nhân từ, lòng từ thiện"
+      },
+      {
+        "example": "慈悲",
+        "reading": "ジヒ",
+        "meaning": "lòng thương xót, lòng trắc ẩn, lòng khoan dung, sự thương hại, lòng bác ái, lòng nhân từ, chim ưng hung dữ, chim diều hâu phương bắc"
+      },
+      {
+        "example": "具慈",
+        "reading": "グジ",
+        "meaning": "cá ngói (Branchiostegus spp.), blanquillo, cá đầu ngựa"
+      },
+      {
+        "example": "仁慈",
+        "reading": "ジンジ",
+        "meaning": "tấm lòng nhân ái, lòng nhân ái"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "慈しむ",
+        "reading": "いつくしむ",
+        "meaning": "trìu mến, thể hiện sự dịu dàng đối với, đối xử dịu dàng, yêu thương"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "一",
+      "并",
+      "幺",
+      "心"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24904_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06148.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6148.gif",
+    "uri": "https://jisho.org/search/%E6%85%88%23kanji"
+  }
+}

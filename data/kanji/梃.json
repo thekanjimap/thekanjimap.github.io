@@ -1,0 +1,70 @@
+{
+  "id": "梃",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "梃",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "đòn bẩy",
+    "kunyomi": [
+      "てこ",
+      "つえ"
+    ],
+    "onyomi": [
+      "チョウ",
+      "テイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "丁",
+        "reading": "チョウ",
+        "meaning": "quầy dùng cho những vật dài và hẹp như súng, kéo, thuổng, cuốc, lọ mực, kiệu, nến, jinrikishas, shamisen, mái chèo"
+      },
+      {
+        "example": "一丁",
+        "reading": "イッチョウ",
+        "meaning": "một chiếc lá (của một cuốn sách đóng theo kiểu Nhật), một khối đậu phụ, một suất ăn (trong nhà hàng), một vật dài và hẹp (ví dụ: súng, kéo, thuổng, cuốc, lọ mực, kiệu, nến, jinrikisha, shamisen, mái chèo), một chō (đơn vị khoảng cách, xấp xỉ 109,09 m), một trò chơi, một nhiệm vụ, vậy thì, phải"
+      },
+      {
+        "example": "陰梃",
+        "reading": "インテイ",
+        "meaning": "âm vật"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "梃子",
+        "reading": "てこ",
+        "meaning": "đòn bẩy, tác nhân (làm cho việc gì đó xảy ra), dụng cụ, lực lượng, trợ thủ, người trợ giúp"
+      },
+      {
+        "example": "手こずる",
+        "reading": "てこずる",
+        "meaning": "gặp nhiều rắc rối, gặp khó khăn, không biết cách giải quyết"
+      },
+      {
+        "example": "金てこ",
+        "reading": "かなてこ",
+        "meaning": "xà beng"
+      },
+      {
+        "example": "変てこ",
+        "reading": "へんてこ",
+        "meaning": "kỳ lạ, kỳ lạ, kỳ quặc, điều kỳ lạ, người lạ"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "廴",
+      "木",
+      "王"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26755_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06883.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6883.gif",
+    "uri": "https://jisho.org/search/%E6%A2%83%23kanji"
+  }
+}

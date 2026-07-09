@@ -1,0 +1,536 @@
+{
+  "id": "重",
+  "kanjialiveData": {
+    "_id": "54317ae6791eba5146ee49a4",
+    "_rev": "10-3773abc0cf978f8c5b002afe29053edd",
+    "rad_name_ja": "さと",
+    "grade": 3,
+    "hint_group": 1,
+    "kunyomi": "e, omo, kasa, omoi, omosa, omori, omotai, omoshi, kasaneru, kasanaru",
+    "meaning": "nặng nề",
+    "kstroke": 9,
+    "examples": [
+      {
+        "japanese": "体重（たいじゅう）",
+        "meaning": {
+          "english": "trọng lượng cơ thể"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-omo(ri)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/juu-omo(ri)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/juu-omo(ri)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/juu-omo(ri)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "厳重な（げんじゅうな）",
+        "meaning": {
+          "english": "nghiêm khắc"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-omo(ri)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/juu-omo(ri)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/juu-omo(ri)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/juu-omo(ri)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "重要な（じゅうような）",
+        "meaning": {
+          "english": "quan trọng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-omo(ri)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/juu-omo(ri)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/juu-omo(ri)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/juu-omo(ri)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "重視する（じゅうしする）",
+        "meaning": {
+          "english": "xem xét nghiêm túc"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-omo(ri)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/juu-omo(ri)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/juu-omo(ri)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/juu-omo(ri)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "尊重する（そんちょうする）",
+        "meaning": {
+          "english": "tôn trọng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-omo(ri)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/juu-omo(ri)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/juu-omo(ri)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/juu-omo(ri)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "慎重な（しんちょうな）",
+        "meaning": {
+          "english": "thận trọng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-omo(ri)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/juu-omo(ri)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/juu-omo(ri)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/juu-omo(ri)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "貴重な（きちょうな）",
+        "meaning": {
+          "english": "quý giá"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-omo(ri)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/juu-omo(ri)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/juu-omo(ri)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/juu-omo(ri)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "二重（ふたえ）",
+        "meaning": {
+          "english": "hai lớp"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-omo(ri)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/juu-omo(ri)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/juu-omo(ri)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/juu-omo(ri)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "重さ（おもさ）",
+        "meaning": {
+          "english": "trọng lượng"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-omo(ri)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/juu-omo(ri)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/juu-omo(ri)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/juu-omo(ri)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "重い（おもい）",
+        "meaning": {
+          "english": "nặng nề"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-omo(ri)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/juu-omo(ri)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/juu-omo(ri)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/juu-omo(ri)_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "重ねる（かさねる）",
+        "meaning": {
+          "english": "chồng chất [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-omo(ri)_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/juu-omo(ri)_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/juu-omo(ri)_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/juu-omo(ri)_06_k.mp3"
+        }
+      },
+      {
+        "japanese": "重なる（かさなる）",
+        "meaning": {
+          "english": "được chất đống [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/juu-omo(ri)_06_l.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/juu-omo(ri)_06_l.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/juu-omo(ri)_06_l.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/juu-omo(ri)_06_l.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "え、おも、かさ、おもい、おもさ、おもり、おもたい、おもし、かさねる、かさなる",
+    "ka_utf": "重",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=重",
+    "kname": "juu-omo(ri)",
+    "rad_order": 200,
+    "txt_books": [
+      {
+        "chapter": "23",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "38",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "18",
+        "txt_bk": "macquarie"
+      },
+      {
+        "chapter": "8",
+        "txt_bk": "txtAd3"
+      },
+      {
+        "chapter": "21",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "8",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "15",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "mntr",
+        "chapter": "1"
+      },
+      {
+        "txt_bk": "mntr",
+        "chapter": "4"
+      }
+    ],
+    "rad_name_search": [
+      "sato"
+    ],
+    "rad_utf": "⾥",
+    "stroketimes": [
+      0,
+      1.331,
+      2.399,
+      3.265,
+      4.532,
+      5.198,
+      6.065,
+      7.198,
+      8.198,
+      9.2
+    ],
+    "kunyomi_ka_display": "え、おも、かさ",
+    "dick": "2223",
+    "rad_name": "sato",
+    "dicn": "224",
+    "mn_hint": "Person ノ trying to move a heavy cart 車 on the ground 一.",
+    "rad_stroke": 7,
+    "onyomi_ja": "ジュウ、チョウ",
+    "rad_meaning": "làng, (3,93 km)",
+    "onyomi": "juu, chou",
+    "ka_id": "ka_243",
+    "onyomi_search": [
+      "juu",
+      "chou",
+      "juu, chou"
+    ],
+    "kunyomi_search": [
+      "e",
+      "omo",
+      "kasa",
+      "omoi",
+      "omosa",
+      "omori",
+      "omotai",
+      "omoshi",
+      "kasaneru",
+      "kasanaru",
+      "e, omo, kasa, omoi, omosa, omori, omotai, omoshi, kasaneru, kasanaru"
+    ],
+    "meaning_search": [
+      "heavy",
+      "heavy"
+    ],
+    "onyomi_ja_search": [
+      "ジュウ",
+      "チョウ",
+      "ジュウ、チョウ"
+    ],
+    "kunyomi_ja_search": [
+      "え",
+      "おも",
+      "かさ",
+      "おもい",
+      "おもさ",
+      "おもり",
+      "おもたい",
+      "おもし",
+      "かさねる",
+      "かさなる",
+      "え、おも、かさ、おもい、おもさ、おもり、おもたい、おもし、かさねる、かさなる"
+    ],
+    "rad_meaning_search": [
+      "village",
+      "(3.93 km)",
+      "(3.93",
+      "km)",
+      "village, (3.93 km)"
+    ],
+    "rad_name_ja_search": [
+      "さと"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:23",
+      "cij:c23",
+      "bk",
+      "bk:38",
+      "bk:c38",
+      "mac",
+      "mac:18",
+      "mac:c18",
+      "aij3",
+      "aij3:8",
+      "aij3:c8",
+      "aij3:v3",
+      "aij3:v3:8",
+      "aij3:v3:c8",
+      "gen",
+      "gen:21",
+      "gen:c21",
+      "ap",
+      "ap:9",
+      "ap:c9",
+      "kll",
+      "kll:15",
+      "kll:c15",
+      "mntr",
+      "mntr:1",
+      "mntr:c1",
+      "mntr",
+      "mntr:4",
+      "mntr:c4"
+    ],
+    "rad_name_file": "sato",
+    "kanji": {
+      "character": "重",
+      "meaning": {
+        "english": "heavy"
+      },
+      "strokes": {
+        "count": 9,
+        "timings": [
+          0,
+          1.331,
+          2.399,
+          3.265,
+          4.532,
+          5.198,
+          6.065,
+          7.198,
+          8.198,
+          9.2
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/juu-omo(ri)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/juu-omo(ri)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/juu-omo(ri)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/juu-omo(ri)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/juu-omo(ri)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/juu-omo(ri)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/juu-omo(ri)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/juu-omo(ri)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/juu-omo(ri)_9.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "juu, chou",
+        "katakana": "ジュウ、チョウ"
+      },
+      "kunyomi": {
+        "romaji": "e, omo, kasa, omoi, omosa, omori, omotai, omoshi, kasaneru, kasanaru",
+        "hiragana": "え、おも、かさ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/juu-omo(ri)_9.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/juu-omo(ri)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/juu-omo(ri)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⾥",
+      "strokes": 7,
+      "image": "https://media.kanjialive.com/radical_character/sato.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "さと",
+        "romaji": "sato"
+      },
+      "meaning": {
+        "english": "làng, (3,93 km)"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/sato0.svg",
+        "https://media.kanjialive.com/rad_frames/sato1.svg",
+        "https://media.kanjialive.com/rad_frames/sato2.svg"
+      ]
+    },
+    "references": {
+      "grade": 3,
+      "kodansha": "2223",
+      "classic_nelson": "224"
+    }
+  },
+  "jishoData": {
+    "query": "重",
+    "found": true,
+    "taughtIn": "lớp 3",
+    "jlptLevel": "N4",
+    "newspaperFrequencyRank": "193",
+    "strokeCount": 9,
+    "meaning": "nặng nề, quan trọng, quý trọng, kính trọng, chất đống, chồng chất, tổ hộp, gấp lại",
+    "kunyomi": [
+      "え",
+      "おも.い",
+      "おも.り",
+      "おも.なう",
+      "かさ.ねる",
+      "かさ.なる",
+      "おも"
+    ],
+    "onyomi": [
+      "ジュウ",
+      "チョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "重",
+        "reading": "ジュウ",
+        "meaning": "jūbako, hộp đựng thức ăn nhiều tầng, nặng, nghiêm trọng, cực đoan, -fold, -ply"
+      },
+      {
+        "example": "重圧",
+        "reading": "ジュウアツ",
+        "meaning": "áp lực mạnh mẽ, áp lực nặng nề"
+      },
+      {
+        "example": "九重",
+        "reading": "ココノエ",
+        "meaning": "chín lần, hoàng cung, triều đình"
+      },
+      {
+        "example": "加重",
+        "reading": "カジュウ",
+        "meaning": "trọng số (tính trung bình), tình tiết tăng nặng"
+      },
+      {
+        "example": "重複",
+        "reading": "チョウフク",
+        "meaning": "sự sao chép, sự lặp lại, sự chồng chéo, sự dư thừa, sự phục hồi"
+      },
+      {
+        "example": "重厚",
+        "reading": "ジュウコウ",
+        "meaning": "sâu sắc, sâu sắc, nghiêm trọng, rắn chắc, trang nghiêm, trang nghiêm, trang trọng, sáng tác, đáng kể, đồ sộ"
+      },
+      {
+        "example": "加重",
+        "reading": "カジュウ",
+        "meaning": "trọng số (tính trung bình), tình tiết tăng nặng"
+      },
+      {
+        "example": "九重",
+        "reading": "ココノエ",
+        "meaning": "chín lần, hoàng cung, triều đình"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "重",
+        "reading": "え",
+        "meaning": "-gấp, -ply"
+      },
+      {
+        "example": "八重",
+        "reading": "やえ",
+        "meaning": "nhiều lớp, gấp đôi"
+      },
+      {
+        "example": "九重",
+        "reading": "ここのえ",
+        "meaning": "chín lần, hoàng cung, triều đình"
+      },
+      {
+        "example": "重い",
+        "reading": "おもい",
+        "meaning": "nặng nề, nặng nề, nặng nề (cảm giác), chán nản, u ám, xanh xao, khó chịu, chậm chạp, chậm chạp, ì ạch, nặng nề, vụng về, quan trọng (vị trí, trách nhiệm, v.v.), nghiêm trọng, nghiêm trọng, nghiêm trọng (hình phạt, bệnh tật, v.v.), nghiêm trọng, phê bình, vững chắc, vững chắc, trang nghiêm, hợp lý"
+      },
+      {
+        "example": "重い腰を上げる",
+        "reading": "おもいこしをあげる",
+        "meaning": "thoát ra khỏi mặt sau của một người, để tự mình vận động"
+      },
+      {
+        "example": "重り",
+        "reading": "おもり",
+        "meaning": "trọng lượng, tàu chìm"
+      },
+      {
+        "example": "重ねる",
+        "reading": "かさねる",
+        "meaning": "chất chồng lên, chồng lên nhau, chồng lên nhau, chồng lên nhau, lặp đi lặp lại nhiều lần, trải qua nhiều lần, tích lũy"
+      },
+      {
+        "example": "重なる",
+        "reading": "かさなる",
+        "meaning": "chồng lên nhau, chồng lên nhau, chồng lên nhau, xảy ra nhiều lần, chồng chất (ví dụ: căng thẳng), tích tụ, chồng lên nhau, xảy ra cùng một lúc, xảy ra đồng thời"
+      },
+      {
+        "example": "主",
+        "reading": "おも",
+        "meaning": "Vai trò chính, chính, chính, quan trọng, chính phụ hoặc hỗ trợ (trong kyogen)"
+      },
+      {
+        "example": "重き",
+        "reading": "おもき",
+        "meaning": "tầm quan trọng, sự nhấn mạnh, sự căng thẳng"
+      },
+      {
+        "example": "身重",
+        "reading": "みおも",
+        "meaning": "mang thai"
+      },
+      {
+        "example": "気重",
+        "reading": "きおも",
+        "meaning": "nặng lòng"
+      }
+    ],
+    "radical": {
+      "symbol": "里",
+      "meaning": "làng, dặm"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "日",
+      "里",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37325_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/091cd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/91cd.gif",
+    "uri": "https://jisho.org/search/%E9%87%8D%23kanji"
+  }
+}

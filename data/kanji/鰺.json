@@ -1,0 +1,55 @@
+{
+  "id": "鰺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鰺",
+    "found": true,
+    "strokeCount": 22,
+    "meaning": "cá thu ngựa",
+    "kunyomi": [
+      "あじ"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "【アジ】",
+        "reading": "horse mackerel (Carangidae spp., esp. the Japanese horse mackerel, Trachurus japonicus), jack mackerel, pompano, scad",
+        "meaning": ""
+      },
+      {
+        "example": "鰺刺",
+        "reading": "あじさし",
+        "meaning": "nhàn (đặc biệt là nhàn thông thường, Sterna hirundo)"
+      },
+      {
+        "example": "糸引鰺",
+        "reading": "いとひきあじ",
+        "meaning": "Cá chim châu Phi (Alectis ciliaris)"
+      },
+      {
+        "example": "真鯵",
+        "reading": "まあじ",
+        "meaning": "Cá thu jack Nhật Bản, cá thu ngựa Nhật Bản (Trachurus japonicus)"
+      }
+    ],
+    "radical": {
+      "symbol": "魚",
+      "meaning": "cá"
+    },
+    "parts": [
+      "个",
+      "厶",
+      "彡",
+      "杰",
+      "田",
+      "魚"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39994_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09c3a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9c3a.gif",
+    "uri": "https://jisho.org/search/%E9%B0%BA%23kanji"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "斬",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "斬",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "newspaperFrequencyRank": "2132",
+    "strokeCount": 11,
+    "meaning": "chặt đầu, giết, giết người",
+    "kunyomi": [
+      "き.る"
+    ],
+    "onyomi": [
+      "ザン",
+      "サン",
+      "セン",
+      "ゼン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "斬",
+        "reading": "ザン",
+        "meaning": "chặt đầu, chặt đầu"
+      },
+      {
+        "example": "斬新",
+        "reading": "ザンシン",
+        "meaning": "tiểu thuyết, độc đáo, mới, sáng tạo"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "斬る",
+        "reading": "きる",
+        "meaning": "giết (một con người) bằng cách sử dụng một lưỡi dao (kiếm, dao rựa, dao, v.v.), để cắt (tắt), chặt (cắt), cắt (cắt)"
+      }
+    ],
+    "radical": {
+      "symbol": "斤",
+      "meaning": "rìu"
+    },
+    "parts": [
+      "斤",
+      "車"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26028_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/065ac.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/65ac.gif",
+    "uri": "https://jisho.org/search/%E6%96%AC%23kanji"
+  }
+}

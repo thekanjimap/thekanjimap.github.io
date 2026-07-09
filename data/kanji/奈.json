@@ -1,0 +1,70 @@
+{
+  "id": "奈",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "奈",
+    "found": true,
+    "taughtIn": "lớp 4",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "841",
+    "strokeCount": 8,
+    "meaning": "Nara, cái gì?",
+    "kunyomi": [
+      "いかん",
+      "からなし"
+    ],
+    "onyomi": [
+      "ナ",
+      "ナイ",
+      "ダイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "奈良",
+        "reading": "ナラ",
+        "meaning": "Nara (thành phố, tỉnh)"
+      },
+      {
+        "example": "な行",
+        "reading": "ナギョウ",
+        "meaning": "cột \"na\" trong bảng âm tiết tiếng Nhật (na, ni, nu, ne, no)"
+      },
+      {
+        "example": "眼仁奈",
+        "reading": "メジナ",
+        "meaning": "cá đen cỡ lớn (Girella punctata)"
+      },
+      {
+        "example": "輪奈",
+        "reading": "ワナ",
+        "meaning": "vòng lặp (của sợi, chuỗi, v.v.)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "如何",
+        "reading": "いかん",
+        "meaning": "(tùy thuộc vào) như thế nào, (tùy thuộc vào) cái gì, tính chất (của), là gì...?, thế nào là...?, cái gì sẽ là...?"
+      },
+      {
+        "example": "唐梨",
+        "reading": "からなし",
+        "meaning": "Mộc qua Trung Quốc (Pseudocydonia sinensis)"
+      }
+    ],
+    "radical": {
+      "symbol": "大",
+      "meaning": "lớn, rất"
+    },
+    "parts": [
+      "二",
+      "大",
+      "小",
+      "示"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22856_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05948.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5948.gif",
+    "uri": "https://jisho.org/search/%E5%A5%88%23kanji"
+  }
+}

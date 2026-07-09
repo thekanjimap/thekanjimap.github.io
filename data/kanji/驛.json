@@ -1,0 +1,44 @@
+{
+  "id": "驛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "驛",
+    "found": true,
+    "strokeCount": 23,
+    "meaning": "trạm",
+    "kunyomi": [],
+    "onyomi": [
+      "エキ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "駅",
+        "reading": "エキ",
+        "meaning": "nhà ga xe lửa, nhà ga xe lửa, trạm dừng trên đường cao tốc (ở Nhật Bản thời tiền hiện đại), quầy ga xe lửa và bến xe buýt"
+      },
+      {
+        "example": "駅子",
+        "reading": "エキシ",
+        "meaning": "nhân viên tại trạm thay ngựa trong thời kỳ ritsuryō"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "馬",
+      "meaning": "con ngựa"
+    },
+    "parts": [
+      "亠",
+      "十",
+      "杰",
+      "立",
+      "買",
+      "辛",
+      "馬"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39515_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09a5b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9a5b.gif",
+    "uri": "https://jisho.org/search/%E9%A9%9B%23kanji"
+  }
+}

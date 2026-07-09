@@ -1,0 +1,59 @@
+{
+  "id": "溯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "溯",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "ngược dòng, tìm lại quá khứ",
+    "kunyomi": [
+      "さかのぼ.る"
+    ],
+    "onyomi": [
+      "ソ",
+      "サク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "遡河魚",
+        "reading": "ソカギョ",
+        "meaning": "cá anadromous (cá di cư ngược dòng, ví dụ như cá hồi)"
+      },
+      {
+        "example": "遡及",
+        "reading": "ソキュウ",
+        "meaning": "có tính hồi tố, có tính hồi tố, có tính hồi tố (to)"
+      },
+      {
+        "example": "遡源",
+        "reading": "サクゲン",
+        "meaning": "đi về cội nguồn, truy tìm cội nguồn"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "遡る",
+        "reading": "さかのぼる",
+        "meaning": "đi ngược dòng, đi lên (một dòng sông), quay trở lại (quá khứ hoặc nguồn gốc), quay ngược thời gian (đến), truy tìm lại (đến), có tính chất hồi tố (đến)"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "屮",
+      "并",
+      "月",
+      "汁"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28335_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06eaf.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6eaf.gif",
+    "uri": "https://jisho.org/search/%E6%BA%AF%23kanji"
+  }
+}

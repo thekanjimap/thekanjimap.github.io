@@ -1,0 +1,81 @@
+{
+  "id": "毀",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "毀",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "strokeCount": 13,
+    "meaning": "phá vỡ, phá hủy, chỉ trích, bị sứt mẻ, bị trầy xước, bị gãy, bị hủy hoại",
+    "kunyomi": [
+      "こぼ.つ",
+      "こわ.す",
+      "こぼ.れる",
+      "こわ.れる",
+      "そし.る",
+      "やぶ.る"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "毀損",
+        "reading": "キソン",
+        "meaning": "sự tổn hại, sự tổn thương, sự phỉ báng, sự tổn hại"
+      },
+      {
+        "example": "毀壊",
+        "reading": "キカイ",
+        "meaning": "phá vỡ,phá hủy,phá hủy,phá hủy,bị phá hủy,bị phá hủy,bị phá hủy,bị hao mòn"
+      },
+      {
+        "example": "焼毀",
+        "reading": "ショウキ",
+        "meaning": "bị lửa thiêu rụi hoàn toàn"
+      },
+      {
+        "example": "誹毀",
+        "reading": "ヒキ",
+        "meaning": "sự phỉ báng, sự bôi nhọ, sự vu khống, sự vu khống"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "毀つ",
+        "reading": "こぼつ",
+        "meaning": "phá hủy, phá vỡ, làm hư hỏng"
+      },
+      {
+        "example": "壊す",
+        "reading": "こわす",
+        "meaning": "phá vỡ, phá hủy, phá hủy, phá hủy, làm hỏng, làm hỏng, làm hư hỏng, đập vỡ (một tờ tiền, v.v.)"
+      },
+      {
+        "example": "毀れる",
+        "reading": "こぼれる",
+        "meaning": "bị sứt mẻ, bị sứt mẻ"
+      },
+      {
+        "example": "壊れる",
+        "reading": "こわれる",
+        "meaning": "bị phá vỡ, bị phá vỡ, bị tan vỡ, bị sụp đổ, bị phá hủy, bị hư hỏng, bị phá vỡ, ngừng hoạt động, thất bại (của một kế hoạch, thỏa thuận, v.v.), sụp đổ, bị phá vỡ (của một mối quan hệ, các cuộc đàm phán, v.v.), bị phá vỡ, bị hủy hoại (của một bầu không khí, hình ảnh của một người, v.v.)"
+      }
+    ],
+    "radical": {
+      "symbol": "殳",
+      "meaning": "vũ khí, thương"
+    },
+    "parts": [
+      "几",
+      "又",
+      "土",
+      "殳",
+      "臼"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27584_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06bc0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6bc0.gif",
+    "uri": "https://jisho.org/search/%E6%AF%80%23kanji"
+  }
+}

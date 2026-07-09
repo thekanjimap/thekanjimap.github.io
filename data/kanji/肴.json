@@ -1,0 +1,67 @@
+{
+  "id": "肴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "肴",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "đồ uống đi kèm",
+    "kunyomi": [
+      "さかな"
+    ],
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "佳肴",
+        "reading": "カコウ",
+        "meaning": "món ngon, món hiếm, cá ăn ngon"
+      },
+      {
+        "example": "美味佳肴",
+        "reading": "ビミカコウ",
+        "meaning": "món ngon, món ăn thượng hạng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "肴",
+        "reading": "さかな",
+        "meaning": "món khai vị hoặc món ăn nhẹ dùng kèm với đồ uống, màn trình diễn để làm sôi động quán bar, cuộc trò chuyện để làm sôi động bữa tiệc"
+      },
+      {
+        "example": "肴にする",
+        "reading": "さかなにする",
+        "meaning": "gọi món (với đồ uống), trêu chọc ai đó, cười nhạo sự tổn hại của ai đó"
+      },
+      {
+        "example": "酒肴",
+        "reading": "しゅこう",
+        "meaning": "thức ăn và đồ uống (có cồn), đồ ăn dùng kèm với đồ uống có cồn, đồ ăn kèm với đồ uống"
+      },
+      {
+        "example": "酒の肴",
+        "reading": "さけのさかな",
+        "meaning": "món khai vị hoặc món ăn nhẹ dùng kèm với đồ uống, đi kèm với đồ uống (có cồn)"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "thịt"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "丶",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32948_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/080b4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/80b4.gif",
+    "uri": "https://jisho.org/search/%E8%82%B4%23kanji"
+  }
+}

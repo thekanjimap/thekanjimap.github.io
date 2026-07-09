@@ -1,0 +1,45 @@
+{
+  "id": "虔",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "虔",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "tôn trọng",
+    "kunyomi": [
+      "つつし.む"
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "不敬虔",
+        "reading": "フケイケン",
+        "meaning": "sự bất kính, sự bất kính"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "慎む",
+        "reading": "つつしむ",
+        "meaning": "cẩn thận, kín đáo, làm chừng mực, kiềm chế (không làm quá), kiêng cữ, cung kính, thanh lọc, khiết tịnh"
+      }
+    ],
+    "radical": {
+      "symbol": "虍",
+      "meaning": "sọc hổ"
+    },
+    "parts": [
+      "匕",
+      "卜",
+      "厂",
+      "文",
+      "虍"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34388_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08654.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8654.gif",
+    "uri": "https://jisho.org/search/%E8%99%94%23kanji"
+  }
+}

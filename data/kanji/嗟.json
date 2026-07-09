@@ -1,0 +1,59 @@
+{
+  "id": "嗟",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嗟",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "than thở, đau buồn, thở dài, than ôi, ah",
+    "kunyomi": [
+      "あ",
+      "ああ",
+      "なげ.く"
+    ],
+    "onyomi": [
+      "サ",
+      "シャ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "嗟嘆",
+        "reading": "サタン",
+        "meaning": "than thở, tiếc nuối, ngưỡng mộ, khen ngợi"
+      },
+      {
+        "example": "怨嗟",
+        "reading": "エンサ",
+        "meaning": "(nắm giữ sâu sắc) sự oán giận"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "【ああ】",
+        "reading": "ah!, oh!, alas!, yes, indeed, that is correct, aah, gah, argh, hey!, yo!, uh huh, yeah yeah, right, gotcha",
+        "meaning": ""
+      },
+      {
+        "example": "【ああ】",
+        "reading": "ah!, oh!, alas!, yes, indeed, that is correct, aah, gah, argh, hey!, yo!, uh huh, yeah yeah, right, gotcha",
+        "meaning": ""
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "ノ",
+      "口",
+      "工",
+      "并",
+      "王",
+      "羊"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21983_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/055df.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/55df.gif",
+    "uri": "https://jisho.org/search/%E5%97%9F%23kanji"
+  }
+}

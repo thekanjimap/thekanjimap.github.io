@@ -1,0 +1,79 @@
+{
+  "id": "鬼",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鬼",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1557",
+    "strokeCount": 10,
+    "meaning": "ma, quỷ",
+    "kunyomi": [
+      "おに",
+      "おに-"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鬼",
+        "reading": "オニ",
+        "meaning": "yêu tinh, ác quỷ, yêu tinh, linh hồn của người đã chết, người giống yêu tinh (tức là hung dữ, tàn nhẫn, tàn nhẫn, v.v.), nó (trong trò chơi đuổi bắt, trốn tìm, v.v.), chòm sao \"ma\" Trung Quốc (một trong 28 dinh thự), rất, cực kỳ, siêu-"
+      },
+      {
+        "example": "鬼神",
+        "reading": "キシン",
+        "meaning": "Chúa hung dữ"
+      },
+      {
+        "example": "債鬼",
+        "reading": "サイキ",
+        "meaning": "chủ nợ độc ác, người đòi nợ độc ác"
+      },
+      {
+        "example": "豪鬼",
+        "reading": "ゴウキ",
+        "meaning": "Akuma (Chiến binh đường phố)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鬼",
+        "reading": "おに",
+        "meaning": "yêu tinh, ác quỷ, yêu tinh, linh hồn của người đã chết, người giống yêu tinh (tức là hung dữ, tàn nhẫn, tàn nhẫn, v.v.), nó (trong trò chơi đuổi bắt, trốn tìm, v.v.), chòm sao \"ma\" Trung Quốc (một trong 28 dinh thự), rất, cực kỳ, siêu-"
+      },
+      {
+        "example": "鬼神",
+        "reading": "きしん",
+        "meaning": "Chúa hung dữ"
+      },
+      {
+        "example": "青鬼",
+        "reading": "あおおに",
+        "meaning": "(có sừng) quỷ xanh, yêu tinh xanh"
+      },
+      {
+        "example": "赤鬼",
+        "reading": "あかおに",
+        "meaning": "quỷ sừng đỏ, yêu tinh đỏ"
+      }
+    ],
+    "radical": {
+      "symbol": "鬼",
+      "meaning": "ma, quỷ"
+    },
+    "parts": [
+      "儿",
+      "匕",
+      "厶",
+      "田",
+      "鬼"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/39740_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09b3c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9b3c.gif",
+    "uri": "https://jisho.org/search/%E9%AC%BC%23kanji"
+  }
+}

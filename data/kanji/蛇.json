@@ -1,0 +1,104 @@
+{
+  "id": "蛇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蛇",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1721",
+    "strokeCount": 11,
+    "meaning": "con rắn, con rắn, người nghiện rượu",
+    "kunyomi": [
+      "へび"
+    ],
+    "onyomi": [
+      "ジャ",
+      "ダ",
+      "イ",
+      "ヤ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "蛇",
+        "reading": "ヘビ",
+        "meaning": "con rắn, con rắn, con rắn lớn"
+      },
+      {
+        "example": "蛇口",
+        "reading": "ジャグチ",
+        "meaning": "vòi, vòi"
+      },
+      {
+        "example": "王蛇",
+        "reading": "オウジャ",
+        "meaning": "boa (rắn)"
+      },
+      {
+        "example": "長蛇",
+        "reading": "チョウダ",
+        "meaning": "con rắn dài, hàng dài (người, v.v.)"
+      },
+      {
+        "example": "蛇行",
+        "reading": "ダコウ",
+        "meaning": "uốn khúc, ngoằn ngoèo, ngoằn ngoèo"
+      },
+      {
+        "example": "蛇蝎",
+        "reading": "ダカツ",
+        "meaning": "rắn và bọ cạp, thứ gì đó đáng ghét"
+      },
+      {
+        "example": "委蛇",
+        "reading": "イイ",
+        "meaning": "quanh co, quanh co"
+      },
+      {
+        "example": "游蛇",
+        "reading": "ユウダ",
+        "meaning": "rắn nước"
+      },
+      {
+        "example": "委蛇",
+        "reading": "イイ",
+        "meaning": "quanh co, quanh co"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "蛇",
+        "reading": "へび",
+        "meaning": "con rắn, con rắn, con rắn lớn"
+      },
+      {
+        "example": "蛇穴に入る",
+        "reading": "へびあなにいる",
+        "meaning": "rắn ngủ đông"
+      },
+      {
+        "example": "裸蛇",
+        "reading": "はだかへび",
+        "meaning": "caecilian (bất kỳ loài lưỡng cư không chân đào hang nào thuộc bộ Gymnophiona)"
+      },
+      {
+        "example": "錦蛇",
+        "reading": "にしきへび",
+        "meaning": "trăn, rắn đá"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "côn trùng"
+    },
+    "parts": [
+      "匕",
+      "宀",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34503_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086c7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86c7.gif",
+    "uri": "https://jisho.org/search/%E8%9B%87%23kanji"
+  }
+}

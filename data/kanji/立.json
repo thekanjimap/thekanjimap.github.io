@@ -1,0 +1,475 @@
+{
+  "id": "立",
+  "kanjialiveData": {
+    "_id": "54317af0791eba5146ee4a6d",
+    "_rev": "11-067cb62cf274853d7ec99592d9957a3d",
+    "rad_name_ja": "たつ",
+    "grade": 1,
+    "hint_group": 1,
+    "kunyomi": "ta, tate, tatsu, tachi, tateru",
+    "meaning": "đứng, thành lập",
+    "kstroke": 5,
+    "examples": [
+      {
+        "japanese": "独立する（どくりつする）",
+        "meaning": {
+          "english": "trở nên độc lập"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ritsu-ta(tsu)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ritsu-ta(tsu)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ritsu-ta(tsu)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ritsu-ta(tsu)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "自立する（じりつする）",
+        "meaning": {
+          "english": "trở nên độc lập"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ritsu-ta(tsu)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ritsu-ta(tsu)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ritsu-ta(tsu)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ritsu-ta(tsu)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "確立する（かくりつする）",
+        "meaning": {
+          "english": "thành lập [v.t.], được thành lập"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ritsu-ta(tsu)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ritsu-ta(tsu)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ritsu-ta(tsu)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ritsu-ta(tsu)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "成立する（せいりつする）",
+        "meaning": {
+          "english": "hình thức, được sinh ra, được hoàn thành"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ritsu-ta(tsu)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ritsu-ta(tsu)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ritsu-ta(tsu)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ritsu-ta(tsu)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "対立する（たいりつする）",
+        "meaning": {
+          "english": "đối đầu"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ritsu-ta(tsu)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ritsu-ta(tsu)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ritsu-ta(tsu)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ritsu-ta(tsu)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "国立（こくりつ）",
+        "meaning": {
+          "english": "quốc gia"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ritsu-ta(tsu)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ritsu-ta(tsu)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ritsu-ta(tsu)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ritsu-ta(tsu)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "私立（しりつ/わたくしりつ）",
+        "meaning": {
+          "english": "tư nhân (cơ sở)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ritsu-ta(tsu)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ritsu-ta(tsu)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ritsu-ta(tsu)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ritsu-ta(tsu)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "立派な（りっぱな）",
+        "meaning": {
+          "english": "lộng lẫy"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ritsu-ta(tsu)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ritsu-ta(tsu)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ritsu-ta(tsu)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ritsu-ta(tsu)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "建立する（こんりゅうする）",
+        "meaning": {
+          "english": "xây dựng (đền thờ, tượng đài, v.v.)"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ritsu-ta(tsu)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ritsu-ta(tsu)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ritsu-ta(tsu)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ritsu-ta(tsu)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "立つ（たつ）",
+        "meaning": {
+          "english": "đứng lên [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ritsu-ta(tsu)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ritsu-ta(tsu)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ritsu-ta(tsu)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ritsu-ta(tsu)_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "立場（たちば）",
+        "meaning": {
+          "english": "quan điểm"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ritsu-ta(tsu)_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ritsu-ta(tsu)_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ritsu-ta(tsu)_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ritsu-ta(tsu)_06_k.mp3"
+        }
+      },
+      {
+        "japanese": "立てる（たてる）",
+        "meaning": {
+          "english": "đứng (cái gì đó) lên [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/ritsu-ta(tsu)_06_l.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/ritsu-ta(tsu)_06_l.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/ritsu-ta(tsu)_06_l.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/ritsu-ta(tsu)_06_l.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "た、たて、たつ、たち、たてる",
+    "ka_utf": "立",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=立",
+    "kname": "ritsu-ta(tsu)",
+    "rad_order": 148,
+    "txt_books": [
+      {
+        "chapter": "3",
+        "txt_bk": "txtIntermJpn"
+      },
+      {
+        "chapter": "2",
+        "txt_bk": "txtMimiFilm"
+      },
+      {
+        "chapter": "24",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "14",
+        "txt_bk": "txtAd2"
+      },
+      {
+        "chapter": "10",
+        "txt_bk": "txtGenki"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "txtSFJ1"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "8",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "20",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "5",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "txt_bk": "mosr",
+        "chapter": "14"
+      }
+    ],
+    "rad_name_search": [
+      "tatsu"
+    ],
+    "rad_utf": "⽴",
+    "stroketimes": [
+      0.758,
+      1.446,
+      2.652,
+      3.255,
+      4.395,
+      5.226
+    ],
+    "kunyomi_ka_display": "た、たて",
+    "dick": "1257",
+    "rad_name": "tatsu",
+    "dicn": "3343",
+    "mn_hint": "Please view the animation in the radical field to the left.",
+    "rad_stroke": 5,
+    "onyomi_ja": "リツ、リュウ",
+    "rad_meaning": "đứng",
+    "onyomi": "ritsu, ryuu",
+    "ka_id": "ka_424",
+    "onyomi_search": [
+      "ritsu",
+      "ryuu",
+      "ritsu, ryuu"
+    ],
+    "kunyomi_search": [
+      "ta",
+      "tate",
+      "tatsu",
+      "tachi",
+      "tateru",
+      "ta, tate, tatsu, tachi, tateru"
+    ],
+    "meaning_search": [
+      "stand",
+      "establish",
+      "stand, establish"
+    ],
+    "onyomi_ja_search": [
+      "リツ",
+      "リュウ",
+      "リツ、リュウ"
+    ],
+    "kunyomi_ja_search": [
+      "た",
+      "たて",
+      "たつ",
+      "たち",
+      "たてる",
+      "た、たて、たつ、たち、たてる"
+    ],
+    "rad_meaning_search": [
+      "to stand",
+      "to",
+      "stand",
+      "to stand"
+    ],
+    "rad_name_ja_search": [
+      "たつ"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [
+      "ij",
+      "ij:3",
+      "ij:c3",
+      "mos",
+      "mos:2",
+      "mos:c2",
+      "bk",
+      "bk:24",
+      "bk:c24",
+      "aij3",
+      "aij3:14",
+      "aij3:c14",
+      "aij3:v2",
+      "aij3:v2:14",
+      "aij3:v2:c14",
+      "gen",
+      "gen:10",
+      "gen:c10",
+      "ap",
+      "ap:20",
+      "ap:c20",
+      "kll",
+      "kll:5",
+      "kll:c5",
+      "mosr",
+      "mosr:14",
+      "mosr:c14"
+    ],
+    "rad_name_file": "tatsu",
+    "kanji": {
+      "character": "立",
+      "meaning": {
+        "english": "stand, establish"
+      },
+      "strokes": {
+        "count": 5,
+        "timings": [
+          0.758,
+          1.446,
+          2.652,
+          3.255,
+          4.395,
+          5.226
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/ritsu-ta(tsu)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/ritsu-ta(tsu)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/ritsu-ta(tsu)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/ritsu-ta(tsu)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/ritsu-ta(tsu)_5.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "ritsu, ryuu",
+        "katakana": "リツ、リュウ"
+      },
+      "kunyomi": {
+        "romaji": "ta, tate, tatsu, tachi, tateru",
+        "hiragana": "た、たて"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/ritsu-ta(tsu)_5.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/ritsu-ta(tsu)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/ritsu-ta(tsu)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⽴",
+      "strokes": 5,
+      "image": "https://media.kanjialive.com/radical_character/tatsu.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "たつ",
+        "romaji": "tatsu"
+      },
+      "meaning": {
+        "english": "đứng"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/tatsu0.svg",
+        "https://media.kanjialive.com/rad_frames/tatsu1.svg",
+        "https://media.kanjialive.com/rad_frames/tatsu2.svg"
+      ]
+    },
+    "references": {
+      "grade": 1,
+      "kodansha": "1257",
+      "classic_nelson": "3343"
+    }
+  },
+  "jishoData": {
+    "query": "立",
+    "found": true,
+    "taughtIn": "lớp 1",
+    "jlptLevel": "N4",
+    "newspaperFrequencyRank": "58",
+    "strokeCount": 5,
+    "meaning": "đứng lên, dựng lên, dựng lên, dựng lên",
+    "kunyomi": [
+      "た.つ",
+      "-た.つ",
+      "た.ち-",
+      "た.てる",
+      "-た.てる",
+      "た.て-",
+      "たて-",
+      "-た.て",
+      "-だ.て",
+      "-だ.てる"
+    ],
+    "onyomi": [
+      "リツ",
+      "リュウ",
+      "リットル"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "立案",
+        "reading": "リツアン",
+        "meaning": "lập kế hoạch, vạch ra (kế hoạch), soạn thảo, vạch ra"
+      },
+      {
+        "example": "立像",
+        "reading": "リツゾウ",
+        "meaning": "tượng đứng, tượng đứng"
+      },
+      {
+        "example": "並立",
+        "reading": "ヘイリツ",
+        "meaning": "đứng ngang nhau"
+      },
+      {
+        "example": "不成立",
+        "reading": "フセイリツ",
+        "meaning": "thất bại (ví dụ: một dự luật, kiến nghị), thất bại, bị từ chối, sẩy thai"
+      },
+      {
+        "example": "立ち木",
+        "reading": "タチキ",
+        "meaning": "cây đứng, gỗ đứng"
+      },
+      {
+        "example": "立纓",
+        "reading": "リュウエイ",
+        "meaning": "đuôi dựng đứng (của mũ truyền thống Nhật Bản)"
+      },
+      {
+        "example": "開立",
+        "reading": "カイリュウ",
+        "meaning": "khai thác căn bậc ba"
+      },
+      {
+        "example": "造立",
+        "reading": "ゾウリュウ",
+        "meaning": "xây dựng (ngôi chùa, tượng phật, v.v.)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "立つ",
+        "reading": "たつ",
+        "meaning": "đứng (lên), đứng lên, đứng dậy, đứng trên đầu (ví dụ như tóc), bám lên, đứng (ở một vị trí; của một người, cái cây, tòa nhà, v.v.), ở (trong, trên), ở (trong khó khăn, dẫn đầu, v.v.), đặt mình (vào một vị trí hoặc tình huống), đảm nhận (một vị trí, bài viết, v.v.), định vị chính mình, rời đi (làm điều gì đó), khởi hành (trong một cuộc hành trình, chuyến đi, v.v.), đến rời đi, khởi hành, bắt đầu, bị mắc kẹt (vào; của một mũi tên, gai, v.v.), đâm thủng, phát triển (của sương mù, sóng, v.v.), hình thành (của hơi nước, bong bóng, v.v.), xuất hiện (của cầu vồng, mây, v.v.), nổi lên (khói, sóng, v.v.), bắt đầu thổi (của gió, gió, v.v.), lan truyền (của tin đồn, danh tiếng, v.v.), được biết đến rộng rãi, đứng (để bầu cử), để chạy, hành động, hành động, đứng lên, thức dậy, cương cứng, cương cứng (ví dụ: núm vú), được thiết lập (của một chính sách, kế hoạch, mục tiêu, v.v.), được hình thành, có giá trị (của một lập luận, logic, v.v.), được giữ vững, giữ nước, đứng lên (ví dụ: bằng chứng), hợp lý, hợp lý, được duy trì (của một cuộc sống, kinh doanh, v.v.), được duy trì, tồn tại, được bảo tồn (về danh tiếng, danh dự, v.v.), được cứu, bắt đầu (của một mùa), bắt đầu, bị giữ (trong một phiên chợ), đóng (của một cánh cửa, shoji, v.v.), bị đóng, bị đóng, bị (kết quả của sự chia rẽ)"
+      },
+      {
+        "example": "立つ瀬",
+        "reading": "たつせ",
+        "meaning": "địa vị, bộ mặt, danh dự, danh tiếng của một người"
+      },
+      {
+        "example": "突立",
+        "reading": "とったつ",
+        "meaning": "đứng thẳng lên"
+      },
+      {
+        "example": "立てる",
+        "reading": "たてる",
+        "meaning": "đứng lên, dựng lên, dựng lên, dựng lên, nâng lên, đâm vào, chôn vào, đào sâu vào, tạo ra (một tiếng ồn), bắt đầu (một tin đồn), dựng lên (một đám mây bụi, v.v.), gây ra, thực hiện, thành lập, thiết lập, phát triển, xây dựng, đưa ra (một ứng cử viên chính trị), làm cho (người lãnh đạo), đối xử với sự tôn trọng, trao cho (ai đó) quyền lợi của họ, làm cho (ai đó) trông tốt, để tránh bối rối (ai đó), mài giũa, làm rõ, đóng, đóng, pha trà (matcha), tiến hành trà đạo, phân chia, làm... mạnh mẽ"
+      }
+    ],
+    "radical": {
+      "symbol": "立",
+      "meaning": "đứng, dựng lên"
+    },
+    "parts": [
+      "立"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/31435_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07acb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7acb.gif",
+    "uri": "https://jisho.org/search/%E7%AB%8B%23kanji"
+  }
+}

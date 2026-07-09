@@ -1,0 +1,63 @@
+{
+  "id": "虐",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "虐",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1464",
+    "strokeCount": 9,
+    "meaning": "chuyên chế, đàn áp",
+    "kunyomi": [
+      "しいた.げる"
+    ],
+    "onyomi": [
+      "ギャク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "虐待",
+        "reading": "ギャクタイ",
+        "meaning": "sự ngược đãi,sự ngược đãi,sự ngược đãi,sự ngược đãi,sự ngược đãi,sự ngược đãi"
+      },
+      {
+        "example": "虐殺",
+        "reading": "ギャクサツ",
+        "meaning": "sự tàn sát, sự thảm sát"
+      },
+      {
+        "example": "自虐",
+        "reading": "ジギャク",
+        "meaning": "tự hành hạ, khổ dâm, tự làm tổn thương bản thân"
+      },
+      {
+        "example": "弑逆",
+        "reading": "シギャク",
+        "meaning": "sát hại lãnh chúa hoặc cha của mình"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "虐げる",
+        "reading": "しいたげる",
+        "meaning": "đàn áp, đàn áp, bạo ngược"
+      }
+    ],
+    "radical": {
+      "symbol": "虍",
+      "meaning": "sọc hổ"
+    },
+    "parts": [
+      "匕",
+      "匚",
+      "卜",
+      "厂",
+      "虍"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34384_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08650.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8650.gif",
+    "uri": "https://jisho.org/search/%E8%99%90%23kanji"
+  }
+}

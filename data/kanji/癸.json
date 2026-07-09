@@ -1,0 +1,54 @@
+{
+  "id": "癸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "癸",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "dấu hiệu lịch thứ 10",
+    "kunyomi": [
+      "みずのと"
+    ],
+    "onyomi": [
+      "キ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "癸",
+        "reading": "キ",
+        "meaning": "Đứng thứ 10, cung thứ 10 âm lịch"
+      },
+      {
+        "example": "癸亥",
+        "reading": "ミズノトイ",
+        "meaning": "Kỷ Hợi Nước (kỳ thứ 60 của chu kỳ sáu mươi tuổi, ví dụ: 1923, 1983, 2043)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "癸",
+        "reading": "き",
+        "meaning": "Đứng thứ 10, cung thứ 10 âm lịch"
+      },
+      {
+        "example": "癸亥",
+        "reading": "みずのとい",
+        "meaning": "Kỷ Hợi Nước (kỳ thứ 60 của chu kỳ sáu mươi tuổi, ví dụ: 1923, 1983, 2043)"
+      }
+    ],
+    "radical": {
+      "symbol": "癶",
+      "meaning": "bước chân"
+    },
+    "parts": [
+      "一",
+      "二",
+      "大",
+      "癶"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30328_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07678.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7678.gif",
+    "uri": "https://jisho.org/search/%E7%99%B8%23kanji"
+  }
+}

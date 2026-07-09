@@ -1,0 +1,40 @@
+{
+  "id": "艤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "艤",
+    "found": true,
+    "strokeCount": 19,
+    "meaning": "hạ cánh một chiếc thuyền",
+    "kunyomi": [
+      "ふなよそおい"
+    ],
+    "onyomi": [
+      "ギ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "艤装",
+        "reading": "ギソウ",
+        "meaning": "trang bị (của một con tàu), trang bị, trang bị (của tàu), phụ kiện, thiết bị"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "舟",
+      "meaning": "thuyền"
+    },
+    "parts": [
+      "亅",
+      "并",
+      "戈",
+      "王",
+      "羊",
+      "舟"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33380_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08264.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8264.gif",
+    "uri": "https://jisho.org/search/%E8%89%A4%23kanji"
+  }
+}

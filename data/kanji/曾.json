@@ -1,0 +1,81 @@
+{
+  "id": "曾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "曾",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "một lần, trước đây, trước đây, không bao giờ, không bao giờ, cựu",
+    "kunyomi": [
+      "かつ.て",
+      "か.って",
+      "すなわち"
+    ],
+    "onyomi": [
+      "ソウ",
+      "ソ",
+      "ゾウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "曾",
+        "reading": "ヒイ",
+        "meaning": "tuyệt vời (tức là chắt, bà cố)"
+      },
+      {
+        "example": "ひ孫",
+        "reading": "ヒマゴ",
+        "meaning": "chắt"
+      },
+      {
+        "example": "曾",
+        "reading": "ヒイ",
+        "meaning": "tuyệt vời (tức là chắt, bà cố)"
+      },
+      {
+        "example": "ひ孫",
+        "reading": "ヒマゴ",
+        "meaning": "chắt"
+      },
+      {
+        "example": "白檜曽",
+        "reading": "シラビソ",
+        "meaning": "Linh sam bạc Veitch (Abies veitchii)"
+      },
+      {
+        "example": "大白檜曽",
+        "reading": "オオシラビソ",
+        "meaning": "Linh sam Maries (Abies mariesii)"
+      },
+      {
+        "example": "曾遊",
+        "reading": "ソウユウ",
+        "meaning": "chuyến thăm trước đây"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "嘗て",
+        "reading": "かつて",
+        "meaning": "một lần, trước đây, trước đây, từng, trước đây, cựu, chưa bao giờ, chưa bao giờ, lần đầu tiên, vẫn chưa xảy ra"
+      },
+      {
+        "example": "嘗て",
+        "reading": "かつて",
+        "meaning": "một lần, trước đây, trước đây, từng, trước đây, cựu, chưa bao giờ, chưa bao giờ, lần đầu tiên, vẫn chưa xảy ra"
+      }
+    ],
+    "radical": {
+      "symbol": "曰",
+      "meaning": "nói"
+    },
+    "parts": [
+      "ハ",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26366_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/066fe.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/66fe.gif",
+    "uri": "https://jisho.org/search/%E6%9B%BE%23kanji"
+  }
+}

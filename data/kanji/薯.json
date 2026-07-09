@@ -1,0 +1,72 @@
+{
+  "id": "薯",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "薯",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "khoai tây",
+    "kunyomi": [
+      "いも"
+    ],
+    "onyomi": [
+      "ショ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "山の芋",
+        "reading": "ヤマノイモ",
+        "meaning": "Khoai lang Nhật (Dioscorea japonica)"
+      },
+      {
+        "example": "馬鈴薯",
+        "reading": "バレイショ",
+        "meaning": "khoai tây (Solanum tuberosum)"
+      },
+      {
+        "example": "参薯",
+        "reading": "シンショ",
+        "meaning": "khoai nước (Dioscorea alata), khoai mỡ có cánh, khoai lang tím"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "芋",
+        "reading": "いも",
+        "meaning": "củ, khoai môn, khoai tây, khoai mỡ, yokel, nhàu, ngu ngốc, đồ vô giá trị"
+      },
+      {
+        "example": "芋粥",
+        "reading": "いもがゆ",
+        "meaning": "cháo với khoai lang thái hạt lựu, cháo với nước dùng cây thường xuân và khoai lang Nhật băm nhuyễn phục vụ trong các bữa tiệc lớn của Hoàng gia"
+      },
+      {
+        "example": "唐芋",
+        "reading": "とういも",
+        "meaning": "khoai lang (Ipomoea batatas)"
+      },
+      {
+        "example": "長芋",
+        "reading": "ながいも",
+        "meaning": "Khoai mỡ Trung Quốc (Dioscorea batatas)"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "日",
+      "老",
+      "艾",
+      "買"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34223_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085af.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85af.gif",
+    "uri": "https://jisho.org/search/%E8%96%AF%23kanji"
+  }
+}

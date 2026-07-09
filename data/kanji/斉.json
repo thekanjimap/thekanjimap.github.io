@@ -1,0 +1,83 @@
+{
+  "id": "斉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "斉",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1209",
+    "strokeCount": 8,
+    "meaning": "được điều chỉnh, giống nhau, bằng nhau, tương tự",
+    "kunyomi": [
+      "そろ.う",
+      "ひと.しい",
+      "ひと.しく",
+      "あたる",
+      "はやい"
+    ],
+    "onyomi": [
+      "セイ",
+      "サイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "斉",
+        "reading": "セイ",
+        "meaning": "Tề (vương quốc ở Trung Quốc trong thời Xuân Thu và Thời Chiến Quốc), Ch'i"
+      },
+      {
+        "example": "斉唱",
+        "reading": "セイショウ",
+        "meaning": "đồng thanh hát, đồng thanh hát"
+      },
+      {
+        "example": "一斉",
+        "reading": "イッセイ",
+        "meaning": "đồng thời, tất cả cùng một lúc"
+      },
+      {
+        "example": "整斉",
+        "reading": "セイセイ",
+        "meaning": "sắp xếp, ngăn nắp, ngăn nắp, gọn gàng"
+      },
+      {
+        "example": "斎行",
+        "reading": "サイコウ",
+        "meaning": "tiến hành (một lễ hội hoặc nghi lễ tôn giáo)"
+      },
+      {
+        "example": "斉衡",
+        "reading": "サイコウ",
+        "meaning": "Thời Saikō (854.11.30-857.2.21)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "等しい",
+        "reading": "ひとしい",
+        "meaning": "bằng nhau, giống nhau, giống nhau, không khác gì (từ), giống như, tương đương"
+      },
+      {
+        "example": "等しく",
+        "reading": "ひとしく",
+        "meaning": "ngang nhau, ngang nhau, tương tự, giống nhau, giống như ..., ngay khi ..., khoảnh khắc (rằng) ..., ngay trên ..."
+      }
+    ],
+    "radical": {
+      "symbol": "文",
+      "meaning": "kịch bản, văn học"
+    },
+    "parts": [
+      "ノ",
+      "廾",
+      "文",
+      "斉",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25993_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06589.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6589.gif",
+    "uri": "https://jisho.org/search/%E6%96%89%23kanji"
+  }
+}

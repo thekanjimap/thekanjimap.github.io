@@ -1,0 +1,56 @@
+{
+  "id": "會",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "會",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "gặp gỡ, tiệc tùng, liên kết, phỏng vấn, tham gia",
+    "kunyomi": [
+      "あ.う",
+      "あ.わせる",
+      "あつ.まる"
+    ],
+    "onyomi": [
+      "カイ",
+      "エ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "会社",
+        "reading": "カイシャ",
+        "meaning": "công ty, tập đoàn, công ty, nơi làm việc của một người"
+      },
+      {
+        "example": "工藤會",
+        "reading": "クドウカイ",
+        "meaning": "Kudō-kai (nhóm yakuza)"
+      },
+      {
+        "example": "旧車会",
+        "reading": "キュウシャカイ",
+        "meaning": "câu lạc bộ xe cổ điển (ô tô, xe máy), câu lạc bộ xe cổ, nhóm người đi xe đạp trong đó các thành viên lái những chiếc xe máy cổ điển được tùy chỉnh"
+      },
+      {
+        "example": "無遮大会",
+        "reading": "ムシャダイエ",
+        "meaning": "đại chúng bình đẳng (phục vụ bố thí và thuyết giảng năm năm một cách bừa bãi)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "曰",
+      "meaning": "nói"
+    },
+    "parts": [
+      "一",
+      "个",
+      "日",
+      "買"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26371_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06703.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6703.gif",
+    "uri": "https://jisho.org/search/%E6%9C%83%23kanji"
+  }
+}

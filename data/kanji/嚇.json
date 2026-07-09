@@ -1,0 +1,61 @@
+{
+  "id": "嚇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "嚇",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2141",
+    "strokeCount": 17,
+    "meaning": "đe dọa, nhân phẩm, uy nghi, đe dọa",
+    "kunyomi": [
+      "おど.す"
+    ],
+    "onyomi": [
+      "カク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "赫々",
+        "reading": "カクカク",
+        "meaning": "rực rỡ, rực rỡ, huy hoàng"
+      },
+      {
+        "example": "嚇す",
+        "reading": "カクス",
+        "meaning": "đe dọa, hăm dọa"
+      },
+      {
+        "example": "威嚇",
+        "reading": "イカク",
+        "meaning": "sự đe dọa, sự hăm dọa, sự đe dọa"
+      },
+      {
+        "example": "恐嚇",
+        "reading": "キョウカク",
+        "meaning": "sự hăm dọa, đe dọa"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "脅す",
+        "reading": "おどす",
+        "meaning": "đe dọa, hăm dọa, làm hoảng sợ (làm gì)"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "口",
+      "土",
+      "赤"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22151_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05687.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5687.gif",
+    "uri": "https://jisho.org/search/%E5%9A%87%23kanji"
+  }
+}

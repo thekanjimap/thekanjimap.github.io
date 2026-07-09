@@ -1,0 +1,55 @@
+{
+  "id": "坪",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "坪",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1823",
+    "strokeCount": 8,
+    "meaning": "diện tích hai chiếu, khoảng. ba mươi sáu ft vuông",
+    "kunyomi": [
+      "つぼ"
+    ],
+    "onyomi": [
+      "ヘイ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "坪",
+        "reading": "つぼ",
+        "meaning": "tsubo, đơn vị truyền thống của diện tích đất, xấp xỉ. 3,3 mét vuông, tsubo, đơn vị truyền thống của diện tích vải hoặc giấy, xấp xỉ. 9,18 cm vuông, tsubo, đơn vị truyền thống bằng da hoặc diện tích gạch, xấp xỉ. 918 cm vuông, tsubo khối (khoảng 6 mét khối)"
+      },
+      {
+        "example": "坪当たり",
+        "reading": "つぼあたり",
+        "meaning": "mỗi tsubo (khoảng 3,3 mét vuông)"
+      },
+      {
+        "example": "米坪",
+        "reading": "べいつぼ",
+        "meaning": "trọng lượng giấy (tính bằng gam trên mét vuông), định lượng"
+      },
+      {
+        "example": "立坪",
+        "reading": "りゅうつぼ",
+        "meaning": "tsubo khối (khoảng 6 mét khối)"
+      }
+    ],
+    "radical": {
+      "symbol": "土",
+      "meaning": "trái đất"
+    },
+    "parts": [
+      "土",
+      "干",
+      "并"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22378_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0576a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/576a.gif",
+    "uri": "https://jisho.org/search/%E5%9D%AA%23kanji"
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "id": "恵",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "恵",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "925",
+    "strokeCount": 10,
+    "meaning": "ân huệ, phước lành, ân sủng, lòng tốt",
+    "kunyomi": [
+      "めぐ.む",
+      "めぐ.み"
+    ],
+    "onyomi": [
+      "ケイ",
+      "エ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "恵雨",
+        "reading": "ケイウ",
+        "meaning": "chào mừng mưa"
+      },
+      {
+        "example": "恵泉女学園大学",
+        "reading": "ケイセンジョガクエンダイガク",
+        "meaning": "Đại học Keisen"
+      },
+      {
+        "example": "互恵",
+        "reading": "ゴケイ",
+        "meaning": "có đi có lại, cùng có lợi"
+      },
+      {
+        "example": "慈恵",
+        "reading": "ジケイ",
+        "meaning": "lòng thương xót và tình yêu"
+      },
+      {
+        "example": "恵",
+        "reading": "エ",
+        "meaning": "trí tuệ, sự giác ngộ, prajñā (một trong ba phần của con đường bát chánh đạo), trí tuệ"
+      },
+      {
+        "example": "恵比寿",
+        "reading": "エビス",
+        "meaning": "Ebisu, thần đánh cá và thương mại"
+      },
+      {
+        "example": "悪知恵",
+        "reading": "ワルヂエ",
+        "meaning": "xảo quyệt, thủ công, xảo quyệt, ranh mãnh"
+      },
+      {
+        "example": "付け知恵",
+        "reading": "ツケヂエ",
+        "meaning": "gợi ý, gợi ý"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "恵む",
+        "reading": "めぐむ",
+        "meaning": "ban phước, tỏ lòng thương xót, cho (tiền, v.v.)"
+      },
+      {
+        "example": "恵み",
+        "reading": "めぐみ",
+        "meaning": "phước lành, ân sủng"
+      },
+      {
+        "example": "恵みの雨",
+        "reading": "めぐみのあめ",
+        "meaning": "đón mưa, mưa nhân lành, mưa phù hộ, mưa sau một thời gian dài khô hạn"
+      },
+      {
+        "example": "天の恵み",
+        "reading": "てんのめぐみ",
+        "meaning": "Món quà của Chúa, phước lành của Chúa, ân điển của Chúa, ơn Chúa"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "一",
+      "心",
+      "田"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24693_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06075.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6075.gif",
+    "uri": "https://jisho.org/search/%E6%81%B5%23kanji"
+  }
+}

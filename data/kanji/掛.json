@@ -1,0 +1,406 @@
+{
+  "id": "掛",
+  "kanjialiveData": {
+    "_id": "54317ad9791eba5146ee48b0",
+    "_rev": "11-0452d67922f03c173f52026b0e971cd6",
+    "rad_name_ja": "てへん",
+    "grade": null,
+    "hint_group": 1,
+    "kunyomi": "ka, kakeru, kake, kakaru, kakari",
+    "meaning": "đặt, treo",
+    "kstroke": 11,
+    "examples": [
+      {
+        "japanese": "掛け算（かけざん）",
+        "meaning": {
+          "english": "phép nhân"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mi)ka(ke)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(mi)ka(ke)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(mi)ka(ke)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(mi)ka(ke)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "腰掛け（こしかけ）",
+        "meaning": {
+          "english": "chỗ ngồi, băng ghế"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mi)ka(ke)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(mi)ka(ke)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(mi)ka(ke)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(mi)ka(ke)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "仕掛け（しかけ）",
+        "meaning": {
+          "english": "thiết bị, thủ thuật, cơ chế"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mi)ka(ke)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(mi)ka(ke)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(mi)ka(ke)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(mi)ka(ke)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "掛ける（かける）",
+        "meaning": {
+          "english": "treo, che, ngồi xuống, đổ [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mi)ka(ke)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(mi)ka(ke)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(mi)ka(ke)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(mi)ka(ke)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "出掛ける（でかける）",
+        "meaning": {
+          "english": "đã ra ngoài, khởi hành"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mi)ka(ke)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(mi)ka(ke)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(mi)ka(ke)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(mi)ka(ke)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "言い掛ける（いいかける）",
+        "meaning": {
+          "english": "bắt đầu nói"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mi)ka(ke)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(mi)ka(ke)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(mi)ka(ke)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(mi)ka(ke)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "心掛ける（こころがける）",
+        "meaning": {
+          "english": "Hãy ghi nhớ, nhằm mục đích"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mi)ka(ke)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(mi)ka(ke)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(mi)ka(ke)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(mi)ka(ke)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "見せ掛ける（みせかける）",
+        "meaning": {
+          "english": "giả vờ, giả vờ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mi)ka(ke)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(mi)ka(ke)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(mi)ka(ke)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(mi)ka(ke)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "掛かる（かかる）",
+        "meaning": {
+          "english": "treo, bị khóa [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mi)ka(ke)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(mi)ka(ke)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(mi)ka(ke)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(mi)ka(ke)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "掛（かかり）",
+        "meaning": {
+          "english": "phí, nhiệm vụ, chức vụ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mi)ka(ke)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(mi)ka(ke)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(mi)ka(ke)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(mi)ka(ke)_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "親掛かり（おやがかり）",
+        "meaning": {
+          "english": "phụ thuộc vào cha mẹ"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/(mi)ka(ke)_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/(mi)ka(ke)_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/(mi)ka(ke)_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/(mi)ka(ke)_06_k.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "か、かける、かけ、かかる、かかり",
+    "ka_utf": "掛",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=掛",
+    "rad_name_search": [
+      "tehen"
+    ],
+    "rad_order": 77,
+    "txt_books": [],
+    "kname": "(mi)ka(ke)",
+    "rad_utf": "⺘",
+    "stroketimes": [
+      0,
+      1.2,
+      3.133333,
+      4.066667,
+      5.866667,
+      7.2,
+      8.733333,
+      10.066667,
+      11.266667,
+      12.066667,
+      14,
+      15.466667
+    ],
+    "kunyomi_ka_display": "か、かかり",
+    "dick": "361",
+    "rad_name": "tehen",
+    "dicn": "1952",
+    "mn_hint": "Farmer's hand 扌 placing on his fields 圭 a talisman received from the fortune teller ト.",
+    "rad_stroke": 3,
+    "onyomi_ja": "",
+    "rad_meaning": "tay",
+    "onyomi": "Không có",
+    "ka_id": "ka_1135",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "Không có",
+      "Không có"
+    ],
+    "kunyomi_search": [
+      "ka",
+      "kakeru",
+      "kake",
+      "kakaru",
+      "kakari",
+      "ka, kakeru, kake, kakaru, kakari"
+    ],
+    "meaning_search": [
+      "set",
+      "hang",
+      "set, hang"
+    ],
+    "onyomi_ja_search": [
+      ""
+    ],
+    "kunyomi_ja_search": [
+      "か",
+      "かける",
+      "かけ",
+      "かかる",
+      "かかり",
+      "か、かける、かけ、かかる、かかり"
+    ],
+    "rad_meaning_search": [
+      "hand",
+      "hand"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "てへん"
+    ],
+    "textbook_search": [],
+    "rad_name_file": "tehen",
+    "kanji": {
+      "character": "掛",
+      "meaning": {
+        "english": "set, hang"
+      },
+      "strokes": {
+        "count": 11,
+        "timings": [
+          0,
+          1.2,
+          3.133333,
+          4.066667,
+          5.866667,
+          7.2,
+          8.733333,
+          10.066667,
+          11.266667,
+          12.066667,
+          14,
+          15.466667
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/(mi)ka(ke)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/(mi)ka(ke)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/(mi)ka(ke)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/(mi)ka(ke)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/(mi)ka(ke)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/(mi)ka(ke)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/(mi)ka(ke)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/(mi)ka(ke)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/(mi)ka(ke)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/(mi)ka(ke)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/(mi)ka(ke)_11.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "Không có",
+        "katakana": ""
+      },
+      "kunyomi": {
+        "romaji": "ka, kakeru, kake, kakaru, kakari",
+        "hiragana": "か、かかり"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/(mi)ka(ke)_11.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/(mi)ka(ke)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/(mi)ka(ke)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺘",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/tehen.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "てへん",
+        "romaji": "tehen"
+      },
+      "meaning": {
+        "english": "tay"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/tehen0.svg",
+        "https://media.kanjialive.com/rad_frames/tehen1.svg",
+        "https://media.kanjialive.com/rad_frames/tehen2.svg"
+      ]
+    },
+    "references": {
+      "grade": null,
+      "kodansha": "361",
+      "classic_nelson": "1952"
+    }
+  },
+  "jishoData": {
+    "query": "掛",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "1027",
+    "strokeCount": 11,
+    "meaning": "treo, đình chỉ, phụ thuộc, đến, thuế, đổ",
+    "kunyomi": [
+      "か.ける",
+      "-か.ける",
+      "か.け",
+      "-か.け",
+      "-が.け",
+      "か.かる",
+      "-か.かる",
+      "-が.かる",
+      "か.かり",
+      "-が.かり",
+      "かかり",
+      "-がかり"
+    ],
+    "onyomi": [
+      "カイ",
+      "ケイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "掛留",
+        "reading": "ケイリュウ",
+        "meaning": "đình chỉ âm nhạc"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "掛ける",
+        "reading": "かける",
+        "meaning": "treo (ví dụ: một chiếc áo khoác, một bức tranh trên tường), để treo, treo (từ), treo (ví dụ: cánh buồm), nâng cao (ví dụ: lá cờ), mặc vào (ví dụ: một tấm chăn), đặt lên trên, che, trải, trải, đeo (kính, v.v.), đeo (vòng cổ, v.v.), thực hiện (một cuộc gọi), chi tiêu (thời gian, tiền bạc), chi tiêu, sử dụng, đổ (chất lỏng) lên, rắc (bột hoặc gia vị) lên, té nước, ném (ví dụ nước), bật (động cơ, radio, v.v.), cài đặt (quay số, đồng hồ báo thức, v.v.), bật (DVD, bài hát, v.v.), sử dụng (một thiết bị, dụng cụ, v.v.), gây ra (ai đó bất tiện, rắc rối, v.v.), làm gánh nặng (ai đó), áp đặt, nhân (phép tính số học), bảo đảm (ví dụ: khóa), ngồi xuống, ngồi, nghỉ ngơi (cái gì đó trên cái gì khác), hỗ trợ (cái gì đó trên cái gì khác), ràng buộc, đánh cược, đặt cược, mạo hiểm, đặt cược, đánh bạc, tạo hiệu ứng (bùa mê, gây mê, v.v.) lên, tổ chức (một vở kịch, lễ hội, v.v.), giữ một cảm xúc (thương hại, hy vọng, v.v.), tranh luận (trước tòa), cân nhắc (trong một cuộc họp), trình bày (ví dụ: ý tưởng cho một hội nghị, v.v.), tăng thêm, nắm bắt (trong một cái bẫy, v.v.), đặt trên đỉnh, dựng lên (một tòa nhà tạm bợ), áp dụng (bảo hiểm), chơi chữ (trên một từ), sử dụng (một từ) như một từ mấu chốt, chơi chữ, đang làm dở dang ..., bắt đầu (nhưng chưa hoàn thành) ..., sắp ..., nói chuyện với (ai đó), chỉ đạo (điều gì đó, với ai đó), làm (điều gì đó, với ai đó)"
+      },
+      {
+        "example": "掛け",
+        "reading": "かけ",
+        "meaning": "tín dụng, tiền nợ tài khoản, hóa đơn, móc treo, người giữ, phần còn lại, giá, chốt, móc, đứng, đang làm (đang làm), đang làm, nửa (làm xong), sắp xong, sắp sửa, mì nóng trong nước dùng, giá sỉ theo tỷ lệ giá niêm yết (phần mười)"
+      },
+      {
+        "example": "掛け金",
+        "reading": "かけきん",
+        "meaning": "trả góp, trả góp, phí bảo hiểm, hóa đơn"
+      },
+      {
+        "example": "切っ掛け",
+        "reading": "きっかけ",
+        "meaning": "cơ hội, khởi đầu, gợi ý, lý do, động cơ, động lực, dịp"
+      },
+      {
+        "example": "打ち掛け",
+        "reading": "うちかけ",
+        "meaning": "áo choàng cô dâu của phụ nữ với váy dài mặc bên ngoài kimono, kết thúc trận đấu trong ngày, để lại một trò chơi chưa hoàn thành (đặc biệt là cờ vây)"
+      },
+      {
+        "example": "掛かる",
+        "reading": "かかる",
+        "meaning": "lấy (một nguồn tài nguyên, ví dụ như thời gian hoặc tiền bạc), treo, đi vào tầm nhìn, đến, thực hiện (một hợp đồng, thuế), khởi động (động cơ, động cơ), tham dự, giải quyết, xử lý, đã bắt đầu, sắp sửa, chồng chéo (ví dụ: thông tin trong sách hướng dẫn), che đậy, đến (đến), bị buộc chặt, bị che phủ (ví dụ như bụi, khăn trải bàn, v.v.), bị vướng vào, để có được một cuộc gọi, phụ thuộc vào, để bắt đầu (một nhiệm vụ), bắt đầu (làm), bắt tay vào"
+      },
+      {
+        "example": "掛かり",
+        "reading": "かかり",
+        "meaning": "khởi động (ví dụ: động cơ), tham gia (ví dụ: khóa), chi phí, chi phí, tấn công (đặc biệt là tiếp cận góc), ngạnh (của lưỡi câu), phí, nghĩa vụ, người phụ trách, quan chức, thư ký"
+      },
+      {
+        "example": "係員",
+        "reading": "かかりいん",
+        "meaning": "người phụ trách, viên chức, người phục vụ"
+      },
+      {
+        "example": "掛かり",
+        "reading": "かかり",
+        "meaning": "khởi động (ví dụ: động cơ), tham gia (ví dụ: khóa), chi phí, chi phí, tấn công (đặc biệt là tiếp cận góc), ngạnh (của lưỡi câu), phí, nghĩa vụ, người phụ trách, quan chức, thư ký"
+      },
+      {
+        "example": "係員",
+        "reading": "かかりいん",
+        "meaning": "người phụ trách, viên chức, người phục vụ"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "卜",
+      "土",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25499_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0639b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/639b.gif",
+    "uri": "https://jisho.org/search/%E6%8E%9B%23kanji"
+  }
+}

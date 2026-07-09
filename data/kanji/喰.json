@@ -1,0 +1,40 @@
+{
+  "id": "喰",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "喰",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "ăn, uống, nhận (một đòn), (kokuji)",
+    "kunyomi": [
+      "く.う",
+      "く.らう"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "食う",
+        "reading": "くう",
+        "meaning": "ăn, sống, kiếm sống, sinh tồn, cắn, đốt (như côn trùng làm), trêu chọc, hành hạ, chế nhạo, coi thường, chế giễu, xâm phạm, ăn vào, tiêu thụ, đánh bại cấp trên, đe dọa một chức vụ, tiêu tốn thời gian, tiêu thụ tài nguyên, nhận được thứ gì đó (thường là một sự kiện không thuận lợi), quan hệ tình dục với một phụ nữ, đặc biệt. lần đầu tiên"
+      },
+      {
+        "example": "食らう",
+        "reading": "くらう",
+        "meaning": "ăn, uống, sói, đánh trả, nhận (ví dụ: một cú đánh), là nạn nhân (của điều gì đó không mong muốn), trải qua (rắc rối)"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "口",
+      "食"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21936_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/055b0.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/55b0.gif",
+    "uri": "https://jisho.org/search/%E5%96%B0%23kanji"
+  }
+}

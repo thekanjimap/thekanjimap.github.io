@@ -1,0 +1,62 @@
+{
+  "id": "戈",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "戈",
+    "found": true,
+    "strokeCount": 4,
+    "meaning": "kích, vũ khí, xe lễ hội, phao, giáo tua (số 62)",
+    "kunyomi": [
+      "ほこ",
+      "ほこづくり"
+    ],
+    "onyomi": [
+      "カ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "戈",
+        "reading": "カ",
+        "meaning": "ge (rìu dao găm của Trung Quốc cổ đại)"
+      },
+      {
+        "example": "兵戈",
+        "reading": "ヘイカ",
+        "meaning": "thanh kiếm, vũ khí, chiến tranh"
+      },
+      {
+        "example": "銅戈",
+        "reading": "ドウカ",
+        "meaning": "rìu dao găm bằng đồng"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "矛",
+        "reading": "ほこ",
+        "meaning": "giáo Trung Quốc cán dài, thương, giáo, vũ khí, cánh tay, chuôi cung, phao diễu hành được trang trí bằng giáo Trung Quốc cán dài"
+      },
+      {
+        "example": "戈構え",
+        "reading": "ほこがまえ",
+        "meaning": "chữ kanji \"giáo\" căn bản ở bên phải"
+      },
+      {
+        "example": "戈旁",
+        "reading": "ほこづくり",
+        "meaning": "chữ kanji \"giáo\" căn bản ở bên phải"
+      }
+    ],
+    "radical": {
+      "symbol": "戈",
+      "meaning": "giáo, kích"
+    },
+    "parts": [
+      "戈"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25096_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06208.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6208.gif",
+    "uri": "https://jisho.org/search/%E6%88%88%23kanji"
+  }
+}

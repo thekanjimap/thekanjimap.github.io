@@ -1,0 +1,68 @@
+{
+  "id": "脹",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "脹",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 12,
+    "meaning": "giãn ra, căng ra, phình ra, lấp đầy, sưng lên",
+    "kunyomi": [
+      "は.れる",
+      "ふく.らむ",
+      "ふく.れる"
+    ],
+    "onyomi": [
+      "チョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "脹満",
+        "reading": "チョウマン",
+        "meaning": "viêm màng nhĩ, chướng bụng, chướng bụng"
+      },
+      {
+        "example": "鼓腸",
+        "reading": "コチョウ",
+        "meaning": "đầy hơi, đầy hơi, chướng bụng, chướng bụng, chướng bụng"
+      },
+      {
+        "example": "腫脹",
+        "reading": "シュチョウ",
+        "meaning": "sưng tấy"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "腫れる",
+        "reading": "はれる",
+        "meaning": "sưng lên (do viêm), sưng lên"
+      },
+      {
+        "example": "膨らむ",
+        "reading": "ふくらむ",
+        "meaning": "nở ra, phồng lên, to ra, phồng lên"
+      },
+      {
+        "example": "膨れる",
+        "reading": "ふくれる",
+        "meaning": "sưng lên (ra), giãn ra, phồng lên, căng ra, phình ra, vượt qua, hờn dỗi, bĩu môi"
+      }
+    ],
+    "radical": {
+      "symbol": "肉",
+      "forms": [
+        "⺼"
+      ],
+      "meaning": "thịt"
+    },
+    "parts": [
+      "月",
+      "長"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33081_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08139.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8139.gif",
+    "uri": "https://jisho.org/search/%E8%84%B9%23kanji"
+  }
+}

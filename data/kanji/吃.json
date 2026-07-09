@@ -1,0 +1,48 @@
+{
+  "id": "吃",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "吃",
+    "found": true,
+    "strokeCount": 6,
+    "meaning": "lắp bắp",
+    "kunyomi": [
+      "ども.る"
+    ],
+    "onyomi": [
+      "キツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "吃音",
+        "reading": "キツオン",
+        "meaning": "nói lắp, nói lắp, chứng khó đọc"
+      },
+      {
+        "example": "吃音症",
+        "reading": "キツオンショウ",
+        "meaning": "nói lắp, nói lắp, chứng khó đọc"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "吃る",
+        "reading": "どもる",
+        "meaning": "lắp bắp, lắp bắp"
+      }
+    ],
+    "radical": {
+      "symbol": "口",
+      "meaning": "miệng, mở miệng"
+    },
+    "parts": [
+      "乙",
+      "乞",
+      "口"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/21507_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05403.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5403.gif",
+    "uri": "https://jisho.org/search/%E5%90%83%23kanji"
+  }
+}

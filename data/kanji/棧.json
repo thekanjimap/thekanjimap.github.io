@@ -1,0 +1,42 @@
+{
+  "id": "棧",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "棧",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "cây thánh giá",
+    "kunyomi": [
+      "かけはし"
+    ],
+    "onyomi": [
+      "サン",
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "桟橋",
+        "reading": "サンバシ",
+        "meaning": "cầu cảng, cầu cảng, bến tàu"
+      },
+      {
+        "example": "桟敷",
+        "reading": "サジキ",
+        "meaning": "vòng tròn (trong rạp hát), (thứ nhất) ban công, hộp, khán đài (chỗ ngồi cho khán giả)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "戈",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26855_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068e7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68e7.gif",
+    "uri": "https://jisho.org/search/%E6%A3%A7%23kanji"
+  }
+}

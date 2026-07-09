@@ -1,0 +1,65 @@
+{
+  "id": "倭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "倭",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2098",
+    "strokeCount": 10,
+    "meaning": "Yamato, Nhật Bản cổ đại",
+    "kunyomi": [
+      "やまと",
+      "したが.う"
+    ],
+    "onyomi": [
+      "ワ",
+      "イ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "和",
+        "reading": "ワ",
+        "meaning": "tổng hợp, hòa hợp, hòa bình, Nhật Bản, phong cách Nhật Bản"
+      },
+      {
+        "example": "和歌",
+        "reading": "ワカ",
+        "meaning": "waka, bài thơ cổ điển Nhật Bản, đặc biệt. một tanka, thường là 31 morae"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "大和",
+        "reading": "やまと",
+        "meaning": "(cổ) Nhật Bản, vương quốc Yamato, bang Yamato, Yamato (tỉnh cũ thuộc tỉnh Nara ngày nay)"
+      },
+      {
+        "example": "大和歌",
+        "reading": "やまとうた",
+        "meaning": "Bài thơ Nhật Bản, waka, tanka"
+      },
+      {
+        "example": "大倭",
+        "reading": "おおやまと",
+        "meaning": "Nhật Bản, Yamato (tỉnh cũ thuộc tỉnh Nara ngày nay)"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "đàn ông, con người"
+    },
+    "parts": [
+      "化",
+      "女",
+      "禾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20525_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0502d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/502d.gif",
+    "uri": "https://jisho.org/search/%E5%80%AD%23kanji"
+  }
+}

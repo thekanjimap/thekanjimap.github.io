@@ -1,0 +1,48 @@
+{
+  "id": "姻",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "姻",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1985",
+    "strokeCount": 9,
+    "meaning": "hôn nhân, kết hôn",
+    "kunyomi": [],
+    "onyomi": [
+      "イン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "姻戚",
+        "reading": "インセキ",
+        "meaning": "họ hàng, họ hàng hôn nhân"
+      },
+      {
+        "example": "姻戚関係",
+        "reading": "インセキカンケイ",
+        "meaning": "quan hệ hôn nhân"
+      },
+      {
+        "example": "婚姻",
+        "reading": "コンイン",
+        "meaning": "hôn nhân, hôn nhân"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "女",
+      "meaning": "phụ nữ, nữ"
+    },
+    "parts": [
+      "囗",
+      "大",
+      "女"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23035_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/059fb.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/59fb.gif",
+    "uri": "https://jisho.org/search/%E5%A7%BB%23kanji"
+  }
+}

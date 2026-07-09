@@ -1,0 +1,68 @@
+{
+  "id": "憤",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "憤",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1863",
+    "strokeCount": 15,
+    "meaning": "bị kích động, bực bội, phẫn nộ, tức giận",
+    "kunyomi": [
+      "いきどお.る"
+    ],
+    "onyomi": [
+      "フン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "憤慨",
+        "reading": "フンガイ",
+        "meaning": "sự phẫn nộ, oán giận"
+      },
+      {
+        "example": "憤激",
+        "reading": "フンゲキ",
+        "meaning": "nổi cơn thịnh nộ, nổi cơn thịnh nộ, phẫn nộ"
+      },
+      {
+        "example": "公憤",
+        "reading": "コウフン",
+        "meaning": "sự phẫn nộ của công chúng, sự tức giận (với tư cách là một công dân)"
+      },
+      {
+        "example": "痛憤",
+        "reading": "ツウフン",
+        "meaning": "sự phẫn nộ mạnh mẽ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "憤る",
+        "reading": "いきどおる",
+        "meaning": "tức giận, phẫn uất, phẫn nộ, phẫn nộ"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "ハ",
+      "十",
+      "忙",
+      "目",
+      "艾",
+      "貝"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24996_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/061a4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/61a4.gif",
+    "uri": "https://jisho.org/search/%E6%86%A4%23kanji"
+  }
+}

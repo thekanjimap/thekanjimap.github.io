@@ -1,0 +1,416 @@
+{
+  "id": "散",
+  "kanjialiveData": {
+    "_id": "54317afa791eba5146ee4b22",
+    "_rev": "9-acc56f0db02fe7915ac5d59ce21f4d01",
+    "rad_name_ja": "ぼくづくり",
+    "grade": 4,
+    "hint_group": 6,
+    "kunyomi": "chi, chiru, chirasu, chirakasu, chirakaru, chirabaru, chirabasu",
+    "meaning": "tiêu tan",
+    "kstroke": 12,
+    "examples": [
+      {
+        "japanese": "散歩（さんぽ）",
+        "meaning": {
+          "english": "đi bộ, tản bộ [n.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chi(ru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/chi(ru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/chi(ru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/chi(ru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "散文（さんぶん）",
+        "meaning": {
+          "english": "văn xuôi"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chi(ru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/chi(ru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/chi(ru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/chi(ru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "散乱する（さんらんする）",
+        "meaning": {
+          "english": "bị phân tán về"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chi(ru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/chi(ru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/chi(ru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/chi(ru)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "散髪する（さんぱつする）",
+        "meaning": {
+          "english": "đi cắt tóc"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chi(ru)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/chi(ru)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/chi(ru)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/chi(ru)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "散会する（さんかいする）",
+        "meaning": {
+          "english": "hoãn lại"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chi(ru)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/chi(ru)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/chi(ru)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/chi(ru)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "解散する（かいさんする）",
+        "meaning": {
+          "english": "tan rã, tan rã, tan rã"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chi(ru)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/chi(ru)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/chi(ru)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/chi(ru)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "散る（ちる）",
+        "meaning": {
+          "english": "rơi, phân tán [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chi(ru)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/chi(ru)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/chi(ru)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/chi(ru)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "散らす（ちらす）",
+        "meaning": {
+          "english": "giải tán [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chi(ru)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/chi(ru)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/chi(ru)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/chi(ru)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "散らかす（ちらかす）",
+        "meaning": {
+          "english": "để bừa bộn [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chi(ru)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/chi(ru)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/chi(ru)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/chi(ru)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "散らばる（ちらばる）",
+        "meaning": {
+          "english": "bị phân tán về [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/chi(ru)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/chi(ru)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/chi(ru)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/chi(ru)_06_j.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "ち、ちる、ちらす、ちらかす、ちらかる、ちらばる、ちらばす",
+    "ka_utf": "散",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=散",
+    "rad_name_search": [
+      "bokuzukuri"
+    ],
+    "rad_order": 86,
+    "txt_books": [
+      {
+        "chapter": "5",
+        "txt_bk": "txtMajoFilm"
+      }
+    ],
+    "kname": "chi(ru)",
+    "rad_utf": "⺙",
+    "stroketimes": [
+      0,
+      1.933333,
+      3.333333,
+      4.8,
+      6,
+      7.8,
+      10.133333,
+      11.2,
+      12,
+      13.266667,
+      14.6,
+      16,
+      19.333333
+    ],
+    "kunyomi_ka_display": "ち",
+    "dick": "1118",
+    "rad_name": "bokuzukuri",
+    "dicn": "2056",
+    "mn_hint": "Scattering 攵 <span class='note'>(orig. \"activity\")</span> herbal [8] spices over 一 meat 月.",
+    "rad_stroke": 4,
+    "onyomi_ja": "サン",
+    "rad_meaning": "hoạt động, tấn công, đánh",
+    "onyomi": "san",
+    "ka_id": "ka_588",
+    "rad_position": "tsukuri",
+    "rad_position_ja": "つくり",
+    "rad_position_search": [
+      "tsukuri",
+      "tsukuri"
+    ],
+    "onyomi_search": [
+      "san",
+      "san"
+    ],
+    "kunyomi_search": [
+      "chi",
+      "chiru",
+      "chirasu",
+      "chirakasu",
+      "chirakaru",
+      "chirabaru",
+      "chirabasu",
+      "chi, chiru, chirasu, chirakasu, chirakaru, chirabaru, chirabasu"
+    ],
+    "meaning_search": [
+      "scatter",
+      "scatter"
+    ],
+    "onyomi_ja_search": [
+      "サン",
+      "サン"
+    ],
+    "kunyomi_ja_search": [
+      "ち",
+      "ちる",
+      "ちらす",
+      "ちらかす",
+      "ちらかる",
+      "ちらばる",
+      "ちらばす",
+      "ち、ちる、ちらす、ちらかす、ちらかる、ちらばる、ちらばす"
+    ],
+    "rad_meaning_search": [
+      "activity",
+      "to strike",
+      "to",
+      "strike",
+      "hit",
+      "activity, to strike, hit"
+    ],
+    "rad_position_ja_search": [
+      "つくり",
+      "つくり"
+    ],
+    "rad_name_ja_search": [
+      "ぼくづくり"
+    ],
+    "textbook_search": [
+      "mnt",
+      "mnt:5",
+      "mnt:c5"
+    ],
+    "rad_name_file": "bokuzukuri",
+    "kanji": {
+      "character": "散",
+      "meaning": {
+        "english": "scatter"
+      },
+      "strokes": {
+        "count": 12,
+        "timings": [
+          0,
+          1.933333,
+          3.333333,
+          4.8,
+          6,
+          7.8,
+          10.133333,
+          11.2,
+          12,
+          13.266667,
+          14.6,
+          16,
+          19.333333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/chi(ru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/chi(ru)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/chi(ru)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/chi(ru)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/chi(ru)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/chi(ru)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/chi(ru)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/chi(ru)_8.svg",
+          "https://media.kanjialive.com/kanji_strokes/chi(ru)_9.svg",
+          "https://media.kanjialive.com/kanji_strokes/chi(ru)_10.svg",
+          "https://media.kanjialive.com/kanji_strokes/chi(ru)_11.svg",
+          "https://media.kanjialive.com/kanji_strokes/chi(ru)_12.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "san",
+        "katakana": "サン"
+      },
+      "kunyomi": {
+        "romaji": "chi, chiru, chirasu, chirakasu, chirakaru, chirabaru, chirabasu",
+        "hiragana": "ち"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/chi(ru)_12.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/chi(ru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/chi(ru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⺙",
+      "strokes": 4,
+      "image": "https://media.kanjialive.com/radical_character/bokuzukuri.svg",
+      "position": {
+        "hiragana": "つくり",
+        "romaji": "tsukuri",
+        "icon": "https://media.kanjialive.com/rad_positions/tsukuri.svg"
+      },
+      "name": {
+        "hiragana": "ぼくづくり",
+        "romaji": "bokuzukuri"
+      },
+      "meaning": {
+        "english": "hoạt động, tấn công, đánh"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/bokuzukuri0.svg",
+        "https://media.kanjialive.com/rad_frames/bokuzukuri1.svg",
+        "https://media.kanjialive.com/rad_frames/bokuzukuri2.svg"
+      ]
+    },
+    "references": {
+      "grade": 4,
+      "kodansha": "1118",
+      "classic_nelson": "2056"
+    }
+  },
+  "jishoData": {
+    "query": "散",
+    "found": true,
+    "taughtIn": "lớp 4",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "758",
+    "strokeCount": 12,
+    "meaning": "phân tán, phân tán, chi tiêu, phung phí",
+    "kunyomi": [
+      "ち.る",
+      "ち.らす",
+      "-ち.らす",
+      "ち.らかす",
+      "ち.らかる",
+      "ち.らばる",
+      "ばら",
+      "ばら.ける"
+    ],
+    "onyomi": [
+      "サン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "散骨",
+        "reading": "サンコツ",
+        "meaning": "rải tro (hỏa táng)"
+      },
+      {
+        "example": "散会",
+        "reading": "サンカイ",
+        "meaning": "hoãn lại"
+      },
+      {
+        "example": "離散",
+        "reading": "リサン",
+        "meaning": "phân tán, phân tán, phân tán, phân tán"
+      },
+      {
+        "example": "集散",
+        "reading": "シュウサン",
+        "meaning": "thu thập (tập hợp) và phân phối"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "散る",
+        "reading": "ちる",
+        "meaning": "rơi (ví dụ: hoa, lá), phân tán, phân tán, biến mất, tan biến, tan vỡ, lan rộng, chạy, làm mờ, chết một cái chết cao quý"
+      },
+      {
+        "example": "散らす",
+        "reading": "ちらす",
+        "meaning": "phân tán, gây ra một cơn mưa rào, phân tán, phân phối, lan rộng, giải quyết (một triệu chứng, tình trạng, v.v.), làm nhẹ nhõm, loại bỏ, chữa bệnh, đánh lạc hướng, chuyển hướng, làm ... một cách điên cuồng (tức là mất trật tự hoặc thường xuyên), làm ... khắp nơi"
+      },
+      {
+        "example": "散らかす",
+        "reading": "ちらかす",
+        "meaning": "rải rác khắp nơi, bừa bộn, làm bừa bộn"
+      },
+      {
+        "example": "散らかる",
+        "reading": "ちらかる",
+        "meaning": "lộn xộn, nằm rải rác xung quanh"
+      },
+      {
+        "example": "散らばる",
+        "reading": "ちらばる",
+        "meaning": "bị rải rác khắp nơi, bị phân tán, bị vứt bừa bãi (với)"
+      },
+      {
+        "example": "散",
+        "reading": "ばら",
+        "meaning": "các mặt hàng rời (không được đóng gói cùng với những thứ khác), các mặt hàng số lượng lớn, các mặt hàng riêng lẻ, tiền xu, tiền lẻ"
+      },
+      {
+        "example": "ばら撒く",
+        "reading": "ばらまく",
+        "meaning": "phát tán, phổ biến (ví dụ: tin đồn), lây lan (ví dụ: vi trùng), phát sóng, phân phối rộng rãi (ví dụ: tờ rơi), phát rộng rãi, chi tiêu một cách liều lĩnh"
+      },
+      {
+        "example": "散ける",
+        "reading": "ばらける",
+        "meaning": "rời ra, bung ra, rời ra, trở nên lộn xộn (ví dụ như tóc)"
+      }
+    ],
+    "radical": {
+      "symbol": "攴",
+      "forms": [
+        "攵"
+      ],
+      "meaning": "rap"
+    },
+    "parts": [
+      "乞",
+      "二",
+      "廾",
+      "攵",
+      "月"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25955_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06563.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6563.gif",
+    "uri": "https://jisho.org/search/%E6%95%A3%23kanji"
+  }
+}

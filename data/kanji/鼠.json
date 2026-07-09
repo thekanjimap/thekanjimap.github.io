@@ -1,0 +1,94 @@
+{
+  "id": "鼠",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鼠",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "chuột, chuột, màu xám đen",
+    "kunyomi": [
+      "ねずみ",
+      "ねず"
+    ],
+    "onyomi": [
+      "ソ",
+      "ショ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鼠疫",
+        "reading": "ソエキ",
+        "meaning": "bệnh dịch hạch, sâu bệnh"
+      },
+      {
+        "example": "鼠害",
+        "reading": "ソガイ",
+        "meaning": "thiệt hại do chuột hoặc chuột"
+      },
+      {
+        "example": "海鼠",
+        "reading": "ナマコ",
+        "meaning": "hải sâm (Holothuroidea spp.)"
+      },
+      {
+        "example": "火鼠",
+        "reading": "ヒネズミ",
+        "meaning": "huoshu, chuột lửa huyền ảo của Trung Quốc"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鼠",
+        "reading": "ねずみ",
+        "meaning": "chuột, chuột, xám đen, xám đen"
+      },
+      {
+        "example": "鼠穴",
+        "reading": "ねずみあな",
+        "meaning": "hang chuột, hang chuột"
+      },
+      {
+        "example": "藍鼠",
+        "reading": "あいねずみ",
+        "meaning": "màu chàm nhuốm xám (xám)"
+      },
+      {
+        "example": "臭鼠",
+        "reading": "においねずみ",
+        "meaning": "xạ hương (Ondatra zibethicus)"
+      },
+      {
+        "example": "鼠",
+        "reading": "ねず",
+        "meaning": "chuột, chuột, xám đen, xám đen"
+      },
+      {
+        "example": "鼠",
+        "reading": "ねずみ",
+        "meaning": "chuột, chuột, xám đen, xám đen"
+      },
+      {
+        "example": "藍鼠",
+        "reading": "あいねずみ",
+        "meaning": "màu chàm nhuốm xám (xám)"
+      },
+      {
+        "example": "梅鼠",
+        "reading": "うめねず",
+        "meaning": "hồng xám, xám hồng"
+      }
+    ],
+    "radical": {
+      "symbol": "鼠",
+      "meaning": "chuột, chuột"
+    },
+    "parts": [
+      "臼",
+      "鼠"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40736_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f20.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f20.gif",
+    "uri": "https://jisho.org/search/%E9%BC%A0%23kanji"
+  }
+}

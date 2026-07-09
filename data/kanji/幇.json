@@ -1,0 +1,47 @@
+{
+  "id": "幇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "幇",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "giúp đỡ",
+    "kunyomi": [
+      "たす.ける"
+    ],
+    "onyomi": [
+      "ホウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "幇間",
+        "reading": "ホウカン",
+        "meaning": "gã hề chuyên nghiệp, nghệ sĩ giải trí chuyên nghiệp, diễn viên hài, gã hề"
+      },
+      {
+        "example": "幇助",
+        "reading": "ホウジョ",
+        "meaning": "hỗ trợ, hỗ trợ, hỗ trợ, tiếp tay (tội ác), tiếp tay"
+      },
+      {
+        "example": "竹聯幇",
+        "reading": "チクレンホウ",
+        "meaning": "United Bamboo Gang (tổ chức tội phạm Đài Loan)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "巾",
+      "meaning": "khăn xếp, khăn quàng cổ"
+    },
+    "parts": [
+      "土",
+      "寸",
+      "巾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24135_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05e47.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5e47.gif",
+    "uri": "https://jisho.org/search/%E5%B9%87%23kanji"
+  }
+}

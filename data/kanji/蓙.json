@@ -1,0 +1,62 @@
+{
+  "id": "蓙",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蓙",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "chiếu, chiếu, (kokuji)",
+    "kunyomi": [
+      "ござ"
+    ],
+    "onyomi": [
+      "ザ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "茣蓙",
+        "reading": "ゴザ",
+        "meaning": "chiếu cói, chiếu, chiếu"
+      },
+      {
+        "example": "花ござ",
+        "reading": "ハナゴザ",
+        "meaning": "thảm cói có họa tiết hoa hoặc cây bồ đề"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "茣蓙",
+        "reading": "ござ",
+        "meaning": "chiếu cói, chiếu, chiếu"
+      },
+      {
+        "example": "花ござ",
+        "reading": "はなござ",
+        "meaning": "thảm cói có họa tiết hoa hoặc cây bồ đề"
+      },
+      {
+        "example": "寝茣蓙",
+        "reading": "ねござ",
+        "meaning": "chiếu cói để ngủ, chiếu ngủ"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "人",
+      "土",
+      "广",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34009_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/084d9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/84d9.gif",
+    "uri": "https://jisho.org/search/%E8%93%99%23kanji"
+  }
+}

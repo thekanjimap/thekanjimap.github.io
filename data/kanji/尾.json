@@ -1,0 +1,75 @@
+{
+  "id": "尾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "尾",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "875",
+    "strokeCount": 7,
+    "meaning": "đuôi, đầu, quầy cá, sườn núi thấp",
+    "kunyomi": [
+      "お"
+    ],
+    "onyomi": [
+      "ビ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "尾",
+        "reading": "ビ",
+        "meaning": "Chòm sao \"Đuôi\" của Trung Quốc (một trong 28 dinh thự), quầy bán cá, tôm, v.v."
+      },
+      {
+        "example": "尾行",
+        "reading": "ビコウ",
+        "meaning": "bóng, đuôi, theo sau"
+      },
+      {
+        "example": "最後尾",
+        "reading": "サイコウビ",
+        "meaning": "phần cuối (ví dụ của một dòng), phần đuôi, phần sau, phần sau cùng"
+      },
+      {
+        "example": "交尾",
+        "reading": "コウビ",
+        "meaning": "giao hợp (giữa các loài động vật), giao phối, giẫm đạp, bao bọc, phục vụ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "尾",
+        "reading": "お",
+        "meaning": "đuôi (của một con vật), cauda, đuôi (của một con diều, v.v.), đầu đuôi, đuôi (của sao chổi), dốc ở chân núi"
+      },
+      {
+        "example": "尾根",
+        "reading": "おね",
+        "meaning": "(núi) sườn núi"
+      },
+      {
+        "example": "ガスの尾",
+        "reading": "ガスのお",
+        "meaning": "đuôi khí (của sao chổi)"
+      },
+      {
+        "example": "虎の尾",
+        "reading": "とらのお",
+        "meaning": "đuôi hổ, dây cổ ngỗng (Lysimachia clethroides), Asplenium incisum (loài lách)"
+      }
+    ],
+    "radical": {
+      "symbol": "尸",
+      "meaning": "xác chết"
+    },
+    "parts": [
+      "尸",
+      "毛"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23614_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c3e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c3e.gif",
+    "uri": "https://jisho.org/search/%E5%B0%BE%23kanji"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "鋏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "鋏",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "kéo",
+    "kunyomi": [
+      "はさみ",
+      "はさ.む",
+      "つるぎ"
+    ],
+    "onyomi": [
+      "キョウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "鋏角",
+        "reading": "キョウカク",
+        "meaning": "chelicera, phần miệng của chelicerates (kể cả loài nhện)"
+      },
+      {
+        "example": "鋏角亜門",
+        "reading": "キョウカクアモン",
+        "meaning": "Chelicerata, phân bộ bao gồm loài nhện, nhện biển và cua móng ngựa"
+      },
+      {
+        "example": "入鋏",
+        "reading": "ニュウキョウ",
+        "meaning": "(vé) cú đấm"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "鋏",
+        "reading": "はさみ",
+        "meaning": "kéo, kéo, tông đơ, đục lỗ"
+      },
+      {
+        "example": "鋏虫",
+        "reading": "はさみむし",
+        "meaning": "cái ráy tai"
+      },
+      {
+        "example": "改札鋏",
+        "reading": "かいさつはさみ",
+        "meaning": "cú đấm vé"
+      },
+      {
+        "example": "鋏む",
+        "reading": "はさむ",
+        "meaning": "cắt, cắt"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "kim loại, vàng"
+    },
+    "parts": [
+      "个",
+      "人",
+      "大",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37583_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/092cf.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/92cf.gif",
+    "uri": "https://jisho.org/search/%E9%8B%8F%23kanji"
+  }
+}

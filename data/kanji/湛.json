@@ -1,0 +1,60 @@
+{
+  "id": "湛",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "湛",
+    "found": true,
+    "newspaperFrequencyRank": "2183",
+    "strokeCount": 12,
+    "meaning": "lấp đầy, mặc (một nụ cười), rõ ràng, tinh khiết, dày đặc, sâu sắc",
+    "kunyomi": [
+      "しず.む",
+      "たた.える"
+    ],
+    "onyomi": [
+      "タン",
+      "チン",
+      "ジン",
+      "セン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "湛水",
+        "reading": "タンスイ",
+        "meaning": "lũ lụt, lấp đầy, ngập lụt, nhấn chìm, tắc nghẽn"
+      },
+      {
+        "example": "湛然",
+        "reading": "タンゼン",
+        "meaning": "tĩnh lặng và đầy nước, tĩnh lặng và bất động"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "湛える",
+        "reading": "たたえる",
+        "meaning": "lấp đầy (với), được lấp đầy, thể hiện (một cảm xúc), thể hiện (nỗi buồn, niềm vui, v.v.), mặc (ví dụ: một nụ cười)"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "一",
+      "儿",
+      "匚",
+      "汁",
+      "甘",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28251_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06e5b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6e5b.gif",
+    "uri": "https://jisho.org/search/%E6%B9%9B%23kanji"
+  }
+}

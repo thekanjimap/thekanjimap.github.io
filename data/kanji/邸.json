@@ -1,0 +1,63 @@
+{
+  "id": "邸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "邸",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "905",
+    "strokeCount": 8,
+    "meaning": "nơi ở, biệt thự",
+    "kunyomi": [
+      "やしき"
+    ],
+    "onyomi": [
+      "テイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "邸",
+        "reading": "テイ",
+        "meaning": "nơi ở, biệt thự"
+      },
+      {
+        "example": "邸宅",
+        "reading": "テイタク",
+        "meaning": "(lớn) nhà, dinh thự, dinh thự"
+      },
+      {
+        "example": "御用邸",
+        "reading": "ゴヨウテイ",
+        "meaning": "biệt thự hoàng gia"
+      },
+      {
+        "example": "公邸",
+        "reading": "コウテイ",
+        "meaning": "nơi ở chính thức"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "屋敷",
+        "reading": "やしき",
+        "meaning": "nơi cư trú, bất động sản, căn cứ, cơ sở, biệt thự"
+      }
+    ],
+    "radical": {
+      "symbol": "邑",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "thị trấn (阝 bên phải)"
+    },
+    "parts": [
+      "氏",
+      "邦"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37048_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/090b8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/90b8.gif",
+    "uri": "https://jisho.org/search/%E9%82%B8%23kanji"
+  }
+}

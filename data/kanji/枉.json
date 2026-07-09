@@ -1,0 +1,49 @@
+{
+  "id": "枉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "枉",
+    "found": true,
+    "strokeCount": 8,
+    "meaning": "uốn cong, uốn cong, cong, cong, nghiêng, ép buộc, trái với ý muốn của một người",
+    "kunyomi": [
+      "ま.げる",
+      "ま.がる",
+      "ま.げて"
+    ],
+    "onyomi": [
+      "オウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "枉惑",
+        "reading": "オウワク",
+        "meaning": "thủ đoạn lừa gạt"
+      },
+      {
+        "example": "冤枉",
+        "reading": "エンオウ",
+        "meaning": "cáo buộc sai"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "曲げる",
+        "reading": "まげる",
+        "meaning": "uốn cong, uốn cong, cúi đầu, uốn cong, uốn cong, nghiêng, nghiêng, nghiêng, nghiêng, uốn cong (sự thật), bóp méo, vặn vẹo, làm hư hỏng, nhường (một điểm), rời xa (từ một nguyên tắc), bỏ qua (những gì người ta thực sự nghĩ), cầm đồ"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "木",
+      "王"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26505_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06789.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6789.gif",
+    "uri": "https://jisho.org/search/%E6%9E%89%23kanji"
+  }
+}

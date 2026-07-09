@@ -1,0 +1,74 @@
+{
+  "id": "錦",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "錦",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1440",
+    "strokeCount": 16,
+    "meaning": "thổ cẩm, trang phục đẹp, danh dự",
+    "kunyomi": [
+      "にしき"
+    ],
+    "onyomi": [
+      "キン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "錦衣",
+        "reading": "キンイ",
+        "meaning": "quần áo đẹp, kimono đẹp, thổ cẩm Nhật Bản"
+      },
+      {
+        "example": "錦衣玉食",
+        "reading": "キンイギョクショク",
+        "meaning": "quần áo đẹp, đồ ăn ngon, cuộc sống xa hoa"
+      },
+      {
+        "example": "蜀錦",
+        "reading": "ショッキン",
+        "meaning": "loại thổ cẩm"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "錦",
+        "reading": "にしき",
+        "meaning": "gấm, áo đẹp, quần áo đẹp"
+      },
+      {
+        "example": "錦絵",
+        "reading": "にしきえ",
+        "meaning": "nishiki-e, tranh khắc gỗ nhiều màu"
+      },
+      {
+        "example": "蜀江の錦",
+        "reading": "しょっこうのにしき",
+        "meaning": "loại gấm đỏ có nguồn gốc từ đất nước Thục cổ của Trung Quốc và được truyền sang Nhật Bản, loại gấm được sản xuất tại Tứ Xuyên thời nhà Minh"
+      },
+      {
+        "example": "綾錦",
+        "reading": "あやにしき",
+        "meaning": "twill gấm hoa và thổ cẩm"
+      }
+    ],
+    "radical": {
+      "symbol": "金",
+      "forms": [
+        "釒"
+      ],
+      "meaning": "kim loại, vàng"
+    },
+    "parts": [
+      "巾",
+      "白",
+      "金"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/37670_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09326.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9326.gif",
+    "uri": "https://jisho.org/search/%E9%8C%A6%23kanji"
+  }
+}

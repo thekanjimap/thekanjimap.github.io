@@ -1,0 +1,85 @@
+{
+  "id": "龍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "龍",
+    "found": true,
+    "newspaperFrequencyRank": "1734",
+    "strokeCount": 16,
+    "meaning": "rồng, đế quốc",
+    "kunyomi": [
+      "たつ"
+    ],
+    "onyomi": [
+      "リュウ",
+      "リョウ",
+      "ロウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "竜",
+        "reading": "リュウ",
+        "meaning": "rồng (đặc biệt là rồng Trung Quốc), naga, chimera bán thần thánh giống người trong thần thoại Ấn Độ giáo và Phật giáo, tân binh"
+      },
+      {
+        "example": "竜王",
+        "reading": "リュウオウ",
+        "meaning": "Vua Rồng, tân binh được thăng cấp"
+      },
+      {
+        "example": "青龍",
+        "reading": "セイリョウ",
+        "meaning": "rồng xanh (một sinh vật tốt lành trong thần thoại Trung Quốc), Rồng Azure (vị thần được cho là cai trị các tầng trời phía đông)"
+      },
+      {
+        "example": "応竜",
+        "reading": "オウリュウ",
+        "meaning": "Yinglong, vị thần rồng và mưa trong thần thoại Trung Quốc"
+      },
+      {
+        "example": "竜",
+        "reading": "リュウ",
+        "meaning": "rồng (đặc biệt là rồng Trung Quốc), naga, chimera bán thần thánh giống người trong thần thoại Ấn Độ giáo và Phật giáo, tân binh"
+      },
+      {
+        "example": "竜駕",
+        "reading": "リョウガ",
+        "meaning": "cỗ xe hoàng gia"
+      },
+      {
+        "example": "青龍",
+        "reading": "セイリョウ",
+        "meaning": "rồng xanh (một sinh vật tốt lành trong thần thoại Trung Quốc), Rồng Azure (vị thần được cho là cai trị các tầng trời phía đông)"
+      },
+      {
+        "example": "蛟竜",
+        "reading": "コウリョウ",
+        "meaning": "mizuchi, thủy sinh, quái vật giống rồng có bốn chân, có sừng và hơi thở độc, thiên tài chưa phát huy, tài năng tiềm ẩn"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "竜",
+        "reading": "りゅう",
+        "meaning": "rồng (đặc biệt là rồng Trung Quốc), naga, chimera bán thần thánh giống người trong thần thoại Ấn Độ giáo và Phật giáo, tân binh"
+      },
+      {
+        "example": "竜巻",
+        "reading": "たつまき",
+        "meaning": "cơn lốc xoáy, cơn lốc, vòi nước, lốc xoáy"
+      }
+    ],
+    "radical": {
+      "symbol": "龍",
+      "meaning": "rồng"
+    },
+    "parts": [
+      "月",
+      "立"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/40845_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09f8d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9f8d.gif",
+    "uri": "https://jisho.org/search/%E9%BE%8D%23kanji"
+  }
+}

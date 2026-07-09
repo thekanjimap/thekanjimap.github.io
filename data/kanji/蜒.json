@@ -1,0 +1,42 @@
+{
+  "id": "蜒",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蜒",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "ngoằn ngoèo, ngoằn ngoèo",
+    "kunyomi": [],
+    "onyomi": [
+      "エン",
+      "タン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "延々",
+        "reading": "エンエン",
+        "meaning": "không ngừng, liên tục, (đi) tiếp tục, quanh co, quanh co, quanh co, ngoằn ngoèo"
+      },
+      {
+        "example": "蜿蜿長蛇",
+        "reading": "エンエンチョウダ",
+        "meaning": "dài và ngoằn ngoèo (dòng, hàng đợi, v.v.)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "côn trùng"
+    },
+    "parts": [
+      "ノ",
+      "廴",
+      "止",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34578_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08712.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8712.gif",
+    "uri": "https://jisho.org/search/%E8%9C%92%23kanji"
+  }
+}

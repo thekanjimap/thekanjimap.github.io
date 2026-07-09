@@ -1,0 +1,50 @@
+{
+  "id": "塒",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "塒",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "chuồng, chuồng gà, xoắn ốc",
+    "kunyomi": [
+      "ねぐら",
+      "とや",
+      "とぐろ"
+    ],
+    "onyomi": [
+      "シ",
+      "ジ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "塒",
+        "reading": "ねぐら",
+        "meaning": "chuồng, tổ, ổ, nôi, nhà, chỗ ngủ"
+      },
+      {
+        "example": "塒",
+        "reading": "とぐろ",
+        "meaning": "xôn xao"
+      },
+      {
+        "example": "とぐろを解く",
+        "reading": "とぐろをほどく",
+        "meaning": "tự bung ra"
+      }
+    ],
+    "radical": {
+      "symbol": "土",
+      "meaning": "trái đất"
+    },
+    "parts": [
+      "土",
+      "寸",
+      "日"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22610_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05852.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5852.gif",
+    "uri": "https://jisho.org/search/%E5%A1%92%23kanji"
+  }
+}

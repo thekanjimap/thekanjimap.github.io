@@ -1,0 +1,101 @@
+{
+  "id": "刃",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "刃",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1763",
+    "strokeCount": 3,
+    "meaning": "lưỡi, thanh kiếm, cạnh",
+    "kunyomi": [
+      "は",
+      "やいば",
+      "き.る"
+    ],
+    "onyomi": [
+      "ジン",
+      "ニン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "兵刃",
+        "reading": "ヘイジン",
+        "meaning": "lưỡi kiếm"
+      },
+      {
+        "example": "刀刃",
+        "reading": "トウジン",
+        "meaning": "lưỡi kiếm"
+      },
+      {
+        "example": "刃傷",
+        "reading": "ニンジョウ",
+        "meaning": "đổ máu"
+      },
+      {
+        "example": "刃傷沙汰",
+        "reading": "ニンジョウザタ",
+        "meaning": "đổ máu"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "刃",
+        "reading": "は",
+        "meaning": "cạnh (của dao hoặc kiếm), lưỡi dao, ngạnh (của phích cắm điện)"
+      },
+      {
+        "example": "鋼",
+        "reading": "はがね",
+        "meaning": "thép, thép làm kiếm, thanh kiếm"
+      },
+      {
+        "example": "諸刃",
+        "reading": "もろは",
+        "meaning": "hai lưỡi (ví dụ lưỡi kiếm), vát hai lưỡi (ví dụ dao nhà bếp), lưỡi hai lưỡi"
+      },
+      {
+        "example": "抜き刃",
+        "reading": "ぬきは",
+        "meaning": "lưỡi dao, khuôn cắt"
+      },
+      {
+        "example": "刃",
+        "reading": "やいば",
+        "meaning": "lưỡi kiếm, lưỡi kiếm, lưỡi rèn, hoa văn lượn sóng trên lưỡi rèn, độ sắc bén, gạo không vỏ"
+      },
+      {
+        "example": "刃を交える",
+        "reading": "やいばをまじえる",
+        "meaning": "để vượt qua thanh kiếm (với)"
+      },
+      {
+        "example": "鬼滅の刃",
+        "reading": "きめつのやいば",
+        "meaning": "Sát quỷ: Kimetsu no Yaiba (manga, anime)"
+      },
+      {
+        "example": "氷の刃",
+        "reading": "こおりのやいば",
+        "meaning": "thanh kiếm lấp lánh"
+      }
+    ],
+    "radical": {
+      "symbol": "刀",
+      "forms": [
+        "刂"
+      ],
+      "meaning": "dao, kiếm"
+    },
+    "parts": [
+      "丶",
+      "刀"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20995_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05203.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5203.gif",
+    "uri": "https://jisho.org/search/%E5%88%83%23kanji"
+  }
+}

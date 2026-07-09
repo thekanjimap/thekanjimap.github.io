@@ -1,0 +1,63 @@
+{
+  "id": "遭",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "遭",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1554",
+    "strokeCount": 14,
+    "meaning": "gặp gỡ, gặp gỡ, tiệc tùng, liên kết, phỏng vấn, tham gia",
+    "kunyomi": [
+      "あ.う",
+      "あ.わせる"
+    ],
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "遭難",
+        "reading": "ソウナン",
+        "meaning": "(gặp) thảm họa, (gặp) tai nạn, rủi ro, đắm tàu, đau khổ"
+      },
+      {
+        "example": "遭遇",
+        "reading": "ソウグウ",
+        "meaning": "gặp phải, gặp phải, gặp phải (ví dụ: một tai nạn), phải đối mặt với (ví dụ: một khó khăn)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "会う",
+        "reading": "あう",
+        "meaning": "gặp, chạm trán, gặp, gặp tai nạn, có trải nghiệm tồi tệ"
+      },
+      {
+        "example": "会わせる",
+        "reading": "あわせる",
+        "meaning": "làm cho (ai đó) gặp, để (ai đó) gặp, tiếp xúc, chịu sự"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "đi bộ"
+    },
+    "parts": [
+      "一",
+      "日",
+      "込",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36973_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0906d.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/906d.gif",
+    "uri": "https://jisho.org/search/%E9%81%AD%23kanji"
+  }
+}

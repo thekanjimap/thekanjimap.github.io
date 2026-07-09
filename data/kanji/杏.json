@@ -1,0 +1,76 @@
+{
+  "id": "杏",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "杏",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2159",
+    "strokeCount": 7,
+    "meaning": "quả mơ",
+    "kunyomi": [
+      "あんず"
+    ],
+    "onyomi": [
+      "キョウ",
+      "アン",
+      "コウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "杏林",
+        "reading": "キョウリン",
+        "meaning": "rừng mai, bác sĩ"
+      },
+      {
+        "example": "杏花",
+        "reading": "キョウカ",
+        "meaning": "hoa mai"
+      },
+      {
+        "example": "巴旦杏",
+        "reading": "ハタンキョウ",
+        "meaning": "mận, hạnh nhân"
+      },
+      {
+        "example": "牡丹杏",
+        "reading": "ボタンキョウ",
+        "meaning": "các loại mận Nhật"
+      },
+      {
+        "example": "杏",
+        "reading": "アンズ",
+        "meaning": "quả mơ (Prunus armeniaca)"
+      },
+      {
+        "example": "杏酒",
+        "reading": "アンズシュ",
+        "meaning": "rượu sake làm từ quả mơ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "杏",
+        "reading": "あんず",
+        "meaning": "quả mơ (Prunus armeniaca)"
+      },
+      {
+        "example": "杏酒",
+        "reading": "あんずしゅ",
+        "meaning": "rượu sake làm từ quả mơ"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "口",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26447_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0674f.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/674f.gif",
+    "uri": "https://jisho.org/search/%E6%9D%8F%23kanji"
+  }
+}

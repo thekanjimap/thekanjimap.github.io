@@ -1,0 +1,67 @@
+{
+  "id": "挺",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "挺",
+    "found": true,
+    "newspaperFrequencyRank": "2189",
+    "strokeCount": 10,
+    "meaning": "dũng cảm xung phong, quầy bán súng, mực, kiệu, xe kéo",
+    "kunyomi": [
+      "ぬ.く"
+    ],
+    "onyomi": [
+      "チョウ",
+      "テイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "丁",
+        "reading": "チョウ",
+        "meaning": "quầy dùng cho những vật dài và hẹp như súng, kéo, thuổng, cuốc, lọ mực, kiệu, nến, jinrikishas, shamisen, mái chèo"
+      },
+      {
+        "example": "丁銀",
+        "reading": "チョウギン",
+        "meaning": "chōgin (Đồng xu bạc thời Edo có hình dạng giống hải sâm)"
+      },
+      {
+        "example": "一丁",
+        "reading": "イッチョウ",
+        "meaning": "một chiếc lá (của một cuốn sách đóng theo kiểu Nhật), một khối đậu phụ, một suất ăn (trong nhà hàng), một vật dài và hẹp (ví dụ: súng, kéo, thuổng, cuốc, lọ mực, kiệu, nến, jinrikisha, shamisen, mái chèo), một chō (đơn vị khoảng cách, xấp xỉ 109,09 m), một trò chơi, một nhiệm vụ, vậy thì, phải"
+      },
+      {
+        "example": "挺身隊",
+        "reading": "テイシンタイ",
+        "meaning": "đoàn tình nguyện"
+      },
+      {
+        "example": "挺身",
+        "reading": "テイシン",
+        "meaning": "tình nguyện, tình nguyện"
+      },
+      {
+        "example": "空挺",
+        "reading": "クウテイ",
+        "meaning": "trên không"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "廴",
+      "扎",
+      "王"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25402_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0633a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/633a.gif",
+    "uri": "https://jisho.org/search/%E6%8C%BA%23kanji"
+  }
+}

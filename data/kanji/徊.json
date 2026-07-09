@@ -1,0 +1,44 @@
+{
+  "id": "徊",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "徊",
+    "found": true,
+    "strokeCount": 9,
+    "meaning": "lang thang",
+    "kunyomi": [
+      "さまよ.う"
+    ],
+    "onyomi": [
+      "カイ",
+      "クワイ",
+      "エ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "低回",
+        "reading": "テイカイ",
+        "meaning": "đi đi lại lại trong trạng thái thiền định, suy nghĩ sâu sắc, suy nghĩ về nhiều điều, suy ngẫm sâu sắc"
+      },
+      {
+        "example": "深夜徘徊",
+        "reading": "シンヤハイカイ",
+        "meaning": "lảng vảng trong đêm, rình mò đêm khuya"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "彳",
+      "meaning": "bước"
+    },
+    "parts": [
+      "口",
+      "囗",
+      "彳"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24458_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05f8a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5f8a.gif",
+    "uri": "https://jisho.org/search/%E5%BE%8A%23kanji"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "薇",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "薇",
+    "found": true,
+    "strokeCount": 16,
+    "meaning": "dương xỉ ăn được",
+    "kunyomi": [
+      "ぜんまい"
+    ],
+    "onyomi": [
+      "ラ",
+      "ビ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "野薔薇",
+        "reading": "ノイバラ",
+        "meaning": "hoa hồng multiflora (Rosa multiflora), hoa hồng baby, hoa hồng Nhật Bản"
+      },
+      {
+        "example": "難波薔薇",
+        "reading": "ナニワイバラ",
+        "meaning": "Hoa hồng Cherokee (Rosa laevigata)"
+      },
+      {
+        "example": "冬薔薇",
+        "reading": "フユソウビ",
+        "meaning": "hoa hồng mùa đông"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "薇",
+        "reading": "ぜんまい",
+        "meaning": "Dương xỉ hoàng gia Nhật Bản (Osmunda japonica), dương xỉ hoàng gia châu Á, dương xỉ có hoa"
+      },
+      {
+        "example": "城山薇",
+        "reading": "しろやまぜんまい",
+        "meaning": "Osmundabankiifolia (loài dương xỉ)"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "乞",
+      "几",
+      "山",
+      "彳",
+      "攵",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34183_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08587.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8587.gif",
+    "uri": "https://jisho.org/search/%E8%96%87%23kanji"
+  }
+}

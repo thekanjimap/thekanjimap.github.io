@@ -1,0 +1,48 @@
+{
+  "id": "蛸",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "蛸",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "bạch tuộc",
+    "kunyomi": [
+      "たこ"
+    ],
+    "onyomi": [
+      "ソウ",
+      "ショウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "蛸",
+        "reading": "たこ",
+        "meaning": "bạch tuộc, ngốc, ngốc"
+      },
+      {
+        "example": "たこ焼き",
+        "reading": "たこやき",
+        "meaning": "takoyaki, bánh bao bạch tuộc"
+      },
+      {
+        "example": "茹で蛸",
+        "reading": "ゆでだこ",
+        "meaning": "bạch tuộc luộc, người da ửng đỏ"
+      }
+    ],
+    "radical": {
+      "symbol": "虫",
+      "meaning": "côn trùng"
+    },
+    "parts": [
+      "尚",
+      "月",
+      "虫"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34552_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/086f8.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/86f8.gif",
+    "uri": "https://jisho.org/search/%E8%9B%B8%23kanji"
+  }
+}

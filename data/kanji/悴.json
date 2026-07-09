@@ -1,0 +1,54 @@
+{
+  "id": "悴",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "悴",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "trở nên hốc hác rồi con trai",
+    "kunyomi": [
+      "せがれ",
+      "やつ.れる"
+    ],
+    "onyomi": [
+      "スイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "傷悴",
+        "reading": "ショウスイ",
+        "meaning": "nỗi đau lớn"
+      },
+      {
+        "example": "憔悴",
+        "reading": "ショウスイ",
+        "meaning": "sự hốc hác, sự gầy mòn, sự kiệt sức, sự kiệt sức, sự kiệt sức"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "倅",
+        "reading": "せがれ",
+        "meaning": "con trai, punk, nhóc, dương vật"
+      }
+    ],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "亠",
+      "人",
+      "十",
+      "忙"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24756_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/060b4.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/60b4.gif",
+    "uri": "https://jisho.org/search/%E6%82%B4%23kanji"
+  }
+}

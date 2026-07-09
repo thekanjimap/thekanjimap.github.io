@@ -1,0 +1,53 @@
+{
+  "id": "棉",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "棉",
+    "found": true,
+    "strokeCount": 12,
+    "meaning": "bông",
+    "kunyomi": [
+      "わた"
+    ],
+    "onyomi": [
+      "メン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "綿",
+        "reading": "メン",
+        "meaning": "bông"
+      },
+      {
+        "example": "綿花",
+        "reading": "メンカ",
+        "meaning": "bông thô, bông gòn"
+      },
+      {
+        "example": "印棉",
+        "reading": "インメン",
+        "meaning": "Bông Ấn Độ (thô)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "綿",
+        "reading": "わた",
+        "meaning": "cây bông (Gossypium spp.), vải lót, lớp lót, lớp đệm"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "巾",
+      "木",
+      "白"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26825_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/068c9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/68c9.gif",
+    "uri": "https://jisho.org/search/%E6%A3%89%23kanji"
+  }
+}

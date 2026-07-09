@@ -1,0 +1,63 @@
+{
+  "id": "塁",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "塁",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "651",
+    "strokeCount": 12,
+    "meaning": "căn cứ, pháo đài, thành lũy, tường, căn cứ (quả bóng)",
+    "kunyomi": [
+      "とりで"
+    ],
+    "onyomi": [
+      "ルイ",
+      "ライ",
+      "スイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "塁",
+        "reading": "ルイ",
+        "meaning": "căn cứ, túi, bao, pháo đài, thành trì"
+      },
+      {
+        "example": "塁審",
+        "reading": "ルイシン",
+        "meaning": "trọng tài cơ sở"
+      },
+      {
+        "example": "二塁",
+        "reading": "ニルイ",
+        "meaning": "cơ sở thứ hai"
+      },
+      {
+        "example": "走塁",
+        "reading": "ソウルイ",
+        "meaning": "cơ sở chạy"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "砦",
+        "reading": "とりで",
+        "meaning": "pháo đài, pháo đài, đồn lũy, pháo đài"
+      }
+    ],
+    "radical": {
+      "symbol": "土",
+      "meaning": "trái đất"
+    },
+    "parts": [
+      "冫",
+      "土",
+      "田"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22593_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05841.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5841.gif",
+    "uri": "https://jisho.org/search/%E5%A1%81%23kanji"
+  }
+}

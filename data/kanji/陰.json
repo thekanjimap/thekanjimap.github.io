@@ -1,0 +1,87 @@
+{
+  "id": "陰",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "陰",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1393",
+    "strokeCount": 11,
+    "meaning": "bóng râm, âm, tiêu cực, cơ quan sinh dục, bí mật, bóng tối",
+    "kunyomi": [
+      "かげ",
+      "かげ.る"
+    ],
+    "onyomi": [
+      "イン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "陰",
+        "reading": "イン",
+        "meaning": "(the) âm (ví dụ cực), âm (trong bói toán của Trung Quốc), nơi ẩn giấu, phần không nhìn thấy, vị trí riêng tư"
+      },
+      {
+        "example": "陰謀",
+        "reading": "インボウ",
+        "meaning": "âm mưu, âm mưu, âm mưu, âm mưu, thỏa thuận giữa hai hoặc nhiều người để thực hiện một hành vi trái pháp luật"
+      },
+      {
+        "example": "山陰",
+        "reading": "ヤマカゲ",
+        "meaning": "chỗ ở dưới bóng núi, nơi trú ẩn của núi, chỗ lõm trên núi"
+      },
+      {
+        "example": "外陰",
+        "reading": "ガイイン",
+        "meaning": "âm hộ, âm hộ"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "陰",
+        "reading": "かげ",
+        "meaning": "bóng tối, bóng tối, đằng sau (cái gì đó), phía bên kia, lưng, hậu cảnh, đằng sau hậu trường, đằng sau lưng ai đó, sự u ám (trong biểu hiện, bản chất của ai đó, v.v.), bóng tối"
+      },
+      {
+        "example": "陰口",
+        "reading": "かげぐち",
+        "meaning": "nói xấu, nói xấu sau lưng người khác"
+      },
+      {
+        "example": "山陰",
+        "reading": "やまかげ",
+        "meaning": "chỗ ở dưới bóng núi, nơi trú ẩn của núi, chỗ lõm trên núi"
+      },
+      {
+        "example": "物陰",
+        "reading": "ものかげ",
+        "meaning": "nơi khuất tầm nhìn, nơi ẩn náu, nơi trú ẩn, nơi ẩn náu"
+      },
+      {
+        "example": "陰る",
+        "reading": "かげる",
+        "meaning": "trở nên u ám, trở nên tối tăm, trở nên tối tăm, trở nên ẩn (phía sau những đám mây), làm tối tăm (khuôn mặt), trở nên tồi tệ hơn, xấu đi, trở nên u ám"
+      }
+    ],
+    "radical": {
+      "symbol": "阜",
+      "forms": [
+        "阝"
+      ],
+      "meaning": "gò, đập (阝 trái)"
+    },
+    "parts": [
+      "一",
+      "个",
+      "二",
+      "厶",
+      "阡"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38512_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09670.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9670.gif",
+    "uri": "https://jisho.org/search/%E9%99%B0%23kanji"
+  }
+}

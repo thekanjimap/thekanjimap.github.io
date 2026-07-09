@@ -1,0 +1,56 @@
+{
+  "id": "暫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "暫",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1112",
+    "strokeCount": 15,
+    "meaning": "tạm thời, một lát, một lát, một thời gian dài",
+    "kunyomi": [
+      "しばら.く"
+    ],
+    "onyomi": [
+      "ザン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "暫定",
+        "reading": "ザンテイ",
+        "meaning": "tạm thời, tạm thời, tạm thời"
+      },
+      {
+        "example": "暫且",
+        "reading": "ザンショ",
+        "meaning": "trong thời gian ngắn"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "暫く",
+        "reading": "しばらく",
+        "meaning": "trong chốc lát, một phút, một lúc, một lúc, hiện tại, đã lâu rồi, lâu lắm rồi không gặp"
+      },
+      {
+        "example": "暫くして",
+        "reading": "しばらくして",
+        "meaning": "sau một thời gian ngắn, hiện tại"
+      }
+    ],
+    "radical": {
+      "symbol": "日",
+      "meaning": "mặt trời, ngày"
+    },
+    "parts": [
+      "斤",
+      "日",
+      "車"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26283_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/066ab.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/66ab.gif",
+    "uri": "https://jisho.org/search/%E6%9A%AB%23kanji"
+  }
+}

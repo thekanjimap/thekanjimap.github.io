@@ -1,0 +1,82 @@
+{
+  "id": "藍",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "藍",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "2043",
+    "strokeCount": 18,
+    "meaning": "màu chàm",
+    "kunyomi": [
+      "あい"
+    ],
+    "onyomi": [
+      "ラン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "藍綬褒章",
+        "reading": "ランジュホウショウ",
+        "meaning": "Huy chương với dải băng xanh"
+      },
+      {
+        "example": "藍衣社員",
+        "reading": "ランイシャイン",
+        "meaning": "công nhân cổ xanh (nhân viên)"
+      },
+      {
+        "example": "伽藍",
+        "reading": "ガラン",
+        "meaning": "đền thờ (đặc biệt là ngôi đền lớn), tu viện, xây dựng đền thờ"
+      },
+      {
+        "example": "芥藍",
+        "reading": "カイラン",
+        "meaning": "kai-lan, gai-lan, bông cải xanh Trung Quốc"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "藍",
+        "reading": "あい",
+        "meaning": "cây hà thủ ô (Persicaria tinctoria, dùng để sản xuất thuốc nhuộm chàm), chàm (thuốc nhuộm), chàm (màu)"
+      },
+      {
+        "example": "藍色",
+        "reading": "あいいろ",
+        "meaning": "màu chàm, màu chàm"
+      },
+      {
+        "example": "人造藍",
+        "reading": "じんぞうあい",
+        "meaning": "chàm tổng hợp"
+      },
+      {
+        "example": "琉球藍",
+        "reading": "りゅうきゅうあい",
+        "meaning": "Cây chàm Assam (Strobilanthes cusia)"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "ノ",
+      "乞",
+      "二",
+      "皿",
+      "臣",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/34253_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/085cd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/85cd.gif",
+    "uri": "https://jisho.org/search/%E8%97%8D%23kanji"
+  }
+}

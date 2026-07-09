@@ -1,0 +1,493 @@
+{
+  "id": "冷",
+  "kanjialiveData": {
+    "_id": "54317ae7791eba5146ee49af",
+    "_rev": "11-c6aa56ceb1a6923d25a01a036397283c",
+    "rad_name_ja": "にすい",
+    "grade": 4,
+    "hint_group": 1,
+    "kunyomi": "tsume, hi, sa, tsumetai, hieru, hiya, hiyayaka, hiyasu, hiyakasu, sameru, samasu",
+    "meaning": "lạnh",
+    "kstroke": 7,
+    "examples": [
+      {
+        "japanese": "冷蔵庫（れいぞうこ）",
+        "meaning": {
+          "english": "tủ lạnh"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsume(tai)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tsume(tai)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tsume(tai)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tsume(tai)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "冷凍庫（れいとうこ）",
+        "meaning": {
+          "english": "tủ đông"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsume(tai)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tsume(tai)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tsume(tai)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tsume(tai)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "冷房（れいぼう）",
+        "meaning": {
+          "english": "điều hòa không khí"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsume(tai)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tsume(tai)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tsume(tai)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tsume(tai)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "冷静な（れいせいな）",
+        "meaning": {
+          "english": "bình tĩnh"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsume(tai)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tsume(tai)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tsume(tai)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tsume(tai)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "冷酷な（れいこくな）",
+        "meaning": {
+          "english": "độc ác"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsume(tai)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tsume(tai)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tsume(tai)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tsume(tai)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "冷たい（つめたい）",
+        "meaning": {
+          "english": "lạnh"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsume(tai)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tsume(tai)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tsume(tai)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tsume(tai)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "冷やす（ひやす）",
+        "meaning": {
+          "english": "tuyệt vời [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsume(tai)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tsume(tai)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tsume(tai)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tsume(tai)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "冷える（ひえる）",
+        "meaning": {
+          "english": "trở nên lạnh lùng [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsume(tai)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tsume(tai)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tsume(tai)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tsume(tai)_06_h.mp3"
+        }
+      },
+      {
+        "japanese": "冷ややかな（ひややかな）",
+        "meaning": {
+          "english": "lạnh"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsume(tai)_06_i.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tsume(tai)_06_i.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tsume(tai)_06_i.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tsume(tai)_06_i.mp3"
+        }
+      },
+      {
+        "japanese": "冷める（さめる）",
+        "meaning": {
+          "english": "trở nên ngầu hơn [v.i.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsume(tai)_06_j.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tsume(tai)_06_j.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tsume(tai)_06_j.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tsume(tai)_06_j.mp3"
+        }
+      },
+      {
+        "japanese": "冷ます（さます）",
+        "meaning": {
+          "english": "để nguội [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/tsume(tai)_06_k.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/tsume(tai)_06_k.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/tsume(tai)_06_k.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/tsume(tai)_06_k.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "つめ、ひ、さ、つめたい、ひえる、ひや、ひややか、ひやす、ひやかす、さめる、さます",
+    "ka_utf": "冷",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=冷",
+    "rad_name_search": [
+      "nisui"
+    ],
+    "rad_order": 19,
+    "txt_books": [
+      {
+        "chapter": "23",
+        "txt_bk": "lesson"
+      },
+      {
+        "chapter": "26",
+        "txt_bk": "txtBasicKanji"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtAd4"
+      },
+      {
+        "chapter": "11",
+        "txt_bk": "txtSFJ2"
+      },
+      {
+        "chapter": "11",
+        "txt_bk": "txtSFJ"
+      },
+      {
+        "chapter": "11",
+        "txt_bk": "txtHarrison"
+      },
+      {
+        "chapter": "9",
+        "txt_bk": "txtSFJ4"
+      },
+      {
+        "chapter": "20",
+        "txt_bk": "txtAP"
+      },
+      {
+        "chapter": "21",
+        "txt_bk": "txtLookLearn"
+      },
+      {
+        "chapter": "10",
+        "txt_bk": "jtw"
+      },
+      {
+        "chapter": "10",
+        "txt_bk": "jt"
+      },
+      {
+        "txt_bk": "cijr",
+        "chapter": "27"
+      }
+    ],
+    "kname": "tsume(tai)",
+    "rad_utf": "⼎",
+    "stroketimes": [
+      0,
+      1.799,
+      3.066,
+      3.799,
+      4.933,
+      5.933,
+      7.466,
+      8.333333
+    ],
+    "kunyomi_ka_display": "つめ、ひ、さ",
+    "dick": "57",
+    "rad_name": "nisui",
+    "dicn": "642",
+    "mn_hint": "Cold [175]/令 like ice ン.",
+    "rad_stroke": 2,
+    "onyomi_ja": "レイ",
+    "rad_meaning": "băng",
+    "onyomi": "rei",
+    "ka_id": "ka_253",
+    "rad_position": "hen",
+    "rad_position_ja": "へん",
+    "rad_position_search": [
+      "hen",
+      "hen"
+    ],
+    "onyomi_search": [
+      "rei",
+      "rei"
+    ],
+    "kunyomi_search": [
+      "tsume",
+      "hi",
+      "sa",
+      "tsumetai",
+      "hieru",
+      "hiya",
+      "hiyayaka",
+      "hiyasu",
+      "hiyakasu",
+      "sameru",
+      "samasu",
+      "tsume, hi, sa, tsumetai, hieru, hiya, hiyayaka, hiyasu, hiyakasu, sameru, samasu"
+    ],
+    "meaning_search": [
+      "cold",
+      "cold"
+    ],
+    "onyomi_ja_search": [
+      "レイ",
+      "レイ"
+    ],
+    "kunyomi_ja_search": [
+      "つめ",
+      "ひ",
+      "さ",
+      "つめたい",
+      "ひえる",
+      "ひや",
+      "ひややか",
+      "ひやす",
+      "ひやかす",
+      "さめる",
+      "さます",
+      "つめ、ひ、さ、つめたい、ひえる、ひや、ひややか、ひやす、ひやかす、さめる、さます"
+    ],
+    "rad_meaning_search": [
+      "ice",
+      "ice"
+    ],
+    "rad_position_ja_search": [
+      "へん",
+      "へん"
+    ],
+    "rad_name_ja_search": [
+      "にすい"
+    ],
+    "textbook_search": [
+      "cij",
+      "cij:23",
+      "cij:c23",
+      "bk",
+      "bk:26",
+      "bk:c26",
+      "aij3",
+      "aij3:9",
+      "aij3:c9",
+      "aij3:v4",
+      "aij3:v4:9",
+      "aij3:v4:c9",
+      "ap",
+      "ap:20",
+      "ap:c20",
+      "kll",
+      "kll:21",
+      "kll:c21",
+      "jt",
+      "jt:10",
+      "jt:c10",
+      "cijr",
+      "cijr:27",
+      "cijr:c27"
+    ],
+    "rad_name_file": "nisui",
+    "kanji": {
+      "character": "冷",
+      "meaning": {
+        "english": "cold"
+      },
+      "strokes": {
+        "count": 7,
+        "timings": [
+          0,
+          1.799,
+          3.066,
+          3.799,
+          4.933,
+          5.933,
+          7.466,
+          8.333333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/tsume(tai)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/tsume(tai)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/tsume(tai)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/tsume(tai)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/tsume(tai)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/tsume(tai)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/tsume(tai)_7.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "rei",
+        "katakana": "レイ"
+      },
+      "kunyomi": {
+        "romaji": "tsume, hi, sa, tsumetai, hieru, hiya, hiyayaka, hiyasu, hiyakasu, sameru, samasu",
+        "hiragana": "つめ、ひ、さ"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/tsume(tai)_7.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/tsume(tai)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/tsume(tai)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼎",
+      "strokes": 2,
+      "image": "https://media.kanjialive.com/radical_character/nisui.svg",
+      "position": {
+        "hiragana": "へん",
+        "romaji": "hen",
+        "icon": "https://media.kanjialive.com/rad_positions/hen.svg"
+      },
+      "name": {
+        "hiragana": "にすい",
+        "romaji": "nisui"
+      },
+      "meaning": {
+        "english": "băng"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/nisui0.svg",
+        "https://media.kanjialive.com/rad_frames/nisui1.svg",
+        "https://media.kanjialive.com/rad_frames/nisui2.svg"
+      ]
+    },
+    "references": {
+      "grade": 4,
+      "kodansha": "57",
+      "classic_nelson": "642"
+    }
+  },
+  "jishoData": {
+    "query": "冷",
+    "found": true,
+    "taughtIn": "lớp 4",
+    "jlptLevel": "N3",
+    "newspaperFrequencyRank": "667",
+    "strokeCount": 7,
+    "meaning": "mát, lạnh (bia, người), lạnh",
+    "kunyomi": [
+      "つめ.たい",
+      "ひ.える",
+      "ひ.や",
+      "ひ.ややか",
+      "ひ.やす",
+      "ひ.やかす",
+      "さ.める",
+      "さ.ます"
+    ],
+    "onyomi": [
+      "レイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "冷",
+        "reading": "レイ",
+        "meaning": "tủ lạnh, lạnh, mát mẻ, rượu sake lạnh"
+      },
+      {
+        "example": "冷夏",
+        "reading": "レイカ",
+        "meaning": "mùa hè mát mẻ, mùa hè lạnh giá, mùa hè mát hơn bình thường"
+      },
+      {
+        "example": "寒冷",
+        "reading": "カンレイ",
+        "meaning": "sự lạnh, sự lạnh, sự lạnh"
+      },
+      {
+        "example": "空冷",
+        "reading": "クウレイ",
+        "meaning": "làm mát không khí"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "冷たい",
+        "reading": "つめたい",
+        "meaning": "lạnh (khi chạm vào), lạnh lẽo, băng giá, lạnh cóng, (tình cảm) lạnh lùng, lạnh lùng, vô cảm, thờ ơ, không thân thiện, xa cách"
+      },
+      {
+        "example": "冷たい暗黒物質",
+        "reading": "つめたいあんこくぶっしつ",
+        "meaning": "vật chất tối lạnh"
+      },
+      {
+        "example": "冷える",
+        "reading": "ひえる",
+        "meaning": "trở nên lạnh (từ nhiệt độ phòng, ví dụ như trong tủ lạnh), trở nên lạnh, nguội đi"
+      },
+      {
+        "example": "冷や",
+        "reading": "ひや",
+        "meaning": "nước lạnh, rượu sake lạnh, lạnh, mát mẻ, ướp lạnh, không đun nóng"
+      },
+      {
+        "example": "冷やす",
+        "reading": "ひやす",
+        "meaning": "làm mát (từ nhiệt độ phòng), làm lạnh, làm lạnh, bình tĩnh lại, làm nguội, lấy lại bình tĩnh, thư giãn, sợ hãi (tại), sợ hãi (về)"
+      },
+      {
+        "example": "お冷",
+        "reading": "おひや",
+        "meaning": "nước (uống) lạnh, (ly) nước lạnh, cơm nguội"
+      },
+      {
+        "example": "冷ややか",
+        "reading": "ひややか",
+        "meaning": "lạnh, lạnh, lạnh, lạnh (thái độ, ánh mắt, v.v.), lạnh lùng, thờ ơ, xa cách, chắc chắn, cộc lốc, điềm tĩnh, mát mẻ, bình tĩnh"
+      },
+      {
+        "example": "冷やす",
+        "reading": "ひやす",
+        "meaning": "làm mát (từ nhiệt độ phòng), làm lạnh, làm lạnh, bình tĩnh lại, làm nguội, lấy lại bình tĩnh, thư giãn, sợ hãi (tại), sợ hãi (về)"
+      },
+      {
+        "example": "冷やかす",
+        "reading": "ひやかす",
+        "meaning": "nói đùa, trêu chọc, chế giễu, làm mát, để trong tủ lạnh, cửa hàng, nhìn mà không mua"
+      },
+      {
+        "example": "冷める",
+        "reading": "さめる",
+        "meaning": "nguội đi, nguội đi, nguội đi (kích động, nóng nảy, v.v.), dịu xuống, giảm bớt, nhạt dần, suy yếu, lạnh lùng (mắt, biểu cảm, v.v.), bình tĩnh"
+      },
+      {
+        "example": "冷ます",
+        "reading": "さます",
+        "meaning": "làm nguội (ví dụ: từ nhiệt độ cao đến nhiệt độ phòng), để nguội, làm ẩm, ném van điều tiết vào, làm hỏng"
+      }
+    ],
+    "radical": {
+      "symbol": "冫",
+      "meaning": "băng"
+    },
+    "parts": [
+      "一",
+      "个",
+      "冫",
+      "卩"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20919_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/051b7.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/51b7.gif",
+    "uri": "https://jisho.org/search/%E5%86%B7%23kanji"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "慢",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "慢",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1368",
+    "strokeCount": 14,
+    "meaning": "sự giễu cợt, sự lười biếng",
+    "kunyomi": [],
+    "onyomi": [
+      "マン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "慢性的",
+        "reading": "マンセイテキ",
+        "meaning": "mãn tính"
+      },
+      {
+        "example": "慢性",
+        "reading": "マンセイ",
+        "meaning": "mãn tính (bệnh tật)"
+      },
+      {
+        "example": "職務怠慢",
+        "reading": "ショクムタイマン",
+        "meaning": "sao lãng (bỏ bê) nhiệm vụ, sơ suất"
+      },
+      {
+        "example": "暴慢",
+        "reading": "ボウマン",
+        "meaning": "xấu tính, hống hách"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "心",
+      "forms": [
+        "忄",
+        "⺗"
+      ],
+      "meaning": "trái tim"
+    },
+    "parts": [
+      "又",
+      "忙",
+      "日",
+      "買"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/24930_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06162.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6162.gif",
+    "uri": "https://jisho.org/search/%E6%85%A2%23kanji"
+  }
+}

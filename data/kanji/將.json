@@ -1,0 +1,56 @@
+{
+  "id": "將",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "將",
+    "found": true,
+    "strokeCount": 11,
+    "meaning": "chỉ huy, tướng, đô đốc",
+    "kunyomi": [
+      "まさ.に",
+      "はた",
+      "ひきい.る",
+      "もって"
+    ],
+    "onyomi": [
+      "ショウ",
+      "ソウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "将校",
+        "reading": "ショウコウ",
+        "meaning": "hạ sĩ quan"
+      },
+      {
+        "example": "将来",
+        "reading": "ショウライ",
+        "meaning": "tương lai, triển vọng (tương lai), mang lại (từ nước ngoài, khu vực khác, v.v.), gây ra, gây ra, gây ra, phát sinh"
+      },
+      {
+        "example": "王将",
+        "reading": "オウショウ",
+        "meaning": "king (của kỳ thủ cao cấp), Ōshō (một trong tám danh hiệu chính trong shogi chuyên nghiệp)"
+      },
+      {
+        "example": "玉将",
+        "reading": "ギョクショウ",
+        "meaning": "vua (của cầu thủ trẻ)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "寸",
+      "meaning": "ngón tay cái, inch"
+    },
+    "parts": [
+      "夕",
+      "寸",
+      "爿"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/23559_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05c07.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5c07.gif",
+    "uri": "https://jisho.org/search/%E5%B0%87%23kanji"
+  }
+}

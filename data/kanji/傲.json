@@ -1,0 +1,67 @@
+{
+  "id": "傲",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "傲",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "strokeCount": 13,
+    "meaning": "hãy tự hào",
+    "kunyomi": [
+      "おご.る",
+      "あなど.る"
+    ],
+    "onyomi": [
+      "ゴウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "傲慢",
+        "reading": "ゴウマン",
+        "meaning": "kiêu ngạo, kiêu ngạo, xấc xược, kiêu ngạo, hống hách"
+      },
+      {
+        "example": "傲岸",
+        "reading": "ゴウガン",
+        "meaning": "kiêu căng, ngạo mạn, kiêu ngạo"
+      },
+      {
+        "example": "驕傲",
+        "reading": "キョウゴウ",
+        "meaning": "sự kiêu ngạo, sự kiêu ngạo"
+      },
+      {
+        "example": "倨傲",
+        "reading": "キョゴウ",
+        "meaning": "ngạo mạn, ngạo mạn, xấc xược, kiêu ngạo"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "驕る",
+        "reading": "おごる",
+        "meaning": "kiêu ngạo, kiêu ngạo, kiêu ngạo, tự phụ, khoe khoang, khoe khoang"
+      }
+    ],
+    "radical": {
+      "symbol": "人",
+      "forms": [
+        "亻"
+      ],
+      "meaning": "đàn ông, con người"
+    },
+    "parts": [
+      "乞",
+      "二",
+      "亠",
+      "化",
+      "土",
+      "攵",
+      "方"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/20658_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/050b2.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/50b2.gif",
+    "uri": "https://jisho.org/search/%E5%82%B2%23kanji"
+  }
+}

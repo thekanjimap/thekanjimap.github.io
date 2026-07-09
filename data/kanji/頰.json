@@ -1,0 +1,50 @@
+{
+  "id": "頰",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "頰",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "strokeCount": 16,
+    "meaning": "má, hàm",
+    "kunyomi": [
+      "ほお",
+      "ほほ"
+    ],
+    "onyomi": [
+      "キョウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "頬",
+        "reading": "ほお",
+        "meaning": "má (của khuôn mặt)"
+      },
+      {
+        "example": "頬被り",
+        "reading": "ほおかぶり",
+        "meaning": "che đầu bằng khăn tay, khăn quàng cổ, v.v., buộc một miếng vải quanh đầu, giả vờ không biết, nhắm mắt (để)"
+      },
+      {
+        "example": "頬",
+        "reading": "ほお",
+        "meaning": "má (của khuôn mặt)"
+      },
+      {
+        "example": "頬杖",
+        "reading": "ほおづえ",
+        "meaning": "tựa cằm vào tay, nẹp (trong xây dựng), nẹp góc"
+      }
+    ],
+    "radical": {
+      "symbol": "頁",
+      "meaning": "lá"
+    },
+    "parts": [],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/38960_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09830.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9830.gif",
+    "uri": "https://jisho.org/search/%E9%A0%B0%23kanji"
+  }
+}

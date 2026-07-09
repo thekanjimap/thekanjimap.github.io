@@ -1,0 +1,71 @@
+{
+  "id": "楊",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "楊",
+    "found": true,
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1815",
+    "strokeCount": 13,
+    "meaning": "liễu",
+    "kunyomi": [
+      "やなぎ"
+    ],
+    "onyomi": [
+      "ヨウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "柳",
+        "reading": "ヤナギ",
+        "meaning": "liễu (bất kỳ cây nào thuộc chi Salix), liễu khóc (Salix babylonica)"
+      },
+      {
+        "example": "楊弓",
+        "reading": "ヨウキュウ",
+        "meaning": "Cung đồ chơi nhỏ có thể bắn khi đang ngồi, phổ biến ở thời Edo"
+      },
+      {
+        "example": "垂楊",
+        "reading": "スイヨウ",
+        "meaning": "liễu khóc"
+      },
+      {
+        "example": "箱柳",
+        "reading": "ハコヤナギ",
+        "meaning": "Cây dương Nhật Bản (Populus tremula var. sieboldii)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "柳",
+        "reading": "やなぎ",
+        "meaning": "liễu (bất kỳ cây nào thuộc chi Salix), liễu khóc (Salix babylonica)"
+      },
+      {
+        "example": "箱柳",
+        "reading": "はこやなぎ",
+        "meaning": "Cây dương Nhật Bản (Populus tremula var. sieboldii)"
+      },
+      {
+        "example": "泥の木",
+        "reading": "どろのき",
+        "meaning": "Cây dương Nhật Bản (Populus maximowiczii)"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "一",
+      "勿",
+      "日",
+      "木"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/26954_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0694a.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/694a.gif",
+    "uri": "https://jisho.org/search/%E6%A5%8A%23kanji"
+  }
+}

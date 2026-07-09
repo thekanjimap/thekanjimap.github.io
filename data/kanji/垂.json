@@ -1,0 +1,349 @@
+{
+  "id": "垂",
+  "kanjialiveData": {
+    "_id": "54317ad5791eba5146ee4870",
+    "_rev": "9-b5b259a43a01e5892234407880efd9fb",
+    "rad_name_ja": "つち",
+    "grade": 6,
+    "hint_group": 5,
+    "kunyomi": "ta, tareru, tarasu, tare",
+    "meaning": "treo xuống, nhỏ giọt",
+    "kstroke": 8,
+    "examples": [
+      {
+        "japanese": "垂線（すいせん）",
+        "meaning": {
+          "english": "đường vuông góc"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui-ta(reru)_06_a.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sui-ta(reru)_06_a.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sui-ta(reru)_06_a.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sui-ta(reru)_06_a.mp3"
+        }
+      },
+      {
+        "japanese": "懸垂（けんすい）",
+        "meaning": {
+          "english": "bài tập kéo xà, chống cằm"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui-ta(reru)_06_b.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sui-ta(reru)_06_b.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sui-ta(reru)_06_b.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sui-ta(reru)_06_b.mp3"
+        }
+      },
+      {
+        "japanese": "虫垂炎（ちゅうすいえん）",
+        "meaning": {
+          "english": "viêm ruột thừa"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui-ta(reru)_06_c.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sui-ta(reru)_06_c.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sui-ta(reru)_06_c.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sui-ta(reru)_06_c.mp3"
+        }
+      },
+      {
+        "japanese": "垂直な（すいちょくな）",
+        "meaning": {
+          "english": "dọc, vuông góc"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui-ta(reru)_06_d.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sui-ta(reru)_06_d.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sui-ta(reru)_06_d.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sui-ta(reru)_06_d.mp3"
+        }
+      },
+      {
+        "japanese": "垂らす（たらす）",
+        "meaning": {
+          "english": "treo, treo, đổ [v.t.]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui-ta(reru)_06_e.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sui-ta(reru)_06_e.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sui-ta(reru)_06_e.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sui-ta(reru)_06_e.mp3"
+        }
+      },
+      {
+        "japanese": "垂れる（たれる）",
+        "meaning": {
+          "english": "treo, lủng lẳng, rũ xuống [v.i]"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui-ta(reru)_06_f.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sui-ta(reru)_06_f.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sui-ta(reru)_06_f.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sui-ta(reru)_06_f.mp3"
+        }
+      },
+      {
+        "japanese": "垂れ（たれ）",
+        "meaning": {
+          "english": "nước sốt, nước thịt, treo"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui-ta(reru)_06_g.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sui-ta(reru)_06_g.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sui-ta(reru)_06_g.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sui-ta(reru)_06_g.mp3"
+        }
+      },
+      {
+        "japanese": "雨垂れ（あまだれ）",
+        "meaning": {
+          "english": "hạt mưa"
+        },
+        "audio": {
+          "opus": "https://media.kanjialive.com/examples_audio/audio-opus/sui-ta(reru)_06_h.opus",
+          "aac": "https://media.kanjialive.com/examples_audio/audio-aac/sui-ta(reru)_06_h.aac",
+          "ogg": "https://media.kanjialive.com/examples_audio/audio-ogg/sui-ta(reru)_06_h.ogg",
+          "mp3": "https://media.kanjialive.com/examples_audio/audio-mp3/sui-ta(reru)_06_h.mp3"
+        }
+      }
+    ],
+    "kunyomi_ja": "た、たれる、たらす、たれ",
+    "ka_utf": "垂",
+    "luminous": "https://www.kenkyusha.co.jp/collab/KanjiAlive/index.php?book=lumi_waei&method=forward&field=垂",
+    "rad_name_search": [
+      "tsuchi"
+    ],
+    "rad_order": 37,
+    "txt_books": [],
+    "kname": "sui-ta(reru)",
+    "rad_utf": "⼟",
+    "stroketimes": [
+      0,
+      0.933333,
+      1.666667,
+      2.666667,
+      3.533333,
+      4.666667,
+      5.666667,
+      6.733333,
+      9.933333
+    ],
+    "kunyomi_ka_display": "た",
+    "dick": "2219",
+    "rad_name": "tsuchi",
+    "dicn": "211",
+    "mn_hint": "Modified image of wisteria trellis with flowers [138] hanging down to the ground 土.",
+    "rad_stroke": 3,
+    "onyomi_ja": "スイ",
+    "rad_meaning": "trái đất",
+    "onyomi": "sui",
+    "ka_id": "ka_1078",
+    "onyomi_search": [
+      "sui",
+      "sui"
+    ],
+    "kunyomi_search": [
+      "ta",
+      "tareru",
+      "tarasu",
+      "tare",
+      "ta, tareru, tarasu, tare"
+    ],
+    "meaning_search": [
+      "hang down",
+      "hang",
+      "down",
+      "drip",
+      "hang down, drip"
+    ],
+    "onyomi_ja_search": [
+      "スイ",
+      "スイ"
+    ],
+    "kunyomi_ja_search": [
+      "た",
+      "たれる",
+      "たらす",
+      "たれ",
+      "た、たれる、たらす、たれ"
+    ],
+    "rad_meaning_search": [
+      "earth",
+      "earth"
+    ],
+    "rad_name_ja_search": [
+      "つち"
+    ],
+    "rad_position_ja": "",
+    "rad_position": "",
+    "rad_position_search": [
+      ""
+    ],
+    "rad_position_ja_search": [
+      ""
+    ],
+    "textbook_search": [],
+    "rad_name_file": "tsuchi",
+    "kanji": {
+      "character": "垂",
+      "meaning": {
+        "english": "hang down, drip"
+      },
+      "strokes": {
+        "count": 8,
+        "timings": [
+          0,
+          0.933333,
+          1.666667,
+          2.666667,
+          3.533333,
+          4.666667,
+          5.666667,
+          6.733333,
+          9.933333
+        ],
+        "images": [
+          "https://media.kanjialive.com/kanji_strokes/sui-ta(reru)_1.svg",
+          "https://media.kanjialive.com/kanji_strokes/sui-ta(reru)_2.svg",
+          "https://media.kanjialive.com/kanji_strokes/sui-ta(reru)_3.svg",
+          "https://media.kanjialive.com/kanji_strokes/sui-ta(reru)_4.svg",
+          "https://media.kanjialive.com/kanji_strokes/sui-ta(reru)_5.svg",
+          "https://media.kanjialive.com/kanji_strokes/sui-ta(reru)_6.svg",
+          "https://media.kanjialive.com/kanji_strokes/sui-ta(reru)_7.svg",
+          "https://media.kanjialive.com/kanji_strokes/sui-ta(reru)_8.svg"
+        ]
+      },
+      "onyomi": {
+        "romaji": "sui",
+        "katakana": "スイ"
+      },
+      "kunyomi": {
+        "romaji": "ta, tareru, tarasu, tare",
+        "hiragana": "た"
+      },
+      "video": {
+        "poster": "https://media.kanjialive.com/kanji_strokes/sui-ta(reru)_8.svg",
+        "mp4": "https://media.kanjialive.com/kanji_animations/kanji_mp4/sui-ta(reru)_00.mp4",
+        "webm": "https://media.kanjialive.com/kanji_animations/kanji_webm/sui-ta(reru)_00.webm"
+      }
+    },
+    "radical": {
+      "character": "⼟",
+      "strokes": 3,
+      "image": "https://media.kanjialive.com/radical_character/tsuchi.svg",
+      "position": {
+        "hiragana": "",
+        "romaji": "",
+        "icon": ""
+      },
+      "name": {
+        "hiragana": "つち",
+        "romaji": "tsuchi"
+      },
+      "meaning": {
+        "english": "trái đất"
+      },
+      "animation": [
+        "https://media.kanjialive.com/rad_frames/tsuchi0.svg",
+        "https://media.kanjialive.com/rad_frames/tsuchi1.svg",
+        "https://media.kanjialive.com/rad_frames/tsuchi2.svg"
+      ]
+    },
+    "references": {
+      "grade": 6,
+      "kodansha": "2219",
+      "classic_nelson": "211"
+    }
+  },
+  "jishoData": {
+    "query": "垂",
+    "found": true,
+    "taughtIn": "lớp 6",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1720",
+    "strokeCount": 8,
+    "meaning": "rũ xuống, treo lơ lửng, rũ xuống",
+    "kunyomi": [
+      "た.れる",
+      "た.らす",
+      "た.れ",
+      "-た.れ",
+      "なんなんと.す"
+    ],
+    "onyomi": [
+      "スイ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "垂直",
+        "reading": "スイチョク",
+        "meaning": "dọc, vuông góc"
+      },
+      {
+        "example": "垂纓",
+        "reading": "スイエイ",
+        "meaning": "đuôi treo (của mũ truyền thống Nhật Bản), đuôi rũ xuống"
+      },
+      {
+        "example": "口蓋垂",
+        "reading": "コウガイスイ",
+        "meaning": "lưỡi gà"
+      },
+      {
+        "example": "虫垂",
+        "reading": "チュウスイ",
+        "meaning": "(dạng sâu bọ) phụ lục"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "垂れる",
+        "reading": "たれる",
+        "meaning": "treo, rũ xuống, lủng lẳng, chùng xuống, hạ xuống, kéo xuống, đưa ra (ví dụ: bài học, chỉ dẫn, mắng mỏ) (với người có địa vị thấp hơn), trao, cấp, ban cho, nhỏ giọt, chảy ra, nhỏ giọt, thả, để lại (khi chết), nói, thốt ra, bài tiết (nước tiểu, phân, v.v.), thả ra (đánh rắm)"
+      },
+      {
+        "example": "垂らす",
+        "reading": "たらす",
+        "meaning": "nhỏ giọt, tràn, treo, treo xuống, trượt, lủng lẳng"
+      },
+      {
+        "example": "垂れ",
+        "reading": "たれ",
+        "meaning": "nước sốt (đặc biệt là nước chấm làm từ đậu nành hoặc mirin), treo, thứ gì đó treo (vạt, vạt áo, v.v.), (kendo) miếng bảo vệ thăn, gốc kanji bao quanh góc trên bên trái của nhân vật, người phụ nữ, -ass, -head"
+      },
+      {
+        "example": "垂れ幕",
+        "reading": "たれまく",
+        "meaning": "treo banner, treo màn, rèm"
+      },
+      {
+        "example": "直垂",
+        "reading": "ひたたれ",
+        "meaning": "áo choàng nghi lễ cổ xưa"
+      },
+      {
+        "example": "垂んとす",
+        "reading": "なりなんとす",
+        "meaning": "đến gần (một độ tuổi nhất định, v.v.), đến gần, đến gần"
+      },
+      {
+        "example": "垂んとする",
+        "reading": "なんなんとする",
+        "meaning": "đến gần (30 tuổi, v.v.), đến gần, đến gần"
+      }
+    ],
+    "radical": {
+      "symbol": "土",
+      "meaning": "trái đất"
+    },
+    "parts": [
+      "ノ",
+      "一",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/22402_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/05782.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/5782.gif",
+    "uri": "https://jisho.org/search/%E5%9E%82%23kanji"
+  }
+}

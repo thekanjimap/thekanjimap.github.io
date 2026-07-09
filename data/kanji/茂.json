@@ -1,0 +1,54 @@
+{
+  "id": "茂",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "茂",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1188",
+    "strokeCount": 8,
+    "meaning": "phát triển quá mức, phát triển dày đặc, um tùm",
+    "kunyomi": [
+      "しげ.る"
+    ],
+    "onyomi": [
+      "モ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "茂林",
+        "reading": "モリン",
+        "meaning": "rừng rậm (rừng rậm)"
+      },
+      {
+        "example": "繁茂",
+        "reading": "ハンモ",
+        "meaning": "sự phát triển mạnh mẽ (của thực vật), sự phát triển mạnh mẽ, sự phát triển um tùm, sự phát triển tươi tốt, sự rậm rạp (của cỏ dại)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "茂る",
+        "reading": "しげる",
+        "meaning": "mọc rậm rạp, đầy lá, tràn lan, xum xuê, sang trọng"
+      }
+    ],
+    "radical": {
+      "symbol": "艸",
+      "forms": [
+        "艹"
+      ],
+      "meaning": "cỏ"
+    },
+    "parts": [
+      "ノ",
+      "戈",
+      "艾"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/33538_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08302.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8302.gif",
+    "uri": "https://jisho.org/search/%E8%8C%82%23kanji"
+  }
+}

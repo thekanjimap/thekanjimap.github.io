@@ -1,0 +1,67 @@
+{
+  "id": "捌",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "捌",
+    "found": true,
+    "strokeCount": 10,
+    "meaning": "xử lý, xử lý, vứt bỏ, bán, có nhu cầu, trần tục, thẳng thắn, hợp lý, hòa đồng, thoát nước, bán, có nhu cầu, tám",
+    "kunyomi": [
+      "さば.く",
+      "さば.ける",
+      "は.け"
+    ],
+    "onyomi": [
+      "ハツ",
+      "ハチ",
+      "ベツ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "八",
+        "reading": "ハチ",
+        "meaning": "tám, 8"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "捌く",
+        "reading": "さばく",
+        "meaning": "xử lý tốt, xử lý khéo léo, xử lý, quản lý, sắp xếp, phân loại, chế biến, chuẩn bị (thịt hoặc cá) để nấu, sơ chế (thịt, v.v.), cắt và tỉa (cá), bán hết (hoàn toàn), vứt bỏ (tất cả hàng tồn kho), gỡ rối, gỡ rối, chia ra, sắp xếp (ví dụ: viền của một bộ kimono)"
+      },
+      {
+        "example": "捌ける",
+        "reading": "さばける",
+        "meaning": "bán chạy, bán hết, trần tục và hiểu biết, nhạy cảm, thẳng thắn, thẳng thắn, sắp xếp, sắp xếp, giải quyết, xử lý"
+      },
+      {
+        "example": "捌け",
+        "reading": "はけ",
+        "meaning": "thoát nước, thoát nước, bán hàng"
+      },
+      {
+        "example": "はけ口",
+        "reading": "はけぐち",
+        "meaning": "lối thoát (nước, gas, v.v.), chợ (đối với hàng hóa), lối thoát, lối thoát (cho cảm xúc, năng lượng của một người, v.v.), lỗ thông hơi"
+      }
+    ],
+    "radical": {
+      "symbol": "手",
+      "forms": [
+        "扌龵"
+      ],
+      "meaning": "tay"
+    },
+    "parts": [
+      "刈",
+      "力",
+      "勹",
+      "口",
+      "扎"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/25420_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0634c.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/634c.gif",
+    "uri": "https://jisho.org/search/%E6%8D%8C%23kanji"
+  }
+}

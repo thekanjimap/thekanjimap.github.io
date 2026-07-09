@@ -1,0 +1,62 @@
+{
+  "id": "褥",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "褥",
+    "found": true,
+    "strokeCount": 15,
+    "meaning": "đệm, đệm, chăn ga gối đệm",
+    "kunyomi": [
+      "しとね"
+    ],
+    "onyomi": [
+      "ジョク"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "褥",
+        "reading": "シトネ",
+        "meaning": "đệm, gối, nệm"
+      },
+      {
+        "example": "褥傷",
+        "reading": "ジョクショウ",
+        "meaning": "bệnh lở loét"
+      },
+      {
+        "example": "就褥",
+        "reading": "シュウジョク",
+        "meaning": "đi ngủ, nghỉ hưu, nằm liệt giường"
+      },
+      {
+        "example": "病蓐",
+        "reading": "ビョウジョク",
+        "meaning": "giường bệnh"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "褥",
+        "reading": "しとね",
+        "meaning": "đệm, gối, nệm"
+      }
+    ],
+    "radical": {
+      "symbol": "衣",
+      "forms": [
+        "衤"
+      ],
+      "meaning": "quần áo"
+    },
+    "parts": [
+      "初",
+      "寸",
+      "衣",
+      "辰"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35109_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08925.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8925.gif",
+    "uri": "https://jisho.org/search/%E8%A4%A5%23kanji"
+  }
+}

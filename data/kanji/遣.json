@@ -1,0 +1,86 @@
+{
+  "id": "遣",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "遣",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "664",
+    "strokeCount": 13,
+    "meaning": "gửi, gửi, gửi, tặng, tặng, làm, đảm nhận",
+    "kunyomi": [
+      "つか.う",
+      "-つか.い",
+      "-づか.い",
+      "つか.わす",
+      "や.る"
+    ],
+    "onyomi": [
+      "ケン"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "遣唐使",
+        "reading": "ケントウシ",
+        "meaning": "sứ giả đến Đường Trung Quốc"
+      },
+      {
+        "example": "遣欧",
+        "reading": "ケンオウ",
+        "meaning": "cử đi châu Âu (ví dụ: một phái viên), gửi đến châu Âu"
+      },
+      {
+        "example": "先遣",
+        "reading": "センケン",
+        "meaning": "gửi trước"
+      },
+      {
+        "example": "差遣",
+        "reading": "サケン",
+        "meaning": "gửi đi, gửi đi, gửi đi"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "使う",
+        "reading": "つかう",
+        "meaning": "sử dụng (một công cụ, phương pháp, v.v.), sử dụng, đưa vào sử dụng, sử dụng (người, động vật, con rối, v.v.), sử dụng, xử lý, quản lý, thao túng, sử dụng (thời gian, tiền bạc, v.v.), chi tiêu, tiêu thụ, sử dụng (ngôn ngữ), nói"
+      },
+      {
+        "example": "遣わす",
+        "reading": "つかわす",
+        "meaning": "gửi, phái đi, gửi đi, ban (ân huệ, v.v.), cấp (ví dụ: ân xá)"
+      },
+      {
+        "example": "遣る",
+        "reading": "やる",
+        "meaning": "làm, đảm nhận, thực hiện, chơi (một trò chơi), nghiên cứu, gửi, điều phối, gửi, đặt, di chuyển, quay (đầu, liếc nhìn, v.v.), đưa (đặc biệt cho người có địa vị ngang bằng hoặc thấp hơn), để có, trình bày, ban cho, trao, làm cho (một phương tiện) đi nhanh hơn, chạy (một công việc), giữ, tham gia, thực hành (luật pháp, y học, v.v.), thực hành, có (đồ ăn, đồ uống, v.v.), ăn, uống, hút thuốc, tổ chức (một buổi biểu diễn), biểu diễn, thể hiện, làm dịu (tâm trí của một người), làm hại, làm bị thương, giết, quan hệ tình dục, làm tình, đập, sống, đi qua, hòa hợp, làm ... hoàn toàn, làm ... nói rộng ra, làm ... đến một khoảng cách rất xa, làm ... cho (ai đó có địa vị ngang bằng hoặc thấp hơn), làm ... đến, nỗ lực tích cực để ..."
+      },
+      {
+        "example": "やる気",
+        "reading": "やるき",
+        "meaning": "ý chí (làm điều gì đó), động lực, động lực, sự nhiệt tình, háo hức"
+      }
+    ],
+    "radical": {
+      "symbol": "辵",
+      "forms": [
+        "辶",
+        "⻌",
+        "⻍"
+      ],
+      "meaning": "đi bộ"
+    },
+    "parts": [
+      "一",
+      "口",
+      "込",
+      "｜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/36963_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/09063.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/9063.gif",
+    "uri": "https://jisho.org/search/%E9%81%A3%23kanji"
+  }
+}

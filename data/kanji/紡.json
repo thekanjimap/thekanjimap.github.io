@@ -1,0 +1,65 @@
+{
+  "id": "紡",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "紡",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1876",
+    "strokeCount": 10,
+    "meaning": "quay tròn",
+    "kunyomi": [
+      "つむ.ぐ"
+    ],
+    "onyomi": [
+      "ボウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "紡績",
+        "reading": "ボウセキ",
+        "meaning": "kéo sợi (dệt), kéo sợi"
+      },
+      {
+        "example": "紡織",
+        "reading": "ボウショク",
+        "meaning": "kéo sợi và dệt"
+      },
+      {
+        "example": "混紡",
+        "reading": "コンボウ",
+        "meaning": "sợi hỗn hợp, kéo sợi hỗn hợp"
+      },
+      {
+        "example": "綿紡",
+        "reading": "メンボウ",
+        "meaning": "kéo sợi bông"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "紡ぐ",
+        "reading": "つむぐ",
+        "meaning": "quay, dệt sợi, quay (một câu chuyện), lắp ráp (ví dụ: từ ngữ), ghép lại với nhau"
+      }
+    ],
+    "radical": {
+      "symbol": "糸",
+      "forms": [
+        "糹"
+      ],
+      "meaning": "lụa"
+    },
+    "parts": [
+      "小",
+      "幺",
+      "方",
+      "糸"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/32033_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/07d21.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/7d21.gif",
+    "uri": "https://jisho.org/search/%E7%B4%A1%23kanji"
+  }
+}

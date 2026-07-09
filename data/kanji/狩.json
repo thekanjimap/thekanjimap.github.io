@@ -1,0 +1,76 @@
+{
+  "id": "狩",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "狩",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1785",
+    "strokeCount": 9,
+    "meaning": "săn bắn, đột kích, thu thập",
+    "kunyomi": [
+      "か.る",
+      "か.り",
+      "-が.り"
+    ],
+    "onyomi": [
+      "シュ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "狩猟",
+        "reading": "シュリョウ",
+        "meaning": "săn bắn"
+      },
+      {
+        "example": "狩漁",
+        "reading": "シュギョ",
+        "meaning": "săn bắn và câu cá"
+      },
+      {
+        "example": "巡狩",
+        "reading": "ジュンシュ",
+        "meaning": "chuyến thăm hoàng gia"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "狩る",
+        "reading": "かる",
+        "meaning": "săn (động vật), tìm kiếm (tội phạm), đi tìm (hoa, v.v.), thu thập (nấm), hái (quả mọng)"
+      },
+      {
+        "example": "狩り",
+        "reading": "かり",
+        "meaning": "săn bắn, săn bắn, bắn súng, hái lượm (nấm, động vật có vỏ, v.v.), hái (quả mọng, trái cây, v.v.), xem (ví dụ: lá mùa thu), săn lùng (tội phạm, v.v.), vây bắt (ví dụ: cộng sản), săn phù thủy"
+      },
+      {
+        "example": "狩場",
+        "reading": "かりば",
+        "meaning": "khu săn bắn, khu bảo tồn săn bắn"
+      },
+      {
+        "example": "虫狩",
+        "reading": "むしかり",
+        "meaning": "cây kim ngân hoa, cây kim ngân hoa furcatum"
+      }
+    ],
+    "radical": {
+      "symbol": "犬",
+      "forms": [
+        "犭"
+      ],
+      "meaning": "con chó"
+    },
+    "parts": [
+      "宀",
+      "寸",
+      "犯"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/29417_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/072e9.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/72e9.gif",
+    "uri": "https://jisho.org/search/%E7%8B%A9%23kanji"
+  }
+}

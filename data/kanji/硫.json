@@ -1,0 +1,55 @@
+{
+  "id": "硫",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "硫",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1867",
+    "strokeCount": 12,
+    "meaning": "lưu huỳnh",
+    "kunyomi": [],
+    "onyomi": [
+      "リュウ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "硫化",
+        "reading": "リュウカ",
+        "meaning": "sự lưu huỳnh, sự sunfat hóa"
+      },
+      {
+        "example": "硫安",
+        "reading": "リュウアン",
+        "meaning": "amoni sunfat"
+      },
+      {
+        "example": "脱硫",
+        "reading": "ダツリュウ",
+        "meaning": "khử lưu huỳnh, khử lưu huỳnh, khử lưu huỳnh"
+      },
+      {
+        "example": "加硫",
+        "reading": "カリュウ",
+        "meaning": "lưu hóa (cao su)"
+      }
+    ],
+    "kunyomiExamples": [],
+    "radical": {
+      "symbol": "石",
+      "meaning": "cục đá"
+    },
+    "parts": [
+      "亠",
+      "厶",
+      "口",
+      "川",
+      "石"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/30827_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0786b.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/786b.gif",
+    "uri": "https://jisho.org/search/%E7%A1%AB%23kanji"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "楾",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "楾",
+    "found": true,
+    "strokeCount": 13,
+    "meaning": "thùng đựng nước, (kokuji)",
+    "kunyomi": [
+      "はんぞう"
+    ],
+    "onyomi": [],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "半挿",
+        "reading": "はんぞう",
+        "meaning": "vật giống như ấm trà thường được làm bằng sơn mài và dùng để đổ chất lỏng nóng và lạnh, chậu nước có hai tay cầm ở hai bên dùng để rửa mặt hoặc tay"
+      }
+    ],
+    "radical": {
+      "symbol": "木",
+      "meaning": "cây"
+    },
+    "parts": [
+      "木",
+      "水",
+      "白"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/27006_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/0697e.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/697e.gif",
+    "uri": "https://jisho.org/search/%E6%A5%BE%23kanji"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "誼",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "誼",
+    "found": true,
+    "jlptLevel": "N1",
+    "strokeCount": 15,
+    "meaning": "tình bạn, sự thân mật",
+    "kunyomi": [
+      "よしみ",
+      "よい"
+    ],
+    "onyomi": [
+      "ギ"
+    ],
+    "onyomiExamples": [
+      {
+        "example": "誼",
+        "reading": "ヨシミ",
+        "meaning": "tình bạn, mối quan hệ thân thiện, sự kết nối, mối quan hệ, sự thân mật"
+      },
+      {
+        "example": "友誼",
+        "reading": "ユウギ",
+        "meaning": "tình bạn, quan hệ hữu nghị, tình bằng hữu"
+      },
+      {
+        "example": "高誼",
+        "reading": "コウギ",
+        "meaning": "(của bạn) lòng tốt, ân huệ (được trao cho một)"
+      }
+    ],
+    "kunyomiExamples": [
+      {
+        "example": "誼",
+        "reading": "よしみ",
+        "meaning": "tình bạn, mối quan hệ thân thiện, sự kết nối, mối quan hệ, sự thân mật"
+      }
+    ],
+    "radical": {
+      "symbol": "言",
+      "forms": [
+        "訁"
+      ],
+      "meaning": "lời nói"
+    },
+    "parts": [
+      "一",
+      "宀",
+      "目",
+      "言"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/35516_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/08abc.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/8abc.gif",
+    "uri": "https://jisho.org/search/%E8%AA%BC%23kanji"
+  }
+}

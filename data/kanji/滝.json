@@ -1,0 +1,61 @@
+{
+  "id": "滝",
+  "kanjialiveData": null,
+  "jishoData": {
+    "query": "滝",
+    "found": true,
+    "taughtIn": "cấp 2",
+    "jlptLevel": "N1",
+    "newspaperFrequencyRank": "1478",
+    "strokeCount": 13,
+    "meaning": "thác nước, ghềnh, thác",
+    "kunyomi": [
+      "たき"
+    ],
+    "onyomi": [
+      "ロウ",
+      "ソウ"
+    ],
+    "onyomiExamples": [],
+    "kunyomiExamples": [
+      {
+        "example": "滝",
+        "reading": "たき",
+        "meaning": "thác nước, ghềnh"
+      },
+      {
+        "example": "滝川",
+        "reading": "たきがわ",
+        "meaning": "thác ghềnh"
+      },
+      {
+        "example": "白滝",
+        "reading": "しらたき",
+        "meaning": "mì shirataki, mì trắng làm từ tinh bột konjak, thường dùng trong sukiyaki, thác nước trông giống như tấm vải trắng"
+      },
+      {
+        "example": "枯滝",
+        "reading": "かれたき",
+        "meaning": "thác cạn, thác khô, thác mô phỏng trong vườn khô"
+      }
+    ],
+    "radical": {
+      "symbol": "水",
+      "forms": [
+        "氵",
+        "氺"
+      ],
+      "meaning": "nước"
+    },
+    "parts": [
+      "汁",
+      "田",
+      "立",
+      "竜"
+    ],
+    "strokeOrderDiagramUri": "http://classic.jisho.org/static/images/stroke_diagrams/28381_frames.png",
+    "strokeOrderSvgUri": "https://d1w6u4xc3l95km.cloudfront.net/kanji-2015-03/06edd.svg",
+    "strokeOrderGifUri": "https://raw.githubusercontent.com/mistval/kanji_images/master/gifs/6edd.gif",
+    "uri": "https://jisho.org/search/%E6%BB%9D%23kanji"
+  }
+}
