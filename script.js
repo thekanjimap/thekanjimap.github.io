@@ -1,4 +1,3 @@
-// Copyright 2026 Do Hoa Hiep All Rights Reserved.
 function generateKanjiFullHtml(kanji, kData) {
     if (!kData) return '<p>Không có dữ liệu.</p>';
     const ji = kData.jishoData || {};
@@ -15,7 +14,6 @@ function generateKanjiFullHtml(kanji, kData) {
     const radicalReading = ka.radical && ka.radical.name ? ka.radical.name.hiragana : "";
     const radicalStrokes = ka.radical ? ka.radical.strokes : "";
     const radicalAnim = ka.radical && ka.radical.animation ? ka.radical.animation[0] : "";
-
     let mediaHtml = '';
     if (ka.kanji && ka.kanji.video && ka.kanji.video.mp4) {
         mediaHtml = `<video autoplay loop muted playsinline style="width: 100px; height: 100px; border-radius: 8px; border: 1px solid #eee; background: #fff;">
@@ -24,19 +22,16 @@ function generateKanjiFullHtml(kanji, kData) {
     } else if (ji.strokeOrderGifUri) {
         mediaHtml = `<img src="${ji.strokeOrderGifUri}" alt="Stroke order" style="width: 100px; height: 100px; border-radius: 8px; border: 1px solid #eee; background: #fff;" onerror="this.style.display='none'">`;
     }
-
     let examplesHtml = '';
     const examples = ka.examples || [];
     const onExamples = ji.onyomiExamples || [];
     const kunExamples = ji.kunyomiExamples || [];
-    
     if (examples.length > 0 || onExamples.length > 0 || kunExamples.length > 0) {
         examplesHtml = `
             <div class="kanji-tabs-container">
                 <div style="font-size: 13px; color: #888; margin-bottom: 10px; text-align: center; text-transform: uppercase; letter-spacing: 1px;">Ví dụ từ vựng</div>
                 <div class="kanji-detail-content">
         `;
-        
         if (examples.length > 0) {
             examplesHtml += `<div style="font-size: 12px; font-weight: bold; color: #888; margin: 10px 0 5px 0;">VÍ DỤ CÓ ÂM THANH</div>`;
             examplesHtml += examples.map((ex, idx) => `
@@ -54,7 +49,6 @@ function generateKanjiFullHtml(kanji, kData) {
                 </div>
             `).join('');
         }
-
         if (onExamples.length > 0) {
             examplesHtml += `<div style="font-size: 12px; font-weight: bold; color: #888; margin: 15px 0 5px 0;">VÍ DỤ ÂM ON (ONYOMI)</div>`;
             examplesHtml += onExamples.map((ex) => `
@@ -64,7 +58,6 @@ function generateKanjiFullHtml(kanji, kData) {
                 </div>
             `).join('');
         }
-
         if (kunExamples.length > 0) {
             examplesHtml += `<div style="font-size: 12px; font-weight: bold; color: #888; margin: 15px 0 5px 0;">VÍ DỤ ÂM KUN (KUNYOMI)</div>`;
             examplesHtml += kunExamples.map((ex) => `
@@ -74,13 +67,11 @@ function generateKanjiFullHtml(kanji, kData) {
                 </div>
             `).join('');
         }
-
         examplesHtml += `
                 </div>
             </div>
         `;
     }
-
     let radicalBlock = '';
     if (radicalSym) {
         radicalBlock = `
@@ -98,7 +89,6 @@ function generateKanjiFullHtml(kanji, kData) {
             </div>
         `;
     }
-
     return `
         <h3 style="margin: 0 0 5px 0; font-size: 28px; color: #37474F;">${kanji}</h3>
         ${taughtIn ? `<p style="margin: 0 0 2px 0; font-size: 14px; font-weight: bold; color: #37474F;">Kanji thông dụng, Học ở ${taughtIn.replace('grade ', 'lớp ')}</p>` : ''}
@@ -118,14 +108,12 @@ function generateKanjiFullHtml(kanji, kData) {
 function initHeroAndGraph() {
     const circleBox = document.getElementById("circleBox");
     if (!circleBox) return;
-
     if (window.hasPlayedHero) {
         circleBox.style.display = "none";
         const searchContainer = document.getElementById("searchContainer");
         const searchBox = document.getElementById("searchBox");
         const searchInnerCircle = document.getElementById("searchInnerCircle");
         const searchInput = document.getElementById("searchInput");
-        
         if (searchContainer) searchContainer.style.display = "block";
         if (searchBox) searchBox.classList.add("step1-circle", "step3-bar", "loaded");
         if (searchInnerCircle) searchInnerCircle.classList.add("step2-spin", "step3-move");
@@ -137,16 +125,13 @@ function initHeroAndGraph() {
         const visitCounter = document.getElementById("visitCounter");
         const feedbackBox = document.getElementById("feedbackBox");
         const toolBar = document.getElementById("toolBarWrapper");
-        
         if (graphContainer) graphContainer.classList.add("show");
         if (appTitle) appTitle.classList.add("show");
         if (visitCounter) visitCounter.classList.add("show");
         if (feedbackBox) feedbackBox.classList.add("show");
         if (toolBar) toolBar.classList.add("show");
-        
         renderKanjiGraph(sampleData);
         setupSearchHandlers();
-        
         if (!window.pingIntervalSet) {
             pingTracker();
             setInterval(pingTracker, 300000);
@@ -154,9 +139,7 @@ function initHeroAndGraph() {
         }
         return;
     }
-
     window.hasPlayedHero = true;
-
     const gifDuration = 4000;
     if (window.innerWidth <= 768) {
         const mobileNotice = document.createElement("div");
@@ -172,39 +155,30 @@ function initHeroAndGraph() {
         mobileNotice.style.width = "100%";
         circleBox.appendChild(mobileNotice);
     }
-
     setTimeout(function() {
         circleBox.classList.add("shrink");
-        
         setTimeout(function() {
             circleBox.style.display = "none";
             const searchContainer = document.getElementById("searchContainer");
             const searchBox = document.getElementById("searchBox");
             const searchInnerCircle = document.getElementById("searchInnerCircle");
             const searchInput = document.getElementById("searchInput");
-
             searchContainer.style.display = "block";
-            
             searchBox.classList.add("step1-circle");
-
             setTimeout(function() {
                 searchInnerCircle.classList.add("step2-spin");
-
                 setTimeout(function() {
                     searchBox.classList.add("step3-bar");
                     searchInnerCircle.classList.add("step3-move");
-
                     setTimeout(function() {
                         searchInput.classList.add("step4-show");
                         const modeWrapper = document.getElementById("modeWrapper");
                         if (modeWrapper) modeWrapper.classList.add("step4-show");
-                        
                         setTimeout(function() {
                             document.getElementById("graph-container").classList.add("show");
                             document.getElementById("appTitle").classList.add("show");
                             document.getElementById("visitCounter").classList.add("show");
                             document.getElementById("feedbackBox").classList.add("show");
-                            
                             const toolBar = document.getElementById("toolBarWrapper");
                             if (toolBar) {
                                 toolBar.classList.add("show");
@@ -214,24 +188,20 @@ function initHeroAndGraph() {
                                     }, 4000);
                                 }
                             }
-                            
                             renderKanjiGraph(sampleData);
                             setupSearchHandlers();
                         }, 300);
                     }, 600);
                 }, 600);
             }, 500);
-
         }, 1000);
     }, gifDuration);
-    
     if (!window.pingIntervalSet) {
         pingTracker();
         setInterval(pingTracker, 300000);
         window.pingIntervalSet = true;
     }
 }
-
 function setupSearchHandlers() {
     const searchInput = document.getElementById("searchInput");
     const searchBox = document.getElementById("searchBox");
@@ -241,7 +211,6 @@ function setupSearchHandlers() {
     window.currentSearchMode = 'radical';
     const modeWrapper = document.getElementById("modeWrapper");
     const modeText = document.getElementById("modeText");
-
     if (modeWrapper) {
         modeWrapper.addEventListener("click", function() {
             if (modeWrapper.classList.contains("animating")) return;
@@ -269,7 +238,6 @@ function setupSearchHandlers() {
     function performSearch() {
         const keyword = searchInput.value.trim();
         if (!keyword) return;
-
         searchBox.classList.add("searching");
         searchBox.classList.remove("loaded");
         searchInput.blur();
@@ -293,6 +261,25 @@ function setupSearchHandlers() {
         circle.setAttribute("stroke-linecap", "round");
         spinner.appendChild(circle);
         searchInnerCircle.appendChild(spinner);
+        if (keyword.length >= 2 && window.currentSearchMode === 'radical') {
+            window.currentSearchMode = 'vocab';
+            const modeWrapper = document.getElementById("modeWrapper");
+            if (modeWrapper) {
+                modeWrapper.setAttribute("data-mode", "vocab");
+                document.getElementById("modeText").textContent = "Từ vựng";
+                searchInput.placeholder = "Nhập Kanji cần tra...";
+                modeWrapper.classList.remove("animating", "collapsed");
+            }
+        } else if (keyword.length < 2 && window.currentSearchMode === 'vocab') {
+            window.currentSearchMode = 'radical';
+            const modeWrapper = document.getElementById("modeWrapper");
+            if (modeWrapper) {
+                modeWrapper.setAttribute("data-mode", "radical");
+                document.getElementById("modeText").textContent = "Bộ thủ";
+                searchInput.placeholder = "Nhập Bộ thủ cần tra...";
+                modeWrapper.classList.remove("animating", "collapsed");
+            }
+        }
         let treePromise;
         if (window.currentSearchMode === 'radical') {
             treePromise = constructRadicalNodeTree(keyword);
@@ -303,13 +290,11 @@ function setupSearchHandlers() {
             if (searchData && searchData.nodes.length > 0) {
                 document.getElementById("graph-container").innerHTML = "";
                 renderKanjiGraph(searchData, keyword);
-                
                 searchBox.classList.add("loaded", "show-close");
                 searchInnerCircle.innerHTML = `<svg viewBox="0 0 24 24" width="22" height="22" stroke="#333" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" id="magnifierIcon">
                     <circle cx="8.5" cy="8.5" r="5"></circle>
                     <line x1="12" y1="12" x2="19" y2="19"></line>
                 </svg>`;
-                
                 if (window.currentSearchMode !== 'radical') {
                     document.getElementById("vocabDropContainer").style.display = "block";
                     setTimeout(() => {
@@ -328,12 +313,10 @@ function setupSearchHandlers() {
             resetSearch();
         });
     }
-
     function resetSearch() {
         const searchBox = document.getElementById("searchBox");
         const searchInnerCircle = document.getElementById("searchInnerCircle");
         const searchInput = document.getElementById("searchInput");
-        
         searchBox.classList.remove("searching", "show-close", "loaded");
         searchInnerCircle.innerHTML = `<svg viewBox="0 0 24 24" width="22" height="22" stroke="#333" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" id="magnifierIcon">
             <circle cx="8.5" cy="8.5" r="5"></circle>
@@ -343,7 +326,6 @@ function setupSearchHandlers() {
         searchInput.disabled = false;
         const modeWrapper = document.getElementById("modeWrapper");
         if (modeWrapper) modeWrapper.classList.remove("hidden-mode");
-
         document.getElementById("vocabBtn").classList.remove("show-drop", "active");
         document.getElementById("vocabList").classList.remove("step1-width", "step2-height");
         document.getElementById("vocabList").style.maxHeight = null;
@@ -351,9 +333,17 @@ function setupSearchHandlers() {
             document.getElementById("vocabDropContainer").style.display = "none";
         }, 400);
     }
-
     let searchTimeout;
-
+    searchInput.addEventListener("input", (e) => {
+        const keyword = e.target.value.trim();
+        const modeWrapper = document.getElementById("modeWrapper");
+        if (!modeWrapper || modeWrapper.classList.contains("animating")) return;
+        if (keyword.length >= 2 && window.currentSearchMode === 'radical') {
+            modeWrapper.click();
+        } else if (keyword.length < 2 && window.currentSearchMode === 'vocab') {
+            modeWrapper.click();
+        }
+    });
     searchInput.addEventListener("keypress", (e) => {
         if (e.key === "Enter") {
             clearTimeout(searchTimeout);
@@ -364,7 +354,6 @@ function setupSearchHandlers() {
             }, 300);
         }
     });
-
     searchInnerCircle.addEventListener("click", () => {
         if (searchBox.classList.contains("loaded")) {
             searchBox.classList.remove("searching", "loaded");
@@ -382,16 +371,13 @@ function setupSearchHandlers() {
             }, 300);
         }
     });
-    
         closeBtn.addEventListener("click", () => {
         resetSearch();
         document.getElementById("graph-container").innerHTML = "";
         renderKanjiGraph(sampleData);
     });
-
     const vocabBtn = document.getElementById("vocabBtn");
     const vocabList = document.getElementById("vocabList");
-
     vocabBtn.addEventListener("click", () => {
         if (vocabList.classList.contains("step1-width")) {
             vocabBtn.classList.remove("active");
@@ -406,22 +392,18 @@ function setupSearchHandlers() {
         }
     });
 }
-
 window.dataSourceCache = window.dataSourceCache || {};
 window.wordDetailsCache = window.wordDetailsCache || {};
 const DATA_ENDPOINT = atob("aHR0cHM6Ly9tYXppaS5uZXQvYXBpL3NlYXJjaA==");
-
 async function fetchNodeData(query, excludeWords = [], allFetchedWordsSet = null) {
     let results = [];
     const endpoint = DATA_ENDPOINT;
-    
     if (window.dataSourceCache[query]) {
         results = window.dataSourceCache[query];
     } else {
         try {
             const controller = new AbortController();
             const timeoutId = setTimeout(() => controller.abort(), 6000);
-            
             const res = await fetch(endpoint, {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
@@ -429,7 +411,6 @@ async function fetchNodeData(query, excludeWords = [], allFetchedWordsSet = null
                 signal: controller.signal
             });
             clearTimeout(timeoutId);
-            
             const json = await res.json();
             results = json.data || json.results || [];
             window.dataSourceCache[query] = results;
@@ -438,17 +419,13 @@ async function fetchNodeData(query, excludeWords = [], allFetchedWordsSet = null
             return [];
         }
     }
-
     const wordsForGraph = [];
     for (let i = 0; i < results.length; i++) {
         let rawWord = results[i].word;
         if (!rawWord) continue;
-        
         let cleanWord = rawWord.split('(')[0].split('/')[0].split('【')[0].trim();
         cleanWord = cleanWord.replace(/\s+/g, '');
-        
         if (!cleanWord) continue;
-
         let phonetic = results[i].phonetic || results[i].reading || "";
         let mean = "";
         if (results[i].means && results[i].means.length > 0) {
@@ -457,25 +434,21 @@ async function fetchNodeData(query, excludeWords = [], allFetchedWordsSet = null
             mean = results[i].mean || "";
         }
         window.wordDetailsCache[cleanWord] = { phonetic: phonetic, mean: mean };
-
         if (allFetchedWordsSet) {
             allFetchedWordsSet.add(cleanWord);
         }
-
         if (wordsForGraph.length < 15 && !wordsForGraph.includes(cleanWord) && !excludeWords.includes(cleanWord)) {
             wordsForGraph.push(cleanWord);
         }
     }
     return wordsForGraph;
 }
-
 async function constructNodeTree(rootKeyword) {
     const nodes = [];
     const links = [];
     const allFetchedWordsSet = new Set();
     const globalGraphWords = new Set();
     let idCounter = 0;
-
     function addNode(word, level) {
         const nodeId = idCounter.toString();
         nodes.push({ id: nodeId, kanji: word, level: level });
@@ -483,15 +456,11 @@ async function constructNodeTree(rootKeyword) {
         idCounter++;
         return nodeId;
     }
-
     const rootId = addNode(rootKeyword, 0);
-
     const children = await fetchNodeData(rootKeyword, [rootKeyword], allFetchedWordsSet);
-
     const childDataList = [];
     const maxNodes = window.innerWidth <= 768 ? 4 : 5;
     let childCount = 0;
-
     for (const childWord of children) {
         if (!globalGraphWords.has(childWord)) {
             globalGraphWords.add(childWord);
@@ -504,19 +473,15 @@ async function constructNodeTree(rootKeyword) {
             if (childCount >= maxNodes) break;
         }
     }
-
     const grandChildrenPromises = childDataList.map(async (data) => {
         const excludeForGrandchild = Array.from(globalGraphWords);
         const grandChildren = await fetchNodeData(data.childWord, excludeForGrandchild, allFetchedWordsSet);
         return { childId: data.childId, grandChildren };
     });
-
     const grandChildrenResults = await Promise.all(grandChildrenPromises);
-
     grandChildrenResults.forEach(result => {
         let count = 0;
         const maxNodes = window.innerWidth <= 768 ? 4 : 5;
-        
         for (const grandChildWord of result.grandChildren) {
             if (!globalGraphWords.has(grandChildWord)) {
                 const grandChildId = addNode(grandChildWord, 2);
@@ -526,9 +491,7 @@ async function constructNodeTree(rootKeyword) {
             }
         }
     });
-
     window.currentVocabList = Array.from(allFetchedWordsSet).filter(word => !globalGraphWords.has(word));
-
     return { nodes, links };
 }
 let sampleData = {
@@ -557,9 +520,7 @@ let sampleData = {
         {source:"12", target:"13"}
     ]
 };
-
 window.wordDetailsCache = window.wordDetailsCache || {};
-
 const sampleTooltips = {
     "大学": { phonetic: "だいがく", mean: "Đại học" },
     "大学生": { phonetic: "だいがくせい", mean: "Sinh viên đại học" },
@@ -577,7 +538,6 @@ const sampleTooltips = {
     "学園祭": { phonetic: "がくえんさい", mean: "Lễ hội trường học" },
     "学園長": { phonetic: "がくえんちょう", mean: "Hiệu trưởng, trưởng học viện" }
 };
-
 Object.assign(window.wordDetailsCache, sampleTooltips);
 function renderKanjiGraph(data, searchKeyword = null) {
     const container = document.getElementById("graph-container");
@@ -616,9 +576,7 @@ function renderKanjiGraph(data, searchKeyword = null) {
         .attr("height", innerHeight)
         .attr("viewBox", [-innerWidth / 2, -innerHeight / 2, innerWidth, innerHeight])
         .attr("style", "width: 100%; height: 100%;");
-
     const g = svg.append("g");
-
     if (isMobile) {
         const zoom = d3.zoom()
             .scaleExtent([0.2, 3])
@@ -631,13 +589,11 @@ function renderKanjiGraph(data, searchKeyword = null) {
     const linkGroup = g.append("g").attr("class", "links-layer");
     let link;
     let pulseLink = null;
-
     if (isRadical) {
         window.flowLevel = {};
         const rootId = nodesData.find(n => n.level === 0)?.id;
-
         if (rootId) {
-            window.flowLevel[rootId] = 0;
+            window.flowLevel[rootId] = 0; 
             let changed = true;
             while (changed) {
                 changed = false;
@@ -662,19 +618,16 @@ function renderKanjiGraph(data, searchKeyword = null) {
                 window.flowLevel[key] = window.flowLevel[key] - minLevel;
             });
         }
-        
         const maxFlow = Math.max(...Object.values(window.flowLevel), 1);
         const totalSteps = maxFlow + 1; 
         const stepTime = 1.5; 
         const activePercent = (1 / totalSteps) * 100;
-        
         let dynamicStyle = document.getElementById("dynamic-beam-style");
         if (!dynamicStyle) {
             dynamicStyle = document.createElement("style");
             dynamicStyle.id = "dynamic-beam-style";
             document.head.appendChild(dynamicStyle);
         }
-        
         dynamicStyle.innerHTML = `
             .energy-beam { animation: beamTravel ${totalSteps * stepTime}s infinite linear; }
             .node-glow-ring { animation: nodePulse ${totalSteps * stepTime}s infinite ease-out; }
@@ -691,14 +644,12 @@ function renderKanjiGraph(data, searchKeyword = null) {
                 100% { opacity: 0; }
             }
         `;
-
         link = linkGroup.selectAll("line.base-link")
             .data(linksData)
             .join("line")
             .attr("class", "base-link link")
             .style("stroke-dasharray", "4,4")
             .style("stroke-opacity", "0.3");
-
         pulseLink = linkGroup.selectAll("line.energy-beam")
             .data(linksData)
             .join("line")
@@ -788,7 +739,13 @@ function renderKanjiGraph(data, searchKeyword = null) {
         const t = d3.select(this).append("g").attr("transform", "translate(12,-12)");
         const textElement = t.append("text")
             .on("click", () => {
-                if (window.currentSearchMode === 'radical') {
+                if (data === sampleData || d.kanji.length >= 2) {
+                    const modeWrapper = document.getElementById("modeWrapper");
+                    if (window.currentSearchMode === 'radical' && modeWrapper && !modeWrapper.classList.contains("animating")) {
+                        modeWrapper.click();
+                    }
+                    fetchKanjiInfo(d.kanji);
+                } else if (window.currentSearchMode === 'radical') {
                     fetchRadicalKanjiInfo(d.kanji);
                 } else {
                     fetchKanjiInfo(d.kanji);
@@ -800,7 +757,6 @@ function renderKanjiGraph(data, searchKeyword = null) {
             .on("mouseleave", () => {
                 hideTooltip();
             });
-
         for (let i = 0; i < d.kanji.length; i++) {
             const charClass = "char_" + d.kanji[i].charCodeAt(0);
             textElement.append("tspan")
@@ -811,7 +767,6 @@ function renderKanjiGraph(data, searchKeyword = null) {
     setTimeout(() => {
         document.querySelectorAll("#graph-container tspan").forEach(tspan => {
             const charClass = tspan.getAttribute("class");
-
             const handleMouseEnter = () => {
                 document.querySelectorAll("." + charClass).forEach(el => {
                     const nodeParent = el.closest(".node");
@@ -819,7 +774,6 @@ function renderKanjiGraph(data, searchKeyword = null) {
                     el.classList.add("highlight_character");
                 });
             };
-
             const handleMouseLeave = () => {
                 document.querySelectorAll("." + charClass).forEach(el => {
                     const nodeParent = el.closest(".node");
@@ -827,7 +781,6 @@ function renderKanjiGraph(data, searchKeyword = null) {
                     el.classList.remove("highlight_character");
                 });
             };
-
             tspan.addEventListener("mouseenter", handleMouseEnter);
             tspan.addEventListener("mouseleave", handleMouseLeave);
         });
@@ -838,7 +791,6 @@ function renderKanjiGraph(data, searchKeyword = null) {
         const maxX = innerWidth / 2 - radius;
         const minY = -innerHeight / 2 + radius;
         const maxY = innerHeight / 2 - radius;
-
         node.attr("transform", d => {
             if (!isMobile) {
                 d.x = Math.max(minX, Math.min(maxX, d.x));
@@ -846,13 +798,11 @@ function renderKanjiGraph(data, searchKeyword = null) {
             }
             return `translate(${d.x},${d.y})`;
         });
-
         link
             .attr("x1", d => d.source.x)
             .attr("y1", d => d.source.y)
             .attr("x2", d => d.target.x)
             .attr("y2", d => d.target.y);
-
         if (isRadical && pulseLink) {
             pulseLink
                 .attr("x1", d => d.source.x)
@@ -861,7 +811,6 @@ function renderKanjiGraph(data, searchKeyword = null) {
                 .attr("y2", d => d.target.y);
         }
     });
-
     setInterval(() => {
         if (simulation) {
             simulation.alphaTarget(0.1).restart();
@@ -875,12 +824,10 @@ function renderKanjiGraph(data, searchKeyword = null) {
         event.subject.fx = event.subject.x;
         event.subject.fy = event.subject.y;
     }
-
     function dragged(event) {
         event.subject.fx = event.x;
         event.subject.fy = event.y;
     }
-
     function dragended(event) {
         if (!event.active) simulation.alphaTarget(0);
         event.subject.fx = null;
@@ -890,9 +837,7 @@ function renderKanjiGraph(data, searchKeyword = null) {
 function fetchKanjiInfo(kanji) {
     const infoBox = document.getElementById("infoBox");
     const infoContent = document.getElementById("infoContent");
-    
     window.kanjiCache = window.kanjiCache || {};
-
     infoBox.className = "info-box step1-circle";
     infoContent.innerHTML = `
         <div style="width:50px; height:50px; display:flex; justify-content:center; align-items:center;">
@@ -900,10 +845,8 @@ function fetchKanjiInfo(kanji) {
                 <circle cx="25" cy="25" r="20" fill="none" stroke="#333" stroke-width="3" stroke-dasharray="31.4, 31.4" stroke-linecap="round"></circle>
             </svg>
         </div>`;
-
     setTimeout(() => {
         infoBox.classList.add("step2-width");
-        
         if (window.kanjiCache[kanji]) {
             setTimeout(() => {
                 window.currentKanjiData = window.kanjiCache[kanji].kanjiData;
@@ -912,7 +855,6 @@ function fetchKanjiInfo(kanji) {
             }, 200);
             return;
         }
-
         const endpoint = DATA_ENDPOINT;
         const controller = new AbortController();
         const timeoutId = setTimeout(() => controller.abort(), 6000);
@@ -922,14 +864,12 @@ function fetchKanjiInfo(kanji) {
             body: JSON.stringify({ dict: "javi", type: "word", query: kanji }),
             signal: controller.signal
         }).then(res => res.json());
-
         const kanjiChars = [...new Set(kanji.match(/[\u4e00-\u9faf]/g) || [])];
         const kanjiPromises = kanjiChars.map(k => 
             fetch(`data/kanji/${k}.json`)
                 .then(res => res.ok ? res.json() : null)
                 .catch(() => null)
         );
-
         Promise.all([wordPromise, ...kanjiPromises])
         .then(responses => {
             clearTimeout(timeoutId);
@@ -949,33 +889,27 @@ function fetchKanjiInfo(kanji) {
             } else {
                 nghiaWord = "Không tìm thấy từ vựng này.";
             }
-
             let kanjiHtml = '';
-            
             if (kanjiChars.length > 0) {
                 window.currentKanjiData = kanjiChars.map((k, index) => {
                     let nghiaK = "Chưa có dữ liệu";
                     let onK = "Chưa có dữ liệu";
                     let kunK = "Chưa có dữ liệu";
                     const kData = kanjiDatas[index];
-
                     if (kData) {
                         return { char: k, html: generateKanjiFullHtml(k, kData) };
                     }
                     return { char: k, html: '<p>Không tìm thấy dữ liệu.</p>' };
                 });
-
                 const tabsHtml = window.currentKanjiData.map((k, i) => 
                     `<button class="kanji-tab ${i === 0 ? 'active' : ''}" onclick="switchKanjiTab(${i})">${k.char}</button>`
                 ).join(' <span style="color:#ccc;">•</span> ');
-
                 const firstK = window.currentKanjiData[0];
                 const detailHtml = `
                     <div id="kanjiDetailContent" class="kanji-detail-content" style="margin-top: 15px;">
                         ${firstK.html}
                     </div>
                 `;
-
                 kanjiHtml = `
                     <div class="kanji-tabs-container">
                         <div style="font-size: 13px; color: #888; margin-bottom: 10px; text-align: center; text-transform: uppercase; letter-spacing: 1px;">Chữ Hán cấu thành</div>
@@ -986,7 +920,6 @@ function fetchKanjiInfo(kanji) {
                     </div>
                 `;
             }
-
             const finalHtml = `
                 <div style="padding: 20px; font-family: sans-serif; color: #333; position: relative; max-height: calc(100vh - 120px); overflow-y: auto; scroll-behavior: smooth; box-sizing: border-box;">
                     <button onclick="document.getElementById('infoBox').className='info-box'" style="position: absolute; right: 15px; top: 15px; border: none; background: none; font-size: 18px; cursor: pointer; color: #888; z-index: 10;" title="Đóng">✕</button>
@@ -1003,12 +936,10 @@ function fetchKanjiInfo(kanji) {
                     ${kanjiHtml}
                 </div>
             `;
-
             window.kanjiCache[kanji] = {
                 html: finalHtml,
                 kanjiData: window.currentKanjiData
             };
-
             infoContent.innerHTML = finalHtml;
             infoBox.classList.add("step3-height");
         })
@@ -1032,11 +963,9 @@ function fetchKanjiInfo(kanji) {
         });
     }, 300);
 }
-
 function fetchRadicalKanjiInfo(kanji) {
     const infoBox = document.getElementById("infoBox");
     const infoContent = document.getElementById("infoContent");
-    
     window.radicalKanjiCache = window.radicalKanjiCache || {};
     infoBox.className = "info-box step1-circle";
     infoContent.innerHTML = `
@@ -1045,10 +974,8 @@ function fetchRadicalKanjiInfo(kanji) {
                 <circle cx="25" cy="25" r="20" fill="none" stroke="#333" stroke-width="3" stroke-dasharray="31.4, 31.4" stroke-linecap="round"></circle>
             </svg>
         </div>`;
-
     setTimeout(() => {
         infoBox.classList.add("step2-width");
-        
         if (window.radicalKanjiCache[kanji]) {
             setTimeout(() => {
                 infoContent.innerHTML = window.radicalKanjiCache[kanji];
@@ -1056,7 +983,6 @@ function fetchRadicalKanjiInfo(kanji) {
             }, 200);
             return;
         }
-
         fetch('data/kanji/' + kanji + '.json')
             .then(res => {
                 if (!res.ok) throw new Error("Not found");
@@ -1065,7 +991,6 @@ function fetchRadicalKanjiInfo(kanji) {
             .then(data => {
                 const ka = data.kanjialiveData || {};
                 const ji = data.jishoData || {};
-                
                 const finalHtml = `
                     <div style="padding: 20px; font-family: sans-serif; color: #333; position: relative; max-height: calc(100vh - 120px); overflow-y: auto; scroll-behavior: smooth; box-sizing: border-box;">
                         <button onclick="document.getElementById('infoBox').className='info-box'" style="position: absolute; right: 15px; top: 15px; border: none; background: none; font-size: 18px; cursor: pointer; color: #888; z-index: 10;" title="Đóng">✕</button>
@@ -1079,13 +1004,11 @@ function fetchRadicalKanjiInfo(kanji) {
                         ${generateKanjiFullHtml(kanji, data)}
                     </div>
                 `;
-
                 window.radicalKanjiCache[kanji] = finalHtml;
-                
                 setTimeout(() => {
                     infoContent.innerHTML = finalHtml;
                     infoBox.classList.add("step3-height");
-                }, 200); // Small delay to let width transition finish
+                }, 200); 
             })
             .catch(err => {
                 const errorHtml = `
@@ -1102,13 +1025,10 @@ function fetchRadicalKanjiInfo(kanji) {
             });
     }, 300);
 }
-
 function switchKanjiTab(index) {
     const data = window.currentKanjiData[index];
     if (!data) return;
-
     document.getElementById('kanjiDetailContent').innerHTML = data.html;
-
     const tabs = document.querySelectorAll('.kanji-tab');
     tabs.forEach((tab, i) => {
         if (i === index) {
@@ -1121,9 +1041,7 @@ function switchKanjiTab(index) {
 function renderVocabList() {
     const vocabList = document.getElementById("vocabList");
     vocabList.innerHTML = "";
-    
     if (!window.currentVocabList) return;
-
     window.currentVocabList.forEach((word, index) => {
         const item = document.createElement("div");
         item.className = "vocab-item";
@@ -1141,11 +1059,9 @@ function renderVocabList() {
         vocabList.appendChild(item);
     });
 }
-
 function showTooltip(event, word) {
     const tooltip = document.getElementById("wordTooltip");
     const details = window.wordDetailsCache[word];
-    
     if (details && (details.phonetic || details.mean)) {
         let html = "";
         if (details.phonetic) {
@@ -1155,11 +1071,9 @@ function showTooltip(event, word) {
             html += `<div style="font-size: 12px; max-width: 250px; white-space: normal; color: #37474F;">${details.mean}</div>`;
         }
         tooltip.innerHTML = html;
-        
         tooltip.style.left = (event.pageX + 5) + "px";
         tooltip.style.top = (event.pageY - 35) + "px";
         tooltip.classList.add("visible");
-
         const tooltipHeight = tooltip.offsetHeight;
         if (event.clientY - tooltipHeight - 35 < 0) {
             tooltip.style.transform = "translate(15px, 15px)";
@@ -1168,7 +1082,6 @@ function showTooltip(event, word) {
         }
     }
 }
-
 function hideTooltip() {
     const tooltip = document.getElementById("wordTooltip");
     if (tooltip) {
@@ -1176,9 +1089,7 @@ function hideTooltip() {
     }
 }
 const TRACKING_ENDPOINT = atob("aHR0cHM6Ly9zY3JpcHQuZ29vZ2xlLmNvbS9tYWNyb3Mvcy9BS2Z5Y2J6SS02OEZZTHZqN091aTUxY1libnctOWRiTklLblk2NlFZY1ByWTM0SGJKa2wxTkNLRFJ2YnVEemY1enBYcXoxcy9leGVj");
-
 const PAGE_SESSION_ID = "req_" + Math.random().toString(36).substr(2, 9) + Date.now();
-
 function pingTracker() {
     let isReturning = localStorage.getItem("kanjimap_visited") ? "true" : "false";
     if (isReturning === "false") {
@@ -1202,7 +1113,6 @@ function pingTracker() {
 function logErrorToServer(keyword, errorType) {
     const userAgent = navigator.userAgent;
     const url = TRACKING_ENDPOINT + "?action=error&keyword=" + encodeURIComponent(keyword) + "&error_type=" + encodeURIComponent(errorType) + "&user_agent=" + encodeURIComponent(userAgent);
-    
     fetch(url)
         .then(res => res.text())
         .then(data => console.log(data))
@@ -1212,33 +1122,25 @@ function openErrorModal(keyword = "") {
     document.getElementById("errorKeyword").value = keyword || "Không có từ khóa cụ thể";
     document.getElementById("errorSelect").value = "";
     document.getElementById("errorDetails").value = "";
-    
     const title = document.getElementById("errorTitleText");
     title.textContent = "Báo cáo lỗi";
     title.style.color = "#D32F2F";
     title.style.opacity = "";
-
     const overlay = document.getElementById("errorModalOverlay");
     const box = document.getElementById("errorBox");
     const innerCircle = document.getElementById("errorInnerCircle");
-
     innerCircle.classList.remove("success-mode");
     innerCircle.style.backgroundColor = "#fce4e4";
-    
     box.className = "error-box";
     innerCircle.className = "error-inner-circle";
     overlay.classList.add("show");
-
     setTimeout(() => {
         box.classList.add("step1-circle");
-        
         setTimeout(() => {
             document.getElementById("errorIcon").classList.add("spin");
-            
             setTimeout(() => {
                 box.classList.add("step2-width");
                 innerCircle.classList.add("expand");
-                
                 setTimeout(() => {
                     box.classList.add("step3-height");
                 }, 400); 
@@ -1246,26 +1148,20 @@ function openErrorModal(keyword = "") {
         }, 300);
     }, 50);
 }
-
 function closeErrorModal() {
     const overlay = document.getElementById("errorModalOverlay");
     const box = document.getElementById("errorBox");
     const innerCircle = document.getElementById("errorInnerCircle");
     const title = document.getElementById("errorTitleText");
-
     box.classList.remove("step3-height");
-
     setTimeout(() => {
         title.style.opacity = "0"; 
-        
         setTimeout(() => {
             box.classList.remove("step2-width");
             innerCircle.classList.remove("expand");
             document.getElementById("errorIcon").classList.remove("spin"); 
-
             setTimeout(() => {
                 box.classList.remove("step1-circle");
-
                 setTimeout(() => {
                     overlay.classList.remove("show");
                 }, 300);
@@ -1273,12 +1169,10 @@ function closeErrorModal() {
         }, 150); 
     }, 400);
 }
-
 function submitError() {
     const keyword = document.getElementById("errorKeyword").value;
     const errorType = document.getElementById("errorSelect").value;
     const details = document.getElementById("errorDetails").value.trim();
-    
     let finalError = "";
     if (errorType) {
         finalError = errorType;
@@ -1291,28 +1185,21 @@ function submitError() {
             return;
         }
     }
-    
     logErrorToServer(keyword, finalError);
-    
     const box = document.getElementById("errorBox");
     const title = document.getElementById("errorTitleText");
     const innerCircle = document.getElementById("errorInnerCircle");
-
     box.classList.remove("step3-height"); 
-    
     setTimeout(() => {
         innerCircle.classList.add("success-mode");
         innerCircle.style.backgroundColor = "#e8f5e9";
         title.textContent = "Báo cáo thành công";
         title.style.color = "#2E7D32"; 
-        
         setTimeout(() => {
             title.style.opacity = "0";
-            
             setTimeout(() => {
                 box.classList.remove("step2-width"); 
                 innerCircle.classList.remove("expand");
-                
                 setTimeout(() => {
                     box.classList.remove("step1-circle"); 
                     setTimeout(() => {
@@ -1323,33 +1210,26 @@ function submitError() {
         }, 1500); 
     }, 400);
 }
-
 document.addEventListener("click", function(event) {
     const infoBox = document.getElementById("infoBox");
     const vocabBtn = document.getElementById("vocabBtn");
     const vocabList = document.getElementById("vocabList");
-
     let isInfoOpen = false;
     let isVocabOpen = false;
-
     if (infoBox && infoBox.classList.contains("step1-circle")) {
         isInfoOpen = true;
     }
-
     if (vocabList && vocabList.classList.contains("step1-width")) {
         isVocabOpen = true;
     }
-
     let isClickInsideInfo = false;
     if (isInfoOpen && (infoBox.contains(event.target) || event.target.closest(".node") || event.target.closest(".vocab-item"))) {
         isClickInsideInfo = true;
     }
-
     let isClickInsideVocab = false;
     if ((vocabBtn && vocabBtn.contains(event.target)) || (vocabList && vocabList.contains(event.target))) {
         isClickInsideVocab = true;
     }
-
     if (!isClickInsideInfo && !isClickInsideVocab) {
         if (isInfoOpen && isVocabOpen) {
             infoBox.className = "info-box";
@@ -1364,7 +1244,6 @@ document.addEventListener("click", function(event) {
             }, 200);
         }
     }
-
     if (vocabBtn && vocabBtn.contains(event.target)) {
         setTimeout(() => {
             const vocabDrop = document.getElementById("vocabDropContainer");
@@ -1379,14 +1258,12 @@ document.addEventListener("click", function(event) {
         }, 50);
     }
 });
-
 const infoBoxEl = document.getElementById("infoBox");
 if (infoBoxEl && window.ResizeObserver) {
     const resizeObserver = new ResizeObserver(() => {
         const vocabDrop = document.getElementById("vocabDropContainer");
         const vocabBtn = document.getElementById("vocabBtn");
         const vocabList = document.getElementById("vocabList");
-        
         if (vocabDrop) {
             if (window.innerWidth <= 768) {
                 if (infoBoxEl.classList.contains("step1-circle")) {
@@ -1401,7 +1278,6 @@ if (infoBoxEl && window.ResizeObserver) {
                 vocabDrop.style.left = "0px";
             }
         }
-
         if (vocabBtn && vocabBtn.classList.contains("active") && vocabList) {
             const dropRect = vocabDrop.getBoundingClientRect();
             const bottomMargin = window.innerWidth <= 768 ? 10 : 120;
@@ -1418,7 +1294,6 @@ function initFeedbackBox() {
     const feedbackCloseBtn = document.getElementById('feedbackCloseBtn');
     const feedbackSubmitBtn = document.getElementById('feedbackSubmitBtn');
     const feedbackInput = document.getElementById('feedbackInput');
-
     feedbackBox.addEventListener('click', function(e) {
         if (!feedbackBox.classList.contains('step2-width')) {
             feedbackBox.classList.add('step2-width');
@@ -1430,32 +1305,26 @@ function initFeedbackBox() {
             }, 300);
         }
     });
-
     feedbackContent.addEventListener('click', function(e) {
         e.stopPropagation();
     });
-
     function closeFeedback() {
         feedbackBox.classList.remove('step3-height');
         setTimeout(() => {
             feedbackBox.classList.remove('step2-width');
         }, 300);
     }
-
     feedbackCloseBtn.addEventListener('click', function(e) {
         e.stopPropagation();
         closeFeedback();
     });
-
     feedbackSubmitBtn.addEventListener('click', function(e) {
         e.stopPropagation();
         const val = feedbackInput.value.trim();
         if(val) {
             const url = TRACKING_ENDPOINT + "?action=feedback&message=" + encodeURIComponent(val);
             fetch(url).catch(() => {});
-
             feedbackBox.classList.add('success-mode');
-            
             setTimeout(() => {
                 feedbackBox.classList.remove('success-mode');
                 closeFeedback();
@@ -1471,25 +1340,19 @@ function initAppTitleEffect() {
     const oaHiepText = document.getElementById("oaHiepText");
     const grabHand = document.getElementById("grabHand");
     const hoahiepContainer = document.getElementById("hoahiepContainer");
-
     let isAnimatingH = false;
-
     function triggerFallEffect() {
         if (!appTitle.classList.contains("show")) return;
         if (isAnimatingH) return;
         isAnimatingH = true;
-
         const hRect = fallingH.getBoundingClientRect();
         const containerRect = hoahiepContainer.getBoundingClientRect();
         const targetX = containerRect.left - hRect.left - 18;
         const targetY = containerRect.top - hRect.top - 2;
-
         fallingH.style.transition = "transform 0.8s cubic-bezier(0.55, 0.085, 0.68, 0.53)";
         fallingH.style.transform = `translate(${targetX}px, ${targetY}px) rotate(360deg)`;
-
         setTimeout(() => {
             oaHiepText.classList.add("show");
-
             setTimeout(() => {
                 const currentHRect = fallingH.getBoundingClientRect();
                 const grabOffsetX = -90;
@@ -1498,15 +1361,12 @@ function initAppTitleEffect() {
                 const dropOffsetX = -120;
                 const dropOffsetY = -240;
                 const dropRotation = "rotate(0deg)";
-
                 grabHand.style.transition = "none";
                 grabHand.style.transform = `translate(${window.innerWidth + 100}px, ${currentHRect.top + grabOffsetY}px) ${grabRotation}`;
                 grabHand.style.opacity = "1";
-
                 setTimeout(() => {
                     grabHand.style.transition = "transform 1.2s cubic-bezier(0.25, 1, 0.5, 1)";
                     grabHand.style.transform = `translate(${currentHRect.left + grabOffsetX}px, ${currentHRect.top + grabOffsetY}px) ${grabRotation}`;
-
                     setTimeout(() => {
                         oaHiepText.classList.remove("show");
                         grabHand.style.transition = "transform 1.2s cubic-bezier(0.5, 0, 0.1, 1)";
@@ -1515,56 +1375,40 @@ function initAppTitleEffect() {
                         const moveDelta = hideX - (currentHRect.left + grabOffsetX);
                         grabHand.style.transform = `translate(${hideX}px, ${currentHRect.top + grabOffsetY}px) ${grabRotation}`;
                         fallingH.style.transform = `translate(${targetX + moveDelta}px, ${targetY}px) rotate(0deg)`;
-
                         setTimeout(() => {
                             grabHand.style.transition = "none";
                             fallingH.style.transition = "none";
-
                             grabHand.style.transform = `translate(${hRect.left + dropOffsetX}px, -400px) ${dropRotation}`;
                             fallingH.style.transform = `translate(0px, -400px) rotate(0deg)`;
-
                             setTimeout(() => {
                                 grabHand.style.transition = "transform 1.5s cubic-bezier(0.25, 1, 0.5, 1)";
                                 fallingH.style.transition = "transform 1.5s cubic-bezier(0.25, 1, 0.5, 1)";
-
                                 grabHand.style.transform = `translate(${hRect.left + dropOffsetX}px, ${hRect.top + dropOffsetY}px) ${dropRotation}`;
                                 fallingH.style.transform = "translate(0px, 0px) rotate(0deg)";
-
                                 setTimeout(() => {
                                     grabHand.style.transition = "transform 1.2s ease, opacity 0.8s ease";
                                     grabHand.style.transform = `translate(${hRect.left + dropOffsetX}px, -400px) ${dropRotation}`;
                                     grabHand.style.opacity = "0";
-
                                     setTimeout(() => {
                                         isAnimatingH = false;
                                     }, 1000);
-
                                 }, 1600);
-
                             }, 50);
-
                         }, 1300);
-
                     }, 1400);
-
                 }, 50);
-
             }, 800);
-
         }, 800);
     }
-
     appTitle.addEventListener("mouseenter", triggerFallEffect);
     appTitle.addEventListener("touchstart", triggerFallEffect, {passive: true});
 }
 function initToolbarObserver() {
     const toolBarWrapper = document.getElementById("toolBarWrapper");
     if (!toolBarWrapper) return;
-
     const toolBarTab = document.getElementById("toolBarTab");
     const toolBarMain = document.getElementById("toolBarMain");
     let toolBarTimer;
-
     function startToolBarTimer() {
         clearTimeout(toolBarTimer);
         if (window.innerWidth <= 768 && !toolBarWrapper.classList.contains("collapsed")) {
@@ -1579,22 +1423,18 @@ function initToolbarObserver() {
         toolBarWrapper.classList.remove("collapsed");
         startToolBarTimer();
     }
-
     if (toolBarTab) {
         toolBarTab.addEventListener("click", () => {
             toolBarWrapper.classList.toggle("collapsed");
             startToolBarTimer();
         });
     }
-
     if (toolBarMain) {
         toolBarMain.addEventListener("click", startToolBarTimer);
         toolBarMain.addEventListener("touchstart", startToolBarTimer, {passive: true});
     }
-
     const vocabList = document.getElementById("vocabList");
     const feedbackBox = document.getElementById("feedbackBox");
-    
     if (vocabList) {
         const observer = new MutationObserver(function() {
             if (vocabList.classList.contains("step1-width")) {
@@ -1614,7 +1454,6 @@ function initToolbarObserver() {
         observer.observe(vocabList, { attributes: true, attributeFilter: ['class'] });
     }
 }
-
 function initFlashcardTools() {
     const btnFlashcard = document.getElementById('btnFlashcard');
     const btnMindmap = document.getElementById('btnMindmap');
@@ -1623,24 +1462,20 @@ function initFlashcardTools() {
         btnFlashcard.addEventListener('click', function() {
             const words = [];
             const added = new Set();
-            
             const addW = (w) => {
                 if (!added.has(w) && window.wordDetailsCache[w]) {
                     added.add(w);
                     words.push({ word: w, phonetic: window.wordDetailsCache[w].phonetic, mean: window.wordDetailsCache[w].mean });
                 }
             };
-            
             document.querySelectorAll('.node text').forEach(n => addW(n.textContent));
             if (window.currentVocabList) {
                 window.currentVocabList.forEach(w => addW(w));
             }
-
             if (words.length === 0) { alert("Chưa có từ vựng nào để học!"); return; }
             initFlashcard(words);
         });
     }
-
     function initFlashcard(words) {
         let overlay = document.getElementById('fcOverlay');
         if (!overlay) {
@@ -1685,23 +1520,19 @@ function initFlashcardTools() {
                 <div class="fc-hint"><- Vuốt -> để tiếp tục<br>^ Đã thuộc &nbsp;&nbsp;|&nbsp;&nbsp; v Không muốn học</div>
             `;
             document.body.appendChild(overlay);
-
             document.getElementById('fcClose').onclick = closeOverlay;
             document.getElementById('fcCloseBtn').onclick = closeOverlay;
         }
-
         let initialTotal = words.length;
         let learnedCount = 0;
         let undoStack = [];
         let currentWord = null;
         let roundQueue = shuffleArray([...words]);
         let nextRoundQueue = [];
-        
         let isAdvanced = false;
         let hasStartedAdvanced = false;
         let isCountingDown = false;
         let countdownTimer, flashTimer;
-
         const card = document.getElementById('fcCard');
         const innerCard = document.getElementById('fcInner');
         const finishedView = document.getElementById('fcFinished');
@@ -1712,18 +1543,15 @@ function initFlashcardTools() {
         const kanjiEl = document.getElementById('fcKanji');
         const advancedToggle = document.getElementById('fcAdvancedToggle');
         const timeSelector = document.getElementById('fcTimeSelector');
-
         function clearAllTimers() {
             clearInterval(countdownTimer);
             clearTimeout(flashTimer);
         }
-
         function closeOverlay() { 
             clearAllTimers();
             if (window.fcAbortController) window.fcAbortController.abort();
             document.getElementById('fcOverlay').classList.remove('show'); 
         }
-
         function shuffleArray(array) {
             for (let i = array.length - 1; i > 0; i--) {
                 const j = Math.floor(Math.random() * (i + 1));
@@ -1731,7 +1559,6 @@ function initFlashcardTools() {
             }
             return array;
         }
-
         advancedToggle.onclick = () => {
             isAdvanced = !isAdvanced;
             advancedToggle.classList.toggle('active');
@@ -1739,7 +1566,6 @@ function initFlashcardTools() {
             hasStartedAdvanced = false;
             updateCardUI();
         };
-
         startBtn.onmousedown = (e) => e.stopPropagation();
         startBtn.ontouchstart = (e) => e.stopPropagation();
         startBtn.onclick = (e) => {
@@ -1747,7 +1573,6 @@ function initFlashcardTools() {
             hasStartedAdvanced = true;
             startCountdownSequence();
         };
-
         replayBtn.onmousedown = (e) => e.stopPropagation();
         replayBtn.ontouchstart = (e) => e.stopPropagation();
         replayBtn.onclick = (e) => {
@@ -1756,7 +1581,6 @@ function initFlashcardTools() {
             kanjiEl.style.opacity = '1';
             kanjiEl.style.visibility = 'visible';
             let timeVal = parseInt(document.querySelector('input[name="fcTime"]:checked').value);
-            
             clearTimeout(flashTimer);
             flashTimer = setTimeout(() => {
                 kanjiEl.style.opacity = '0';
@@ -1764,7 +1588,6 @@ function initFlashcardTools() {
                 replayBtn.style.display = 'inline-block';
             }, timeVal);
         };
-
         function startCountdownSequence() {
             clearAllTimers();
             isCountingDown = true;
@@ -1773,10 +1596,8 @@ function initFlashcardTools() {
             countdownEl.style.display = 'block';
             kanjiEl.style.opacity = '0';
             kanjiEl.style.visibility = 'hidden';
-            
             let count = 3;
             countdownEl.textContent = count;
-            
             countdownTimer = setInterval(() => {
                 count--;
                 if (count > 0) {
@@ -1787,7 +1608,6 @@ function initFlashcardTools() {
                     kanjiEl.style.opacity = '1';
                     kanjiEl.style.visibility = 'visible';
                     isCountingDown = false;
-                    
                     let timeVal = parseInt(document.querySelector('input[name="fcTime"]:checked').value);
                     flashTimer = setTimeout(() => {
                         kanjiEl.style.opacity = '0';
@@ -1797,7 +1617,6 @@ function initFlashcardTools() {
                 }
             }, 500);
         }
-
         function renderNextCard() {
             if (roundQueue.length === 0) {
                 if (nextRoundQueue.length > 0) {
@@ -1811,14 +1630,11 @@ function initFlashcardTools() {
                     return;
                 }
             }
-
             currentWord = roundQueue.shift();
             card.style.display = 'block';
             finishedView.style.display = 'none';
             document.getElementById('fcCounter').style.display = 'block';
-            
             updateCardUI();
-
             card.style.transition = 'none';
             card.style.transform = 'scale(0.8)';
             card.style.opacity = '0';
@@ -1828,17 +1644,14 @@ function initFlashcardTools() {
                 card.style.opacity = '1';
             }, 20);
         }
-
         function updateCardUI() {
             clearAllTimers();
             innerCard.classList.remove('flipped');
             kanjiEl.textContent = currentWord.word;
             document.getElementById('fcPhonetic').textContent = currentWord.phonetic || '';
             document.getElementById('fcMean').textContent = currentWord.mean || '';
-            
             let totalRemaining = roundQueue.length + nextRoundQueue.length + 1;
             document.getElementById('fcCounter').textContent = `Còn lại: ${totalRemaining}`;
-
             if (isAdvanced) {
                 kanjiEl.style.opacity = '0';
                 kanjiEl.style.visibility = 'hidden';
@@ -1860,22 +1673,17 @@ function initFlashcardTools() {
                 isCountingDown = false;
             }
         }
-
         function updateProgress() {
             let percent = initialTotal === 0 ? 100 : (learnedCount / initialTotal) * 100;
             document.getElementById('fcProgressFill').style.width = Math.min(percent, 100) + '%';
         }
-
         function triggerUndoGlow() {
             undoBtn.classList.add('active', 'glow');
             setTimeout(() => undoBtn.classList.remove('glow'), 1200);
         }
-
         let startX, startY, currentX, currentY, isDragging = false;
         const SWIPE_THRESHOLD = 90;
-
         function getPos(e) { return e.type.includes('mouse') ? {x: e.pageX, y: e.pageY} : {x: e.touches[0].pageX, y: e.touches[0].pageY}; }
-
         function onStart(e) {
             if (isCountingDown) return;
             if (e.cancelable) {
@@ -1887,7 +1695,6 @@ function initFlashcardTools() {
             currentX = startX; currentY = startY;
             card.classList.add('dragging');
         }
-
         function onMove(e) {
             if (!isDragging || isCountingDown) return;
             e.preventDefault();
@@ -1897,21 +1704,17 @@ function initFlashcardTools() {
             let deltaY = currentY - startY;
             card.style.transform = `translate(${deltaX}px, ${deltaY}px) rotate(${deltaX * 0.05}deg)`;
         }
-
         function onEnd(e) {
             if (!isDragging) return;
             isDragging = false;
             card.classList.remove('dragging');
-            
             let deltaX = currentX - startX;
             let deltaY = currentY - startY;
-
             if (Math.abs(deltaX) < 5 && Math.abs(deltaY) < 5) {
                 card.style.transform = '';
                 if (!isCountingDown) innerCard.classList.toggle('flipped');
                 return;
             }
-
             if (deltaY < -SWIPE_THRESHOLD) { 
                 animateOut(0, -window.innerHeight);
                 handleSwipe('up');
@@ -1925,13 +1728,11 @@ function initFlashcardTools() {
                 card.style.transform = '';
             }
         }
-
         function animateOut(x, y) {
             card.style.transition = 'transform 0.3s ease, opacity 0.3s ease';
             card.style.transform = `translate(${x}px, ${y}px) rotate(${x*0.05}deg)`;
             card.style.opacity = '0';
         }
-
         function handleSwipe(direction) {
             if (direction === 'up') {
                 learnedCount++;
@@ -1944,22 +1745,18 @@ function initFlashcardTools() {
             } else if (direction === 'side') {
                 nextRoundQueue.push(currentWord);
             }
-            
             updateProgress();
             setTimeout(renderNextCard, 300);
         }
-
         undoBtn.onclick = () => {
             if (undoStack.length === 0) return;
             const lastAction = undoStack.pop();
-            
             if (lastAction.action === 'up') {
                 learnedCount--;
             } else if (lastAction.action === 'down') {
                 initialTotal++;
             }
             updateProgress();
-            
             if (currentWord) {
                 roundQueue.unshift(currentWord);
             } else {
@@ -1967,10 +1764,8 @@ function initFlashcardTools() {
                 card.style.display = 'block';
                 document.getElementById('fcCounter').style.display = 'block';
             }
-            
             currentWord = lastAction.word;
             updateCardUI();
-
             card.style.transition = 'none';
             card.style.transform = lastAction.action === 'up' ? `translate(0, -300px)` : `translate(0, 300px)`;
             card.style.opacity = '0';
@@ -1979,27 +1774,21 @@ function initFlashcardTools() {
                 card.style.transform = '';
                 card.style.opacity = '1';
             }, 20);
-
             if (undoStack.length === 0) undoBtn.classList.remove('active');
         };
-
         if (window.fcAbortController) window.fcAbortController.abort();
         window.fcAbortController = new AbortController();
         const signal = window.fcAbortController.signal;
-
         card.addEventListener('mousedown', onStart, { signal });
         card.addEventListener('touchstart', onStart, { passive: false, signal });
         document.addEventListener('mousemove', onMove, { passive: false, signal });
         document.addEventListener('touchmove', onMove, { passive: false, signal });
         document.addEventListener('mouseup', onEnd, { signal });
         document.addEventListener('touchend', onEnd, { signal });
-
         updateProgress();
         renderNextCard();
         document.getElementById('fcOverlay').classList.add('show');
     }
-
-    
     if (btnPrint) {
         btnPrint.addEventListener('click', function() {
             let tableHtml = `<table id="vocabTable" border="1" style="width:100%; border-collapse: collapse; font-family: sans-serif; text-align: left;">
@@ -2008,9 +1797,7 @@ function initFlashcardTools() {
                     <th style="padding: 10px; font-size: 13px;">Cách đọc (Furigana)</th>
                     <th style="padding: 10px; font-size: 13px;">Ý nghĩa</th>
                 </tr>`;
-
             const addedWords = new Set();
-            
             const addRow = (word) => {
                 if (!addedWords.has(word) && window.wordDetailsCache[word]) {
                     addedWords.add(word);
@@ -2022,20 +1809,16 @@ function initFlashcardTools() {
                     </tr>`;
                 }
             };
-
             const graphNodes = document.querySelectorAll('.node text');
             graphNodes.forEach(node => {
                 addRow(node.textContent);
             });
-
             if (window.currentVocabList) {
                 window.currentVocabList.forEach(word => {
                     addRow(word);
                 });
             }
-
             tableHtml += `</table>`;
-
             const printWindow = window.open('', '_blank');
             printWindow.document.write(`
                 <!DOCTYPE html>
@@ -2073,21 +1856,17 @@ function initFlashcardTools() {
                             };
                             html2pdf().set(opt).from(element).save();
                         }
-
                         function exportWord() {
                             const preHtml = "<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:w='urn:schemas-microsoft-com:office:word' xmlns='http://www.w3.org/TR/REC-html40'><head><meta charset='utf-8'><title>Tu Vung</title></head><body>";
                             const postHtml = "</body></html>";
                             const html = preHtml + document.getElementById('exportContent').innerHTML + postHtml;
-                            
                             const blob = new Blob(['\\ufeff', html], { type: 'application/msword' });
                             const url = URL.createObjectURL(blob);
                             const link = document.createElement('a');
-                            
                             link.href = url;
                             link.download = 'TuVung_KanjiMap.doc';
                             document.body.appendChild(link);
                             link.click();
-                            
                             document.body.removeChild(link);
                             URL.revokeObjectURL(url);
                         }
@@ -2104,7 +1883,6 @@ const resetScrollTop = () => {
     document.documentElement.scrollTop = 0;
     document.body.scrollTop = 0;
 };
-
 function reinitPageAfterTransition() {
     if (typeof initHeroAndGraph === 'function') initHeroAndGraph();
     if (typeof initFeedbackBox === 'function') initFeedbackBox();
@@ -2112,13 +1890,11 @@ function reinitPageAfterTransition() {
     if (typeof initToolbarObserver === 'function') initToolbarObserver();
     if (typeof initFlashcardTools === 'function') initFlashcardTools();
 }
-
 function initSmoothPageTransitions() {
     let loaderWrapper = document.getElementById('loader-wrapper');
     if (!loaderWrapper) {
         loaderWrapper = document.createElement('div');
         loaderWrapper.id = 'loader-wrapper';
-        
         loaderWrapper.innerHTML = `
             <div id="loader-hole">
                 <img id="loader-gif">
@@ -2126,33 +1902,26 @@ function initSmoothPageTransitions() {
         `;
         document.body.appendChild(loaderWrapper);
     }
-
     document.addEventListener('click', async (e) => {
         const link = e.target.closest('a[href]');
         if (!link) return;
-        
         const hrefAttr = (link.getAttribute('href') || '').trim();
         if (hrefAttr.startsWith('#') || link.target === '_blank' || !link.href.includes(window.location.origin) || link.hasAttribute('download')) {
             return;
         }
-        
         e.preventDefault();
         const targetUrl = link.href;
         const depth = window.location.pathname.split('/').length - 2;
         const prefix = depth > 0 ? '../'.repeat(depth) : '';
         const gifPath = prefix + 'images/doraemon2.gif';
         document.getElementById('loader-gif').src = gifPath + '?t=' + new Date().getTime();
-
         const loaderWrap = document.getElementById('loader-wrapper');
         const loaderHole = document.getElementById('loader-hole');
         const loaderGif = document.getElementById('loader-gif');
-        
         loaderWrap.style.display = 'block';
         gsap.set(loaderHole, { width: '200vmax', height: '200vmax' });
         gsap.set(loaderGif, { opacity: 0 });
-        
         const tl = gsap.timeline();
-        
         tl.to(loaderHole, {
             width: '220px',
             height: '220px',
@@ -2222,12 +1991,10 @@ function initSmoothPageTransitions() {
             }
         });
     }, { capture: true });
-
     window.addEventListener('popstate', () => {
         window.location.reload();
     });
 }
-
 document.addEventListener("DOMContentLoaded", function() {
     initHeroAndGraph();
     initFeedbackBox();
@@ -2238,7 +2005,6 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 window.compositionData = null;
 window.searchListData = null;
-
 async function loadRadicalData() {
     if (window.compositionData && window.searchListData) return;
     try {
@@ -2254,7 +2020,6 @@ async function loadRadicalData() {
 }
 async function constructRadicalNodeTree(rootKeyword) {
     await loadRadicalData(); 
-
     const nodesMap = new Map();
     const links = [];
     function buildGraph(char, currentDepth, direction = "both") {
@@ -2270,7 +2035,6 @@ async function constructRadicalNodeTree(rootKeyword) {
         } else {
             return;
         }
-
         const compInfo = window.compositionData ? window.compositionData[char] : null;
         if (!compInfo) return;
         const maxOutNodes = window.innerWidth <= 768 ? 4 : 8;
@@ -2293,7 +2057,6 @@ async function constructRadicalNodeTree(rootKeyword) {
         }
     }
     buildGraph(rootKeyword, 0, "both");
-
     return {
         nodes: Array.from(nodesMap.values()),
         links: links
