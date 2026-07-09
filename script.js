@@ -1,4 +1,120 @@
 // Copyright 2026 Do Hoa Hiep All Rights Reserved.
+function generateKanjiFullHtml(kanji, kData) {
+    if (!kData) return '<p>Không có dữ liệu.</p>';
+    const ji = kData.jishoData || {};
+    const ka = kData.kanjialiveData || {};
+    const meaning = ji.meaning || ka.meaning || "Chưa có dữ liệu";
+    const kunyomi = ji.kunyomi ? ji.kunyomi.join(", ") : (ka.kunyomi_ja || "Chưa có dữ liệu");
+    const onyomi = ji.onyomi ? ji.onyomi.join(", ") : (ka.onyomi_ja || "Chưa có dữ liệu");
+    const jlpt = ji.jlptLevel || "N/A";
+    const strokes = ji.strokeCount || ka.kstroke || "N/A";
+    const taughtIn = ji.taughtIn || "";
+    const freq = ji.newspaperFrequencyRank || "";
+    const radicalSym = ji.radical ? ji.radical.symbol : (ka.radical ? ka.radical.character : "");
+    const radicalMean = ji.radical ? ji.radical.meaning : (ka.radical ? ka.radical.meaning.english : "");
+    const radicalReading = ka.radical && ka.radical.name ? ka.radical.name.hiragana : "";
+    const radicalStrokes = ka.radical ? ka.radical.strokes : "";
+    const radicalAnim = ka.radical && ka.radical.animation ? ka.radical.animation[0] : "";
+
+    let mediaHtml = '';
+    if (ka.kanji && ka.kanji.video && ka.kanji.video.mp4) {
+        mediaHtml = `<video autoplay loop muted playsinline style="width: 100px; height: 100px; border-radius: 8px; border: 1px solid #eee; background: #fff;">
+            <source src="${ka.kanji.video.mp4}" type="video/mp4">
+        </video>`;
+    } else if (ji.strokeOrderGifUri) {
+        mediaHtml = `<img src="${ji.strokeOrderGifUri}" alt="Stroke order" style="width: 100px; height: 100px; border-radius: 8px; border: 1px solid #eee; background: #fff;" onerror="this.style.display='none'">`;
+    }
+
+    let examplesHtml = '';
+    const examples = ka.examples || [];
+    const onExamples = ji.onyomiExamples || [];
+    const kunExamples = ji.kunyomiExamples || [];
+    
+    if (examples.length > 0 || onExamples.length > 0 || kunExamples.length > 0) {
+        examplesHtml = `
+            <div class="kanji-tabs-container">
+                <div style="font-size: 13px; color: #888; margin-bottom: 10px; text-align: center; text-transform: uppercase; letter-spacing: 1px;">Ví dụ từ vựng</div>
+                <div class="kanji-detail-content">
+        `;
+        
+        if (examples.length > 0) {
+            examplesHtml += `<div style="font-size: 12px; font-weight: bold; color: #888; margin: 10px 0 5px 0;">VÍ DỤ CÓ ÂM THANH</div>`;
+            examplesHtml += examples.map((ex, idx) => `
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px; border-bottom: 1px solid #eee; padding-bottom: 8px;">
+                    <div>
+                        <div style="font-size: 15px; font-weight: bold; color: #37474F; margin-bottom: 3px;">${ex.japanese}</div>
+                        <div style="font-size: 13px; color: #666;">${ex.meaning.english}</div>
+                    </div>
+                    ${ex.audio && ex.audio.mp3 ? `<button onclick="new Audio('${ex.audio.mp3}').play()" style="background: none; border: none; color: #D32F2F; cursor: pointer; padding: 5px; flex-shrink: 0;" title="Nghe phát âm">
+                        <svg viewBox="0 0 24 24" width="18" height="18" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                            <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
+                            <path d="M19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"></path>
+                        </svg>
+                    </button>` : ''}
+                </div>
+            `).join('');
+        }
+
+        if (onExamples.length > 0) {
+            examplesHtml += `<div style="font-size: 12px; font-weight: bold; color: #888; margin: 15px 0 5px 0;">VÍ DỤ ÂM ON (ONYOMI)</div>`;
+            examplesHtml += onExamples.map((ex) => `
+                <div style="margin-bottom: 10px; border-bottom: 1px solid #eee; padding-bottom: 8px;">
+                    <div style="font-size: 15px; font-weight: bold; color: #37474F; margin-bottom: 3px;">${ex.example} <span style="font-weight: normal; color: #666; font-size: 13px;">（${ex.reading}）</span></div>
+                    <div style="font-size: 13px; color: #666;">${ex.meaning}</div>
+                </div>
+            `).join('');
+        }
+
+        if (kunExamples.length > 0) {
+            examplesHtml += `<div style="font-size: 12px; font-weight: bold; color: #888; margin: 15px 0 5px 0;">VÍ DỤ ÂM KUN (KUNYOMI)</div>`;
+            examplesHtml += kunExamples.map((ex) => `
+                <div style="margin-bottom: 10px; border-bottom: 1px solid #eee; padding-bottom: 8px;">
+                    <div style="font-size: 15px; font-weight: bold; color: #37474F; margin-bottom: 3px;">${ex.example} <span style="font-weight: normal; color: #666; font-size: 13px;">（${ex.reading}）</span></div>
+                    <div style="font-size: 13px; color: #666;">${ex.meaning}</div>
+                </div>
+            `).join('');
+        }
+
+        examplesHtml += `
+                </div>
+            </div>
+        `;
+    }
+
+    let radicalBlock = '';
+    if (radicalSym) {
+        radicalBlock = `
+            <div style="border-top: 1px dashed #ccc; margin: 15px 0; padding-top: 15px;">
+                <div style="font-size: 13px; color: #888; margin-bottom: 10px; text-transform: uppercase; letter-spacing: 1px; text-align: center;">Thông tin Bộ thủ (Radical)</div>
+                <div style="display: flex; gap: 15px; align-items: center; justify-content: center; background: #f9f9f9; padding: 10px; border-radius: 8px; border: 1px solid #eee;">
+                    <div style="font-size: 40px; color: #37474F; line-height: 1;">${radicalSym}</div>
+                    <div style="font-size: 13px; line-height: 1.5; text-align: left;">
+                        <p style="margin:0;"><strong>Âm đọc:</strong> <span style="color: #D32F2F; font-weight: 500;">${radicalReading}</span></p>
+                        <p style="margin:0;"><strong>Nghĩa:</strong> ${radicalMean}</p>
+                        <p style="margin:0;"><strong>Số nét:</strong> ${radicalStrokes}</p>
+                    </div>
+                    ${radicalAnim ? `<img src="${radicalAnim}" alt="Radical illustration" style="width: 50px; height: 50px; object-fit: contain;">` : ''}
+                </div>
+            </div>
+        `;
+    }
+
+    return `
+        <h3 style="margin: 0 0 5px 0; font-size: 28px; color: #37474F;">${kanji}</h3>
+        ${taughtIn ? `<p style="margin: 0 0 2px 0; font-size: 14px; font-weight: bold; color: #37474F;">Kanji thông dụng, Học ở ${taughtIn.replace('grade ', 'lớp ')}</p>` : ''}
+        <p style="margin: 5px 0 10px 0; font-size: 14px;"><strong>Cấp độ JLPT:</strong> <span style="color: #D32F2F; font-weight: 500;">${jlpt}</span></p>
+        ${freq ? `<p style="margin: 0 0 10px 0; font-size: 14px;">Hạng <strong>${freq}</strong> / 2500 kanji phổ biến trên báo</p>` : ''}
+        <p style="margin: 0 0 10px 0; font-size: 14px;"><strong>Số nét:</strong> ${strokes}</p>
+        <p style="margin: 0 0 10px 0; font-size: 14px;"><strong>Nghĩa:</strong> ${meaning}</p>
+        <p style="margin: 0 0 5px 0; font-size: 14px;"><strong>Âm Kun:</strong> <span style="color: #D32F2F; font-weight: 500;">${kunyomi}</span></p>
+        <p style="margin: 0 0 15px 0; font-size: 14px;"><strong>Âm On:</strong> <span style="color: #D32F2F; font-weight: 500;">${onyomi}</span></p>
+        <div style="margin-bottom: 15px; text-align: center;">
+            ${mediaHtml}
+        </div>
+        ${radicalBlock}
+        ${examplesHtml}
+    `;
+}
 function initHeroAndGraph() {
     const circleBox = document.getElementById("circleBox");
     if (!circleBox) return;
@@ -14,7 +130,8 @@ function initHeroAndGraph() {
         if (searchBox) searchBox.classList.add("step1-circle", "step3-bar", "loaded");
         if (searchInnerCircle) searchInnerCircle.classList.add("step2-spin", "step3-move");
         if (searchInput) searchInput.classList.add("step4-show");
-        
+        const modeWrapper = document.getElementById("modeWrapper");
+        if (modeWrapper) modeWrapper.classList.add("step4-show");
         const graphContainer = document.getElementById("graph-container");
         const appTitle = document.getElementById("appTitle");
         const visitCounter = document.getElementById("visitCounter");
@@ -27,8 +144,6 @@ function initHeroAndGraph() {
         if (feedbackBox) feedbackBox.classList.add("show");
         if (toolBar) toolBar.classList.add("show");
         
-        const filterBox = document.getElementById("filterBox");
-        if (filterBox) filterBox.classList.add("show");
         renderKanjiGraph(sampleData);
         setupSearchHandlers();
         
@@ -81,14 +196,15 @@ function initHeroAndGraph() {
 
                     setTimeout(function() {
                         searchInput.classList.add("step4-show");
+                        const modeWrapper = document.getElementById("modeWrapper");
+                        if (modeWrapper) modeWrapper.classList.add("step4-show");
                         
                         setTimeout(function() {
                             document.getElementById("graph-container").classList.add("show");
                             document.getElementById("appTitle").classList.add("show");
                             document.getElementById("visitCounter").classList.add("show");
                             document.getElementById("feedbackBox").classList.add("show");
-                            const filterBox = document.getElementById("filterBox");
-                            if (filterBox) filterBox.classList.add("show");
+                            
                             const toolBar = document.getElementById("toolBarWrapper");
                             if (toolBar) {
                                 toolBar.classList.add("show");
@@ -122,7 +238,34 @@ function setupSearchHandlers() {
     const searchInnerCircle = document.getElementById("searchInnerCircle");
     const magnifierIcon = document.getElementById("magnifierIcon");
     const closeBtn = document.getElementById("closeBtn");
+    window.currentSearchMode = 'radical';
+    const modeWrapper = document.getElementById("modeWrapper");
+    const modeText = document.getElementById("modeText");
 
+    if (modeWrapper) {
+        modeWrapper.addEventListener("click", function() {
+            if (modeWrapper.classList.contains("animating")) return;
+            modeWrapper.classList.add("animating");
+            const nextMode = window.currentSearchMode === 'radical' ? 'vocab' : 'radical';
+            modeWrapper.setAttribute("data-mode", nextMode);
+            modeWrapper.classList.add("collapsed");
+            setTimeout(() => {
+                window.currentSearchMode = nextMode;
+                if (nextMode === 'vocab') {
+                    modeText.textContent = "Từ vựng";
+                    searchInput.placeholder = "Nhập Kanji cần tra...";
+                } else {
+                    modeText.textContent = "Bộ thủ";
+                    searchInput.placeholder = "Nhập Bộ thủ cần tra...";
+                }
+                modeWrapper.classList.remove("collapsed");
+                setTimeout(() => {
+                    modeWrapper.classList.remove("animating");
+                    searchInput.focus();
+                }, 300); 
+            }, 300); 
+        });
+    }
     function performSearch() {
         const keyword = searchInput.value.trim();
         if (!keyword) return;
@@ -130,13 +273,15 @@ function setupSearchHandlers() {
         searchBox.classList.add("searching");
         searchBox.classList.remove("loaded");
         searchInput.blur();
+        searchInput.disabled = true;
+        const modeWrapper = document.getElementById("modeWrapper");
+        if (modeWrapper) modeWrapper.classList.add("hidden-mode");
         searchInnerCircle.innerHTML = '';
         const spinner = document.createElementNS("http://www.w3.org/2000/svg", "svg");
         spinner.setAttribute("viewBox", "0 0 50 50");
         spinner.setAttribute("width", "22");
         spinner.setAttribute("height", "22");
         spinner.setAttribute("style", "overflow: visible;");
-        
         const circle = document.createElementNS("http://www.w3.org/2000/svg", "circle");
         circle.setAttribute("cx", "25");
         circle.setAttribute("cy", "25");
@@ -146,31 +291,40 @@ function setupSearchHandlers() {
         circle.setAttribute("stroke-width", "3");
         circle.setAttribute("stroke-dasharray", "31.4, 31.4");
         circle.setAttribute("stroke-linecap", "round");
-        
         spinner.appendChild(circle);
         searchInnerCircle.appendChild(spinner);
-
-        constructNodeTree(keyword).then(searchData => {
+        let treePromise;
+        if (window.currentSearchMode === 'radical') {
+            treePromise = constructRadicalNodeTree(keyword);
+        } else {
+            treePromise = constructNodeTree(keyword);
+        }
+        treePromise.then(searchData => {
             if (searchData && searchData.nodes.length > 0) {
                 document.getElementById("graph-container").innerHTML = "";
                 renderKanjiGraph(searchData, keyword);
                 
-                    searchBox.classList.add("loaded", "show-close");
-                    searchInnerCircle.innerHTML = `<svg viewBox="0 0 24 24" width="22" height="22" stroke="#333" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" id="magnifierIcon">
-                        <circle cx="8.5" cy="8.5" r="5"></circle>
-                        <line x1="12" y1="12" x2="19" y2="19"></line>
-                    </svg>`;
-                    
+                searchBox.classList.add("loaded", "show-close");
+                searchInnerCircle.innerHTML = `<svg viewBox="0 0 24 24" width="22" height="22" stroke="#333" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round" id="magnifierIcon">
+                    <circle cx="8.5" cy="8.5" r="5"></circle>
+                    <line x1="12" y1="12" x2="19" y2="19"></line>
+                </svg>`;
+                
+                if (window.currentSearchMode !== 'radical') {
                     document.getElementById("vocabDropContainer").style.display = "block";
                     setTimeout(() => {
                         document.getElementById("vocabBtn").classList.add("show-drop");
                     }, 100);
                     renderVocabList();
+                } else {
+                    document.getElementById("vocabDropContainer").style.display = "none";
+                }
             } else {
                 alert("Không tìm thấy dữ liệu cho: " + keyword);
                 resetSearch();
             }
-        }).catch(() => {
+        }).catch((err) => {
+            console.error("Lỗi khi tìm kiếm:", err);
             resetSearch();
         });
     }
@@ -186,6 +340,9 @@ function setupSearchHandlers() {
             <line x1="12" y1="12" x2="19" y2="19"></line>
         </svg>`;
         searchInput.value = "";
+        searchInput.disabled = false;
+        const modeWrapper = document.getElementById("modeWrapper");
+        if (modeWrapper) modeWrapper.classList.remove("hidden-mode");
 
         document.getElementById("vocabBtn").classList.remove("show-drop", "active");
         document.getElementById("vocabList").classList.remove("step1-width", "step2-height");
@@ -210,9 +367,12 @@ function setupSearchHandlers() {
 
     searchInnerCircle.addEventListener("click", () => {
         if (searchBox.classList.contains("loaded")) {
-            searchBox.classList.remove("searching", "show-close", "loaded");
+            searchBox.classList.remove("searching", "loaded");
             searchInput.value = "";
+            searchInput.disabled = false;
             searchInput.focus();
+            const modeWrapper = document.getElementById("modeWrapper");
+            if (modeWrapper) modeWrapper.classList.remove("hidden-mode");
         } else {
             clearTimeout(searchTimeout);
             searchTimeout = setTimeout(() => {
@@ -419,30 +579,37 @@ const sampleTooltips = {
 };
 
 Object.assign(window.wordDetailsCache, sampleTooltips);
-
 function renderKanjiGraph(data, searchKeyword = null) {
     const container = document.getElementById("graph-container");
     container.innerHTML = "";
-
     const width = window.innerWidth;
     const height = window.innerHeight;
     const innerWidth = width * 0.95;
     const innerHeight = height * 0.95;
-
     const linksData = data.links.map(d => ({ ...d }));
     const nodesData = data.nodes.map(d => ({ ...d }));
-
     const isMobile = window.innerWidth <= 768;
-
-    const simulation = d3.forceSimulation(nodesData)
-        .force("link", d3.forceLink(linksData).id(d => d.id).distance(isMobile ? 80 : 130))
-        .force("charge", d3.forceManyBody().strength(isMobile ? -600 : -1100))
-        .force("center", d3.forceCenter(0, 0))
-        .force("x", d3.forceX().strength(isMobile ? 0.15 : 0.1))
-        .force("y", d3.forceY().strength(isMobile ? 0.05 : 0.1))
-        .force("collision", d3.forceCollide().radius(isMobile ? 35 : 50))
-        .alphaDecay(0.01);
-
+    const isRadical = (data !== sampleData) && (window.currentSearchMode === 'radical');
+    let simulation;
+    if (isRadical) {
+        const radiusStep = isMobile ? 70 : 110; 
+        simulation = d3.forceSimulation(nodesData)
+            .force("link", d3.forceLink(linksData).id(d => d.id).distance(isMobile ? 30 : 50))
+            .force("charge", d3.forceManyBody().strength(isMobile ? -400 : -800))
+            .force("radial", d3.forceRadial(d => (d.level || 0) * radiusStep, 0, 0).strength(0.5))
+            .force("center", d3.forceCenter(0, 0))
+            .force("collision", d3.forceCollide().radius(isMobile ? 30 : 45))
+            .alphaDecay(0.01);
+    } else {
+        simulation = d3.forceSimulation(nodesData)
+            .force("link", d3.forceLink(linksData).id(d => d.id).distance(isMobile ? 80 : 130))
+            .force("charge", d3.forceManyBody().strength(isMobile ? -600 : -1100))
+            .force("center", d3.forceCenter(0, 0))
+            .force("x", d3.forceX().strength(isMobile ? 0.15 : 0.1))
+            .force("y", d3.forceY().strength(isMobile ? 0.05 : 0.1))
+            .force("collision", d3.forceCollide().radius(isMobile ? 35 : 50))
+            .alphaDecay(0.01);
+    }
     const svg = d3.select("#graph-container")
         .append("svg")
         .attr("width", innerWidth)
@@ -461,13 +628,100 @@ function renderKanjiGraph(data, searchKeyword = null) {
         svg.call(zoom);
         svg.call(zoom.transform, d3.zoomIdentity.translate(0, 0).scale(0.7));
     }
+    const linkGroup = g.append("g").attr("class", "links-layer");
+    let link;
+    let pulseLink = null;
 
-    const link = g.append("g")
-        .selectAll("line")
-        .data(linksData)
-        .join("line")
-        .attr("class", "link");
+    if (isRadical) {
+        window.flowLevel = {};
+        const rootId = nodesData.find(n => n.level === 0)?.id;
 
+        if (rootId) {
+            window.flowLevel[rootId] = 0;
+            let changed = true;
+            while (changed) {
+                changed = false;
+                linksData.forEach(d => {
+                    const sId = (typeof d.source === 'object') ? d.source.id : d.source;
+                    const tId = (typeof d.target === 'object') ? d.target.id : d.target;
+                    if (window.flowLevel[tId] !== undefined && window.flowLevel[sId] === undefined) {
+                        window.flowLevel[sId] = window.flowLevel[tId] - 1;
+                        changed = true;
+                    }
+                    if (window.flowLevel[sId] !== undefined && window.flowLevel[tId] === undefined) {
+                        window.flowLevel[tId] = window.flowLevel[sId] + 1;
+                        changed = true;
+                    }
+                });
+            }
+            nodesData.forEach(n => {
+                if (window.flowLevel[n.id] === undefined) window.flowLevel[n.id] = 0;
+            });
+            const minLevel = Math.min(...Object.values(window.flowLevel));
+            Object.keys(window.flowLevel).forEach(key => {
+                window.flowLevel[key] = window.flowLevel[key] - minLevel;
+            });
+        }
+        
+        const maxFlow = Math.max(...Object.values(window.flowLevel), 1);
+        const totalSteps = maxFlow + 1; 
+        const stepTime = 1.5; 
+        const activePercent = (1 / totalSteps) * 100;
+        
+        let dynamicStyle = document.getElementById("dynamic-beam-style");
+        if (!dynamicStyle) {
+            dynamicStyle = document.createElement("style");
+            dynamicStyle.id = "dynamic-beam-style";
+            document.head.appendChild(dynamicStyle);
+        }
+        
+        dynamicStyle.innerHTML = `
+            .energy-beam { animation: beamTravel ${totalSteps * stepTime}s infinite linear; }
+            .node-glow-ring { animation: nodePulse ${totalSteps * stepTime}s infinite ease-out; }
+            @keyframes beamTravel {
+                0% { stroke-dashoffset: 20; opacity: 0; }
+                2% { opacity: 1; }
+                ${activePercent - 2}% { opacity: 1; }
+                ${activePercent}% { stroke-dashoffset: -100; opacity: 0; }
+                100% { stroke-dashoffset: -100; opacity: 0; }
+            }
+            @keyframes nodePulse {
+                0% { opacity: 1; transform: scale(1); stroke-width: 6px; }
+                ${activePercent}% { opacity: 0; transform: scale(2.5); stroke-width: 1px; }
+                100% { opacity: 0; }
+            }
+        `;
+
+        link = linkGroup.selectAll("line.base-link")
+            .data(linksData)
+            .join("line")
+            .attr("class", "base-link link")
+            .style("stroke-dasharray", "4,4")
+            .style("stroke-opacity", "0.3");
+
+        pulseLink = linkGroup.selectAll("line.energy-beam")
+            .data(linksData)
+            .join("line")
+            .attr("class", "energy-beam")
+            .attr("pathLength", "100")
+            .style("animation-delay", d => {
+                const sId = (typeof d.source === 'object') ? d.source.id : d.source;
+                let step = window.flowLevel[sId];
+                return `${step * stepTime}s`;
+            });
+    } else {
+        link = linkGroup.selectAll("line")
+            .data(linksData)
+            .join("line")
+            .attr("class", "link");
+    }
+    const linkedByIndex = {};
+    linksData.forEach(d => {
+        const sId = (typeof d.source === 'object') ? d.source.id : d.source;
+        const tId = (typeof d.target === 'object') ? d.target.id : d.target;
+        linkedByIndex[`${sId},${tId}`] = true;
+        linkedByIndex[`${tId},${sId}`] = true; 
+    });
     const node = g.append("g")
         .attr("class", "nodes")
         .selectAll(".node")
@@ -478,21 +732,67 @@ function renderKanjiGraph(data, searchKeyword = null) {
         .call(d3.drag()
             .on("start", dragstarted)
             .on("drag", dragged)
-            .on("end", dragended));
-
+            .on("end", dragended))
+        .on("mouseenter", function(event, d) {
+            link.transition().duration(300).style("stroke-opacity", l => {
+                const sId = (typeof l.source === 'object') ? l.source.id : l.source;
+                const tId = (typeof l.target === 'object') ? l.target.id : l.target;
+                return (sId === d.id || tId === d.id) ? 1 : 0.05;
+            });
+            if (isRadical && pulseLink) {
+                pulseLink.style("visibility", l => {
+                    const sId = (typeof l.source === 'object') ? l.source.id : l.source;
+                    const tId = (typeof l.target === 'object') ? l.target.id : l.target;
+                    return (sId === d.id || tId === d.id) ? "visible" : "hidden";
+                });
+            }
+            node.transition().duration(300).style("opacity", n => {
+                const isConn = (n.id === d.id) || linkedByIndex[`${d.id},${n.id}`];
+                return isConn ? 1 : 0.15;
+            });
+        })
+        .on("mouseleave", function(event, d) {
+            link.transition().duration(300).style("stroke-opacity", isRadical ? 0.3 : null); 
+            if (isRadical && pulseLink) {
+                pulseLink.style("visibility", "visible");
+            }
+            node.transition().duration(300).style("opacity", 1);
+        });
+    if (isRadical) {
+        node.append("circle")
+            .attr("class", "node-glow-ring")
+            .attr("cx", 0).attr("cy", 0)
+            .attr("r", d => {
+                const lvl = d.level || 0;
+                if (lvl === 0) return 16;
+                if (lvl === 1) return 12;
+                return 8;
+            })
+            .style("animation-delay", d => {
+                let step = window.flowLevel[d.id] || 0;
+                return `${step * 1.5}s`;
+            });
+    }
     node.append("circle")
-    .attr("r", d => {
-        if (d.level === 0 || d.level === 1) {
-            return 12;
-        }
-        return 7;
-    });
-
+        .attr("r", d => {
+            if (isRadical) {
+                if (d.level === 0) return 12;
+                if (d.level === 1) return 9;
+                return 6;
+            } else {
+                if (d.level === 0 || d.level === 1) return 12;
+                return 7;
+            }
+        });
     node.each(function(d) {
         const t = d3.select(this).append("g").attr("transform", "translate(12,-12)");
         const textElement = t.append("text")
             .on("click", () => {
-                fetchKanjiInfo(d.kanji);
+                if (window.currentSearchMode === 'radical') {
+                    fetchRadicalKanjiInfo(d.kanji);
+                } else {
+                    fetchKanjiInfo(d.kanji);
+                }
             })
             .on("mousemove", (event) => {
                 showTooltip(event, d.kanji);
@@ -508,7 +808,6 @@ function renderKanjiGraph(data, searchKeyword = null) {
                 .text(d.kanji[i]);
         }
     });
-
     setTimeout(() => {
         document.querySelectorAll("#graph-container tspan").forEach(tspan => {
             const charClass = tspan.getAttribute("class");
@@ -533,7 +832,6 @@ function renderKanjiGraph(data, searchKeyword = null) {
             tspan.addEventListener("mouseleave", handleMouseLeave);
         });
     }, 500);
-
     simulation.on("tick", () => {
         const radius = 60;
         const minX = -innerWidth / 2 + radius;
@@ -554,6 +852,14 @@ function renderKanjiGraph(data, searchKeyword = null) {
             .attr("y1", d => d.source.y)
             .attr("x2", d => d.target.x)
             .attr("y2", d => d.target.y);
+
+        if (isRadical && pulseLink) {
+            pulseLink
+                .attr("x1", d => d.source.x)
+                .attr("y1", d => d.source.y)
+                .attr("x2", d => d.target.x)
+                .attr("y2", d => d.target.y);
+        }
     });
 
     setInterval(() => {
@@ -564,7 +870,6 @@ function renderKanjiGraph(data, searchKeyword = null) {
             }, 3000);
         }
     }, 10000);
-
     function dragstarted(event) {
         if (!event.active) simulation.alphaTarget(0.3).restart();
         event.subject.fx = event.subject.x;
@@ -618,14 +923,11 @@ function fetchKanjiInfo(kanji) {
             signal: controller.signal
         }).then(res => res.json());
 
-        const kanjiChars = kanji.match(/[\u4e00-\u9faf]/g) || [];
+        const kanjiChars = [...new Set(kanji.match(/[\u4e00-\u9faf]/g) || [])];
         const kanjiPromises = kanjiChars.map(k => 
-            fetch(endpoint, {
-                method: "POST",
-                headers: { "Content-Type": "application/json" },
-                body: JSON.stringify({ dict: "javi", type: "kanji", query: k }),
-                signal: controller.signal
-            }).then(res => res.json())
+            fetch(`data/kanji/${k}.json`)
+                .then(res => res.ok ? res.json() : null)
+                .catch(() => null)
         );
 
         Promise.all([wordPromise, ...kanjiPromises])
@@ -657,13 +959,10 @@ function fetchKanjiInfo(kanji) {
                     let kunK = "Chưa có dữ liệu";
                     const kData = kanjiDatas[index];
 
-                    if (kData.results && kData.results.length > 0) {
-                        const detail = kData.results[0];
-                        nghiaK = detail.mean || nghiaK;
-                        onK = detail.on || onK;
-                        kunK = detail.kun || kunK;
+                    if (kData) {
+                        return { char: k, html: generateKanjiFullHtml(k, kData) };
                     }
-                    return { char: k, nghia: nghiaK, on: onK, kun: kunK };
+                    return { char: k, html: '<p>Không tìm thấy dữ liệu.</p>' };
                 });
 
                 const tabsHtml = window.currentKanjiData.map((k, i) => 
@@ -672,10 +971,8 @@ function fetchKanjiInfo(kanji) {
 
                 const firstK = window.currentKanjiData[0];
                 const detailHtml = `
-                    <div id="kanjiDetailContent" class="kanji-detail-content">
-                        <p style="margin: 0 0 6px 0; font-size: 14px;"><strong>Nghĩa:</strong> <span id="kMean">${firstK.nghia}</span></p>
-                        <p style="margin: 0 0 6px 0; font-size: 14px;"><strong>Onyomi:</strong> <span id="kOn">${firstK.on}</span></p>
-                        <p style="margin: 0; font-size: 14px;"><strong>Kunyomi:</strong> <span id="kKun">${firstK.kun}</span></p>
+                    <div id="kanjiDetailContent" class="kanji-detail-content" style="margin-top: 15px;">
+                        ${firstK.html}
                     </div>
                 `;
 
@@ -691,9 +988,9 @@ function fetchKanjiInfo(kanji) {
             }
 
             const finalHtml = `
-                <div style="padding: 20px; font-family: sans-serif; color: #333; position: relative;">
-                    <button onclick="document.getElementById('infoBox').className='info-box'" style="position: absolute; right: 15px; top: 15px; border: none; background: none; font-size: 18px; cursor: pointer; color: #888;" title="Đóng">✕</button>
-                    <button onclick="openErrorModal('${kanji}')" style="position: absolute; right: 45px; top: 16px; border: none; background: none; cursor: pointer;" title="Báo cáo lỗi">
+                <div style="padding: 20px; font-family: sans-serif; color: #333; position: relative; max-height: calc(100vh - 120px); overflow-y: auto; scroll-behavior: smooth; box-sizing: border-box;">
+                    <button onclick="document.getElementById('infoBox').className='info-box'" style="position: absolute; right: 15px; top: 15px; border: none; background: none; font-size: 18px; cursor: pointer; color: #888; z-index: 10;" title="Đóng">✕</button>
+                    <button onclick="openErrorModal('${kanji}')" style="position: absolute; right: 45px; top: 16px; border: none; background: none; cursor: pointer; z-index: 10;" title="Báo cáo lỗi">
                         <svg viewBox="0 0 24 24" width="18" height="18" stroke="#888" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
                             <path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"></path>
                             <line x1="12" y1="9" x2="12" y2="13"></line>
@@ -701,8 +998,8 @@ function fetchKanjiInfo(kanji) {
                         </svg>
                     </button>
                     <h3 style="margin: 0 0 5px 0; font-size: 28px; color: #37474F;">${kanji}</h3>
-                    <p style="margin: 0 0 15px 0; font-size: 16px; color: #D32F2F;">【 ${cachDoc} 】</p>
-                    <p style="margin: 8px 0; font-size: 15px; line-height: 1.5; max-height: 80px; overflow-y: auto;"><strong>Nghĩa:</strong> ${nghiaWord}</p>
+                    <p style="margin: 0 0 15px 0; font-size: 16px; color: #D32F2F; font-weight: 500;">【 ${cachDoc} 】</p>
+                    <p style="margin: 8px 0; font-size: 15px; line-height: 1.5;"><strong>Nghĩa:</strong> ${nghiaWord}</p>
                     ${kanjiHtml}
                 </div>
             `;
@@ -736,13 +1033,81 @@ function fetchKanjiInfo(kanji) {
     }, 300);
 }
 
+function fetchRadicalKanjiInfo(kanji) {
+    const infoBox = document.getElementById("infoBox");
+    const infoContent = document.getElementById("infoContent");
+    
+    window.radicalKanjiCache = window.radicalKanjiCache || {};
+    infoBox.className = "info-box step1-circle";
+    infoContent.innerHTML = `
+        <div style="width:50px; height:50px; display:flex; justify-content:center; align-items:center;">
+            <svg viewBox="0 0 50 50" width="22" height="22" style="animation: spinLoader 2s linear infinite;">
+                <circle cx="25" cy="25" r="20" fill="none" stroke="#333" stroke-width="3" stroke-dasharray="31.4, 31.4" stroke-linecap="round"></circle>
+            </svg>
+        </div>`;
+
+    setTimeout(() => {
+        infoBox.classList.add("step2-width");
+        
+        if (window.radicalKanjiCache[kanji]) {
+            setTimeout(() => {
+                infoContent.innerHTML = window.radicalKanjiCache[kanji];
+                infoBox.classList.add("step3-height");
+            }, 200);
+            return;
+        }
+
+        fetch('data/kanji/' + kanji + '.json')
+            .then(res => {
+                if (!res.ok) throw new Error("Not found");
+                return res.json();
+            })
+            .then(data => {
+                const ka = data.kanjialiveData || {};
+                const ji = data.jishoData || {};
+                
+                const finalHtml = `
+                    <div style="padding: 20px; font-family: sans-serif; color: #333; position: relative; max-height: calc(100vh - 120px); overflow-y: auto; scroll-behavior: smooth; box-sizing: border-box;">
+                        <button onclick="document.getElementById('infoBox').className='info-box'" style="position: absolute; right: 15px; top: 15px; border: none; background: none; font-size: 18px; cursor: pointer; color: #888; z-index: 10;" title="Đóng">✕</button>
+                        <button onclick="openErrorModal('${kanji}')" style="position: absolute; right: 45px; top: 16px; border: none; background: none; cursor: pointer; z-index: 10;" title="Báo cáo lỗi">
+                            <svg viewBox="0 0 24 24" width="18" height="18" stroke="#888" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"></path>
+                                <line x1="12" y1="9" x2="12" y2="13"></line>
+                                <line x1="12" y1="17" x2="12.01" y2="17"></line>
+                            </svg>
+                        </button>
+                        ${generateKanjiFullHtml(kanji, data)}
+                    </div>
+                `;
+
+                window.radicalKanjiCache[kanji] = finalHtml;
+                
+                setTimeout(() => {
+                    infoContent.innerHTML = finalHtml;
+                    infoBox.classList.add("step3-height");
+                }, 200); // Small delay to let width transition finish
+            })
+            .catch(err => {
+                const errorHtml = `
+                    <div style="padding: 20px; font-family: sans-serif; position: relative;">
+                        <button onclick="document.getElementById('infoBox').className='info-box'" style="position: absolute; right: 15px; top: 15px; border: none; background: none; font-size: 18px; cursor: pointer; color: #888;">✕</button>
+                        <h3 style="margin: 0 0 15px 0; font-size: 28px; color: #37474F;">${kanji}</h3>
+                        <p style="color: red;">Không tìm thấy dữ liệu nội bộ cho chữ Hán này.</p>
+                    </div>
+                `;
+                setTimeout(() => {
+                    infoContent.innerHTML = errorHtml;
+                    infoBox.classList.add("step3-height");
+                }, 200);
+            });
+    }, 300);
+}
+
 function switchKanjiTab(index) {
     const data = window.currentKanjiData[index];
     if (!data) return;
 
-    document.getElementById('kMean').textContent = data.nghia;
-    document.getElementById('kOn').textContent = data.on;
-    document.getElementById('kKun').textContent = data.kun;
+    document.getElementById('kanjiDetailContent').innerHTML = data.html;
 
     const tabs = document.querySelectorAll('.kanji-tab');
     tabs.forEach((tab, i) => {
@@ -1871,3 +2236,66 @@ document.addEventListener("DOMContentLoaded", function() {
     initFlashcardTools();
     initSmoothPageTransitions();
 });
+window.compositionData = null;
+window.searchListData = null;
+
+async function loadRadicalData() {
+    if (window.compositionData && window.searchListData) return;
+    try {
+        const [compRes, searchRes] = await Promise.all([
+            fetch('data/composition.json'),
+            fetch('data/searchlist.json')
+        ]);
+        window.compositionData = await compRes.json();
+        window.searchListData = await searchRes.json();
+    } catch (error) {
+        console.error("Lỗi tải file dữ liệu JSON bộ thủ:", error);
+    }
+}
+async function constructRadicalNodeTree(rootKeyword) {
+    await loadRadicalData(); 
+
+    const nodesMap = new Map();
+    const links = [];
+    function buildGraph(char, currentDepth, direction = "both") {
+        if (!char) return;
+        if (!nodesMap.has(char)) {
+            let meaning = "Bộ thủ / Thành phần";
+            if (window.searchListData) {
+                const info = window.searchListData.find(item => item.k === char);
+                if (info) meaning = info.m;
+            }
+            window.wordDetailsCache[char] = { phonetic: "", mean: meaning };
+            nodesMap.set(char, { id: char, kanji: char, level: currentDepth, type: direction });
+        } else {
+            return;
+        }
+
+        const compInfo = window.compositionData ? window.compositionData[char] : null;
+        if (!compInfo) return;
+        const maxOutNodes = window.innerWidth <= 768 ? 4 : 8;
+        if ((direction === "both" || direction === "in") && compInfo.in && compInfo.in.length > 0) {
+            compInfo.in.forEach(component => {
+                if (component) {
+                    links.push({ source: component, target: char });
+                    buildGraph(component, currentDepth + 1, "in");
+                }
+            });
+        }
+        if ((direction === "both" || direction === "out") && compInfo.out && compInfo.out.length > 0) {
+            const outList = compInfo.out.slice(0, maxOutNodes); 
+            outList.forEach(outChar => {
+                if (outChar) {
+                    links.push({ source: char, target: outChar });
+                    buildGraph(outChar, currentDepth + 1, "stop");
+                }
+            });
+        }
+    }
+    buildGraph(rootKeyword, 0, "both");
+
+    return {
+        nodes: Array.from(nodesMap.values()),
+        links: links
+    };
+}
